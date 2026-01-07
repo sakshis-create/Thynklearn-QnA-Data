@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.25",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Fantastic Shops"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the name of the rabbit who owns the shop '24 Carrots'?",
+      "options": [
+        { "option_id": 1, "text": "Jamie", "is_correct": false },
+        { "option_id": 2, "text": "Saras the Sasa", "is_correct": true },
+        { "option_id": 3, "text": "Guna-aji", "is_correct": false },
+        { "option_id": 4, "text": "Delhi", "is_correct": false }
+      ],
+      "answer": "Saras the Sasa"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which vitamins are the carrot-based foods at '24 Carrots' loaded with?",
+      "options": [
+        { "option_id": 1, "text": "Vitamins A, B, and C", "is_correct": true },
+        { "option_id": 2, "text": "Vitamins D and E", "is_correct": false },
+        { "option_id": 3, "text": "Vitamin K only", "is_correct": false },
+        { "option_id": 4, "text": "Vitamin B12", "is_correct": false }
+      ],
+      "answer": "Vitamins A, B, and C"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why does Saras say rabbits don't wear glasses?",
+      "options": [
+        { "option_id": 1, "text": "They have surgery", "is_correct": false },
+        { "option_id": 2, "text": "They sleep a lot", "is_correct": false },
+        { "option_id": 3, "text": "They eat carrots and greens", "is_correct": true },
+        { "option_id": 4, "text": "Glasses don't fit them", "is_correct": false }
+      ],
+      "answer": "They eat carrots and greens"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "When does Saras the Sasa get Delhi carrots?",
+      "options": [
+        { "option_id": 1, "text": "Summer months", "is_correct": false },
+        { "option_id": 2, "text": "Winter months", "is_correct": true },
+        { "option_id": 3, "text": "All year round", "is_correct": false },
+        { "option_id": 4, "text": "Monsoon", "is_correct": false }
+      ],
+      "answer": "Winter months"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who owns the Underwater Marine Curio shop?",
+      "options": [
+        { "option_id": 1, "text": "Miss Octopus", "is_correct": false },
+        { "option_id": 2, "text": "Saras", "is_correct": false },
+        { "option_id": 3, "text": "Jamie Jellyfish", "is_correct": true },
+        { "option_id": 4, "text": "Guna-aji", "is_correct": false }
+      ],
+      "answer": "Jamie Jellyfish"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where is Jamie Jellyfish's shop located?",
+      "options": [
+        { "option_id": 1, "text": "On a mountain", "is_correct": false },
+        { "option_id": 2, "text": "At the bottom of a coral reef", "is_correct": true },
+        { "option_id": 3, "text": "In Green Valley", "is_correct": false },
+        { "option_id": 4, "text": "Under a banyan tree", "is_correct": false }
+      ],
+      "answer": "At the bottom of a coral reef"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What kind of watch does the turtle desperately need?",
+      "options": [
+        { "option_id": 1, "text": "A gold watch", "is_correct": false },
+        { "option_id": 2, "text": "A waterproof watch", "is_correct": false },
+        { "option_id": 3, "text": "An air-proof watch", "is_correct": true },
+        { "option_id": 4, "text": "A sand-proof watch", "is_correct": false }
+      ],
+      "answer": "An air-proof watch"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the name of Granny Gunabai's shop?",
+      "options": [
+        { "option_id": 1, "text": "The Toy Shop", "is_correct": false },
+        { "option_id": 2, "text": "Granny's Dream Shop", "is_correct": true },
+        { "option_id": 3, "text": "24 Carrots", "is_correct": false },
+        { "option_id": 4, "text": "Marine Curio Shop", "is_correct": false }
+      ],
+      "answer": "Granny Gunabai's Dream Shop"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does Guna-aji require as payment for her goods?",
+      "options": [
+        { "option_id": 1, "text": "Gold coins", "is_correct": false },
+        { "option_id": 2, "text": "A word of honour/promise", "is_correct": true },
+        { "option_id": 3, "text": "Carrots", "is_correct": false },
+        { "option_id": 4, "text": "Shells", "is_correct": false }
+      ],
+      "answer": "A word of honour/promise"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What happens if a child breaks their promise to Guna-aji?",
+      "options": [
+        { "option_id": 1, "text": "They pay a fine", "is_correct": false },
+        { "option_id": 2, "text": "The goods come back to her", "is_correct": true },
+        { "option_id": 3, "text": "The shop closes", "is_correct": false },
+        { "option_id": 4, "text": "They can never come back", "is_correct": false }
+      ],
+      "answer": "The goods come back to her"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of these items is found in the '24 Carrots' shop?",
+      "options": [
+        { "option_id": 1, "text": "Potted seaweed", "is_correct": false },
+        { "option_id": 2, "text": "Carrot halwa", "is_correct": true },
+        { "option_id": 3, "text": "Pink shell bracelet", "is_correct": false },
+        { "option_id": 4, "text": "Astro Scientist kit", "is_correct": false }
+      ],
+      "answer": "Carrot halwa"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How old does Guna-aji claim to be?",
+      "options": [
+        { "option_id": 1, "text": "100 years old", "is_correct": false },
+        { "option_id": 2, "text": "Old enough to have seen the child's great-great-great-grandfather", "is_correct": true },
+        { "option_id": 3, "text": "80 years old", "is_correct": false },
+        { "option_id": 4, "text": "She doesn't say", "is_correct": false }
+      ],
+      "answer": "Old enough to have seen the child's great-great-great-grandfather"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does the word 'curios' mean?",
+      "options": [
+        { "option_id": 1, "text": "Something very tasty", "is_correct": false },
+        { "option_id": 2, "text": "Small, interesting things or objects", "is_correct": true },
+        { "option_id": 3, "text": "Very brave person", "is_correct": false },
+        { "option_id": 4, "text": "Only for one person", "is_correct": false }
+      ],
+      "answer": "Small, interesting things or objects"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does Guna-aji give the child who wants to be a 'braveheart'?",
+      "options": [
+        { "option_id": 1, "text": "A sword", "is_correct": false },
+        { "option_id": 2, "text": "A packet of self-confidence", "is_correct": true },
+        { "option_id": 3, "text": "A shield", "is_correct": false },
+        { "option_id": 4, "text": "A brave heart badge", "is_correct": false }
+      ],
+      "answer": "A packet of self-confidence"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What promise must the child who wants to travel to the stars make?",
+      "options": [
+        { "option_id": 1, "text": "To study hard", "is_correct": false },
+        { "option_id": 2, "text": "To always love and respect nature", "is_correct": true },
+        { "option_id": 3, "text": "To eat all their greens", "is_correct": false },
+        { "option_id": 4, "text": "To never laugh", "is_correct": false }
+      ],
+      "answer": "To always love and respect nature"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Where is Granny's shop located according to the text?",
+      "options": [
+        { "option_id": 1, "text": "Western Ghats", "is_correct": false },
+        { "option_id": 2, "text": "Deep Blue Sea", "is_correct": false },
+        { "option_id": 3, "text": "Cloud Nine, Beyond the Horizon", "is_correct": true },
+        { "option_id": 4, "text": "Sase Farm", "is_correct": false }
+      ],
+      "answer": "Cloud Nine, Beyond the Horizon"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does Jamie Jellyfish say about his shop and house?",
+      "options": [
+        { "option_id": 1, "text": "The shop is far away", "is_correct": false },
+        { "option_id": 2, "text": "The house is behind the shop", "is_correct": true },
+        { "option_id": 3, "text": "The shop is on top of the house", "is_correct": false },
+        { "option_id": 4, "text": "He has no house", "is_correct": false }
+      ],
+      "answer": "The house is behind the shop"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which of these is a carrot-based food mentioned?",
+      "options": [
+        { "option_id": 1, "text": "Carrot burgers", "is_correct": false },
+        { "option_id": 2, "text": "Carrot pudding", "is_correct": true },
+        { "option_id": 3, "text": "Carrot pasta", "is_correct": false },
+        { "option_id": 4, "text": "Carrot pizza", "is_correct": false }
+      ],
+      "answer": "Carrot pudding"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "In the phrase 'My charges are steep', what does 'steep' mean?",
+      "options": [
+        { "option_id": 1, "text": "A slope", "is_correct": false },
+        { "option_id": 2, "text": "Very high", "is_correct": true },
+        { "option_id": 3, "text": "Vertical", "is_correct": false },
+        { "option_id": 4, "text": "Cheap", "is_correct": false }
+      ],
+      "answer": "Very high"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is 'Cloud Nine' used to describe in the glossary?",
+      "options": [
+        { "option_id": 1, "text": "Being very happy", "is_correct": true },
+        { "option_id": 2, "text": "Flying high", "is_correct": false },
+        { "option_id": 3, "text": "Rainy weather", "is_correct": false },
+        { "option_id": 4, "text": "A specific location", "is_correct": false }
+      ],
+      "answer": "Being very happy"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who comes to Jamie Jellyfish for curios?",
+      "options": [
+        { "option_id": 1, "text": "Land animals", "is_correct": false },
+        { "option_id": 2, "text": "Deep-sea fish", "is_correct": true },
+        { "option_id": 3, "text": "Rabbits", "is_correct": false },
+        { "option_id": 4, "text": "Birds", "is_correct": false }
+      ],
+      "answer": "Deep-sea fish"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does Saras the Sasa love most?",
+      "options": [
+        { "option_id": 1, "text": "Cabbage", "is_correct": false },
+        { "option_id": 2, "text": "Carrots", "is_correct": true },
+        { "option_id": 3, "text": "Greens", "is_correct": false },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Carrots"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What does Miss Octopus want to try?",
+      "options": [
+        { "option_id": 1, "text": "A coral paperweight", "is_correct": false },
+        { "option_id": 2, "text": "A pink shell bracelet", "is_correct": true },
+        { "option_id": 3, "text": "Potted seaweed", "is_correct": false },
+        { "option_id": 4, "text": "An air-proof watch", "is_correct": false }
+      ],
+      "answer": "A pink shell bracelet"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is 'nutritious' defined as in the glossary?",
+      "options": [
+        { "option_id": 1, "text": "Very tasty", "is_correct": false },
+        { "option_id": 2, "text": "Good for your body and health", "is_correct": true },
+        { "option_id": 3, "text": "Easy to cook", "is_correct": false },
+        { "option_id": 4, "text": "Sweet and salty", "is_correct": false }
+      ],
+      "answer": "Good for your body and health"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is Guna-aji's dearest wish?",
+      "options": [
+        { "option_id": 1, "text": "To sell all her goods", "is_correct": false },
+        { "option_id": 2, "text": "To make children's dreams come true", "is_correct": true },
+        { "option_id": 3, "text": "To make the world eat carrots", "is_correct": false },
+        { "option_id": 4, "text": "To travel to the stars", "is_correct": false }
+      ],
+      "answer": "To make children's dreams come true"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who owns the carrot shop?",
+      "answer": "Saras the Sasa owns the carrot shop."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the name of the carrot shop?",
+      "answer": "The name of the shop is '24 Carrots'."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Where is the carrot shop located?",
+      "answer": "It is located under the banyan tree, on Sase Farm, Green Valley, Western Ghats."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "How many carrot-based foods does Saras offer?",
+      "answer": "Saras offers 24 carrot-based foods."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "List three carrot-based items mentioned in the shop.",
+      "answer": "Carrot halwa, carrot pudding, and carrot buns (or juice, diced carrots, etc.)."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Why did Saras set up the shop?",
+      "answer": "He set it up because he loves carrots and wants the whole world to eat them."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What vitamins are carrots loaded with according to Saras?",
+      "answer": "They are loaded with vitamins A, B, and C."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is Saras' dearest wish?",
+      "answer": "His dearest wish is to make the whole world eat carrots."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Why don't rabbits wear glasses, according to the text?",
+      "answer": "Because they eat carrots and greens."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What kind of carrots does the customer ask for in the first shop?",
+      "answer": "The customer asks for Delhi carrots."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Why are Delhi carrots not available in the carrot shop currently?",
+      "answer": "They are only available in the winter months."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Who is Jamie Jellyfish?",
+      "answer": "Jamie Jellyfish is the owner of the Underwater Marine Curio shop."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Where does Jamie Jellyfish live?",
+      "answer": "He lives right at the bottom of the coral reef."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is Jamie's address?",
+      "answer": "A-1, Coral Reef, Deep Blue Sea, Near Ocean Islands."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What three things can customers see around Jamie's shop?",
+      "answer": "They can see beautiful corals, colourful sea-weeds, and shells."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Why do deep-sea fish visit Jamie's shop?",
+      "answer": "They visit for curios to decorate homes, jewels for themselves, and toys for their children."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is special about the coral paperweight Jamie sells?",
+      "answer": "It is a nice little one and it is unbreakable."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What did the red crab character ask for in the curio shop?",
+      "answer": "The red crab asked for potted seaweed."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "How many bracelets does Jamie offer Miss Octopus?",
+      "answer": "He offers her a set of four."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Why does the turtle need an air-proof watch?",
+      "answer": "Because he has to go ashore the next day."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Who is Guna-aji?",
+      "answer": "She is the owner of Granny Gunabai's Dream Shop."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "For whom is Guna-aji's shop opened exclusively?",
+      "answer": "It is opened exclusively for children."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What does Guna-aji know about children?",
+      "answer": "She knows what they dream of."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What are the 'charges' for items in the Dream Shop?",
+      "answer": "The charges are a word of honour or a promise."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "List four dream items displayed in Granny's shop.",
+      "answer": "Master of English Spelling, Maths Wizard, Top Athlete, and Melody Queen."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the boy's dream in Guna-aji's shop?",
+      "answer": "His dream is to top his class in English."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What promise must the boy make to get the English books?",
+      "answer": "He must promise to read the books and do all the activities."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What does the 'braveheart' child promise to do?",
+      "answer": "The child promises to 'believe and achieve'."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does Guna-aji say about laughing at young friends?",
+      "answer": "She says she never laughs at her young friends."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What package does Guna-aji give the child who wants to reach the stars?",
+      "answer": "She gives a package to help reach the stars and beyond."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Where is Granny Gunabai's shop located?",
+      "answer": "It is at Cloud Nine, Beyond the Horizon, Fantasy Land."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does the word 'exclusively' mean?",
+      "answer": "It means only for a specific group (in this case, children)."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Define 'braveheart' based on the text.",
+      "answer": "A braveheart is a very brave person."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is 'delicious'?",
+      "answer": "Delicious means very tasty."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What does 'take your pick' mean?",
+      "answer": "It means to take anything you like."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does 'top my class' mean?",
+      "answer": "It means to get the highest marks or grades in the class."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does 'desperately' mean?",
+      "answer": "It describes someone who needs something very much."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What does 'nutritious' help your body to do?",
+      "answer": "It helps your body to grow."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'latest'?",
+      "answer": "Latest means newest."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'unbreakable'?",
+      "answer": "It means something that does not break."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What word is used in the shop addresses to indicate a specific location in the sea?",
+      "answer": "Coral Reef (or Deep Blue Sea)."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "In the carrot shop, what is the weight shown on the scale?",
+      "answer": "The weight shown is 1000 (likely grams)."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Which shop owner is a jellyfish?",
+      "answer": "Jamie Jellyfish is the shop owner."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is Guna-aji's short name?",
+      "answer": "Her short name is Guna-aji."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What does Saras the Sasa eat more than greens?",
+      "answer": "He eats more carrots than greens."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What does 'word of honour' mean in the context of Granny's shop?",
+      "answer": "It means keeping a promise."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What are 'greens'?",
+      "answer": "Greens are green vegetables."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "List two dream items in Guna-aji's shop related to sports.",
+      "answer": "Top Athlete and Best Cricketer."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Which character sells seaweed?",
+      "answer": "Jamie Jellyfish sells seaweed (potted seaweed)."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the main theme of Chapter 25?",
+      "answer": "The main theme is 'Fantastic Shops' and imagination."
+    }
+  ]
+}

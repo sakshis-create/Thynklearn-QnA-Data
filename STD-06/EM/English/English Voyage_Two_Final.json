@@ -1,0 +1,1215 @@
+{
+"voyage": "Voyage Two",
+"lessons": [
+"The Clothesline",
+"The Worth of a Fabric",
+"A Wall Magazine for your Class!",
+"Anak Krakatoa",
+"The Silver House",
+"Adwise Customers",
+"Yonamine and Bushi"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "In the poem "The Clothesline", how do the clothes move together?",
+"options": [
+{ "option_id": 1, "text": "Side by side in perfect stillness", "is_correct": false },
+{ "option_id": 2, "text": "Hand in hand they dance in a row", "is_correct": true },
+{ "option_id": 3, "text": "Round and round in a circle", "is_correct": false },
+{ "option_id": 4, "text": "Up and down like a swing", "is_correct": false }
+],
+"answer": "Hand in hand they dance in a row"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "Which of the following movements is NOT used in the first line of "The Clothesline"?",
+"options": [
+{ "option_id": 1, "text": "Hither and thither", "is_correct": false },
+{ "option_id": 2, "text": "To and fro", "is_correct": false },
+{ "option_id": 3, "text": "Up and down", "is_correct": true },
+{ "option_id": 4, "text": "Hand in hand", "is_correct": false }
+],
+"answer": "Up and down"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "In "The Clothesline", to what are the fluttering clothes compared when they "caper and prance"?",
+"options": [
+{ "option_id": 1, "text": "Restive horses", "is_correct": true },
+{ "option_id": 2, "text": "Running dogs", "is_correct": false },
+{ "option_id": 3, "text": "Wild cats", "is_correct": false },
+{ "option_id": 4, "text": "Jumping rabbits", "is_correct": false }
+],
+"answer": "Restive horses"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "Which pair from the poem shows clothes compared to something from fairy tales?",
+"options": [
+{ "option_id": 1, "text": "Fairy-tale witches wildly dancing", "is_correct": true },
+{ "option_id": 2, "text": "Giants walking slowly", "is_correct": false },
+{ "option_id": 3, "text": "Dragons breathing fire", "is_correct": false },
+{ "option_id": 4, "text": "Pixies hiding in trees", "is_correct": false }
+],
+"answer": "Fairy-tale witches wildly dancing"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "What happens to one particular "fluttering creature" in "The Clothesline"?",
+"options": [
+{ "option_id": 1, "text": "It tears on the line", "is_correct": false },
+{ "option_id": 2, "text": "It falls into the garden", "is_correct": false },
+{ "option_id": 3, "text": "It struggles free and flies away", "is_correct": true },
+{ "option_id": 4, "text": "It turns into a bird", "is_correct": false }
+],
+"answer": "It struggles free and flies away"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "What do we finally learn that the "fluttering creature" was?",
+"options": [
+{ "option_id": 1, "text": "A shirt", "is_correct": false },
+{ "option_id": 2, "text": "A pillowcase", "is_correct": false },
+{ "option_id": 3, "text": "The speaker’s handkerchief", "is_correct": true },
+{ "option_id": 4, "text": "A bed sheet", "is_correct": false }
+],
+"answer": "The speaker’s handkerchief"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "What weather is suggested in "The Clothesline" when the poet writes of the "merry March wind"?",
+"options": [
+{ "option_id": 1, "text": "A still, hot evening", "is_correct": false },
+{ "option_id": 2, "text": "A cold and quiet night", "is_correct": false },
+{ "option_id": 3, "text": "A breezy, lively day in early spring", "is_correct": true },
+{ "option_id": 4, "text": "A rainy monsoon afternoon", "is_correct": false }
+],
+"answer": "A breezy, lively day in early spring"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "In "The Clothesline", what do pegs do?",
+"options": [
+{ "option_id": 1, "text": "Hold the clothes to the line", "is_correct": true },
+{ "option_id": 2, "text": "Decorate the garden", "is_correct": false },
+{ "option_id": 3, "text": "Support the poles", "is_correct": false },
+{ "option_id": 4, "text": "Tie the clothes together", "is_correct": false }
+],
+"answer": "Hold the clothes to the line"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "What is the speaker certain about at the end of "The Clothesline"?",
+"options": [
+{ "option_id": 1, "text": "The handkerchief will come back", "is_correct": false },
+{ "option_id": 2, "text": "The handkerchief will be found in the garden", "is_correct": false },
+{ "option_id": 3, "text": "The handkerchief will never come back to the pocket", "is_correct": true },
+{ "option_id": 4, "text": "The handkerchief will be blown into a tree", "is_correct": false }
+],
+"answer": "The handkerchief will never come back to the pocket"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Thiruvalluvar, in "The Worth of a Fabric", was by profession a",
+"options": [
+{ "option_id": 1, "text": "farmer", "is_correct": false },
+{ "option_id": 2, "text": "textile weaver", "is_correct": true },
+{ "option_id": 3, "text": "moneylender", "is_correct": false },
+{ "option_id": 4, "text": "goldsmith", "is_correct": false }
+],
+"answer": "textile weaver"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "What was special about Thiruvalluvar’s behaviour according to the people?",
+"options": [
+{ "option_id": 1, "text": "He never smiled at anyone", "is_correct": false },
+{ "option_id": 2, "text": "He never got angry or used bad words", "is_correct": true },
+{ "option_id": 3, "text": "He always shouted at customers", "is_correct": false },
+{ "option_id": 4, "text": "He refused to sell his fabric", "is_correct": false }
+],
+"answer": "He never got angry or used bad words"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "What price did Thiruvalluvar first quote for the whole piece of fabric?",
+"options": [
+{ "option_id": 1, "text": "Four coins", "is_correct": false },
+{ "option_id": 2, "text": "Eight coins", "is_correct": true },
+{ "option_id": 3, "text": "Ten coins", "is_correct": false },
+{ "option_id": 4, "text": "Six coins", "is_correct": false }
+],
+"answer": "Eight coins"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "How did Thiruvalluvar respond when the young man tore the fabric into smaller and smaller pieces?",
+"options": [
+{ "option_id": 1, "text": "He shouted angrily and left the market", "is_correct": false },
+{ "option_id": 2, "text": "He called the guards at once", "is_correct": false },
+{ "option_id": 3, "text": "He calmly kept reducing the price to half each time", "is_correct": true },
+{ "option_id": 4, "text": "He refused to talk to the young man", "is_correct": false }
+],
+"answer": "He calmly kept reducing the price to half each time"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "Why did Thiruvalluvar finally refuse to name any price for the torn rags?",
+"options": [
+{ "option_id": 1, "text": "He was too angry to speak", "is_correct": false },
+{ "option_id": 2, "text": "He wanted more money than eight coins", "is_correct": false },
+{ "option_id": 3, "text": "He said the fabric had become worthless and of no use to anyone", "is_correct": true },
+{ "option_id": 4, "text": "He planned to repair the rags himself", "is_correct": false }
+],
+"answer": "He said the fabric had become worthless and of no use to anyone"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Which of the following is NOT mentioned as part of the process of making the fabric?",
+"options": [
+{ "option_id": 1, "text": "The farmer grows cotton and picks each boll", "is_correct": false },
+{ "option_id": 2, "text": "Cotton is carded and spun into uniform threads", "is_correct": false },
+{ "option_id": 3, "text": "Threads are dyed to take on lovely colours", "is_correct": false },
+{ "option_id": 4, "text": "The fabric is printed in a factory with machines", "is_correct": true }
+],
+"answer": "The fabric is printed in a factory with machines"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "What deeper lesson about life does Thiruvalluvar draw from the torn fabric?",
+"options": [
+{ "option_id": 1, "text": "Life can easily be repaired like cloth", "is_correct": false },
+{ "option_id": 2, "text": "Life, if torn apart by hasty, thoughtless actions, is destroyed and cannot be regained", "is_correct": true },
+{ "option_id": 3, "text": "Life is always cheap and replaceable", "is_correct": false },
+{ "option_id": 4, "text": "Life should be spent in tearing fabrics", "is_correct": false }
+],
+"answer": "Life, if torn apart by hasty, thoughtless actions, is destroyed and cannot be regained"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "In "The Worth of a Fabric", what effect do Thiruvalluvar’s words have on the young man?",
+"options": [
+{ "option_id": 1, "text": "He becomes more arrogant and tears more cloth", "is_correct": false },
+{ "option_id": 2, "text": "He is ashamed and decides to give up idleness and bad habits", "is_correct": true },
+{ "option_id": 3, "text": "He refuses to listen and walks away", "is_correct": false },
+{ "option_id": 4, "text": "He laughs and pays extra money", "is_correct": false }
+],
+"answer": "He is ashamed and decides to give up idleness and bad habits"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "In "A Wall Magazine for your Class!", what is the wall magazine mainly meant to display?",
+"options": [
+{ "option_id": 1, "text": "Only the teacher’s writing", "is_correct": false },
+{ "option_id": 2, "text": "Students’ own written and creative work", "is_correct": true },
+{ "option_id": 3, "text": "Old newspaper cuttings only", "is_correct": false },
+{ "option_id": 4, "text": "Marks obtained in exams", "is_correct": false }
+],
+"answer": "Students’ own written and creative work"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Which of these is suggested as a possible item in a wall magazine?",
+"options": [
+{ "option_id": 1, "text": "A timetable of TV serials", "is_correct": false },
+{ "option_id": 2, "text": "Jokes, puzzles, poems or stories written by students", "is_correct": true },
+{ "option_id": 3, "text": "Only photocopies of textbook pages", "is_correct": false },
+{ "option_id": 4, "text": "Printed advertisements", "is_correct": false }
+],
+"answer": "Jokes, puzzles, poems or stories written by students"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "What role is suggested for a small group of students in maintaining the wall magazine?",
+"options": [
+{ "option_id": 1, "text": "To keep other students away from it", "is_correct": false },
+{ "option_id": 2, "text": "To act as editors, collecting, selecting and displaying material", "is_correct": true },
+{ "option_id": 3, "text": "To write all the content themselves", "is_correct": false },
+{ "option_id": 4, "text": "To paint permanent pictures only", "is_correct": false }
+],
+"answer": "To act as editors, collecting, selecting and displaying material"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "What is Anak Krakatoa as described in the lesson?",
+"options": [
+{ "option_id": 1, "text": "A snow-covered mountain in India", "is_correct": false },
+{ "option_id": 2, "text": "A young volcanic island that grew from the sea", "is_correct": true },
+{ "option_id": 3, "text": "A large river in Europe", "is_correct": false },
+{ "option_id": 4, "text": "A famous forest reserve", "is_correct": false }
+],
+"answer": "A young volcanic island that grew from the sea"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "What does the word "Anak" in "Anak Krakatoa" mean, according to the lesson?",
+"options": [
+{ "option_id": 1, "text": "Fire", "is_correct": false },
+{ "option_id": 2, "text": "Smoke", "is_correct": false },
+{ "option_id": 3, "text": "Child", "is_correct": true },
+{ "option_id": 4, "text": "Mountain", "is_correct": false }
+],
+"answer": "Child"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "What natural disaster destroyed the original Krakatoa in 1883, as mentioned in the lesson?",
+"options": [
+{ "option_id": 1, "text": "An earthquake and tsunami", "is_correct": true },
+{ "option_id": 2, "text": "A cyclone", "is_correct": false },
+{ "option_id": 3, "text": "A flood", "is_correct": false },
+{ "option_id": 4, "text": "A drought", "is_correct": false }
+],
+"answer": "An earthquake and tsunami"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "From where did Anak Krakatoa gradually rise, according to the description?",
+"options": [
+{ "option_id": 1, "text": "From a desert plain", "is_correct": false },
+{ "option_id": 2, "text": "From the bottom of the sea", "is_correct": true },
+{ "option_id": 3, "text": "From the top of a mountain", "is_correct": false },
+{ "option_id": 4, "text": "From a thick forest", "is_correct": false }
+],
+"answer": "From the bottom of the sea"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "What did scientists and people observe on Anak Krakatoa as time passed?",
+"options": [
+{ "option_id": 1, "text": "It turned into an icy peak", "is_correct": false },
+{ "option_id": 2, "text": "Rocks, ash, plants and animal life appearing on its slopes", "is_correct": true },
+{ "option_id": 3, "text": "It immediately became a city", "is_correct": false },
+{ "option_id": 4, "text": "It disappeared without any trace", "is_correct": false }
+],
+"answer": "Rocks, ash, plants and animal life appearing on its slopes"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "In "The Silver House", where does the speaker say the silver house can be seen?",
+"options": [
+{ "option_id": 1, "text": "In a city square", "is_correct": false },
+{ "option_id": 2, "text": "In the sky at night", "is_correct": true },
+{ "option_id": 3, "text": "In the school playground", "is_correct": false },
+{ "option_id": 4, "text": "In a thick jungle", "is_correct": false }
+],
+"answer": "In the sky at night"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "What is the "silver house" in the poem actually a description of?",
+"options": [
+{ "option_id": 1, "text": "A palace made of glass", "is_correct": false },
+{ "option_id": 2, "text": "The moon shining in the night sky", "is_correct": true },
+{ "option_id": 3, "text": "A lighthouse on the shore", "is_correct": false },
+{ "option_id": 4, "text": "A castle in the mountains", "is_correct": false }
+],
+"answer": "The moon shining in the night sky"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "In "The Silver House", what happens to the silver house when the morning comes?",
+"options": [
+{ "option_id": 1, "text": "It turns golden and bigger", "is_correct": false },
+{ "option_id": 2, "text": "It is hidden by clouds", "is_correct": false },
+{ "option_id": 3, "text": "It fades away and cannot be seen", "is_correct": true },
+{ "option_id": 4, "text": "It falls to the ground", "is_correct": false }
+],
+"answer": "It fades away and cannot be seen"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "In "Adwise Customers", who is the first character we meet in the shop?",
+"options": [
+{ "option_id": 1, "text": "A wise old man", "is_correct": false },
+{ "option_id": 2, "text": "A shopkeeper with clever advertisements", "is_correct": true },
+{ "option_id": 3, "text": "A poor farmer", "is_correct": false },
+{ "option_id": 4, "text": "A tailor", "is_correct": false }
+],
+"answer": "A shopkeeper with clever advertisements"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "What kind of notices does the shop in "Adwise Customers" display?",
+"options": [
+{ "option_id": 1, "text": "Plain price tags only", "is_correct": false },
+{ "option_id": 2, "text": "Funny and tricky advertisements that play with words", "is_correct": true },
+{ "option_id": 3, "text": "Warnings not to enter", "is_correct": false },
+{ "option_id": 4, "text": "Only pictures without any words", "is_correct": false }
+],
+"answer": "Funny and tricky advertisements that play with words"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "What is the main purpose of the wordplay in the lesson "Adwise Customers"?",
+"options": [
+{ "option_id": 1, "text": "To confuse the reader without any message", "is_correct": false },
+{ "option_id": 2, "text": "To advise customers to think before believing advertisements", "is_correct": true },
+{ "option_id": 3, "text": "To teach grammar rules only", "is_correct": false },
+{ "option_id": 4, "text": "To describe the history of shops", "is_correct": false }
+],
+"answer": "To advise customers to think before believing advertisements"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Where does the story "Yonamine and Bushi" take place?",
+"options": [
+{ "option_id": 1, "text": "In a village in India", "is_correct": false },
+{ "option_id": 2, "text": "On an island called Okinawa", "is_correct": true },
+{ "option_id": 3, "text": "In a forest near a city", "is_correct": false },
+{ "option_id": 4, "text": "In a European town", "is_correct": false }
+],
+"answer": "On an island called Okinawa"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "What skill was Yonamine Chiru famous for?",
+"options": [
+{ "option_id": 1, "text": "Singing", "is_correct": false },
+{ "option_id": 2, "text": "Painting", "is_correct": false },
+{ "option_id": 3, "text": "Wrestling", "is_correct": true },
+{ "option_id": 4, "text": "Cooking in an inn", "is_correct": false }
+],
+"answer": "Wrestling"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Why was Yonamine’s father worried about her marriage?",
+"options": [
+{ "option_id": 1, "text": "Because she did not know any household work", "is_correct": false },
+{ "option_id": 2, "text": "Because she was too shy to talk to anyone", "is_correct": false },
+{ "option_id": 3, "text": "Because most young men wanted delicate wives, not a strong wrestler like her", "is_correct": true },
+{ "option_id": 4, "text": "Because she wanted to leave Okinawa", "is_correct": false }
+],
+"answer": "Because most young men wanted delicate wives, not a strong wrestler like her"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Who was Kojo in the story "Yonamine and Bushi"?",
+"options": [
+{ "option_id": 1, "text": "A polite and fair wrestler", "is_correct": false },
+{ "option_id": 2, "text": "A weak boy from Yonamine’s village", "is_correct": false },
+{ "option_id": 3, "text": "An unsportive wrestler who broke the rules", "is_correct": true },
+{ "option_id": 4, "text": "Yonamine’s younger brother", "is_correct": false }
+],
+"answer": "An unsportive wrestler who broke the rules"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "How did Yonamine defeat Kojo?",
+"options": [
+{ "option_id": 1, "text": "She refused to fight him", "is_correct": false },
+{ "option_id": 2, "text": "She caught his arm and twisted it so powerfully that he fell down in a heap", "is_correct": true },
+{ "option_id": 3, "text": "She ran away from the arena", "is_correct": false },
+{ "option_id": 4, "text": "She asked the referee to stop the match", "is_correct": false }
+],
+"answer": "She caught his arm and twisted it so powerfully that he fell down in a heap"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "Who was Bushi Kiyo?",
+"options": [
+{ "option_id": 1, "text": "A careless farmer", "is_correct": false },
+{ "option_id": 2, "text": "A carpenter", "is_correct": false },
+{ "option_id": 3, "text": "A trained Karate warrior and King Shoko’s personal guard", "is_correct": true },
+{ "option_id": 4, "text": "Yonamine’s school teacher", "is_correct": false }
+],
+"answer": "A trained Karate warrior and King Shoko’s personal guard"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "What did Bushi’s friends advise him to do about Yonamine?",
+"options": [
+{ "option_id": 1, "text": "Avoid her completely", "is_correct": false },
+{ "option_id": 2, "text": "Challenge her and marry her if he won", "is_correct": true },
+{ "option_id": 3, "text": "Marry someone else quickly", "is_correct": false },
+{ "option_id": 4, "text": "Leave Okinawa", "is_correct": false }
+],
+"answer": "Challenge her and marry her if he won"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "What was Yonamine’s reaction when Bushi defeated her in the wrestling match?",
+"options": [
+{ "option_id": 1, "text": "She refused to accept defeat", "is_correct": false },
+{ "option_id": 2, "text": "She agreed to marry him", "is_correct": true },
+{ "option_id": 3, "text": "She challenged him again at once", "is_correct": false },
+{ "option_id": 4, "text": "She left the village", "is_correct": false }
+],
+"answer": "She agreed to marry him"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "After marriage, how is Yonamine described in her role at home?",
+"options": [
+{ "option_id": 1, "text": "Lazy and careless", "is_correct": false },
+{ "option_id": 2, "text": "Kind and loving, keeping the house spick and span", "is_correct": true },
+{ "option_id": 3, "text": "Only interested in wrestling", "is_correct": false },
+{ "option_id": 4, "text": "Always quarrelling", "is_correct": false }
+],
+"answer": "Kind and loving, keeping the house spick and span"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "What made Bushi wonder again about Yonamine’s strength after marriage?",
+"options": [
+{ "option_id": 1, "text": "She lifted a huge bag of rice easily with one hand", "is_correct": true },
+{ "option_id": 2, "text": "She refused to cook meals", "is_correct": false },
+{ "option_id": 3, "text": "She could not sweep the floor", "is_correct": false },
+{ "option_id": 4, "text": "She became ill for many days", "is_correct": false }
+],
+"answer": "She lifted a huge bag of rice easily with one hand"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "Why did Bushi disguise himself as a bandit on the road?",
+"options": [
+{ "option_id": 1, "text": "To rob strangers", "is_correct": false },
+{ "option_id": 2, "text": "To teach Yonamine a lesson about travelling alone at night", "is_correct": true },
+{ "option_id": 3, "text": "To test the king’s soldiers", "is_correct": false },
+{ "option_id": 4, "text": "To run away from home", "is_correct": false }
+],
+"answer": "To teach Yonamine a lesson about travelling alone at night"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "What did Yonamine do when the disguised bandit attacked her?",
+"options": [
+{ "option_id": 1, "text": "She screamed and ran home", "is_correct": false },
+{ "option_id": 2, "text": "She held his hand, kicked him and tied him to a tree with her sash", "is_correct": true },
+{ "option_id": 3, "text": "She fainted on the road", "is_correct": false },
+{ "option_id": 4, "text": "She begged him to spare her", "is_correct": false }
+],
+"answer": "She held his hand, kicked him and tied him to a tree with her sash"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "What did Yonamine do the next day when she saw the tied bandit again?",
+"options": [
+{ "option_id": 1, "text": "She beat him again", "is_correct": false },
+{ "option_id": 2, "text": "She left him there without a word", "is_correct": false },
+{ "option_id": 3, "text": "She untied him when he begged for forgiveness", "is_correct": true },
+{ "option_id": 4, "text": "She called the king’s soldiers", "is_correct": false }
+],
+"answer": "She untied him when he begged for forgiveness"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "How did Yonamine later realise that the bandit had been Bushi?",
+"options": [
+{ "option_id": 1, "text": "She saw his sword", "is_correct": false },
+{ "option_id": 2, "text": "He confessed at once at dinner", "is_correct": false },
+{ "option_id": 3, "text": "He returned her white sash at dinner and said it was hers", "is_correct": true },
+{ "option_id": 4, "text": "Her father told her the truth", "is_correct": false }
+],
+"answer": "He returned her white sash at dinner and said it was hers"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "What important lesson does Bushi say he learnt from the incident on the road?",
+"options": [
+{ "option_id": 1, "text": "Always travel alone at night", "is_correct": false },
+{ "option_id": 2, "text": "Never fight with anyone", "is_correct": false },
+{ "option_id": 3, "text": "Never underestimate anybody", "is_correct": true },
+{ "option_id": 4, "text": "Appearances are always correct", "is_correct": false }
+],
+"answer": "Never underestimate anybody"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "In the play "Stone Soup" (from Voyage Three, referred to in "Adwise Customers" activities), what was the traveller really using to make the soup tasty?",
+"options": [
+{ "option_id": 1, "text": "Only a stone", "is_correct": false },
+{ "option_id": 2, "text": "The villagers’ vegetables and salt", "is_correct": true },
+{ "option_id": 3, "text": "Magic powder", "is_correct": false },
+{ "option_id": 4, "text": "Packaged soup mix", "is_correct": false }
+],
+"answer": "The villagers’ vegetables and salt"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "What do the notices and puzzles in "Adwise Customers" teach about language?",
+"options": [
+{ "option_id": 1, "text": "That spelling never matters", "is_correct": false },
+{ "option_id": 2, "text": "That prefixes and suffixes have no meaning", "is_correct": false },
+{ "option_id": 3, "text": "That small changes in words can change meanings and we must read carefully", "is_correct": true },
+{ "option_id": 4, "text": "That only pictures are important", "is_correct": false }
+],
+"answer": "That small changes in words can change meanings and we must read carefully"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Thirukkural, mentioned in "The Worth of a Fabric", is",
+"options": [
+{ "option_id": 1, "text": "a collection of stories about animals", "is_correct": false },
+{ "option_id": 2, "text": "the book of Thiruvalluvar’s teachings", "is_correct": true },
+{ "option_id": 3, "text": "a history of Tamil kings", "is_correct": false },
+{ "option_id": 4, "text": "a grammar textbook", "is_correct": false }
+],
+"answer": "the book of Thiruvalluvar’s teachings"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Which word best describes the young man at the beginning of "The Worth of a Fabric"?",
+"options": [
+{ "option_id": 1, "text": "Humble", "is_correct": false },
+{ "option_id": 2, "text": "Arrogant", "is_correct": true },
+{ "option_id": 3, "text": "Hardworking", "is_correct": false },
+{ "option_id": 4, "text": "Generous", "is_correct": false }
+],
+"answer": "Arrogant"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "What is being described as dancing "hand in hand" in the poem "The Clothesline"?",
+"answer": "The poem describes the clothes on the clothesline as if they were dancing hand in hand together in a row."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "Why does the poet compare the clothes to "restive horses" in "The Clothesline"?",
+"answer": "The clothes are compared to restive horses because they leap and prance in the wind in a lively, restless manner like playful, fidgety horses."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "What does the phrase "fluttering creatures as white as snow" suggest about the clothes?",
+"answer": "The phrase suggests that the clothes are very white and light, fluttering in the wind like small, bright creatures of pure whiteness."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "What happens to the speaker’s handkerchief in "The Clothesline"?",
+"answer": "The handkerchief struggles free from the pegs, flies away in the wind like a bird and is lost, never to return to the speaker’s pocket."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "Why can "behind" and "wind" be called eye rhymes in the poem?",
+"answer": "They are called eye rhymes because they look similar in spelling but are pronounced differently and do not actually rhyme when spoken."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Who was Thiruvalluvar and what was his occupation?",
+"answer": "Thiruvalluvar was a great Tamil Saint-poet whose teachings are in Thirukkural, and he worked as a textile weaver who made beautiful fabrics and saris."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "How did the young rich man and his friends usually spend their time?",
+"answer": "They wasted most of their time roaming around with friends and making fun of other people instead of doing anything useful."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "Why did the young man decide to trouble Thiruvalluvar?",
+"answer": "He decided to trouble Thiruvalluvar because he did not believe people’s praise that Thiruvalluvar never got angry and wanted to prove them wrong for fun."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "What was Thiruvalluvar’s reaction when the fabric was reduced to rags?",
+"answer": "He remained calm, smiled for the first time and firmly said that the fabric had become worthless, so he would not name any price for it."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "Explain why Thiruvalluvar says that many people had "toiled" to make the fabric.",
+"answer": "He explains that from the farmer who grew cotton and picked each boll to those who carded, spun, dyed and wove the threads, many people worked hard over a long period to create the fabric."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "What is meant by saying that the work of the people who made the fabric would have been "rewarded"?",
+"answer": "It means they would feel happy and satisfied that their hard work was appreciated when someone bought the fabric and wore it with joy."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "How does the story show the difference between money and real value?",
+"answer": "The story shows that money can be offered again, but the love, labour and usefulness destroyed in tearing the fabric cannot be brought back by any amount of money."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "What change takes place in the young man at the end of "The Worth of a Fabric"?",
+"answer": "He feels truly ashamed of his arrogance and decides on the spot to give up his idleness and bad habits, becoming a better person."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "What is a wall magazine and who prepares it in the class?",
+"answer": "A wall magazine is a regularly changed display on the classroom wall showing students’ writings and drawings, prepared and maintained by students themselves with teacher’s guidance."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "Name two types of material that can be put up on a class wall magazine.",
+"answer": "Students can put up poems, stories, jokes, riddles, drawings, reports of school events and other creative pieces on the wall magazine."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Why is it useful to have student editors for the wall magazine?",
+"answer": "Student editors learn to collect, select and arrange material, share responsibility and give everyone a chance to contribute in an organised way."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Why is the new volcanic island called "Anak Krakatoa"?",
+"answer": "It is called Anak Krakatoa because "Anak" means "child", and the island is like the child of the original Krakatoa volcano that exploded earlier."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "What happened to the island of Krakatoa in 1883, according to the lesson?",
+"answer": "In 1883, Krakatoa exploded violently, causing huge waves and destruction and almost completely disappearing under the sea."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "How did Anak Krakatoa begin to form after the explosion?",
+"answer": "After the explosion, volcanic material slowly built up from the sea-bed, and in time a new cone rose above the water to become Anak Krakatoa."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "What does the lesson "Anak Krakatoa" show about nature’s power and renewal?",
+"answer": "It shows that nature can cause great destruction through volcanoes but can also gradually renew land and support new plant and animal life."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "What is the "silver house" in the poem "The Silver House" and why is it called that?",
+"answer": "The silver house is the moon, called so because it looks like a shining silver house in the dark sky."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "How does the poet create a magical picture of the sky in "The Silver House"?",
+"answer": "The poet imagines the moon as a silver house with tiny stars as its lamps, creating a fairy-tale picture of the night sky."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "What happens to the silver house when day dawns, as described in the poem?",
+"answer": "When day dawns, the light of the sun hides the silver house from our sight, so it seems to disappear from the sky."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Why can "Adwise Customers" be called a play on words?",
+"answer": "It is a play on words because the title itself twists "advice" and "advertisements", and the lesson uses humorous word tricks to show how ads can mislead."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "What is one important message that "Adwise Customers" gives about reading advertisements?",
+"answer": "It teaches that customers should read advertisements carefully, not be fooled by clever wording and think for themselves before believing claims."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "How does the shopkeeper in "Adwise Customers" attract customers?",
+"answer": "He puts up eye-catching notices with tricky phrases that sound attractive at first but actually need careful reading to understand their real meaning."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "What is the relationship between Yonamine and her father at the beginning of the story?",
+"answer": "Her father loves her but is worried because her unusual strength and love of wrestling make it difficult to find a suitable husband for her."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Why did some suitors hesitate to marry Yonamine?",
+"answer": "They hesitated because they wanted wives who would only cook, wash and make tea, and were afraid of a strong wrestler wife who could defeat them."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "How is Bushi described when he first appears as Yonamine’s challenger?",
+"answer": "He is tall and slim, stands firmly and unshakeably on his feet and has dark, piercing eyes that show he is fearless and straightforward."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "What does the phrase "they punched, kicked and twisted" tell you about the wrestling match between Yonamine and Bushi?",
+"answer": "It shows that they both fought with full strength and skill, using all their best techniques in a serious, competitive match."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "At what moment did Bushi manage to defeat Yonamine in the match?",
+"answer": "He took advantage of a brief pause when Yonamine hesitated for a moment and brought her down with a swift punch."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Why did Bushi warn Yonamine not to travel at night?",
+"answer": "He warned her because there were bandits about and he felt it was unsafe for a woman to go out alone after dark."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "What disguise did Bushi use to test Yonamine on the road?",
+"answer": "He disguised himself as a bandit by wearing shabby clothes, smearing dark colour on his hands and covering his face with a scarf."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "What does Yonamine’s reaction to the bandit show about her character?",
+"answer": "Her swift, calm and effective defence shows that she is brave, alert, skilful and able to protect herself without panic."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Why does Yonamine untie the bandit the next day even though he had attacked her?",
+"answer": "She unties him because he begs for forgiveness and promises not to repeat his behaviour, and she is kind-hearted despite his attack."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "How does Bushi’s statement "especially not a woman" at the end of the story strengthen its message?",
+"answer": "It shows that he has learnt to respect women’s strength and warns others never to underestimate women simply because of their gender."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "In "The Worth of a Fabric", why is the young man described as proud of his riches?",
+"answer": "He is described so because even after spoiling the fabric, he confidently offers to pay eight coins, believing his wealth can solve everything."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "How does Thiruvalluvar use the example of fabric to explain the importance of thoughtful actions in life?",
+"answer": "He points out that just as tearing the cloth destroys many people’s labour, hasty, thoughtless actions can destroy a life that cannot be stitched together again."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "What is meant by the word "idleness" in the context of the young man’s behaviour?",
+"answer": "Idleness refers to his habit of wasting time roaming with friends and teasing others instead of using his time for useful work."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "How do the activities after "The Clothesline" help students understand rhyming and eye rhymes?",
+"answer": "They ask students to list rhyming words and separate pairs that look similar but sound different, making them notice the difference between written and spoken rhyme."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Why does the textbook ask students to wash and hang their handkerchiefs after reading "The Clothesline"?",
+"answer": "It encourages students to observe real clothes fluttering in the wind so they can connect the poem’s images with actual movements."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "What are students asked to do with positive and negative words in "The Worth of a Fabric"?",
+"answer": "They are asked to classify given words like great, beautiful, arrogant and worthless into positive and negative groups to understand their connotations."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "How does the lesson "A Wall Magazine for your Class!" promote cooperation among classmates?",
+"answer": "It suggests planning together, sharing responsibilities like writing, collecting and arranging material and working as a team to keep the magazine lively."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Why does the lesson "Anak Krakatoa" attract the interest of science-loving students?",
+"answer": "It describes real volcanic activity, island formation and ecological changes, linking language learning with scientific curiosity about the earth."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "What feelings about nature can students develop by reading about Anak Krakatoa?",
+"answer": "They can develop respect for nature’s power, interest in how land and life change over time and awareness of natural disasters."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "How does the poem "The Silver House" make the moon seem friendly to children?",
+"answer": "By calling it a house and imagining it with features like lights, the poem turns the moon into a familiar, cosy image children can relate to."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "What skill does "Adwise Customers" help students practise apart from enjoying humour?",
+"answer": "It helps them practise careful reading, understanding double meanings and thinking critically about what words really say."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "In what way is Yonamine’s story also about changing traditional ideas of marriage?",
+"answer": "It shows that a woman can be both strong and loving and that a husband like Bushi can value a wife for her strength, not just for delicate work."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "How does Bushi show respect to Yonamine after realising she had tied him up?",
+"answer": "He frankly admits that she has taught him an unforgettable lesson and accepts that he should never underestimate her or anyone else."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "What does the happy ending of "Yonamine and Bushi" suggest about understanding between husband and wife?",
+"answer": "It suggests that a happy marriage is based on mutual respect, shared laughter and recognising each other’s strengths."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Why is the young man in "The Worth of a Fabric" described as "taken aback"?",
+"answer": "He is taken aback because Thiruvalluvar remains calm and polite, quietly reducing the price instead of getting angry as he expected."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "How does the story of the fabric encourage respect for manual labour?",
+"answer": "It explains in detail how many hands and how much effort are needed to create a simple cloth, teaching readers to respect those who work hard with their hands."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "What is a "boll" in the context of cotton farming?",
+"answer": "A boll is the pod of the cotton plant that contains the cotton fibres which farmers pick from the field."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "What does the lesson mean when it says that the threads were dyed "carefully"?",
+"answer": "It means that the threads were coloured with care so that they took on even, beautiful colours without spoiling the material."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Why is "idleness" presented as something the young man must give up?",
+"answer": "Idleness is shown as harmful because it leads to foolish acts and wastes a person’s life instead of using time for meaningful work."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "How does the wall magazine activity help students improve their language skills?",
+"answer": "By writing and reading others’ work for the wall magazine, students practise composing, editing and appreciating different kinds of English writing."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "What is one suggested way of decorating a wall magazine attractively?",
+"answer": "Students can use colourful borders, neat headings, drawings and well-arranged columns to make the wall magazine attractive and easy to read."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "What kind of natural changes are described on Aank Krakatoa over years?",
+"answer": "The lesson describes layers of ash and lava, new soil, growing plants and the arrival of birds and animals on the island."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "How does "Anak Krakatoa" connect geography and English learning?",
+"answer": "It uses a real geographical example of a volcano and island formation to teach new words, descriptions and comprehension in English."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "What does the silver house poem teach about observing the sky?",
+"answer": "It encourages children to look up, notice the moon’s changing appearance and imagine stories about what they see in the night sky."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Why might shoppers in "Adwise Customers" be called "wise" if they read carefully?",
+"answer": "They are wise because they do not get tricked by attractive but misleading words and think clearly before believing what is written."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "What kind of excuses do villagers in "Stone Soup" (linked in the unit) make to avoid sharing food?",
+"answer": "They pretend there is no food left, pretend not to hear or speak properly and give clever excuses instead of admitting they do not want to share."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "How does the traveller in "Stone Soup" finally get everyone to share food?",
+"answer": "He claims to have a magic stone, starts boiling it in water and gradually encourages each villager to add vegetables, making a rich soup for all."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "How is Yonamine shown to combine strength with gentleness in the story?",
+"answer": "She is strong enough to defeat wrestlers and tie up a bandit, yet gentle and caring in looking after her household and forgiving her attacker."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "What stereotype about girls does the story "Yonamine and Bushi" challenge?",
+"answer": "It challenges the stereotype that girls must be delicate and cannot fight or be as strong and brave as men."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Why does Bushi say he does not want a "delicate, fragile" girl as a wife?",
+"answer": "He wants a partner who is strong and capable like Yonamine, rather than a wife who can only do light housework."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Explain the phrase "kept the house spick and span".",
+"answer": "It means Yonamine kept the house very clean, tidy and well-ordered, without any dirt or disorder."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "What quality in Yonamine impressed Bushi before he married her?",
+"answer": "Her skill and courage in wrestling impressed him, as he admired her strength and straightforward nature."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "How does Voyage Two use stories and poems to talk about work and effort?",
+"answer": "Voyage Two shows the hard work in weaving fabric, the effort of volcano-formed land, and the practice behind strength and creativity, teaching respect for labour and perseverance."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "In what way do the units on advertising and the wall magazine encourage critical thinking?",
+"answer": "They ask students to examine words carefully, plan what to display and not accept every written claim without thinking about its meaning."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "How does the young man’s destruction of the fabric show the effect of carelessness?",
+"answer": "His careless tearing wastes months of labour and beauty in a few moments, showing how thoughtless actions can quickly ruin valuable things."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Why is Thiruvalluvar’s calmness important for the message of the story?",
+"answer": "His calmness contrasts with the young man’s foolishness and helps the young man realise his mistake without feeling attacked or insulted."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "What is the effect of describing the clothes as "rounded in front, but hollow behind"?",
+"answer": "It makes readers imagine the clothes as living creatures with round fronts and empty backs, enhancing the personification in the poem."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Why does the poet of "The Clothesline" choose March as the time in the poem?",
+"answer": "March is often windy and lively, so it suits the picture of clothes jumping and dancing on the line in a merry breeze."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "What do the textbook activities suggest students should do with comparisons like "as white as"?",
+"answer": "Students should complete such comparisons, change them into comparative degree and find suitable real objects to match them."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "How can writing for the wall magazine improve a student’s confidence?",
+"answer": "Seeing their own work displayed and appreciated by classmates can make students feel proud, encouraging them to write and express themselves more."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "What does the word "restive" mean in the context of "restive horses" in the poem?",
+"answer": "Restive means restless and fidgety, unable to remain still, which suits the lively movement of clothes in the wind."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Explain the term "carded" as used in the process of making fabric.",
+"answer": "Carded means the cotton was cleaned and combed to remove seeds and straighten the fibres before spinning."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Why is spinning an important step in making cloth?",
+"answer": "Spinning turns loose cotton fibres into long, smooth threads that can be woven into fabric on a loom."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "What is the main moral of "The Worth of a Fabric"?",
+"answer": "The main moral is to respect the hard work behind things and to avoid careless, thoughtless actions that destroy what cannot be replaced."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "How is humour used in "Adwise Customers" to teach a serious lesson?",
+"answer": "The humorous notices make readers laugh, but they also show how language can mislead, reminding us to be careful and wise customers."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "What does Bushi mean when he says he will "fight with her and win over her"?",
+"answer": "He means that by defeating Yonamine fairly in wrestling, he hopes to win the right to marry her and also gain her respect."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Why is Yonamine’s father "in despair" before Bushi appears?",
+"answer": "He is in despair because many young men fear Yonamine’s strength and unusual interests, and he worries that no one will marry her."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "What qualities make Bushi and Yonamine a good match for each other?",
+"answer": "Both are strong, courageous and straightforward, and both can respect each other’s strength while also sharing love and household responsibilities."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "How does the story "Yonamine and Bushi" show that learning continues even after marriage?",
+"answer": "Bushi learns not to underestimate anyone, especially his wife, and Yonamine learns about her husband’s concerns and kindness, showing that they both grow together."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "What connection can students make between the handkerchief in "The Clothesline" and the fabric in Thiruvalluvar’s story?",
+"answer": "Both objects are small cloth items that can be easily lost or ruined, reminding students that cloth and the work behind it should not be treated carelessly."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "How does Voyage Two encourage students to observe and think about everyday things?",
+"answer": "It uses poems about clothes and the moon, stories about fabric and wrestling and tasks like wall magazines to show that ordinary things can teach important lessons."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Why do you think Thiruvalluvar refused to accept the eight coins in the end?",
+"answer": "He refused because he wanted the young man to understand that money cannot repair the damage done to something into which so much love and labour had gone."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "How do the adjectives "beautiful" and "worthless" apply to the fabric at different points in the story?",
+"answer": "The fabric is beautiful when whole and carefully woven, but becomes worthless rags after being torn repeatedly by the young man."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "What is the role of the March wind in "The Clothesline"?",
+"answer": "The March wind provides the energy that makes the clothes caper, prance, shiver and skip, bringing the scene to life."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Why does the poet of "The Clothesline" say that the clothes are "rounded in front, but hollow behind"?",
+"answer": "This shows how they puff out in the wind at the front but remain empty inside, like playful but hollow figures."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "What do the activities about comparisons in the unit teach students to do with adjectives?",
+"answer": "They teach students to use positive, comparative and superlative forms and to choose suitable nouns for similes like "as white as"."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "How does the story "Yonamine and Bushi" use action scenes to keep readers interested?",
+"answer": "It includes exciting wrestling moves, a sudden road attack and a clever disguise, which make the story lively and engaging."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Why is Bushi described as having "dark piercing eyes" that look straight at his opponent?",
+"answer": "This description shows his confidence, focus and honest, fearless nature as a warrior."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "What lesson about judging people does Voyage Two emphasise through its stories and poems?",
+"answer": "It emphasises not judging by appearances or first impressions, but by understanding people’s work, effort, character and hidden strengths."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "How does "The Worth of a Fabric" connect the value of objects with the value of time?",
+"answer": "It shows that valuable objects often represent months of human time and effort, so to spoil them is also to waste precious time."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "What does the handkerchief episode in "The Clothesline" suggest about our control over small possessions?",
+"answer": "It suggests that small possessions like handkerchiefs can easily be lost through chance or nature, reminding us not to be overly attached to them."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "How do the poems and stories in Voyage Two help develop imagination?",
+"answer": "They ask readers to see clothes as dancers, the moon as a house, volcanoes as growing children and adverts as puzzles, stretching the imagination."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "What common idea links the lessons about advertising and the wise stone traveller’s trick (from Voyage Three)?",
+"answer": "Both show that clever use of words or ideas can influence people, so listeners must think carefully instead of blindly believing or refusing."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Why can Voyage Two be considered useful for both language learning and value education?",
+"answer": "It teaches vocabulary, grammar and creative writing while also conveying values like respect for work, not wasting things, critical thinking and not underestimating others."
+}
+]
+}

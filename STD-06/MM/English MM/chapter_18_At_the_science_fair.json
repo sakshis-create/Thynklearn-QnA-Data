@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.18",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "At the Science Fair"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is presenting the process of marbling?",
+      "options": [
+        { "option_id": 1, "text": "Tanmay", "is_correct": false },
+        { "option_id": 2, "text": "Bhumika", "is_correct": true },
+        { "option_id": 3, "text": "Sharva", "is_correct": false },
+        { "option_id": 4, "text": "Atharva", "is_correct": false }
+      ],
+      "answer": "Bhumika"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the process of coating paper called?",
+      "options": [
+        { "option_id": 1, "text": "Plastering", "is_correct": false },
+        { "option_id": 2, "text": "Marbling", "is_correct": true },
+        { "option_id": 3, "text": "Sprinkling", "is_correct": false },
+        { "option_id": 4, "text": "Painting", "is_correct": false }
+      ],
+      "answer": "Marbling"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT required for marbling?",
+      "options": [
+        { "option_id": 1, "text": "Oil-paints", "is_correct": false },
+        { "option_id": 2, "text": "Kerosene or Turpentine", "is_correct": false },
+        { "option_id": 3, "text": "A bucket of water", "is_correct": false },
+        { "option_id": 4, "text": "A hammer and nail", "is_correct": true }
+      ],
+      "answer": "A hammer and nail"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How much water should be filled in the bucket for marbling?",
+      "options": [
+        { "option_id": 1, "text": "One half", "is_correct": false },
+        { "option_id": 2, "text": "Three fourths", "is_correct": true },
+        { "option_id": 3, "text": "Full", "is_correct": false },
+        { "option_id": 4, "text": "One third", "is_correct": false }
+      ],
+      "answer": "Three fourths"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What property of oil is used in the marbling process?",
+      "options": [
+        { "option_id": 1, "text": "It dissolves in water", "is_correct": false },
+        { "option_id": 2, "text": "It sinks in water", "is_correct": false },
+        { "option_id": 3, "text": "It floats on water", "is_correct": true },
+        { "option_id": 4, "text": "It changes color in water", "is_correct": false }
+      ],
+      "answer": "It floats on water"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is presenting the 'Magic Watering Can'?",
+      "options": [
+        { "option_id": 1, "text": "Bhumika", "is_correct": false },
+        { "option_id": 2, "text": "Ojas", "is_correct": false },
+        { "option_id": 3, "text": "Tanmay", "is_correct": true },
+        { "option_id": 4, "text": "Sharva", "is_correct": false }
+      ],
+      "answer": "Tanmay"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What materials are needed to make the magic watering can?",
+      "options": [
+        { "option_id": 1, "text": "Tin with lid, nail, hammer", "is_correct": true },
+        { "option_id": 2, "text": "Bucket, water, brush", "is_correct": false },
+        { "option_id": 3, "text": "Turpentine, oil-paints", "is_correct": false },
+        { "option_id": 4, "text": "Plastic bottle and tape", "is_correct": false }
+      ],
+      "answer": "Tin with lid, nail, hammer"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What causes the water to start falling from the magic watering can?",
+      "options": [
+        { "option_id": 1, "text": "Gravity only", "is_correct": false },
+        { "option_id": 2, "text": "Air pressure", "is_correct": true },
+        { "option_id": 3, "text": "Magnetic force", "is_correct": false },
+        { "option_id": 4, "text": "Centrifugal force", "is_correct": false }
+      ],
+      "answer": "Air pressure"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where does Tanmay make the first hole in the tin?",
+      "options": [
+        { "option_id": 1, "text": "In the lid", "is_correct": false },
+        { "option_id": 2, "text": "On the side", "is_correct": false },
+        { "option_id": 3, "text": "In the bottom", "is_correct": true },
+        { "option_id": 4, "text": "Near the top rim", "is_correct": false }
+      ],
+      "answer": "In the bottom"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "In marbling, what is used to dilute thick oil-paints?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Turpentine or Kerosene", "is_correct": true },
+        { "option_id": 3, "text": "Milk", "is_correct": false },
+        { "option_id": 4, "text": "Glue", "is_correct": false }
+      ],
+      "answer": "Turpentine or Kerosene"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How do you stop the shower in the magic watering can?",
+      "options": [
+        { "option_id": 1, "text": "Turn the tin upright", "is_correct": false },
+        { "option_id": 2, "text": "Close the bottom hole with a finger", "is_correct": true },
+        { "option_id": 3, "text": "Remove the lid", "is_correct": false },
+        { "option_id": 4, "text": "Shake the tin", "is_correct": false }
+      ],
+      "answer": "Close the bottom hole with a finger"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the fraction 3/4 read as in the text?",
+      "options": [
+        { "option_id": 1, "text": "Three fours", "is_correct": false },
+        { "option_id": 2, "text": "Three fourths", "is_correct": true },
+        { "option_id": 3, "text": "Third fourth", "is_correct": false },
+        { "option_id": 4, "text": "Four thirds", "is_correct": false }
+      ],
+      "answer": "Three fourths"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does Bhumika use to 'twirl' the colors on water?",
+      "options": [
+        { "option_id": 1, "text": "Her finger", "is_correct": false },
+        { "option_id": 2, "text": "A brush", "is_correct": true },
+        { "option_id": 3, "text": "A spoon", "is_correct": false },
+        { "option_id": 4, "text": "A nail", "is_correct": false }
+      ],
+      "answer": "A brush"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the fraction 2/3 read as?",
+      "options": [
+        { "option_id": 1, "text": "Two thirds", "is_correct": true },
+        { "option_id": 2, "text": "Three halves", "is_correct": false },
+        { "option_id": 3, "text": "Second third", "is_correct": false },
+        { "option_id": 4, "text": "Two three", "is_correct": false }
+      ],
+      "answer": "Two thirds"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Tanmay says 'my plants love water'. In this phrase, 'water' is a:",
+      "options": [
+        { "option_id": 1, "text": "Verb", "is_correct": false },
+        { "option_id": 2, "text": "Noun", "is_correct": true },
+        { "option_id": 3, "text": "Adjective", "is_correct": false },
+        { "option_id": 4, "text": "Pronoun", "is_correct": false }
+      ],
+      "answer": "Noun"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Tanmay says 'I love to water my plants'. In this phrase, 'water' is a:",
+      "options": [
+        { "option_id": 1, "text": "Noun", "is_correct": false },
+        { "option_id": 2, "text": "Verb", "is_correct": true },
+        { "option_id": 3, "text": "Preposition", "is_correct": false },
+        { "option_id": 4, "text": "Adverb", "is_correct": false }
+      ],
+      "answer": "Verb"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the fraction 1/2 read as?",
+      "options": [
+        { "option_id": 1, "text": "One two", "is_correct": false },
+        { "option_id": 2, "text": "One half", "is_correct": true },
+        { "option_id": 3, "text": "A second", "is_correct": false },
+        { "option_id": 4, "text": "One second", "is_correct": false }
+      ],
+      "answer": "One half"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "How many holes does Tanmay make in the lid?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": false },
+        { "option_id": 3, "text": "Many", "is_correct": true },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Many"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the fraction 3/2 read as?",
+      "options": [
+        { "option_id": 1, "text": "Two thirds", "is_correct": false },
+        { "option_id": 2, "text": "Three halves", "is_correct": true },
+        { "option_id": 3, "text": "Three second", "is_correct": false },
+        { "option_id": 4, "text": "Third half", "is_correct": false }
+      ],
+      "answer": "Three halves"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the fraction 2/5 read as?",
+      "options": [
+        { "option_id": 1, "text": "Two fifths", "is_correct": true },
+        { "option_id": 2, "text": "Five halves", "is_correct": false },
+        { "option_id": 3, "text": "Second fifth", "is_correct": false },
+        { "option_id": 4, "text": "Two five", "is_correct": false }
+      ],
+      "answer": "Two fifths"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does Bhumika do with the drawing paper to get the design?",
+      "options": [
+        { "option_id": 1, "text": "Dip it deep in the bucket", "is_correct": false },
+        { "option_id": 2, "text": "Keep it gently on the surface and press it a bit", "is_correct": true },
+        { "option_id": 3, "text": "Brush the water onto the paper", "is_correct": false },
+        { "option_id": 4, "text": "Drop it from a height", "is_correct": false }
+      ],
+      "answer": "Keep it gently on the surface and press it a bit"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is 1/9 read as?",
+      "options": [
+        { "option_id": 1, "text": "One nineth", "is_correct": false },
+        { "option_id": 2, "text": "One ninth", "is_correct": true },
+        { "option_id": 3, "text": "Nine ones", "is_correct": false },
+        { "option_id": 4, "text": "One nine", "is_correct": false }
+      ],
+      "answer": "One ninth"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is 7/4 read as?",
+      "options": [
+        { "option_id": 1, "text": "Seven fourths", "is_correct": true },
+        { "option_id": 2, "text": "Four sevenths", "is_correct": false },
+        { "option_id": 3, "text": "Seven four", "is_correct": false },
+        { "option_id": 4, "text": "Seventh fourth", "is_correct": false }
+      ],
+      "answer": "Seven fourths"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Why does Tanmay say he made the magic watering can?",
+      "options": [
+        { "option_id": 1, "text": "To win a prize", "is_correct": false },
+        { "option_id": 2, "text": "Because he likes hammers", "is_correct": false },
+        { "option_id": 3, "text": "So that we cannot waste water", "is_correct": true },
+        { "option_id": 4, "text": "Because his parents told him to", "is_correct": false }
+      ],
+      "answer": "So that we cannot waste water"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the fraction 1/5 read as?",
+      "options": [
+        { "option_id": 1, "text": "One five", "is_correct": false },
+        { "option_id": 2, "text": "One fifth", "is_correct": true },
+        { "option_id": 3, "text": "Five ones", "is_correct": false },
+        { "option_id": 4, "text": "A fifths", "is_correct": false }
+      ],
+      "answer": "One fifth"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the name of the process Bhumika shows?",
+      "answer": "The process is called marbling."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "List the materials needed for marbling.",
+      "answer": "A bucket, water, kerosene or turpentine, oil-paints, a brush, and white sheets of paper."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "How do you dilute thick oil-paints for marbling?",
+      "answer": "You dilute them with a spoonful of turpentine or kerosene."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What does Bhumika do with the paint and brush first?",
+      "answer": "She takes a few drops from each paint and sprinkles them gently onto the water."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why do the oil-paints float on water?",
+      "answer": "Oil doesn't dissolve in water and is lighter, so it floats on its surface."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "How are designs made on the water's surface during marbling?",
+      "answer": "A brush is used to twirl the floating colors into different shapes and designs."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is the careful step in marbling?",
+      "answer": "Keeping the drawing paper gently on the surface of the water and pressing it a bit."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What should be done with the marbled paper after lifting it out?",
+      "answer": "The sheet of paper should be kept away until it dries."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What does Tanmay love to do?",
+      "answer": "Tanmay loves to water his plants."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What concern does Tanmay express about watering plants?",
+      "answer": "He says that we cannot waste water."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What materials are needed for the magic watering can?",
+      "answer": "An empty tin with a lid, a nail, and a hammer."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "How is the bottom of the watering can prepared?",
+      "answer": "A hole is made in the bottom of the tin using a nail and a hammer."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What is done to the lid of the magic watering can?",
+      "answer": "Many holes are made in the lid using the nail and hammer."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "How do you fill the magic watering can?",
+      "answer": "Put a finger on the bottom hole and then fill the can with water."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "How do you hold the can after filling it?",
+      "answer": "Put the lid on and turn the tin upside down without removing the finger from the bottom hole."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What happens when the finger is removed from the bottom hole?",
+      "answer": "The shower of water starts."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What happens when you close the bottom hole with your finger?",
+      "answer": "The shower stops."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What scientific principle makes the magic watering can work?",
+      "answer": "Air pressure causes the water to fall or stop."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Read the fraction 1/3.",
+      "answer": "One third."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Read the fraction 1/4.",
+      "answer": "One fourth."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Read the fraction 1/5.",
+      "answer": "One fifth."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Read the fraction 3/4.",
+      "answer": "Three fourths."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Read the fraction 5/8.",
+      "answer": "Five eighths."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Read the fraction 8/8.",
+      "answer": "Eight eighths."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What precaution did Tanmay take while using the hammer and nail?",
+      "answer": "He was very careful not to hurt himself."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What should you mix to get a 'good mixture' in marbling?",
+      "answer": "Oil-paints and a spoonful of turpentine or kerosene."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the purpose of Bhumika's presentation?",
+      "answer": "To show an interesting process of coating paper called marbling."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What results from lifting the paper out of the marbling bucket?",
+      "answer": "Beautiful colours, shapes, and designs appear on the paper."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Identify 3 nouns from the marbling text.",
+      "answer": "Bucket, water, paper."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Identify 3 pronouns from the marbling text.",
+      "answer": "I, we, it."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Identify 3 prepositions from the text.",
+      "answer": "In, on, from."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does Bhumika ask at the end of her presentation?",
+      "answer": "She asks if the audience wants to try marbling a sheet of paper."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the QR code text on the magic watering can page?",
+      "answer": "X4GNBI."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why is the watering can called 'magic'?",
+      "answer": "Because the shower starts and stops just by moving a finger over a hole."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How much of the bucket should be filled with water for marbling?",
+      "answer": "It should be filled three fourths (3/4) with water."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What colors of oil-paint are mentioned?",
+      "answer": "Red, blue, yellow, etc."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the next step after sprinkling paint in marbling?",
+      "answer": "Twirling the colors with a brush to make shapes."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Translate: 'I love to water my plants and my plants love water!'",
+      "answer": "Students would translate this into their mother tongue (e.g., Marathi: 'मला माझ्या रोपट्यांना पाणी घालायला आवडते आणि माझ्या रोपट्यांना पाणी आवडते!')."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Give another way to complete: 'I was very careful not to...'",
+      "answer": "I was very careful not to spill the water."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Give another way to complete: 'Would you like to...'",
+      "answer": "Would you like to see my garden?"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the very first step in the marbling procedure?",
+      "answer": "Filling the bucket three fourths with water."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Does oil dissolve in water?",
+      "answer": "No, oil does not dissolve in water."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is used to make holes in the tin?",
+      "answer": "A nail and a hammer."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What happens if you remove your finger from the bottom hole while the tin is upside down?",
+      "answer": "The water starts falling down as a shower."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What should students prepare for their marbling activity as per Pointer 6?",
+      "answer": "They should prepare a poster."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Where is the air pressure mentioned in the text coming from?",
+      "answer": "The pressure of the air outside the can is mentioned."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is Bhumika's greeting at the start?",
+      "answer": "Hello, I'm Bhumika."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is Tanmay's greeting at the start?",
+      "answer": "Good morning! I am Tanmay."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How do you 'stir' the paint mixture according to Bhumika?",
+      "answer": "You stir it nicely to get a good mixture."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What do the plants want every day, according to Tanmay?",
+      "answer": "They want showers every day."
+    }
+  ]
+}

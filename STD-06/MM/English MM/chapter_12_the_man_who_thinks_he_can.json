@@ -1,0 +1,551 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.12",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Man who Thinks he can..."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'The Man who Thinks he can...'?",
+      "options": [
+        { "option_id": 1, "text": "Robert Frost", "is_correct": false },
+        { "option_id": 2, "text": "Walter D. Wintle", "is_correct": true },
+        { "option_id": 3, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 4, "text": "John Keats", "is_correct": false }
+      ],
+      "answer": "Walter D. Wintle"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "According to the poem, if you think you are beaten, ______.",
+      "options": [
+        { "option_id": 1, "text": "You are not", "is_correct": false },
+        { "option_id": 2, "text": "You are", "is_correct": true },
+        { "option_id": 3, "text": "You will win", "is_correct": false },
+        { "option_id": 4, "text": "You should try harder", "is_correct": false }
+      ],
+      "answer": "You are"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is essential to have before you can win a prize?",
+      "options": [
+        { "option_id": 1, "text": "Money", "is_correct": false },
+        { "option_id": 2, "text": "Speed", "is_correct": false },
+        { "option_id": 3, "text": "Surety of yourself", "is_correct": true },
+        { "option_id": 4, "text": "A coach", "is_correct": false }
+      ],
+      "answer": "Surety of yourself"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Success begins with a fellow's ______.",
+      "options": [
+        { "option_id": 1, "text": "Luck", "is_correct": false },
+        { "option_id": 2, "text": "Will", "is_correct": true },
+        { "option_id": 3, "text": "Strength", "is_correct": false },
+        { "option_id": 4, "text": "Friends", "is_correct": false }
+      ],
+      "answer": "Will"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In the poem, what does 'will' mean?",
+      "options": [
+        { "option_id": 1, "text": "A legal document", "is_correct": false },
+        { "option_id": 2, "text": "The power of a person's mind", "is_correct": true },
+        { "option_id": 3, "text": "Future tense", "is_correct": false },
+        { "option_id": 4, "text": "A wish list", "is_correct": false }
+      ],
+      "answer": "The power of a person's mind"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where is it all found, according to the poem?",
+      "options": [
+        { "option_id": 1, "text": "In the state of mind", "is_correct": true },
+        { "option_id": 2, "text": "In books", "is_correct": false },
+        { "option_id": 3, "text": "In the playground", "is_correct": false },
+        { "option_id": 4, "text": "In the gym", "is_correct": false }
+      ],
+      "answer": "In the state of mind"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Life's battles don't always go to the ______ man.",
+      "options": [
+        { "option_id": 1, "text": "Smartest", "is_correct": false },
+        { "option_id": 2, "text": "Stronger or faster", "is_correct": true },
+        { "option_id": 3, "text": "Kindest", "is_correct": false },
+        { "option_id": 4, "text": "Richest", "is_correct": false }
+      ],
+      "answer": "Stronger or faster"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the short form of 'will not'?",
+      "options": [
+        { "option_id": 1, "text": "willn't", "is_correct": false },
+        { "option_id": 2, "text": "won't", "is_correct": true },
+        { "option_id": 3, "text": "don't", "is_correct": false },
+        { "option_id": 4, "text": "can't", "is_correct": false }
+      ],
+      "answer": "won't"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does 'outclassed' mean?",
+      "options": [
+        { "option_id": 1, "text": "Going to a different class", "is_correct": false },
+        { "option_id": 2, "text": "When others do better than you", "is_correct": true },
+        { "option_id": 3, "text": "Being late for school", "is_correct": false },
+        { "option_id": 4, "text": "Winning a race", "is_correct": false }
+      ],
+      "answer": "When others do better than you"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The man who wins is the man who ______.",
+      "options": [
+        { "option_id": 1, "text": "is lucky", "is_correct": false },
+        { "option_id": 2, "text": "thinks he can", "is_correct": true },
+        { "option_id": 3, "text": "is the fastest", "is_correct": false },
+        { "option_id": 4, "text": "has help", "is_correct": false }
+      ],
+      "answer": "thinks he can"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the full form of 'you're'?",
+      "options": [
+        { "option_id": 1, "text": "you were", "is_correct": false },
+        { "option_id": 2, "text": "you are", "is_correct": true },
+        { "option_id": 3, "text": "you will", "is_correct": false },
+        { "option_id": 4, "text": "your", "is_correct": false }
+      ],
+      "answer": "you are"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does 'think high' mean?",
+      "options": [
+        { "option_id": 1, "text": "Think of going up or doing better", "is_correct": true },
+        { "option_id": 2, "text": "Look at the sky", "is_correct": false },
+        { "option_id": 3, "text": "Think about mountains", "is_correct": false },
+        { "option_id": 4, "text": "Forget everything", "is_correct": false }
+      ],
+      "answer": "Think of going up or doing better"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The sign (') used in words like 'can't' is called ______.",
+      "options": [
+        { "option_id": 1, "text": "Comma", "is_correct": false },
+        { "option_id": 2, "text": "Apostrophe", "is_correct": true },
+        { "option_id": 3, "text": "Hyphen", "is_correct": false },
+        { "option_id": 4, "text": "Full stop", "is_correct": false }
+      ],
+      "answer": "Apostrophe"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Why did man invent aeroplanes according to the text?",
+      "options": [
+        { "option_id": 1, "text": "Because he was lazy", "is_correct": false },
+        { "option_id": 2, "text": "Because he thought he could fly", "is_correct": true },
+        { "option_id": 3, "text": "To win a prize", "is_correct": false },
+        { "option_id": 4, "text": "To go to space", "is_correct": false }
+      ],
+      "answer": "Because he thought he could fly"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What happens if you think you 'dare not'?",
+      "options": [
+        { "option_id": 1, "text": "You do it anyway", "is_correct": false },
+        { "option_id": 2, "text": "You don't", "is_correct": true },
+        { "option_id": 3, "text": "You succeed", "is_correct": false },
+        { "option_id": 4, "text": "You try again", "is_correct": false }
+      ],
+      "answer": "You don't"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the QR code text for Chapter 12?",
+      "options": [
+        { "option_id": 1, "text": "X2ACIN", "is_correct": true },
+        { "option_id": 2, "text": "X2MFYZ", "is_correct": false },
+        { "option_id": 3, "text": "X24NVP", "is_correct": false },
+        { "option_id": 4, "text": "Z12XYZ", "is_correct": false }
+      ],
+      "answer": "X2ACIN"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the full form of 'you've'?",
+      "options": [
+        { "option_id": 1, "text": "you are", "is_correct": false },
+        { "option_id": 2, "text": "you have", "is_correct": true },
+        { "option_id": 3, "text": "you were", "is_correct": false },
+        { "option_id": 4, "text": "you've got", "is_correct": false }
+      ],
+      "answer": "you have"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which word is used to show belonging (possession) in the text?",
+      "options": [
+        { "option_id": 1, "text": "can't", "is_correct": false },
+        { "option_id": 2, "text": "fellow's", "is_correct": true },
+        { "option_id": 3, "text": "you're", "is_correct": false },
+        { "option_id": 4, "text": "don't", "is_correct": false }
+      ],
+      "answer": "fellow's"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "If you like to win, but think you can't, it is certain ______.",
+      "options": [
+        { "option_id": 1, "text": "you will win", "is_correct": false },
+        { "option_id": 2, "text": "you won't", "is_correct": true },
+        { "option_id": 3, "text": "you are fast", "is_correct": false },
+        { "option_id": 4, "text": "you are strong", "is_correct": false }
+      ],
+      "answer": "you won't"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What does 'state of mind' mean?",
+      "options": [
+        { "option_id": 1, "text": "The way someone thinks/feels", "is_correct": true },
+        { "option_id": 2, "text": "The country someone lives in", "is_correct": false },
+        { "option_id": 3, "text": "A person's age", "is_correct": false },
+        { "option_id": 4, "text": "A person's health", "is_correct": false }
+      ],
+      "answer": "The way someone thinks/feels"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "When does a person win, soon or late?",
+      "options": [
+        { "option_id": 1, "text": "When they are the strongest", "is_correct": false },
+        { "option_id": 2, "text": "When they think they can", "is_correct": true },
+        { "option_id": 3, "text": "When they are the fastest", "is_correct": false },
+        { "option_id": 4, "text": "When they have luck", "is_correct": false }
+      ],
+      "answer": "When they think they can"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Identify the short form for 'do not' from the text.",
+      "options": [
+        { "option_id": 1, "text": "don't", "is_correct": true },
+        { "option_id": 2, "text": "doesnot", "is_correct": false },
+        { "option_id": 3, "text": "didn't", "is_correct": false },
+        { "option_id": 4, "text": "doesn't", "is_correct": false }
+      ],
+      "answer": "don't"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "In the poem, 'you've got to think high to ______'.",
+      "options": [
+        { "option_id": 1, "text": "fly", "is_correct": false },
+        { "option_id": 2, "text": "rise", "is_correct": true },
+        { "option_id": 3, "text": "run", "is_correct": false },
+        { "option_id": 4, "text": "sleep", "is_correct": false }
+      ],
+      "answer": "rise"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What does 'life's' stand for in the poem?",
+      "options": [
+        { "option_id": 1, "text": "life is", "is_correct": false },
+        { "option_id": 2, "text": "of life", "is_correct": true },
+        { "option_id": 3, "text": "life has", "is_correct": false },
+        { "option_id": 4, "text": "lives", "is_correct": false }
+      ],
+      "answer": "of life"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which word is the short form of 'you will'?",
+      "options": [
+        { "option_id": 1, "text": "you've", "is_correct": false },
+        { "option_id": 2, "text": "you'll", "is_correct": true },
+        { "option_id": 3, "text": "you're", "is_correct": false },
+        { "option_id": 4, "text": "youre", "is_correct": false }
+      ],
+      "answer": "you'll"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "When are you beaten according to the poem?",
+      "answer": "You are beaten if you think you are."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "When are you afraid of doing something?",
+      "answer": "You are afraid of doing something when you think you dare not."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "When will you not win according to the poet?",
+      "answer": "You will not win if you think you can't, even if you like to win."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "When are you lost?",
+      "answer": "You are lost if you think you will lose."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Where does success begin?",
+      "answer": "Success begins with a fellow's will."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What should you do if you want to win a prize?",
+      "answer": "You must be sure of yourself before you can win a prize."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Do you always win the first time?",
+      "answer": "No, you may not always win the first time; life's battles go to the man who thinks he can, soon or late."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'will' in the poem?",
+      "answer": "In this poem, 'will' means the power of a person's mind."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Define 'state of mind'.",
+      "answer": "'State of mind' is the way someone thinks or feels at a particular time."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What does it mean to be 'outclassed'?",
+      "answer": "A person is outclassed when others are better than him or perform better than him."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What does 'think high' imply?",
+      "answer": "It means to think of going up or doing better."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Who is the 'man who wins' in the end?",
+      "answer": "The man who wins is the one who thinks he can."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Why did humans invent aeroplanes?",
+      "answer": "Humans invented aeroplanes because man thought he could fly."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is an apostrophe used for in short forms?",
+      "answer": "An apostrophe is used to show that some letters in the words have been dropped."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Give the full form of 'don't'.",
+      "answer": "The full form of 'don't' is 'do not'."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Give the full form of 'can't'.",
+      "answer": "The full form of 'can't' is 'cannot'."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Give the full form of 'won't'.",
+      "answer": "The full form of 'won't' is 'will not'."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Give the full form of 'you'll'.",
+      "answer": "The full form of 'you'll' is 'you will'."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Give the full form of 'you're'.",
+      "answer": "The full form of 'you're' is 'you are'."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Give the full form of 'you've'.",
+      "answer": "The full form of 'you've' is 'you have'."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What does 'fellow's' stand for?",
+      "answer": "It stands for 'of a fellow'."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What does 'life's' stand for?",
+      "answer": "It stands for 'of life'."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Where else is the apostrophe used besides short forms?",
+      "answer": "The apostrophe is also used with 's' to show possession, like in 'Meena's shoes'."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "List two examples of 'noun + 's' from the text.",
+      "answer": "Examples include 'fellow's' and 'life's'."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "How should you say 'We must win this match' according to the pointers?",
+      "answer": "You should say it as if you are nervous, afraid, or angry."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the message regarding 'state of mind' in group discussions?",
+      "answer": "The discussion should focus on how 'state of mind' helps you try harder and do things better."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Does success depend only on strength or speed?",
+      "answer": "No, success depends on one's will and state of mind, not just being stronger or faster."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the relationship between thinking you are outclassed and actually being outclassed?",
+      "answer": "The poem states that if you think you are outclassed, you are."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What must you do to 'rise'?",
+      "answer": "You've got to 'think high' to rise."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who wins 'soon or late'?",
+      "answer": "The man who thinks he can wins soon or late."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Identify the apostrophe in 'Meena's shoes'.",
+      "answer": "The apostrophe is between 'a' and 's' in 'Meena's'."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the core theme of the poem?",
+      "answer": "The core theme is that success is determined by one's attitude and self-belief."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "List three emotions mentioned for oral practice in the pointers.",
+      "answer": "Nervous, afraid, and confident are mentioned."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What sentence is to be said 'confidently' in the pointers?",
+      "answer": "'I will finish my homework in time' is one of the sentences."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Is the man who wins always the faster man?",
+      "answer": "No, life's battles don't always go to the faster man."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is required to win a prize?",
+      "answer": "You have to be sure of yourself."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How does the poet describe being 'lost'?",
+      "answer": "He says if you think you'll lose, you're lost."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Complete the line: 'It's all in the...'?",
+      "answer": "It's all in the state of mind."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What are the two sentences given for 'happy' and 'confident' practice?",
+      "answer": "'I want to learn this song' and 'I will finish my homework in time'."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the significance of 'out of the world we find' in the poem?",
+      "answer": "It suggests that in the real world, success is found to begin with one's will."
+    }
+  ]
+}

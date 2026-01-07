@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.17",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Eco-friendly Celebrations"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the sender of the letter?",
+      "options": [
+        { "option_id": 1, "text": "Atharva", "is_correct": false },
+        { "option_id": 2, "text": "Sharva", "is_correct": true },
+        { "option_id": 3, "text": "Ojas", "is_correct": false },
+        { "option_id": 4, "text": "Kaka", "is_correct": false }
+      ],
+      "answer": "Sharva"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where is Atharva currently staying?",
+      "options": [
+        { "option_id": 1, "text": "Pune", "is_correct": false },
+        { "option_id": 2, "text": "India", "is_correct": false },
+        { "option_id": 3, "text": "America (U.S.)", "is_correct": true },
+        { "option_id": 4, "text": "London", "is_correct": false }
+      ],
+      "answer": "America (U.S.)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which festival did Atharva celebrate in an eco-friendly way?",
+      "options": [
+        { "option_id": 1, "text": "Diwali", "is_correct": false },
+        { "option_id": 2, "text": "Holi", "is_correct": false },
+        { "option_id": 3, "text": "Ganesh Utsav", "is_correct": true },
+        { "option_id": 4, "text": "Thanksgiving", "is_correct": false }
+      ],
+      "answer": "Ganesh Utsav"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is Sharva planning to celebrate without crackers?",
+      "options": [
+        { "option_id": 1, "text": "Diwali", "is_correct": true },
+        { "option_id": 2, "text": "Christmas", "is_correct": false },
+        { "option_id": 3, "text": "New Year", "is_correct": false },
+        { "option_id": 4, "text": "Halloween", "is_correct": false }
+      ],
+      "answer": "Diwali"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT mentioned as a traditional snack in the letter?",
+      "options": [
+        { "option_id": 1, "text": "Chaklees", "is_correct": false },
+        { "option_id": 2, "text": "Karanjees", "is_correct": false },
+        { "option_id": 3, "text": "Samosas", "is_correct": true },
+        { "option_id": 4, "text": "Laddoos", "is_correct": false }
+      ],
+      "answer": "Samosas"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What model is Sharva planning to make for Diwali?",
+      "options": [
+        { "option_id": 1, "text": "A spaceship", "is_correct": false },
+        { "option_id": 2, "text": "Fort Raigad", "is_correct": true },
+        { "option_id": 3, "text": "A solar cooker", "is_correct": false },
+        { "option_id": 4, "text": "A paper plane", "is_correct": false }
+      ],
+      "answer": "Fort Raigad"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Sharva wants to know more about which American festivals?",
+      "options": [
+        { "option_id": 1, "text": "Easter and Christmas", "is_correct": false },
+        { "option_id": 2, "text": "Thanksgiving and Halloween", "is_correct": true },
+        { "option_id": 3, "text": "Independence Day", "is_correct": false },
+        { "option_id": 4, "text": "Valentine's Day", "is_correct": false }
+      ],
+      "answer": "Thanksgiving and Halloween"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does 'Eco-friendly' mean?",
+      "options": [
+        { "option_id": 1, "text": "Very expensive", "is_correct": false },
+        { "option_id": 2, "text": "Not harmful to the environment", "is_correct": true },
+        { "option_id": 3, "text": "Related to money", "is_correct": false },
+        { "option_id": 4, "text": "A new brand name", "is_correct": false }
+      ],
+      "answer": "Not harmful to the environment"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which flower gives an orange colour for Holi?",
+      "options": [
+        { "option_id": 1, "text": "Hibiscus", "is_correct": false },
+        { "option_id": 2, "text": "Palas (Flame of the forest)", "is_correct": true },
+        { "option_id": 3, "text": "Rose", "is_correct": false },
+        { "option_id": 4, "text": "Neem", "is_correct": false }
+      ],
+      "answer": "Palas (Flame of the forest)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What can be used to make a dry green powder for Holi?",
+      "options": [
+        { "option_id": 1, "text": "Beetroot", "is_correct": false },
+        { "option_id": 2, "text": "Zendu petals", "is_correct": false },
+        { "option_id": 3, "text": "Dried leaves of neem or mint", "is_correct": true },
+        { "option_id": 4, "text": "Turmeric", "is_correct": false }
+      ],
+      "answer": "Dried leaves of neem or mint"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the date mentioned on Sharva's letter?",
+      "options": [
+        { "option_id": 1, "text": "25 September 2015", "is_correct": true },
+        { "option_id": 2, "text": "15 August 2015", "is_correct": false },
+        { "option_id": 3, "text": "25 October 2016", "is_correct": false },
+        { "option_id": 4, "text": "1 January 2015", "is_correct": false }
+      ],
+      "answer": "25 September 2015"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What will beetroots produce when soaked in water?",
+      "options": [
+        { "option_id": 1, "text": "Yellow colour", "is_correct": false },
+        { "option_id": 2, "text": "Dark pink-red colour", "is_correct": true },
+        { "option_id": 3, "text": "Green paste", "is_correct": false },
+        { "option_id": 4, "text": "Blue colour", "is_correct": false }
+      ],
+      "answer": "Dark pink-red colour"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is an eco-friendly practice?",
+      "options": [
+        { "option_id": 1, "text": "Using plastic bags", "is_correct": false },
+        { "option_id": 2, "text": "Wasting electricity", "is_correct": false },
+        { "option_id": 3, "text": "Using resources carefully", "is_correct": true },
+        { "option_id": 4, "text": "Using toxic chemicals", "is_correct": false }
+      ],
+      "answer": "Using resources carefully"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is Zendu commonly known as?",
+      "options": [
+        { "option_id": 1, "text": "Hibiscus", "is_correct": false },
+        { "option_id": 2, "text": "Marigold", "is_correct": true },
+        { "option_id": 3, "text": "Lily", "is_correct": false },
+        { "option_id": 4, "text": "Sunflower", "is_correct": false }
+      ],
+      "answer": "Marigold"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What phrase is used to show future plans in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "I was...", "is_correct": false },
+        { "option_id": 2, "text": "I am going to...", "is_correct": true },
+        { "option_id": 3, "text": "I had...", "is_correct": false },
+        { "option_id": 4, "text": "I did...", "is_correct": false }
+      ],
+      "answer": "I am going to..."
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of these is a 'modern' festival suggested in the pointers?",
+      "options": [
+        { "option_id": 1, "text": "Reading Festival", "is_correct": true },
+        { "option_id": 2, "text": "Diwali", "is_correct": false },
+        { "option_id": 3, "text": "Holi", "is_correct": false },
+        { "option_id": 4, "text": "Eid", "is_correct": false }
+      ],
+      "answer": "Reading Festival"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who are Ojas, Kaka, and Kaku?",
+      "options": [
+        { "option_id": 1, "text": "Sharva's neighbors", "is_correct": false },
+        { "option_id": 2, "text": "Atharva's family members", "is_correct": true },
+        { "option_id": 3, "text": "Famous actors", "is_correct": false },
+        { "option_id": 4, "text": "Sharva's classmates", "is_correct": false }
+      ],
+      "answer": "Atharva's family members"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "To make a deep red colour for Holi, which flower is used?",
+      "options": [
+        { "option_id": 1, "text": "Jaswand (Hibiscus)", "is_correct": true },
+        { "option_id": 2, "text": "Neem", "is_correct": false },
+        { "option_id": 3, "text": "Spinach", "is_correct": false },
+        { "option_id": 4, "text": "Tulsi", "is_correct": false }
+      ],
+      "answer": "Jaswand (Hibiscus)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What does an eco-friendly person avoid using?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Plastic", "is_correct": true },
+        { "option_id": 3, "text": "Food", "is_correct": false },
+        { "option_id": 4, "text": "Books", "is_correct": false }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the QR code text at the bottom of page 61?",
+      "options": [
+        { "option_id": 1, "text": "X47R9V", "is_correct": true },
+        { "option_id": 2, "text": "A1B2C3", "is_correct": false },
+        { "option_id": 3, "text": "ECO123", "is_correct": false },
+        { "option_id": 4, "text": "PUNE2015", "is_correct": false }
+      ],
+      "answer": "X47R9V"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Where does Sharva live?",
+      "options": [
+        { "option_id": 1, "text": "New York", "is_correct": false },
+        { "option_id": 2, "text": "Pune", "is_correct": true },
+        { "option_id": 3, "text": "Mumbai", "is_correct": false },
+        { "option_id": 4, "text": "America", "is_correct": false }
+      ],
+      "answer": "Pune"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How is the green paste for Holi made?",
+      "options": [
+        { "option_id": 1, "text": "By drying leaves", "is_correct": false },
+        { "option_id": 2, "text": "By crushing fresh green leaves", "is_correct": true },
+        { "option_id": 3, "text": "By boiling beetroot", "is_correct": false },
+        { "option_id": 4, "text": "By using food color", "is_correct": false }
+      ],
+      "answer": "By crushing fresh green leaves"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "According to the text, what is good for all living things?",
+      "options": [
+        { "option_id": 1, "text": "Crackers", "is_correct": false },
+        { "option_id": 2, "text": "Being eco-friendly", "is_correct": true },
+        { "option_id": 3, "text": "Toxic chemicals", "is_correct": false },
+        { "option_id": 4, "text": "Wasting water", "is_correct": false }
+      ],
+      "answer": "Being eco-friendly"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What should you do with Zendu petals to get a dry powder?",
+      "options": [
+        { "option_id": 1, "text": "Soak them in water", "is_correct": false },
+        { "option_id": 2, "text": "Dry them in the shade", "is_correct": true },
+        { "option_id": 3, "text": "Boil them", "is_correct": false },
+        { "option_id": 4, "text": "Grind them while wet", "is_correct": false }
+      ],
+      "answer": "Dry them in the shade"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What relationship do Sharva and Atharva share?",
+      "options": [
+        { "option_id": 1, "text": "Brothers", "is_correct": false },
+        { "option_id": 2, "text": "Cousins and friends", "is_correct": true },
+        { "option_id": 3, "text": "Teacher and student", "is_correct": false },
+        { "option_id": 4, "text": "Neighbors", "is_correct": false }
+      ],
+      "answer": "Cousins and friends"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who wrote the letter to Atharva?",
+      "answer": "The letter was written by Sharva."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the date of the letter?",
+      "answer": "The date of the letter is 25 September 2015."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Where was the letter written from?",
+      "answer": "The letter was written from Pune."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Which festival did Atharva celebrate in America?",
+      "answer": "Atharva celebrated Ganesh Utsav in America."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is Sharva planning for Diwali?",
+      "answer": "Sharva is planning an eco-friendly Diwali without crackers."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "List four traditional snacks mentioned in the letter.",
+      "answer": "The snacks mentioned are chaklees, anarsaas, karanjees, and laddoos."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What will Sharva make at home instead of using crackers?",
+      "answer": "Sharva will make a beautiful paper-lantern at home."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What model is Sharva working on?",
+      "answer": "Sharva is making a model of Fort Raigad."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What information is Sharva collecting for the model?",
+      "answer": "Sharva is collecting pictures and information about Raigad."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Which American festivals is Sharva curious about?",
+      "answer": "Sharva is curious about Thanksgiving and Halloween."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Define 'Eco-friendly' as per the text.",
+      "answer": "Eco-friendly means not harmful to the environment and good for the earth, humans, and all living things."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What does eco-friendly behavior NOT do to the environment?",
+      "answer": "It does not pollute or damage air, water, soil, or land."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "How can one use resources carefully to be eco-friendly?",
+      "answer": "Resources like food, water, and electricity should be used carefully without wasting them."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What materials should be avoided to be eco-friendly?",
+      "answer": "One should avoid using toxic chemicals and materials like plastic."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "How can you help the flora and fauna in your neighborhood?",
+      "answer": "By helping to grow more trees and caring for the animals in the neighborhood."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "How do you make a dark pink-red colour for Holi?",
+      "answer": "By grating beetroots and soaking them in a little water."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What color do Palas flowers produce?",
+      "answer": "Palas flowers produce a very pretty orange colour."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "How can you get a deep red colour for Holi?",
+      "answer": "By using red jaswand (hibiscus) flowers in water."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "How is dry yellow/orange powder made from Zendu flowers?",
+      "answer": "By drying the petals in the shade and then powdering them."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "List four plants whose leaves can make green powder.",
+      "answer": "Neem, mint, coriander, and spinach."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "How can you get a green paste for Holi?",
+      "answer": "By crushing or grinding fresh green leaves."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is the advice given regarding finding colors in the kitchen?",
+      "answer": "Talk to your mother to find out other safe natural colors available in the kitchen."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What grammar point do the phrases 'We are going to' and 'I am going to' show?",
+      "answer": "These phrases are used to show future plans."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Who are Kaka and Kaku in the context of the letter?",
+      "answer": "They are Atharva's parents to whom Sharva sends regards."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Pointers' section?",
+      "answer": "The pointers provide exercises like guessing meanings, listing points, and discussing eco-friendly ways to celebrate."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does Sharva ask Atharva to do in the next letter?",
+      "answer": "Sharva asks Atharva to write more about Ganesh Utsav in America and about Thanksgiving and Halloween."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why does Sharva call Atharva 'bro'?",
+      "answer": "Sharva explains that they are not just cousins, but also friends."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a 'Reading Festival' an example of?",
+      "answer": "It is an example of a modern festival with new ways of celebrating."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does Sharva mean by 'mouth-watering'?",
+      "answer": "It refers to the delicious nature of the traditional snacks like chaklees and laddoos."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How can you make 'green water' for Holi?",
+      "answer": "By adding the paste of fresh green leaves to water."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Is Sharva celebrating Diwali with crackers?",
+      "answer": "No, Sharva is planning a Diwali without crackers."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the English name for 'Palas'?",
+      "answer": "The English name for Palas is 'Flame of the forest'."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the English name for 'Jaswand'?",
+      "answer": "The English name for Jaswand is 'Hibiscus'."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the English name for 'Zendu'?",
+      "answer": "The English name for Zendu is 'Marigold'."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Where should flower petals be dried to make powder?",
+      "answer": "They should be dried in the shade."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does Sharva say about meeting Atharva?",
+      "answer": "Sharva says they are all waiting to meet Atharva and asks when he plans to come to India."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does 'with/without' exercise help students understand?",
+      "answer": "It helps them discuss the difference between celebrating with or without certain things, like crackers."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How can a paper-lantern be eco-friendly?",
+      "answer": "By making it at home with paper instead of using materials that harm the environment."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the tone of Sharva's letter?",
+      "answer": "The tone is loving, friendly, and enthusiastic."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which specific fort is mentioned in the lesson?",
+      "answer": "Fort Raigad is mentioned."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Does being eco-friendly involve wasting electricity?",
+      "answer": "No, it involves using electricity carefully without wasting it."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does Sharva love reading?",
+      "answer": "Sharva always loves reading Atharva's letters."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is 'Ojas' to Sharva?",
+      "answer": "Ojas is a dear person to whom Sharva sends love, likely a younger brother or cousin."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Name the state in India where Pune is located (General Knowledge based on context).",
+      "answer": "Pune is located in the state of Maharashtra (as implied by the Marathi snacks and Fort Raigad)."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How can we make Holi safe?",
+      "answer": "By using natural colours made from plants and vegetables instead of toxic chemicals."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the significance of 25th September in this chapter?",
+      "answer": "It is the date when Sharva wrote the letter."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Can we use coriander to make green color?",
+      "answer": "Yes, dried leaves of coriander can be used to get a dry green powder."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'with'?",
+      "answer": "The opposite of 'with' is 'without'."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How do you get wet color from dried Zendu powder?",
+      "answer": "By adding the dry powder to water."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the main theme of Chapter 17?",
+      "answer": "The main theme is celebrating festivals in an eco-friendly way."
+    }
+  ]
+}

@@ -1,0 +1,1213 @@
+{
+  "Chapter 1": "Our Life in Society",
+  "lessons": [
+    "Why did man feel the need for society?",
+    "The social nature of man",
+    "Our development",
+    "What is meant by society?"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which condition was lacking in the nomadic stage that led man to seek a social life?",
+      "options": [
+        { "option_id": 1, "text": "Means of communication", "is_correct": false },
+        { "option_id": 2, "text": "Stability and security", "is_correct": true },
+        { "option_id": 3, "text": "Agricultural knowledge", "is_correct": false },
+        { "option_id": 4, "text": "Artistic expression", "is_correct": false }
+      ],
+      "answer": "Stability and security"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What realization mainly encouraged people to come together in groups?",
+      "options": [
+        { "option_id": 1, "text": "Living alone increased freedom", "is_correct": false },
+        { "option_id": 2, "text": "Group living provided security", "is_correct": true },
+        { "option_id": 3, "text": "Groups reduced responsibilities", "is_correct": false },
+        { "option_id": 4, "text": "Nomadic life was easier", "is_correct": false }
+      ],
+      "answer": "Group living provided security"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which outcome resulted from the need to manage day-to-day life in society?",
+      "options": [
+        { "option_id": 1, "text": "End of traditions", "is_correct": false },
+        { "option_id": 2, "text": "Rise of rules and laws", "is_correct": true },
+        { "option_id": 3, "text": "Decrease in interactions", "is_correct": false },
+        { "option_id": 4, "text": "Loss of social values", "is_correct": false }
+      ],
+      "answer": "Rise of rules and laws"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following best describes the effect of rules and laws on society?",
+      "options": [
+        { "option_id": 1, "text": "They limited human needs", "is_correct": false },
+        { "option_id": 2, "text": "They made life more organized and stable", "is_correct": true },
+        { "option_id": 3, "text": "They removed emotional needs", "is_correct": false },
+        { "option_id": 4, "text": "They discouraged group living", "is_correct": false }
+      ],
+      "answer": "They made life more organized and stable"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which feeling reflects man's social nature as described in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Desire to live in isolation", "is_correct": false },
+        { "option_id": 2, "text": "Need for companionship", "is_correct": true },
+        { "option_id": 3, "text": "Preference for silence", "is_correct": false },
+        { "option_id": 4, "text": "Avoidance of relationships", "is_correct": false }
+      ],
+      "answer": "Need for companionship"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following is identified as a physical need in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Security", "is_correct": false },
+        { "option_id": 2, "text": "Happiness", "is_correct": false },
+        { "option_id": 3, "text": "Food", "is_correct": true },
+        { "option_id": 4, "text": "Appreciation", "is_correct": false }
+      ],
+      "answer": "Food"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why are physical needs alone not sufficient for human satisfaction?",
+      "options": [
+        { "option_id": 1, "text": "They are difficult to fulfill", "is_correct": false },
+        { "option_id": 2, "text": "Humans also have emotional and psychological needs", "is_correct": true },
+        { "option_id": 3, "text": "They reduce social interaction", "is_correct": false },
+        { "option_id": 4, "text": "They depend only on individuals", "is_correct": false }
+      ],
+      "answer": "Humans also have emotional and psychological needs"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which example in the text illustrates an emotional need?",
+      "options": [
+        { "option_id": 1, "text": "Eating food", "is_correct": false },
+        { "option_id": 2, "text": "Wearing clothes", "is_correct": false },
+        { "option_id": 3, "text": "Feeling secure", "is_correct": true },
+        { "option_id": 4, "text": "Building a house", "is_correct": false }
+      ],
+      "answer": "Feeling secure"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What human response shows the need for sharing emotions?",
+      "options": [
+        { "option_id": 1, "text": "Keeping achievements private", "is_correct": false },
+        { "option_id": 2, "text": "Sharing happiness and sadness with others", "is_correct": true },
+        { "option_id": 3, "text": "Ignoring others’ presence", "is_correct": false },
+        { "option_id": 4, "text": "Avoiding communication", "is_correct": false }
+      ],
+      "answer": "Sharing happiness and sadness with others"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which group is specifically mentioned as providing companionship?",
+      "options": [
+        { "option_id": 1, "text": "Strangers", "is_correct": false },
+        { "option_id": 2, "text": "Family members, relatives and friends", "is_correct": true },
+        { "option_id": 3, "text": "Only colleagues", "is_correct": false },
+        { "option_id": 4, "text": "Only neighbors", "is_correct": false }
+      ],
+      "answer": "Family members, relatives and friends"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What makes living with people both a happiness and a necessity?",
+      "options": [
+        { "option_id": 1, "text": "It removes personal responsibilities", "is_correct": false },
+        { "option_id": 2, "text": "It fulfills multiple human needs", "is_correct": true },
+        { "option_id": 3, "text": "It reduces dependence", "is_correct": false },
+        { "option_id": 4, "text": "It limits freedom", "is_correct": false }
+      ],
+      "answer": "It fulfills multiple human needs"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which basic need is fulfilled through services mentioned in society?",
+      "options": [
+        { "option_id": 1, "text": "Loneliness", "is_correct": false },
+        { "option_id": 2, "text": "Health", "is_correct": true },
+        { "option_id": 3, "text": "Isolation", "is_correct": false },
+        { "option_id": 4, "text": "Silence", "is_correct": false }
+      ],
+      "answer": "Health"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why are education and health services important according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "They increase wealth only", "is_correct": false },
+        { "option_id": 2, "text": "They allow us to live with dignity", "is_correct": true },
+        { "option_id": 3, "text": "They reduce social contact", "is_correct": false },
+        { "option_id": 4, "text": "They limit occupations", "is_correct": false }
+      ],
+      "answer": "They allow us to live with dignity"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which factor leads to the development of many occupations?",
+      "options": [
+        { "option_id": 1, "text": "Individual effort alone", "is_correct": false },
+        { "option_id": 2, "text": "Variety of human needs", "is_correct": true },
+        { "option_id": 3, "text": "Lack of resources", "is_correct": false },
+        { "option_id": 4, "text": "Absence of skills", "is_correct": false }
+      ],
+      "answer": "Variety of human needs"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which sequence best explains the need for paper production mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Paper → Books → Studying", "is_correct": false },
+        { "option_id": 2, "text": "Studying → Books → Paper", "is_correct": true },
+        { "option_id": 3, "text": "Books → Printing → Reading", "is_correct": false },
+        { "option_id": 4, "text": "Education → Writing → Binding", "is_correct": false }
+      ],
+      "answer": "Studying → Books → Paper"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What does the contribution of many people to production show?",
+      "options": [
+        { "option_id": 1, "text": "Self-sufficiency of individuals", "is_correct": false },
+        { "option_id": 2, "text": "Interdependence in society", "is_correct": true },
+        { "option_id": 3, "text": "Lack of organization", "is_correct": false },
+        { "option_id": 4, "text": "Absence of skills", "is_correct": false }
+      ],
+      "answer": "Interdependence in society"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "How does the variety of occupations affect individuals?",
+      "options": [
+        { "option_id": 1, "text": "It limits skill development", "is_correct": false },
+        { "option_id": 2, "text": "It helps develop skills and capabilities", "is_correct": true },
+        { "option_id": 3, "text": "It creates confusion", "is_correct": false },
+        { "option_id": 4, "text": "It reduces cooperation", "is_correct": false }
+      ],
+      "answer": "It helps develop skills and capabilities"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which emotional needs are fulfilled through social living?",
+      "options": [
+        { "option_id": 1, "text": "Security, appreciation, support", "is_correct": true },
+        { "option_id": 2, "text": "Food, shelter, clothing", "is_correct": false },
+        { "option_id": 3, "text": "Tools, machines, goods", "is_correct": false },
+        { "option_id": 4, "text": "Rules, laws, systems", "is_correct": false }
+      ],
+      "answer": "Security, appreciation, support"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What term best describes life in society as mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Independent", "is_correct": false },
+        { "option_id": 2, "text": "Interdependent", "is_correct": true },
+        { "option_id": 3, "text": "Isolated", "is_correct": false },
+        { "option_id": 4, "text": "Temporary", "is_correct": false }
+      ],
+      "answer": "Interdependent"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which human qualities are described as dormant at birth?",
+      "options": [
+        { "option_id": 1, "text": "Needs and desires", "is_correct": false },
+        { "option_id": 2, "text": "Qualities and capabilities", "is_correct": true },
+        { "option_id": 3, "text": "Rules and values", "is_correct": false },
+        { "option_id": 4, "text": "Occupations", "is_correct": false }
+      ],
+      "answer": "Qualities and capabilities"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Where do human qualities mainly develop according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "In isolation", "is_correct": false },
+        { "option_id": 2, "text": "In society", "is_correct": true },
+        { "option_id": 3, "text": "Only in schools", "is_correct": false },
+        { "option_id": 4, "text": "Only at home", "is_correct": false }
+      ],
+      "answer": "In society"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How do humans initially learn language?",
+      "options": [
+        { "option_id": 1, "text": "By birth", "is_correct": false },
+        { "option_id": 2, "text": "Gradually through interaction", "is_correct": true },
+        { "option_id": 3, "text": "Only through books", "is_correct": false },
+        { "option_id": 4, "text": "Only in schools", "is_correct": false }
+      ],
+      "answer": "Gradually through interaction"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What usually becomes a person’s first language?",
+      "options": [
+        { "option_id": 1, "text": "Language taught in school", "is_correct": false },
+        { "option_id": 2, "text": "Language spoken at home", "is_correct": true },
+        { "option_id": 3, "text": "Language of friends", "is_correct": false },
+        { "option_id": 4, "text": "Language of books", "is_correct": false }
+      ],
+      "answer": "Language spoken at home"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Why do people learn additional languages in society?",
+      "options": [
+        { "option_id": 1, "text": "Because everyone speaks the same language", "is_correct": false },
+        { "option_id": 2, "text": "Due to interaction with neighbors and schools", "is_correct": true },
+        { "option_id": 3, "text": "Due to lack of communication", "is_correct": false },
+        { "option_id": 4, "text": "Due to isolation", "is_correct": false }
+      ],
+      "answer": "Due to interaction with neighbors and schools"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What example is used to explain independent thinking?",
+      "options": [
+        { "option_id": 1, "text": "Different occupations", "is_correct": false },
+        { "option_id": 2, "text": "Different essays on the same topic", "is_correct": true },
+        { "option_id": 3, "text": "Different languages", "is_correct": false },
+        { "option_id": 4, "text": "Different needs", "is_correct": false }
+      ],
+      "answer": "Different essays on the same topic"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Why are no two essays exactly the same?",
+      "options": [
+        { "option_id": 1, "text": "Students copy differently", "is_correct": false },
+        { "option_id": 2, "text": "Each person’s thought process differs", "is_correct": true },
+        { "option_id": 3, "text": "Topics are unclear", "is_correct": false },
+        { "option_id": 4, "text": "Teachers expect variation", "is_correct": false }
+      ],
+      "answer": "Each person’s thought process differs"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which ability is strengthened by living in society?",
+      "options": [
+        { "option_id": 1, "text": "Avoiding expression", "is_correct": false },
+        { "option_id": 2, "text": "Expressing thoughts and feelings", "is_correct": true },
+        { "option_id": 3, "text": "Suppressing emotions", "is_correct": false },
+        { "option_id": 4, "text": "Living alone", "is_correct": false }
+      ],
+      "answer": "Expressing thoughts and feelings"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which talents are mentioned as developing in society?",
+      "options": [
+        { "option_id": 1, "text": "Only physical talents", "is_correct": false },
+        { "option_id": 2, "text": "Artistic and other talents", "is_correct": true },
+        { "option_id": 3, "text": "Only academic talents", "is_correct": false },
+        { "option_id": 4, "text": "Only professional talents", "is_correct": false }
+      ],
+      "answer": "Artistic and other talents"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Why can singers, artists and scientists develop better in society?",
+      "options": [
+        { "option_id": 1, "text": "Due to strict control", "is_correct": false },
+        { "option_id": 2, "text": "Due to encouragement and backing", "is_correct": true },
+        { "option_id": 3, "text": "Due to competition only", "is_correct": false },
+        { "option_id": 4, "text": "Due to isolation", "is_correct": false }
+      ],
+      "answer": "Due to encouragement and backing"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is described as very important for developing talents?",
+      "options": [
+        { "option_id": 1, "text": "Strict discipline", "is_correct": false },
+        { "option_id": 2, "text": "Encouragement from society", "is_correct": true },
+        { "option_id": 3, "text": "Personal wealth", "is_correct": false },
+        { "option_id": 4, "text": "Natural ability alone", "is_correct": false }
+      ],
+      "answer": "Encouragement from society"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which people are included in the concept of society?",
+      "options": [
+        { "option_id": 1, "text": "Only adults", "is_correct": false },
+        { "option_id": 2, "text": "People of all ages", "is_correct": true },
+        { "option_id": 3, "text": "Only working people", "is_correct": false },
+        { "option_id": 4, "text": "Only families", "is_correct": false }
+      ],
+      "answer": "People of all ages"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which of the following is stated as part of society?",
+      "options": [
+        { "option_id": 1, "text": "Only individuals", "is_correct": false },
+        { "option_id": 2, "text": "Groups, institutions and organizations", "is_correct": true },
+        { "option_id": 3, "text": "Only governments", "is_correct": false },
+        { "option_id": 4, "text": "Only markets", "is_correct": false }
+      ],
+      "answer": "Groups, institutions and organizations"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which aspect is emphasized as forming society?",
+      "options": [
+        { "option_id": 1, "text": "Physical boundaries", "is_correct": false },
+        { "option_id": 2, "text": "Inter-relationships and interactions", "is_correct": true },
+        { "option_id": 3, "text": "Population size", "is_correct": false },
+        { "option_id": 4, "text": "Economic wealth", "is_correct": false }
+      ],
+      "answer": "Inter-relationships and interactions"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Why is society not considered a mere crowd?",
+      "options": [
+        { "option_id": 1, "text": "People live separately", "is_correct": false },
+        { "option_id": 2, "text": "People come together for common objectives", "is_correct": true },
+        { "option_id": 3, "text": "There are no interactions", "is_correct": false },
+        { "option_id": 4, "text": "There are no rules", "is_correct": false }
+      ],
+      "answer": "People come together for common objectives"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What distinguishes a society from a mob?",
+      "options": [
+        { "option_id": 1, "text": "Temporary gathering", "is_correct": false },
+        { "option_id": 2, "text": "Shared goals and cooperation", "is_correct": true },
+        { "option_id": 3, "text": "Random movement", "is_correct": false },
+        { "option_id": 4, "text": "Lack of structure", "is_correct": false }
+      ],
+      "answer": "Shared goals and cooperation"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Why does society need a permanent system?",
+      "options": [
+        { "option_id": 1, "text": "To increase population", "is_correct": false },
+        { "option_id": 2, "text": "To fulfill basic needs continuously", "is_correct": true },
+        { "option_id": 3, "text": "To reduce occupations", "is_correct": false },
+        { "option_id": 4, "text": "To avoid interactions", "is_correct": false }
+      ],
+      "answer": "To fulfill basic needs continuously"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which need is directly linked with agriculture in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Education", "is_correct": false },
+        { "option_id": 2, "text": "Food", "is_correct": true },
+        { "option_id": 3, "text": "Security", "is_correct": false },
+        { "option_id": 4, "text": "Appreciation", "is_correct": false }
+      ],
+      "answer": "Food"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which institution is mentioned as supporting farmers?",
+      "options": [
+        { "option_id": 1, "text": "Schools", "is_correct": false },
+        { "option_id": 2, "text": "Banks", "is_correct": true },
+        { "option_id": 3, "text": "Hospitals", "is_correct": false },
+        { "option_id": 4, "text": "Libraries", "is_correct": false }
+      ],
+      "answer": "Banks"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What role do markets play according to the text?",
+      "options": [
+        { "option_id": 1, "text": "Producing goods", "is_correct": false },
+        { "option_id": 2, "text": "Providing a place for goods produced", "is_correct": true },
+        { "option_id": 3, "text": "Teaching skills", "is_correct": false },
+        { "option_id": 4, "text": "Maintaining law", "is_correct": false }
+      ],
+      "answer": "Providing a place for goods produced"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What results from the existence of many systems in society?",
+      "options": [
+        { "option_id": 1, "text": "Instability", "is_correct": false },
+        { "option_id": 2, "text": "Stability of society", "is_correct": true },
+        { "option_id": 3, "text": "Confusion", "is_correct": false },
+        { "option_id": 4, "text": "Isolation", "is_correct": false }
+      ],
+      "answer": "Stability of society"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is essential for the continued existence of society?",
+      "options": [
+        { "option_id": 1, "text": "Competition", "is_correct": false },
+        { "option_id": 2, "text": "A system", "is_correct": true },
+        { "option_id": 3, "text": "Isolation", "is_correct": false },
+        { "option_id": 4, "text": "Uniform thinking", "is_correct": false }
+      ],
+      "answer": "A system"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which need is mentioned along with food, clothing and shelter?",
+      "options": [
+        { "option_id": 1, "text": "Entertainment", "is_correct": false },
+        { "option_id": 2, "text": "Security", "is_correct": true },
+        { "option_id": 3, "text": "Luxury", "is_correct": false },
+        { "option_id": 4, "text": "Leisure", "is_correct": false }
+      ],
+      "answer": "Security"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Why cannot day-to-day affairs run without a system?",
+      "options": [
+        { "option_id": 1, "text": "People forget their duties", "is_correct": false },
+        { "option_id": 2, "text": "Society cannot be carried on smoothly", "is_correct": true },
+        { "option_id": 3, "text": "Resources are unlimited", "is_correct": false },
+        { "option_id": 4, "text": "People prefer chaos", "is_correct": false }
+      ],
+      "answer": "Society cannot be carried on smoothly"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which example shows a system involving multiple institutions?",
+      "options": [
+        { "option_id": 1, "text": "Language learning", "is_correct": false },
+        { "option_id": 2, "text": "Agriculture-related activities", "is_correct": true },
+        { "option_id": 3, "text": "Essay writing", "is_correct": false },
+        { "option_id": 4, "text": "Sharing happiness", "is_correct": false }
+      ],
+      "answer": "Agriculture-related activities"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which element is NOT listed as part of agricultural systems?",
+      "options": [
+        { "option_id": 1, "text": "Factories", "is_correct": false },
+        { "option_id": 2, "text": "Banks", "is_correct": false },
+        { "option_id": 3, "text": "Markets", "is_correct": false },
+        { "option_id": 4, "text": "Schools", "is_correct": true }
+      ],
+      "answer": "Schools"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What does dependence on one another mainly indicate?",
+      "options": [
+        { "option_id": 1, "text": "Weakness of individuals", "is_correct": false },
+        { "option_id": 2, "text": "Social interdependence", "is_correct": true },
+        { "option_id": 3, "text": "Loss of freedom", "is_correct": false },
+        { "option_id": 4, "text": "Lack of systems", "is_correct": false }
+      ],
+      "answer": "Social interdependence"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which statement best reflects the chapter’s view of society?",
+      "options": [
+        { "option_id": 1, "text": "Society is a random collection of people", "is_correct": false },
+        { "option_id": 2, "text": "Society is a structured system of cooperation", "is_correct": true },
+        { "option_id": 3, "text": "Society limits individual growth", "is_correct": false },
+        { "option_id": 4, "text": "Society exists only for material needs", "is_correct": false }
+      ],
+      "answer": "Society is a structured system of cooperation"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What enables individuals to express artistic talents?",
+      "options": [
+        { "option_id": 1, "text": "Isolation", "is_correct": false },
+        { "option_id": 2, "text": "Opportunities provided by society", "is_correct": true },
+        { "option_id": 3, "text": "Natural talent alone", "is_correct": false },
+        { "option_id": 4, "text": "Strict rules", "is_correct": false }
+      ],
+      "answer": "Opportunities provided by society"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which factor most directly contributes to organized social life?",
+      "options": [
+        { "option_id": 1, "text": "Individual thinking", "is_correct": false },
+        { "option_id": 2, "text": "Rules, ethics and values", "is_correct": true },
+        { "option_id": 3, "text": "Natural instincts", "is_correct": false },
+        { "option_id": 4, "text": "Economic wealth", "is_correct": false }
+      ],
+      "answer": "Rules, ethics and values"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which statement best explains why humans cannot live entirely alone?",
+      "options": [
+        { "option_id": 1, "text": "They lack physical strength", "is_correct": false },
+        { "option_id": 2, "text": "They have social, emotional and developmental needs", "is_correct": true },
+        { "option_id": 3, "text": "They dislike independence", "is_correct": false },
+        { "option_id": 4, "text": "They cannot think independently", "is_correct": false }
+      ],
+      "answer": "They have social, emotional and developmental needs"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why was a stable and secure community life necessary for human development?",
+      "answer": "A stable and secure community life was necessary because it supports the overall development of both the individual and society."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What limitation of the nomadic stage is mentioned in the chapter?",
+      "answer": "The nomadic stage lacked stability and security for human life."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What realization motivated humans to live together?",
+      "answer": "Humans realized that living in a group provides security."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why did people feel the need to develop an organized way of life?",
+      "answer": "People developed an organized way of life to ensure security and smooth functioning of daily activities."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What led to the creation of conventions, traditions, and values in society?",
+      "answer": "The need to manage day-to-day matters smoothly led to the creation of conventions, traditions, and values."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How did rules and laws affect human life in society?",
+      "answer": "Rules and laws made human life in society more organized and stable."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is man described as social by nature?",
+      "answer": "Man is social by nature because living with others makes him happy and fulfills his needs."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does companionship provide to humans?",
+      "answer": "Companionship provides emotional satisfaction and a sense of togetherness."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name any two physical needs mentioned in the chapter.",
+      "answer": "Food and shelter are two physical needs mentioned in the chapter."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why are physical needs alone not enough for humans?",
+      "answer": "Physical needs alone are not enough because humans also have emotional and psychological needs."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What emotional need is specifically mentioned in the text?",
+      "answer": "The need to feel secure is specifically mentioned as an emotional need."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why do people want company when they are happy or sad?",
+      "answer": "People want company to share their happiness and to get support when they are sad."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Whose companionship do people usually like?",
+      "answer": "People usually like the companionship of family members, relatives, and friends."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What do feelings like sharing happiness indicate about humans?",
+      "answer": "Such feelings indicate the social nature of humans."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How are basic needs fulfilled in society?",
+      "answer": "Basic needs are fulfilled through the labour, skills, services, and facilities provided by society."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why are education and health services important in society?",
+      "answer": "They are important because they help people live with dignity."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How does society help in producing a variety of goods?",
+      "answer": "Society enables people with different skills and occupations to contribute to the production of goods."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why do occupations like printing and book binding develop?",
+      "answer": "They develop because books are needed for studying and paper is required to make books."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What role do many people play in fulfilling human needs?",
+      "answer": "Many people contribute through different occupations to fulfill human needs."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How does the variety of occupations benefit individuals?",
+      "answer": "It helps individuals develop their skills and capabilities."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What emotional needs make people depend on each other?",
+      "answer": "Needs such as security, appreciation, praise, and support make people depend on each other."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What does interdependence in society mean?",
+      "answer": "It means people rely on one another to fulfill various needs."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is meant by dormant qualities in humans?",
+      "answer": "Dormant qualities are abilities present at birth that develop later in society."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Where do human qualities and capabilities mainly develop?",
+      "answer": "Human qualities and capabilities mainly develop in society."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How do humans learn language?",
+      "answer": "Humans learn language gradually through interaction with people around them."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is usually a person’s first language?",
+      "answer": "A person’s first language is usually the language spoken at home."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How do neighbors influence language learning?",
+      "answer": "People pick up additional languages if their neighbors speak different languages."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What role do schools play in language development?",
+      "answer": "Schools provide opportunities to learn different languages."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What ability allows humans to think differently from one another?",
+      "answer": "The ability to think independently allows humans to think differently."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What example is used to explain independent thinking?",
+      "answer": "The example of students writing different essays on the same topic is used."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How does society help develop emotional capabilities?",
+      "answer": "Society provides interactions and experiences that strengthen emotional capabilities."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What opportunities does society provide for expression?",
+      "answer": "Society provides opportunities to express thoughts and feelings."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Which talents develop in society apart from intellectual abilities?",
+      "answer": "Artistic and other talents develop in society."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why is encouragement important for talent development?",
+      "answer": "Encouragement helps individuals develop and improve their talents."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Who are included in the term society according to the chapter?",
+      "answer": "Society includes men, women, grown-ups, old people, and young children."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How are families related to society?",
+      "answer": "Families are an important part of society."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What groups are included in society besides families?",
+      "answer": "Different groups, institutions, and organizations are included in society."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What role do interactions play in forming society?",
+      "answer": "Interactions help build relationships and cooperation among people in society."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why is society not considered a crowd?",
+      "answer": "Society is formed for common objectives, unlike a mere crowd."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is necessary for the day-to-day affairs of society?",
+      "answer": "A permanent system is necessary for day-to-day affairs of society."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why is a system essential for society’s existence?",
+      "answer": "A system is essential to fulfill needs and continue social life smoothly."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Which basic needs require a permanent system in society?",
+      "answer": "Food, clothing, shelter, and security require a permanent system."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why is agriculture considered essential in society?",
+      "answer": "Agriculture is essential because it fulfills the need for food."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What institutions support agricultural activities?",
+      "answer": "Factories, banks, and markets support agricultural activities."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the role of banks in agriculture?",
+      "answer": "Banks provide loans to farmers."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How do markets contribute to society?",
+      "answer": "Markets provide a place for selling goods produced."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What effect do multiple systems have on society?",
+      "answer": "Multiple systems make society stable."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why is cooperation necessary in society?",
+      "answer": "Cooperation is necessary to fulfill needs and achieve common objectives."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How does society help individuals progress?",
+      "answer": "Society provides opportunities, encouragement, and support for individual progress."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What overall role does society play in human life?",
+      "answer": "Society supports human development, stability, and fulfillment of needs."
+    },
+{
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why did the lack of stability and security in nomadic life slow down human development?",
+      "answer": "Because without stability and security, humans could not organize their lives or plan long-term growth."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How did living in groups transform human life from survival to organized living?",
+      "answer": "Living in groups provided security, cooperation, and the need for rules, leading to organized living."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why are rules and laws essential for smooth functioning in society?",
+      "answer": "Rules and laws regulate behavior and help manage daily activities smoothly."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How do traditions and values strengthen social life?",
+      "answer": "They guide behavior, promote unity, and make social life stable and organized."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is security considered a foundation of social living?",
+      "answer": "Security allows individuals to live without fear and focus on development."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How does companionship influence emotional well-being?",
+      "answer": "Companionship provides emotional support, happiness, and a sense of belonging."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why does sharing happiness and sorrow reflect social nature?",
+      "answer": "It shows humans depend on others emotionally and value relationships."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How does fulfilling emotional needs improve quality of life?",
+      "answer": "It creates mental satisfaction, confidence, and emotional stability."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why can human dignity be maintained only within a society?",
+      "answer": "Society provides education, health services, and support needed for dignified living."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How does the division of labour increase efficiency in society?",
+      "answer": "Different people perform specialized tasks, improving productivity and fulfillment of needs."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why does the existence of many occupations show social interdependence?",
+      "answer": "Each occupation depends on others to complete the chain of fulfilling needs."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How does society help individuals discover and improve their skills?",
+      "answer": "Society provides opportunities, encouragement, and platforms to practice skills."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why are emotional needs as important as physical needs?",
+      "answer": "Without emotional satisfaction, physical comfort alone cannot ensure happiness."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How does interdependence promote cooperation among people?",
+      "answer": "People rely on one another, which encourages mutual help and cooperation."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why would human abilities remain undeveloped without society?",
+      "answer": "Because society provides learning, interaction, and encouragement needed for development."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How does language learning show the role of society in development?",
+      "answer": "Language is learned through interaction with family, neighbors, and schools."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why does society encourage independent thinking rather than uniform thinking?",
+      "answer": "Society allows individuals to express unique thoughts and perspectives."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How does expressing thoughts strengthen emotional development?",
+      "answer": "Expression helps individuals understand themselves and connect with others."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why is encouragement crucial for artistic and creative growth?",
+      "answer": "Encouragement builds confidence and motivates individuals to improve their talents."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How does society help convert potential talent into actual achievement?",
+      "answer": "By providing opportunities, resources, and social support."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why cannot a single individual represent society?",
+      "answer": "Society consists of many people, groups, and institutions working together."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How do interactions form the backbone of society?",
+      "answer": "Interactions create relationships, cooperation, and shared responsibilities."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is society described as goal-oriented rather than accidental?",
+      "answer": "Because people come together to achieve common objectives."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How does a permanent system ensure continuity in society?",
+      "answer": "It maintains regular fulfillment of needs and stable functioning."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why would society collapse without organized systems?",
+      "answer": "Daily activities and need fulfillment would become chaotic and unstable."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "How does agriculture illustrate the need for a system in society?",
+      "answer": "It requires coordinated efforts of tools, loans, production, and markets."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why are institutions necessary for fulfilling basic needs?",
+      "answer": "Institutions organize resources and responsibilities efficiently."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How do banks support social stability?",
+      "answer": "By providing financial assistance such as loans for productive activities."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why is the market an important part of social systems?",
+      "answer": "It connects producers and consumers, ensuring distribution of goods."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How do multiple systems together make society stable?",
+      "answer": "They ensure continuous fulfillment of various needs."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why is cooperation more effective than individual effort in society?",
+      "answer": "Cooperation combines skills and resources to achieve common goals."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How does society balance individual growth and collective welfare?",
+      "answer": "By encouraging personal development while meeting shared needs."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is society necessary for both survival and progress?",
+      "answer": "It provides security for survival and opportunities for progress."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How does social life prepare individuals for responsibilities?",
+      "answer": "It teaches cooperation, discipline, and mutual dependence."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why can emotional development not occur in isolation?",
+      "answer": "Emotions grow through relationships and shared experiences."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How does society encourage moral and ethical behavior?",
+      "answer": "Through traditions, values, and social expectations."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why is society considered essential for meaningful human life?",
+      "answer": "It fulfills physical, emotional, and developmental needs."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How does shared living strengthen human bonds?",
+      "answer": "It promotes trust, cooperation, and mutual understanding."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is society not temporary like a crowd?",
+      "answer": "Because it is based on permanent relationships and systems."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "How does society transform individual needs into collective responsibilities?",
+      "answer": "By organizing systems that serve everyone’s needs."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why is encouragement described as a social responsibility?",
+      "answer": "Because it helps individuals grow and contribute to society."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "How does society ensure equal opportunities for development?",
+      "answer": "By providing education, institutions, and support systems."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why does society need coordination among different systems?",
+      "answer": "To avoid imbalance and ensure smooth functioning."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How does social interdependence reduce individual vulnerability?",
+      "answer": "People support one another during difficulties."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is social life essential for learning responsibility?",
+      "answer": "It teaches individuals to consider others’ needs and roles."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How does society help individuals find their identity?",
+      "answer": "Through roles, interactions, and participation in groups."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is collective effort more sustainable than isolated effort?",
+      "answer": "Collective effort shares workload and resources efficiently."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How does society transform natural abilities into skills?",
+      "answer": "By providing training, practice, and encouragement."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is society necessary for long-term human progress?",
+      "answer": "Because progress requires cooperation, systems, and stability."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "How does the chapter justify that human life and society are inseparable?",
+      "answer": "Because all human needs and development depend on social living."
+    }
+  ]
+}
+  

@@ -1,0 +1,1224 @@
+{
+  "voyage": "The Universe",
+  "lessons": [
+    "Observation of the Sky",
+    "The Milky Way and Galaxies",
+    "Stars",
+    "The Solar System",
+    "Planets",
+    "Satellites, Asteroids, Comets and Meteors"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the smoky white band of stars seen stretching across the night sky called?",
+      "options": [
+        { "option_id": 1, "text": "Andromeda", "is_correct": false },
+        { "option_id": 2, "text": "Mandakini", "is_correct": true },
+        { "option_id": 3, "text": "Nebula", "is_correct": false },
+        { "option_id": 4, "text": "Constellation", "is_correct": false }
+      ],
+      "answer": "Mandakini"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is a galaxy?",
+      "options": [
+        { "option_id": 1, "text": "A single star with planets", "is_correct": false },
+        { "option_id": 2, "text": "A group of planets", "is_correct": false },
+        { "option_id": 3, "text": "A group of innumerable stars and their planetary systems", "is_correct": true },
+        { "option_id": 4, "text": "A cloud of gases only", "is_correct": false }
+      ],
+      "answer": "A group of innumerable stars and their planetary systems"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "In which galaxy is our solar system located?",
+      "options": [
+        { "option_id": 1, "text": "Andromeda", "is_correct": false },
+        { "option_id": 2, "text": "Milky Way", "is_correct": true },
+        { "option_id": 3, "text": "Elliptical Galaxy", "is_correct": false },
+        { "option_id": 4, "text": "Irregular Galaxy", "is_correct": false }
+      ],
+      "answer": "Milky Way"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The Milky Way is a part of which group of galaxies?",
+      "options": [
+        { "option_id": 1, "text": "Universal Group", "is_correct": false },
+        { "option_id": 2, "text": "Local Group", "is_correct": true },
+        { "option_id": 3, "text": "Solar Group", "is_correct": false },
+        { "option_id": 4, "text": "Cosmic Cluster", "is_correct": false }
+      ],
+      "answer": "Local Group"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which galaxy is closest to the Milky Way?",
+      "options": [
+        { "option_id": 1, "text": "Spiral Galaxy", "is_correct": false },
+        { "option_id": 2, "text": "Elliptical Galaxy", "is_correct": false },
+        { "option_id": 3, "text": "Andromeda", "is_correct": true },
+        { "option_id": 4, "text": "Barred Spiral Galaxy", "is_correct": false }
+      ],
+      "answer": "Andromeda"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT included in the Milky Way?",
+      "options": [
+        { "option_id": 1, "text": "Nebulae", "is_correct": false },
+        { "option_id": 2, "text": "Clouds of dust", "is_correct": false },
+        { "option_id": 3, "text": "Only planets", "is_correct": true },
+        { "option_id": 4, "text": "Dead stars", "is_correct": false }
+      ],
+      "answer": "Only planets"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which instrument is suggested for observing the sky clearly?",
+      "options": [
+        { "option_id": 1, "text": "Microscope", "is_correct": false },
+        { "option_id": 2, "text": "Periscope", "is_correct": false },
+        { "option_id": 3, "text": "Telescope", "is_correct": true },
+        { "option_id": 4, "text": "Binoculars", "is_correct": false }
+      ],
+      "answer": "Telescope"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is a type of galaxy based on shape?",
+      "options": [
+        { "option_id": 1, "text": "Circular", "is_correct": false },
+        { "option_id": 2, "text": "Spiral", "is_correct": true },
+        { "option_id": 3, "text": "Triangular", "is_correct": false },
+        { "option_id": 4, "text": "Rectangular", "is_correct": false }
+      ],
+      "answer": "Spiral"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which type of star has luminance up to 100 times that of the Sun?",
+      "options": [
+        { "option_id": 1, "text": "Sun-like stars", "is_correct": false },
+        { "option_id": 2, "text": "Binary stars", "is_correct": false },
+        { "option_id": 3, "text": "Red giants", "is_correct": true },
+        { "option_id": 4, "text": "Variable stars", "is_correct": false }
+      ],
+      "answer": "Red giants"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the temperature range of red giant stars?",
+      "options": [
+        { "option_id": 1, "text": "1000°C – 2000°C", "is_correct": false },
+        { "option_id": 2, "text": "3000°C – 4000°C", "is_correct": true },
+        { "option_id": 3, "text": "6000°C – 7000°C", "is_correct": false },
+        { "option_id": 4, "text": "10000°C – 20000°C", "is_correct": false }
+      ],
+      "answer": "3000°C – 4000°C"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which stars revolve around each other in pairs?",
+      "options": [
+        { "option_id": 1, "text": "Variable stars", "is_correct": false },
+        { "option_id": 2, "text": "Binary stars", "is_correct": true },
+        { "option_id": 3, "text": "Red giants", "is_correct": false },
+        { "option_id": 4, "text": "Supernovae", "is_correct": false }
+      ],
+      "answer": "Binary stars"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which star is an example of a variable star?",
+      "options": [
+        { "option_id": 1, "text": "Sirius", "is_correct": false },
+        { "option_id": 2, "text": "Alpha Centauri", "is_correct": false },
+        { "option_id": 3, "text": "Polaris", "is_correct": true },
+        { "option_id": 4, "text": "Sun", "is_correct": false }
+      ],
+      "answer": "Polaris"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who proved that galaxies exist beyond the Milky Way?",
+      "options": [
+        { "option_id": 1, "text": "Isaac Newton", "is_correct": false },
+        { "option_id": 2, "text": "Edwin Hubble", "is_correct": true },
+        { "option_id": 3, "text": "Galileo", "is_correct": false },
+        { "option_id": 4, "text": "Fred Whipple", "is_correct": false }
+      ],
+      "answer": "Edwin Hubble"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which telescope was launched by NASA in 1990?",
+      "options": [
+        { "option_id": 1, "text": "Kepler Telescope", "is_correct": false },
+        { "option_id": 2, "text": "James Webb Telescope", "is_correct": false },
+        { "option_id": 3, "text": "Hubble Telescope", "is_correct": true },
+        { "option_id": 4, "text": "Chandra Telescope", "is_correct": false }
+      ],
+      "answer": "Hubble Telescope"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Where are stars generally born?",
+      "options": [
+        { "option_id": 1, "text": "Planets", "is_correct": false },
+        { "option_id": 2, "text": "Nebulae", "is_correct": true },
+        { "option_id": 3, "text": "Asteroids", "is_correct": false },
+        { "option_id": 4, "text": "Comets", "is_correct": false }
+      ],
+      "answer": "Nebulae"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which factor mainly determines the colour of a star?",
+      "options": [
+        { "option_id": 1, "text": "Size", "is_correct": false },
+        { "option_id": 2, "text": "Distance", "is_correct": false },
+        { "option_id": 3, "text": "Temperature", "is_correct": true },
+        { "option_id": 4, "text": "Mass", "is_correct": false }
+      ],
+      "answer": "Temperature"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which celestial bodies form the solar system?",
+      "options": [
+        { "option_id": 1, "text": "Only planets", "is_correct": false },
+        { "option_id": 2, "text": "Sun, planets, asteroids, comets and meteors", "is_correct": true },
+        { "option_id": 3, "text": "Stars and galaxies", "is_correct": false },
+        { "option_id": 4, "text": "Nebulae and dust clouds", "is_correct": false }
+      ],
+      "answer": "Sun, planets, asteroids, comets and meteors"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which planet is the fastest moving planet?",
+      "options": [
+        { "option_id": 1, "text": "Venus", "is_correct": false },
+        { "option_id": 2, "text": "Earth", "is_correct": false },
+        { "option_id": 3, "text": "Mercury", "is_correct": true },
+        { "option_id": 4, "text": "Mars", "is_correct": false }
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which planet is the hottest in the solar system?",
+      "options": [
+        { "option_id": 1, "text": "Mercury", "is_correct": false },
+        { "option_id": 2, "text": "Venus", "is_correct": true },
+        { "option_id": 3, "text": "Mars", "is_correct": false },
+        { "option_id": 4, "text": "Jupiter", "is_correct": false }
+      ],
+      "answer": "Venus"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why is Mars called the Red Planet?",
+      "options": [
+        { "option_id": 1, "text": "Presence of lava", "is_correct": false },
+        { "option_id": 2, "text": "Presence of iron in soil", "is_correct": true },
+        { "option_id": 3, "text": "High temperature", "is_correct": false },
+        { "option_id": 4, "text": "Reflection of sunlight", "is_correct": false }
+      ],
+      "answer": "Presence of iron in soil"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which planet has the highest mountain Olympus Mons?",
+      "options": [
+        { "option_id": 1, "text": "Earth", "is_correct": false },
+        { "option_id": 2, "text": "Mars", "is_correct": true },
+        { "option_id": 3, "text": "Jupiter", "is_correct": false },
+        { "option_id": 4, "text": "Saturn", "is_correct": false }
+      ],
+      "answer": "Mars"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which is the largest planet in the solar system?",
+      "options": [
+        { "option_id": 1, "text": "Saturn", "is_correct": false },
+        { "option_id": 2, "text": "Jupiter", "is_correct": true },
+        { "option_id": 3, "text": "Uranus", "is_correct": false },
+        { "option_id": 4, "text": "Neptune", "is_correct": false }
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which planet is known as the Stormy Planet?",
+      "options": [
+        { "option_id": 1, "text": "Mars", "is_correct": false },
+        { "option_id": 2, "text": "Jupiter", "is_correct": true },
+        { "option_id": 3, "text": "Saturn", "is_correct": false },
+        { "option_id": 4, "text": "Neptune", "is_correct": false }
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which planet is famous for its rings?",
+      "options": [
+        { "option_id": 1, "text": "Jupiter", "is_correct": false },
+        { "option_id": 2, "text": "Saturn", "is_correct": true },
+        { "option_id": 3, "text": "Uranus", "is_correct": false },
+        { "option_id": 4, "text": "Neptune", "is_correct": false }
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which planet appears to roll along its orbit due to its axis inclination?",
+      "options": [
+        { "option_id": 1, "text": "Saturn", "is_correct": false },
+        { "option_id": 2, "text": "Jupiter", "is_correct": false },
+        { "option_id": 3, "text": "Uranus", "is_correct": true },
+        { "option_id": 4, "text": "Neptune", "is_correct": false }
+      ],
+      "answer": "Uranus"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which planet has extremely high-speed winds?",
+      "options": [
+        { "option_id": 1, "text": "Saturn", "is_correct": false },
+        { "option_id": 2, "text": "Uranus", "is_correct": false },
+        { "option_id": 3, "text": "Neptune", "is_correct": true },
+        { "option_id": 4, "text": "Mars", "is_correct": false }
+      ],
+      "answer": "Neptune"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is a satellite?",
+      "options": [
+        { "option_id": 1, "text": "A body revolving around the Sun", "is_correct": false },
+        { "option_id": 2, "text": "A body revolving around a planet", "is_correct": true },
+        { "option_id": 3, "text": "A star", "is_correct": false },
+        { "option_id": 4, "text": "A galaxy", "is_correct": false }
+      ],
+      "answer": "A body revolving around a planet"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which planet does not have any satellite?",
+      "options": [
+        { "option_id": 1, "text": "Earth", "is_correct": false },
+        { "option_id": 2, "text": "Mars", "is_correct": false },
+        { "option_id": 3, "text": "Mercury", "is_correct": true },
+        { "option_id": 4, "text": "Jupiter", "is_correct": false }
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Between which two planets is the asteroid belt located?",
+      "options": [
+        { "option_id": 1, "text": "Earth and Mars", "is_correct": false },
+        { "option_id": 2, "text": "Mars and Jupiter", "is_correct": true },
+        { "option_id": 3, "text": "Jupiter and Saturn", "is_correct": false },
+        { "option_id": 4, "text": "Venus and Earth", "is_correct": false }
+      ],
+      "answer": "Mars and Jupiter"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is Pluto classified as?",
+      "options": [
+        { "option_id": 1, "text": "Planet", "is_correct": false },
+        { "option_id": 2, "text": "Satellite", "is_correct": false },
+        { "option_id": 3, "text": "Dwarf planet", "is_correct": true },
+        { "option_id": 4, "text": "Asteroid", "is_correct": false }
+      ],
+      "answer": "Dwarf planet"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What are comets mainly made of?",
+      "options": [
+        { "option_id": 1, "text": "Rock and iron", "is_correct": false },
+        { "option_id": 2, "text": "Ice and dust", "is_correct": true },
+        { "option_id": 3, "text": "Gas only", "is_correct": false },
+        { "option_id": 4, "text": "Lava", "is_correct": false }
+      ],
+      "answer": "Ice and dust"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why do comets develop a tail when near the Sun?",
+      "options": [
+        { "option_id": 1, "text": "Due to gravitational pull", "is_correct": false },
+        { "option_id": 2, "text": "Due to conversion of ice into gas", "is_correct": true },
+        { "option_id": 3, "text": "Due to rotation", "is_correct": false },
+        { "option_id": 4, "text": "Due to collision", "is_correct": false }
+      ],
+      "answer": "Due to conversion of ice into gas"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which type of comets take more than 200 years to revolve around the Sun?",
+      "options": [
+        { "option_id": 1, "text": "Short period comets", "is_correct": false },
+        { "option_id": 2, "text": "Long period comets", "is_correct": true },
+        { "option_id": 3, "text": "Meteoric comets", "is_correct": false },
+        { "option_id": 4, "text": "Binary comets", "is_correct": false }
+      ],
+      "answer": "Long period comets"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which comet reappears every 76 years?",
+      "options": [
+        { "option_id": 1, "text": "Encke’s comet", "is_correct": false },
+        { "option_id": 2, "text": "Halley’s comet", "is_correct": true },
+        { "option_id": 3, "text": "Hale-Bopp", "is_correct": false },
+        { "option_id": 4, "text": "Swift-Tuttle", "is_correct": false }
+      ],
+      "answer": "Halley’s comet"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What is a meteor?",
+      "options": [
+        { "option_id": 1, "text": "A falling star-like event", "is_correct": true },
+        { "option_id": 2, "text": "A planet fragment", "is_correct": false },
+        { "option_id": 3, "text": "A satellite", "is_correct": false },
+        { "option_id": 4, "text": "A comet", "is_correct": false }
+      ],
+      "answer": "A falling star-like event"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What are meteorites?",
+      "options": [
+        { "option_id": 1, "text": "Meteors that burn completely", "is_correct": false },
+        { "option_id": 2, "text": "Meteors that reach the Earth’s surface", "is_correct": true },
+        { "option_id": 3, "text": "Asteroids", "is_correct": false },
+        { "option_id": 4, "text": "Comets", "is_correct": false }
+      ],
+      "answer": "Meteors that reach the Earth’s surface"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which lake is believed to have been formed by a meteorite impact?",
+      "options": [
+        { "option_id": 1, "text": "Dal Lake", "is_correct": false },
+        { "option_id": 2, "text": "Lonar Lake", "is_correct": true },
+        { "option_id": 3, "text": "Chilika Lake", "is_correct": false },
+        { "option_id": 4, "text": "Wular Lake", "is_correct": false }
+      ],
+      "answer": "Lonar Lake"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which scientist proposed that comets are ‘dirty snowballs’?",
+      "options": [
+        { "option_id": 1, "text": "Edwin Hubble", "is_correct": false },
+        { "option_id": 2, "text": "Fred Whipple", "is_correct": true },
+        { "option_id": 3, "text": "Newton", "is_correct": false },
+        { "option_id": 4, "text": "Kepler", "is_correct": false }
+      ],
+      "answer": "Fred Whipple"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What mainly causes smaller meteors to burn up in the atmosphere?",
+      "options": [
+        { "option_id": 1, "text": "Gravity", "is_correct": false },
+        { "option_id": 2, "text": "Friction with air", "is_correct": true },
+        { "option_id": 3, "text": "Solar radiation", "is_correct": false },
+        { "option_id": 4, "text": "Magnetism", "is_correct": false }
+      ],
+      "answer": "Friction with air"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which statement about the universe is correct?",
+      "options": [
+        { "option_id": 1, "text": "It contains only stars", "is_correct": false },
+        { "option_id": 2, "text": "It includes galaxies, space and energy", "is_correct": true },
+        { "option_id": 3, "text": "It includes only the solar system", "is_correct": false },
+        { "option_id": 4, "text": "It contains only planets", "is_correct": false }
+      ],
+      "answer": "It includes galaxies, space and energy"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which planet has a day longer than its year?",
+      "options": [
+        { "option_id": 1, "text": "Mercury", "is_correct": false },
+        { "option_id": 2, "text": "Venus", "is_correct": true },
+        { "option_id": 3, "text": "Earth", "is_correct": false },
+        { "option_id": 4, "text": "Mars", "is_correct": false }
+      ],
+      "answer": "Venus"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which planets are classified as inner planets?",
+      "options": [
+        { "option_id": 1, "text": "Jupiter and Saturn", "is_correct": false },
+        { "option_id": 2, "text": "Mercury, Venus, Earth and Mars", "is_correct": true },
+        { "option_id": 3, "text": "Uranus and Neptune", "is_correct": false },
+        { "option_id": 4, "text": "Mars and Jupiter", "is_correct": false }
+      ],
+      "answer": "Mercury, Venus, Earth and Mars"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which planets have gaseous outer covers?",
+      "options": [
+        { "option_id": 1, "text": "Inner planets", "is_correct": false },
+        { "option_id": 2, "text": "Outer planets", "is_correct": true },
+        { "option_id": 3, "text": "Dwarf planets", "is_correct": false },
+        { "option_id": 4, "text": "Satellites", "is_correct": false }
+      ],
+      "answer": "Outer planets"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which planet has the strongest magnetic field among inner planets?",
+      "options": [
+        { "option_id": 1, "text": "Mars", "is_correct": false },
+        { "option_id": 2, "text": "Venus", "is_correct": false },
+        { "option_id": 3, "text": "Earth", "is_correct": true },
+        { "option_id": 4, "text": "Mercury", "is_correct": false }
+      ],
+      "answer": "Earth"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Why is life possible only on Earth according to the text?",
+      "options": [
+        { "option_id": 1, "text": "It has rings", "is_correct": false },
+        { "option_id": 2, "text": "It has a magnetic field and suitable conditions", "is_correct": true },
+        { "option_id": 3, "text": "It is the largest planet", "is_correct": false },
+        { "option_id": 4, "text": "It has many satellites", "is_correct": false }
+      ],
+      "answer": "It has a magnetic field and suitable conditions"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which planet has the maximum number of known satellites?",
+      "options": [
+        { "option_id": 1, "text": "Saturn", "is_correct": false },
+        { "option_id": 2, "text": "Jupiter", "is_correct": true },
+        { "option_id": 3, "text": "Uranus", "is_correct": false },
+        { "option_id": 4, "text": "Neptune", "is_correct": false }
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which celestial body does NOT have an atmosphere?",
+      "options": [
+        { "option_id": 1, "text": "Mars", "is_correct": false },
+        { "option_id": 2, "text": "Moon", "is_correct": true },
+        { "option_id": 3, "text": "Venus", "is_correct": false },
+        { "option_id": 4, "text": "Earth", "is_correct": false }
+      ],
+      "answer": "Moon"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Why do we see only one side of the Moon?",
+      "options": [
+        { "option_id": 1, "text": "It does not rotate", "is_correct": false },
+        { "option_id": 2, "text": "Its rotation and revolution periods are equal", "is_correct": true },
+        { "option_id": 3, "text": "It has no atmosphere", "is_correct": false },
+        { "option_id": 4, "text": "It is very far", "is_correct": false }
+      ],
+      "answer": "Its rotation and revolution periods are equal"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which celestial body appears with a long tail in the sky?",
+      "options": [
+        { "option_id": 1, "text": "Asteroid", "is_correct": false },
+        { "option_id": 2, "text": "Comet", "is_correct": true },
+        { "option_id": 3, "text": "Meteorite", "is_correct": false },
+        { "option_id": 4, "text": "Planet", "is_correct": false }
+      ],
+      "answer": "Comet"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What scientific attitude is encouraged while studying events like meteors?",
+      "options": [
+        { "option_id": 1, "text": "Blind faith", "is_correct": false },
+        { "option_id": 2, "text": "Scientific explanation without superstition", "is_correct": true },
+        { "option_id": 3, "text": "Fear of events", "is_correct": false },
+        { "option_id": 4, "text": "Ignoring observations", "is_correct": false }
+      ],
+      "answer": "Scientific explanation without superstition"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is meant by the universe?",
+      "answer": "The universe includes all galaxies, celestial bodies, space, matter and energy."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is Mandakini?",
+      "answer": "Mandakini is the smoky white band of stars seen across the night sky, also known as the Milky Way."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Define a galaxy.",
+      "answer": "A galaxy is a large group of innumerable stars, planetary systems, dust and gases bound together by gravity."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name the galaxy in which our solar system is located.",
+      "answer": "Our solar system is located in the Milky Way galaxy."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the Local Group?",
+      "answer": "The Local Group is a cluster of galaxies that includes the Milky Way and nearby galaxies."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name the galaxy closest to the Milky Way.",
+      "answer": "The Andromeda galaxy is closest to the Milky Way."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name any two components found in the Milky Way.",
+      "answer": "Nebulae and clouds of dust are components found in the Milky Way."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is a telescope useful for sky observation?",
+      "answer": "A telescope helps observe distant celestial objects clearly."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "On what basis are galaxies classified?",
+      "answer": "Galaxies are classified based on their shape."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name any two types of galaxies.",
+      "answer": "Spiral galaxies and elliptical galaxies are two types of galaxies."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is a star?",
+      "answer": "A star is a self-luminous celestial body that emits its own light and heat."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Where are stars formed?",
+      "answer": "Stars are formed in nebulae."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What determines the colour of a star?",
+      "answer": "The colour of a star is determined by its temperature."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What are red giant stars?",
+      "answer": "Red giants are stars with very large size and high luminance but comparatively lower temperature."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are binary stars?",
+      "answer": "Binary stars are two stars that revolve around each other."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What are variable stars?",
+      "answer": "Variable stars are stars whose brightness changes periodically."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Who proved that galaxies exist beyond the Milky Way?",
+      "answer": "Edwin Hubble proved that galaxies exist beyond the Milky Way."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name the telescope launched in 1990 by NASA.",
+      "answer": "The Hubble Space Telescope was launched in 1990 by NASA."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the solar system?",
+      "answer": "The solar system consists of the Sun and all celestial bodies that revolve around it."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Name the celestial bodies included in the solar system.",
+      "answer": "Planets, satellites, asteroids, comets and meteors are included in the solar system."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Which planet is closest to the Sun?",
+      "answer": "Mercury is the planet closest to the Sun."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which planet is the hottest in the solar system?",
+      "answer": "Venus is the hottest planet in the solar system."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why is Mars called the Red Planet?",
+      "answer": "Mars is called the Red Planet due to the presence of iron in its soil."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Name the largest planet in the solar system.",
+      "answer": "Jupiter is the largest planet in the solar system."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which planet is famous for its rings?",
+      "answer": "Saturn is famous for its rings."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Which planet appears to roll on its orbit?",
+      "answer": "Uranus appears to roll on its orbit due to its tilted axis."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which planet has extremely high-speed winds?",
+      "answer": "Neptune has extremely high-speed winds."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is a satellite?",
+      "answer": "A satellite is a celestial body that revolves around a planet."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which planet does not have any natural satellite?",
+      "answer": "Mercury does not have any natural satellite."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the asteroid belt?",
+      "answer": "The asteroid belt is a region between Mars and Jupiter where numerous asteroids revolve around the Sun."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is a dwarf planet?",
+      "answer": "A dwarf planet is a celestial body that revolves around the Sun but does not clear its orbital path."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What are comets made of?",
+      "answer": "Comets are made of ice, dust and gases."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why does a comet develop a tail?",
+      "answer": "A comet develops a tail due to the conversion of ice into gas when it comes near the Sun."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What are long-period comets?",
+      "answer": "Long-period comets take more than 200 years to complete one revolution around the Sun."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which comet reappears every 76 years?",
+      "answer": "Halley’s comet reappears every 76 years."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is a meteor?",
+      "answer": "A meteor is a celestial body that appears as a streak of light when it burns in the Earth’s atmosphere."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What are meteorites?",
+      "answer": "Meteorites are meteors that reach the Earth’s surface without burning completely."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Name the lake formed due to a meteorite impact in India.",
+      "answer": "Lonar Lake was formed due to a meteorite impact."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Who proposed the ‘dirty snowball’ theory of comets?",
+      "answer": "Fred Whipple proposed the ‘dirty snowball’ theory of comets."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why do small meteors burn up in the atmosphere?",
+      "answer": "Small meteors burn up due to friction with air."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Which planet has a day longer than its year?",
+      "answer": "Venus has a day longer than its year."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Name the inner planets of the solar system.",
+      "answer": "Mercury, Venus, Earth and Mars are the inner planets."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What are outer planets?",
+      "answer": "Outer planets are large planets with gaseous outer layers located beyond the asteroid belt."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why is Earth suitable for life?",
+      "answer": "Earth has suitable temperature, water, atmosphere and a magnetic field that support life."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which planet has the maximum number of satellites?",
+      "answer": "Jupiter has the maximum number of satellites."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why does the Moon not have an atmosphere?",
+      "answer": "The Moon has weak gravity, so it cannot retain an atmosphere."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why do we always see the same side of the Moon?",
+      "answer": "Because the Moon’s rotation period is equal to its revolution period around the Earth."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Which celestial body appears with a bright tail in the sky?",
+      "answer": "A comet appears with a bright tail in the sky."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What scientific attitude should be adopted while studying celestial events?",
+      "answer": "A scientific attitude without superstition should be adopted."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is observation important in the study of astronomy?",
+      "answer": "Observation helps in understanding the nature, movement and characteristics of celestial bodies."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why is the Milky Way visible as a continuous band across the night sky?",
+      "answer": "Because our solar system lies within the Milky Way and we view its dense plane edge-on, making stars appear as a continuous band."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does the classification of galaxies based on shape help astronomers?",
+      "answer": "It helps astronomers understand the structure, evolution, and motion of stars within different galaxies."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why was the discovery of galaxies beyond the Milky Way significant?",
+      "answer": "It expanded the understanding of the universe by proving that the Milky Way is only one of many galaxies."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How does a telescope improve the study of distant celestial objects?",
+      "answer": "A telescope collects more light and magnifies distant objects, allowing detailed observation."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why are nebulae called stellar nurseries?",
+      "answer": "Because new stars are formed from gas and dust present in nebulae."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How does temperature influence the colour of stars?",
+      "answer": "Hotter stars appear bluish-white, while cooler stars appear red due to differences in surface temperature."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why do red giant stars have high luminosity despite lower temperatures?",
+      "answer": "Their extremely large size compensates for lower temperature, resulting in high luminosity."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How do binary stars help in determining stellar masses?",
+      "answer": "By studying their orbital motion, astronomers can calculate the mass of each star."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why is the solar system considered a part of a galaxy?",
+      "answer": "Because the Sun and its planets are gravitationally bound within the Milky Way galaxy."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How does Mercury’s proximity to the Sun affect its motion?",
+      "answer": "Its close distance results in a faster orbital speed around the Sun."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why is Venus hotter than Mercury despite being farther from the Sun?",
+      "answer": "Venus has a dense atmosphere that traps heat, causing extremely high temperatures."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How does the presence of iron in Martian soil influence its appearance?",
+      "answer": "Iron oxidizes and gives Mars its characteristic red colour."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why does Jupiter have a strong gravitational influence in the solar system?",
+      "answer": "Its very large mass creates a strong gravitational pull on nearby objects."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How do Saturn’s rings enhance understanding of planetary systems?",
+      "answer": "They provide insight into the distribution and motion of particles around planets."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why does Uranus appear to roll along its orbit?",
+      "answer": "Because its axis is highly tilted, nearly parallel to its orbital plane."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How do high-speed winds affect Neptune’s atmosphere?",
+      "answer": "They create intense storms and dynamic atmospheric patterns."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why do some planets have many satellites while others have none?",
+      "answer": "Differences in gravitational strength and formation history affect satellite capture."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How does the asteroid belt indicate early solar system formation?",
+      "answer": "It contains remnants of material that never formed into a planet."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why was Pluto reclassified as a dwarf planet?",
+      "answer": "Because it does not clear its orbital path of other objects."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How does the composition of comets explain their changing appearance?",
+      "answer": "Ice vaporizes near the Sun, forming a glowing head and tail."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why do comet tails always point away from the Sun?",
+      "answer": "Solar radiation and solar wind push the tail away from the Sun."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How do long-period comets differ in origin from short-period comets?",
+      "answer": "They originate from distant regions of the solar system and take longer to orbit the Sun."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why do most meteors burn up before reaching Earth’s surface?",
+      "answer": "Friction with Earth’s atmosphere generates intense heat that burns them."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How does the formation of Lonar Lake support meteorite impact theory?",
+      "answer": "Its circular shape and geological features indicate impact by a meteorite."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is scientific explanation preferred over superstition in astronomy?",
+      "answer": "Scientific explanations are based on observation, evidence, and logical reasoning."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "How does Earth’s magnetic field contribute to life on the planet?",
+      "answer": "It protects Earth from harmful solar radiation."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why is Earth uniquely suited for life among known planets?",
+      "answer": "It has suitable temperature, water, atmosphere, and protective magnetic field."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How does the equal rotation and revolution period of the Moon affect observation?",
+      "answer": "It causes the same side of the Moon to always face the Earth."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why is the study of the universe important for scientific development?",
+      "answer": "It enhances understanding of natural laws and the origin of celestial bodies."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How does observation of the night sky encourage scientific curiosity?",
+      "answer": "It motivates questioning, exploration, and understanding of natural phenomena."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why are galaxies considered building blocks of the universe?",
+      "answer": "Because they contain stars, planetary systems, and matter that make up the universe."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How does gravity govern the structure of galaxies?",
+      "answer": "Gravity holds stars and planetary systems together within galaxies."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is the solar system stable over long periods?",
+      "answer": "Gravitational balance between the Sun and planets maintains stable orbits."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How does planetary motion support the heliocentric model?",
+      "answer": "Planets revolve around the Sun, confirming the Sun-centered system."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is classification essential in the study of celestial bodies?",
+      "answer": "It helps organize information and understand similarities and differences."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How do outer planets differ from inner planets in composition?",
+      "answer": "Outer planets are gaseous while inner planets are rocky."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why is continuous observation important in astronomy?",
+      "answer": "It helps detect changes and movements of celestial objects over time."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How do technological advancements improve space observation?",
+      "answer": "They allow clearer, deeper, and more accurate observation of space."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why are comets considered time capsules of the solar system?",
+      "answer": "They contain primitive material from early solar system formation."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "How does studying meteors contribute to understanding Earth’s safety?",
+      "answer": "It helps assess impact risks and atmospheric protection."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why does space appear dark despite the presence of many stars?",
+      "answer": "Because stars are very distant and light does not fill all of space uniformly."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "How does Earth’s atmosphere influence observation of space?",
+      "answer": "It absorbs and scatters some radiation, limiting ground-based observations."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why are space telescopes more effective than ground telescopes?",
+      "answer": "They operate above Earth’s atmosphere, avoiding distortion."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How does understanding planetary motion help in space missions?",
+      "answer": "It allows accurate navigation and trajectory planning."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is scientific temper essential while studying astronomical events?",
+      "answer": "It promotes rational thinking and avoids misconceptions."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How does astronomy contribute to technological progress?",
+      "answer": "It drives innovation in optics, communication, and data analysis."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is comparative study of planets useful?",
+      "answer": "It helps understand Earth’s uniqueness and planetary evolution."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How does the study of galaxies change our perception of Earth’s place in the universe?",
+      "answer": "It shows that Earth is a small part of a vast universe."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is the universe described as dynamic rather than static?",
+      "answer": "Because celestial bodies are constantly moving and evolving."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "How does learning about the universe encourage scientific thinking?",
+      "answer": "It fosters observation, reasoning, and evidence-based understanding."
+    }
+  ]
+}
+
+

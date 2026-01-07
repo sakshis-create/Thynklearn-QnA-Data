@@ -1,0 +1,492 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.14",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Ad'wise' Customers"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the primary aim of advertisements?",
+      "options": [
+        { "option_id": 1, "text": "To provide free entertainment", "is_correct": false },
+        { "option_id": 2, "text": "To make people buy products", "is_correct": true },
+        { "option_id": 3, "text": "To teach children how to dance", "is_correct": false },
+        { "option_id": 4, "text": "To give health advice", "is_correct": false }
+      ],
+      "answer": "To make people buy products"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who gives advertisements to tell people about products?",
+      "options": [
+        { "option_id": 1, "text": "Customers", "is_correct": false },
+        { "option_id": 2, "text": "Teachers", "is_correct": false },
+        { "option_id": 3, "text": "Owners of different companies", "is_correct": true },
+        { "option_id": 4, "text": "News reporters", "is_correct": false }
+      ],
+      "answer": "Owners of different companies"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How are advertisements designed according to the text?",
+      "options": [
+        { "option_id": 1, "text": "To be boring and long", "is_correct": false },
+        { "option_id": 2, "text": "To impress people", "is_correct": true },
+        { "option_id": 3, "text": "To hide the product name", "is_correct": false },
+        { "option_id": 4, "text": "To be invisible", "is_correct": false }
+      ],
+      "answer": "To impress people"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "A 'wise customer' should decide:",
+      "options": [
+        { "option_id": 1, "text": "What to buy", "is_correct": false },
+        { "option_id": 2, "text": "How much to buy", "is_correct": false },
+        { "option_id": 3, "text": "What not to buy", "is_correct": false },
+        { "option_id": 4, "text": "All of the above", "is_correct": true }
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the 'Krispy Krunchy' ad offer as a deal?",
+      "options": [
+        { "option_id": 1, "text": "Buy one get one free", "is_correct": false },
+        { "option_id": 2, "text": "Get one pack free on 5", "is_correct": true },
+        { "option_id": 3, "text": "Half price on every pack", "is_correct": false },
+        { "option_id": 4, "text": "Win a gold cup", "is_correct": false }
+      ],
+      "answer": "Get one pack free on 5"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "According to the teacher, chips and wafers usually contain a lot of:",
+      "options": [
+        { "option_id": 1, "text": "Vitamins and minerals", "is_correct": false },
+        { "option_id": 2, "text": "Salt and spices", "is_correct": true },
+        { "option_id": 3, "text": "Fruits and vegetables", "is_correct": false },
+        { "option_id": 4, "text": "Water and juice", "is_correct": false }
+      ],
+      "answer": "Salt and spices"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What kind of diet do growing children need?",
+      "options": [
+        { "option_id": 1, "text": "Fried food diet", "is_correct": false },
+        { "option_id": 2, "text": "Balanced and nourishing diet", "is_correct": true },
+        { "option_id": 3, "text": "Diet consisting only of snacks", "is_correct": false },
+        { "option_id": 4, "text": "No diet at all", "is_correct": false }
+      ],
+      "answer": "Balanced and nourishing diet"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The 'Hemagauri' ad claims you can become fair in how many days?",
+      "options": [
+        { "option_id": 1, "text": "Two days", "is_correct": false },
+        { "option_id": 2, "text": "Five days", "is_correct": true },
+        { "option_id": 3, "text": "One month", "is_correct": false },
+        { "option_id": 4, "text": "Forever", "is_correct": false }
+      ],
+      "answer": "Five days"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the teacher's view on skin colour and beauty?",
+      "options": [
+        { "option_id": 1, "text": "Fair skin is better", "is_correct": false },
+        { "option_id": 2, "text": "Dark skin is bad", "is_correct": false },
+        { "option_id": 3, "text": "Skin colour has nothing to do with beauty", "is_correct": true },
+        { "option_id": 4, "text": "Beauty depends on fairness creams", "is_correct": false }
+      ],
+      "answer": "Skin colour has nothing to do with beauty"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is recommended to get healthy, glowing skin?",
+      "options": [
+        { "option_id": 1, "text": "Eating fairness creams", "is_correct": false },
+        { "option_id": 2, "text": "Exercising, sleeping well, and drinking water", "is_correct": true },
+        { "option_id": 3, "text": "Staying sad", "is_correct": false },
+        { "option_id": 4, "text": "Never washing your face", "is_correct": false }
+      ],
+      "answer": "Exercising, sleeping well, and drinking water"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is an 'Open Book Test' (OBT)?",
+      "options": [
+        { "option_id": 1, "text": "A test where you cannot look at books", "is_correct": false },
+        { "option_id": 2, "text": "A test where you refer to the textbook", "is_correct": true },
+        { "option_id": 3, "text": "A test for drawing only", "is_correct": false },
+        { "option_id": 4, "text": "A test given in a park", "is_correct": false }
+      ],
+      "answer": "A test where you refer to the textbook"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does an open book test help reduce?",
+      "options": [
+        { "option_id": 1, "text": "Reading speed", "is_correct": false },
+        { "option_id": 2, "text": "The burden of memorizing", "is_correct": true },
+        { "option_id": 3, "text": "The weight of the bag", "is_correct": false },
+        { "option_id": 4, "text": "Writing ability", "is_correct": false }
+      ],
+      "answer": "The burden of memorizing"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "In this stage of English learning, the focus is on:",
+      "options": [
+        { "option_id": 1, "text": "Remembering dates", "is_correct": false },
+        { "option_id": 2, "text": "The way language is used", "is_correct": true },
+        { "option_id": 3, "text": "Learning historical facts", "is_correct": false },
+        { "option_id": 4, "text": "Scientific formulas", "is_correct": false }
+      ],
+      "answer": "The way language is used"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What should NOT be allowed during an Open Book Test?",
+      "options": [
+        { "option_id": 1, "text": "The textbook", "is_correct": false },
+        { "option_id": 2, "text": "Readymade answer keys or bazaar notes", "is_correct": true },
+        { "option_id": 3, "text": "A pencil", "is_correct": false },
+        { "option_id": 4, "text": "An eraser", "is_correct": false }
+      ],
+      "answer": "Readymade answer keys or bazaar notes"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "To prepare for an OBT, students should ______ the textbook frequently.",
+      "options": [
+        { "option_id": 1, "text": "Hide", "is_correct": false },
+        { "option_id": 2, "text": "Browse through", "is_correct": true },
+        { "option_id": 3, "text": "Tear", "is_correct": false },
+        { "option_id": 4, "text": "Color", "is_correct": false }
+      ],
+      "answer": "Browse through"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the character 'Krispy Krunchy' doing in the ad enactment?",
+      "options": [
+        { "option_id": 1, "text": "Sleeping", "is_correct": false },
+        { "option_id": 2, "text": "Dancing and singing", "is_correct": true },
+        { "option_id": 3, "text": "Crying", "is_correct": false },
+        { "option_id": 4, "text": "Running away", "is_correct": false }
+      ],
+      "answer": "Dancing and singing"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The offer for Hemagauri closes on which date?",
+      "options": [
+        { "option_id": 1, "text": "1 January", "is_correct": false },
+        { "option_id": 2, "text": "1 April", "is_correct": true },
+        { "option_id": 3, "text": "15 August", "is_correct": false },
+        { "option_id": 4, "text": "31 December", "is_correct": false }
+      ],
+      "answer": "1 April"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is more important than skin colour for looking good?",
+      "options": [
+        { "option_id": 1, "text": "Expensive clothes", "is_correct": false },
+        { "option_id": 2, "text": "Being healthy, neat and tidy", "is_correct": true },
+        { "option_id": 3, "text": "Buying bangles", "is_correct": false },
+        { "option_id": 4, "text": "Using dark makeup", "is_correct": false }
+      ],
+      "answer": "Being healthy, neat and tidy"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which of these is a nourishing food mentioned by the teacher?",
+      "options": [
+        { "option_id": 1, "text": "Wafers", "is_correct": false },
+        { "option_id": 2, "text": "Krispy Krunchy", "is_correct": false },
+        { "option_id": 3, "text": "Groundnuts/Peanuts", "is_correct": true },
+        { "option_id": 4, "text": "Fairness cream", "is_correct": false }
+      ],
+      "answer": "Groundnuts/Peanuts"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the QR code for this chapter?",
+      "options": [
+        { "option_id": 1, "text": "X3F44X", "is_correct": true },
+        { "option_id": 2, "text": "X36830", "is_correct": false },
+        { "option_id": 3, "text": "X2ACIN", "is_correct": false },
+        { "option_id": 4, "text": "Z12XYZ", "is_correct": false }
+      ],
+      "answer": "X3F44X"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What can happen when you use fairness creams?",
+      "options": [
+        { "option_id": 1, "text": "You become a fairy", "is_correct": false },
+        { "option_id": 2, "text": "They may have side effects", "is_correct": true },
+        { "option_id": 3, "text": "You get 100% discount", "is_correct": false },
+        { "option_id": 4, "text": "You never have to eat again", "is_correct": false }
+      ],
+      "answer": "They may have side effects"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Ads are designed to make people feel like ______ the product.",
+      "options": [
+        { "option_id": 1, "text": "Throwing away", "is_correct": false },
+        { "option_id": 2, "text": "Buying", "is_correct": true },
+        { "option_id": 3, "text": "Hating", "is_correct": false },
+        { "option_id": 4, "text": "Destroying", "is_correct": false }
+      ],
+      "answer": "Buying"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What should you do to 'act like a wise customer'?",
+      "options": [
+        { "option_id": 1, "text": "Buy everything you see on TV", "is_correct": false },
+        { "option_id": 2, "text": "Think carefully about the advice in ads", "is_correct": true },
+        { "option_id": 3, "text": "Always buy the cheapest product", "is_correct": false },
+        { "option_id": 4, "text": "Only buy things that give free gifts", "is_correct": false }
+      ],
+      "answer": "Think carefully about the advice in ads"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "In the Krispy Krunchy ad, when do they say you should eat it?",
+      "options": [
+        { "option_id": 1, "text": "Only when happy", "is_correct": false },
+        { "option_id": 2, "text": "Day and night, every time", "is_correct": true },
+        { "option_id": 3, "text": "Only on Sundays", "is_correct": false },
+        { "option_id": 4, "text": "Once a year", "is_correct": false }
+      ],
+      "answer": "Day and night, every time"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the cat Mia's secret to shiny fur?",
+      "options": [
+        { "option_id": 1, "text": "Hemagauri cream", "is_correct": false },
+        { "option_id": 2, "text": "Krispy Krunchy snacks", "is_correct": false },
+        { "option_id": 3, "text": "Exercise and staying clean", "is_correct": true },
+        { "option_id": 4, "text": "Eating only fish", "is_correct": false }
+      ],
+      "answer": "Exercise and staying clean"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What are 'ads'?",
+      "answer": "Ads are advertisements found on TV and other places, given by company owners to tell people about products."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the goal of an advertisement?",
+      "answer": "The goal is to make people buy the products being advertised."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What three things must a wise customer decide?",
+      "answer": "A wise customer must decide what to buy, how much to buy, and what not to buy."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "List some emotional states mentioned in the Krispy Krunchy ad.",
+      "answer": "The ad mentions feeling happy, sad, or tired."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does the teacher say about the health value of snacks like chips?",
+      "answer": "They are good to taste but not good for health if eaten all the time because they are fried and contain much salt."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What foods should be included in a balanced diet for children?",
+      "answer": "A balanced diet includes cereals, pulses, fresh vegetables, fruits, nuts, and milk."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Name five healthy favorites mentioned by the teacher.",
+      "answer": "Dal rice, peanuts, bananas, beans, and yoghurt are mentioned as favorites."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What happens to the children in the ad after eating Krispy Krunchy?",
+      "answer": "The children begin to smile and clap."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Why is the character 'Didi' sad in the second ad?",
+      "options": [],
+      "answer": "She is sad because she feels her skin is dark and she feels bad about it."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is the discount offered on Hemagauri tubes?",
+      "answer": "There is a 10 rupee discount on every 100 gm tube or bottle."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What does the teacher say about skin colour and beauty?",
+      "answer": "The teacher says that black is beautiful and skin colour has nothing to do with beauty."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What are the four pillars of healthy, glowing skin according to the teacher?",
+      "answer": "The four pillars are eating well, exercising well, sleeping well, and drinking enough water."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Why should one be careful with fairness creams?",
+      "answer": "One should be careful because they may have side effects."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Define an 'Open Book Test'.",
+      "answer": "It is a test where children are allowed or expected to refer to their textbook while taking the test."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "How does an OBT create a better atmosphere for students?",
+      "answer": "It allows children to face the test in a more relaxed, stress-free atmosphere by reducing the burden of memorizing."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the focus of English learning at this stage?",
+      "answer": "The focus is on the way language is used to describe events, persons, places, and processes."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the goal of assessing students using the textbook?",
+      "answer": "The goal is to enable them to use language resources to come up with their own descriptions."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What purpose do the texts and activities in the book serve?",
+      "answer": "They introduce new words, strategies for learning words, and patterns of sentence construction."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Why is it important for students to be familiar with the textbook before an OBT?",
+      "answer": "Familiarity makes the test easier; otherwise, students waste time trying to locate exact references."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What should be included in the assessment strategy for OBT?",
+      "answer": "Activities, games, and projects should become a necessary part of the assessment."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Give an example of a simple OBT task.",
+      "answer": "One simple task is to copy given sentences or a paragraph from the book without making mistakes."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What can students do with a description and a picture in an OBT?",
+      "answer": "They can find the page number of the picture and add one more suitable line to the description."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "How can a flowchart be used in an open book test?",
+      "answer": "Students can read a passage and draw a suitable flowchart based on the information."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What kind of word-matching tasks are suggested for OBT?",
+      "answer": "Finding suitable adjectives for nouns, nouns for adjectives, verbs for nouns, and adverbs for verbs."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What does a student need to 'know very well' to succeed in an OBT?",
+      "answer": "The student needs to know their book very well."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the slogan for Krispy Krunchy?",
+      "answer": "The slogan is 'Krispy Krunchy - Every time!'."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does 'Bitia Rani' show to 'Didi'?",
+      "answer": "Bitia Rani shows her new dress and new shoes for the party."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What happens if you only eat snacks and not proper meals?",
+      "answer": "You will not have a balanced diet, which is necessary for growth and health."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does Hemagauri promise to make your skin do?",
+      "answer": "It promises to make your skin shine and make you 'fair as a fairy'."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who acts as the salesman in the second ad enactment?",
+      "answer": "One child acts as the salesman of 'Hemagauri' and presents the text in pink speech bubbles."
+    }
+  ]
+}

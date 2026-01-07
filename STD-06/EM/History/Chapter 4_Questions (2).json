@@ -1,0 +1,1213 @@
+{
+  "Chapter 4": "The Vedic Civilization",
+  "lessons": [
+    "The Vedic literature",
+    "Family system, day-to-day life",
+    "Agriculture, animal husbandry, economic and social life",
+    "Religious ideas",
+    "Political system"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which feature makes the Vedic civilization distinctively identifiable?",
+      "options": [
+        { "option_id": 1, "text": "Urban town planning", "is_correct": false },
+        { "option_id": 2, "text": "Dependence on Vedic literature", "is_correct": true },
+        { "option_id": 3, "text": "Stone inscriptions", "is_correct": false },
+        { "option_id": 4, "text": "Maritime trade", "is_correct": false }
+      ],
+      "answer": "Dependence on Vedic literature"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why are the Vedas regarded as the earliest literature?",
+      "options": [
+        { "option_id": 1, "text": "They were written on stone", "is_correct": false },
+        { "option_id": 2, "text": "They predate all other known texts", "is_correct": true },
+        { "option_id": 3, "text": "They were composed by kings", "is_correct": false },
+        { "option_id": 4, "text": "They describe political systems", "is_correct": false }
+      ],
+      "answer": "They predate all other known texts"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the composition of hymns by women indicate about early Vedic society?",
+      "options": [
+        { "option_id": 1, "text": "Women were excluded from learning", "is_correct": false },
+        { "option_id": 2, "text": "Women participated in intellectual life", "is_correct": true },
+        { "option_id": 3, "text": "Education was informal", "is_correct": false },
+        { "option_id": 4, "text": "Learning was restricted to rituals", "is_correct": false }
+      ],
+      "answer": "Women participated in intellectual life"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which characteristic best describes Vedic literature?",
+      "options": [
+        { "option_id": 1, "text": "Limited in scope", "is_correct": false },
+        { "option_id": 2, "text": "Uniform in content", "is_correct": false },
+        { "option_id": 3, "text": "Rich and diverse", "is_correct": true },
+        { "option_id": 4, "text": "Purely historical", "is_correct": false }
+      ],
+      "answer": "Rich and diverse"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why is the Rigveda considered the earliest Vedic text?",
+      "options": [
+        { "option_id": 1, "text": "It focuses on rituals", "is_correct": false },
+        { "option_id": 2, "text": "It was composed first", "is_correct": true },
+        { "option_id": 3, "text": "It explains philosophy", "is_correct": false },
+        { "option_id": 4, "text": "It guides kingship", "is_correct": false }
+      ],
+      "answer": "It was composed first"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does the term ‘Veda’ signify?",
+      "options": [
+        { "option_id": 1, "text": "Prayer", "is_correct": false },
+        { "option_id": 2, "text": "Ritual", "is_correct": false },
+        { "option_id": 3, "text": "Knowledge", "is_correct": true },
+        { "option_id": 4, "text": "Tradition", "is_correct": false }
+      ],
+      "answer": "Knowledge"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why are the Vedas referred to as Shruti?",
+      "options": [
+        { "option_id": 1, "text": "They were written texts", "is_correct": false },
+        { "option_id": 2, "text": "They were preserved by listening and memorizing", "is_correct": true },
+        { "option_id": 3, "text": "They were secret teachings", "is_correct": false },
+        { "option_id": 4, "text": "They were philosophical works", "is_correct": false }
+      ],
+      "answer": "They were preserved by listening and memorizing"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is a richa in the Rigveda?",
+      "options": [
+        { "option_id": 1, "text": "A ritual", "is_correct": false },
+        { "option_id": 2, "text": "A philosophical idea", "is_correct": false },
+        { "option_id": 3, "text": "A verse praising a deity", "is_correct": true },
+        { "option_id": 4, "text": "A musical tune", "is_correct": false }
+      ],
+      "answer": "A verse praising a deity"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is formed when several richas are composed for a single deity?",
+      "options": [
+        { "option_id": 1, "text": "Mantra", "is_correct": false },
+        { "option_id": 2, "text": "Samhita", "is_correct": false },
+        { "option_id": 3, "text": "Sukta", "is_correct": true },
+        { "option_id": 4, "text": "Brahmana", "is_correct": false }
+      ],
+      "answer": "Sukta"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which Veda primarily guides the chanting of mantras during yajna?",
+      "options": [
+        { "option_id": 1, "text": "Rigveda", "is_correct": false },
+        { "option_id": 2, "text": "Yajurveda", "is_correct": true },
+        { "option_id": 3, "text": "Samaveda", "is_correct": false },
+        { "option_id": 4, "text": "Atharvaveda", "is_correct": false }
+      ],
+      "answer": "Yajurveda"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How did the Samaveda contribute to Indian culture?",
+      "options": [
+        { "option_id": 1, "text": "By codifying laws", "is_correct": false },
+        { "option_id": 2, "text": "By developing musical traditions", "is_correct": true },
+        { "option_id": 3, "text": "By explaining rituals", "is_correct": false },
+        { "option_id": 4, "text": "By guiding administration", "is_correct": false }
+      ],
+      "answer": "By developing musical traditions"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why is the Atharvaveda considered different from other Vedas?",
+      "options": [
+        { "option_id": 1, "text": "It focuses on daily life and remedies", "is_correct": true },
+        { "option_id": 2, "text": "It contains only hymns", "is_correct": false },
+        { "option_id": 3, "text": "It is written in prose only", "is_correct": false },
+        { "option_id": 4, "text": "It rejects rituals", "is_correct": false }
+      ],
+      "answer": "It focuses on daily life and remedies"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What role did the Atharvaveda assign to a king?",
+      "options": [
+        { "option_id": 1, "text": "Conduct trade", "is_correct": false },
+        { "option_id": 2, "text": "Lead yajnas only", "is_correct": false },
+        { "option_id": 3, "text": "Administer the kingdom properly", "is_correct": true },
+        { "option_id": 4, "text": "Compose hymns", "is_correct": false }
+      ],
+      "answer": "Administer the kingdom properly"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Why were Brahmana texts composed?",
+      "options": [
+        { "option_id": 1, "text": "To narrate myths", "is_correct": false },
+        { "option_id": 2, "text": "To explain yajna rituals", "is_correct": true },
+        { "option_id": 3, "text": "To describe wars", "is_correct": false },
+        { "option_id": 4, "text": "To record genealogy", "is_correct": false }
+      ],
+      "answer": "To explain yajna rituals"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What was the primary concern of the Aranyakas?",
+      "options": [
+        { "option_id": 1, "text": "Urban administration", "is_correct": false },
+        { "option_id": 2, "text": "Forest-based meditation and rituals", "is_correct": true },
+        { "option_id": 3, "text": "Trade regulations", "is_correct": false },
+        { "option_id": 4, "text": "Music and art", "is_correct": false }
+      ],
+      "answer": "Forest-based meditation and rituals"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What central questions do the Upanishads address?",
+      "options": [
+        { "option_id": 1, "text": "Trade and economy", "is_correct": false },
+        { "option_id": 2, "text": "Life, death and profound truths", "is_correct": true },
+        { "option_id": 3, "text": "Political power", "is_correct": false },
+        { "option_id": 4, "text": "Agricultural methods", "is_correct": false }
+      ],
+      "answer": "Life, death and profound truths"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Over what duration was Vedic literature composed?",
+      "options": [
+        { "option_id": 1, "text": "500 years", "is_correct": false },
+        { "option_id": 2, "text": "1000 years", "is_correct": false },
+        { "option_id": 3, "text": "1500 years", "is_correct": true },
+        { "option_id": 4, "text": "2000 years", "is_correct": false }
+      ],
+      "answer": "1500 years"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What does the joint family system reveal about Vedic society?",
+      "options": [
+        { "option_id": 1, "text": "Individualism", "is_correct": false },
+        { "option_id": 2, "text": "Collective living and responsibility", "is_correct": true },
+        { "option_id": 3, "text": "Urban lifestyle", "is_correct": false },
+        { "option_id": 4, "text": "Economic inequality", "is_correct": false }
+      ],
+      "answer": "Collective living and responsibility"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Why was the family system termed patriarchal?",
+      "options": [
+        { "option_id": 1, "text": "Women led households", "is_correct": false },
+        { "option_id": 2, "text": "The grihapati was male", "is_correct": true },
+        { "option_id": 3, "text": "Children owned property", "is_correct": false },
+        { "option_id": 4, "text": "Elders ruled villages", "is_correct": false }
+      ],
+      "answer": "The grihapati was male"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What does the increasing restriction on women indicate about later Vedic society?",
+      "options": [
+        { "option_id": 1, "text": "Social equality increased", "is_correct": false },
+        { "option_id": 2, "text": "Women gained political power", "is_correct": false },
+        { "option_id": 3, "text": "Women’s status declined", "is_correct": true },
+        { "option_id": 4, "text": "Education expanded", "is_correct": false }
+      ],
+      "answer": "Women’s status declined"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Why were earthen and wattle-and-daub houses suitable for Vedic life?",
+      "options": [
+        { "option_id": 1, "text": "They were decorative", "is_correct": false },
+        { "option_id": 2, "text": "They used locally available materials", "is_correct": true },
+        { "option_id": 3, "text": "They symbolized wealth", "is_correct": false },
+        { "option_id": 4, "text": "They were permanent structures", "is_correct": false }
+      ],
+      "answer": "They used locally available materials"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does the variety in diet suggest about Vedic society?",
+      "options": [
+        { "option_id": 1, "text": "Dependence only on meat", "is_correct": false },
+        { "option_id": 2, "text": "Balanced use of agricultural produce", "is_correct": true },
+        { "option_id": 3, "text": "Limited farming", "is_correct": false },
+        { "option_id": 4, "text": "Foreign influence", "is_correct": false }
+      ],
+      "answer": "Balanced use of agricultural produce"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Why was nishka significant in Vedic society?",
+      "options": [
+        { "option_id": 1, "text": "It was a religious symbol", "is_correct": false },
+        { "option_id": 2, "text": "It functioned as ornament and currency", "is_correct": true },
+        { "option_id": 3, "text": "It was a musical instrument", "is_correct": false },
+        { "option_id": 4, "text": "It marked social rank only", "is_correct": false }
+      ],
+      "answer": "It functioned as ornament and currency"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which activity reflects the recreational life of the Vedic people?",
+      "options": [
+        { "option_id": 1, "text": "Guild meetings", "is_correct": false },
+        { "option_id": 2, "text": "Yajna rituals", "is_correct": false },
+        { "option_id": 3, "text": "Music, dance and games", "is_correct": true },
+        { "option_id": 4, "text": "Tax collection", "is_correct": false }
+      ],
+      "answer": "Music, dance and games"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Why was agriculture central to the Vedic economy?",
+      "options": [
+        { "option_id": 1, "text": "It supported urban trade", "is_correct": false },
+        { "option_id": 2, "text": "It was the main occupation", "is_correct": true },
+        { "option_id": 3, "text": "It replaced animal husbandry", "is_correct": false },
+        { "option_id": 4, "text": "It was ritual-based", "is_correct": false }
+      ],
+      "answer": "It was the main occupation"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What does the use of iron ploughshares indicate?",
+      "options": [
+        { "option_id": 1, "text": "Limited farming", "is_correct": false },
+        { "option_id": 2, "text": "Technological advancement", "is_correct": true },
+        { "option_id": 3, "text": "Forest economy", "is_correct": false },
+        { "option_id": 4, "text": "Pastoral life only", "is_correct": false }
+      ],
+      "answer": "Technological advancement"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Why were cows highly valued in Vedic society?",
+      "options": [
+        { "option_id": 1, "text": "They were used for rituals only", "is_correct": false },
+        { "option_id": 2, "text": "They served as a medium of exchange", "is_correct": true },
+        { "option_id": 3, "text": "They symbolized kingship", "is_correct": false },
+        { "option_id": 4, "text": "They were rare animals", "is_correct": false }
+      ],
+      "answer": "They served as a medium of exchange"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What advantage did spoked wheels provide to Vedic chariots?",
+      "options": [
+        { "option_id": 1, "text": "Greater decoration", "is_correct": false },
+        { "option_id": 2, "text": "Increased speed", "is_correct": true },
+        { "option_id": 3, "text": "Heavier load", "is_correct": false },
+        { "option_id": 4, "text": "Ease of repair", "is_correct": false }
+      ],
+      "answer": "Increased speed"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Why were guilds important in Vedic economic life?",
+      "options": [
+        { "option_id": 1, "text": "They controlled rituals", "is_correct": false },
+        { "option_id": 2, "text": "They organized occupational groups", "is_correct": true },
+        { "option_id": 3, "text": "They collected taxes", "is_correct": false },
+        { "option_id": 4, "text": "They trained priests", "is_correct": false }
+      ],
+      "answer": "They organized occupational groups"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What social consequence arose when varna became birth-based?",
+      "options": [
+        { "option_id": 1, "text": "Social mobility increased", "is_correct": false },
+        { "option_id": 2, "text": "Caste system developed", "is_correct": true },
+        { "option_id": 3, "text": "Guilds disappeared", "is_correct": false },
+        { "option_id": 4, "text": "Joint families ended", "is_correct": false }
+      ],
+      "answer": "Caste system developed"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What was the primary aim of brahmacharyashrama?",
+      "options": [
+        { "option_id": 1, "text": "Family responsibilities", "is_correct": false },
+        { "option_id": 2, "text": "Learning under a Guru", "is_correct": true },
+        { "option_id": 3, "text": "Administrative service", "is_correct": false },
+        { "option_id": 4, "text": "Religious preaching", "is_correct": false }
+      ],
+      "answer": "Learning under a Guru"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why was grihasthashrama considered important?",
+      "options": [
+        { "option_id": 1, "text": "It emphasized renunciation", "is_correct": false },
+        { "option_id": 2, "text": "It focused on social and family duties", "is_correct": true },
+        { "option_id": 3, "text": "It discouraged occupation", "is_correct": false },
+        { "option_id": 4, "text": "It required forest life", "is_correct": false }
+      ],
+      "answer": "It focused on social and family duties"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What does vanaprasthashrama symbolize?",
+      "options": [
+        { "option_id": 1, "text": "Political authority", "is_correct": false },
+        { "option_id": 2, "text": "Gradual withdrawal from household life", "is_correct": true },
+        { "option_id": 3, "text": "Economic activity", "is_correct": false },
+        { "option_id": 4, "text": "Formal education", "is_correct": false }
+      ],
+      "answer": "Gradual withdrawal from household life"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Why was sanyasashrama considered the final stage of life?",
+      "options": [
+        { "option_id": 1, "text": "It focused on wealth", "is_correct": false },
+        { "option_id": 2, "text": "It emphasized understanding the meaning of life", "is_correct": true },
+        { "option_id": 3, "text": "It involved public service", "is_correct": false },
+        { "option_id": 4, "text": "It required teaching", "is_correct": false }
+      ],
+      "answer": "It emphasized understanding the meaning of life"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Why were natural forces worshipped as deities?",
+      "options": [
+        { "option_id": 1, "text": "They controlled political power", "is_correct": false },
+        { "option_id": 2, "text": "They were considered life-giving", "is_correct": true },
+        { "option_id": 3, "text": "They represented ancestors", "is_correct": false },
+        { "option_id": 4, "text": "They symbolized wealth", "is_correct": false }
+      ],
+      "answer": "They were considered life-giving"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What was the purpose of offering havi in yajna?",
+      "options": [
+        { "option_id": 1, "text": "To demonstrate wealth", "is_correct": false },
+        { "option_id": 2, "text": "To please deities", "is_correct": true },
+        { "option_id": 3, "text": "To mark social rank", "is_correct": false },
+        { "option_id": 4, "text": "To collect taxes", "is_correct": false }
+      ],
+      "answer": "To please deities"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What social change resulted from complex yajna rituals?",
+      "options": [
+        { "option_id": 1, "text": "Decline of priests", "is_correct": false },
+        { "option_id": 2, "text": "Increase in importance of priests", "is_correct": true },
+        { "option_id": 3, "text": "End of rituals", "is_correct": false },
+        { "option_id": 4, "text": "Rise of guilds", "is_correct": false }
+      ],
+      "answer": "Increase in importance of priests"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Why was the gramani important in village administration?",
+      "options": [
+        { "option_id": 1, "text": "He led rituals", "is_correct": false },
+        { "option_id": 2, "text": "He headed the village", "is_correct": true },
+        { "option_id": 3, "text": "He collected religious offerings", "is_correct": false },
+        { "option_id": 4, "text": "He managed guilds", "is_correct": false }
+      ],
+      "answer": "He headed the village"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What administrative progression led to the formation of a janapad?",
+      "options": [
+        { "option_id": 1, "text": "Village → City → State", "is_correct": false },
+        { "option_id": 2, "text": "Village → Vish → Jana → Janapad", "is_correct": true },
+        { "option_id": 3, "text": "Clan → Guild → Kingdom", "is_correct": false },
+        { "option_id": 4, "text": "Family → Varna → Caste", "is_correct": false }
+      ],
+      "answer": "Village → Vish → Jana → Janapad"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why was the king’s role crucial in the Vedic political system?",
+      "options": [
+        { "option_id": 1, "text": "He conducted rituals only", "is_correct": false },
+        { "option_id": 2, "text": "He ensured protection and administration", "is_correct": true },
+        { "option_id": 3, "text": "He led guilds", "is_correct": false },
+        { "option_id": 4, "text": "He composed hymns", "is_correct": false }
+      ],
+      "answer": "He ensured protection and administration"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What does the role of bhagdugh reveal about Vedic economy?",
+      "options": [
+        { "option_id": 1, "text": "Trade-based taxation", "is_correct": false },
+        { "option_id": 2, "text": "Collection of king’s share of produce", "is_correct": true },
+        { "option_id": 3, "text": "Monetary taxation", "is_correct": false },
+        { "option_id": 4, "text": "Religious offerings", "is_correct": false }
+      ],
+      "answer": "Collection of king’s share of produce"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Why were sabha and samiti important?",
+      "options": [
+        { "option_id": 1, "text": "They trained warriors", "is_correct": false },
+        { "option_id": 2, "text": "They guided the king’s decisions", "is_correct": true },
+        { "option_id": 3, "text": "They managed agriculture", "is_correct": false },
+        { "option_id": 4, "text": "They conducted yajnas", "is_correct": false }
+      ],
+      "answer": "They guided the king’s decisions"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What does women’s participation in sabha and vidath suggest?",
+      "options": [
+        { "option_id": 1, "text": "Political exclusion", "is_correct": false },
+        { "option_id": 2, "text": "Active civic role", "is_correct": true },
+        { "option_id": 3, "text": "Domestic confinement", "is_correct": false },
+        { "option_id": 4, "text": "Religious restriction", "is_correct": false }
+      ],
+      "answer": "Active civic role"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Why was rita central to Vedic thought?",
+      "options": [
+        { "option_id": 1, "text": "It defined trade rules", "is_correct": false },
+        { "option_id": 2, "text": "It explained the natural and moral order", "is_correct": true },
+        { "option_id": 3, "text": "It governed political laws", "is_correct": false },
+        { "option_id": 4, "text": "It controlled rituals", "is_correct": false }
+      ],
+      "answer": "It explained the natural and moral order"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "How was dharma related to natural laws?",
+      "options": [
+        { "option_id": 1, "text": "By opposing nature", "is_correct": false },
+        { "option_id": 2, "text": "By following the laws of nature", "is_correct": true },
+        { "option_id": 3, "text": "By changing natural cycles", "is_correct": false },
+        { "option_id": 4, "text": "By ritual observance only", "is_correct": false }
+      ],
+      "answer": "By following the laws of nature"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Why are Smritis and Puranas significant in later Vedic thought?",
+      "options": [
+        { "option_id": 1, "text": "They replaced the Vedas", "is_correct": false },
+        { "option_id": 2, "text": "They expanded religious traditions", "is_correct": true },
+        { "option_id": 3, "text": "They rejected rituals", "is_correct": false },
+        { "option_id": 4, "text": "They focused on trade", "is_correct": false }
+      ],
+      "answer": "They expanded religious traditions"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What collective term emerged for the religious stream based on Vedic traditions?",
+      "options": [
+        { "option_id": 1, "text": "Buddhism", "is_correct": false },
+        { "option_id": 2, "text": "Hinduism", "is_correct": true },
+        { "option_id": 3, "text": "Jainism", "is_correct": false },
+        { "option_id": 4, "text": "Vedanta", "is_correct": false }
+      ],
+      "answer": "Hinduism"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Why did some religious trends differ from the Vedic stream?",
+      "options": [
+        { "option_id": 1, "text": "They supported yajna rituals", "is_correct": false },
+        { "option_id": 2, "text": "They questioned yajna rites and varna system", "is_correct": true },
+        { "option_id": 3, "text": "They rejected spirituality", "is_correct": false },
+        { "option_id": 4, "text": "They emphasized kingship", "is_correct": false }
+      ],
+      "answer": "They questioned yajna rites and varna system"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What does the participation of people in assemblies indicate?",
+      "options": [
+        { "option_id": 1, "text": "Absolute monarchy", "is_correct": false },
+        { "option_id": 2, "text": "Collective decision-making", "is_correct": true },
+        { "option_id": 3, "text": "Military rule", "is_correct": false },
+        { "option_id": 4, "text": "Priestly dominance", "is_correct": false }
+      ],
+      "answer": "Collective decision-making"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Why is Vedic literature crucial for understanding changes in Vedic civilization?",
+      "options": [
+        { "option_id": 1, "text": "It provides only religious ideas", "is_correct": false },
+        { "option_id": 2, "text": "It reflects social, economic and cultural transitions", "is_correct": true },
+        { "option_id": 3, "text": "It records wars exclusively", "is_correct": false },
+        { "option_id": 4, "text": "It focuses on foreign relations", "is_correct": false }
+      ],
+      "answer": "It reflects social, economic and cultural transitions"
+    },
+{
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is meant by the term Vedic Civilization?",
+      "answer": "The Vedic Civilization refers to the culture and society described in the Vedic literature."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why is Vedic literature the main source of Vedic history?",
+      "answer": "Because most information about Vedic life is obtained from the Vedas and related texts."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name the four Vedas.",
+      "answer": "The four Vedas are Rigveda, Yajurveda, Samaveda and Atharvaveda."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why are the Vedas called Shruti?",
+      "answer": "They were preserved through listening and memorization."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is a Sukta?",
+      "answer": "A Sukta is a group of hymns composed in praise of a single deity."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What information does the Rigveda mainly provide?",
+      "answer": "It provides hymns praising various deities and information about early Vedic life."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What was the purpose of the Yajurveda?",
+      "answer": "It guided the chanting of mantras during yajna rituals."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How did the Samaveda influence Indian culture?",
+      "answer": "It laid the foundation of Indian music."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What type of content is found in the Atharvaveda?",
+      "answer": "It contains information related to daily life, remedies and social practices."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why were Brahmana texts written?",
+      "answer": "To explain the meaning and procedures of yajna rituals."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What do the Aranyakas mainly discuss?",
+      "answer": "They discuss meditation and rituals practiced in forests."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the main subject of the Upanishads?",
+      "answer": "They discuss philosophical questions about life, death and truth."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What type of family system existed in the Vedic period?",
+      "answer": "The joint family system existed in the Vedic period."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Who was the head of the Vedic family?",
+      "answer": "The grihapati was the head of the family."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does a patriarchal family system mean?",
+      "answer": "It means the male head controlled the family."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What change occurred in the status of women during the later Vedic period?",
+      "answer": "Their status gradually declined."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What type of houses did the Vedic people live in?",
+      "answer": "They lived in earthen and wattle-and-daub houses."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name any two food items of the Vedic people.",
+      "answer": "Milk products and grains were common food items."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What was Nishka?",
+      "answer": "Nishka was an ornament that also functioned as a medium of exchange."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Name any two recreational activities of the Vedic people.",
+      "answer": "Music and dance were popular recreational activities."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What was the main occupation of the Vedic people?",
+      "answer": "Agriculture was the main occupation."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which technological advancement improved agriculture?",
+      "answer": "The use of iron ploughshares improved agriculture."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why were cows considered important in the Vedic economy?",
+      "answer": "They were a measure of wealth and medium of exchange."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What was animal husbandry?",
+      "answer": "It was the practice of rearing domestic animals."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What role did guilds play in economic life?",
+      "answer": "They organized people engaged in similar occupations."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What was Varna system initially based on?",
+      "answer": "It was initially based on occupation."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What change occurred in the Varna system later?",
+      "answer": "It became hereditary."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Name the four ashramas of life.",
+      "answer": "Brahmacharya, Grihastha, Vanaprastha and Sanyasa."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What was the aim of Brahmacharyashrama?",
+      "answer": "To acquire education under a guru."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What responsibilities were associated with Grihasthashrama?",
+      "answer": "Family life, occupation and social duties."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What does Vanaprasthashrama signify?",
+      "answer": "Gradual withdrawal from household responsibilities."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What was the objective of Sanyasashrama?",
+      "answer": "To seek spiritual knowledge and truth."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Which forces of nature were worshipped in the Vedic period?",
+      "answer": "Sun, fire, wind and rain were worshipped."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What was Yajna?",
+      "answer": "Yajna was a ritual performed to please the deities."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What was Havi?",
+      "answer": "Havi was the offering made in the fire during yajna."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What was Rita?",
+      "answer": "Rita was the concept of natural and moral order."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How did the concept of Dharma evolve?",
+      "answer": "It evolved from the idea of following natural laws."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who was the king in the Vedic political system?",
+      "answer": "The king was the protector and administrator of the kingdom."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What was the role of Gramani?",
+      "answer": "He was the head of the village."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What was a Janapad?",
+      "answer": "A Janapad was a territorial state formed by settled tribes."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Name the two important assemblies in Vedic polity.",
+      "answer": "Sabha and Samiti."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What was the function of Sabha?",
+      "answer": "It advised the king on administrative matters."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What was the function of Samiti?",
+      "answer": "It was a general assembly for decision-making."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What does Bhagdugh mean?",
+      "answer": "It was the official who collected the king’s share of produce."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How was tax collected in the Vedic period?",
+      "answer": "Tax was collected in the form of agricultural produce."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What does women’s participation in assemblies indicate?",
+      "answer": "It indicates active involvement in public life."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is meant by the term Hinduism in this context?",
+      "answer": "It refers to the religious traditions developed from Vedic practices."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why did some religious trends oppose yajna rituals?",
+      "answer": "They considered yajnas complex and questioned social inequality."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What does collective decision-making suggest about Vedic polity?",
+      "answer": "It suggests participatory governance."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is the study of Vedic civilization important?",
+      "answer": "It helps understand the foundations of Indian social and cultural life."
+    },
+{
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Explain why Vedic literature is considered a reliable source for understanding Vedic civilization.",
+      "answer": "Vedic literature was composed during the Vedic period itself and directly reflects the social, religious and economic life of that time."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does the diversity of Vedic texts indicate social development over time?",
+      "answer": "Different types of texts show gradual changes from ritual-focused life to philosophical thinking."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is the Rigveda useful for understanding early Vedic society?",
+      "answer": "It provides information about early social life, beliefs and natural worship."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How did oral transmission help preserve Vedic literature accurately?",
+      "answer": "Strict memorization methods ensured correct pronunciation and transmission across generations."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Explain the significance of hymns composed by women in Vedic literature.",
+      "answer": "They indicate women’s participation in education and intellectual life in early Vedic society."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why did philosophical ideas emerge strongly in the Upanishads?",
+      "answer": "People began questioning rituals and sought deeper understanding of life and existence."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How does the joint family system reflect Vedic social values?",
+      "answer": "It emphasizes collective responsibility, cooperation and family unity."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why was the patriarchal family system dominant in Vedic society?",
+      "answer": "Economic and social responsibilities were mainly handled by male members."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Explain how changes in women’s status reflect social transformation in later Vedic period.",
+      "answer": "Increasing restrictions indicate a shift towards more rigid social structures."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why were Vedic houses simple in structure?",
+      "answer": "They were built using locally available materials suitable for a rural lifestyle."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "How does Vedic diet reflect dependence on agriculture and animal husbandry?",
+      "answer": "Food included grains, milk and milk products obtained from farming and cattle rearing."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Explain the dual role of nishka in Vedic society.",
+      "answer": "It served both as an ornament and as a medium of exchange."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why were music and dance important in Vedic life?",
+      "answer": "They were sources of recreation and were also linked with rituals."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How did the use of iron tools transform agriculture?",
+      "answer": "Iron tools increased efficiency and expanded cultivated land."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why was cattle considered a symbol of wealth?",
+      "answer": "Cattle supported agriculture, dairy needs and served as a unit of exchange."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Explain the role of guilds in economic organization.",
+      "answer": "Guilds grouped people of similar occupations and regulated their activities."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "How did the occupational basis of varna system change over time?",
+      "answer": "It gradually became hereditary instead of being based on occupation."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why did the varna system become rigid in later Vedic society?",
+      "answer": "Social roles became fixed by birth, reducing mobility."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Explain the educational importance of brahmacharyashrama.",
+      "answer": "It focused on disciplined learning and character development."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How did grihasthashrama support other stages of life?",
+      "answer": "It provided economic support and social stability."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why was vanaprasthashrama considered a transitional stage?",
+      "answer": "It marked gradual withdrawal from worldly duties."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Explain the spiritual aim of sanyasashrama.",
+      "answer": "It aimed at renunciation and realization of ultimate truth."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why were natural forces worshipped in early Vedic religion?",
+      "answer": "They were essential for survival and were seen as life-giving powers."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How did yajnas strengthen social and religious unity?",
+      "answer": "They involved collective participation and shared beliefs."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why did priests gain importance in later Vedic period?",
+      "answer": "Rituals became complex and required specialized knowledge."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Explain the transition from rita to dharma.",
+      "answer": "Moral order evolved from natural law to ethical duty."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How did religious ideas influence daily conduct?",
+      "answer": "They guided moral behavior and social responsibilities."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why did new religious trends oppose yajna rituals?",
+      "answer": "They criticized ritual complexity and social inequality."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "How did village administration form the base of Vedic polity?",
+      "answer": "Villages were the smallest administrative units."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Explain the administrative role of the gramani.",
+      "answer": "He managed village affairs and represented villagers."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "How did the formation of janapads indicate political expansion?",
+      "answer": "Small tribal units united to form territorial states."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why was kingship not absolute in Vedic polity?",
+      "answer": "The king was advised and controlled by assemblies."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Explain the importance of sabha and samiti.",
+      "answer": "They ensured participatory decision-making."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How does women’s participation in assemblies reflect early Vedic society?",
+      "answer": "It reflects relatively higher social status and freedom."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why was tax collected in kind during the Vedic period?",
+      "answer": "Agriculture was the main economic activity."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How did Vedic political system promote collective governance?",
+      "answer": "Decisions were taken with the involvement of assemblies."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Explain how economic life influenced political organization.",
+      "answer": "Agriculture-based economy shaped village and state administration."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why is the Vedic period important for understanding Indian culture?",
+      "answer": "It laid the foundations of social, religious and political traditions."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "How does Vedic civilization show continuity in Indian history?",
+      "answer": "Many cultural practices continued in later periods."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Explain the link between Vedic religion and later Hinduism.",
+      "answer": "Later Hindu beliefs evolved from Vedic traditions."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why is Vedic society considered rural in nature?",
+      "answer": "Agriculture and village life formed its economic base."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "How did education shape moral values in Vedic society?",
+      "answer": "Education emphasized discipline, ethics and duty."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Explain how social duties were linked to religion.",
+      "answer": "Religious beliefs defined moral and social obligations."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why was simplicity valued in early Vedic life?",
+      "answer": "Life was closely connected with nature and basic needs."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "How did economic specialization affect social structure?",
+      "answer": "It led to differentiation of occupations and varnas."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why is the Vedic political system considered participatory?",
+      "answer": "People had a role through assemblies and councils."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Explain how Vedic civilization balanced material and spiritual life.",
+      "answer": "It valued both economic activity and spiritual pursuit."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How does the Vedic period reflect gradual social change?",
+      "answer": "Changes occurred in family structure, religion and governance over time."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is the Vedic civilization studied as a foundation phase?",
+      "answer": "It shaped the core features of later Indian society."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Summarize the overall significance of the Vedic civilization.",
+      "answer": "It established lasting cultural, religious and political traditions of India."
+    }
+  ]
+}

@@ -1,0 +1,1209 @@
+{
+" Chapter 01": " General Science",
+"lessons": [
+"Natural Resources: Air, Water and Land"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "Which of the following is referred to as the earth's atmosphere?",
+"options": [
+{ "option_id": 1, "text": "Land", "is_correct": false },
+{ "option_id": 2, "text": "Water", "is_correct": false },
+{ "option_id": 3, "text": "Air", "is_correct": true },
+{ "option_id": 4, "text": "Soil", "is_correct": false }
+],
+"answer": "Air"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "What is the proportion of land on the earth's surface?",
+"options": [
+{ "option_id": 1, "text": "71%", "is_correct": false },
+{ "option_id": 2, "text": "29%", "is_correct": true },
+{ "option_id": 3, "text": "21%", "is_correct": false },
+{ "option_id": 4, "text": "0.3%", "is_correct": false }
+],
+"answer": "29%"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "What percentage of the earth's surface is occupied by water?",
+"options": [
+{ "option_id": 1, "text": "29%", "is_correct": false },
+{ "option_id": 2, "text": "71%", "is_correct": true },
+{ "option_id": 3, "text": "78%", "is_correct": false },
+{ "option_id": 4, "text": "97%", "is_correct": false }
+],
+"answer": "71%"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "Air, water and land together with living things form what?",
+"options": [
+{ "option_id": 1, "text": "Atmosphere", "is_correct": false },
+{ "option_id": 2, "text": "Hydrosphere", "is_correct": false },
+{ "option_id": 3, "text": "Biosphere", "is_correct": true },
+{ "option_id": 4, "text": "Lithosphere", "is_correct": false }
+],
+"answer": "Biosphere"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Which layer of the atmosphere contains about 80% of the total mass of gases?",
+"options": [
+{ "option_id": 1, "text": "Stratosphere", "is_correct": false },
+{ "option_id": 2, "text": "Troposphere", "is_correct": true },
+{ "option_id": 3, "text": "Mesosphere", "is_correct": false },
+{ "option_id": 4, "text": "Exosphere", "is_correct": false }
+],
+"answer": "Troposphere"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "What is the approximate percentage of nitrogen in the air?",
+"options": [
+{ "option_id": 1, "text": "21%", "is_correct": false },
+{ "option_id": 2, "text": "78%", "is_correct": true },
+{ "option_id": 3, "text": "0.03%", "is_correct": false },
+{ "option_id": 4, "text": "0.9%", "is_correct": false }
+],
+"answer": "78%"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "Which gas is necessary for respiration in living things?",
+"options": [
+{ "option_id": 1, "text": "Nitrogen", "is_correct": false },
+{ "option_id": 2, "text": "Oxygen", "is_correct": true },
+{ "option_id": 3, "text": "Carbon dioxide", "is_correct": false },
+{ "option_id": 4, "text": "Argon", "is_correct": false }
+],
+"answer": "Oxygen"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "Plants use which gas to produce their food?",
+"options": [
+{ "option_id": 1, "text": "Oxygen", "is_correct": false },
+{ "option_id": 2, "text": "Nitrogen", "is_correct": false },
+{ "option_id": 3, "text": "Carbon dioxide", "is_correct": true },
+{ "option_id": 4, "text": "Helium", "is_correct": false }
+],
+"answer": "Carbon dioxide"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "Which gas is used in electric bulbs?",
+"options": [
+{ "option_id": 1, "text": "Carbon dioxide", "is_correct": false },
+{ "option_id": 2, "text": "Argon", "is_correct": true },
+{ "option_id": 3, "text": "Nitrogen", "is_correct": false },
+{ "option_id": 4, "text": "Oxygen", "is_correct": false }
+],
+"answer": "Argon"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "What absorbs ultraviolet rays from the sun?",
+"options": [
+{ "option_id": 1, "text": "Troposphere", "is_correct": false },
+{ "option_id": 2, "text": "Ozone layer", "is_correct": true },
+{ "option_id": 3, "text": "Lithosphere", "is_correct": false },
+{ "option_id": 4, "text": "Humus", "is_correct": false }
+],
+"answer": "Ozone layer"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "Which gas destroys the ozone layer when released from refrigerators?",
+"options": [
+{ "option_id": 1, "text": "Oxygen", "is_correct": false },
+{ "option_id": 2, "text": "Chlorofluorocarbons", "is_correct": true },
+{ "option_id": 3, "text": "Nitrogen", "is_correct": false },
+{ "option_id": 4, "text": "Argon", "is_correct": false }
+],
+"answer": "Chlorofluorocarbons"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "What percentage of total water on earth is fresh water available for drinking?",
+"options": [
+{ "option_id": 1, "text": "97%", "is_correct": false },
+{ "option_id": 2, "text": "71%", "is_correct": false },
+{ "option_id": 3, "text": "2.7%", "is_correct": false },
+{ "option_id": 4, "text": "0.3%", "is_correct": true }
+],
+"answer": "0.3%"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "Water is known as a universal solvent because?",
+"options": [
+{ "option_id": 1, "text": "It has colour", "is_correct": false },
+{ "option_id": 2, "text": "Many substances dissolve in it", "is_correct": true },
+{ "option_id": 3, "text": "It is gaseous", "is_correct": false },
+{ "option_id": 4, "text": "It is salty", "is_correct": false }
+],
+"answer": "Many substances dissolve in it"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "The topmost layer of mature soil formed by decomposition is called?",
+"options": [
+{ "option_id": 1, "text": "Bedrock", "is_correct": false },
+{ "option_id": 2, "text": "Humus", "is_correct": true },
+{ "option_id": 3, "text": "Lithosphere", "is_correct": false },
+{ "option_id": 4, "text": "Hydrosphere", "is_correct": false }
+],
+"answer": "Humus"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "How long does it take to form a 2.5 cm thick layer of mature soil?",
+"options": [
+{ "option_id": 1, "text": "100 years", "is_correct": false },
+{ "option_id": 2, "text": "1000 years", "is_correct": true },
+{ "option_id": 3, "text": "10 years", "is_correct": false },
+{ "option_id": 4, "text": "1 year", "is_correct": false }
+],
+"answer": "1000 years"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "Which process breaks down bedrock into soil?",
+"options": [
+{ "option_id": 1, "text": "Evaporation", "is_correct": false },
+{ "option_id": 2, "text": "Weathering", "is_correct": true },
+{ "option_id": 3, "text": "Pollution", "is_correct": false },
+{ "option_id": 4, "text": "Combustion", "is_correct": false }
+],
+"answer": "Weathering"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "What is obtained from crude oil buried under land?",
+"options": [
+{ "option_id": 1, "text": "Humus", "is_correct": false },
+{ "option_id": 2, "text": "Fossil fuels like petrol and diesel", "is_correct": true },
+{ "option_id": 3, "text": "Ozone", "is_correct": false },
+{ "option_id": 4, "text": "Nitrogen", "is_correct": false }
+],
+"answer": "Fossil fuels like petrol and diesel"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "Which institute studies weather and makes forecasts in India?",
+"options": [
+{ "option_id": 1, "text": "ISRO", "is_correct": false },
+{ "option_id": 2, "text": "India Meteorological Department", "is_correct": true },
+{ "option_id": 3, "text": "DRDO", "is_correct": false },
+{ "option_id": 4, "text": "BARC", "is_correct": false }
+],
+"answer": "India Meteorological Department"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Humus supplies what to the soil?",
+"options": [
+{ "option_id": 1, "text": "Rocks", "is_correct": false },
+{ "option_id": 2, "text": "Nutrients", "is_correct": true },
+{ "option_id": 3, "text": "Water vapour", "is_correct": false },
+{ "option_id": 4, "text": "Gases", "is_correct": false }
+],
+"answer": "Nutrients"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "The proportion of oxygen in air is approximately?",
+"options": [
+{ "option_id": 1, "text": "78%", "is_correct": false },
+{ "option_id": 2, "text": "21%", "is_correct": true },
+{ "option_id": 3, "text": "0.03%", "is_correct": false },
+{ "option_id": 4, "text": "71%", "is_correct": false }
+],
+"answer": "21%"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "Which harmful gas is released from incomplete combustion of fuels?",
+"options": [
+{ "option_id": 1, "text": "Oxygen", "is_correct": false },
+{ "option_id": 2, "text": "Carbon monoxide", "is_correct": true },
+{ "option_id": 3, "text": "Nitrogen", "is_correct": false },
+{ "option_id": 4, "text": "Helium", "is_correct": false }
+],
+"answer": "Carbon monoxide"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "What is the main source of water vapour in the water cycle?",
+"options": [
+{ "option_id": 1, "text": "Land", "is_correct": false },
+{ "option_id": 2, "text": "Oceans", "is_correct": true },
+{ "option_id": 3, "text": "Soil", "is_correct": false },
+{ "option_id": 4, "text": "Rocks", "is_correct": false }
+],
+"answer": "Oceans"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Soil formation is a process that is?",
+"options": [
+{ "option_id": 1, "text": "Fast and discontinuous", "is_correct": false },
+{ "option_id": 2, "text": "Slow and continuous", "is_correct": true },
+{ "option_id": 3, "text": "Instantaneous", "is_correct": false },
+{ "option_id": 4, "text": "Man-made", "is_correct": false }
+],
+"answer": "Slow and continuous"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "Which day is celebrated as Ozone Protection Day?",
+"options": [
+{ "option_id": 1, "text": "16th September", "is_correct": true },
+{ "option_id": 2, "text": "5th June", "is_correct": false },
+{ "option_id": 3, "text": "22nd April", "is_correct": false },
+{ "option_id": 4, "text": "1st December", "is_correct": false }
+],
+"answer": "16th September"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "The proportion of humus in fertile soil is about?",
+"options": [
+{ "option_id": 1, "text": "10-20%", "is_correct": false },
+{ "option_id": 2, "text": "33-50%", "is_correct": true },
+{ "option_id": 3, "text": "71%", "is_correct": false },
+{ "option_id": 4, "text": "97%", "is_correct": false }
+],
+"answer": "33-50%"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Which constituent of air is used for generating lift in airships?",
+"options": [
+{ "option_id": 1, "text": "Argon", "is_correct": false },
+{ "option_id": 2, "text": "Helium", "is_correct": true },
+{ "option_id": 3, "text": "Carbon dioxide", "is_correct": false },
+{ "option_id": 4, "text": "Nitrogen dioxide", "is_correct": false }
+],
+"answer": "Helium"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "Air becomes what at higher altitudes?",
+"options": [
+{ "option_id": 1, "text": "Denser", "is_correct": false },
+{ "option_id": 2, "text": "Rarer", "is_correct": true },
+{ "option_id": 3, "text": "Heavier", "is_correct": false },
+{ "option_id": 4, "text": "Thicker", "is_correct": false }
+],
+"answer": "Rarer"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "What helps in aerating the soil besides supplying nutrients?",
+"options": [
+{ "option_id": 1, "text": "Bedrock", "is_correct": false },
+{ "option_id": 2, "text": "Humus", "is_correct": true },
+{ "option_id": 3, "text": "Sand", "is_correct": false },
+{ "option_id": 4, "text": "Rocks", "is_correct": false }
+],
+"answer": "Humus"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "Which is a biotic constituent of soil?",
+"options": [
+{ "option_id": 1, "text": "Sand", "is_correct": false },
+{ "option_id": 2, "text": "Microbes", "is_correct": true },
+{ "option_id": 3, "text": "Stones", "is_correct": false },
+{ "option_id": 4, "text": "Bedrock", "is_correct": false }
+],
+"answer": "Microbes"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "The best way to prevent soil erosion is to?",
+"options": [
+{ "option_id": 1, "text": "Mining", "is_correct": false },
+{ "option_id": 2, "text": "Increase green cover", "is_correct": true },
+{ "option_id": 3, "text": "Build dams", "is_correct": false },
+{ "option_id": 4, "text": "Dig wells", "is_correct": false }
+],
+"answer": "Increase green cover"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "Nitrogen is useful in production of what?",
+"options": [
+{ "option_id": 1, "text": "Fire extinguishers", "is_correct": false },
+{ "option_id": 2, "text": "Ammonia", "is_correct": true },
+{ "option_id": 3, "text": "Flash photography", "is_correct": false },
+{ "option_id": 4, "text": "Decorative lights", "is_correct": false }
+],
+"answer": "Ammonia"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Carbon dioxide is used in what?",
+"options": [
+{ "option_id": 1, "text": "Electric bulbs", "is_correct": false },
+{ "option_id": 2, "text": "Fire extinguishers", "is_correct": true },
+{ "option_id": 3, "text": "Airships", "is_correct": false },
+{ "option_id": 4, "text": "Respiration", "is_correct": false }
+],
+"answer": "Fire extinguishers"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Neon is used in what?",
+"options": [
+{ "option_id": 1, "text": "Low temperature", "is_correct": false },
+{ "option_id": 2, "text": "Decorative lights", "is_correct": true },
+{ "option_id": 3, "text": "Combustion", "is_correct": false },
+{ "option_id": 4, "text": "Proteins", "is_correct": false }
+],
+"answer": "Decorative lights"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "What causes air pollution from vehicles and industries?",
+"options": [
+{ "option_id": 1, "text": "Weathering", "is_correct": false },
+{ "option_id": 2, "text": "Combustion of fuels", "is_correct": true },
+{ "option_id": 3, "text": "Water cycle", "is_correct": false },
+{ "option_id": 4, "text": "Soil formation", "is_correct": false }
+],
+"answer": "Combustion of fuels"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Sulphur dioxide is a harmful gas released from?",
+"options": [
+{ "option_id": 1, "text": "Photosynthesis", "is_correct": false },
+{ "option_id": 2, "text": "Combustion", "is_correct": true },
+{ "option_id": 3, "text": "Evaporation", "is_correct": false },
+{ "option_id": 4, "text": "Humus decomposition", "is_correct": false }
+],
+"answer": "Combustion"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "The ozone layer is located in which part of the atmosphere?",
+"options": [
+{ "option_id": 1, "text": "Troposphere", "is_correct": false },
+{ "option_id": 2, "text": "Lower stratosphere", "is_correct": true },
+{ "option_id": 3, "text": "Mesosphere", "is_correct": false },
+{ "option_id": 4, "text": "Ionosphere", "is_correct": false }
+],
+"answer": "Lower stratosphere"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "Fresh water forms what percent of total water on earth?",
+"options": [
+{ "option_id": 1, "text": "97%", "is_correct": false },
+{ "option_id": 2, "text": "2.7%", "is_correct": true },
+{ "option_id": 3, "text": "0.3%", "is_correct": false },
+{ "option_id": 4, "text": "71%", "is_correct": false }
+],
+"answer": "2.7%"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Blood and plant sap contain high proportion of what?",
+"options": [
+{ "option_id": 1, "text": "Air", "is_correct": false },
+{ "option_id": 2, "text": "Water", "is_correct": true },
+{ "option_id": 3, "text": "Soil", "is_correct": false },
+{ "option_id": 4, "text": "Land", "is_correct": false }
+],
+"answer": "Water"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "How much water does a person need to drink daily?",
+"options": [
+{ "option_id": 1, "text": "1-2 litres", "is_correct": false },
+{ "option_id": 2, "text": "3-4 litres", "is_correct": true },
+{ "option_id": 3, "text": "5-6 litres", "is_correct": false },
+{ "option_id": 4, "text": "10 litres", "is_correct": false }
+],
+"answer": "3-4 litres"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "Land is used for what purpose by burrowing animals?",
+"options": [
+{ "option_id": 1, "text": "Drinking", "is_correct": false },
+{ "option_id": 2, "text": "Shelter", "is_correct": true },
+{ "option_id": 3, "text": "Flying", "is_correct": false },
+{ "option_id": 4, "text": "Swimming", "is_correct": false }
+],
+"answer": "Shelter"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Minerals and crude oil are obtained from?",
+"options": [
+{ "option_id": 1, "text": "Air", "is_correct": false },
+{ "option_id": 2, "text": "Land", "is_correct": true },
+{ "option_id": 3, "text": "Water vapour", "is_correct": false },
+{ "option_id": 4, "text": "Ozone", "is_correct": false }
+],
+"answer": "Land"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "The bottom layer of land is called?",
+"options": [
+{ "option_id": 1, "text": "Humus", "is_correct": false },
+{ "option_id": 2, "text": "Bedrock", "is_correct": true },
+{ "option_id": 3, "text": "Soil", "is_correct": false },
+{ "option_id": 4, "text": "Sand", "is_correct": false }
+],
+"answer": "Bedrock"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Roots of trees help in what process?",
+"options": [
+{ "option_id": 1, "text": "Pollution", "is_correct": false },
+{ "option_id": 2, "text": "Weathering of rocks", "is_correct": true },
+{ "option_id": 3, "text": "Evaporation", "is_correct": false },
+{ "option_id": 4, "text": "Combustion", "is_correct": false }
+],
+"answer": "Weathering of rocks"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "What can destroy soil quickly besides floods?",
+"options": [
+{ "option_id": 1, "text": "Green cover", "is_correct": false },
+{ "option_id": 2, "text": "Human activities like mining", "is_correct": true },
+{ "option_id": 3, "text": "Rain", "is_correct": false },
+{ "option_id": 4, "text": "Microbes", "is_correct": false }
+],
+"answer": "Human activities like mining"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "The proportion of potable water is?",
+"options": [
+{ "option_id": 1, "text": "29%", "is_correct": false },
+{ "option_id": 2, "text": "0.3%", "is_correct": true },
+{ "option_id": 3, "text": "21%", "is_correct": false },
+{ "option_id": 4, "text": "71%", "is_correct": false }
+],
+"answer": "0.3%"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "India Meteorological Department was established in which year?",
+"options": [
+{ "option_id": 1, "text": "1875", "is_correct": true },
+{ "option_id": 2, "text": "1947", "is_correct": false },
+{ "option_id": 3, "text": "2000", "is_correct": false },
+{ "option_id": 4, "text": "1900", "is_correct": false }
+],
+"answer": "1875"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Xenon is used in what?",
+"options": [
+{ "option_id": 1, "text": "Fire extinguishers", "is_correct": false },
+{ "option_id": 2, "text": "Flash photography", "is_correct": true },
+{ "option_id": 3, "text": "Ammonia production", "is_correct": false },
+{ "option_id": 4, "text": "Respiration", "is_correct": false }
+],
+"answer": "Flash photography"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Krypton is used in?",
+"options": [
+{ "option_id": 1, "text": "Fluorescent tubes", "is_correct": true },
+{ "option_id": 2, "text": "Electric bulbs", "is_correct": false },
+{ "option_id": 3, "text": "Airships", "is_correct": false },
+{ "option_id": 4, "text": "Street lighting", "is_correct": false }
+],
+"answer": "Fluorescent tubes"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "What is soot?",
+"options": [
+{ "option_id": 1, "text": "Useful gas", "is_correct": false },
+{ "option_id": 2, "text": "Harmful substance from combustion", "is_correct": true },
+{ "option_id": 3, "text": "Soil layer", "is_correct": false },
+{ "option_id": 4, "text": "Water form", "is_correct": false }
+],
+"answer": "Harmful substance from combustion"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Natural resources should be used how?",
+"options": [
+{ "option_id": 1, "text": "Lavishly", "is_correct": false },
+{ "option_id": 2, "text": "Judiciously", "is_correct": true },
+{ "option_id": 3, "text": "Only by man", "is_correct": false },
+{ "option_id": 4, "text": "Without control", "is_correct": false }
+],
+"answer": "Judiciously"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "Define natural resources.",
+"answer": "Elements available in nature which fulfil the basic needs of living things are called natural resources."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "Name the three main spheres of the earth.",
+"answer": "Atmosphere, hydrosphere and lithosphere."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "What is the biosphere?",
+"answer": "Living things and the parts of lithosphere, hydrosphere and atmosphere they occupy form the biosphere."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "State the proportion of land and water on earth's surface.",
+"answer": "Land 29%, water 71%."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "What is the main constituent of the atmosphere?",
+"answer": "Air."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Name the five layers of the atmosphere.",
+"answer": "Troposphere, stratosphere, mesosphere, ionosphere, exosphere."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "What percentage of air mass is in the troposphere?",
+"answer": "About 80%."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "List the proportions of main gases in air.",
+"answer": "Nitrogen 78%, oxygen 21%, argon 0.9%, carbon dioxide 0.03%."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "How does nitrogen help living things?",
+"answer": "Helps living things to build necessary proteins."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "Give two uses of oxygen.",
+"answer": "Necessary for respiration and combustion."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Where is argon used?",
+"answer": "In electric bulbs."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "Name two inert gases in air.",
+"answer": "Helium, neon."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "What other constituents besides gases are in air?",
+"answer": "Water vapour and dust particles."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Why does air become rarer at higher altitudes?",
+"answer": "Amount of gases decreases as we go higher."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "What is air pollution?",
+"answer": "Disturbance in balance of air constituents due to smoke and harmful gases."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Name four harmful gases from fuel combustion.",
+"answer": "Nitrogen dioxide, carbon dioxide, carbon monoxide, sulphur dioxide."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "What protects earth from ultraviolet rays?",
+"answer": "Ozone layer."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Where is the ozone layer located?",
+"answer": "Lower part of stratosphere."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "What destroys the ozone layer?",
+"answer": "Chlorofluorocarbons from ACs and refrigerators."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Name the institute for weather forecasting in India.",
+"answer": "India Meteorological Department."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "What percentage of earth's water is seawater?",
+"answer": "97%."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Why is water called universal solvent?",
+"answer": "Many substances readily dissolve in water."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "In how many states does water occur in nature?",
+"answer": "Three: solid, liquid, gaseous."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Why is seawater useful despite being salty?",
+"answer": "Main source of water vapour for water cycle."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "What causes water scarcity?",
+"answer": "Uncontrolled use for population, industry, farming."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Name natural sources of water.",
+"answer": "Streams, rivers, ponds, springs, lakes."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "What are man-made sources of water?",
+"answer": "Wells, borewells, bunds, dams."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "List four ways to conserve water.",
+"answer": "Use sparingly, block to percolate, store, reuse."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "What is land made of?",
+"answer": "Stones, soil, big rocks."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "Name man-made uses of land.",
+"answer": "Farming, building houses and roads."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "What is the topmost layer of mature soil?",
+"answer": "Humus."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "What is found below humus layer?",
+"answer": "Sand, soil, small stones, worms, insects."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "Define bedrock.",
+"answer": "Layer where proportion of rock increases."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "How is soil formed from bedrock?",
+"answer": "Through weathering by sun, wind, rain."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Time taken for 2.5 cm mature soil layer.",
+"answer": "About 1000 years."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "What is crude oil?",
+"answer": "Fossil fuel from buried forests."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Products from crude oil.",
+"answer": "Petrol, diesel, kerosene, tar, wax."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "What determines soil colour and texture?",
+"answer": "Bedrock."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Role of humus in soil.",
+"answer": "Supplies nutrients, aerates soil, holds water."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Biotic constituents of soil.",
+"answer": "Microbes, worms, insects, rodents."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Abiotic constituents of soil.",
+"answer": "Sand, soil, stones, bedrock."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "Why conserve soil?",
+"answer": "Destroyed quickly by floods, storms, mining."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Remedy for land erosion.",
+"answer": "Grow grass, trees, bushes."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Proportion of oxygen in air.",
+"answer": "21%."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Use of helium.",
+"answer": "For low temperature and lift in airships."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "What produces fog, clouds, rain?",
+"answer": "Atmosphere."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "Role of atmosphere as filter.",
+"answer": "Allows light and heat, blocks harmful elements."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Year IMD established.",
+"answer": "1875."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Functions of IMD.",
+"answer": "Observe weather, forecasts, research on climate change."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Why stored water does not stale immediately?",
+"answer": "Stored water does not become stale at once."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Explain why water is life.",
+"answer": "No living thing can survive without water."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Why shortage of potable water despite 71% water?",
+"answer": "Most is seawater or frozen; only 0.3% potable."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Characteristics of water.",
+"answer": "No colour, taste, odour."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "How hydrogen and oxygen form water?",
+"answer": "Hydrogen burns in air combining with oxygen."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Daily water need per person for drinking.",
+"answer": "3-4 litres."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Why land not flat everywhere?",
+"answer": "Hilly in some places, flat in others."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Animals using land for burrows.",
+"answer": "Terrestrials like rodents."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "What experiment shows land layers?",
+"answer": "Mixture in bottle with soil, stones, leaves, water."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Immature soil contains what?",
+"answer": "Soil and pieces of bedrock."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Agents of weathering.",
+"answer": "Sun heat, wind, rain water."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Why soil different in regions?",
+"answer": "Different bedrock."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "What buried forests form?",
+"answer": "Crude oil."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Observe pits for pipelines to see what?",
+"answer": "Land layers."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Significance of small resource proportions.",
+"answer": "Sufficient if used judiciously for all living things."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Why control greed for resources?",
+"answer": "For all living things, not just man."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "What are constituents of soil?",
+"answer": "Biotic and abiotic."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Where gases mass proportion decreases?",
+"answer": "Mesosphere and ionosphere."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "No gases where?",
+"answer": "Exosphere and beyond."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "What chant shows raider not inhaled in Kabaddi? Wait, wrong file.",
+"answer": "N/A - Error, but for science: Balance sustains living world."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "What in sap and blood high?",
+"answer": "Water."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Water cycle regulates what?",
+"answer": "Water on earth."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Main source of rain water.",
+"answer": "Water vapour from oceans."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "What do boards in cities show?",
+"answer": "Proportions of air constituents."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "What if no air on earth?",
+"answer": "No life, no protection from sun."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Microbes in soil destroyed effect?",
+"answer": "No decomposition, no humus."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "More vehicles effect?",
+"answer": "Increased air pollution."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "No potable water effect?",
+"answer": "Living things cannot survive."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Carbon dioxide for plants.",
+"answer": "Food production."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Land and soil same?",
+"answer": "No."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Lake water type.",
+"answer": "Surface water, not ground water."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Radon use.",
+"answer": "Not mentioned as useful; inert but harmful."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Diagram soil formation.",
+"answer": "Bedrock -> weathering -> stones, sand, soil + biotic."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Uses of air constituents.",
+"answer": "Nitrogen-proteins, O2-respiration, CO2-food, etc."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Why valuable natural resources?",
+"answer": "Sustain living world, fulfil basic needs."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "Constituents biosphere.",
+"answer": "Living things in three spheres."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Biotic soil.",
+"answer": "Worms, insects, microbes."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Fossil fuel.",
+"answer": "Crude oil."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Inert gases air.",
+"answer": "Argon, helium, neon, krypton, xenon."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Ozone harmful gases.",
+"answer": "Carbon tetrachloride, chlorofluorocarbons."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Soil 25 cm layer time.",
+"answer": "About 1000 years."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Water scarcity reason.",
+"answer": "Small potable amount, overuse."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "IMD main function.",
+"answer": "Weather observation and forecasts."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Humus proportion fertile soil.",
+"answer": "33 to 50%."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Tree roots weathering.",
+"answer": "Help break rocks."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Bottle experiment layers.",
+"answer": "Dry leaves top, sand, stones, soil bottom."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Global warming study by.",
+"answer": "IMD."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Why seawater not potable?",
+"answer": "Salty."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "Soil erosion prevent.",
+"answer": "Green cover."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Air filter role.",
+"answer": "Allows useful sun rays, blocks harmful."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Why judicious use resources.",
+"answer": "Small usable portions sufficient for all if not greedy."
+}
+]
+}

@@ -1,0 +1,1209 @@
+{
+" Chapter 9 ": " Motion and Types of Motion",
+"lessons": [
+"9. Motion and Types of Motion"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "What is an object in motion according to the chapter?",
+"options": [
+{ "option_id": 1, "text": "An object that remains stationary", "is_correct": false },
+{ "option_id": 2, "text": "A moving object seen in day-to-day life", "is_correct": true },
+{ "option_id": 3, "text": "An object that changes color", "is_correct": false },
+{ "option_id": 4, "text": "An object that makes sound", "is_correct": false }
+],
+"answer": "A moving object seen in day-to-day life"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "How does motion appear when waiting at a bus-stop?",
+"options": [
+{ "option_id": 1, "text": "Other vehicles appear stationary", "is_correct": false },
+{ "option_id": 2, "text": "Other vehicles appear in motion", "is_correct": true },
+{ "option_id": 3, "text": "Trees appear to run forward", "is_correct": false },
+{ "option_id": 4, "text": "The bus-stop moves", "is_correct": false }
+],
+"answer": "Other vehicles appear in motion"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "What is the change of place of an object called?",
+"options": [
+{ "option_id": 1, "text": "Speed", "is_correct": false },
+{ "option_id": 2, "text": "Displacement", "is_correct": true },
+{ "option_id": 3, "text": "Oscillation", "is_correct": false },
+{ "option_id": 4, "text": "Periodicity", "is_correct": false }
+],
+"answer": "Displacement"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "What is linear motion characterized by?",
+"options": [
+{ "option_id": 1, "text": "Movement in a circle", "is_correct": false },
+{ "option_id": 2, "text": "Displacement along a straight line", "is_correct": true },
+{ "option_id": 3, "text": "Swinging back and forth", "is_correct": false },
+{ "option_id": 4, "text": "Changing direction continually", "is_correct": false }
+],
+"answer": "Displacement along a straight line"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Which example illustrates linear motion?",
+"options": [
+{ "option_id": 1, "text": "Swing in a park", "is_correct": false },
+{ "option_id": 2, "text": "Train traveling in a straight line", "is_correct": true },
+{ "option_id": 3, "text": "Clock hands moving", "is_correct": false },
+{ "option_id": 4, "text": "Butterfly flitting", "is_correct": false }
+],
+"answer": "Train traveling in a straight line"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "What happens when a ball is released from a chair?",
+"options": [
+{ "option_id": 1, "text": "It moves in a circle", "is_correct": false },
+{ "option_id": 2, "text": "It falls to the floor", "is_correct": true },
+{ "option_id": 3, "text": "It swings back and forth", "is_correct": false },
+{ "option_id": 4, "text": "It remains in air", "is_correct": false }
+],
+"answer": "It falls to the floor"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "Which motion shows no change during the period?",
+"options": [
+{ "option_id": 1, "text": "Girl coming down a slide", "is_correct": false },
+{ "option_id": 2, "text": "Marching soldiers on parade", "is_correct": true },
+{ "option_id": 3, "text": "Swing oscillating", "is_correct": false },
+{ "option_id": 4, "text": "Fan rotating", "is_correct": false }
+],
+"answer": "Marching soldiers on parade"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "What is uniform linear motion?",
+"options": [
+{ "option_id": 1, "text": "Distance in unit time keeps changing", "is_correct": false },
+{ "option_id": 2, "text": "Distance in unit time continuously the same", "is_correct": true },
+{ "option_id": 3, "text": "Movement not in straight line", "is_correct": false },
+{ "option_id": 4, "text": "Swinging motion", "is_correct": false }
+],
+"answer": "Distance in unit time continuously the same"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "Non-uniform linear motion is seen in?",
+"options": [
+{ "option_id": 1, "text": "Soldiers marching", "is_correct": false },
+{ "option_id": 2, "text": "Girl sliding down faster and faster", "is_correct": true },
+{ "option_id": 3, "text": "Clock pendulum", "is_correct": false },
+{ "option_id": 4, "text": "Merry-go-round", "is_correct": false }
+],
+"answer": "Girl sliding down faster and faster"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "What is non-linear motion?",
+"options": [
+{ "option_id": 1, "text": "Motion in a straight line", "is_correct": false },
+{ "option_id": 2, "text": "Motion not in a straight line", "is_correct": true },
+{ "option_id": 3, "text": "Constant speed motion", "is_correct": false },
+{ "option_id": 4, "text": "Random direction only", "is_correct": false }
+],
+"answer": "Motion not in a straight line"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "Which is an example of oscillatory motion?",
+"options": [
+{ "option_id": 1, "text": "Train on track", "is_correct": false },
+{ "option_id": 2, "text": "Swing in a park", "is_correct": true },
+{ "option_id": 3, "text": "Car on road", "is_correct": false },
+{ "option_id": 4, "text": "Ball falling straight", "is_correct": false }
+],
+"answer": "Swing in a park"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "What describes oscillatory motion?",
+"options": [
+{ "option_id": 1, "text": "Swinging back and forth", "is_correct": true },
+{ "option_id": 2, "text": "Straight line displacement", "is_correct": false },
+{ "option_id": 3, "text": "One direction only", "is_correct": false },
+{ "option_id": 4, "text": "Constant direction change", "is_correct": false }
+],
+"answer": "Swinging back and forth"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "Example of oscillatory motion besides swing?",
+"options": [
+{ "option_id": 1, "text": "Pendulum of a clock", "is_correct": true },
+{ "option_id": 2, "text": "Vehicle on road", "is_correct": false },
+{ "option_id": 3, "text": "Earth around sun", "is_correct": false },
+{ "option_id": 4, "text": "Meteor falling", "is_correct": false }
+],
+"answer": "Pendulum of a clock"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "What is circular motion?",
+"options": [
+{ "option_id": 1, "text": "Motion along straight path", "is_correct": false },
+{ "option_id": 2, "text": "Motion along circular path", "is_correct": true },
+{ "option_id": 3, "text": "Back and forth motion", "is_correct": false },
+{ "option_id": 4, "text": "Irregular path", "is_correct": false }
+],
+"answer": "Motion along circular path"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Which shows circular motion?",
+"options": [
+{ "option_id": 1, "text": "Hands of a clock", "is_correct": true },
+{ "option_id": 2, "text": "Girl on slide", "is_correct": false },
+{ "option_id": 3, "text": "Soldiers marching", "is_correct": false },
+{ "option_id": 4, "text": "Ball dropped", "is_correct": false }
+],
+"answer": "Hands of a clock"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "What is periodic motion?",
+"options": [
+{ "option_id": 1, "text": "Motion without repetition", "is_correct": false },
+{ "option_id": 2, "text": "Motion passing a point after fixed period", "is_correct": true },
+{ "option_id": 3, "text": "Straight line only", "is_correct": false },
+{ "option_id": 4, "text": "Speed changing randomly", "is_correct": false }
+],
+"answer": "Motion passing a point after fixed period"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "Example of periodic motion?",
+"options": [
+{ "option_id": 1, "text": "Minute hand completing round in 60 minutes", "is_correct": true },
+{ "option_id": 2, "text": "Butterfly chasing", "is_correct": false },
+{ "option_id": 3, "text": "Linear train", "is_correct": false },
+{ "option_id": 4, "text": "Single fall of ball", "is_correct": false }
+],
+"answer": "Minute hand completing round in 60 minutes"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "What is random motion?",
+"options": [
+{ "option_id": 1, "text": "Motion in definite direction", "is_correct": false },
+{ "option_id": 2, "text": "Motion changing direction and speed continually", "is_correct": true },
+{ "option_id": 3, "text": "Uniform straight motion", "is_correct": false },
+{ "option_id": 4, "text": "Oscillatory only", "is_correct": false }
+],
+"answer": "Motion changing direction and speed continually"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Example of random motion?",
+"options": [
+{ "option_id": 1, "text": "Chasing a butterfly", "is_correct": true },
+{ "option_id": 2, "text": "Clock pendulum", "is_correct": false },
+{ "option_id": 3, "text": "Marching soldiers", "is_correct": false },
+{ "option_id": 4, "text": "Fan blades", "is_correct": false }
+],
+"answer": "Chasing a butterfly"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "What is speed defined as?",
+"options": [
+{ "option_id": 1, "text": "Time taken for distance", "is_correct": false },
+{ "option_id": 2, "text": "Distance traversed in unit time", "is_correct": true },
+{ "option_id": 3, "text": "Displacement only", "is_correct": false },
+{ "option_id": 4, "text": "Direction change", "is_correct": false }
+],
+"answer": "Distance traversed in unit time"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "Units of speed mentioned?",
+"options": [
+{ "option_id": 1, "text": "Kilometre/second only", "is_correct": false },
+{ "option_id": 2, "text": "Kilometre/hour, metre/second", "is_correct": true },
+{ "option_id": 3, "text": "Hour/kilometre", "is_correct": false },
+{ "option_id": 4, "text": "Metre/hour", "is_correct": false }
+],
+"answer": "Kilometre/hour, metre/second"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "Bus from Solapur to Pune covers?",
+"options": [
+{ "option_id": 1, "text": "200 km in 5 hours", "is_correct": true },
+{ "option_id": 2, "text": "100 km in 5 hours", "is_correct": false },
+{ "option_id": 3, "text": "200 km in 10 hours", "is_correct": false },
+{ "option_id": 4, "text": "500 km in 5 hours", "is_correct": false }
+],
+"answer": "200 km in 5 hours"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "When trees appear to run backward?",
+"options": [
+{ "option_id": 1, "text": "Waiting at bus-stop", "is_correct": false },
+{ "option_id": 2, "text": "Travelling in a train", "is_correct": true },
+{ "option_id": 3, "text": "Standing still", "is_correct": false },
+{ "option_id": 4, "text": "Walking slowly", "is_correct": false }
+],
+"answer": "Travelling in a train"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "Movement of earth around sun is?",
+"options": [
+{ "option_id": 1, "text": "Linear", "is_correct": false },
+{ "option_id": 2, "text": "Circular", "is_correct": true },
+{ "option_id": 3, "text": "Oscillatory", "is_correct": false },
+{ "option_id": 4, "text": "Random", "is_correct": false }
+],
+"answer": "Circular"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "Ceiling fan movement is?",
+"options": [
+{ "option_id": 1, "text": "Linear", "is_correct": false },
+{ "option_id": 2, "text": "Circular", "is_correct": true },
+{ "option_id": 3, "text": "Uniform linear", "is_correct": false },
+{ "option_id": 4, "text": "Random", "is_correct": false }
+],
+"answer": "Circular"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Meteor falling from sky shows?",
+"options": [
+{ "option_id": 1, "text": "Circular motion", "is_correct": false },
+{ "option_id": 2, "text": "Non-uniform linear motion", "is_correct": true },
+{ "option_id": 3, "text": "Oscillatory motion", "is_correct": false },
+{ "option_id": 4, "text": "Periodic motion", "is_correct": false }
+],
+"answer": "Non-uniform linear motion"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "Rocket launched from ground?",
+"options": [
+{ "option_id": 1, "text": "Uniform linear", "is_correct": false },
+{ "option_id": 2, "text": "Non-uniform linear", "is_correct": true },
+{ "option_id": 3, "text": "Circular", "is_correct": false },
+{ "option_id": 4, "text": "Random", "is_correct": false }
+],
+"answer": "Non-uniform linear"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Fish swimming in water?",
+"options": [
+{ "option_id": 1, "text": "Linear", "is_correct": false },
+{ "option_id": 2, "text": "Random", "is_correct": true },
+{ "option_id": 3, "text": "Uniform circular", "is_correct": false },
+{ "option_id": 4, "text": "Oscillatory", "is_correct": false }
+],
+"answer": "Random"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "Plucked string of sitar?",
+"options": [
+{ "option_id": 1, "text": "Circular", "is_correct": false },
+{ "option_id": 2, "text": "Oscillatory", "is_correct": true },
+{ "option_id": 3, "text": "Linear", "is_correct": false },
+{ "option_id": 4, "text": "Random", "is_correct": false }
+],
+"answer": "Oscillatory"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "Ball released from terrace comes down in?",
+"options": [
+{ "option_id": 1, "text": "Uniform motion", "is_correct": false },
+{ "option_id": 2, "text": "Non-uniform motion", "is_correct": true },
+{ "option_id": 3, "text": "Circular motion", "is_correct": false },
+{ "option_id": 4, "text": "Random motion", "is_correct": false }
+],
+"answer": "Non-uniform motion"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "Aeroplane on runway before take-off?",
+"options": [
+{ "option_id": 1, "text": "Oscillatory", "is_correct": false },
+{ "option_id": 2, "text": "Uniform linear", "is_correct": false },
+{ "option_id": 3, "text": "Non-uniform linear", "is_correct": true },
+{ "option_id": 4, "text": "Circular", "is_correct": false }
+],
+"answer": "Non-uniform linear"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Kite looking for prey flies with?",
+"options": [
+{ "option_id": 1, "text": "Linear motion", "is_correct": false },
+{ "option_id": 2, "text": "Random motion", "is_correct": true },
+{ "option_id": 3, "text": "Uniform circular", "is_correct": false },
+{ "option_id": 4, "text": "Periodic", "is_correct": false }
+],
+"answer": "Random motion"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Children in rotating giant wheel?",
+"options": [
+{ "option_id": 1, "text": "Linear motion", "is_correct": false },
+{ "option_id": 2, "text": "Circular motion", "is_correct": true },
+{ "option_id": 3, "text": "Oscillatory", "is_correct": false },
+{ "option_id": 4, "text": "Random", "is_correct": false }
+],
+"answer": "Circular motion"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Merry-go-round motion?",
+"options": [
+{ "option_id": 1, "text": "Linear", "is_correct": false },
+{ "option_id": 2, "text": "Circular", "is_correct": true },
+{ "option_id": 3, "text": "Non-linear only", "is_correct": false },
+{ "option_id": 4, "text": "Uniform linear", "is_correct": false }
+],
+"answer": "Circular"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "How is oscillatory motion different from linear motion?",
+"options": [
+{ "option_id": 1, "text": "Oscillatory is straight", "is_correct": false },
+{ "option_id": 2, "text": "Oscillatory swings back and forth, linear straight", "is_correct": true },
+{ "option_id": 3, "text": "Both are straight", "is_correct": false },
+{ "option_id": 4, "text": "Linear swings", "is_correct": false }
+],
+"answer": "Oscillatory swings back and forth, linear straight"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "Linear vs random motion difference?",
+"options": [
+{ "option_id": 1, "text": "Linear changes direction continually", "is_correct": false },
+{ "option_id": 2, "text": "Linear straight, random changes direction", "is_correct": true },
+{ "option_id": 3, "text": "Random is straight", "is_correct": false },
+{ "option_id": 4, "text": "Both uniform", "is_correct": false }
+],
+"answer": "Linear straight, random changes direction"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "Random vs oscillatory?",
+"options": [
+{ "option_id": 1, "text": "Random has fixed period", "is_correct": false },
+{ "option_id": 2, "text": "Oscillatory has fixed period, random no definite direction", "is_correct": true },
+{ "option_id": 3, "text": "Both random direction", "is_correct": false },
+{ "option_id": 4, "text": "Oscillatory random", "is_correct": false }
+],
+"answer": "Oscillatory has fixed period, random no definite direction"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Birds flying in sky show what motion?",
+"options": [
+{ "option_id": 1, "text": "Only linear", "is_correct": false },
+{ "option_id": 2, "text": "Random motion", "is_correct": true },
+{ "option_id": 3, "text": "Only circular", "is_correct": false },
+{ "option_id": 4, "text": "Uniform linear", "is_correct": false }
+],
+"answer": "Random motion"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Football players motion?",
+"options": [
+{ "option_id": 1, "text": "Linear", "is_correct": false },
+{ "option_id": 2, "text": "Random", "is_correct": true },
+{ "option_id": 3, "text": "Oscillatory", "is_correct": false },
+{ "option_id": 4, "text": "Periodic only", "is_correct": false }
+],
+"answer": "Random"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "Crawling baby motion?",
+"options": [
+{ "option_id": 1, "text": "Uniform linear", "is_correct": false },
+{ "option_id": 2, "text": "Random motion", "is_correct": true },
+{ "option_id": 3, "text": "Circular", "is_correct": false },
+{ "option_id": 4, "text": "Linear", "is_correct": false }
+],
+"answer": "Random motion"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "What depends on speed of object?",
+"options": [
+{ "option_id": 1, "text": "Displacement only", "is_correct": false },
+{ "option_id": 2, "text": "Time to traverse distance", "is_correct": true },
+{ "option_id": 3, "text": "Direction only", "is_correct": false },
+{ "option_id": 4, "text": "Color of object", "is_correct": false }
+],
+"answer": "Time to traverse distance"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "Wings of bird example of?",
+"options": [
+{ "option_id": 1, "text": "Linear motion", "is_correct": false },
+{ "option_id": 2, "text": "Oscillatory motion", "is_correct": true },
+{ "option_id": 3, "text": "Random motion", "is_correct": false },
+{ "option_id": 4, "text": "Uniform motion", "is_correct": false }
+],
+"answer": "Oscillatory motion"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Needle of sewing machine?",
+"options": [
+{ "option_id": 1, "text": "Circular", "is_correct": false },
+{ "option_id": 2, "text": "Oscillatory", "is_correct": true },
+{ "option_id": 3, "text": "Linear", "is_correct": false },
+{ "option_id": 4, "text": "Random", "is_correct": false }
+],
+"answer": "Oscillatory"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "Vibrating diaphragm of tabla?",
+"options": [
+{ "option_id": 1, "text": "Linear", "is_correct": false },
+{ "option_id": 2, "text": "Oscillatory", "is_correct": true },
+{ "option_id": 3, "text": "Circular", "is_correct": false },
+{ "option_id": 4, "text": "Periodic only", "is_correct": false }
+],
+"answer": "Oscillatory"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "Giant wheel example?",
+"options": [
+{ "option_id": 1, "text": "Linear motion", "is_correct": false },
+{ "option_id": 2, "text": "Circular motion", "is_correct": true },
+{ "option_id": 3, "text": "Random motion", "is_correct": false },
+{ "option_id": 4, "text": "Uniform linear", "is_correct": false }
+],
+"answer": "Circular motion"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "Stone rolling down hillside?",
+"options": [
+{ "option_id": 1, "text": "Uniform linear", "is_correct": false },
+{ "option_id": 2, "text": "Non-uniform linear", "is_correct": true },
+{ "option_id": 3, "text": "Circular", "is_correct": false },
+{ "option_id": 4, "text": "Oscillatory", "is_correct": false }
+],
+"answer": "Non-uniform linear"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Spring stretched and released?",
+"options": [
+{ "option_id": 1, "text": "Circular", "is_correct": false },
+{ "option_id": 2, "text": "Oscillatory", "is_correct": true },
+{ "option_id": 3, "text": "Random", "is_correct": false },
+{ "option_id": 4, "text": "Linear", "is_correct": false }
+],
+"answer": "Oscillatory"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Minute hand motion?",
+"options": [
+{ "option_id": 1, "text": "Linear", "is_correct": false },
+{ "option_id": 2, "text": "Circular", "is_correct": true },
+{ "option_id": 3, "text": "Random", "is_correct": false },
+{ "option_id": 4, "text": "Non-uniform", "is_correct": false }
+],
+"answer": "Circular"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "See-saw motion?",
+"options": [
+{ "option_id": 1, "text": "Linear", "is_correct": false },
+{ "option_id": 2, "text": "Oscillatory", "is_correct": true },
+{ "option_id": 3, "text": "Circular", "is_correct": false },
+{ "option_id": 4, "text": "Random", "is_correct": false }
+],
+"answer": "Oscillatory"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Children in march past?",
+"options": [
+{ "option_id": 1, "text": "Random motion", "is_correct": false },
+{ "option_id": 2, "text": "Uniform linear motion", "is_correct": true },
+{ "option_id": 3, "text": "Circular motion", "is_correct": false },
+{ "option_id": 4, "text": "Oscillatory motion", "is_correct": false }
+],
+"answer": "Uniform linear motion"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "Define motion.",
+"answer": "If an object is seen by an observer to change its place continuously, the object is said to be in motion."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "What is displacement?",
+"answer": "Change of place of an object is called displacement."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "Define linear motion.",
+"answer": "The motion of an object in a straight line or same direction is called linear motion."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "Give an example of linear motion.",
+"answer": "A train or a moving vehicle on a road."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "What occurs when a ball is dropped from a chair?",
+"answer": "It falls to the floor."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Describe uniform linear motion.",
+"answer": "When the distance traversed by an object along a straight line in unit time is continuously the same."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Give example of uniform linear motion.",
+"answer": "Motion of marching soldiers on parade."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "Define non-uniform linear motion.",
+"answer": "When the distance traversed by an object along a straight line in unit time keeps on changing."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "Example of non-uniform linear motion.",
+"answer": "Girl coming down a slide faster and faster."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "What is non-linear motion?",
+"answer": "The motion of an object that does not move in a straight line."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Define oscillatory motion.",
+"answer": "The motion of a body that is oscillating, swinging back and forth."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "Give two examples of oscillatory motion.",
+"answer": "Swing in a park, pendulum of a clock."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "What is circular motion?",
+"answer": "The motion of an object along a circular path."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Examples of circular motion.",
+"answer": "Hands of a clock, ceiling fan."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "Define periodic motion.",
+"answer": "The motion of an object which passes through a certain point again and again after a fixed period."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Example of periodic motion.",
+"answer": "Minute hand of a clock completes one round in 60 minutes."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "What is random motion?",
+"answer": "The motion that changes its direction and speed continually."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Give example of random motion.",
+"answer": "Chasing a butterfly in a garden."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "Define speed.",
+"answer": "The distance traversed by an object in unit time is called its speed."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "What are units of speed?",
+"answer": "Kilometre/hour, metre/second."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "How much distance does bus cover per hour from Solapur to Pune example?",
+"answer": "About 40 kilometres per hour."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Why do trees appear to run backward in train?",
+"answer": "When you are in motion yourself, a still object appears to be moving."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Type of motion: earth around sun.",
+"answer": "Circular."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Type of motion: ceiling fan.",
+"answer": "Circular."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "Type of motion: meteor falling.",
+"answer": "Non-uniform linear."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Type of motion: rocket launch.",
+"answer": "Non-uniform linear."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Type of motion: fish swimming.",
+"answer": "Random."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Type of motion: plucked sitar string.",
+"answer": "Oscillatory."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "Motion of ball released from terrace.",
+"answer": "Non-uniform motion."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "Motion if ball thrown parallel from terrace.",
+"answer": "Non-uniform motion."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Aeroplane on runway motion.",
+"answer": "Non-uniform linear."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Kite hunting prey motion.",
+"answer": "Random motion."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "Giant wheel children motion.",
+"answer": "Circular motion."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Merry-go-round motion.",
+"answer": "Circular motion."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "How oscillatory differs from linear?",
+"answer": "Oscillatory motion swings back and forth; linear motion along straight line."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Difference between linear and random motion.",
+"answer": "Linear along straight line; random changes direction continually."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Random vs oscillatory motion.",
+"answer": "Random changes direction/speed continually; oscillatory swings back and forth with fixed period."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "Motion types in birds flying.",
+"answer": "Random motion."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Motion of football players.",
+"answer": "Random motion."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Motion of crawling baby.",
+"answer": "Random motion."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "What does time to traverse distance depend on?",
+"answer": "Speed of the object."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "Example of oscillatory in musical instrument.",
+"answer": "Vibrating diaphragm of tabla or drum."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Other examples of circular motion.",
+"answer": "Giant wheel, merry-go-round."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Swing time characteristic.",
+"answer": "Takes about the same time for each swing or oscillation."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Motion of bicycle riding girl.",
+"answer": "Linear and circular (wheels)."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Objects in motion definition.",
+"answer": "Objects that change their position continuously."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "List types of motion.",
+"answer": "Linear, uniform linear, non-uniform linear, oscillatory, circular, periodic, random."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Why speed ratio taken for bus example?",
+"answer": "Ratio of distance traversed and time required gives distance in unit time."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Motion of wandering animal.",
+"answer": "Random motion."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Activity suggested.",
+"answer": "Make a list of various moving objects and discuss types of motion."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Explain why vehicles appear moving at bus-stop.",
+"answer": "While waiting, other vehicles appear in motion relative to observer."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Significance of continuous displacement.",
+"answer": "Continuous displacement of an object is called motion."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Why girl on slide speeds up?",
+"answer": "Speed of her motion goes on increasing continuously."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Role of unit time in uniform motion.",
+"answer": "Distance traversed in unit time continuously same."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Cause of non-uniformity in slide motion.",
+"answer": "Distance in unit time keeps changing."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Describe swing movement.",
+"answer": "Comes back from one end to other end."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Purpose of fixed period in periodic motion.",
+"answer": "Object passes through point again after fixed period."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Effect of continual direction change.",
+"answer": "Called random motion."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "How speed calculated for bus.",
+"answer": "Distance 200 km / 5 hours."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Why still objects seem moving in train.",
+"answer": "Observer in motion makes still objects appear moving."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Outcome when ball thrown parallel to terrace.",
+"answer": "Reaches ground in non-uniform motion."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Why giant wheel periodic.",
+"answer": "Completes every round in same period."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Significance of no definite path in butterfly chase.",
+"answer": "No definite direction to motion, random."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Difference in soldiers and girl motion.",
+"answer": "Soldiers uniform, girl non-uniform."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Explain backward motion of trees.",
+"answer": "Trees seen to run backward while travelling in train."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "What concludes from ball drop experiment.",
+"answer": "Object falls due to gravity in linear motion."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Why oscillatory in bird wings.",
+"answer": "Movement up and down like oscillation."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Role of observer in defining motion.",
+"answer": "Object seen by observer to change place continuously."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Why multiple types in one object.",
+"answer": "A moving object may not have only one type of motion."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Examples of oscillatory in instruments.",
+"answer": "Tabla or drum diaphragm."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Periodic nature of merry-go-round.",
+"answer": "Completes every round in same time."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Random motion in football.",
+"answer": "Players change direction and speed."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Speed formula significance.",
+"answer": "Ratio gives distance in unit time."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Linear motion displacement feature.",
+"answer": "Shows displacement along straight line."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Why uniform in soldiers.",
+"answer": "No change seen in motion."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Non-linear types.",
+"answer": "Oscillatory, circular, periodic, random."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "Swing oscillation time.",
+"answer": "About the same time for each."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Circular path examples daily life.",
+"answer": "Fan, giant wheel, merry-go-round."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Ball from terrace parallel throw.",
+"answer": "Non-uniform linear motion."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Kite prey motion type.",
+"answer": "Random."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Giant wheel vs merry-go-round.",
+"answer": "Both circular motion."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Birds sky motion.",
+"answer": "Random."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Bicycle riding motions.",
+"answer": "Linear (body), circular (wheels)."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Puzzle: spring stretched released.",
+"answer": "Oscillatory."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "Puzzle: minute hand.",
+"answer": "Circular."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Puzzle: see-saw.",
+"answer": "Oscillatory."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Puzzle: march past children.",
+"answer": "Uniform linear."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Puzzle: stone down hillside.",
+"answer": "Non-uniform linear."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "What we learnt: objects in motion.",
+"answer": "Those that change position continuously."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Always remember: speed.",
+"answer": "Distance in unit time."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Time depends on.",
+"answer": "Speed of object."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Motion types list from learnt.",
+"answer": "Linear, uniform linear, non-uniform linear, oscillatory, circular, periodic, random."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Wandering animal motion.",
+"answer": "Random."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Bus speed calculation.",
+"answer": "200 km in 5 hours, 40 km/h."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Relative motion at bus stop.",
+"answer": "Vehicles appear in motion."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Dropped ball motion type.",
+"answer": "Non-uniform linear."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Sewing machine needle.",
+"answer": "Oscillatory."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "Bicycle types when riding.",
+"answer": "Various types including linear, circular."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Environment moving objects activity.",
+"answer": "List and discuss types."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Exercise identify earth-sun motion.",
+"answer": "Circular."
+}
+]
+}

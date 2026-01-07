@@ -1,0 +1,371 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.28",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Play by Day and Night"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What items are children asked to bring to the play session?",
+      "options": [
+        { "option_id": 1, "text": "Books and pens", "is_correct": false },
+        { "option_id": 2, "text": "Hoop and ball", "is_correct": true },
+        { "option_id": 3, "text": "Sweets and snacks", "is_correct": false },
+        { "option_id": 4, "text": "Cycles and skates", "is_correct": false }
+      ],
+      "answer": "Hoop and ball"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How are the children's faces described?",
+      "options": [
+        { "option_id": 1, "text": "Serious faces", "is_correct": false },
+        { "option_id": 2, "text": "Tired faces", "is_correct": false },
+        { "option_id": 3, "text": "Happy faces", "is_correct": true },
+        { "option_id": 4, "text": "Sad faces", "is_correct": false }
+      ],
+      "answer": "Happy faces"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What should the children make together?",
+      "options": [
+        { "option_id": 1, "text": "A merry ring", "is_correct": true },
+        { "option_id": 2, "text": "A long line", "is_correct": false },
+        { "option_id": 3, "text": "A tall tower", "is_correct": false },
+        { "option_id": 4, "text": "A square box", "is_correct": false }
+      ],
+      "answer": "A merry ring"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What kind of day is it described as in the poem?",
+      "options": [
+        { "option_id": 1, "text": "A rainy day", "is_correct": false },
+        { "option_id": 2, "text": "A pleasant day", "is_correct": true },
+        { "option_id": 3, "text": "A windy day", "is_correct": false },
+        { "option_id": 4, "text": "A hot day", "is_correct": false }
+      ],
+      "answer": "A pleasant day"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "According to the poem, how bright is the moon shining?",
+      "options": [
+        { "option_id": 1, "text": "As bright as a lamp", "is_correct": false },
+        { "option_id": 2, "text": "As bright as day", "is_correct": true },
+        { "option_id": 3, "text": "As bright as a star", "is_correct": false },
+        { "option_id": 4, "text": "As bright as a fire", "is_correct": false }
+      ],
+      "answer": "As bright as day"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What should the children leave to come out and play?",
+      "options": [
+        { "option_id": 1, "text": "Their homework", "is_correct": false },
+        { "option_id": 2, "text": "Their toys", "is_correct": false },
+        { "option_id": 3, "text": "Their supper and sleep", "is_correct": true },
+        { "option_id": 4, "text": "Their bags", "is_correct": false }
+      ],
+      "answer": "Their supper and sleep"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where are the children invited to play?",
+      "options": [
+        { "option_id": 1, "text": "In the park", "is_correct": false },
+        { "option_id": 2, "text": "Into the street", "is_correct": true },
+        { "option_id": 3, "text": "In the garden", "is_correct": false },
+        { "option_id": 4, "text": "At school", "is_correct": false }
+      ],
+      "answer": "Into the street"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How should the children come when called?",
+      "options": [
+        { "option_id": 1, "text": "With a whoop and a call", "is_correct": true },
+        { "option_id": 2, "text": "Slowly and quietly", "is_correct": false },
+        { "option_id": 3, "text": "With a cry and a shout", "is_correct": false },
+        { "option_id": 4, "text": "Angrily", "is_correct": false }
+      ],
+      "answer": "With a whoop and a call"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the essential condition for coming to play?",
+      "options": [
+        { "option_id": 1, "text": "Coming with money", "is_correct": false },
+        { "option_id": 2, "text": "Coming with goodwill", "is_correct": true },
+        { "option_id": 3, "text": "Coming with new shoes", "is_correct": false },
+        { "option_id": 4, "text": "Coming with a gift", "is_correct": false }
+      ],
+      "answer": "Coming with goodwill"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of these activities is NOT mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Singing", "is_correct": false },
+        { "option_id": 2, "text": "Dancing", "is_correct": false },
+        { "option_id": 3, "text": "Reading", "is_correct": true },
+        { "option_id": 4, "text": "Laughing", "is_correct": false }
+      ],
+      "answer": "Reading"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The children are told to come 'Quickly, quickly'. This shows they should be:",
+      "options": [
+        { "option_id": 1, "text": "Late", "is_correct": false },
+        { "option_id": 2, "text": "Prompt and eager", "is_correct": true },
+        { "option_id": 3, "text": "Tired", "is_correct": false },
+        { "option_id": 4, "text": "Careful", "is_correct": false }
+      ],
+      "answer": "Prompt and eager"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who are the 'playfellows' mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Parents", "is_correct": false },
+        { "option_id": 2, "text": "Teachers", "is_correct": false },
+        { "option_id": 3, "text": "Friends and companions", "is_correct": true },
+        { "option_id": 4, "text": "Strangers", "is_correct": false }
+      ],
+      "answer": "Friends and companions"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word in the poem rhymes with 'sing'?",
+      "options": [
+        { "option_id": 1, "text": "Bring", "is_correct": false },
+        { "option_id": 2, "text": "Ring", "is_correct": true },
+        { "option_id": 3, "text": "Call", "is_correct": false },
+        { "option_id": 4, "text": "Ball", "is_correct": false }
+      ],
+      "answer": "Ring"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word in the poem rhymes with 'play'?",
+      "options": [
+        { "option_id": 1, "text": "Night", "is_correct": false },
+        { "option_id": 2, "text": "Street", "is_correct": false },
+        { "option_id": 3, "text": "Day", "is_correct": true },
+        { "option_id": 4, "text": "Sleep", "is_correct": false }
+      ],
+      "answer": "Day"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word in the poem rhymes with 'sleep'?",
+      "options": [
+        { "option_id": 1, "text": "Street", "is_correct": true },
+        { "option_id": 2, "text": "Ball", "is_correct": false },
+        { "option_id": 3, "text": "Ring", "is_correct": false },
+        { "option_id": 4, "text": "Shine", "is_correct": false }
+      ],
+      "answer": "Street"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which word in the poem rhymes with 'call'?",
+      "options": [
+        { "option_id": 1, "text": "At all", "is_correct": true },
+        { "option_id": 2, "text": "Faces", "is_correct": false },
+        { "option_id": 3, "text": "Away", "is_correct": false },
+        { "option_id": 4, "text": "Ring", "is_correct": false }
+      ],
+      "answer": "At all"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The poem creates a mood of:",
+      "options": [
+        { "option_id": 1, "text": "Loneliness", "is_correct": false },
+        { "option_id": 2, "text": "Fear", "is_correct": false },
+        { "option_id": 3, "text": "Joy and togetherness", "is_correct": true },
+        { "option_id": 4, "text": "Laziness", "is_correct": false }
+      ],
+      "answer": "Joy and togetherness"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What does 'come with a whoop' mean?",
+      "options": [
+        { "option_id": 1, "text": "Come with a sad cry", "is_correct": false },
+        { "option_id": 2, "text": "Come with an excited shout", "is_correct": true },
+        { "option_id": 3, "text": "Come with a whisper", "is_correct": false },
+        { "option_id": 4, "text": "Come with a song", "is_correct": false }
+      ],
+      "answer": "Come with an excited shout"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the time of the day mentioned in the latter half of the poem?",
+      "options": [
+        { "option_id": 1, "text": "Noon", "is_correct": false },
+        { "option_id": 2, "text": "Morning", "is_correct": false },
+        { "option_id": 3, "text": "Night (Moonlight)", "is_correct": true },
+        { "option_id": 4, "text": "Sunrise", "is_correct": false }
+      ],
+      "answer": "Night (Moonlight)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The phrase 'come not at all' suggests that without ________, play is not worth it.",
+      "options": [
+        { "option_id": 1, "text": "Goodwill", "is_correct": true },
+        { "option_id": 2, "text": "Toys", "is_correct": false },
+        { "option_id": 3, "text": "Food", "is_correct": false },
+        { "option_id": 4, "text": "Lights", "is_correct": false }
+      ],
+      "answer": "Goodwill"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Which two play items are mentioned in the poem?",
+      "answer": "The two play items mentioned are a hoop and a ball."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What kind of expression should children have on their faces while coming to play?",
+      "answer": "Children are encouraged to come with happy faces."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What four activities are the children invited to do together in a ring?",
+      "answer": "The children are invited to talk, laugh, dance, and sing."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Why does the poet say the children should 'come away' quickly?",
+      "answer": "The poet says they should come away quickly because it is a pleasant day for play."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What comparison is made to describe the brightness of the moon?",
+      "answer": "The moon is described as shining 'as bright as day'."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What are the children told to leave behind to join their playfellows?",
+      "answer": "They are told to leave their supper and their sleep."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Where are the children expected to meet their friends?",
+      "answer": "The children are expected to meet their playfellows into the street."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is meant by 'come with a goodwill'?",
+      "answer": "It means to come with a positive, friendly, and cooperative attitude toward others."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is the alternative given if a child cannot come with goodwill?",
+      "answer": "The poem suggests that if they cannot come with goodwill, they should 'come not at all'."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "How does the poet describe the invitation to girls and boys?",
+      "answer": "The poet calls out 'Girls and boys, come out to play', inviting everyone to join the fun."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'make a merry ring' imply?",
+      "answer": "It implies that the children should form a circle to play and enjoy together in a group."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Identify a pair of rhyming words from the first stanza.",
+      "answer": "A pair of rhyming words is 'ball' and 'all'."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Identify a pair of rhyming words that relate to the time of day.",
+      "answer": "The words 'play' and 'day' rhyme and relate to the time mentioned."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What does 'come with a call' suggest?",
+      "answer": "It suggests that children should respond immediately and loudly when they hear the invitation to play."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "How does the illustration on page 104 support the poem?",
+      "answer": "The illustration shows a bright full moon in the sky with several happy children running and playing together outside their houses at night."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Is the play described only for the daytime?",
+      "answer": "No, the title and the poem mention both 'Day and Night' and specifically describe playing under the bright moon."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is the significance of the word 'merry' in the poem?",
+      "answer": "The word 'merry' signifies that the purpose of the gathering is joy, cheerfulness, and fun."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What does 'playfellows' mean in the context of the poem?",
+      "answer": "Playfellows refers to the other children or friends who are also coming out to play together."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is the tone of the poet in this chapter?",
+      "answer": "The tone is very encouraging, energetic, and cheerful, inviting children to be active and social."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is the overall message regarding social interaction in the poem?",
+      "answer": "The message is to come together with friends, leave individual activities like sleep or eating, and enjoy group play with a positive spirit."
+    }
+  ]
+}

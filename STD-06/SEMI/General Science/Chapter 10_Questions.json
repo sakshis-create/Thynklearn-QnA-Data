@@ -1,0 +1,1209 @@
+{
+" Chapter_10": " Force and Types of Force",
+"lessons": [
+"10. Force and Types of Force"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "What is required for a boat to move ahead?",
+"options": [
+{ "option_id": 1, "text": "Pushing with oar", "is_correct": true },
+{ "option_id": 2, "text": "Pulling with rope", "is_correct": false },
+{ "option_id": 3, "text": "No force needed", "is_correct": false },
+{ "option_id": 4, "text": "Gravitational pull", "is_correct": false }
+],
+"answer": "Pushing with oar"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "Who exerts force to move bullock-cart?",
+"options": [
+{ "option_id": 1, "text": "Ox", "is_correct": true },
+{ "option_id": 2, "text": "Cart wheels", "is_correct": false },
+{ "option_id": 3, "text": "Wind", "is_correct": false },
+{ "option_id": 4, "text": "Road", "is_correct": false }
+],
+"answer": "Ox"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "What makes ball move in football?",
+"options": [
+{ "option_id": 1, "text": "Force from kick", "is_correct": true },
+{ "option_id": 2, "text": "Air inside", "is_correct": false },
+{ "option_id": 3, "text": "Gravity only", "is_correct": false },
+{ "option_id": 4, "text": "Magnet", "is_correct": false }
+],
+"answer": "Force from kick"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "Force applied when kicking football towards goal?",
+"options": [
+{ "option_id": 1, "text": "Pulling force", "is_correct": false },
+{ "option_id": 2, "text": "Pushing force", "is_correct": true },
+{ "option_id": 3, "text": "Magnetic force", "is_correct": false },
+{ "option_id": 4, "text": "Electrostatic", "is_correct": false }
+],
+"answer": "Pushing force"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Daily actions requiring force include?",
+"options": [
+{ "option_id": 1, "text": "Lifting, pulling, pushing", "is_correct": true },
+{ "option_id": 2, "text": "Sitting only", "is_correct": false },
+{ "option_id": 3, "text": "Sleeping", "is_correct": false },
+{ "option_id": 4, "text": "Breathing", "is_correct": false }
+],
+"answer": "Lifting, pulling, pushing"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "Definition of force?",
+"options": [
+{ "option_id": 1, "text": "To pull or push object", "is_correct": true },
+{ "option_id": 2, "text": "To keep stationary", "is_correct": false },
+{ "option_id": 3, "text": "To change color", "is_correct": false },
+{ "option_id": 4, "text": "To make sound", "is_correct": false }
+],
+"answer": "To pull or push object"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "Does object change position on own?",
+"options": [
+{ "option_id": 1, "text": "Yes", "is_correct": false },
+{ "option_id": 2, "text": "No, force required", "is_correct": true },
+{ "option_id": 3, "text": "Only if magnetic", "is_correct": false },
+{ "option_id": 4, "text": "Only gravitational", "is_correct": false }
+],
+"answer": "No, force required"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "Force used to?",
+"options": [
+{ "option_id": 1, "text": "Move object, change direction, stop", "is_correct": true },
+{ "option_id": 2, "text": "Only move", "is_correct": false },
+{ "option_id": 3, "text": "Only stop", "is_correct": false },
+{ "option_id": 4, "text": "Change shape only", "is_correct": false }
+],
+"answer": "Move object, change direction, stop"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "What happens pulling spring ends?",
+"options": [
+{ "option_id": 1, "text": "Shape changes", "is_correct": true },
+{ "option_id": 2, "text": "Breaks", "is_correct": false },
+{ "option_id": 3, "text": "No change", "is_correct": false },
+{ "option_id": 4, "text": "Heats up", "is_correct": false }
+],
+"answer": "Shape changes"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Blacksmith hammering iron?",
+"options": [
+{ "option_id": 1, "text": "Changes shape", "is_correct": true },
+{ "option_id": 2, "text": "Melts it", "is_correct": false },
+{ "option_id": 3, "text": "Cools it", "is_correct": false },
+{ "option_id": 4, "text": "No effect", "is_correct": false }
+],
+"answer": "Changes shape"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "What is muscular force?",
+"options": [
+{ "option_id": 1, "text": "Force by muscles", "is_correct": true },
+{ "option_id": 2, "text": "Force by machine", "is_correct": false },
+{ "option_id": 3, "text": "Force by earth", "is_correct": false },
+{ "option_id": 4, "text": "Force by magnet", "is_correct": false }
+],
+"answer": "Force by muscles"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "Example of muscular force?",
+"options": [
+{ "option_id": 1, "text": "Lifting weight", "is_correct": true },
+{ "option_id": 2, "text": "Electric pump", "is_correct": false },
+{ "option_id": 3, "text": "Spring balance", "is_correct": false },
+{ "option_id": 4, "text": "Carrom board", "is_correct": false }
+],
+"answer": "Lifting weight"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "What is mechanical force?",
+"options": [
+{ "option_id": 1, "text": "Force by machine", "is_correct": true },
+{ "option_id": 2, "text": "Force by muscles only", "is_correct": false },
+{ "option_id": 3, "text": "Force by gravity", "is_correct": false },
+{ "option_id": 4, "text": "Force by friction", "is_correct": false }
+],
+"answer": "Force by machine"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "Examples of mechanical force machines?",
+"options": [
+{ "option_id": 1, "text": "Sewing machine, mixer", "is_correct": true },
+{ "option_id": 2, "text": "Hands lifting", "is_correct": false },
+{ "option_id": 3, "text": "Magnet picking", "is_correct": false },
+{ "option_id": 4, "text": "Ball falling", "is_correct": false }
+],
+"answer": "Sewing machine, mixer"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "What is gravitational force?",
+"options": [
+{ "option_id": 1, "text": "Force by earth pulling objects", "is_correct": true },
+{ "option_id": 2, "text": "Force by muscles", "is_correct": false },
+{ "option_id": 3, "text": "Force by friction", "is_correct": false },
+{ "option_id": 4, "text": "Force by magnet", "is_correct": false }
+],
+"answer": "Force by earth pulling objects"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "Why object thrown up comes down?",
+"options": [
+{ "option_id": 1, "text": "Gravitational force", "is_correct": true },
+{ "option_id": 2, "text": "Muscular force", "is_correct": false },
+{ "option_id": 3, "text": "Frictional force", "is_correct": false },
+{ "option_id": 4, "text": "Electrostatic", "is_correct": false }
+],
+"answer": "Gravitational force"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "Who discovered gravitation?",
+"options": [
+{ "option_id": 1, "text": "Sir Isaac Newton", "is_correct": true },
+{ "option_id": 2, "text": "Albert Einstein", "is_correct": false },
+{ "option_id": 3, "text": "Galileo", "is_correct": false },
+{ "option_id": 4, "text": "Archimedes", "is_correct": false }
+],
+"answer": "Sir Isaac Newton"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "Gravitational force on upward object?",
+"options": [
+{ "option_id": 1, "text": "Decreases speed", "is_correct": true },
+{ "option_id": 2, "text": "Increases speed", "is_correct": false },
+{ "option_id": 3, "text": "No effect", "is_correct": false },
+{ "option_id": 4, "text": "Changes direction sideways", "is_correct": false }
+],
+"answer": "Decreases speed"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Why fruits fall from trees?",
+"options": [
+{ "option_id": 1, "text": "Gravitational force", "is_correct": true },
+{ "option_id": 2, "text": "Wind", "is_correct": false },
+{ "option_id": 3, "text": "Muscular", "is_correct": false },
+{ "option_id": 4, "text": "Magnetic", "is_correct": false }
+],
+"answer": "Gravitational force"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "What is weight of object?",
+"options": [
+{ "option_id": 1, "text": "Gravitational force on it", "is_correct": true },
+{ "option_id": 2, "text": "Muscular force", "is_correct": false },
+{ "option_id": 3, "text": "Frictional force", "is_correct": false },
+{ "option_id": 4, "text": "Mechanical force", "is_correct": false }
+],
+"answer": "Gravitational force on it"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "Spring balance measures?",
+"options": [
+{ "option_id": 1, "text": "Weight, gravitational force", "is_correct": true },
+{ "option_id": 2, "text": "Magnetic force", "is_correct": false },
+{ "option_id": 3, "text": "Frictional force", "is_correct": false },
+{ "option_id": 4, "text": "Electrostatic", "is_correct": false }
+],
+"answer": "Weight, gravitational force"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "Tension in spring balance equals?",
+"options": [
+{ "option_id": 1, "text": "Gravitational force", "is_correct": true },
+{ "option_id": 2, "text": "Muscular force", "is_correct": false },
+{ "option_id": 3, "text": "Frictional", "is_correct": false },
+{ "option_id": 4, "text": "Magnetic", "is_correct": false }
+],
+"answer": "Gravitational force"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Gravitational force between?",
+"options": [
+{ "option_id": 1, "text": "Sun and planets", "is_correct": true },
+{ "option_id": 2, "text": "Only earth objects", "is_correct": false },
+{ "option_id": 3, "text": "Magnets only", "is_correct": false },
+{ "option_id": 4, "text": "Machines", "is_correct": false }
+],
+"answer": "Sun and planets"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "What is magnetic force?",
+"options": [
+{ "option_id": 1, "text": "Force exerted by magnet", "is_correct": true },
+{ "option_id": 2, "text": "Force by earth", "is_correct": false },
+{ "option_id": 3, "text": "Force by muscles", "is_correct": false },
+{ "option_id": 4, "text": "Force by friction", "is_correct": false }
+],
+"answer": "Force exerted by magnet"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "Iron nail with magnet?",
+"options": [
+{ "option_id": 1, "text": "Sticks to it", "is_correct": true },
+{ "option_id": 2, "text": "Repels", "is_correct": false },
+{ "option_id": 3, "text": "No effect", "is_correct": false },
+{ "option_id": 4, "text": "Falls down", "is_correct": false }
+],
+"answer": "Sticks to it"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "What is frictional force?",
+"options": [
+{ "option_id": 1, "text": "Acts against motion", "is_correct": true },
+{ "option_id": 2, "text": "Acts along motion", "is_correct": false },
+{ "option_id": 3, "text": "Pulls upward", "is_correct": false },
+{ "option_id": 4, "text": "Magnetic attraction", "is_correct": false }
+],
+"answer": "Acts against motion"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "Why carrom piece stops?",
+"options": [
+{ "option_id": 1, "text": "Frictional force", "is_correct": true },
+{ "option_id": 2, "text": "Gravitational", "is_correct": false },
+{ "option_id": 3, "text": "Muscular", "is_correct": false },
+{ "option_id": 4, "text": "Electrostatic", "is_correct": false }
+],
+"answer": "Frictional force"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Electrostatic force from?",
+"options": [
+{ "option_id": 1, "text": "Rubbing charged materials", "is_correct": true },
+{ "option_id": 2, "text": "Muscles", "is_correct": false },
+{ "option_id": 3, "text": "Gravity", "is_correct": false },
+{ "option_id": 4, "text": "Machines", "is_correct": false }
+],
+"answer": "Rubbing charged materials"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "Example electrostatic activity?",
+"options": [
+{ "option_id": 1, "text": "Rub balloon attract paper", "is_correct": true },
+{ "option_id": 2, "text": "Lift weight", "is_correct": false },
+{ "option_id": 3, "text": "Hammer iron", "is_correct": false },
+{ "option_id": 4, "text": "Kick ball", "is_correct": false }
+],
+"answer": "Rub balloon attract paper"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "Smooth vs rough surfaces friction?",
+"options": [
+{ "option_id": 1, "text": "Smooth less, rough more", "is_correct": true },
+{ "option_id": 2, "text": "Smooth more, rough less", "is_correct": false },
+{ "option_id": 3, "text": "Same friction", "is_correct": false },
+{ "option_id": 4, "text": "No friction", "is_correct": false }
+],
+"answer": "Smooth less, rough more"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "Why can we walk on ground?",
+"options": [
+{ "option_id": 1, "text": "Frictional force", "is_correct": true },
+{ "option_id": 2, "text": "Gravitational", "is_correct": false },
+{ "option_id": 3, "text": "Muscular only", "is_correct": false },
+{ "option_id": 4, "text": "Magnetic", "is_correct": false }
+],
+"answer": "Frictional force"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Why slip on oily floor?",
+"options": [
+{ "option_id": 1, "text": "Less friction", "is_correct": true },
+{ "option_id": 2, "text": "More friction", "is_correct": false },
+{ "option_id": 3, "text": "Gravity", "is_correct": false },
+{ "option_id": 4, "text": "Magnetism", "is_correct": false }
+],
+"answer": "Less friction"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Wooden plank for stuck car?",
+"options": [
+{ "option_id": 1, "text": "Increases friction", "is_correct": true },
+{ "option_id": 2, "text": "Decreases friction", "is_correct": false },
+{ "option_id": 3, "text": "No effect", "is_correct": false },
+{ "option_id": 4, "text": "Magnetic", "is_correct": false }
+],
+"answer": "Increases friction"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Stone drop 20cm vs 100cm sound?",
+"options": [
+{ "option_id": 1, "text": "Higher from greater height", "is_correct": true },
+{ "option_id": 2, "text": "Same sound", "is_correct": false },
+{ "option_id": 3, "text": "No sound", "is_correct": false },
+{ "option_id": 4, "text": "Lower sound", "is_correct": false }
+],
+"answer": "Higher from greater height"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Empty vs full sack lifting?",
+"options": [
+{ "option_id": 1, "text": "Full needs more force", "is_correct": true },
+{ "option_id": 2, "text": "Empty needs more", "is_correct": false },
+{ "option_id": 3, "text": "Same force", "is_correct": false },
+{ "option_id": 4, "text": "No force", "is_correct": false }
+],
+"answer": "Full needs more force"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "Powder on carrom board?",
+"options": [
+{ "option_id": 1, "text": "Decreases friction", "is_correct": true },
+{ "option_id": 2, "text": "Increases friction", "is_correct": false },
+{ "option_id": 3, "text": "Magnetic", "is_correct": false },
+{ "option_id": 4, "text": "Gravitational", "is_correct": false }
+],
+"answer": "Decreases friction"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "Forces on elephant dragging log?",
+"options": [
+{ "option_id": 1, "text": "Muscular, gravitational, frictional", "is_correct": true },
+{ "option_id": 2, "text": "Only muscular", "is_correct": false },
+{ "option_id": 3, "text": "Only mechanical", "is_correct": false },
+{ "option_id": 4, "text": "Magnetic", "is_correct": false }
+],
+"answer": "Muscular, gravitational, frictional"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Ball rolling on table to change motion?",
+"options": [
+{ "option_id": 1, "text": "Apply force", "is_correct": true },
+{ "option_id": 2, "text": "No force", "is_correct": false },
+{ "option_id": 3, "text": "Gravity only", "is_correct": false },
+{ "option_id": 4, "text": "Friction only", "is_correct": false }
+],
+"answer": "Apply force"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Frictional force direction?",
+"options": [
+{ "option_id": 1, "text": "Against motion", "is_correct": true },
+{ "option_id": 2, "text": "Along motion", "is_correct": false },
+{ "option_id": 3, "text": "Upward", "is_correct": false },
+{ "option_id": 4, "text": "Sideways", "is_correct": false }
+],
+"answer": "Against motion"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "Ox pulling cart matches?",
+"options": [
+{ "option_id": 1, "text": "Muscular force", "is_correct": true },
+{ "option_id": 2, "text": "Electrostatic", "is_correct": false },
+{ "option_id": 3, "text": "Magnetic", "is_correct": false },
+{ "option_id": 4, "text": "Frictional", "is_correct": false }
+],
+"answer": "Muscular force"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Crane lifting iron?",
+"options": [
+{ "option_id": 1, "text": "Mechanical force", "is_correct": true },
+{ "option_id": 2, "text": "Muscular", "is_correct": false },
+{ "option_id": 3, "text": "Gravitational", "is_correct": false },
+{ "option_id": 4, "text": "Magnetic", "is_correct": false }
+],
+"answer": "Mechanical force"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "Spring balance weighing?",
+"options": [
+{ "option_id": 1, "text": "Gravitational force", "is_correct": true },
+{ "option_id": 2, "text": "Frictional", "is_correct": false },
+{ "option_id": 3, "text": "Electrostatic", "is_correct": false },
+{ "option_id": 4, "text": "Muscular", "is_correct": false }
+],
+"answer": "Gravitational force"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Bicycle brakes?",
+"options": [
+{ "option_id": 1, "text": "Frictional force", "is_correct": true },
+{ "option_id": 2, "text": "Magnetic", "is_correct": false },
+{ "option_id": 3, "text": "Gravitational", "is_correct": false },
+{ "option_id": 4, "text": "Mechanical only", "is_correct": false }
+],
+"answer": "Frictional force"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "Plastic scale paper pieces?",
+"options": [
+{ "option_id": 1, "text": "Electrostatic force", "is_correct": true },
+{ "option_id": 2, "text": "Muscular", "is_correct": false },
+{ "option_id": 3, "text": "Gravitational", "is_correct": false },
+{ "option_id": 4, "text": "Frictional", "is_correct": false }
+],
+"answer": "Electrostatic force"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "Object falling from building?",
+"options": [
+{ "option_id": 1, "text": "Gravitational force", "is_correct": true },
+{ "option_id": 2, "text": "Frictional", "is_correct": false },
+{ "option_id": 3, "text": "Muscular", "is_correct": false },
+{ "option_id": 4, "text": "Magnetic", "is_correct": false }
+],
+"answer": "Gravitational force"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "Aeroplane flying?",
+"options": [
+{ "option_id": 1, "text": "Mechanical, gravitational", "is_correct": true },
+{ "option_id": 2, "text": "Only muscular", "is_correct": false },
+{ "option_id": 3, "text": "Only friction", "is_correct": false },
+{ "option_id": 4, "text": "Electrostatic", "is_correct": false }
+],
+"answer": "Mechanical, gravitational"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Squeezing sugarcane?",
+"options": [
+{ "option_id": 1, "text": "Muscular force", "is_correct": true },
+{ "option_id": 2, "text": "Magnetic", "is_correct": false },
+{ "option_id": 3, "text": "Electrostatic", "is_correct": false },
+{ "option_id": 4, "text": "Gravitational", "is_correct": false }
+],
+"answer": "Muscular force"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Winnowing foodgrain?",
+"options": [
+{ "option_id": 1, "text": "Gravitational force", "is_correct": true },
+{ "option_id": 2, "text": "Frictional", "is_correct": false },
+{ "option_id": 3, "text": "Mechanical", "is_correct": false },
+{ "option_id": 4, "text": "Magnetic", "is_correct": false }
+],
+"answer": "Gravitational force"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Ramp rough surface reason?",
+"options": [
+{ "option_id": 1, "text": "Increase friction", "is_correct": true },
+{ "option_id": 2, "text": "Decrease friction", "is_correct": false },
+{ "option_id": 3, "text": "Magnetic", "is_correct": false },
+{ "option_id": 4, "text": "Electrostatic", "is_correct": false }
+],
+"answer": "Increase friction"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Machines oiled why?",
+"options": [
+{ "option_id": 1, "text": "Decrease friction", "is_correct": true },
+{ "option_id": 2, "text": "Increase friction", "is_correct": false },
+{ "option_id": 3, "text": "Gravitational", "is_correct": false },
+{ "option_id": 4, "text": "Muscular", "is_correct": false }
+],
+"answer": "Decrease friction"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "Define force.",
+"answer": "Force is applied to an object to pull it or push it in any manner."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "Why force necessary for actions?",
+"answer": "It is necessary to apply force for lifting, pulling, pushing, squeezing."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "Does object move on own?",
+"answer": "No object changes its position on its own. Force is required."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "Uses of force.",
+"answer": "To move object, change direction, stop it, change shape."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "What happens pulling spring?",
+"answer": "Shape changes."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Blacksmith action effect.",
+"answer": "Changes shape of red hot iron."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Define muscular force.",
+"answer": "The force applied with the help of muscles."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "Example muscular force.",
+"answer": "Lifting a weight."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "What is mechanical force?",
+"answer": "The force applied by means of a machine."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "Examples of machines using mechanical force.",
+"answer": "Sewing machine, electric pump, washing machine, mixer."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Define gravitational force.",
+"answer": "The force applied by the earth to pull objects towards itself."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "Why thrown object falls back?",
+"answer": "Earth pulls it with gravitational force."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "Effect of gravity on upward moving object.",
+"answer": "Speed decreases till zero, then falls."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Define weight.",
+"answer": "The gravitational force acting on an object."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "Spring balance principle.",
+"answer": "Tension equals gravitational force."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Gravitational force in solar system.",
+"answer": "Between sun and planets, planets and satellites."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Define magnetic force.",
+"answer": "The force exerted by a magnet."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Iron nail and magnet behaviour.",
+"answer": "Sticks to the magnet."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "What is frictional force?",
+"answer": "When two surfaces rub, force of friction acts against motion."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Example frictional force stopping motion.",
+"answer": "Carrom piece stops after sliding."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "Define electrostatic force.",
+"answer": "Force exerted by electrically charged materials like rubber, plastic."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "How electrostatic produced?",
+"answer": "Static electricity due to friction."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Friction smooth vs rough.",
+"answer": "Smooth less friction, rough greater."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Why walk possible on ground?",
+"answer": "Due to force of friction."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "Reason slip on wet floor.",
+"answer": "Less friction."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Wooden plank stuck car purpose.",
+"answer": "Generates friction between wheel and plank."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Stone drop sound difference.",
+"answer": "Louder from higher height due to more speed."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Empty vs full sack force.",
+"answer": "Full sack greater weight, more force."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "Forces acting combined.",
+"answer": "Various types act together on object."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "Fill blank: force changes state of object.",
+"answer": "Force."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Elephant log forces.",
+"answer": "Muscular, gravitational, frictional."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Ball table motion change.",
+"answer": "Apply force."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "Frictional force always acts.",
+"answer": "Against the motion."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Ox cart muscular.",
+"answer": "Muscular force."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Crane iron mechanical.",
+"answer": "Mechanical force."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Spring balance gravitational.",
+"answer": "Gravitational force."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Bicycle brake frictional.",
+"answer": "Frictional force."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "Plastic scale electrostatic.",
+"answer": "Electrostatic force."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Object falling forces.",
+"answer": "Gravitational."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Aeroplane sky forces.",
+"answer": "Mechanical, gravitational."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Sugarcane squeezer muscular.",
+"answer": "Muscular force."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "Winnowing gravitational.",
+"answer": "Gravitational force."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Machines oiled why.",
+"answer": "To decrease friction."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Thrown up comes down why.",
+"answer": "Gravitational force."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Carrom powder why.",
+"answer": "To decrease friction."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Railway ramp rough why.",
+"answer": "To increase friction."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "Muscular vs mechanical.",
+"answer": "Muscular by body muscles, mechanical by machines."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Friction vs gravitational.",
+"answer": "Friction between surfaces against motion, gravitational pulls down."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Things done by force.",
+"answer": "Move, change direction, stop, change shape."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "What is weight mean.",
+"answer": "Gravitational force on object."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Machines run on muscular force.",
+"answer": "Some machines run by muscular force."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Scooter failed push.",
+"answer": "Muscular force."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Scattered pins pick.",
+"answer": "Magnetic force."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Farm ploughed tractor.",
+"answer": "Mechanical force."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Raindrops fall force.",
+"answer": "Gravitational."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Fish magnet game possible by.",
+"answer": "Magnetic force."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Roller coaster forces.",
+"answer": "Variety of forces act together."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "What learnt force necessary for.",
+"answer": "Any action, move, change direction, shape."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Types of forces.",
+"answer": "Muscular, mechanical, gravitational, magnetic, frictional, electrostatic."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Day-to-day forces activity.",
+"answer": "Collect info on forces used."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Simultaneous forces actions.",
+"answer": "List actions with many forces."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Ball upward speed change.",
+"answer": "Decreases due to gravity."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Falling speed increase why.",
+"answer": "Due to gravitational force."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Why planets not fall to sun.",
+"answer": "Balanced by orbital motion."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Aeroplane takeoff forces.",
+"answer": "Mechanical lift opposes gravity."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Comb dry hair activity.",
+"answer": "Attracts paper, electrostatic."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Peacock feather notebook.",
+"answer": "Attracts fingers, electrostatic."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Sandpaper rub paper.",
+"answer": "Greater friction."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Bicycle brake friction between.",
+"answer": "Brake and wheel parts."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Carrom flick light stops why.",
+"answer": "Friction."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Why powder carrom.",
+"answer": "Sprinkled to decrease friction."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Wheel mud plank.",
+"answer": "Friction generated."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Friction decreased or increased.",
+"answer": "Can be as desired."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Gravitational empty sack.",
+"answer": "Less weight."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Automatic machines run by.",
+"answer": "Electricity or fuel."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Newton gravitation century.",
+"answer": "17th century."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "Object rest spring balance.",
+"answer": "Tension equals gravity."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Satellite planet gravity.",
+"answer": "Operates between."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Magnet upright nail.",
+"answer": "Nail falls."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Ball flat ground stops.",
+"answer": "Friction."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Rub thermocol silk.",
+"answer": "Attracts paper."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Smooth paper rub.",
+"answer": "Less friction."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Why no slip without friction.",
+"answer": "Would slip and fall."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Greater force for greater.",
+"answer": "Weight."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "Trick science examples.",
+"answer": "Roller coaster, sail board juggling."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Crossword down 1 scooter.",
+"answer": "Muscular."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Crossword down 2 pins.",
+"answer": "Magnetic."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Crossword across 1 magnet.",
+"answer": "Magnet."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Crossword across 3 tractor.",
+"answer": "Mechanical."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Crossword across 4 raindrops.",
+"answer": "Gravity."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Fish plastic magnet game.",
+"answer": "Magnetic force."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Why object up reaches height then down.",
+"answer": "Gravity opposes upward, pulls down."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Bigger sack lift difference.",
+"answer": "Greater force needed."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Carrom board powder friction.",
+"answer": "Decreases."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Railway station ramp.",
+"answer": "Rough surface increases friction."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Muscular force daily tasks.",
+"answer": "Many tasks in day-to-day life."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Machines muscular run.",
+"answer": "Some machines run on muscular force."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "Combined forces example.",
+"answer": "Elephant dragging log."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Activity collect forces.",
+"answer": "Various forces in day-to-day life."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "List simultaneous forces actions.",
+"answer": "Actions where many forces applied simultaneously."
+}
+]
+}

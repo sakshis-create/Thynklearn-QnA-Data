@@ -1,0 +1,1209 @@
+{
+"Chapter": "The Living World",
+"lessons": [
+"Characteristics of Living Things"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "What are the features that help us identify living things called?",
+"options": [
+{ "option_id": 1, "text": "Adaptations of non-living things", "is_correct": false },
+{ "option_id": 2, "text": "Characteristics of living things", "is_correct": true },
+{ "option_id": 3, "text": "Physical appearances", "is_correct": false },
+{ "option_id": 4, "text": "Environmental properties", "is_correct": false }
+],
+"answer": "Characteristics of living things"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "Which of the following is a characteristic seen only in living things?",
+"options": [
+{ "option_id": 1, "text": "Having a definite shape", "is_correct": false },
+{ "option_id": 2, "text": "Occupying space", "is_correct": false },
+{ "option_id": 3, "text": "Growth from within the body", "is_correct": true },
+{ "option_id": 4, "text": "Being made of metal or wood", "is_correct": false }
+],
+"answer": "Growth from within the body"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "Generally, how many years do humans require to grow into adults?",
+"options": [
+{ "option_id": 1, "text": "5 to 10 years", "is_correct": false },
+{ "option_id": 2, "text": "10 to 15 years", "is_correct": false },
+{ "option_id": 3, "text": "18 to 21 years", "is_correct": true },
+{ "option_id": 4, "text": "25 to 30 years", "is_correct": false }
+],
+"answer": "18 to 21 years"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "In plants, which parts mainly increase during growth?",
+"options": [
+{ "option_id": 1, "text": "Roots and flowers", "is_correct": false },
+{ "option_id": 2, "text": "Width and height of the stem", "is_correct": true },
+{ "option_id": 3, "text": "Fruits and seeds", "is_correct": false },
+{ "option_id": 4, "text": "Only the leaves", "is_correct": false }
+],
+"answer": "Width and height of the stem"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Which statement about the growth of animals and plants is correct?",
+"options": [
+{ "option_id": 1, "text": "Animals grow throughout their life like plants", "is_correct": false },
+{ "option_id": 2, "text": "Plants grow only for a certain period", "is_correct": false },
+{ "option_id": 3, "text": "Animals grow only for a certain period while plants grow as long as they live", "is_correct": true },
+{ "option_id": 4, "text": "Neither plants nor animals show growth", "is_correct": false }
+],
+"answer": "Animals grow only for a certain period while plants grow as long as they live"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "How does the growth of living things occur?",
+"options": [
+{ "option_id": 1, "text": "By adding layers from outside", "is_correct": false },
+{ "option_id": 2, "text": "From within the body in all parts", "is_correct": true },
+{ "option_id": 3, "text": "Only in the outer covering", "is_correct": false },
+{ "option_id": 4, "text": "Only in the limbs", "is_correct": false }
+],
+"answer": "From within the body in all parts"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "What is the main source of energy for plants to make their own food?",
+"options": [
+{ "option_id": 1, "text": "Electricity", "is_correct": false },
+{ "option_id": 2, "text": "Sunlight", "is_correct": true },
+{ "option_id": 3, "text": "Moonlight", "is_correct": false },
+{ "option_id": 4, "text": "Wind", "is_correct": false }
+],
+"answer": "Sunlight"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "Which substances do plants use to produce food during photosynthesis?",
+"options": [
+{ "option_id": 1, "text": "Water, soil, and nitrogen gas", "is_correct": false },
+{ "option_id": 2, "text": "Water, nutrients in the soil, and carbon dioxide", "is_correct": true },
+{ "option_id": 3, "text": "Only water and oxygen", "is_correct": false },
+{ "option_id": 4, "text": "Carbon monoxide and oxygen", "is_correct": false }
+],
+"answer": "Water, nutrients in the soil, and carbon dioxide"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "In which part of the plant does photosynthesis mainly take place?",
+"options": [
+{ "option_id": 1, "text": "Roots", "is_correct": false },
+{ "option_id": 2, "text": "Stem", "is_correct": false },
+{ "option_id": 3, "text": "Leaves", "is_correct": true },
+{ "option_id": 4, "text": "Flowers", "is_correct": false }
+],
+"answer": "Leaves"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Which pigment present in leaves helps in photosynthesis?",
+"options": [
+{ "option_id": 1, "text": "Haemoglobin", "is_correct": false },
+{ "option_id": 2, "text": "Chlorophyll", "is_correct": true },
+{ "option_id": 3, "text": "Melanin", "is_correct": false },
+{ "option_id": 4, "text": "Carotene", "is_correct": false }
+],
+"answer": "Chlorophyll"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "What is the process of food production in plants called?",
+"options": [
+{ "option_id": 1, "text": "Respiration", "is_correct": false },
+{ "option_id": 2, "text": "Photosynthesis", "is_correct": true },
+{ "option_id": 3, "text": "Excretion", "is_correct": false },
+{ "option_id": 4, "text": "Fermentation", "is_correct": false }
+],
+"answer": "Photosynthesis"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "Which gas is given out by plants during photosynthesis?",
+"options": [
+{ "option_id": 1, "text": "Carbon dioxide", "is_correct": false },
+{ "option_id": 2, "text": "Nitrogen", "is_correct": false },
+{ "option_id": 3, "text": "Oxygen", "is_correct": true },
+{ "option_id": 4, "text": "Hydrogen", "is_correct": false }
+],
+"answer": "Oxygen"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "Why do plants appear mainly green in colour?",
+"options": [
+{ "option_id": 1, "text": "Because of the presence of water", "is_correct": false },
+{ "option_id": 2, "text": "Because of the chlorophyll in them", "is_correct": true },
+{ "option_id": 3, "text": "Because of the presence of oxygen", "is_correct": false },
+{ "option_id": 4, "text": "Because of the colour of the stem", "is_correct": false }
+],
+"answer": "Because of the chlorophyll in them"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "Why do animals have to search for food?",
+"options": [
+{ "option_id": 1, "text": "Because they make food from sunlight", "is_correct": false },
+{ "option_id": 2, "text": "Because they store food in their skin", "is_correct": false },
+{ "option_id": 3, "text": "Because they do not have chlorophyll to make their own food", "is_correct": true },
+{ "option_id": 4, "text": "Because they do not need food regularly", "is_correct": false }
+],
+"answer": "Because they do not have chlorophyll to make their own food"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Which animals mentioned in the chapter mainly eat grass?",
+"options": [
+{ "option_id": 1, "text": "Tigers and lions", "is_correct": false },
+{ "option_id": 2, "text": "Goats, sheep, and horses", "is_correct": true },
+{ "option_id": 3, "text": "Snakes and scorpions", "is_correct": false },
+{ "option_id": 4, "text": "Eagles and vultures", "is_correct": false }
+],
+"answer": "Goats, sheep, and horses"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "How do wild animals like tigers and lions obtain their food?",
+"options": [
+{ "option_id": 1, "text": "By grazing on grass", "is_correct": false },
+{ "option_id": 2, "text": "By hunting other animals that live on plants", "is_correct": true },
+{ "option_id": 3, "text": "By preparing food in their bodies", "is_correct": false },
+{ "option_id": 4, "text": "By absorbing nutrients from soil", "is_correct": false }
+],
+"answer": "By hunting other animals that live on plants"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "What do living things need in order to live?",
+"options": [
+{ "option_id": 1, "text": "Hydrogen", "is_correct": false },
+{ "option_id": 2, "text": "Carbon monoxide", "is_correct": false },
+{ "option_id": 3, "text": "Oxygen", "is_correct": true },
+{ "option_id": 4, "text": "Chlorine", "is_correct": false }
+],
+"answer": "Oxygen"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "What is respiration?",
+"options": [
+{ "option_id": 1, "text": "Inhaling oxygen and exhaling carbon dioxide formed in the body", "is_correct": true },
+{ "option_id": 2, "text": "Taking in food and digesting it", "is_correct": false },
+{ "option_id": 3, "text": "Eliminating waste substances from the body", "is_correct": false },
+{ "option_id": 4, "text": "Producing food in the leaves", "is_correct": false }
+],
+"answer": "Inhaling oxygen and exhaling carbon dioxide formed in the body"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Which of the following is a characteristic of living things related to respiration?",
+"options": [
+{ "option_id": 1, "text": "They respire through microscopic pores only", "is_correct": false },
+{ "option_id": 2, "text": "They can live without oxygen", "is_correct": false },
+{ "option_id": 3, "text": "They need oxygen and perform respiration", "is_correct": true },
+{ "option_id": 4, "text": "They respire only during the day", "is_correct": false }
+],
+"answer": "They need oxygen and perform respiration"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "Through what do plants mainly respire?",
+"options": [
+{ "option_id": 1, "text": "Nostrils", "is_correct": false },
+{ "option_id": 2, "text": "Gills", "is_correct": false },
+{ "option_id": 3, "text": "Microscopic pores on stems and leaves", "is_correct": true },
+{ "option_id": 4, "text": "Mouth", "is_correct": false }
+],
+"answer": "Microscopic pores on stems and leaves"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "What are the waste substances formed in the bodies of animals called?",
+"options": [
+{ "option_id": 1, "text": "Excreta", "is_correct": true },
+{ "option_id": 2, "text": "Enzymes", "is_correct": false },
+{ "option_id": 3, "text": "Hormones", "is_correct": false },
+{ "option_id": 4, "text": "Nutrients", "is_correct": false }
+],
+"answer": "Excreta"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "What is excretion?",
+"options": [
+{ "option_id": 1, "text": "The process of taking in food", "is_correct": false },
+{ "option_id": 2, "text": "The process of producing food in plants", "is_correct": false },
+{ "option_id": 3, "text": "The process of eliminating waste substances from the body", "is_correct": true },
+{ "option_id": 4, "text": "The process of breathing", "is_correct": false }
+],
+"answer": "The process of eliminating waste substances from the body"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "How do some plants excrete waste substances stored in leaves?",
+"options": [
+{ "option_id": 1, "text": "By shedding leaves in a specific season", "is_correct": true },
+{ "option_id": 2, "text": "By growing new roots", "is_correct": false },
+{ "option_id": 3, "text": "By producing flowers", "is_correct": false },
+{ "option_id": 4, "text": "By changing leaf colour", "is_correct": false }
+],
+"answer": "By shedding leaves in a specific season"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "What does the collection of droplets of water inside a plastic bag tied over a leaf show?",
+"options": [
+{ "option_id": 1, "text": "Plants do not excrete anything", "is_correct": false },
+{ "option_id": 2, "text": "Plants excrete water in the form of vapour", "is_correct": true },
+{ "option_id": 3, "text": "Plants breathe only at night", "is_correct": false },
+{ "option_id": 4, "text": "Leaves absorb water from the bag", "is_correct": false }
+],
+"answer": "Plants excrete water in the form of vapour"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "What happens when you suddenly feel a pinprick?",
+"options": [
+{ "option_id": 1, "text": "There is no reaction", "is_correct": false },
+{ "option_id": 2, "text": "You show a response to the stimulus", "is_correct": true },
+{ "option_id": 3, "text": "Only plants respond", "is_correct": false },
+{ "option_id": 4, "text": "The stimulus disappears", "is_correct": false }
+],
+"answer": "You show a response to the stimulus"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "What is a stimulus?",
+"options": [
+{ "option_id": 1, "text": "A type of cell", "is_correct": false },
+{ "option_id": 2, "text": "A process of excretion", "is_correct": false },
+{ "option_id": 3, "text": "An event that occurs in our surroundings", "is_correct": true },
+{ "option_id": 4, "text": "A kind of plant", "is_correct": false }
+],
+"answer": "An event that occurs in our surroundings"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "What is the ability of living things to respond to a stimulus called?",
+"options": [
+{ "option_id": 1, "text": "Reproduction", "is_correct": false },
+{ "option_id": 2, "text": "Respiration", "is_correct": false },
+{ "option_id": 3, "text": "Responsiveness to stimuli", "is_correct": true },
+{ "option_id": 4, "text": "Excretion", "is_correct": false }
+],
+"answer": "Responsiveness to stimuli"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Which of the following examples shows movement in plants?",
+"options": [
+{ "option_id": 1, "text": "A creeper leaning towards a support", "is_correct": true },
+{ "option_id": 2, "text": "A stone rolling down a slope", "is_correct": false },
+{ "option_id": 3, "text": "A parked car", "is_correct": false },
+{ "option_id": 4, "text": "A book kept on a table", "is_correct": false }
+],
+"answer": "A creeper leaning towards a support"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "What happens when a potted plant is placed in a window?",
+"options": [
+{ "option_id": 1, "text": "It grows away from sunlight", "is_correct": false },
+{ "option_id": 2, "text": "It shows no movement at all", "is_correct": false },
+{ "option_id": 3, "text": "It grows towards sunlight", "is_correct": true },
+{ "option_id": 4, "text": "It immediately dries up", "is_correct": false }
+],
+"answer": "It grows towards sunlight"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "Which statement about movement in living things is correct?",
+"options": [
+{ "option_id": 1, "text": "Living things move of their own accord", "is_correct": true },
+{ "option_id": 2, "text": "Living things move only when pushed", "is_correct": false },
+{ "option_id": 3, "text": "Non-living things always move on their own", "is_correct": false },
+{ "option_id": 4, "text": "Plants never show any movement", "is_correct": false }
+],
+"answer": "Living things move of their own accord"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "What is reproduction?",
+"options": [
+{ "option_id": 1, "text": "The process of breathing in oxygen", "is_correct": false },
+{ "option_id": 2, "text": "The process by which a living thing generates a new living thing like itself", "is_correct": true },
+{ "option_id": 3, "text": "The process of eliminating wastes", "is_correct": false },
+{ "option_id": 4, "text": "The process of making food in plants", "is_correct": false }
+],
+"answer": "The process by which a living thing generates a new living thing like itself"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Which of the following is an example of reproduction in animals?",
+"options": [
+{ "option_id": 1, "text": "Shedding leaves", "is_correct": false },
+{ "option_id": 2, "text": "A mare and her foal", "is_correct": true },
+{ "option_id": 3, "text": "Photosynthesis in leaves", "is_correct": false },
+{ "option_id": 4, "text": "A wall built from bricks", "is_correct": false }
+],
+"answer": "A mare and her foal"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Which of the following is an example of reproduction in plants?",
+"options": [
+{ "option_id": 1, "text": "Rose cuttings producing new plants", "is_correct": true },
+{ "option_id": 2, "text": "A dog growing into an adult", "is_correct": false },
+{ "option_id": 3, "text": "A bird flying in the sky", "is_correct": false },
+{ "option_id": 4, "text": "A stone breaking into pieces", "is_correct": false }
+],
+"answer": "Rose cuttings producing new plants"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "What is meant by 'a definite lifespan' of living things?",
+"options": [
+{ "option_id": 1, "text": "They live forever without dying", "is_correct": false },
+{ "option_id": 2, "text": "They live for random, unpredictable durations only", "is_correct": false },
+{ "option_id": 3, "text": "They live for a certain period, after which their life comes to an end", "is_correct": true },
+{ "option_id": 4, "text": "They can stop living and start again", "is_correct": false }
+],
+"answer": "They live for a certain period, after which their life comes to an end"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "What is the approximate lifespan of a dog mentioned in the chapter?",
+"options": [
+{ "option_id": 1, "text": "1 to 2 years", "is_correct": false },
+{ "option_id": 2, "text": "12 to 18 years", "is_correct": true },
+{ "option_id": 3, "text": "30 to 40 years", "is_correct": false },
+{ "option_id": 4, "text": "50 to 60 years", "is_correct": false }
+],
+"answer": "12 to 18 years"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "What is the approximate lifespan of the ostrich mentioned in the chapter?",
+"options": [
+{ "option_id": 1, "text": "5 years", "is_correct": false },
+{ "option_id": 2, "text": "12 to 18 years", "is_correct": false },
+{ "option_id": 3, "text": "50 years", "is_correct": true },
+{ "option_id": 4, "text": "170 years", "is_correct": false }
+],
+"answer": "50 years"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "What is the approximate lifespan of the giant turtle found on the Galapagos Island?",
+"options": [
+{ "option_id": 1, "text": "12 to 18 years", "is_correct": false },
+{ "option_id": 2, "text": "50 years", "is_correct": false },
+{ "option_id": 3, "text": "170 years", "is_correct": true },
+{ "option_id": 4, "text": "1 to 24 hours", "is_correct": false }
+],
+"answer": "170 years"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "What is the lifespan range of the mayfly mentioned in the chapter?",
+"options": [
+{ "option_id": 1, "text": "1 hour to 24 hours", "is_correct": true },
+{ "option_id": 2, "text": "1 week to 1 month", "is_correct": false },
+{ "option_id": 3, "text": "10 to 20 years", "is_correct": false },
+{ "option_id": 4, "text": "100 to 120 years", "is_correct": false }
+],
+"answer": "1 hour to 24 hours"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "What are living things made of?",
+"options": [
+{ "option_id": 1, "text": "Sand particles", "is_correct": false },
+{ "option_id": 2, "text": "Bricks", "is_correct": false },
+{ "option_id": 3, "text": "Small units called cells", "is_correct": true },
+{ "option_id": 4, "text": "Only water", "is_correct": false }
+],
+"answer": "Small units called cells"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "What are organisms made of a single cell called?",
+"options": [
+{ "option_id": 1, "text": "Multicellular organisms", "is_correct": false },
+{ "option_id": 2, "text": "Biocellular organisms", "is_correct": false },
+{ "option_id": 3, "text": "Unicellular organisms", "is_correct": true },
+{ "option_id": 4, "text": "Tissue organisms", "is_correct": false }
+],
+"answer": "Unicellular organisms"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Which of the following is given as an example of a unicellular organism?",
+"options": [
+{ "option_id": 1, "text": "Man", "is_correct": false },
+{ "option_id": 2, "text": "Cow", "is_correct": false },
+{ "option_id": 3, "text": "Amoeba", "is_correct": true },
+{ "option_id": 4, "text": "Banyan tree", "is_correct": false }
+],
+"answer": "Amoeba"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "What are organisms made of many cells called?",
+"options": [
+{ "option_id": 1, "text": "Unicellular organisms", "is_correct": false },
+{ "option_id": 2, "text": "Multicellular organisms", "is_correct": true },
+{ "option_id": 3, "text": "Cell-free organisms", "is_correct": false },
+{ "option_id": 4, "text": "Molecular organisms", "is_correct": false }
+],
+"answer": "Multicellular organisms"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Which living things among the following are mentioned as multicellular organisms?",
+"options": [
+{ "option_id": 1, "text": "Amoeba and some microorganisms", "is_correct": false },
+{ "option_id": 2, "text": "Man, cow, mouse, cockroach, elephants, banyan tree, onion plant", "is_correct": true },
+{ "option_id": 3, "text": "Only bacteria", "is_correct": false },
+{ "option_id": 4, "text": "Only algae", "is_correct": false }
+],
+"answer": "Man, cow, mouse, cockroach, elephants, banyan tree, onion plant"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "What is stated about the characteristics of living things in relation to cells?",
+"options": [
+{ "option_id": 1, "text": "Only multicellular organisms show all characteristics", "is_correct": false },
+{ "option_id": 2, "text": "Only unicellular organisms show all characteristics", "is_correct": false },
+{ "option_id": 3, "text": "All characteristics of living things are seen in every cell of a living thing", "is_correct": true },
+{ "option_id": 4, "text": "Cells do not show any characteristics of life", "is_correct": false }
+],
+"answer": "All characteristics of living things are seen in every cell of a living thing"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "Which institute works for the survey and conservation of various plants in India?",
+"options": [
+{ "option_id": 1, "text": "Zoological Survey of India", "is_correct": false },
+{ "option_id": 2, "text": "Botanical Survey of India", "is_correct": true },
+{ "option_id": 3, "text": "Geological Survey of India", "is_correct": false },
+{ "option_id": 4, "text": "Forest Survey of India", "is_correct": false }
+],
+"answer": "Botanical Survey of India"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "In which year was the Botanical Survey of India established?",
+"options": [
+{ "option_id": 1, "text": "1916", "is_correct": false },
+{ "option_id": 2, "text": "1947", "is_correct": false },
+{ "option_id": 3, "text": "1890", "is_correct": true },
+{ "option_id": 4, "text": "2000", "is_correct": false }
+],
+"answer": "1890"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Which institute works for the survey and conservation of various animals in India?",
+"options": [
+{ "option_id": 1, "text": "Botanical Survey of India", "is_correct": false },
+{ "option_id": 2, "text": "Zoological Survey of India", "is_correct": true },
+{ "option_id": 3, "text": "Agricultural Survey of India", "is_correct": false },
+{ "option_id": 4, "text": "Medical Survey of India", "is_correct": false }
+],
+"answer": "Zoological Survey of India"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "In which year was the Zoological Survey of India established?",
+"options": [
+{ "option_id": 1, "text": "1890", "is_correct": false },
+{ "option_id": 2, "text": "1916", "is_correct": true },
+{ "option_id": 3, "text": "2005", "is_correct": false },
+{ "option_id": 4, "text": "1857", "is_correct": false }
+],
+"answer": "1916"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "What are wild animals that hunt other animals for food called?",
+"options": [
+{ "option_id": 1, "text": "Herbivores", "is_correct": false },
+{ "option_id": 2, "text": "Predators", "is_correct": true },
+{ "option_id": 3, "text": "Prey", "is_correct": false },
+{ "option_id": 4, "text": "Scavengers", "is_correct": false }
+],
+"answer": "Predators"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Which of the following animals are mentioned as predators?",
+"options": [
+{ "option_id": 1, "text": "Tigers, lions, wolves, leopards", "is_correct": true },
+{ "option_id": 2, "text": "Cows, buffalos, goats, sheep", "is_correct": false },
+{ "option_id": 3, "text": "Earthworms and ants", "is_correct": false },
+{ "option_id": 4, "text": "Frogs and grasshoppers", "is_correct": false }
+],
+"answer": "Tigers, lions, wolves, leopards"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "What are the characteristics of living things?",
+"answer": "Growth, respiration, excretion, reproduction, responsiveness to stimuli, movement, a definite lifespan and a cellular structure are the characteristics of living things."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "How can we distinguish living things from non-living things?",
+"answer": "Living things show specific characteristics such as growth, respiration, excretion, reproduction, responsiveness to stimuli, movement, a definite lifespan and a cellular structure, which are not seen in non-living things."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "How does a baby change as it grows into an adult?",
+"answer": "As a baby grows into an adult, it gains in height, weight and strength during the period of growth."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "What is the main growth observed in plants?",
+"answer": "In plants, it is mainly the width and height of the stem that grows, and as they grow, some plants develop branches while others do not."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "Compare the growth period of animals and plants.",
+"answer": "Animals grow only for a certain period of their life, whereas plants grow as long as they live."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "What does the thread experiment with a potted sapling demonstrate?",
+"answer": "The thread experiment with a potted sapling demonstrates that the plant has grown taller as the distance between the thread and the tip of the plant changes."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Why is food necessary for growth?",
+"answer": "Food is necessary for growth because it supplies the substances and energy required for the body to grow and carry out various life processes."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "State the role of sunlight in photosynthesis.",
+"answer": "Sunlight provides the energy required for plants to carry out photosynthesis in the presence of chlorophyll in the leaves."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "Which raw materials are used by plants to make food?",
+"answer": "Plants use water, nutrients in the soil and carbon dioxide present in the air as raw materials to make food."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "Define photosynthesis.",
+"answer": "Photosynthesis is the process of food production in plants that takes place in the leaves using water, nutrients in the soil and carbon dioxide in the presence of sunlight and chlorophyll, during which oxygen is given out."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Why do plants appear green?",
+"answer": "Plants appear green mainly due to the presence of chlorophyll in them."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "Why cannot animals produce their own food?",
+"answer": "Animals cannot produce their own food because they do not have chlorophyll and therefore cannot carry out photosynthesis."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "How do grazing animals obtain food?",
+"answer": "Grazing animals such as goats, sheep and horses obtain food by eating grass."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Explain how wild animals like tigers and lions fulfil their food requirement.",
+"answer": "Wild animals like tigers and lions fulfil their food requirement by hunting other animals which live on plants."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "Why is intake of food and resultant growth considered an important characteristic of living things?",
+"answer": "Intake of food and resultant growth is considered an important characteristic of living things because food provides materials and energy for growth and maintenance of life processes."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "What do you feel when you hold your hand in front of your nose and breathe?",
+"answer": "When you hold your hand in front of your nose and breathe, you feel the warm air of the breath moving in and out, indicating respiration."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "What movement is seen in the belly of a sleeping dog and what does it indicate?",
+"answer": "The belly of a sleeping dog moves up and down, indicating the process of breathing in and out, which is part of respiration."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Define respiration.",
+"answer": "Respiration is the process of inhaling oxygen and exhaling the carbon dioxide formed in the body due to the use of oxygen."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "How do different animals carry out respiration?",
+"answer": "Animals such as fish, snake and mouse have specific organs for respiration, through which they inhale oxygen and exhale carbon dioxide."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "How do plants carry out respiration?",
+"answer": "Plants carry out respiration by means of microscopic pores on their stems and leaves through which gases are exchanged."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "Why is respiration considered a characteristic of living things?",
+"answer": "Respiration is considered a characteristic of living things because all living things need oxygen and undergo the process of inhaling oxygen and exhaling carbon dioxide."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "What are excreta?",
+"answer": "Excreta are waste substances formed during the many processes that take place in the bodies of animals."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Define excretion.",
+"answer": "Excretion is the process of eliminating waste substances from the body."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "How do animals perform excretion?",
+"answer": "Animals perform excretion with the help of specific organs that eliminate waste substances from the body."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "How do some plants perform excretion through leaves?",
+"answer": "Some plants perform excretion through leaves by storing waste substances in the leaves, which are later shed in a specific season along with the waste."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Describe an activity that demonstrates water excretion by plants.",
+"answer": "If a transparent plastic bag is tied over a leaf of a plant and observed after six to seven hours, droplets of water collect on the inside of the bag, showing that plants excrete water in the form of vapour."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Why is excretion a necessary characteristic of living things?",
+"answer": "Excretion is necessary because waste substances formed in the body must be removed to maintain healthy functioning of living things."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "What happens when light is suddenly flashed into your eyes?",
+"answer": "When light is suddenly flashed into your eyes, you show an immediate response such as blinking, which is a reaction to the stimulus."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "What is observed when the leaves of the mimosa plant are touched?",
+"answer": "When the leaves of the mimosa plant are touched, they fold or droop, showing a response to the stimulus."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "How do insects respond to lamps lit at sunset?",
+"answer": "When lamps on the street or courtyard are lit at sunset, insects gather around the lamps, which shows their response to the stimulus of light."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "What types of movements are seen in cows and buffalos when you suddenly enter a cowshed?",
+"answer": "When you suddenly enter a cowshed, cows and buffalos stand up, begin to move and some may start mooing, which are movements showing response to your presence."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Explain responsiveness to stimuli.",
+"answer": "Responsiveness to stimuli is the ability of living things to respond to events or changes in their surroundings by showing movements or other reactions."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "What is the main difference between the movements of plants and animals as mentioned in the chapter?",
+"answer": "Plants show movements such as bending towards light or support but cannot leave their place, whereas animals can move from place to place of their own accord."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Why is responsiveness to stimuli considered a characteristic of living things?",
+"answer": "Responsiveness to stimuli is considered a characteristic of living things because living things exhibit changes or movements in response to events in their surroundings."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "What is reproduction or procreation?",
+"answer": "Reproduction or procreation is the process by which a living thing generates a new living thing like itself."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "How do some animals reproduce according to the chapter?",
+"answer": "Some animals reproduce by giving birth to their young ones, while others lay eggs from which young ones hatch."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "In what ways are new plants produced?",
+"answer": "New plants are produced from the seeds, stems or leaves of plants."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "Why is reproduction essential for the continuation of species?",
+"answer": "Reproduction is essential for the continuation of species because it ensures that new individuals like the parents are produced, allowing plants and animals to survive on the earth."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "What is meant by a definite lifespan?",
+"answer": "A definite lifespan means that living things live for a certain period, after which their reproductive organs become weak and eventually their life comes to an end."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "What happens to living things at the end of their lifespan?",
+"answer": "At the end of their lifespan, living things die."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Give the approximate lifespan of a dog as mentioned in the chapter.",
+"answer": "The approximate lifespan of a dog mentioned in the chapter is about 12 to 18 years."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "State the lifespan of the ostrich given in the chapter.",
+"answer": "The lifespan of the ostrich given in the chapter is about 50 years."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Mention the lifespan of the giant turtle found on the Galapagos Island.",
+"answer": "The lifespan of the giant turtle found on the Galapagos Island in South America is about 170 years."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "What is the lifespan range of the mayfly?",
+"answer": "The lifespan range of the mayfly is from 1 hour to 24 hours."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "What is a cellular structure in living things?",
+"answer": "A cellular structure means that living things are made of small units called cells, which carry out all actions and processes in their bodies."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Differentiate between unicellular and multicellular organisms.",
+"answer": "Unicellular organisms are made of a single cell, while multicellular organisms are made of many cells."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "Give two examples of unicellular organisms mentioned in the chapter.",
+"answer": "Amoeba and some other microorganisms are mentioned as unicellular organisms in the chapter."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "List any four multicellular living things given in the chapter.",
+"answer": "Man, cow, mouse and cockroach are examples of multicellular living things given in the chapter."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Why is cellular structure regarded as a main characteristic of living things?",
+"answer": "Cellular structure is regarded as a main characteristic of living things because all living things are made of cells and all characteristics of living things are seen in every cell."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "What is the function of the Botanical Survey of India?",
+"answer": "The Botanical Survey of India works for the survey and conservation of the various plants in different parts of India."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "What is the function of the Zoological Survey of India?",
+"answer": "The Zoological Survey of India works for the survey and conservation of the various animals in different parts of India."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "What can you do if you find an unfamiliar plant or animal in your surroundings?",
+"answer": "If you find an unfamiliar plant or animal in your surroundings, you can communicate with the Botanical Survey of India or the Zoological Survey of India to obtain more information about it."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "How is the plant kingdom useful to us according to the chapter?",
+"answer": "Plants are useful for household as well as industrial purposes, as some like fenugreek, potato, okra, apple and banana are used as food, while others like vasaka, hirada, behada and asparagus are used as medicines."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Give examples of plants used as medicines mentioned in the chapter.",
+"answer": "Vasaka (adulsa), hirada, behada and asparagus are mentioned as plants used as medicines."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Name some plants mentioned in the chapter that are used as food.",
+"answer": "Fenugreek (methi), potato, okra (bhendi), apple and banana are mentioned as plants used as food."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "How is the animal kingdom useful to us according to the chapter?",
+"answer": "Animals are useful to us because dogs, cats, cows and buffalos are kept for domestic uses, fish, sheep and fowl are used as food and animals like horses, oxen and camels prove useful in various occupations."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Why is the earthworm described as useful in agriculture?",
+"answer": "The earthworm is described as very useful in agriculture, as it improves the condition of the soil."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Name any four animals mentioned as useful to humans in the chapter.",
+"answer": "Dogs, cows, buffalos and horses are mentioned as useful animals in the chapter."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Name some animals mentioned as harmful to humans.",
+"answer": "Mosquitoes, flies, cockroaches, mice, rats, lice and ticks are mentioned as harmful to humans."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "How do mosquitoes and flies harm humans?",
+"answer": "Mosquitoes and flies harm humans by spreading diseases."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "What kind of harm can poisonous lizards, spiders, snakes and scorpions cause?",
+"answer": "The bites of some poisonous lizards, spiders, snakes and scorpions can even cause death."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "How can wild elephants be harmful when they enter human settlements?",
+"answer": "When wild elephants enter human settlements, they cause a lot of destruction."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Name some harmful plants mentioned in the chapter.",
+"answer": "Dodder, parthenium and other weeds are mentioned as harmful plants."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Which plant parts cause itching according to the chapter?",
+"answer": "Pods of the nettle and colocasia leaves cause itching."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Name the plants mentioned as having strong odours.",
+"answer": "Oleander and lantana are mentioned as plants with strong odours."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Why is the datura plant considered dangerous?",
+"answer": "The datura plant is considered dangerous because it is poisonous."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "How can uncontrolled growth of fungi and algae affect drinking water?",
+"answer": "Uncontrolled growth of fungi and algae in water pollutes drinking water and may cause the spread of diseases."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "What are predators?",
+"answer": "Predators are wild animals that hunt other animals for food."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Give four examples of predators mentioned in the chapter.",
+"answer": "Tigers, lions, wolves and leopards are given as examples of predators."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Why do some predators enter human settlements?",
+"answer": "Sometimes, due to deforestation, predators such as tigers and lions enter human settlements in search of food and may kill domestic animals or people."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "What responsibility towards plants and animals is mentioned in the chapter?",
+"answer": "The chapter states that it is the responsibility and duty of all of us to protect plants and animals."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "How should we use plants and animals that satisfy our needs?",
+"answer": "We should use plants and animals that satisfy our needs only to the extent of our needs and not beyond that."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "What advice is given about plucking leaves, flowers and fruits?",
+"answer": "The chapter advises that we should not pluck leaves, flowers and fruit unnecessarily."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "What instruction is given about hunting animals?",
+"answer": "The chapter clearly states that animals should not be hunted."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "How should we behave towards animals according to the chapter?",
+"answer": "We should not tease animals just for fun and must behave in a way that protects them."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "What is suggested in the chapter for learning more about plants and animals through media?",
+"answer": "The chapter suggests watching TV channels such as National Geographic and Discovery to collect information regarding various plants and animals found in our surroundings."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "What does the chapter suggest doing with information collected about plants and animals?",
+"answer": "The chapter suggests having a class discussion with reference to the information collected about plants and animals."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "How does the honeycomb analogy help in understanding cellular structure?",
+"answer": "The honeycomb analogy helps in understanding cellular structure by comparing the small compartments of a honeycomb joined together to form a whole, similar to how many cells form a living body."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "How is a wall used as an analogy in explaining cellular structure?",
+"answer": "A wall is used as an analogy because it is made of bricks firmly joined together, just as living bodies are made of many cells joined together."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "State any two similarities between plants and animals as implied in the chapter.",
+"answer": "Both plants and animals are living things that show characteristics such as growth, respiration, excretion, reproduction, responsiveness to stimuli, movement, a definite lifespan and a cellular structure."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "State any two differences between plants and animals mentioned in the chapter.",
+"answer": "One difference is that animals grow only for a certain period while plants grow as long as they live, and another is that animals have specific organs for respiration whereas plants respire through microscopic pores on their stems and leaves."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Why is it said that many plants and animals are useful to us in daily life?",
+"answer": "Many plants and animals are useful to us because they provide food, medicines, domestic help and support various occupations essential for our daily life."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Why is the smallest unit of a living thing important?",
+"answer": "The smallest unit of a living thing, the cell, is important because all actions and processes in the bodies of living things are brought about with the help of cells."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Explain why animals cannot leave their place of residence in the same way plants cannot.",
+"answer": "Plants cannot leave their place and go elsewhere even though they show spontaneous movements, whereas animals can leave one place and move to another, showing a difference in their movement."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "How does the chapter define living things in relation to their origin and existence?",
+"answer": "The chapter points out that living things have growth, reproduction and a definite lifespan, prompting questions about how they came into being and what makes them different from non-living things."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Why is the use of plants and animals advised to be restricted only to our needs?",
+"answer": "The use of plants and animals is advised to be restricted only to our needs to avoid unnecessary harm and to help protect and conserve living things in nature."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "What do pods of the nettle and colocasia leaves cause when touched?",
+"answer": "Pods of the nettle and colocasia leaves cause itching when touched."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "How do plants like oleander and lantana affect their surroundings?",
+"answer": "Plants like oleander and lantana affect their surroundings by giving out strong odours."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "What should be done to learn about the lifespan of various animals as suggested in the chapter?",
+"answer": "The chapter suggests collecting information about the lifespan of various animals, making a chart and displaying it in the class."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "What classroom activity is suggested regarding poisonous snakes found in India?",
+"answer": "The chapter suggests gathering information about the poisonous snakes found in India and presenting it in a Science Exhibition."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "What online activity is recommended to learn about work related to plants and animals?",
+"answer": "The chapter recommends obtaining information about the work of the Botanical Survey of India and the Zoological Survey of India by visiting their websites."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "How does the chapter summarise the movement of plants compared to animals?",
+"answer": "The chapter summarises that plants show spontaneous movements but cannot leave their place and go elsewhere, whereas animals move because of their ability to respond to stimuli and can change their location."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "What happens to the organs of reproduction in living things later in life?",
+"answer": "Later in life, the organs of reproduction in living things become weak as they approach the end of their lifespan."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "What conclusion about death of living things is drawn in the chapter?",
+"answer": "The chapter concludes that living things have a definite lifespan at the end of which they die."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Why is a creeper leaning towards a support considered a movement?",
+"answer": "A creeper leaning towards a support is considered a movement because it shows a change in position of the plant part in response to a stimulus."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "How does a potted plant growing towards sunlight illustrate responsiveness?",
+"answer": "A potted plant growing towards sunlight illustrates responsiveness because the plant changes its direction of growth in response to the stimulus of light."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "What does the sticky substance on the stems of babul or drumstick trees suggest about plants?",
+"answer": "The sticky substance on the stems of babul or drumstick trees suggests the presence of substances produced by the plant body, indicating life processes."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "How are cockroaches, mice and rats harmful according to the chapter?",
+"answer": "Cockroaches, mice and rats are harmful because they destroy our food."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Why is it important not to tease animals just for fun?",
+"answer": "It is important not to tease animals just for fun because such behaviour harms animals and goes against our responsibility to protect living things."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "What is the central message of the section 'Always remember...'?",
+"answer": "The central message of the section 'Always remember...' is that many plants and animals in nature satisfy our needs, so we must use them only as needed and take responsibility to protect them."
+}
+]
+}

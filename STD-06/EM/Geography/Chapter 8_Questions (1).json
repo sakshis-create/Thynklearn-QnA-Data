@@ -1,0 +1,1215 @@
+{
+  "Chapter 8": "Natural Resources",
+  "lessons": [
+    "Meaning of Natural Resources",
+    "Soil as a Natural Resource",
+    "Water as a Natural Resource",
+    "Forest Resources",
+    "Animals as Resources",
+    "Minerals and Land Resources",
+    "Need for Judicious Use of Natural Resources"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following best defines natural resources?",
+      "options": [
+        { "option_id": 1, "text": "Things made by humans for daily use", "is_correct": false },
+        { "option_id": 2, "text": "Natural things used by humans to fulfil their needs", "is_correct": true },
+        { "option_id": 3, "text": "Artificial materials found on land", "is_correct": false },
+        { "option_id": 4, "text": "Only renewable sources of energy", "is_correct": false }
+      ],
+      "answer": "Natural things used by humans to fulfil their needs"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT mentioned as a natural resource in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Air", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "Plastic", "is_correct": true },
+        { "option_id": 4, "text": "Soil", "is_correct": false }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why are most natural resources described as invaluable?",
+      "options": [
+        { "option_id": 1, "text": "They are easily replaceable", "is_correct": false },
+        { "option_id": 2, "text": "They are unlimited in supply", "is_correct": false },
+        { "option_id": 3, "text": "They are limited in nature", "is_correct": true },
+        { "option_id": 4, "text": "They are costly to transport", "is_correct": false }
+      ],
+      "answer": "They are limited in nature"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which natural resource is available in plenty but whose quality can change?",
+      "options": [
+        { "option_id": 1, "text": "Soil", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "Air", "is_correct": true },
+        { "option_id": 4, "text": "Minerals", "is_correct": false }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "For which activities do humans primarily use air, as stated in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Agriculture and fishing", "is_correct": false },
+        { "option_id": 2, "text": "Breathing and burning", "is_correct": true },
+        { "option_id": 3, "text": "Mining and transport", "is_correct": false },
+        { "option_id": 4, "text": "Construction and trade", "is_correct": false }
+      ],
+      "answer": "Breathing and burning"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which activity shown in the figures represents the use of soil as a resource?",
+      "options": [
+        { "option_id": 1, "text": "Fishing", "is_correct": false },
+        { "option_id": 2, "text": "Ploughing land for agriculture", "is_correct": true },
+        { "option_id": 3, "text": "Mining", "is_correct": false },
+        { "option_id": 4, "text": "Collecting honey", "is_correct": false }
+      ],
+      "answer": "Ploughing land for agriculture"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why is soil considered an important natural resource?",
+      "options": [
+        { "option_id": 1, "text": "It is used for construction only", "is_correct": false },
+        { "option_id": 2, "text": "It supports agriculture worldwide", "is_correct": true },
+        { "option_id": 3, "text": "It contains minerals only", "is_correct": false },
+        { "option_id": 4, "text": "It is available everywhere in equal quality", "is_correct": false }
+      ],
+      "answer": "It supports agriculture worldwide"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following factors does NOT influence soil formation?",
+      "options": [
+        { "option_id": 1, "text": "Original rock", "is_correct": false },
+        { "option_id": 2, "text": "Climate", "is_correct": false },
+        { "option_id": 3, "text": "Time", "is_correct": false },
+        { "option_id": 4, "text": "Type of crops grown", "is_correct": true }
+      ],
+      "answer": "Type of crops grown"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Approximately how much time is required to form a 2.5 cm thick layer of mature soil?",
+      "options": [
+        { "option_id": 1, "text": "100 years", "is_correct": false },
+        { "option_id": 2, "text": "500 years", "is_correct": false },
+        { "option_id": 3, "text": "About 1000 years", "is_correct": true },
+        { "option_id": 4, "text": "5000 years", "is_correct": false }
+      ],
+      "answer": "About 1000 years"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which figures illustrate humans directly using water as a natural resource?",
+      "options": [
+        { "option_id": 1, "text": "Ploughing and mining", "is_correct": false },
+        { "option_id": 2, "text": "Fishing and drawing water", "is_correct": true },
+        { "option_id": 3, "text": "Gathering wood and resin", "is_correct": false },
+        { "option_id": 4, "text": "Agriculture and masonry", "is_correct": false }
+      ],
+      "answer": "Fishing and drawing water"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the chapter highlight about the importance of water?",
+      "options": [
+        { "option_id": 1, "text": "It is used only in agriculture", "is_correct": false },
+        { "option_id": 2, "text": "It is essential for the entire living world", "is_correct": true },
+        { "option_id": 3, "text": "It is mainly used for transport", "is_correct": false },
+        { "option_id": 4, "text": "It is abundant and rarely wasted", "is_correct": false }
+      ],
+      "answer": "It is essential for the entire living world"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How is salt obtained from sea water as shown in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "By chemical treatment", "is_correct": false },
+        { "option_id": 2, "text": "By evaporation", "is_correct": true },
+        { "option_id": 3, "text": "By filtration", "is_correct": false },
+        { "option_id": 4, "text": "By freezing", "is_correct": false }
+      ],
+      "answer": "By evaporation"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What percentage of total water on earth is available for human use?",
+      "options": [
+        { "option_id": 1, "text": "3%", "is_correct": false },
+        { "option_id": 2, "text": "0.3%", "is_correct": false },
+        { "option_id": 3, "text": "0.03%", "is_correct": false },
+        { "option_id": 4, "text": "0.003%", "is_correct": true }
+      ],
+      "answer": "0.003%"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which forest activity shown in the figures provides food directly?",
+      "options": [
+        { "option_id": 1, "text": "Gathering resin", "is_correct": false },
+        { "option_id": 2, "text": "Collection of honey", "is_correct": true },
+        { "option_id": 3, "text": "Gathering wood", "is_correct": false },
+        { "option_id": 4, "text": "Collection of rubber latex", "is_correct": false }
+      ],
+      "answer": "Collection of honey"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of the following products is NOT obtained from forests according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Wood", "is_correct": false },
+        { "option_id": 2, "text": "Rubber", "is_correct": false },
+        { "option_id": 3, "text": "Resin", "is_correct": false },
+        { "option_id": 4, "text": "Petroleum", "is_correct": true }
+      ],
+      "answer": "Petroleum"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Why are plants considered the base of animal resources?",
+      "options": [
+        { "option_id": 1, "text": "Animals depend on plants directly or indirectly", "is_correct": true },
+        { "option_id": 2, "text": "Plants use animals for growth", "is_correct": false },
+        { "option_id": 3, "text": "Plants are easier to cultivate", "is_correct": false },
+        { "option_id": 4, "text": "Animals live only in forests", "is_correct": false }
+      ],
+      "answer": "Animals depend on plants directly or indirectly"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which river valleys are mentioned as centres of ancient civilizations?",
+      "options": [
+        { "option_id": 1, "text": "Amazon and Congo", "is_correct": false },
+        { "option_id": 2, "text": "Huang He, Sindhu, Nile and Euphrates", "is_correct": true },
+        { "option_id": 3, "text": "Danube and Volga", "is_correct": false },
+        { "option_id": 4, "text": "Tigris and Indus only", "is_correct": false }
+      ],
+      "answer": "Huang He, Sindhu, Nile and Euphrates"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which animal use is correctly matched according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Camel – milk only", "is_correct": false },
+        { "option_id": 2, "text": "Oxen – ploughing", "is_correct": true },
+        { "option_id": 3, "text": "Horse – milk production", "is_correct": false },
+        { "option_id": 4, "text": "Ass – meat production", "is_correct": false }
+      ],
+      "answer": "Oxen – ploughing"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which product is obtained from animals besides food?",
+      "options": [
+        { "option_id": 1, "text": "Rubber", "is_correct": false },
+        { "option_id": 2, "text": "Resin", "is_correct": false },
+        { "option_id": 3, "text": "Hide", "is_correct": true },
+        { "option_id": 4, "text": "Salt", "is_correct": false }
+      ],
+      "answer": "Hide"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the main source of metals used by humans?",
+      "options": [
+        { "option_id": 1, "text": "Plants", "is_correct": false },
+        { "option_id": 2, "text": "Animals", "is_correct": false },
+        { "option_id": 3, "text": "Minerals", "is_correct": true },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Minerals"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of the following is a metallic mineral mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Gypsum", "is_correct": false },
+        { "option_id": 2, "text": "Rock salt", "is_correct": false },
+        { "option_id": 3, "text": "Iron", "is_correct": true },
+        { "option_id": 4, "text": "Calcite", "is_correct": false }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Non-metallic minerals are mainly used to obtain:",
+      "options": [
+        { "option_id": 1, "text": "Metals", "is_correct": false },
+        { "option_id": 2, "text": "Chemicals", "is_correct": true },
+        { "option_id": 3, "text": "Fuel", "is_correct": false },
+        { "option_id": 4, "text": "Food grains", "is_correct": false }
+      ],
+      "answer": "Chemicals"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which activity shown in the figures represents the use of minerals?",
+      "options": [
+        { "option_id": 1, "text": "Fishing", "is_correct": false },
+        { "option_id": 2, "text": "Mining", "is_correct": true },
+        { "option_id": 3, "text": "Drawing water", "is_correct": false },
+        { "option_id": 4, "text": "Collecting honey", "is_correct": false }
+      ],
+      "answer": "Mining"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which natural resource is involved in almost all activities except fishing?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Land", "is_correct": true },
+        { "option_id": 3, "text": "Air", "is_correct": false },
+        { "option_id": 4, "text": "Animals", "is_correct": false }
+      ],
+      "answer": "Land"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Why is land described as an invaluable natural resource?",
+      "options": [
+        { "option_id": 1, "text": "It is always fertile", "is_correct": false },
+        { "option_id": 2, "text": "It is bought and sold due to its importance", "is_correct": true },
+        { "option_id": 3, "text": "It cannot be used for construction", "is_correct": false },
+        { "option_id": 4, "text": "It is equally distributed", "is_correct": false }
+      ],
+      "answer": "It is bought and sold due to its importance"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What proportion of the earth’s surface is covered by land?",
+      "options": [
+        { "option_id": 1, "text": "70.8%", "is_correct": false },
+        { "option_id": 2, "text": "50%", "is_correct": false },
+        { "option_id": 3, "text": "29.20%", "is_correct": true },
+        { "option_id": 4, "text": "35%", "is_correct": false }
+      ],
+      "answer": "29.20%"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which factor does NOT influence land use?",
+      "options": [
+        { "option_id": 1, "text": "Physiography", "is_correct": false },
+        { "option_id": 2, "text": "Climate", "is_correct": false },
+        { "option_id": 3, "text": "Availability of water", "is_correct": false },
+        { "option_id": 4, "text": "Colour of soil", "is_correct": true }
+      ],
+      "answer": "Colour of soil"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Why is the distribution of living organisms on land uneven?",
+      "options": [
+        { "option_id": 1, "text": "Due to equal land conditions", "is_correct": false },
+        { "option_id": 2, "text": "Due to varied geographical conditions", "is_correct": true },
+        { "option_id": 3, "text": "Due to migration only", "is_correct": false },
+        { "option_id": 4, "text": "Due to human population alone", "is_correct": false }
+      ],
+      "answer": "Due to varied geographical conditions"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which living being attempts to change natural conditions to suit its needs?",
+      "options": [
+        { "option_id": 1, "text": "Plants", "is_correct": false },
+        { "option_id": 2, "text": "Animals", "is_correct": false },
+        { "option_id": 3, "text": "Man", "is_correct": true },
+        { "option_id": 4, "text": "Microorganisms", "is_correct": false }
+      ],
+      "answer": "Man"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What led to the imbalance in nature according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Natural disasters", "is_correct": false },
+        { "option_id": 2, "text": "Limited resources", "is_correct": false },
+        { "option_id": 3, "text": "Exploitative use of resources by humans", "is_correct": true },
+        { "option_id": 4, "text": "Lack of technology", "is_correct": false }
+      ],
+      "answer": "Exploitative use of resources by humans"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Why should natural resources be used judiciously?",
+      "options": [
+        { "option_id": 1, "text": "To increase human comfort only", "is_correct": false },
+        { "option_id": 2, "text": "To maintain balance in nature", "is_correct": true },
+        { "option_id": 3, "text": "To increase trade", "is_correct": false },
+        { "option_id": 4, "text": "To reduce population", "is_correct": false }
+      ],
+      "answer": "To maintain balance in nature"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which statement best reflects the chapter’s message?",
+      "options": [
+        { "option_id": 1, "text": "Nature exists only for humans", "is_correct": false },
+        { "option_id": 2, "text": "Natural resources should be exploited fully", "is_correct": false },
+        { "option_id": 3, "text": "Nature belongs to all living beings", "is_correct": true },
+        { "option_id": 4, "text": "Only renewable resources matter", "is_correct": false }
+      ],
+      "answer": "Nature belongs to all living beings"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which activity represents transportation using animals?",
+      "options": [
+        { "option_id": 1, "text": "Fishing", "is_correct": false },
+        { "option_id": 2, "text": "Ploughing", "is_correct": false },
+        { "option_id": 3, "text": "Ass carrying load", "is_correct": true },
+        { "option_id": 4, "text": "Mining", "is_correct": false }
+      ],
+      "answer": "Ass carrying load"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which resource helps in preparing medicines as mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Soil", "is_correct": false },
+        { "option_id": 2, "text": "Minerals", "is_correct": true },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ],
+      "answer": "Minerals"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which of the following is a correct example of non-metallic minerals?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Bauxite", "is_correct": false },
+        { "option_id": 3, "text": "Gypsum", "is_correct": true },
+        { "option_id": 4, "text": "Copper", "is_correct": false }
+      ],
+      "answer": "Gypsum"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which natural resource supports settlement and construction activities?",
+      "options": [
+        { "option_id": 1, "text": "Air", "is_correct": false },
+        { "option_id": 2, "text": "Land", "is_correct": true },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Forests", "is_correct": false }
+      ],
+      "answer": "Land"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which condition is essential for the survival of all living organisms?",
+      "options": [
+        { "option_id": 1, "text": "Minerals", "is_correct": false },
+        { "option_id": 2, "text": "Land ownership", "is_correct": false },
+        { "option_id": 3, "text": "Water availability", "is_correct": true },
+        { "option_id": 4, "text": "Trade", "is_correct": false }
+      ],
+      "answer": "Water availability"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which practice can reduce wastage of water?",
+      "options": [
+        { "option_id": 1, "text": "Leaving taps open", "is_correct": false },
+        { "option_id": 2, "text": "Judicious use of water", "is_correct": true },
+        { "option_id": 3, "text": "Over-irrigation", "is_correct": false },
+        { "option_id": 4, "text": "Polluting rivers", "is_correct": false }
+      ],
+      "answer": "Judicious use of water"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which resource forms the base for agriculture, respiration, vegetation and fish?",
+      "options": [
+        { "option_id": 1, "text": "Land", "is_correct": false },
+        { "option_id": 2, "text": "Soil", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": true },
+        { "option_id": 4, "text": "Minerals", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which natural resource directly supports agriculture?",
+      "options": [
+        { "option_id": 1, "text": "Air", "is_correct": false },
+        { "option_id": 2, "text": "Soil", "is_correct": true },
+        { "option_id": 3, "text": "Minerals", "is_correct": false },
+        { "option_id": 4, "text": "Animals", "is_correct": false }
+      ],
+      "answer": "Soil"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Why did humans shift from wandering to settled life?",
+      "options": [
+        { "option_id": 1, "text": "Due to discovery of minerals", "is_correct": false },
+        { "option_id": 2, "text": "Due to cultivation of food grains", "is_correct": true },
+        { "option_id": 3, "text": "Due to animal domestication only", "is_correct": false },
+        { "option_id": 4, "text": "Due to trade routes", "is_correct": false }
+      ],
+      "answer": "Due to cultivation of food grains"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which natural resource is essential for respiration?",
+      "options": [
+        { "option_id": 1, "text": "Soil", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "Air", "is_correct": true },
+        { "option_id": 4, "text": "Land", "is_correct": false }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which natural resource is shown as being used for masonry work?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Soil and minerals", "is_correct": true },
+        { "option_id": 3, "text": "Animals", "is_correct": false },
+        { "option_id": 4, "text": "Forests", "is_correct": false }
+      ],
+      "answer": "Soil and minerals"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which statement about natural resources is correct?",
+      "options": [
+        { "option_id": 1, "text": "They exist only for economic growth", "is_correct": false },
+        { "option_id": 2, "text": "They are meant for one-time use", "is_correct": false },
+        { "option_id": 3, "text": "They should be conserved and used wisely", "is_correct": true },
+        { "option_id": 4, "text": "They are equally available everywhere", "is_correct": false }
+      ],
+      "answer": "They should be conserved and used wisely"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which factor mainly caused exploitative use of resources?",
+      "options": [
+        { "option_id": 1, "text": "Low population", "is_correct": false },
+        { "option_id": 2, "text": "Human greed and population growth", "is_correct": true },
+        { "option_id": 3, "text": "Natural balance", "is_correct": false },
+        { "option_id": 4, "text": "Lack of resources", "is_correct": false }
+      ],
+      "answer": "Human greed and population growth"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which natural resource is directly involved in transportation by pack animals?",
+      "options": [
+        { "option_id": 1, "text": "Land", "is_correct": false },
+        { "option_id": 2, "text": "Animals", "is_correct": true },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ],
+      "answer": "Animals"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which resource links agriculture, vegetation and animal life?",
+      "options": [
+        { "option_id": 1, "text": "Minerals", "is_correct": false },
+        { "option_id": 2, "text": "Soil", "is_correct": true },
+        { "option_id": 3, "text": "Air", "is_correct": false },
+        { "option_id": 4, "text": "Land ownership", "is_correct": false }
+      ],
+      "answer": "Soil"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which idea best summarizes the lesson from the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Natural resources are endless", "is_correct": false },
+        { "option_id": 2, "text": "Only humans depend on nature", "is_correct": false },
+        { "option_id": 3, "text": "Judicious use of resources is necessary", "is_correct": true },
+        { "option_id": 4, "text": "Technology can replace nature", "is_correct": false }
+      ],
+      "answer": "Judicious use of resources is necessary"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which resource supports both plant growth and animal habitats?",
+      "options": [
+        { "option_id": 1, "text": "Air", "is_correct": false },
+        { "option_id": 2, "text": "Forests", "is_correct": true },
+        { "option_id": 3, "text": "Minerals", "is_correct": false },
+        { "option_id": 4, "text": "Trade", "is_correct": false }
+      ],
+      "answer": "Forests"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Why must humans change their approach towards natural resources?",
+      "options": [
+        { "option_id": 1, "text": "Resources are increasing", "is_correct": false },
+        { "option_id": 2, "text": "Nature belongs only to humans", "is_correct": false },
+        { "option_id": 3, "text": "Unsustainable use disturbs natural balance", "is_correct": true },
+        { "option_id": 4, "text": "All resources are renewable", "is_correct": false }
+      ],
+      "answer": "Unsustainable use disturbs natural balance"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are natural resources?",
+      "answer": "Natural resources are the materials and components found in nature that are useful to humans for fulfilling their needs."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why are natural resources considered invaluable?",
+      "answer": "Natural resources are limited in nature and essential for survival, hence they are invaluable."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "State two uses of air mentioned in the chapter.",
+      "answer": "Air is used for respiration and for burning."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why is the quality of air changing?",
+      "answer": "The quality of air is changing due to human activities such as burning fuels and pollution."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is soil an important natural resource?",
+      "answer": "Soil is important because it supports agriculture and plant growth."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name the main factors affecting soil formation.",
+      "answer": "Original rock, climate, time and natural processes affect soil formation."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How long does it take to form a thin layer of mature soil?",
+      "answer": "It takes about 1000 years to form a 2.5 cm thick layer of mature soil."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is soil considered a slow renewable resource?",
+      "answer": "Soil forms very slowly over a long period of time."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "State two uses of water for humans.",
+      "answer": "Water is used for drinking and agriculture."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is water essential for all living organisms?",
+      "answer": "Water is necessary for life processes such as growth, respiration and metabolism."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How is salt obtained from sea water?",
+      "answer": "Salt is obtained from sea water through the process of evaporation."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is only a small percentage of earth’s water available for human use?",
+      "answer": "Most water is saline or locked in glaciers, leaving very little fresh water available."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What role do rivers play in human settlement?",
+      "answer": "Rivers provide water for drinking, agriculture and transport, supporting settlements."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why did ancient civilizations develop near river valleys?",
+      "answer": "River valleys provided fertile land, water supply and means of transport."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "State two products obtained from forests.",
+      "answer": "Wood and honey are obtained from forests."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why are forests important for human life?",
+      "answer": "Forests provide food, raw materials, oxygen and shelter to living beings."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How do plants support animal resources?",
+      "answer": "Animals depend on plants directly or indirectly for food."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Mention two ways animals are useful to humans.",
+      "answer": "Animals provide food and help in farming and transportation."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which animals are used for agricultural activities?",
+      "answer": "Oxen and bulls are used for ploughing fields."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What products are obtained from animals besides food?",
+      "answer": "Hide, wool and leather are obtained from animals."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are minerals?",
+      "answer": "Minerals are naturally occurring substances obtained from the earth that are useful to humans."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Name two metallic minerals.",
+      "answer": "Iron and copper are metallic minerals."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What are non-metallic minerals used for?",
+      "answer": "Non-metallic minerals are mainly used to obtain chemicals."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why is mining important?",
+      "answer": "Mining provides minerals and metals essential for industry and development."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why is land considered a valuable natural resource?",
+      "answer": "Land is essential for agriculture, settlement and construction."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What percentage of the earth’s surface is covered by land?",
+      "answer": "About 29.20% of the earth’s surface is covered by land."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Name any two factors influencing land use.",
+      "answer": "Physiography and climate influence land use."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why is land use not uniform everywhere?",
+      "answer": "Land use varies due to differences in geographical conditions."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which living being tries to change nature according to its needs?",
+      "answer": "Man tries to change nature according to his needs."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What caused imbalance in nature?",
+      "answer": "Exploitative use of natural resources by humans caused imbalance in nature."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why should natural resources be conserved?",
+      "answer": "They should be conserved to maintain ecological balance and ensure availability for future generations."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What does judicious use of resources mean?",
+      "answer": "Judicious use means careful and responsible use of natural resources."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "How does overuse of resources affect nature?",
+      "answer": "Overuse leads to depletion of resources and environmental imbalance."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why is water conservation necessary?",
+      "answer": "Fresh water is limited and essential for all living organisms."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "State one method to save water.",
+      "answer": "Avoiding wastage of water helps in water conservation."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is soil conservation important?",
+      "answer": "Soil conservation is important to sustain agriculture and prevent land degradation."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How do forests help in maintaining balance in nature?",
+      "answer": "Forests regulate climate, conserve soil and support biodiversity."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is the relationship between plants and animals?",
+      "answer": "Plants provide food and oxygen, supporting animal life."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why are minerals important for human development?",
+      "answer": "Minerals are essential for industries, tools, machines and medicines."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "How does land support human activities?",
+      "answer": "Land supports agriculture, settlements, transport and industries."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why did humans shift from nomadic to settled life?",
+      "answer": "Cultivation of food grains encouraged humans to settle in one place."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "How do animals help in transportation?",
+      "answer": "Animals like asses and camels are used to carry loads."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why is balance in nature important?",
+      "answer": "Balance in nature ensures the survival of all living organisms."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the role of humans in conserving natural resources?",
+      "answer": "Humans must use resources responsibly and protect them from overuse."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How do forests contribute to the economy?",
+      "answer": "Forests provide raw materials, employment and forest products."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why is land bought and sold?",
+      "answer": "Land is valuable for agriculture, housing and commercial activities."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What message does the chapter give about nature?",
+      "answer": "Nature belongs to all living beings and must be protected."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How does human greed affect natural resources?",
+      "answer": "Greed leads to excessive exploitation and depletion of resources."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why should future generations be considered while using resources?",
+      "answer": "Resources should be preserved so future generations can meet their needs."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "State the central idea of the chapter Natural Resources.",
+      "answer": "Natural resources are limited and should be used judiciously to maintain balance in nature."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Explain why natural resources form the foundation of human life.",
+      "answer": "Natural resources provide air, water, food, shelter and materials necessary for survival and development of human life."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does air pollution affect the usefulness of air as a resource?",
+      "answer": "Air pollution reduces air quality, making it harmful for respiration and disturbing ecological balance."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is soil called a slow renewable resource?",
+      "answer": "Soil forms very slowly over thousands of years and cannot be quickly replaced once degraded."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Explain how soil degradation can impact agriculture.",
+      "answer": "Soil degradation reduces fertility, leading to lower crop productivity and food shortages."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is conservation of soil essential for future generations?",
+      "answer": "Conserving soil ensures sustained agricultural productivity and food security for future generations."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How does water scarcity affect human settlements?",
+      "answer": "Water scarcity limits drinking water, agriculture and industries, forcing people to migrate."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Explain the role of rivers in the development of civilizations.",
+      "answer": "Rivers provide fertile land, water supply, transportation and support economic activities."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why is freshwater considered a limited resource?",
+      "answer": "Only a very small percentage of earth’s water is fresh and accessible for human use."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How does excessive use of water disturb natural balance?",
+      "answer": "Overuse of water lowers groundwater levels and affects ecosystems dependent on water."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Explain the importance of forests in maintaining ecological balance.",
+      "answer": "Forests regulate climate, conserve soil, support biodiversity and maintain oxygen levels."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "How does deforestation affect availability of natural resources?",
+      "answer": "Deforestation reduces forest products, disrupts rainfall and causes loss of biodiversity."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why are forests called renewable resources?",
+      "answer": "Forests can regenerate naturally if managed and used sustainably."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Explain how animals support agricultural activities.",
+      "answer": "Animals help in ploughing, transportation and provide manure for fields."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why is imbalance created when animal resources are overexploited?",
+      "answer": "Overexploitation reduces animal populations and disturbs food chains."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "How are minerals essential for industrial development?",
+      "answer": "Minerals provide raw materials for tools, machines, construction and manufacturing."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why are minerals considered non-renewable resources?",
+      "answer": "Minerals take millions of years to form and cannot be replenished quickly."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Explain the impact of mining on the environment.",
+      "answer": "Mining causes land degradation, pollution and loss of vegetation."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why is land use planning important?",
+      "answer": "Land use planning ensures proper utilization of land without environmental damage."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "How does physiography influence land use?",
+      "answer": "Mountains, plains and plateaus determine suitability for farming, settlements and industries."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Explain why land is unevenly utilized across regions.",
+      "answer": "Variations in climate, relief, soil and water availability cause uneven land use."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why do humans attempt to modify natural conditions?",
+      "answer": "Humans modify nature to fulfill growing needs for food, shelter and development."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How has population growth increased pressure on natural resources?",
+      "answer": "Growing population increases demand, leading to overuse and depletion of resources."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Explain the concept of judicious use of natural resources.",
+      "answer": "Judicious use means careful, planned and sustainable utilization of resources."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why is sustainable development necessary?",
+      "answer": "It balances present needs without harming future resource availability."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "How does misuse of natural resources disturb ecological balance?",
+      "answer": "Misuse causes pollution, resource depletion and loss of biodiversity."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Explain how conservation benefits future generations.",
+      "answer": "Conservation ensures availability of resources for future survival and development."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why should humans consider other living beings while using resources?",
+      "answer": "All living beings depend on shared resources for survival."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How does soil erosion threaten food security?",
+      "answer": "Soil erosion reduces fertile land, decreasing agricultural production."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Explain the interdependence between forests and rainfall.",
+      "answer": "Forests influence rainfall through transpiration and climate regulation."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why is water management essential in modern times?",
+      "answer": "Limited freshwater and increasing demand make water management essential."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "How does overgrazing affect land resources?",
+      "answer": "Overgrazing leads to soil erosion and loss of vegetation."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Explain how natural resources support economic activities.",
+      "answer": "Resources provide raw materials, employment and industrial growth."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is conservation a collective responsibility?",
+      "answer": "Protection of resources requires participation from all sections of society."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How does human lifestyle influence resource consumption?",
+      "answer": "Modern lifestyles increase consumption and pressure on natural resources."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Explain the relationship between natural resources and quality of life.",
+      "answer": "Availability of clean air, water and food improves quality of life."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why is balance in nature necessary for survival?",
+      "answer": "Balance ensures stable ecosystems and survival of all organisms."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "How does wasteful use of land reduce its productivity?",
+      "answer": "Misuse leads to degradation, making land unsuitable for agriculture."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Explain the long-term effects of resource depletion.",
+      "answer": "Resource depletion leads to scarcity, conflicts and environmental crises."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why should conservation begin at the individual level?",
+      "answer": "Individual actions collectively impact resource preservation."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "How do natural resources link environment and economy?",
+      "answer": "Resources support industries while depending on environmental health."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Explain how sustainable use ensures long-term availability of resources.",
+      "answer": "Controlled use allows natural regeneration and prevents exhaustion."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why is awareness important in conserving natural resources?",
+      "answer": "Awareness encourages responsible behavior and conservation practices."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "How does improper mining affect nearby human settlements?",
+      "answer": "It causes pollution, land instability and health hazards."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Explain the connection between natural resources and biodiversity.",
+      "answer": "Resources support habitats and survival of diverse species."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why should development be environment-friendly?",
+      "answer": "It prevents damage to ecosystems and conserves resources."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How does conservation help maintain climate stability?",
+      "answer": "Protected forests and water bodies regulate climate systems."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Explain how misuse of one resource affects others.",
+      "answer": "Misuse creates chain reactions affecting air, water, soil and life."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is planning essential for resource management?",
+      "answer": "Planning ensures efficient use without environmental harm."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Explain the chapter’s message regarding human responsibility.",
+      "answer": "Humans must protect nature as responsible users of resources."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is the judicious use of natural resources vital for earth’s future?",
+      "answer": "It ensures survival, balance in nature and sustainability of life."
+    }
+  ]
+}

@@ -1,0 +1,1221 @@
+{
+  "voyage": "Rural Local Government Bodies",
+  "lessons": [
+    "The Gram Panchayat",
+    "The Panchayat Samiti",
+    "The Zilla Parishad"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which level of government is responsible for the administration of the entire country?",
+      "options": [
+        { "option_id": 1, "text": "State Government", "is_correct": false },
+        { "option_id": 2, "text": "Union Government", "is_correct": true },
+        { "option_id": 3, "text": "Local Government", "is_correct": false },
+        { "option_id": 4, "text": "District Government", "is_correct": false }
+      ],
+      "answer": "Union Government"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following subjects is under the jurisdiction of the Union Government?",
+      "options": [
+        { "option_id": 1, "text": "Health", "is_correct": false },
+        { "option_id": 2, "text": "Education", "is_correct": false },
+        { "option_id": 3, "text": "Defence", "is_correct": true },
+        { "option_id": 4, "text": "Law and order", "is_correct": false }
+      ],
+      "answer": "Defence"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "At which level do local government bodies function in the administrative system?",
+      "options": [
+        { "option_id": 1, "text": "First level", "is_correct": false },
+        { "option_id": 2, "text": "Second level", "is_correct": false },
+        { "option_id": 3, "text": "Third level", "is_correct": true },
+        { "option_id": 4, "text": "Fourth level", "is_correct": false }
+      ],
+      "answer": "Third level"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a rural local government body?",
+      "options": [
+        { "option_id": 1, "text": "Gram Panchayat", "is_correct": false },
+        { "option_id": 2, "text": "Panchayat Samiti", "is_correct": false },
+        { "option_id": 3, "text": "Zilla Parishad", "is_correct": false },
+        { "option_id": 4, "text": "Municipal Corporation", "is_correct": true }
+      ],
+      "answer": "Municipal Corporation"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What collective name is given to the Gram Panchayat, Panchayat Samiti and Zilla Parishad?",
+      "options": [
+        { "option_id": 1, "text": "Local Administration", "is_correct": false },
+        { "option_id": 2, "text": "District Council", "is_correct": false },
+        { "option_id": 3, "text": "Panchayati Raj Institutions", "is_correct": true },
+        { "option_id": 4, "text": "Village Committees", "is_correct": false }
+      ],
+      "answer": "Panchayati Raj Institutions"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Under what condition is a 'Group Gram Panchayat' formed?",
+      "options": [
+        { "option_id": 1, "text": "When a village has no elected members", "is_correct": false },
+        { "option_id": 2, "text": "When a village population is less than 500", "is_correct": true },
+        { "option_id": 3, "text": "When villages are geographically distant", "is_correct": false },
+        { "option_id": 4, "text": "When approved by the State Government", "is_correct": false }
+      ],
+      "answer": "When a village population is less than 500"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following functions is performed by the Gram Panchayat?",
+      "options": [
+        { "option_id": 1, "text": "Foreign affairs", "is_correct": false },
+        { "option_id": 2, "text": "Currency management", "is_correct": false },
+        { "option_id": 3, "text": "Registration of births and deaths", "is_correct": true },
+        { "option_id": 4, "text": "Railway administration", "is_correct": false }
+      ],
+      "answer": "Registration of births and deaths"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who presides over the meetings of the Gram Panchayat?",
+      "options": [
+        { "option_id": 1, "text": "Gram Sevak", "is_correct": false },
+        { "option_id": 2, "text": "Deputy Sarpanch", "is_correct": false },
+        { "option_id": 3, "text": "Sarpanch", "is_correct": true },
+        { "option_id": 4, "text": "Block Development Officer", "is_correct": false }
+      ],
+      "answer": "Sarpanch"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "For how many years is a Gram Panchayat elected?",
+      "options": [
+        { "option_id": 1, "text": "Three years", "is_correct": false },
+        { "option_id": 2, "text": "Four years", "is_correct": false },
+        { "option_id": 3, "text": "Five years", "is_correct": true },
+        { "option_id": 4, "text": "Six years", "is_correct": false }
+      ],
+      "answer": "Five years"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who takes charge of the Gram Panchayat in the absence of the Sarpanch?",
+      "options": [
+        { "option_id": 1, "text": "Gram Sevak", "is_correct": false },
+        { "option_id": 2, "text": "Deputy Sarpanch", "is_correct": true },
+        { "option_id": 3, "text": "Chairman of Panchayat Samiti", "is_correct": false },
+        { "option_id": 4, "text": "Chief Executive Officer", "is_correct": false }
+      ],
+      "answer": "Deputy Sarpanch"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the secretary of the Gram Panchayat?",
+      "options": [
+        { "option_id": 1, "text": "Sarpanch", "is_correct": false },
+        { "option_id": 2, "text": "Deputy Sarpanch", "is_correct": false },
+        { "option_id": 3, "text": "Gram Sevak", "is_correct": true },
+        { "option_id": 4, "text": "Block Development Officer", "is_correct": false }
+      ],
+      "answer": "Gram Sevak"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who appoints the Gram Sevak?",
+      "options": [
+        { "option_id": 1, "text": "State Government", "is_correct": false },
+        { "option_id": 2, "text": "District Collector", "is_correct": false },
+        { "option_id": 3, "text": "Chief Executive Officer of Zilla Parishad", "is_correct": true },
+        { "option_id": 4, "text": "Gram Sabha", "is_correct": false }
+      ],
+      "answer": "Chief Executive Officer of Zilla Parishad"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the Gram Sabha?",
+      "options": [
+        { "option_id": 1, "text": "Committee of elected members", "is_correct": false },
+        { "option_id": 2, "text": "Assembly of all village voters", "is_correct": true },
+        { "option_id": 3, "text": "Group of government officers", "is_correct": false },
+        { "option_id": 4, "text": "Council of village elders", "is_correct": false }
+      ],
+      "answer": "Assembly of all village voters"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the minimum number of Gram Sabha meetings required in a financial year?",
+      "options": [
+        { "option_id": 1, "text": "Four", "is_correct": false },
+        { "option_id": 2, "text": "Five", "is_correct": false },
+        { "option_id": 3, "text": "Six", "is_correct": true },
+        { "option_id": 4, "text": "Eight", "is_correct": false }
+      ],
+      "answer": "Six"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who is responsible for calling the meetings of the Gram Sabha?",
+      "options": [
+        { "option_id": 1, "text": "Gram Sevak", "is_correct": false },
+        { "option_id": 2, "text": "Sarpanch", "is_correct": true },
+        { "option_id": 3, "text": "Chairman of Panchayat Samiti", "is_correct": false },
+        { "option_id": 4, "text": "Chief Executive Officer", "is_correct": false }
+      ],
+      "answer": "Sarpanch"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "In which meeting does the Gram Sabha discuss the annual report and accounts?",
+      "options": [
+        { "option_id": 1, "text": "Last meeting of the year", "is_correct": false },
+        { "option_id": 2, "text": "Emergency meeting", "is_correct": false },
+        { "option_id": 3, "text": "First meeting of the financial year", "is_correct": true },
+        { "option_id": 4, "text": "Special meeting", "is_correct": false }
+      ],
+      "answer": "First meeting of the financial year"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who gives sanction to the development schemes proposed by the Gram Panchayat?",
+      "options": [
+        { "option_id": 1, "text": "State Government", "is_correct": false },
+        { "option_id": 2, "text": "Zilla Parishad", "is_correct": false },
+        { "option_id": 3, "text": "Gram Sabha", "is_correct": true },
+        { "option_id": 4, "text": "Panchayat Samiti", "is_correct": false }
+      ],
+      "answer": "Gram Sabha"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which authority decides who should receive the benefits of government schemes at village level?",
+      "options": [
+        { "option_id": 1, "text": "Gram Panchayat", "is_correct": false },
+        { "option_id": 2, "text": "Panchayat Samiti", "is_correct": false },
+        { "option_id": 3, "text": "Gram Sabha", "is_correct": true },
+        { "option_id": 4, "text": "Zilla Parishad", "is_correct": false }
+      ],
+      "answer": "Gram Sabha"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Why are separate meetings of women held before the Gram Sabha?",
+      "options": [
+        { "option_id": 1, "text": "To conduct elections", "is_correct": false },
+        { "option_id": 2, "text": "To allow free discussion of issues", "is_correct": true },
+        { "option_id": 3, "text": "To approve budgets", "is_correct": false },
+        { "option_id": 4, "text": "To collect taxes", "is_correct": false }
+      ],
+      "answer": "To allow free discussion of issues"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following is a source of revenue for the Gram Panchayat?",
+      "options": [
+        { "option_id": 1, "text": "Income tax", "is_correct": false },
+        { "option_id": 2, "text": "House tax", "is_correct": true },
+        { "option_id": 3, "text": "Customs duty", "is_correct": false },
+        { "option_id": 4, "text": "Excise duty", "is_correct": false }
+      ],
+      "answer": "House tax"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which body looks after the development block formed by villages in a taluka?",
+      "options": [
+        { "option_id": 1, "text": "Gram Panchayat", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Council", "is_correct": false },
+        { "option_id": 3, "text": "Panchayat Samiti", "is_correct": true },
+        { "option_id": 4, "text": "Zilla Parishad", "is_correct": false }
+      ],
+      "answer": "Panchayat Samiti"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What role does the Panchayat Samiti play between other rural bodies?",
+      "options": [
+        { "option_id": 1, "text": "Acts as a financial controller", "is_correct": false },
+        { "option_id": 2, "text": "Acts as a link between Gram Panchayat and Zilla Parishad", "is_correct": true },
+        { "option_id": 3, "text": "Acts as a judicial body", "is_correct": false },
+        { "option_id": 4, "text": "Acts as a tax collection authority", "is_correct": false }
+      ],
+      "answer": "Acts as a link between Gram Panchayat and Zilla Parishad"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who presides over Panchayat Samiti meetings?",
+      "options": [
+        { "option_id": 1, "text": "Block Development Officer", "is_correct": false },
+        { "option_id": 2, "text": "Chairman", "is_correct": true },
+        { "option_id": 3, "text": "Deputy Chairman", "is_correct": false },
+        { "option_id": 4, "text": "Chief Executive Officer", "is_correct": false }
+      ],
+      "answer": "Chairman"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "How often must the Panchayat Samiti hold its meetings?",
+      "options": [
+        { "option_id": 1, "text": "Once in six months", "is_correct": false },
+        { "option_id": 2, "text": "Once a year", "is_correct": false },
+        { "option_id": 3, "text": "At least once a month", "is_correct": true },
+        { "option_id": 4, "text": "Only when required", "is_correct": false }
+      ],
+      "answer": "At least once a month"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "From where does the Panchayat Samiti receive funds?",
+      "options": [
+        { "option_id": 1, "text": "Union Government only", "is_correct": false },
+        { "option_id": 2, "text": "District funds and State Government grants", "is_correct": true },
+        { "option_id": 3, "text": "Village taxes only", "is_correct": false },
+        { "option_id": 4, "text": "Private donations", "is_correct": false }
+      ],
+      "answer": "District funds and State Government grants"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which rural local body exists at the district level?",
+      "options": [
+        { "option_id": 1, "text": "Gram Sabha", "is_correct": false },
+        { "option_id": 2, "text": "Panchayat Samiti", "is_correct": false },
+        { "option_id": 3, "text": "Zilla Parishad", "is_correct": true },
+        { "option_id": 4, "text": "Nagar Panchayat", "is_correct": false }
+      ],
+      "answer": "Zilla Parishad"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Why do Mumbai City and Mumbai Suburban districts not have Zilla Parishads?",
+      "options": [
+        { "option_id": 1, "text": "They have no elected representatives", "is_correct": false },
+        { "option_id": 2, "text": "They lack rural population", "is_correct": true },
+        { "option_id": 3, "text": "They are under Union control", "is_correct": false },
+        { "option_id": 4, "text": "They are newly formed districts", "is_correct": false }
+      ],
+      "answer": "They lack rural population"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who presides over the meetings of the Zilla Parishad?",
+      "options": [
+        { "option_id": 1, "text": "Chief Executive Officer", "is_correct": false },
+        { "option_id": 2, "text": "Vice-President", "is_correct": false },
+        { "option_id": 3, "text": "President", "is_correct": true },
+        { "option_id": 4, "text": "District Collector", "is_correct": false }
+      ],
+      "answer": "President"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who controls the financial transactions of the Zilla Parishad?",
+      "options": [
+        { "option_id": 1, "text": "Vice-President", "is_correct": false },
+        { "option_id": 2, "text": "President", "is_correct": true },
+        { "option_id": 3, "text": "Chief Executive Officer", "is_correct": false },
+        { "option_id": 4, "text": "Finance Committee", "is_correct": false }
+      ],
+      "answer": "President"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who implements the decisions taken by the Zilla Parishad?",
+      "options": [
+        { "option_id": 1, "text": "President", "is_correct": false },
+        { "option_id": 2, "text": "Vice-President", "is_correct": false },
+        { "option_id": 3, "text": "Chief Executive Officer", "is_correct": true },
+        { "option_id": 4, "text": "Block Development Officer", "is_correct": false }
+      ],
+      "answer": "Chief Executive Officer"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who appoints the Chief Executive Officer of the Zilla Parishad?",
+      "options": [
+        { "option_id": 1, "text": "Union Government", "is_correct": false },
+        { "option_id": 2, "text": "State Government", "is_correct": true },
+        { "option_id": 3, "text": "Zilla Parishad", "is_correct": false },
+        { "option_id": 4, "text": "District Court", "is_correct": false }
+      ],
+      "answer": "State Government"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which committee addresses issues related to women and children?",
+      "options": [
+        { "option_id": 1, "text": "Finance Committee", "is_correct": false },
+        { "option_id": 2, "text": "Education Committee", "is_correct": false },
+        { "option_id": 3, "text": "Women and Child Welfare Committee", "is_correct": true },
+        { "option_id": 4, "text": "Agriculture Committee", "is_correct": false }
+      ],
+      "answer": "Women and Child Welfare Committee"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which of the following is a function of the Zilla Parishad?",
+      "options": [
+        { "option_id": 1, "text": "Foreign trade", "is_correct": false },
+        { "option_id": 2, "text": "Education facilities", "is_correct": true },
+        { "option_id": 3, "text": "Currency printing", "is_correct": false },
+        { "option_id": 4, "text": "Railway management", "is_correct": false }
+      ],
+      "answer": "Education facilities"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which amendment granted constitutional status to rural local government bodies?",
+      "options": [
+        { "option_id": 1, "text": "42nd Amendment", "is_correct": false },
+        { "option_id": 2, "text": "44th Amendment", "is_correct": false },
+        { "option_id": 3, "text": "73rd Amendment", "is_correct": true },
+        { "option_id": 4, "text": "86th Amendment", "is_correct": false }
+      ],
+      "answer": "73rd Amendment"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "In which year were the constitutional amendments for local bodies made?",
+      "options": [
+        { "option_id": 1, "text": "1985", "is_correct": false },
+        { "option_id": 2, "text": "1990", "is_correct": false },
+        { "option_id": 3, "text": "1992", "is_correct": true },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1992"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which condition is necessary to contest elections to rural local bodies?",
+      "options": [
+        { "option_id": 1, "text": "Minimum age of 18 years", "is_correct": false },
+        { "option_id": 2, "text": "Citizen of India", "is_correct": true },
+        { "option_id": 3, "text": "Government employee", "is_correct": false },
+        { "option_id": 4, "text": "Graduate degree", "is_correct": false }
+      ],
+      "answer": "Citizen of India"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What is the minimum age required to contest Panchayati Raj elections?",
+      "options": [
+        { "option_id": 1, "text": "18 years", "is_correct": false },
+        { "option_id": 2, "text": "21 years", "is_correct": true },
+        { "option_id": 3, "text": "25 years", "is_correct": false },
+        { "option_id": 4, "text": "30 years", "is_correct": false }
+      ],
+      "answer": "21 years"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which document would be issued by the Gram Panchayat?",
+      "options": [
+        { "option_id": 1, "text": "Passport", "is_correct": false },
+        { "option_id": 2, "text": "Birth certificate", "is_correct": true },
+        { "option_id": 3, "text": "Driving licence", "is_correct": false },
+        { "option_id": 4, "text": "Voter ID card", "is_correct": false }
+      ],
+      "answer": "Birth certificate"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which officer works at the Panchayat Samiti level?",
+      "options": [
+        { "option_id": 1, "text": "Gram Sevak", "is_correct": false },
+        { "option_id": 2, "text": "Block Development Officer", "is_correct": true },
+        { "option_id": 3, "text": "Chief Executive Officer", "is_correct": false },
+        { "option_id": 4, "text": "Sarpanch", "is_correct": false }
+      ],
+      "answer": "Block Development Officer"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which activity reflects people’s participation in local governance?",
+      "options": [
+        { "option_id": 1, "text": "Attending Gram Sabha meetings", "is_correct": true },
+        { "option_id": 2, "text": "Paying income tax", "is_correct": false },
+        { "option_id": 3, "text": "Applying for passports", "is_correct": false },
+        { "option_id": 4, "text": "Joining the army", "is_correct": false }
+      ],
+      "answer": "Attending Gram Sabha meetings"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which tax is specifically mentioned as a source of revenue for the Gram Panchayat?",
+      "options": [
+        { "option_id": 1, "text": "Entertainment tax", "is_correct": false },
+        { "option_id": 2, "text": "Water tax", "is_correct": true },
+        { "option_id": 3, "text": "Professional tax", "is_correct": false },
+        { "option_id": 4, "text": "Service tax", "is_correct": false }
+      ],
+      "answer": "Water tax"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which level of government is mainly concerned with regulation of village social life?",
+      "options": [
+        { "option_id": 1, "text": "Union Government", "is_correct": false },
+        { "option_id": 2, "text": "State Government", "is_correct": false },
+        { "option_id": 3, "text": "Local Government Bodies", "is_correct": true },
+        { "option_id": 4, "text": "Judiciary", "is_correct": false }
+      ],
+      "answer": "Local Government Bodies"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which body prepares development plans for the development block?",
+      "options": [
+        { "option_id": 1, "text": "Gram Panchayat", "is_correct": false },
+        { "option_id": 2, "text": "Panchayat Samiti", "is_correct": true },
+        { "option_id": 3, "text": "Zilla Parishad", "is_correct": false },
+        { "option_id": 4, "text": "Gram Sabha", "is_correct": false }
+      ],
+      "answer": "Panchayat Samiti"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which of the following best describes the role of the Gram Sabha?",
+      "options": [
+        { "option_id": 1, "text": "Judicial authority", "is_correct": false },
+        { "option_id": 2, "text": "Administrative office", "is_correct": false },
+        { "option_id": 3, "text": "Decision-making body of villagers", "is_correct": true },
+        { "option_id": 4, "text": "Tax collection department", "is_correct": false }
+      ],
+      "answer": "Decision-making body of villagers"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which responsibility is associated with the President of the Zilla Parishad?",
+      "options": [
+        { "option_id": 1, "text": "Calling Gram Sabha meetings", "is_correct": false },
+        { "option_id": 2, "text": "Controlling Zilla Parishad finances", "is_correct": true },
+        { "option_id": 3, "text": "Appointing Gram Sevak", "is_correct": false },
+        { "option_id": 4, "text": "Approving village taxes", "is_correct": false }
+      ],
+      "answer": "Controlling Zilla Parishad finances"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which of the following reflects decentralization of administration?",
+      "options": [
+        { "option_id": 1, "text": "Centralized decision-making", "is_correct": false },
+        { "option_id": 2, "text": "Multiple levels of government", "is_correct": true },
+        { "option_id": 3, "text": "Single authority system", "is_correct": false },
+        { "option_id": 4, "text": "Judicial supremacy", "is_correct": false }
+      ],
+      "answer": "Multiple levels of government"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which officer works at the Zilla Parishad level?",
+      "options": [
+        { "option_id": 1, "text": "Gram Sevak", "is_correct": false },
+        { "option_id": 2, "text": "Block Development Officer", "is_correct": false },
+        { "option_id": 3, "text": "Chief Executive Officer", "is_correct": true },
+        { "option_id": 4, "text": "Sarpanch", "is_correct": false }
+      ],
+      "answer": "Chief Executive Officer"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which authority conducts elections to the Gram Panchayat?",
+      "options": [
+        { "option_id": 1, "text": "Every three years", "is_correct": false },
+        { "option_id": 2, "text": "Every four years", "is_correct": false },
+        { "option_id": 3, "text": "Every five years", "is_correct": true },
+        { "option_id": 4, "text": "Every six years", "is_correct": false }
+      ],
+      "answer": "Every five years"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which of the following activities is linked with public hygiene?",
+      "options": [
+        { "option_id": 1, "text": "Foreign policy", "is_correct": false },
+        { "option_id": 2, "text": "Vaccination", "is_correct": true },
+        { "option_id": 3, "text": "Currency circulation", "is_correct": false },
+        { "option_id": 4, "text": "Defence services", "is_correct": false }
+      ],
+      "answer": "Vaccination"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which local body is closest to the people at the village level?",
+      "options": [
+        { "option_id": 1, "text": "Zilla Parishad", "is_correct": false },
+        { "option_id": 2, "text": "Panchayat Samiti", "is_correct": false },
+        { "option_id": 3, "text": "Gram Panchayat", "is_correct": true },
+        { "option_id": 4, "text": "State Government", "is_correct": false }
+      ],
+      "answer": "Gram Panchayat"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is meant by local government?",
+      "answer": "Local government refers to the administrative system that manages local affairs at the village, taluka, and district levels to regulate social life and provide basic services."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name the three levels at which administration is carried out in India.",
+      "answer": "Administration in India is carried out at the Union Government level, State Government level, and Local Government level."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why are local government bodies important in rural areas?",
+      "answer": "Local government bodies are important because they regulate social life and ensure the implementation of development activities at the grassroots level."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What are Panchayati Raj Institutions?",
+      "answer": "Panchayati Raj Institutions are rural local government bodies consisting of the Gram Panchayat, Panchayat Samiti, and Zilla Parishad."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "State any two functions of the Gram Panchayat.",
+      "answer": "The Gram Panchayat manages water supply and maintains records of births, deaths, and marriages."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is a Group Gram Panchayat?",
+      "answer": "A Group Gram Panchayat is formed when two or more villages with a population of less than 500 are administered together."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How is a Sarpanch selected?",
+      "answer": "The Sarpanch is elected by the members of the Gram Panchayat from among themselves."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Mention one responsibility of the Sarpanch.",
+      "answer": "The Sarpanch is responsible for implementing development schemes in the village."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What action can be taken if a Sarpanch fails to perform duties properly?",
+      "answer": "The members of the Gram Panchayat can bring a motion of no confidence against the Sarpanch."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Who performs the duties of the Sarpanch in his absence?",
+      "answer": "The Deputy Sarpanch performs the duties of the Sarpanch in his absence."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who is the Gram Sevak?",
+      "answer": "The Gram Sevak is the secretary of the Gram Panchayat and looks after its day-to-day functioning."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Who appoints the Gram Sevak?",
+      "answer": "The Gram Sevak is appointed by the Chief Executive Officer of the Zilla Parishad."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Define Gram Sabha.",
+      "answer": "The Gram Sabha is the assembly of all voters of a village or rural area."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why is the Gram Sabha considered the most important local institution?",
+      "answer": "The Gram Sabha is considered important because it directly involves villagers in decision-making and governance."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How many Gram Sabha meetings must be held in a financial year?",
+      "answer": "At least six Gram Sabha meetings must be held in a financial year."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is discussed in the first Gram Sabha meeting of the financial year?",
+      "answer": "The annual report and accounts submitted by the Gram Panchayat are discussed."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "State one power of the Gram Sabha.",
+      "answer": "The Gram Sabha has the power to sanction development schemes proposed by the Gram Panchayat."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How does the Gram Sabha contribute to social participation?",
+      "answer": "It allows villagers to ask questions, give suggestions, and participate in development planning."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why are women’s meetings held before the Gram Sabha?",
+      "answer": "Women’s meetings are held to encourage free discussion of issues and enable active participation in the Gram Sabha."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Mention any two issues discussed by women in Gram Sabha meetings.",
+      "answer": "Issues such as drinking water and health are discussed by women."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why does the Gram Panchayat require funds?",
+      "answer": "The Gram Panchayat requires funds to carry out welfare schemes and development programmes."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Name any two sources of revenue of the Gram Panchayat.",
+      "answer": "House tax and water tax are sources of revenue of the Gram Panchayat."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is a development block?",
+      "answer": "A development block is formed by grouping all villages within a taluka."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Which body administers the development block?",
+      "answer": "The Panchayat Samiti administers the development block."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the linking role of the Panchayat Samiti?",
+      "answer": "The Panchayat Samiti acts as a link between the Gram Panchayat and the Zilla Parishad."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Who elects the Chairman of the Panchayat Samiti?",
+      "answer": "The elected members of the Panchayat Samiti elect the Chairman from among themselves."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "State one function of the Panchayat Samiti.",
+      "answer": "The Panchayat Samiti prepares plans for development schemes in the block."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How frequently must the Panchayat Samiti meet?",
+      "answer": "The Panchayat Samiti must hold at least one meeting every month."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "From where does the Panchayat Samiti receive financial support?",
+      "answer": "It receives funds from district funds and grants from the State Government."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is a Zilla Parishad?",
+      "answer": "A Zilla Parishad is the rural local government body at the district level."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why are there fewer Zilla Parishads than districts in Maharashtra?",
+      "answer": "Mumbai City and Mumbai Suburban districts lack rural population and hence do not have Zilla Parishads."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Who is the head of the Zilla Parishad?",
+      "answer": "The President is the head of the Zilla Parishad."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Mention one financial power of the President of the Zilla Parishad.",
+      "answer": "The President controls the financial transactions of the Zilla Parishad."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Who performs the President’s duties in his absence?",
+      "answer": "The Vice-President performs the President’s duties in his absence."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Who implements the decisions of the Zilla Parishad?",
+      "answer": "The Chief Executive Officer implements the decisions of the Zilla Parishad."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Who appoints the Chief Executive Officer of the Zilla Parishad?",
+      "answer": "The Chief Executive Officer is appointed by the State Government."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Name any two committees of the Zilla Parishad.",
+      "answer": "The Finance Committee and Education Committee are committees of the Zilla Parishad."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Which committee focuses on women and children’s issues?",
+      "answer": "The Women and Child Welfare Committee focuses on women and children’s issues."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "State one function related to health performed by local bodies.",
+      "answer": "Providing vaccination facilities is a health-related function."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Mention one educational function of the Zilla Parishad.",
+      "answer": "The Zilla Parishad provides education facilities in rural areas."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Which constitutional amendments strengthened local self-government?",
+      "answer": "The 73rd and 74th Constitutional Amendments strengthened local self-government."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What was the main purpose of the 73rd Amendment?",
+      "answer": "The 73rd Amendment granted constitutional status and powers to rural local government bodies."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How were local bodies empowered after the constitutional amendments?",
+      "answer": "Their powers, subjects of jurisdiction, and sources of revenue were increased."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who can contest elections to rural local bodies?",
+      "answer": "Any Indian citizen aged 21 years or above whose name is in the local voters list can contest."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is decentralization important in democracy?",
+      "answer": "Decentralization allows people to participate directly in governance at the local level."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which officer works at the Panchayat Samiti level?",
+      "answer": "The Block Development Officer works at the Panchayat Samiti level."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Name the officer associated with the Gram Panchayat.",
+      "answer": "The Gram Sevak is the officer associated with the Gram Panchayat."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What type of work connects agriculture and local governance?",
+      "answer": "Helping farmers improve agriculture and livestock connects agriculture and local governance."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "State one welfare activity carried out by rural local bodies.",
+      "answer": "Providing clean drinking water is a welfare activity of rural local bodies."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why should citizens attend Gram Sabha meetings?",
+      "answer": "Citizens should attend Gram Sabha meetings to question representatives, review development work, and suggest new ideas."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why is the Gram Panchayat described as the foundation of rural local government?",
+      "answer": "The Gram Panchayat is considered the foundation because it directly administers villages and handles essential services affecting daily rural life."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does the formation of a Group Gram Panchayat help small villages?",
+      "answer": "It allows villages with small populations to jointly manage administration and share resources efficiently."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is the Sarpanch’s role crucial in village development?",
+      "answer": "The Sarpanch leads meetings and ensures implementation of development schemes at the village level."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How does the motion of no confidence strengthen accountability in the Gram Panchayat?",
+      "answer": "It enables members to remove a Sarpanch who fails to perform duties properly, ensuring responsible leadership."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is the Gram Sevak essential for effective functioning of the Gram Panchayat?",
+      "answer": "The Gram Sevak manages daily administration and communicates development schemes to villagers."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How does the Gram Sabha promote participatory democracy?",
+      "answer": "It allows all voters to directly discuss, question, and approve development activities."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why is it mandatory to hold multiple Gram Sabha meetings in a year?",
+      "answer": "Regular meetings ensure transparency, continuous public participation, and monitoring of development work."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How do Gram Sabha discussions influence village development planning?",
+      "answer": "Suggestions and approvals given by the Gram Sabha guide the Gram Panchayat in planning and executing schemes."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why is women’s participation before Gram Sabha meetings significant?",
+      "answer": "It ensures women can freely express concerns and influence decisions on village issues."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How do taxes collected by the Gram Panchayat contribute to village welfare?",
+      "answer": "They provide financial resources needed to implement welfare and development programmes."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why is financial independence important for local government bodies?",
+      "answer": "It enables them to plan and execute development activities without complete dependence on higher authorities."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How does the Panchayat Samiti strengthen coordination among villages?",
+      "answer": "It plans and implements development schemes at the block level, linking villages within a taluka."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why is the Panchayat Samiti considered a connecting link in rural governance?",
+      "answer": "It connects village-level administration with district-level administration."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How does monthly meeting of the Panchayat Samiti improve governance?",
+      "answer": "Regular meetings help review progress and ensure timely implementation of development plans."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why are development plans prepared at the block level?",
+      "answer": "Block-level planning ensures uniform development and efficient use of resources across villages."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How does financial support from the State Government assist Panchayat Samiti?",
+      "answer": "It provides funds necessary to carry out development schemes within the block."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why is the Zilla Parishad important for district-level planning?",
+      "answer": "It coordinates development activities across the entire district."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How does the President of the Zilla Parishad ensure smooth functioning?",
+      "answer": "By presiding over meetings, controlling proceedings, and managing financial matters."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why is the Chief Executive Officer vital to the Zilla Parishad?",
+      "answer": "He ensures that decisions taken by the Zilla Parishad are effectively implemented."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How does appointment of the Chief Executive Officer by the State Government affect administration?",
+      "answer": "It ensures professional and administrative efficiency in implementing district-level decisions."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why are committees necessary in the functioning of the Zilla Parishad?",
+      "answer": "Committees allow focused attention on specific sectors like finance, health, and education."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How does the Women and Child Welfare Committee support social development?",
+      "answer": "It addresses issues related to women and children, promoting inclusive development."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is providing clean drinking water a priority for local bodies?",
+      "answer": "Clean water is essential for public health and overall quality of life."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How do health-related functions of Zilla Parishad benefit rural populations?",
+      "answer": "They improve access to healthcare services and disease prevention measures."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is agricultural support included in local government functions?",
+      "answer": "Agriculture is the main livelihood in rural areas and needs continuous support for development."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "How does promotion of handicrafts and cottage industries help rural economy?",
+      "answer": "It creates employment opportunities and increases rural income."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why is cleanliness and waste disposal important in rural governance?",
+      "answer": "It prevents diseases and ensures a healthy living environment."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How does electricity provision contribute to village development?",
+      "answer": "It supports education, agriculture, and small industries, improving living standards."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why was constitutional status given to local government bodies?",
+      "answer": "To strengthen local self-government and ensure effective decentralization."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How did the 73rd Amendment increase efficiency of rural local bodies?",
+      "answer": "By granting them more powers, responsibilities, and financial resources."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why is decentralization considered essential for democracy?",
+      "answer": "It enables people to participate directly in governance and decision-making."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How does local governance promote leadership at the grassroots level?",
+      "answer": "It provides opportunities for local representatives to take responsibility for development."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is voter participation important in Gram Sabha meetings?",
+      "answer": "It ensures transparency, accountability, and inclusive decision-making."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How does questioning representatives improve local administration?",
+      "answer": "It holds representatives accountable and encourages better performance."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is planning at different levels necessary in rural governance?",
+      "answer": "It ensures balanced development from village to district level."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How does coordination between Gram Panchayat and Panchayat Samiti help development?",
+      "answer": "It ensures that village needs are addressed through block-level planning."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why is cooperation between Panchayat Samiti and Zilla Parishad important?",
+      "answer": "It helps implement district-wide development schemes effectively."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How does local government help in identifying beneficiaries of schemes?",
+      "answer": "Local representatives understand village conditions and identify deserving individuals."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is age and citizenship eligibility necessary for contesting elections?",
+      "answer": "It ensures maturity and responsibility among elected representatives."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "How does inclusion of citizens in governance strengthen democracy?",
+      "answer": "It builds trust, accountability, and active civic participation."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why is transparency important in financial matters of local bodies?",
+      "answer": "Transparency prevents misuse of funds and builds public confidence."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "How does rural local governance support social welfare?",
+      "answer": "By implementing schemes related to health, education, and basic amenities."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why should development priorities vary from district to district?",
+      "answer": "Different districts have different needs and resources."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How does local government encourage community responsibility?",
+      "answer": "By involving citizens directly in planning and decision-making."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is rural infrastructure development important?",
+      "answer": "It improves connectivity, services, and overall quality of rural life."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How does education provided by Zilla Parishad impact rural development?",
+      "answer": "It enhances literacy, skills, and long-term economic growth."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is public hygiene a shared responsibility in villages?",
+      "answer": "Cleanliness requires cooperation between local bodies and citizens."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How does effective rural governance reduce regional inequality?",
+      "answer": "It ensures development benefits reach even remote villages."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is leadership at the village level important for national development?",
+      "answer": "Strong grassroots leadership strengthens the overall governance system."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "How do rural local government bodies collectively support democratic governance?",
+      "answer": "They promote participation, accountability, and decentralized decision-making."
+    }
+  ]
+}
+
+

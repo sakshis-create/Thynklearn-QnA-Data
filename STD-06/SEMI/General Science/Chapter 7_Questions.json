@@ -1,0 +1,2015 @@
+{
+"Chapter 7": " Nutrition and Diet",
+"lessons": [
+"7.1 Foodstuffs",
+"7.2 Cereals",
+"7.3 Fatty foods",
+"7.4 Proteins",
+"7.5 Vitamins",
+"7.6 The balanced diet pyramid",
+"7.7 Malnutrition and overnutrition"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "Living things take food and water for which purposes?",
+"options": [
+{
+"option_id": 1,
+"text": "obtaining energy, growth, day to day functions, fight diseases",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "sleeping only",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "breathing",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "reproduction only",
+"is_correct": false
+}
+],
+"answer": "obtaining energy, growth, day to day functions, fight diseases"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "How many main nutrients are in our food?",
+"options": [
+{
+"option_id": 1,
+"text": "five",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "six",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "four",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "seven",
+"is_correct": false
+}
+],
+"answer": "six"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "Name the six main nutrients.",
+"options": [
+{
+"option_id": 1,
+"text": "carbohydrates, fats, proteins, fibre, vitamins, minerals",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "proteins, vitamins only",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "fats, minerals",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "carbohydrates, water",
+"is_correct": false
+}
+],
+"answer": "carbohydrates, fats, proteins, fibre, vitamins, minerals"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "What is the process of taking food and water for growth called?",
+"options": [
+{
+"option_id": 1,
+"text": "digestion",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "nutrition",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "respiration",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "excretion",
+"is_correct": false
+}
+],
+"answer": "nutrition"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Constituents of food useful for life processes are called what?",
+"options": [
+{
+"option_id": 1,
+"text": "calories",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "nutrients",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "fibre",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "probiotics",
+"is_correct": false
+}
+],
+"answer": "nutrients"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "Our main need fulfilled by carbohydrates is what?",
+"options": [
+{
+"option_id": 1,
+"text": "growth",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "energy",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "repair",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "vitamins",
+"is_correct": false
+}
+],
+"answer": "energy"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "Cereals are our what?",
+"options": [
+{
+"option_id": 1,
+"text": "dessert",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "staple food",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "snack",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "beverage",
+"is_correct": false
+}
+],
+"answer": "staple food"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "Examples of cereals in diet.",
+"options": [
+{
+"option_id": 1,
+"text": "rice, chapatti, bhakri, bread",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "milk, eggs",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "oil, ghee",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "fruits only",
+"is_correct": false
+}
+],
+"answer": "rice, chapatti, bhakri, bread"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "Some energy is fulfilled by fatty foods like what?",
+"options": [
+{
+"option_id": 1,
+"text": "oil, ghee, butter",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "sprouts, meat",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "spinach, apples",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "amla, oranges",
+"is_correct": false
+}
+],
+"answer": "oil, ghee, butter"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Energy from food is measured in what?",
+"options": [
+{
+"option_id": 1,
+"text": "joules",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "kilocalories",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "grams",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "litres",
+"is_correct": false
+}
+],
+"answer": "kilocalories"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "Children need approximately how many calories daily?",
+"options": [
+{
+"option_id": 1,
+"text": "1000 to 1500",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "2000 to 2500",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "3000 to 3500",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "500",
+"is_correct": false
+}
+],
+"answer": "2000 to 2500"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "Proteins are needed for what?",
+"options": [
+{
+"option_id": 1,
+"text": "energy only",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "growth, repairing wear and tear, life processes",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "heat production",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "digestion",
+"is_correct": false
+}
+],
+"answer": "growth, repairing wear and tear, life processes"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "Sources of proteins.",
+"options": [
+{
+"option_id": 1,
+"text": "sprouts, milk products, meat, eggs",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "rice, bread",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "oil, butter",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "cereals only",
+"is_correct": false
+}
+],
+"answer": "sprouts, milk products, meat, eggs"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "Iron carries what to body parts?",
+"options": [
+{
+"option_id": 1,
+"text": "calcium",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "oxygen",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "iodine",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "vitamins",
+"is_correct": false
+}
+],
+"answer": "oxygen"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Deficiency of iron causes what?",
+"options": [
+{
+"option_id": 1,
+"text": "goitre",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "anaemia",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "rickets",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "scurvy",
+"is_correct": false
+}
+],
+"answer": "anaemia"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "Calcium strengthens what?",
+"options": [
+{
+"option_id": 1,
+"text": "nerves",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "bones and teeth",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "skin",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "muscles only",
+"is_correct": false
+}
+],
+"answer": "bones and teeth"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "Deficiency disease of calcium.",
+"options": [
+{
+"option_id": 1,
+"text": "anaemia",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "bad teeth, brittle bones",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "goitre",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "beriberi",
+"is_correct": false
+}
+],
+"answer": "bad teeth, brittle bones"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "Iodine deficiency causes what?",
+"options": [
+{
+"option_id": 1,
+"text": "anaemia",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "goitre",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "scurvy",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "rickets",
+"is_correct": false
+}
+],
+"answer": "goitre"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Vitamins and minerals are needed in small quantities for what?",
+"options": [
+{
+"option_id": 1,
+"text": "energy",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "disease resistance, life processes",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "growth only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "repair",
+"is_correct": false
+}
+],
+"answer": "disease resistance, life processes"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "Main sources of vitamins, minerals, fibre.",
+"options": [
+{
+"option_id": 1,
+"text": "cereals",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "vegetables and fruits",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "fats",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "proteins",
+"is_correct": false
+}
+],
+"answer": "vegetables and fruits"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "Sources of iron.",
+"options": [
+{
+"option_id": 1,
+"text": "meat, spinach, apples, raisins",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "milk, eggs",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "rice, wheat",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "oil, ghee",
+"is_correct": false
+}
+],
+"answer": "meat, spinach, apples, raisins"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "Calcium sources.",
+"options": [
+{
+"option_id": 1,
+"text": "milk, green leafy vegetables, meat",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "fish, raisins",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "oranges, cabbage",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "cereals",
+"is_correct": false
+}
+],
+"answer": "milk, green leafy vegetables, meat"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Iodine sources.",
+"options": [
+{
+"option_id": 1,
+"text": "raisins, beans, fish, sea food",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "spinach, apples",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "milk products",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "butter",
+"is_correct": false
+}
+],
+"answer": "raisins, beans, fish, sea food"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "Sodium and potassium maintain what?",
+"options": [
+{
+"option_id": 1,
+"text": "oxygen transport",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "body water balance, muscle and nervous system",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "bones",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "growth",
+"is_correct": false
+}
+],
+"answer": "body water balance, muscle and nervous system"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "Vitamins B and C are what?",
+"options": [
+{
+"option_id": 1,
+"text": "fat soluble",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "water soluble",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "mineral soluble",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "protein soluble",
+"is_correct": false
+}
+],
+"answer": "water soluble"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Why regular supply of water soluble vitamins needed?",
+"options": [
+{
+"option_id": 1,
+"text": "stored in body",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "thrown out in sweat and urine",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "destroyed by heat",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "not needed daily",
+"is_correct": false
+}
+],
+"answer": "thrown out in sweat and urine"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "Types of Vitamin B.",
+"options": [
+{
+"option_id": 1,
+"text": "B1, B2, B3, B6, B9, B12",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "A, D, E, K",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "C only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "D only",
+"is_correct": false
+}
+],
+"answer": "B1, B2, B3, B6, B9, B12"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Fat soluble vitamins are what?",
+"options": [
+{
+"option_id": 1,
+"text": "A, D, E, K",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "B, C",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "B1 only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "water soluble",
+"is_correct": false
+}
+],
+"answer": "A, D, E, K"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "Vitamin sensitive to heat and light.",
+"options": [
+{
+"option_id": 1,
+"text": "Vitamin A",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Vitamin C",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Vitamin D",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Vitamin K",
+"is_correct": false
+}
+],
+"answer": "Vitamin C"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "Vitamin A protects what?",
+"options": [
+{
+"option_id": 1,
+"text": "bones",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "eyes, skin, bones, teeth",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "nerves",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "heart",
+"is_correct": false
+}
+],
+"answer": "eyes, skin, bones, teeth"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "Vitamin A deficiency disease.",
+"options": [
+{
+"option_id": 1,
+"text": "night blindness",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "scurvy",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "goitre",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "rickets",
+"is_correct": false
+}
+],
+"answer": "night blindness"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Sources of Vitamin A.",
+"options": [
+{
+"option_id": 1,
+"text": "carrot, milk, butter, dark green vegetables",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "amla, oranges",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "meat, eggs",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "cereals",
+"is_correct": false
+}
+],
+"answer": "carrot, milk, butter, dark green vegetables"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Vitamin B1 deficiency.",
+"options": [
+{
+"option_id": 1,
+"text": "beriberi",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "anaemia",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "rickets",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "scurvy",
+"is_correct": false
+}
+],
+"answer": "beriberi"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Vitamin C protects what?",
+"options": [
+{
+"option_id": 1,
+"text": "body tissues, collagen formation for gums, teeth, bones, skin",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "eyes only",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "bones only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "nerves",
+"is_correct": false
+}
+],
+"answer": "body tissues, collagen formation for gums, teeth, bones, skin"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Vitamin C deficiency.",
+"options": [
+{
+"option_id": 1,
+"text": "scurvy",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "night blindness",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "beriberi",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "goitre",
+"is_correct": false
+}
+],
+"answer": "scurvy"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "Sources of Vitamin C.",
+"options": [
+{
+"option_id": 1,
+"text": "amla, kiwi, oranges, cabbage, tomatoes, green leafy vegetables",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "milk, eggs",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "carrots",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "fish",
+"is_correct": false
+}
+],
+"answer": "amla, kiwi, oranges, cabbage, tomatoes, green leafy vegetables"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "Vitamin D is made how in body?",
+"options": [
+{
+"option_id": 1,
+"text": "from diet only",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "on exposure to sunlight",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "from water",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "exercise",
+"is_correct": false
+}
+],
+"answer": "on exposure to sunlight"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Vitamin D deficiency.",
+"options": [
+{
+"option_id": 1,
+"text": "rickets",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "scurvy",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "anaemia",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "beriberi",
+"is_correct": false
+}
+],
+"answer": "rickets"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Vitamin K helps in what?",
+"options": [
+{
+"option_id": 1,
+"text": "clotting of blood",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "energy production",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "growth",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "repair",
+"is_correct": false
+}
+],
+"answer": "clotting of blood"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "Who coined the term vitamine?",
+"options": [
+{
+"option_id": 1,
+"text": "Charles Goodyear",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Casimir Funk",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Isaac Newton",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Alexander Fleming",
+"is_correct": false
+}
+],
+"answer": "Casimir Funk"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Casimir Funk identified substance preventing what?",
+"options": [
+{
+"option_id": 1,
+"text": "rickets",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "beriberi",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "scurvy",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "goitre",
+"is_correct": false
+}
+],
+"answer": "beriberi"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "Probiotics are what?",
+"options": [
+{
+"option_id": 1,
+"text": "harmful microbes",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "useful micro-organisms like in yoghurt",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "vitamins",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "minerals",
+"is_correct": false
+}
+],
+"answer": "useful micro-organisms like in yoghurt"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Where do lakhs of micro-organisms reside?",
+"options": [
+{
+"option_id": 1,
+"text": "skin",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "intestines",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "lungs",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "brain",
+"is_correct": false
+}
+],
+"answer": "intestines"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "Diet with adequate nutrients is called what?",
+"options": [
+{
+"option_id": 1,
+"text": "unbalanced diet",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "balanced diet",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "junk diet",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "malnutrition diet",
+"is_correct": false
+}
+],
+"answer": "balanced diet"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "Significance of balanced diet: increased capacity to what?",
+"options": [
+{
+"option_id": 1,
+"text": "sleep",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "work",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "eat",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "rest",
+"is_correct": false
+}
+],
+"answer": "work"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "Balanced diet provides good what?",
+"options": [
+{
+"option_id": 1,
+"text": "physical and mental health",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "obesity",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "malnutrition",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "adulteration",
+"is_correct": false
+}
+],
+"answer": "physical and mental health"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Food pyramid classifies food into what?",
+"options": [
+{
+"option_id": 1,
+"text": "various groups",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "one group",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "vitamins only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "minerals",
+"is_correct": false
+}
+],
+"answer": "various groups"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Space in pyramid depends on what?",
+"options": [
+{
+"option_id": 1,
+"text": "proportion in diet",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "color",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "taste",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "price",
+"is_correct": false
+}
+],
+"answer": "proportion in diet"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Fibre obtained from what in pyramid diet?",
+"options": [
+{
+"option_id": 1,
+"text": "vegetables, fruits, sprouts, cereals",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "fats only",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "proteins",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "water",
+"is_correct": false
+}
+],
+"answer": "vegetables, fruits, sprouts, cereals"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Malnutrition occurs when what?",
+"options": [
+{
+"option_id": 1,
+"text": "nutrients not in proper proportions",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "too much food",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "balanced diet",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "exercise",
+"is_correct": false
+}
+],
+"answer": "nutrients not in proper proportions"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "List purposes of taking food and water.",
+"answer": "obtaining energy, growth of body, day to day functions, fight diseases"
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "What are nutrients present in different proportions in food?",
+"answer": "carbohydrates, fats, proteins, fibre, vitamins, minerals"
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "Define nutrition.",
+"answer": "process of taking in food and water and using for growth and other purposes"
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "Define nutrients.",
+"answer": "constituents of food useful for life processes"
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "Why large proportion of cereals in diet?",
+"answer": "contain carbohydrates, fulfil energy need"
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Name fatty foods.",
+"answer": "oil, ghee, butter"
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Unit for measuring energy in food.",
+"answer": "kilocalories"
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "Daily calorie need for growing children.",
+"answer": "2000 to 2500 calories"
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "Functions of proteins.",
+"answer": "growth, repairing wear and tear, other life processes"
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "Sources of proteins.",
+"answer": "sprouts, milk and milk products, meat, eggs"
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Function of iron in body.",
+"answer": "carrying oxygen to all parts"
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "Sources of iron.",
+"answer": "meat, spinach, apples, raisins"
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "Deficiency disease of iron.",
+"answer": "anaemia"
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Minerals for bones and teeth.",
+"answer": "calcium and phosphorous"
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "Sources of calcium.",
+"answer": "milk and milk products, green leafy vegetables, meat"
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Deficiency of calcium and phosphorous.",
+"answer": "bad teeth, brittle and weak bones"
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Function of iodine.",
+"answer": "controls growth, speeds chemical reactions"
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Sources of iodine.",
+"answer": "raisins, beans, fish, sea food"
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "Sodium and potassium sources.",
+"answer": "salt, cheese, leafy vegetables, fruits, pulses"
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Water soluble vitamins.",
+"answer": "Vitamin B and C"
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "Why thrown out water soluble vitamins.",
+"answer": "through sweat and urine"
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Important Vitamin B types.",
+"answer": "B1, B2, B3, B6, B9, B12"
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Fat soluble vitamins.",
+"answer": "A, D, E, K"
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Vitamin destroyed during cooking.",
+"answer": "Vitamin C"
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "How to consume Vitamin C rich foods.",
+"answer": "raw"
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Sources of Vitamin A.",
+"answer": "carrot, milk, butter, dark green vegetables, sweet potatoes, deep yellow fruits"
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Vitamin A deficiency diseases.",
+"answer": "night blindness, xeroderma"
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Vitamin B1 sources.",
+"answer": "milk, fish, meat, cereals, nuts, pulses"
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "Vitamin B1 deficiency.",
+"answer": "beriberi, nerve disorder, muscle weakness"
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "Vitamin B9 function.",
+"answer": "growth of body"
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Vitamin B12 function.",
+"answer": "formation of red blood cells"
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Vitamin B9 deficiency.",
+"answer": "improper growth, anaemia, forgetfulness, slow movements"
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "Vitamin C sources.",
+"answer": "amla, kiwi, oranges, citrus fruits, cabbage, tomatoes, green leafy vegetables"
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Vitamin D sources.",
+"answer": "sunlight exposure, milk, fish, eggs, butter"
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Vitamin D function.",
+"answer": "absorbs calcium and phosphorous for healthy bones and teeth"
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Vitamin E functions.",
+"answer": "smooth metabolism, reproduction, muscle efficiency"
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Vitamin K sources.",
+"answer": "green leafy vegetables, green cabbage, broccoli, sprouted pulses, egg yolk"
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "Casimir Funk's contribution.",
+"answer": "identified substance preventing beriberi, named vitamine, linked diseases to vitamin deficiency"
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "What are probiotics?",
+"answer": "useful micro-organisms converting milk to yoghurt, in yoghurt and buttermilk"
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Why take extra probiotics during loose motions?",
+"answer": "restore micro-organisms thrown out with intestinal water"
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Define balanced diet.",
+"answer": "diet containing adequate quantities of all nutrients"
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "Significance of balanced diet.",
+"answer": "increased work capacity, good health, disease resistance, proper growth"
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "What is food pyramid for?",
+"answer": "to choose balanced diet by proportions of food groups"
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Sources of fibre in pyramid diet.",
+"answer": "vegetables, fruits, sprouts, cereals"
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "What body needs along with nutrients?",
+"answer": "adequate supply of water"
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Drinks for water supply.",
+"answer": "milk, buttermilk, lemon juice, sherbets, fruit juices, water"
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "Define malnutrition.",
+"answer": "nutrients not obtained in proper proportions, insufficient food or unbalanced diet"
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "What is overnutrition?",
+"answer": "intake of more food than needed"
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Examples of junk food.",
+"answer": "chocolates, noodles, burgers, pizzas, chips, soft drinks, packaged snacks"
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Why junk food harmful?",
+"answer": "refined flour, sugar, oil; lacks proteins, vitamins, minerals; causes malnutrition, obesity"
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Ways to avoid obesity.",
+"answer": "balanced diet, whole grains, fruits with skins, bicycle, outdoor games, no TV eating"
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "What is adulteration?",
+"answer": "mixing cheaper low quality substances with food for profit"
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Adulterant in milk.",
+"answer": "water, urea, starch"
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Adulterant in chilli powder.",
+"answer": "brick powder, powdered pumpkin"
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Adulterant in pepper corns.",
+"answer": "papaya seeds"
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Adulterant in ice-cream.",
+"answer": "washing soda, paper pulp"
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Adulterant in rice.",
+"answer": "small white stones"
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Adulterant in peanuts.",
+"answer": "reddish pebbles stones"
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Why fibre important?",
+"answer": "prevents trouble if diet lacks it, avoid loss during preparation"
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Best way to good health.",
+"answer": "balanced diet, avoid nutrient deficiency"
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Why brown rice prevents beriberi better?",
+"answer": "contains vitamin unlike fully milled rice"
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Diseases linked by Funk to vitamins.",
+"answer": "scurvy, pellagra, rickets"
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Need for exercise.",
+"answer": "keep fit and healthy along with balanced diet"
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Pyramid base group.",
+"answer": "cereals and pulses"
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Pyramid top group.",
+"answer": "fatty substances oil, ghee, butter"
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Why cereals maximum space in pyramid.",
+"answer": "fulfil energy requirement"
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Nutrients better utilised how?",
+"answer": "met through food eaten"
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Junk food gives what mainly?",
+"answer": "energy, satisfies hunger"
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Refined flour from what loses nutrients?",
+"answer": "wheat"
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Sugar made from what loses nutrients?",
+"answer": "sugarcane"
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Is adulteration a crime?",
+"answer": "yes"
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Effect of adulterated food.",
+"answer": "impure, harmful, unfit for consumption"
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Why avoid junk food frequently?",
+"answer": "leads to shortage of proteins, vitamins, minerals"
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Vitamin B9 sources.",
+"answer": "deep green vegetables, papayas, kiwis"
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Vitamin B12 sources.",
+"answer": "meat, milk products"
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Vitamin E sources.",
+"answer": "wheat germ, green leafy vegetables, vegetable oils"
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "Vitamin D deficiency symptoms.",
+"answer": "softening of bones, pain, fractures"
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Vitamin K deficiency.",
+"answer": "excessive bleeding after injury"
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Role play for what?",
+"answer": "vitamin mineral information"
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Probiotics needed after what?",
+"answer": "medicines that kill them"
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Balanced diet right proportion of what?",
+"answer": "all nutrients"
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Food pyramid helps how?",
+"answer": "choose foods from groups in right proportion daily"
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Trouble without fibre.",
+"answer": "face trouble if not enough from diet"
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Care for fibre.",
+"answer": "not lost or removed from food eaten"
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "Malnutrition causes.",
+"answer": "insufficient food or unbalanced diet"
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Overnutrition definition.",
+"answer": "diet exceeds need"
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Ready fried junk foods.",
+"answer": "wadas, pakodas"
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Avoid precooked foods why?",
+"answer": "to avoid obesity"
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Adulterants unnoticed why?",
+"answer": "remain unnoticed when mixed"
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Do not eat what?",
+"answer": "adulterated foods"
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Pulses source of what?",
+"answer": "proteins"
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Maximum energy from what?",
+"answer": "cereals"
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Goitre mineral deficiency.",
+"answer": "iodine"
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Junk food example.",
+"answer": "chocolate"
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Carbohydrates and fats provide what?",
+"answer": "energy"
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Balanced diet proportion.",
+"answer": "right proportion"
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Cereals fulfil what requirement.",
+"answer": "energy"
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "Excess food causes what?",
+"answer": "overnutrition"
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Nutrient in citrus fruits.",
+"answer": "Vitamin C"
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Night blindness vitamin.",
+"answer": "Vitamin A"
+}
+]
+}

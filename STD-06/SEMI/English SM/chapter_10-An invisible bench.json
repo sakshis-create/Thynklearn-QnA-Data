@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.10",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "An Invisible Bench"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is Aman doing when the skit begins?",
+      "options": [
+        { "option_id": 1, "text": "Running in a hall", "is_correct": false },
+        { "option_id": 2, "text": "Squatting as if sitting on a bench", "is_correct": true },
+        { "option_id": 3, "text": "Painting a real bench", "is_correct": false },
+        { "option_id": 4, "text": "Eating invisible cake", "is_correct": false }
+      ],
+      "answer": "Squatting as if sitting on a bench"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who is the first person to walk up to Aman?",
+      "options": [
+        { "option_id": 1, "text": "Chanda", "is_correct": false },
+        { "option_id": 2, "text": "Farukh", "is_correct": false },
+        { "option_id": 3, "text": "Beena", "is_correct": true },
+        { "option_id": 4, "text": "Dinesh", "is_correct": false }
+      ],
+      "answer": "Beena"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How many children are sitting in a line when Dinesh and Ekta join?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": true },
+        { "option_id": 3, "text": "Four", "is_correct": false },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does Farukh claim to have done with the bench the first time he tricks them?",
+      "options": [
+        { "option_id": 1, "text": "He broke it", "is_correct": false },
+        { "option_id": 2, "text": "He painted it", "is_correct": false },
+        { "option_id": 3, "text": "He moved it over there", "is_correct": true },
+        { "option_id": 4, "text": "He sold it", "is_correct": false }
+      ],
+      "answer": "He moved it over there"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When Farukh says he moved the bench 'yesterday', what is Aman's reply?",
+      "options": [
+        { "option_id": 1, "text": "I moved it back this morning", "is_correct": true },
+        { "option_id": 2, "text": "I don't believe you", "is_correct": false },
+        { "option_id": 3, "text": "Where did you move it?", "is_correct": false },
+        { "option_id": 4, "text": "Oh, no!", "is_correct": false }
+      ],
+      "answer": "I moved it back this morning"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In one round, why do the children yell 'AAAAGH!' and wipe their backsides?",
+      "options": [
+        { "option_id": 1, "text": "They fell down", "is_correct": false },
+        { "option_id": 2, "text": "The bench was dirty", "is_correct": false },
+        { "option_id": 3, "text": "Farukh said he just finished painting it", "is_correct": true },
+        { "option_id": 4, "text": "The bench was invisible", "is_correct": false }
+      ],
+      "answer": "Farukh said he just finished painting it"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How do the children protect themselves from the 'wet paint' later?",
+      "options": [
+        { "option_id": 1, "text": "They use an invisible umbrella", "is_correct": false },
+        { "option_id": 2, "text": "They wear invisible paint suits", "is_correct": true },
+        { "option_id": 3, "text": "They wash the bench", "is_correct": false },
+        { "option_id": 4, "text": "They stand up", "is_correct": false }
+      ],
+      "answer": "They wear invisible paint suits"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What 'invisible' food does Farukh mention at the end?",
+      "options": [
+        { "option_id": 1, "text": "Invisible apples", "is_correct": false },
+        { "option_id": 2, "text": "Invisible mangoes", "is_correct": false },
+        { "option_id": 3, "text": "Invisible cakes", "is_correct": true },
+        { "option_id": 4, "text": "Invisible chocolates", "is_correct": false }
+      ],
+      "answer": "Invisible cakes"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where are the invisible cakes being served?",
+      "options": [
+        { "option_id": 1, "text": "In the garden", "is_correct": false },
+        { "option_id": 2, "text": "In that hall there", "is_correct": true },
+        { "option_id": 3, "text": "At Aman's house", "is_correct": false },
+        { "option_id": 4, "text": "Under the bench", "is_correct": false }
+      ],
+      "answer": "In that hall there"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What do the children do with the invisible bench when they hear about the cakes?",
+      "options": [
+        { "option_id": 1, "text": "They sit on it", "is_correct": false },
+        { "option_id": 2, "text": "They paint it", "is_correct": false },
+        { "option_id": 3, "text": "They throw it down and run", "is_correct": true },
+        { "option_id": 4, "text": "They move it to the hall", "is_correct": false }
+      ],
+      "answer": "They throw it down and run"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT an invisible item mentioned in the pointers?",
+      "options": [
+        { "option_id": 1, "text": "Invisible scissors", "is_correct": false },
+        { "option_id": 2, "text": "Invisible bicycle", "is_correct": true },
+        { "option_id": 3, "text": "Invisible needle and thread", "is_correct": false },
+        { "option_id": 4, "text": "Invisible umbrella", "is_correct": false }
+      ],
+      "answer": "Invisible bicycle"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What action does the student perform with an invisible rope?",
+      "options": [
+        { "option_id": 1, "text": "Climbing", "is_correct": false },
+        { "option_id": 2, "text": "Skipping", "is_correct": true },
+        { "option_id": 3, "text": "Pulling", "is_correct": false },
+        { "option_id": 4, "text": "Cutting", "is_correct": false }
+      ],
+      "answer": "Skipping"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the QR code text on Page 1 of this chapter?",
+      "options": [
+        { "option_id": 1, "text": "X24NVP", "is_correct": false },
+        { "option_id": 2, "text": "X20JXC", "is_correct": true },
+        { "option_id": 3, "text": "Z11ABC", "is_correct": false },
+        { "option_id": 4, "text": "Y99XYZ", "is_correct": false }
+      ],
+      "answer": "X20JXC"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "According to the table, which word goes with 'They'?",
+      "options": [
+        { "option_id": 1, "text": "am", "is_correct": false },
+        { "option_id": 2, "text": "is", "is_correct": false },
+        { "option_id": 3, "text": "are", "is_correct": true },
+        { "option_id": 4, "text": "was", "is_correct": false }
+      ],
+      "answer": "are"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "According to the table, which word goes with 'He'?",
+      "options": [
+        { "option_id": 1, "text": "am", "is_correct": false },
+        { "option_id": 2, "text": "are", "is_correct": false },
+        { "option_id": 3, "text": "is", "is_correct": true },
+        { "option_id": 4, "text": "were", "is_correct": false }
+      ],
+      "answer": "is"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which child joins Aman and Beena after they sit down?",
+      "options": [
+        { "option_id": 1, "text": "Farukh", "is_correct": false },
+        { "option_id": 2, "text": "Chanda", "is_correct": true },
+        { "option_id": 3, "text": "Ekta", "is_correct": false },
+        { "option_id": 4, "text": "Dinesh", "is_correct": false }
+      ],
+      "answer": "Chanda"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What do the children do after unzipping their invisible suits?",
+      "options": [
+        { "option_id": 1, "text": "They throw them away", "is_correct": false },
+        { "option_id": 2, "text": "They fold them", "is_correct": true },
+        { "option_id": 3, "text": "They put on shoes", "is_correct": false },
+        { "option_id": 4, "text": "They go to sleep", "is_correct": false }
+      ],
+      "answer": "They fold them"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who says 'I have another idea'?",
+      "options": [
+        { "option_id": 1, "text": "Aman", "is_correct": false },
+        { "option_id": 2, "text": "Farukh", "is_correct": true },
+        { "option_id": 3, "text": "Beena", "is_correct": false },
+        { "option_id": 4, "text": "Chanda", "is_correct": false }
+      ],
+      "answer": "Farukh"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "In the sentence building table, which word is used with 'Who'?",
+      "options": [
+        { "option_id": 1, "text": "will", "is_correct": true },
+        { "option_id": 2, "text": "am", "is_correct": false },
+        { "option_id": 3, "text": "are", "is_correct": false },
+        { "option_id": 4, "text": "your", "is_correct": false }
+      ],
+      "answer": "will"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the collective action of Aman, Beena, Chanda, Dinesh, and Ekta?",
+      "options": [
+        { "option_id": 1, "text": "They are moving the bench", "is_correct": true },
+        { "option_id": 2, "text": "They are eating cakes", "is_correct": false },
+        { "option_id": 3, "text": "They are painting the wall", "is_correct": false },
+        { "option_id": 4, "text": "They are jumping", "is_correct": false }
+      ],
+      "answer": "They are moving the bench"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does the instruction say to use if you begin a sentence with 'who'?",
+      "options": [
+        { "option_id": 1, "text": "A full stop", "is_correct": false },
+        { "option_id": 2, "text": "A question mark", "is_correct": true },
+        { "option_id": 3, "text": "A comma", "is_correct": false },
+        { "option_id": 4, "text": "An exclamation mark", "is_correct": false }
+      ],
+      "answer": "A question mark"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How many children are on stage initially?",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": true },
+        { "option_id": 2, "text": "2", "is_correct": false },
+        { "option_id": 3, "text": "3", "is_correct": false },
+        { "option_id": 4, "text": "5", "is_correct": false }
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is Farukh doing when he returns each time?",
+      "options": [
+        { "option_id": 1, "text": "Walking away and coming back", "is_correct": true },
+        { "option_id": 2, "text": "Sitting on the bench", "is_correct": false },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Crying", "is_correct": false }
+      ],
+      "answer": "Walking away and coming back"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which grade is mentioned in the sentence building exercise?",
+      "options": [
+        { "option_id": 1, "text": "Standard V", "is_correct": false },
+        { "option_id": 2, "text": "Standard VI", "is_correct": true },
+        { "option_id": 3, "text": "Standard VII", "is_correct": false },
+        { "option_id": 4, "text": "Standard IV", "is_correct": false }
+      ],
+      "answer": "Standard VI"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the phrase 'friendly' describing in the table?",
+      "options": [
+        { "option_id": 1, "text": "The bench", "is_correct": false },
+        { "option_id": 2, "text": "The children/people", "is_correct": true },
+        { "option_id": 3, "text": "The paint", "is_correct": false },
+        { "option_id": 4, "text": "The cake", "is_correct": false }
+      ],
+      "answer": "The children/people"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the name of the skit in Chapter 10?",
+      "answer": "The name of the skit is 'An Invisible Bench'."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What does Aman do to pretend he is sitting on a bench?",
+      "answer": "He squats down as if he is sitting on a bench that is invisible."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What question do all the children ask Aman when they first see him?",
+      "answer": "They ask, 'What are you doing?'"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Who joins Aman after Beena?",
+      "answer": "Chanda walks up and joins them next."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Name the five children who sit in a line first.",
+      "answer": "The five children are Aman, Beena, Chanda, Dinesh, and Ekta."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What does Farukh do the first time he approaches the group?",
+      "answer": "He tells them he moved the bench over there."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What happens to the children when Farukh says he moved the bench?",
+      "answer": "They all fall down."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "When does Farukh claim he moved the bench the second time?",
+      "answer": "He says he moved the bench over there yesterday."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "How does Aman counter Farukh's trick about moving the bench yesterday?",
+      "answer": "Aman says he moved it back this morning."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Does Farukh join the group after his second trick fails?",
+      "answer": "Yes, he asks to join and Aman says sure."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What is Farukh's third trick?",
+      "answer": "He claims he had just finished painting the bench."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "How do the children react to the 'wet paint' trick?",
+      "answer": "They stand up and wipe the imaginary paint off their backsides."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'invisible paint suits'?",
+      "answer": "They allow the children to sit on the 'freshly painted' bench without getting paint on them."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What imaginary action do the children perform with their paint suits?",
+      "answer": "They unzip the front of the suits, step out, and fold them."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What are the children doing just before Farukh mentions cakes?",
+      "answer": "They are pretending to move the invisible bench."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What are 'invisible cakes'?",
+      "answer": "They are imaginary cakes Farukh uses to trick the children into running away."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Why do the children run at the end of the skit?",
+      "answer": "They run to get the invisible cakes being served in the hall."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "List three invisible items suggested in Pointer 3.",
+      "answer": "Three items are invisible pen, invisible paper, and invisible scissors."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Mention two other invisible objects from the list in Pointer 3.",
+      "answer": "Other objects include an invisible umbrella and invisible shoes."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is a student doing with an 'invisible rope'?",
+      "answer": "The student is skipping the invisible rope."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "According to the table, make a sentence starting with 'I'.",
+      "answer": "I am singing."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Make a sentence using 'We' and 'were'.",
+      "answer": "We were in Standard VI."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Make a sentence starting with 'She'.",
+      "answer": "She is our teacher."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Make a sentence about classmates using 'They'.",
+      "answer": "They are her classmates."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Create a question using the word 'Who' from the table.",
+      "answer": "Who will help us?"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What must you include if a sentence starts with 'Who'?",
+      "answer": "You must include a question mark at the end."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does Farukh do after the children run toward the hall?",
+      "answer": "Farukh follows them."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How many children are there in total by the end of the line (excluding Farukh initially)?",
+      "answer": "There are five children: Aman, Beena, Chanda, Dinesh, and Ekta."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does Farukh say when he joins them on the bench?",
+      "answer": "He says, 'Then it's all right. Can I join you?'"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What sound do the children make when they hear the bench is painted?",
+      "answer": "They yell 'AAAAGH!'"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the QR code for this chapter?",
+      "answer": "The QR code is X20JXC."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the page number for the start of the 'An Invisible Bench' skit?",
+      "answer": "The skit starts on page 33."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What do the children do with the imaginary suits after unzipping?",
+      "answer": "They step out and begin to fold the invisible suits."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does Aman say every time they want to restart the trick?",
+      "answer": "He says, 'Let's do that again'."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name two people who walk up together to join the bench.",
+      "answer": "Dinesh and Ekta walk up together."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Is the bench real or imaginary?",
+      "answer": "The bench is invisible and imaginary."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does Farukh say after the children fall down for the first time?",
+      "answer": "He laughs and says 'Ha, ha!'"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What does the pointer say about groups?",
+      "answer": "It suggests discussing imaginary actions in groups of five."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the phrase for 'very friendly' in the table?",
+      "answer": "The table includes the phrase 'very friendly'."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Make a sentence with 'He'.",
+      "answer": "He was singing."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Make a sentence with 'It'.",
+      "answer": "It is very friendly."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Make a sentence with 'You'.",
+      "answer": "You were singing."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What do the children throw down at the end?",
+      "answer": "They throw down the invisible bench."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the last word in the skit before the pointers?",
+      "answer": "The last word is 'follows'."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "In Pointer 4, how many meaningful sentences should you make?",
+      "answer": "You should make at least 10 meaningful sentences."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Name the character who has 'another idea'.",
+      "answer": "Farukh is the character who has another idea."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Where does Farukh point when he says he moved the bench?",
+      "answer": "He points to a different location ('over there')."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is 'invisible wall' an example of?",
+      "answer": "It is an example of an imaginary action/object to use in the skit."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who says 'Sure' to everyone joining the bench?",
+      "answer": "Aman (and later the others) says 'Sure'."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What do the stage directions say about the children's line?",
+      "answer": "They move to one side and sit down forming a line."
+    }
+  ]
+}

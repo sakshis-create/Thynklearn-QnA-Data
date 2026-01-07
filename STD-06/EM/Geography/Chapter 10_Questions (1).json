@@ -1,0 +1,1215 @@
+{
+  "Chapter 10": "Human Occupations",
+  "lessons": [
+    "Meaning of Human Occupations",
+    "Primary Occupations",
+    "Secondary Occupations",
+    "Tertiary Occupations",
+    "Quaternary Occupations",
+    "Classification of Occupations",
+    "Occupations and Economic Development"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which activity shown in picture A directly depends on nature?",
+      "options": [
+        { "option_id": 1, "text": "Transport of milk", "is_correct": false },
+        { "option_id": 2, "text": "Processing of milk", "is_correct": false },
+        { "option_id": 3, "text": "Rearing cows and buffaloes", "is_correct": true },
+        { "option_id": 4, "text": "Selling milk products", "is_correct": false }
+      ],
+      "answer": "Rearing cows and buffaloes"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is being obtained from animals in picture B?",
+      "options": [
+        { "option_id": 1, "text": "Meat", "is_correct": false },
+        { "option_id": 2, "text": "Milk", "is_correct": true },
+        { "option_id": 3, "text": "Leather", "is_correct": false },
+        { "option_id": 4, "text": "Wool", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which activity is taking place at the milk collection centre in picture C?",
+      "options": [
+        { "option_id": 1, "text": "Selling milk products", "is_correct": false },
+        { "option_id": 2, "text": "Testing and collecting milk", "is_correct": true },
+        { "option_id": 3, "text": "Milking animals", "is_correct": false },
+        { "option_id": 4, "text": "Transporting milk", "is_correct": false }
+      ],
+      "answer": "Testing and collecting milk"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is being transported in picture D?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Milk", "is_correct": true },
+        { "option_id": 3, "text": "Milk products", "is_correct": false },
+        { "option_id": 4, "text": "Animal feed", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of the following products is NOT seen in picture E?",
+      "options": [
+        { "option_id": 1, "text": "Butter", "is_correct": false },
+        { "option_id": 2, "text": "Cheese", "is_correct": false },
+        { "option_id": 3, "text": "Milk powder", "is_correct": false },
+        { "option_id": 4, "text": "Raw milk", "is_correct": true }
+      ],
+      "answer": "Raw milk"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "From which raw material are shrikhand, butter and cheese made?",
+      "options": [
+        { "option_id": 1, "text": "Curd", "is_correct": false },
+        { "option_id": 2, "text": "Milk", "is_correct": true },
+        { "option_id": 3, "text": "Cream only", "is_correct": false },
+        { "option_id": 4, "text": "Animal fat", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which activity shown in picture F represents a service?",
+      "options": [
+        { "option_id": 1, "text": "Processing milk", "is_correct": false },
+        { "option_id": 2, "text": "Selling milk products", "is_correct": true },
+        { "option_id": 3, "text": "Milking animals", "is_correct": false },
+        { "option_id": 4, "text": "Testing milk", "is_correct": false }
+      ],
+      "answer": "Selling milk products"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which type of occupation is animal husbandry?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": true },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": false }
+      ],
+      "answer": "Primary"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why is animal husbandry classified as a primary occupation?",
+      "options": [
+        { "option_id": 1, "text": "It provides services", "is_correct": false },
+        { "option_id": 2, "text": "It produces durable goods", "is_correct": false },
+        { "option_id": 3, "text": "It depends directly on nature", "is_correct": true },
+        { "option_id": 4, "text": "It involves skilled labour", "is_correct": false }
+      ],
+      "answer": "It depends directly on nature"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What happens to milk in the dairy shown in picture E?",
+      "options": [
+        { "option_id": 1, "text": "It is sold directly", "is_correct": false },
+        { "option_id": 2, "text": "It is processed into other products", "is_correct": true },
+        { "option_id": 3, "text": "It is transported back to farms", "is_correct": false },
+        { "option_id": 4, "text": "It is stored without processing", "is_correct": false }
+      ],
+      "answer": "It is processed into other products"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which occupation involves processing raw materials into finished goods?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": true },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": false }
+      ],
+      "answer": "Secondary"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of a secondary occupation from the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Milking cows", "is_correct": false },
+        { "option_id": 2, "text": "Making butter and cheese", "is_correct": true },
+        { "option_id": 3, "text": "Transporting milk", "is_correct": false },
+        { "option_id": 4, "text": "Selling milk", "is_correct": false }
+      ],
+      "answer": "Making butter and cheese"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why are milk products costlier than milk?",
+      "options": [
+        { "option_id": 1, "text": "They weigh more", "is_correct": false },
+        { "option_id": 2, "text": "They spoil faster", "is_correct": false },
+        { "option_id": 3, "text": "They are processed and more durable", "is_correct": true },
+        { "option_id": 4, "text": "They are sold in shops", "is_correct": false }
+      ],
+      "answer": "They are processed and more durable"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which type of occupation includes transport and sale of goods?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": true },
+        { "option_id": 4, "text": "Quaternary", "is_correct": false }
+      ],
+      "answer": "Tertiary"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which activity shown in pictures C and D belongs to tertiary occupations?",
+      "options": [
+        { "option_id": 1, "text": "Milking animals", "is_correct": false },
+        { "option_id": 2, "text": "Processing milk", "is_correct": false },
+        { "option_id": 3, "text": "Collection and transport of milk", "is_correct": true },
+        { "option_id": 4, "text": "Testing milk products", "is_correct": false }
+      ],
+      "answer": "Collection and transport of milk"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Why are tertiary occupations also called service occupations?",
+      "options": [
+        { "option_id": 1, "text": "They produce raw materials", "is_correct": false },
+        { "option_id": 2, "text": "They process raw materials", "is_correct": false },
+        { "option_id": 3, "text": "They provide services to other occupations", "is_correct": true },
+        { "option_id": 4, "text": "They depend on nature", "is_correct": false }
+      ],
+      "answer": "They provide services to other occupations"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which activity shown in picture E requires special skills?",
+      "options": [
+        { "option_id": 1, "text": "Packing products", "is_correct": false },
+        { "option_id": 2, "text": "Quality testing of milk products", "is_correct": true },
+        { "option_id": 3, "text": "Selling products", "is_correct": false },
+        { "option_id": 4, "text": "Transporting milk", "is_correct": false }
+      ],
+      "answer": "Quality testing of milk products"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What type of occupation requires special expertise and skills?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": true }
+      ],
+      "answer": "Quaternary"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which of the following is a quaternary occupation mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Milk seller", "is_correct": false },
+        { "option_id": 2, "text": "Truck driver", "is_correct": false },
+        { "option_id": 3, "text": "Quality inspector of products", "is_correct": true },
+        { "option_id": 4, "text": "Dairy farmer", "is_correct": false }
+      ],
+      "answer": "Quality inspector of products"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which occupation is NOT directly related to primary or secondary activities?",
+      "options": [
+        { "option_id": 1, "text": "Driver", "is_correct": false },
+        { "option_id": 2, "text": "Knife grinder", "is_correct": false },
+        { "option_id": 3, "text": "Policeman", "is_correct": false },
+        { "option_id": 4, "text": "All of the above", "is_correct": true }
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which raw material is used in the sugar industry shown in figure 10.2?",
+      "options": [
+        { "option_id": 1, "text": "Wheat", "is_correct": false },
+        { "option_id": 2, "text": "Sugarcane", "is_correct": true },
+        { "option_id": 3, "text": "Rice", "is_correct": false },
+        { "option_id": 4, "text": "Maize", "is_correct": false }
+      ],
+      "answer": "Sugarcane"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which activity in figure 10.2 represents a primary occupation?",
+      "options": [
+        { "option_id": 1, "text": "Processing sugarcane juice", "is_correct": false },
+        { "option_id": 2, "text": "Harvesting sugarcane", "is_correct": true },
+        { "option_id": 3, "text": "Selling sugar", "is_correct": false },
+        { "option_id": 4, "text": "Transporting sugar", "is_correct": false }
+      ],
+      "answer": "Harvesting sugarcane"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which activity in sugar production is a secondary occupation?",
+      "options": [
+        { "option_id": 1, "text": "Sugarcane cultivation", "is_correct": false },
+        { "option_id": 2, "text": "Processing sugarcane juice", "is_correct": true },
+        { "option_id": 3, "text": "Transport of sugarcane", "is_correct": false },
+        { "option_id": 4, "text": "Sale of sugar", "is_correct": false }
+      ],
+      "answer": "Processing sugarcane juice"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which activity in sugar production belongs to tertiary occupations?",
+      "options": [
+        { "option_id": 1, "text": "Harvesting sugarcane", "is_correct": false },
+        { "option_id": 2, "text": "Inspection of machinery", "is_correct": false },
+        { "option_id": 3, "text": "Transport of sugarcane", "is_correct": true },
+        { "option_id": 4, "text": "Processing juice", "is_correct": false }
+      ],
+      "answer": "Transport of sugarcane"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Inspection and maintenance of machinery is an example of which occupation?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": true }
+      ],
+      "answer": "Quaternary"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which occupation chain ends with sale of sugar?",
+      "options": [
+        { "option_id": 1, "text": "Primary only", "is_correct": false },
+        { "option_id": 2, "text": "Primary and secondary only", "is_correct": false },
+        { "option_id": 3, "text": "Primary to tertiary", "is_correct": true },
+        { "option_id": 4, "text": "Primary to quaternary only", "is_correct": false }
+      ],
+      "answer": "Primary to tertiary"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Countries with more manpower in tertiary occupations are considered:",
+      "options": [
+        { "option_id": 1, "text": "Underdeveloped", "is_correct": false },
+        { "option_id": 2, "text": "Developing", "is_correct": false },
+        { "option_id": 3, "text": "Developed", "is_correct": true },
+        { "option_id": 4, "text": "Agricultural", "is_correct": false }
+      ],
+      "answer": "Developed"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Countries with more manpower in primary occupations are considered:",
+      "options": [
+        { "option_id": 1, "text": "Developed", "is_correct": false },
+        { "option_id": 2, "text": "Developing", "is_correct": true },
+        { "option_id": 3, "text": "Industrialized", "is_correct": false },
+        { "option_id": 4, "text": "Service-based", "is_correct": false }
+      ],
+      "answer": "Developing"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which country shown has more manpower engaged in primary occupations?",
+      "options": [
+        { "option_id": 1, "text": "Turkey", "is_correct": false },
+        { "option_id": 2, "text": "United Arab Emirates", "is_correct": false },
+        { "option_id": 3, "text": "Bangladesh", "is_correct": true },
+        { "option_id": 4, "text": "All are equal", "is_correct": false }
+      ],
+      "answer": "Bangladesh"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which country has maximum manpower in tertiary occupations?",
+      "options": [
+        { "option_id": 1, "text": "Bangladesh", "is_correct": false },
+        { "option_id": 2, "text": "Turkey", "is_correct": false },
+        { "option_id": 3, "text": "United Arab Emirates", "is_correct": true },
+        { "option_id": 4, "text": "All three", "is_correct": false }
+      ],
+      "answer": "United Arab Emirates"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which country shows almost equal distribution of manpower in all occupations?",
+      "options": [
+        { "option_id": 1, "text": "Bangladesh", "is_correct": false },
+        { "option_id": 2, "text": "Turkey", "is_correct": true },
+        { "option_id": 3, "text": "UAE", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Turkey"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Economic transactions through occupations decide a country’s:",
+      "options": [
+        { "option_id": 1, "text": "Population", "is_correct": false },
+        { "option_id": 2, "text": "Climate", "is_correct": false },
+        { "option_id": 3, "text": "Production and income", "is_correct": true },
+        { "option_id": 4, "text": "Relief features", "is_correct": false }
+      ],
+      "answer": "Production and income"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which factor directly affects occupations?",
+      "options": [
+        { "option_id": 1, "text": "Natural factors", "is_correct": false },
+        { "option_id": 2, "text": "Human factors", "is_correct": false },
+        { "option_id": 3, "text": "Both natural and human factors", "is_correct": true },
+        { "option_id": 4, "text": "Political factors only", "is_correct": false }
+      ],
+      "answer": "Both natural and human factors"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which natural event can severely affect occupations?",
+      "options": [
+        { "option_id": 1, "text": "Festival", "is_correct": false },
+        { "option_id": 2, "text": "Drought", "is_correct": true },
+        { "option_id": 3, "text": "Election", "is_correct": false },
+        { "option_id": 4, "text": "Market day", "is_correct": false }
+      ],
+      "answer": "Drought"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which occupation type determines a person’s income?",
+      "options": [
+        { "option_id": 1, "text": "Type of land", "is_correct": false },
+        { "option_id": 2, "text": "Type of occupation", "is_correct": true },
+        { "option_id": 3, "text": "Type of climate", "is_correct": false },
+        { "option_id": 4, "text": "Type of crop", "is_correct": false }
+      ],
+      "answer": "Type of occupation"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Serving as a bus conductor is an example of:",
+      "options": [
+        { "option_id": 1, "text": "Primary occupation", "is_correct": false },
+        { "option_id": 2, "text": "Secondary occupation", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary occupation", "is_correct": true },
+        { "option_id": 4, "text": "Quaternary occupation", "is_correct": false }
+      ],
+      "answer": "Tertiary occupation"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "In tropical areas, which occupations are mainly seen?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": true },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": false }
+      ],
+      "answer": "Primary"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Selling papads and pickles is an example of which occupation?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": true },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": false }
+      ],
+      "answer": "Secondary"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which occupation is not commonly seen according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": true }
+      ],
+      "answer": "Quaternary"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which occupation examines patients when they fall ill?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": true }
+      ],
+      "answer": "Quaternary"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which occupation checks examination papers?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": true }
+      ],
+      "answer": "Quaternary"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which occupation prepares designs of buildings?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": true }
+      ],
+      "answer": "Quaternary"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which occupation produces machines?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": true },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": false }
+      ],
+      "answer": "Secondary"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which occupation looks after maintenance and repairs of machines?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Quaternary", "is_correct": true },
+        { "option_id": 4, "text": "Primary", "is_correct": false }
+      ],
+      "answer": "Quaternary"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which factor links occupations with country’s development?",
+      "options": [
+        { "option_id": 1, "text": "Manpower distribution", "is_correct": true },
+        { "option_id": 2, "text": "Climate only", "is_correct": false },
+        { "option_id": 3, "text": "Relief only", "is_correct": false },
+        { "option_id": 4, "text": "Population only", "is_correct": false }
+      ],
+      "answer": "Manpower distribution"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which occupation chain shows dependence on nature at the first stage?",
+      "options": [
+        { "option_id": 1, "text": "Secondary", "is_correct": false },
+        { "option_id": 2, "text": "Tertiary", "is_correct": false },
+        { "option_id": 3, "text": "Primary", "is_correct": true },
+        { "option_id": 4, "text": "Quaternary", "is_correct": false }
+      ],
+      "answer": "Primary"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which occupation supplies raw material to industries?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": true },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": false }
+      ],
+      "answer": "Primary"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which occupation increases durability and quality of goods?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": true },
+        { "option_id": 3, "text": "Tertiary", "is_correct": false },
+        { "option_id": 4, "text": "Quaternary", "is_correct": false }
+      ],
+      "answer": "Secondary"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which occupation connects producers and consumers?",
+      "options": [
+        { "option_id": 1, "text": "Primary", "is_correct": false },
+        { "option_id": 2, "text": "Secondary", "is_correct": false },
+        { "option_id": 3, "text": "Tertiary", "is_correct": true },
+        { "option_id": 4, "text": "Quaternary", "is_correct": false }
+      ],
+      "answer": "Tertiary"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which statement best explains human occupations?",
+      "options": [
+        { "option_id": 1, "text": "They are only industrial activities", "is_correct": false },
+        { "option_id": 2, "text": "They are activities undertaken to satisfy human needs", "is_correct": true },
+        { "option_id": 3, "text": "They are unrelated to nature", "is_correct": false },
+        { "option_id": 4, "text": "They are the same everywhere", "is_correct": false }
+      ],
+      "answer": "They are activities undertaken to satisfy human needs"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is meant by human occupation?",
+      "answer": "Human occupation refers to the activities undertaken by people to earn a living and satisfy their needs."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why do humans engage in different occupations?",
+      "answer": "Humans engage in different occupations to fulfill basic needs like food, clothing and shelter."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a primary occupation?",
+      "answer": "Primary occupations are activities that depend directly on natural resources."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "State two examples of primary occupations.",
+      "answer": "Agriculture and animal husbandry are examples of primary occupations."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is agriculture classified as a primary occupation?",
+      "answer": "Agriculture depends directly on land, water and climate."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is a secondary occupation?",
+      "answer": "Secondary occupations involve processing raw materials into finished or semi-finished goods."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Give two examples of secondary occupations.",
+      "answer": "Sugar manufacturing and dairy product processing are secondary occupations."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why are processed goods more durable than raw materials?",
+      "answer": "Processing increases shelf life and improves quality of goods."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is meant by tertiary occupation?",
+      "answer": "Tertiary occupations provide services that support primary and secondary activities."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "State two examples of tertiary occupations.",
+      "answer": "Transport services and selling of goods are tertiary occupations."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why are tertiary occupations also called service occupations?",
+      "answer": "They provide services instead of producing goods."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is a quaternary occupation?",
+      "answer": "Quaternary occupations require special skills, expertise and knowledge."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Give two examples of quaternary occupations.",
+      "answer": "Doctors and engineers are examples of quaternary occupations."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why are quaternary occupations less common?",
+      "answer": "They require higher education, training and specialized skills."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How are different occupations linked with each other?",
+      "answer": "Primary occupations supply raw materials, secondary process them and tertiary distribute them."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Explain the occupation chain with the example of milk.",
+      "answer": "Milk is produced through animal husbandry, processed into products and then transported and sold."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What role do secondary occupations play in the economy?",
+      "answer": "They add value to raw materials and generate employment."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How do tertiary occupations help consumers?",
+      "answer": "They make goods available to consumers through transport and trade."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why is inspection and maintenance considered a quaternary occupation?",
+      "answer": "It requires technical knowledge and specialized skills."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What factors affect the type of occupations in a region?",
+      "answer": "Natural conditions, population, technology and economic development affect occupations."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How do natural factors influence occupations?",
+      "answer": "Climate, soil and relief determine availability of natural resources."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "How do human factors influence occupations?",
+      "answer": "Education, skills, technology and capital influence occupational patterns."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why are primary occupations dominant in tropical regions?",
+      "answer": "Favorable climate supports agriculture and other nature-based activities."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why are tertiary occupations dominant in developed countries?",
+      "answer": "Developed countries have advanced industries and service sectors."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How does manpower distribution reflect economic development?",
+      "answer": "Higher proportion in tertiary and quaternary sectors indicates development."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why are developing countries dependent on primary occupations?",
+      "answer": "They rely more on natural resources and have limited industrialization."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the relationship between occupation and income?",
+      "answer": "Type of occupation largely determines the income level of individuals."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How does drought affect primary occupations?",
+      "answer": "It reduces agricultural output and affects livelihoods dependent on nature."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why are secondary occupations less dependent on nature?",
+      "answer": "They mainly rely on raw materials and machinery."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What role does transport play in occupations?",
+      "answer": "Transport connects production centres with markets."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why are occupations important for a country’s economy?",
+      "answer": "They generate income, employment and economic growth."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How does industrial growth affect occupational structure?",
+      "answer": "It increases secondary and tertiary occupations."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why do service occupations increase with urbanization?",
+      "answer": "Urban areas require transport, trade, health and education services."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is meant by economic activity?",
+      "answer": "Economic activity refers to work done to earn income."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How do occupations help in satisfying human needs?",
+      "answer": "They provide goods and services required for daily life."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is skill development important for occupations?",
+      "answer": "Skills improve efficiency, productivity and income."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How does technology change occupational patterns?",
+      "answer": "Technology creates new occupations and reduces dependence on manual labour."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why are quaternary occupations increasing gradually?",
+      "answer": "Growth in education and technology increases demand for skilled professionals."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How does education influence occupation choice?",
+      "answer": "Education provides skills required for specialized occupations."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the importance of occupation chains?",
+      "answer": "They show interdependence of different types of occupations."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why is selling considered a tertiary occupation?",
+      "answer": "Selling provides service by making goods available to consumers."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "How do occupations vary from place to place?",
+      "answer": "They vary due to differences in natural and human conditions."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why are certain occupations seasonal?",
+      "answer": "They depend on climate and availability of natural resources."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How do occupations influence lifestyle?",
+      "answer": "Income and work conditions affect standard of living."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why are occupations linked to social status?",
+      "answer": "Income and skills associated with occupations affect social position."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How does mechanization affect primary occupations?",
+      "answer": "It reduces labour requirement and increases productivity."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is diversification of occupations important?",
+      "answer": "It provides economic stability and employment opportunities."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How do occupations contribute to national income?",
+      "answer": "Economic activities generate income for individuals and the country."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is occupation considered a means of livelihood?",
+      "answer": "It provides income required to meet daily needs."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "State the central idea of the chapter Human Occupations.",
+      "answer": "Human occupations are interconnected activities that support livelihood and economic development."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Explain why human occupations are essential for the survival of society.",
+      "answer": "Human occupations provide goods and services necessary to satisfy basic needs like food, clothing and shelter."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does dependence on nature make primary occupations vulnerable?",
+      "answer": "Primary occupations depend on climate and natural conditions, making them vulnerable to droughts and floods."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why do secondary occupations add economic value to raw materials?",
+      "answer": "Processing increases usefulness, durability and market value of raw materials."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How does industrialization influence the growth of secondary occupations?",
+      "answer": "Industrialization increases factories and processing units, expanding secondary occupations."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Explain how tertiary occupations support both producers and consumers.",
+      "answer": "They transport, store and sell goods, connecting producers with consumers."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why are tertiary occupations crucial in urban areas?",
+      "answer": "Urban areas require extensive services like transport, trade, health and education."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How do quaternary occupations reflect advancement in society?",
+      "answer": "They require higher education, specialized skills and advanced knowledge."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why is the proportion of quaternary occupations low compared to other types?",
+      "answer": "They require high qualifications and specialized training, limiting participation."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Explain the interdependence among primary, secondary and tertiary occupations.",
+      "answer": "Primary supplies raw materials, secondary processes them and tertiary distributes finished goods."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How does the milk occupation chain demonstrate economic linkage?",
+      "answer": "Milk production, processing, transport and sale show connected occupational stages."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why does a shift from primary to tertiary occupations indicate development?",
+      "answer": "It shows reduced dependence on nature and growth of services and industries."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How does manpower distribution help compare countries’ development levels?",
+      "answer": "Higher tertiary and quaternary workforce indicates greater economic development."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why are developing countries dominated by primary occupations?",
+      "answer": "They depend more on natural resources and have limited industrial growth."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Explain how technology changes occupational structure.",
+      "answer": "Technology reduces manual work and increases skilled and service-based occupations."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "How does education influence the rise of quaternary occupations?",
+      "answer": "Education provides specialized knowledge required for skilled professions."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why do natural disasters mainly affect primary occupations?",
+      "answer": "Primary occupations rely directly on natural conditions and resources."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "How does diversification of occupations reduce economic risk?",
+      "answer": "Multiple occupations provide alternative income sources during adverse conditions."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Explain why processed goods are usually more expensive than raw goods.",
+      "answer": "Processing involves labour, technology and time, increasing cost and value."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "How do service occupations improve quality of life?",
+      "answer": "They provide essential services like healthcare, education and transport."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why is transport considered a backbone of tertiary occupations?",
+      "answer": "Transport enables movement of goods and services between producers and consumers."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Explain how urbanization increases demand for tertiary occupations.",
+      "answer": "Urban lifestyles require more services such as trade, banking and healthcare."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How does mechanization affect employment in primary occupations?",
+      "answer": "It reduces manual labour but increases efficiency and productivity."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is skill development essential in modern occupational patterns?",
+      "answer": "Modern occupations require technical and specialized skills."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How does occupation determine a person’s standard of living?",
+      "answer": "Income level and job stability influence lifestyle and living conditions."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Explain how occupations contribute to national income.",
+      "answer": "Economic activities generate income, taxes and employment for the country."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why are service occupations expanding faster than primary occupations?",
+      "answer": "Economic growth and urbanization increase demand for services."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How does climate influence occupational distribution?",
+      "answer": "Climate affects agriculture and availability of natural resources."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Explain why occupation chains show economic interdependence.",
+      "answer": "Each occupation depends on the output of another to function."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "How does globalization affect occupational patterns?",
+      "answer": "It increases service, industrial and knowledge-based occupations."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why are quaternary occupations important for future development?",
+      "answer": "They drive innovation, research and advanced services."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Explain how occupational change reflects social progress.",
+      "answer": "Shift to skilled and service jobs indicates improved education and technology."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why is balance among different occupations necessary?",
+      "answer": "Balanced occupations ensure stable supply of goods and services."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "How does rural development affect occupational structure?",
+      "answer": "It introduces secondary and tertiary occupations in rural areas."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Explain why primary occupations alone cannot support modern economies.",
+      "answer": "Modern economies require processing and services for development."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "How does occupation influence migration?",
+      "answer": "People migrate in search of better employment opportunities."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why do service occupations grow with population increase?",
+      "answer": "Larger population requires more services like health and transport."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Explain the role of women in occupational diversification.",
+      "answer": "Women participate in various sectors, expanding economic activities."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How does occupational mobility benefit individuals?",
+      "answer": "It allows people to shift to better jobs and improve income."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is planning important for occupational development?",
+      "answer": "Planning ensures balanced growth and employment generation."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "How do occupations influence social structure?",
+      "answer": "Income and skills associated with occupations affect social status."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Explain how occupational specialization improves efficiency.",
+      "answer": "Specialization increases skill and productivity in specific tasks."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why is employment diversification necessary for youth?",
+      "answer": "It provides varied career opportunities and reduces unemployment."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "How does infrastructure support occupational growth?",
+      "answer": "Infrastructure enables transport, communication and industrial activities."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Explain the relationship between occupations and economic stability.",
+      "answer": "Diverse occupations ensure continuous income and stability."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is skill-based employment important in the modern economy?",
+      "answer": "It supports technological advancement and productivity."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How does occupational structure reflect regional development?",
+      "answer": "Advanced regions show higher tertiary and quaternary employment."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Explain why service sector growth is linked to urban lifestyle.",
+      "answer": "Urban lifestyles demand education, health, trade and transport services."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How does occupational choice affect economic mobility?",
+      "answer": "Better occupations offer higher income and upward mobility."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is understanding occupations important for economic planning?",
+      "answer": "It helps allocate resources and plan employment strategies."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "State the core message of the chapter Human Occupations.",
+      "answer": "Human occupations are interconnected activities that drive livelihood and economic development."
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.13",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "How Glass is Made"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the primary raw material used to make glass?",
+      "options": [
+        { "option_id": 1, "text": "Wood", "is_correct": false },
+        { "option_id": 2, "text": "Plastic", "is_correct": false },
+        { "option_id": 3, "text": "Sand", "is_correct": true },
+        { "option_id": 4, "text": "Metal", "is_correct": false }
+      ],
+      "answer": "Sand"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which chemicals are mixed with sand to make glass?",
+      "options": [
+        { "option_id": 1, "text": "Salt and sugar", "is_correct": false },
+        { "option_id": 2, "text": "Soda and lime", "is_correct": true },
+        { "option_id": 3, "text": "Oxygen and nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Oil and water", "is_correct": false }
+      ],
+      "answer": "Soda and lime"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What happens to the mixture when it is heated in a furnace?",
+      "options": [
+        { "option_id": 1, "text": "It turns into gas", "is_correct": false },
+        { "option_id": 2, "text": "It turns into hot, liquid glass", "is_correct": true },
+        { "option_id": 3, "text": "It becomes solid immediately", "is_correct": false },
+        { "option_id": 4, "text": "It disappears", "is_correct": false }
+      ],
+      "answer": "It turns into hot, liquid glass"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the property of glass that means it breaks easily?",
+      "options": [
+        { "option_id": 1, "text": "Flexible", "is_correct": false },
+        { "option_id": 2, "text": "Strong", "is_correct": false },
+        { "option_id": 3, "text": "Brittle", "is_correct": true },
+        { "option_id": 4, "text": "Opaque", "is_correct": false }
+      ],
+      "answer": "Brittle"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When must glass be shaped?",
+      "options": [
+        { "option_id": 1, "text": "When it is cold and hard", "is_correct": false },
+        { "option_id": 2, "text": "When it is still hot and soft", "is_correct": true },
+        { "option_id": 3, "text": "After it is sold", "is_correct": false },
+        { "option_id": 4, "text": "When it is in sand form", "is_correct": false }
+      ],
+      "answer": "When it is still hot and soft"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does 'impermeable' mean in relation to glass?",
+      "options": [
+        { "option_id": 1, "text": "It can be seen through", "is_correct": false },
+        { "option_id": 2, "text": "It breaks easily", "is_correct": false },
+        { "option_id": 3, "text": "It does not allow liquids to pass through", "is_correct": true },
+        { "option_id": 4, "text": "It is very expensive", "is_correct": false }
+      ],
+      "answer": "It does not allow liquids to pass through"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Glass has no effect on the taste of food because it does not ______ any smell or taste.",
+      "options": [
+        { "option_id": 1, "text": "Absorb", "is_correct": false },
+        { "option_id": 2, "text": "Impart", "is_correct": true },
+        { "option_id": 3, "text": "Change", "is_correct": false },
+        { "option_id": 4, "text": "Destroy", "is_correct": false }
+      ],
+      "answer": "Impart"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How much of glass is recyclable?",
+      "options": [
+        { "option_id": 1, "text": "10%", "is_correct": false },
+        { "option_id": 2, "text": "50%", "is_correct": false },
+        { "option_id": 3, "text": "100%", "is_correct": true },
+        { "option_id": 4, "text": "0%", "is_correct": false }
+      ],
+      "answer": "100%"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Recycling one glass bottle saves enough energy to power a TV for how long?",
+      "options": [
+        { "option_id": 1, "text": "5 minutes", "is_correct": false },
+        { "option_id": 2, "text": "20 minutes", "is_correct": true },
+        { "option_id": 3, "text": "1 hour", "is_correct": false },
+        { "option_id": 4, "text": "24 hours", "is_correct": false }
+      ],
+      "answer": "20 minutes"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Where are 'stained glass windows' mostly seen?",
+      "options": [
+        { "option_id": 1, "text": "Factories", "is_correct": false },
+        { "option_id": 2, "text": "Churches", "is_correct": true },
+        { "option_id": 3, "text": "Schools", "is_correct": false },
+        { "option_id": 4, "text": "Offices", "is_correct": false }
+      ],
+      "answer": "Churches"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is molten glass floated on to make flat sheets of even thickness?",
+      "options": [
+        { "option_id": 1, "text": "A bed of water", "is_correct": false },
+        { "option_id": 2, "text": "A bed of molten metal", "is_correct": true },
+        { "option_id": 3, "text": "A wooden board", "is_correct": false },
+        { "option_id": 4, "text": "A plastic sheet", "is_correct": false }
+      ],
+      "answer": "A bed of molten metal"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these can be made from hot liquid glass?",
+      "options": [
+        { "option_id": 1, "text": "Glass wool", "is_correct": true },
+        { "option_id": 2, "text": "Paper", "is_correct": false },
+        { "option_id": 3, "text": "Plastic bottles", "is_correct": false },
+        { "option_id": 4, "text": "Wooden chairs", "is_correct": false }
+      ],
+      "answer": "Glass wool"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "According to the text, what can be used to produce coloured glass?",
+      "options": [
+        { "option_id": 1, "text": "Food coloring", "is_correct": false },
+        { "option_id": 2, "text": "Different combinations of chemicals", "is_correct": true },
+        { "option_id": 3, "text": "Painting it after it cools", "is_correct": false },
+        { "option_id": 4, "text": "Sunlight", "is_correct": false }
+      ],
+      "answer": "Different combinations of chemicals"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Words that show action are known as ______.",
+      "options": [
+        { "option_id": 1, "text": "Nouns", "is_correct": false },
+        { "option_id": 2, "text": "Verbs", "is_correct": true },
+        { "option_id": 3, "text": "Adjectives", "is_correct": false },
+        { "option_id": 4, "text": "Pronouns", "is_correct": false }
+      ],
+      "answer": "Verbs"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "In the sentence 'She was tired', the verb describes a ______.",
+      "options": [
+        { "option_id": 1, "text": "Action", "is_correct": false },
+        { "option_id": 2, "text": "State", "is_correct": true },
+        { "option_id": 3, "text": "Object", "is_correct": false },
+        { "option_id": 4, "text": "Place", "is_correct": false }
+      ],
+      "answer": "State"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the QR code for Chapter 13?",
+      "options": [
+        { "option_id": 1, "text": "X36830", "is_correct": true },
+        { "option_id": 2, "text": "X2ACIN", "is_correct": false },
+        { "option_id": 3, "text": "Z12XYZ", "is_correct": false },
+        { "option_id": 4, "text": "A1B2C3", "is_correct": false }
+      ],
+      "answer": "X36830"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Recycling glass is ______ than making new glass from raw materials.",
+      "options": [
+        { "option_id": 1, "text": "More expensive", "is_correct": false },
+        { "option_id": 2, "text": "Much cheaper", "is_correct": true },
+        { "option_id": 3, "text": "Harder", "is_correct": false },
+        { "option_id": 4, "text": "Slower", "is_correct": false }
+      ],
+      "answer": "Much cheaper"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Glass that can be seen through is called ______.",
+      "options": [
+        { "option_id": 1, "text": "Opaque", "is_correct": false },
+        { "option_id": 2, "text": "Transparent", "is_correct": true },
+        { "option_id": 3, "text": "Solid", "is_correct": false },
+        { "option_id": 4, "text": "Hard", "is_correct": false }
+      ],
+      "answer": "Transparent"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Gobs of hot liquid glass can be ______ into bottles.",
+      "options": [
+        { "option_id": 1, "text": "Smashed", "is_correct": false },
+        { "option_id": 2, "text": "Blown", "is_correct": true },
+        { "option_id": 3, "text": "Burnt", "is_correct": false },
+        { "option_id": 4, "text": "Dried", "is_correct": false }
+      ],
+      "answer": "Blown"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why is glass used to make so many things?",
+      "options": [
+        { "option_id": 1, "text": "It is beautiful and useful", "is_correct": true },
+        { "option_id": 2, "text": "It is very soft", "is_correct": false },
+        { "option_id": 3, "text": "It is made of wood", "is_correct": false },
+        { "option_id": 4, "text": "It is always blue", "is_correct": false }
+      ],
+      "answer": "It is beautiful and useful"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is glass made from?",
+      "answer": "Glass is made from sand."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Name three chemicals used in making glass.",
+      "answer": "The chemicals used are sand, soda, and lime."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What happens when hot liquid glass cools down?",
+      "answer": "When it cools down, it becomes stiff and hard."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Why is it not possible to shape glass once it is cold?",
+      "answer": "It is not possible to shape it because it becomes cold, stiff, and hard."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does 'brittle' mean?",
+      "answer": "Brittle means that a material breaks easily."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "List four things you can do with hot liquid glass to shape it.",
+      "answer": "You can pour it, mould it, roll it, press it, or even blow it."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "How are flat sheets of even thickness made?",
+      "answer": "They are made by floating molten glass on a bed of molten metal."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What are thin fibres made of glass called?",
+      "answer": "They are called glass wool."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Mention two properties of glass mentioned in the text.",
+      "answer": "Glass is transparent and strong."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why doesn't glass get soggy?",
+      "answer": "Glass doesn't get soggy because it is impermeable."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What does it mean when we say glass doesn't 'impart' a taste?",
+      "answer": "It means it doesn't give or add its own smell or taste to the food stored in it."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Is ordinary glass coloured?",
+      "answer": "No, ordinary glass is colourless."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "List five colours mentioned that glass can be given.",
+      "answer": "Glass can be blue, ruby red, amber, dark green, or violet."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What are stained glass windows?",
+      "answer": "They are windows made of coloured glass forming beautiful pictures."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Where are stained glass windows commonly found?",
+      "answer": "They are seen mostly in churches."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Can we paint on glass?",
+      "answer": "Yes, it is possible to paint on glass using special chemicals."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Is glass 100% recyclable?",
+      "answer": "Yes, glass is 100% recyclable."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Why is recycling glass better than making new glass?",
+      "answer": "It is cheaper and requires much less heat and energy."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "How much energy do you save by recycling one bottle?",
+      "answer": "You save enough energy to power a colour TV for about 20 minutes."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'molten'?",
+      "answer": "Molten means heated to a very high temperature until it becomes liquid."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Define a 'verb'.",
+      "answer": "A verb is a word or group of words that shows action or a state."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Give two examples of action verbs from the text.",
+      "answer": "Examples include 'pour' and 'mould'."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Give an example of a verb showing a 'state'.",
+      "answer": "In the sentence 'She was tired', 'was' describes a state."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What does a sentence with a verb express?",
+      "answer": "It expresses a complete thought or idea."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What does it mean if a material is 'transparent'?",
+      "answer": "It means you can see through it."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "How is hot liquid glass poured into shapes?",
+      "answer": "It is poured into moulds and hardened."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "List three items made of glass mentioned in the intro.",
+      "answer": "Light bulbs, bottles, and jars are mentioned."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Can glass be recycled more than once?",
+      "answer": "Yes, old glass can be used to make new glass any number of times."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Why is glass used to store food?",
+      "answer": "Because it has no effect on the food stored in it."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the slogan used in the pointers to encourage careful use of glass?",
+      "answer": "The slogan is 'Handle Glass with Care!'."
+    }
+  ]
+}

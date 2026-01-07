@@ -1,0 +1,1215 @@
+{
+  "voyage": "Diversity in Society",
+  "lessons": [
+    "Diversity is our strength",
+    "The principle of secularism",
+    "The contribution of society to our development",
+    "Regulation of society"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does the diversity of languages, religions and customs in India represent?",
+      "options": [
+        { "option_id": 1, "text": "Social division", "is_correct": false },
+        { "option_id": 2, "text": "Cultural weakness", "is_correct": false },
+        { "option_id": 3, "text": "Rich cultural heritage", "is_correct": true },
+        { "option_id": 4, "text": "Administrative difficulty", "is_correct": false }
+      ],
+      "answer": "Rich cultural heritage"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What feeling has developed among communities living together in India for many years?",
+      "options": [
+        { "option_id": 1, "text": "Competition", "is_correct": false },
+        { "option_id": 2, "text": "Oneness", "is_correct": true },
+        { "option_id": 3, "text": "Conflict", "is_correct": false },
+        { "option_id": 4, "text": "Isolation", "is_correct": false }
+      ],
+      "answer": "Oneness"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the result of the feeling of oneness in Indian society?",
+      "options": [
+        { "option_id": 1, "text": "Regionalism", "is_correct": false },
+        { "option_id": 2, "text": "Social inequality", "is_correct": false },
+        { "option_id": 3, "text": "Unity", "is_correct": true },
+        { "option_id": 4, "text": "Cultural loss", "is_correct": false }
+      ],
+      "answer": "Unity"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does co-existence mainly help to increase among people?",
+      "options": [
+        { "option_id": 1, "text": "Economic competition", "is_correct": false },
+        { "option_id": 2, "text": "Level of understanding", "is_correct": true },
+        { "option_id": 3, "text": "Political power", "is_correct": false },
+        { "option_id": 4, "text": "Social control", "is_correct": false }
+      ],
+      "answer": "Level of understanding"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which practice strengthens unity in a diverse society?",
+      "options": [
+        { "option_id": 1, "text": "Avoiding interaction", "is_correct": false },
+        { "option_id": 2, "text": "Respecting different ways of life", "is_correct": true },
+        { "option_id": 3, "text": "Following only one tradition", "is_correct": false },
+        { "option_id": 4, "text": "Rejecting other cultures", "is_correct": false }
+      ],
+      "answer": "Respecting different ways of life"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How does social unity help society?",
+      "options": [
+        { "option_id": 1, "text": "By increasing disputes", "is_correct": false },
+        { "option_id": 2, "text": "By facing calamities together", "is_correct": true },
+        { "option_id": 3, "text": "By reducing cooperation", "is_correct": false },
+        { "option_id": 4, "text": "By limiting participation", "is_correct": false }
+      ],
+      "answer": "By facing calamities together"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which principle helps preserve India’s linguistic and religious diversity?",
+      "options": [
+        { "option_id": 1, "text": "Federalism", "is_correct": false },
+        { "option_id": 2, "text": "Secularism", "is_correct": true },
+        { "option_id": 3, "text": "Centralisation", "is_correct": false },
+        { "option_id": 4, "text": "Socialism", "is_correct": false }
+      ],
+      "answer": "Secularism"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is India described as in terms of religion?",
+      "options": [
+        { "option_id": 1, "text": "Religious state", "is_correct": false },
+        { "option_id": 2, "text": "Single-religion nation", "is_correct": false },
+        { "option_id": 3, "text": "Secular nation", "is_correct": true },
+        { "option_id": 4, "text": "Theocratic nation", "is_correct": false }
+      ],
+      "answer": "Secular nation"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does secularism ensure regarding religion in India?",
+      "options": [
+        { "option_id": 1, "text": "One religion is official", "is_correct": false },
+        { "option_id": 2, "text": "Religion is controlled by the state", "is_correct": false },
+        { "option_id": 3, "text": "No religion is recognised as the state religion", "is_correct": true },
+        { "option_id": 4, "text": "Only majority religion is protected", "is_correct": false }
+      ],
+      "answer": "No religion is recognised as the state religion"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What freedom is guaranteed to every person under secularism?",
+      "options": [
+        { "option_id": 1, "text": "Freedom to change others’ religion", "is_correct": false },
+        { "option_id": 2, "text": "Freedom to worship as per one’s faith", "is_correct": true },
+        { "option_id": 3, "text": "Freedom to oppose religions", "is_correct": false },
+        { "option_id": 4, "text": "Freedom to enforce beliefs", "is_correct": false }
+      ],
+      "answer": "Freedom to worship as per one’s faith"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "On what basis is discrimination prohibited in a secular state?",
+      "options": [
+        { "option_id": 1, "text": "Language only", "is_correct": false },
+        { "option_id": 2, "text": "Religion", "is_correct": true },
+        { "option_id": 3, "text": "Region only", "is_correct": false },
+        { "option_id": 4, "text": "Occupation only", "is_correct": false }
+      ],
+      "answer": "Religion"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who is treated equally by the State in India?",
+      "options": [
+        { "option_id": 1, "text": "Only majority communities", "is_correct": false },
+        { "option_id": 2, "text": "People of all religions", "is_correct": true },
+        { "option_id": 3, "text": "Only minorities", "is_correct": false },
+        { "option_id": 4, "text": "Only citizens of one region", "is_correct": false }
+      ],
+      "answer": "People of all religions"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which opportunities are provided equally to all citizens?",
+      "options": [
+        { "option_id": 1, "text": "Religious leadership roles", "is_correct": false },
+        { "option_id": 2, "text": "Education, livelihood and government jobs", "is_correct": true },
+        { "option_id": 3, "text": "Only cultural opportunities", "is_correct": false },
+        { "option_id": 4, "text": "Only political positions", "is_correct": false }
+      ],
+      "answer": "Education, livelihood and government jobs"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which groups receive special constitutional protection?",
+      "options": [
+        { "option_id": 1, "text": "Political parties", "is_correct": false },
+        { "option_id": 2, "text": "Religious and linguistic minorities", "is_correct": true },
+        { "option_id": 3, "text": "Economic elites", "is_correct": false },
+        { "option_id": 4, "text": "Government employees", "is_correct": false }
+      ],
+      "answer": "Religious and linguistic minorities"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does secularism help maintain in Indian society?",
+      "options": [
+        { "option_id": 1, "text": "Political dominance", "is_correct": false },
+        { "option_id": 2, "text": "Religious harmony", "is_correct": true },
+        { "option_id": 3, "text": "Economic inequality", "is_correct": false },
+        { "option_id": 4, "text": "Cultural uniformity", "is_correct": false }
+      ],
+      "answer": "Religious harmony"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is cooperation in society?",
+      "options": [
+        { "option_id": 1, "text": "Competing with each other", "is_correct": false },
+        { "option_id": 2, "text": "Sharing and helping to solve problems", "is_correct": true },
+        { "option_id": 3, "text": "Working alone", "is_correct": false },
+        { "option_id": 4, "text": "Avoiding responsibilities", "is_correct": false }
+      ],
+      "answer": "Sharing and helping to solve problems"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is essential for the existence of society?",
+      "options": [
+        { "option_id": 1, "text": "Strict control", "is_correct": false },
+        { "option_id": 2, "text": "Cooperation between individuals", "is_correct": true },
+        { "option_id": 3, "text": "Competition only", "is_correct": false },
+        { "option_id": 4, "text": "Uniform thinking", "is_correct": false }
+      ],
+      "answer": "Cooperation between individuals"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What happens when cooperation is lacking?",
+      "options": [
+        { "option_id": 1, "text": "Progress improves", "is_correct": false },
+        { "option_id": 2, "text": "Progress is hampered", "is_correct": true },
+        { "option_id": 3, "text": "Society becomes stronger", "is_correct": false },
+        { "option_id": 4, "text": "Conflicts disappear", "is_correct": false }
+      ],
+      "answer": "Progress is hampered"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What does cooperation promote in society?",
+      "options": [
+        { "option_id": 1, "text": "Exclusion", "is_correct": false },
+        { "option_id": 2, "text": "Healthy interdependence", "is_correct": true },
+        { "option_id": 3, "text": "Social inequality", "is_correct": false },
+        { "option_id": 4, "text": "Individual isolation", "is_correct": false }
+      ],
+      "answer": "Healthy interdependence"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What leads to disputes and conflicts in society?",
+      "options": [
+        { "option_id": 1, "text": "Mutual respect", "is_correct": false },
+        { "option_id": 2, "text": "Differences of opinion", "is_correct": true },
+        { "option_id": 3, "text": "Cooperation", "is_correct": false },
+        { "option_id": 4, "text": "Understanding", "is_correct": false }
+      ],
+      "answer": "Differences of opinion"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which factor can also cause conflicts?",
+      "options": [
+        { "option_id": 1, "text": "Tolerance", "is_correct": false },
+        { "option_id": 2, "text": "Prejudices and misconceptions", "is_correct": true },
+        { "option_id": 3, "text": "Cooperation", "is_correct": false },
+        { "option_id": 4, "text": "Dialogue", "is_correct": false }
+      ],
+      "answer": "Prejudices and misconceptions"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How can conflicts be resolved?",
+      "options": [
+        { "option_id": 1, "text": "Through prolonged arguments", "is_correct": false },
+        { "option_id": 2, "text": "Through compromise and understanding", "is_correct": true },
+        { "option_id": 3, "text": "Through force", "is_correct": false },
+        { "option_id": 4, "text": "Through avoidance", "is_correct": false }
+      ],
+      "answer": "Through compromise and understanding"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What quality helps maintain peace in society?",
+      "options": [
+        { "option_id": 1, "text": "Intolerance", "is_correct": false },
+        { "option_id": 2, "text": "Understanding attitude", "is_correct": true },
+        { "option_id": 3, "text": "Rigid thinking", "is_correct": false },
+        { "option_id": 4, "text": "Self-interest", "is_correct": false }
+      ],
+      "answer": "Understanding attitude"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What does society provide through interaction and understanding?",
+      "options": [
+        { "option_id": 1, "text": "Opportunities for conflict", "is_correct": false },
+        { "option_id": 2, "text": "New learning and enrichment", "is_correct": true },
+        { "option_id": 3, "text": "Loss of values", "is_correct": false },
+        { "option_id": 4, "text": "Rigid behaviour", "is_correct": false }
+      ],
+      "answer": "New learning and enrichment"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What do individuals perform in society?",
+      "options": [
+        { "option_id": 1, "text": "Single permanent role", "is_correct": false },
+        { "option_id": 2, "text": "Different roles", "is_correct": true },
+        { "option_id": 3, "text": "No roles", "is_correct": false },
+        { "option_id": 4, "text": "Only professional roles", "is_correct": false }
+      ],
+      "answer": "Different roles"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is associated with every role in society?",
+      "options": [
+        { "option_id": 1, "text": "Undefined duties", "is_correct": false },
+        { "option_id": 2, "text": "Well-defined responsibilities", "is_correct": true },
+        { "option_id": 3, "text": "No accountability", "is_correct": false },
+        { "option_id": 4, "text": "Temporary authority", "is_correct": false }
+      ],
+      "answer": "Well-defined responsibilities"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What may change over time regarding roles?",
+      "options": [
+        { "option_id": 1, "text": "Social values", "is_correct": false },
+        { "option_id": 2, "text": "Parts we play", "is_correct": true },
+        { "option_id": 3, "text": "Rules of society", "is_correct": false },
+        { "option_id": 4, "text": "Human rights", "is_correct": false }
+      ],
+      "answer": "Parts we play"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Why are rules necessary in society?",
+      "options": [
+        { "option_id": 1, "text": "To restrict freedom", "is_correct": false },
+        { "option_id": 2, "text": "To ensure smooth functioning", "is_correct": true },
+        { "option_id": 3, "text": "To create fear", "is_correct": false },
+        { "option_id": 4, "text": "To favour a group", "is_correct": false }
+      ],
+      "answer": "To ensure smooth functioning"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "How was society regulated in ancient times?",
+      "options": [
+        { "option_id": 1, "text": "Through written laws only", "is_correct": false },
+        { "option_id": 2, "text": "Through traditions", "is_correct": true },
+        { "option_id": 3, "text": "Through courts", "is_correct": false },
+        { "option_id": 4, "text": "Through police", "is_correct": false }
+      ],
+      "answer": "Through traditions"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is needed along with traditions in modern times?",
+      "options": [
+        { "option_id": 1, "text": "Customs only", "is_correct": false },
+        { "option_id": 2, "text": "Laws", "is_correct": true },
+        { "option_id": 3, "text": "Personal rules", "is_correct": false },
+        { "option_id": 4, "text": "Religious orders", "is_correct": false }
+      ],
+      "answer": "Laws"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What regulates society in modern times?",
+      "options": [
+        { "option_id": 1, "text": "Only traditions", "is_correct": false },
+        { "option_id": 2, "text": "Only laws", "is_correct": false },
+        { "option_id": 3, "text": "Laws and traditions", "is_correct": true },
+        { "option_id": 4, "text": "Personal beliefs", "is_correct": false }
+      ],
+      "answer": "Laws and traditions"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who carries out regulation of society?",
+      "options": [
+        { "option_id": 1, "text": "Only families", "is_correct": false },
+        { "option_id": 2, "text": "Organizations and institutions", "is_correct": true },
+        { "option_id": 3, "text": "Only religious bodies", "is_correct": false },
+        { "option_id": 4, "text": "Only individuals", "is_correct": false }
+      ],
+      "answer": "Organizations and institutions"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which bodies play an important role in regulation at the local level?",
+      "options": [
+        { "option_id": 1, "text": "Private groups", "is_correct": false },
+        { "option_id": 2, "text": "Government bodies", "is_correct": true },
+        { "option_id": 3, "text": "Religious leaders", "is_correct": false },
+        { "option_id": 4, "text": "Families only", "is_correct": false }
+      ],
+      "answer": "Government bodies"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which value helps society move ahead together?",
+      "options": [
+        { "option_id": 1, "text": "Competition", "is_correct": false },
+        { "option_id": 2, "text": "Cooperation", "is_correct": true },
+        { "option_id": 3, "text": "Conflict", "is_correct": false },
+        { "option_id": 4, "text": "Discrimination", "is_correct": false }
+      ],
+      "answer": "Cooperation"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What does inclusion in society mean?",
+      "options": [
+        { "option_id": 1, "text": "Leaving some groups behind", "is_correct": false },
+        { "option_id": 2, "text": "Moving ahead taking all sections along", "is_correct": true },
+        { "option_id": 3, "text": "Ignoring weaker sections", "is_correct": false },
+        { "option_id": 4, "text": "Only majority participation", "is_correct": false }
+      ],
+      "answer": "Moving ahead taking all sections along"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which attitude reduces long-term conflicts?",
+      "options": [
+        { "option_id": 1, "text": "Rigid thinking", "is_correct": false },
+        { "option_id": 2, "text": "Tolerance", "is_correct": true },
+        { "option_id": 3, "text": "Aggression", "is_correct": false },
+        { "option_id": 4, "text": "Prejudice", "is_correct": false }
+      ],
+      "answer": "Tolerance"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What happens when people accept new ideas?",
+      "options": [
+        { "option_id": 1, "text": "Social life is enriched", "is_correct": true },
+        { "option_id": 2, "text": "Conflicts increase", "is_correct": false },
+        { "option_id": 3, "text": "Unity decreases", "is_correct": false },
+        { "option_id": 4, "text": "Traditions disappear", "is_correct": false }
+      ],
+      "answer": "Social life is enriched"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which quality is learned through social living?",
+      "options": [
+        { "option_id": 1, "text": "Intolerance", "is_correct": false },
+        { "option_id": 2, "text": "Peaceful coexistence", "is_correct": true },
+        { "option_id": 3, "text": "Selfishness", "is_correct": false },
+        { "option_id": 4, "text": "Isolation", "is_correct": false }
+      ],
+      "answer": "Peaceful coexistence"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of compromise?",
+      "options": [
+        { "option_id": 1, "text": "Forcing one’s decision", "is_correct": false },
+        { "option_id": 2, "text": "Adjusting for others’ needs", "is_correct": true },
+        { "option_id": 3, "text": "Ignoring others", "is_correct": false },
+        { "option_id": 4, "text": "Breaking rules", "is_correct": false }
+      ],
+      "answer": "Adjusting for others’ needs"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why is tolerance necessary in society?",
+      "options": [
+        { "option_id": 1, "text": "To increase control", "is_correct": false },
+        { "option_id": 2, "text": "To resolve differences peacefully", "is_correct": true },
+        { "option_id": 3, "text": "To suppress opinions", "is_correct": false },
+        { "option_id": 4, "text": "To promote dominance", "is_correct": false }
+      ],
+      "answer": "To resolve differences peacefully"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What connects individuals while performing social roles?",
+      "options": [
+        { "option_id": 1, "text": "Authority", "is_correct": false },
+        { "option_id": 2, "text": "Social bonds", "is_correct": true },
+        { "option_id": 3, "text": "Economic power", "is_correct": false },
+        { "option_id": 4, "text": "Competition", "is_correct": false }
+      ],
+      "answer": "Social bonds"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Why are laws important in modern society?",
+      "options": [
+        { "option_id": 1, "text": "To replace traditions completely", "is_correct": false },
+        { "option_id": 2, "text": "To support orderly regulation", "is_correct": true },
+        { "option_id": 3, "text": "To limit cooperation", "is_correct": false },
+        { "option_id": 4, "text": "To favour communities", "is_correct": false }
+      ],
+      "answer": "To support orderly regulation"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which factor helps maintain well-being in society?",
+      "options": [
+        { "option_id": 1, "text": "Conflict", "is_correct": false },
+        { "option_id": 2, "text": "Understanding and peace", "is_correct": true },
+        { "option_id": 3, "text": "Disagreement", "is_correct": false },
+        { "option_id": 4, "text": "Isolation", "is_correct": false }
+      ],
+      "answer": "Understanding and peace"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What enables smooth day-to-day life in society?",
+      "options": [
+        { "option_id": 1, "text": "Lack of cooperation", "is_correct": false },
+        { "option_id": 2, "text": "Mutual cooperation", "is_correct": true },
+        { "option_id": 3, "text": "Strict punishment", "is_correct": false },
+        { "option_id": 4, "text": "Individual dominance", "is_correct": false }
+      ],
+      "answer": "Mutual cooperation"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What is one outcome of living in society?",
+      "options": [
+        { "option_id": 1, "text": "Loss of personality", "is_correct": false },
+        { "option_id": 2, "text": "Development of personality", "is_correct": true },
+        { "option_id": 3, "text": "Social isolation", "is_correct": false },
+        { "option_id": 4, "text": "Increased conflict", "is_correct": false }
+      ],
+      "answer": "Development of personality"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which value is learned through resolving conflicts?",
+      "options": [
+        { "option_id": 1, "text": "Aggression", "is_correct": false },
+        { "option_id": 2, "text": "Tolerance", "is_correct": true },
+        { "option_id": 3, "text": "Prejudice", "is_correct": false },
+        { "option_id": 4, "text": "Discrimination", "is_correct": false }
+      ],
+      "answer": "Tolerance"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What regulates behaviour in society?",
+      "options": [
+        { "option_id": 1, "text": "Personal choice only", "is_correct": false },
+        { "option_id": 2, "text": "Rules, laws and traditions", "is_correct": true },
+        { "option_id": 3, "text": "Emotions only", "is_correct": false },
+        { "option_id": 4, "text": "Economic status", "is_correct": false }
+      ],
+      "answer": "Rules, laws and traditions"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which concept highlights living together peacefully?",
+      "options": [
+        { "option_id": 1, "text": "Competition", "is_correct": false },
+        { "option_id": 2, "text": "Co-existence", "is_correct": true },
+        { "option_id": 3, "text": "Conflict", "is_correct": false },
+        { "option_id": 4, "text": "Segregation", "is_correct": false }
+      ],
+      "answer": "Co-existence"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which value encourages acceptance of different traditions?",
+      "options": [
+        { "option_id": 1, "text": "Intolerance", "is_correct": false },
+        { "option_id": 2, "text": "Respect", "is_correct": true },
+        { "option_id": 3, "text": "Superiority", "is_correct": false },
+        { "option_id": 4, "text": "Indifference", "is_correct": false }
+      ],
+      "answer": "Respect"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What overall idea does this chapter emphasize?",
+      "options": [
+        { "option_id": 1, "text": "Uniformity in society", "is_correct": false },
+        { "option_id": 2, "text": "Diversity leading to unity and strength", "is_correct": true },
+        { "option_id": 3, "text": "Conflict as a social tool", "is_correct": false },
+        { "option_id": 4, "text": "Traditions over laws", "is_correct": false }
+      ],
+      "answer": "Diversity leading to unity and strength"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is meant by diversity in Indian society?",
+      "answer": "Diversity in Indian society refers to the existence of different languages, religions, cultures, customs and traditions."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why is diversity considered a mark of India’s cultural heritage?",
+      "answer": "It reflects the richness of India’s traditions, languages and ways of life developed over time."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How does living together for many years affect different communities in India?",
+      "answer": "Living together for many years develops a feeling of oneness among different communities."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What feeling leads to unity in Indian society?",
+      "answer": "The feeling of oneness leads to unity in Indian society."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is meant by co-existence?",
+      "answer": "Co-existence means living together with different groups in society."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How does co-existence increase understanding among people?",
+      "answer": "It helps people become familiar with each other’s traditions, customs and ways of life."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is respect for different ways of life important in society?",
+      "answer": "It helps strengthen unity and peaceful living in society."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How does social unity help society during calamities?",
+      "answer": "Social unity helps people face natural and social calamities together."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why has India accepted the principle of secularism?",
+      "answer": "To preserve religious and linguistic diversity in a sound and healthy manner."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What does secularism ensure regarding religion in India?",
+      "answer": "It ensures freedom of worship and equal treatment of all religions."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does the Constitution guarantee to religious communities?",
+      "answer": "The Constitution guarantees freedom to worship according to one’s faith."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What type of discrimination is prohibited under secularism?",
+      "answer": "Discrimination on the basis of religion is prohibited."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How does the State treat people of different religions?",
+      "answer": "The State treats people of all religions equally."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What opportunities are made available to all citizens without discrimination?",
+      "answer": "Opportunities for education, livelihood and government jobs are made available to all."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why are special provisions made for minorities?",
+      "answer": "To protect and preserve their linguistic and cultural identities."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How does secularism help Indian society?",
+      "answer": "It helps maintain religious harmony in Indian society."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is cooperation?",
+      "answer": "Cooperation is the process of sharing and helping each other to solve problems."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why is cooperation necessary in society?",
+      "answer": "Society depends on cooperation for its existence and smooth functioning."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What happens when cooperation is absent in society?",
+      "answer": "Lack of cooperation hampers progress and disturbs daily life."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How does cooperation promote inclusion?",
+      "answer": "It helps move society forward by including all sections of people."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "When do disputes arise in society?",
+      "answer": "Disputes arise due to differences in opinions, ideas and views."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What role do prejudices play in conflicts?",
+      "answer": "Prejudices and misconceptions can lead to conflicts in society."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why should conflicts not continue for a long time?",
+      "answer": "Long-lasting conflicts are harmful to society and its well-being."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How can conflicts be resolved peacefully?",
+      "answer": "Conflicts can be resolved through compromise and understanding."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What does tolerance mean in social life?",
+      "answer": "Tolerance means accepting differences and respecting others’ views."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How does an understanding attitude benefit society?",
+      "answer": "It promotes learning, acceptance of new ideas and social harmony."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What opportunity does society give to individuals?",
+      "answer": "Society provides an opportunity to perform different roles."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is associated with each role played in society?",
+      "answer": "Each role has well-defined responsibilities and duties."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why may social roles change over time?",
+      "answer": "Roles change due to changes in age, responsibilities and circumstances."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why are rules necessary for society?",
+      "answer": "Rules are necessary to ensure that society functions smoothly."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How was society regulated in ancient times?",
+      "answer": "Society was regulated mainly through traditions in ancient times."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What additional system is needed to regulate modern society?",
+      "answer": "Along with traditions, laws are needed to regulate modern society."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "How are laws different from traditions?",
+      "answer": "Laws are formal rules enforced by authorities, unlike customs and traditions."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Who regulates society through laws and traditions?",
+      "answer": "Different organizations and institutions regulate society."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What role do local government bodies play in society?",
+      "answer": "They help in the regulation of society at the local level."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How does society contribute to personality development?",
+      "answer": "By teaching cooperation, tolerance, understanding and responsibility."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why is cooperation important within a family?",
+      "answer": "Without cooperation, a family cannot remain united."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is meant by inclusion in society?",
+      "answer": "Inclusion means taking all sections of society along while moving forward."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How does society help in learning peaceful living?",
+      "answer": "Society teaches compromise, tolerance and understanding."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What values are essential for maintaining peace in society?",
+      "answer": "Tolerance, cooperation and understanding are essential values."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why is mutual understanding important in a diverse society?",
+      "answer": "It helps reduce conflicts and strengthens unity."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "How does diversity enrich social life?",
+      "answer": "It introduces people to new ideas, customs and traditions."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What role does compromise play in social harmony?",
+      "answer": "Compromise helps resolve conflicts peacefully."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How does society encourage responsibility among individuals?",
+      "answer": "By assigning roles with defined duties and responsibilities."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is regulation important for social order?",
+      "answer": "It ensures discipline and smooth functioning of society."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How do traditions help in regulating society?",
+      "answer": "They guide behaviour based on accepted social practices."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How do laws support social regulation?",
+      "answer": "Laws provide a formal system to maintain order and justice."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the relationship between diversity and unity?",
+      "answer": "Diversity, when respected, strengthens unity in society."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is secularism important in a diverse country like India?",
+      "answer": "It ensures equality and harmony among different religious groups."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What overall lesson does this chapter convey?",
+      "answer": "The chapter highlights how diversity, cooperation and secularism strengthen society."
+    },
+    {
+  
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "How does long-term co-existence among different communities strengthen Indian society?",
+      "answer": "Long-term co-existence develops mutual understanding and a feeling of oneness, which strengthens unity in Indian society."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is diversity described as a source of strength rather than weakness?",
+      "answer": "Diversity enriches society by bringing multiple traditions, ideas and ways of life that promote learning and unity."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "How does respect for different traditions help maintain social harmony?",
+      "answer": "Respect reduces conflicts and encourages peaceful co-existence among different groups."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why is unity essential for facing natural and social calamities?",
+      "answer": "Unity enables people to cooperate and support each other during difficult situations."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "How does co-existence contribute to social learning?",
+      "answer": "It helps people learn about others’ customs, beliefs and ways of life."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why is secularism necessary in a multi-religious society?",
+      "answer": "Secularism ensures equal treatment of all religions and prevents discrimination."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How does freedom of worship strengthen democratic values?",
+      "answer": "It allows individuals to follow their faith freely, promoting equality and mutual respect."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why is equal access to education important in a secular society?",
+      "answer": "Equal access promotes social justice and balanced development of all communities."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How do constitutional provisions protect minorities?",
+      "answer": "They allow minorities to preserve their language, culture and educational institutions."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why is religious harmony important for national unity?",
+      "answer": "Religious harmony prevents conflicts and strengthens social cohesion."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "How does cooperation act as the foundation of society?",
+      "answer": "Society survives and progresses through mutual help and shared responsibility."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why does lack of cooperation affect daily life?",
+      "answer": "Without cooperation, routine activities and social progress become difficult."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "How does cooperation encourage inclusion?",
+      "answer": "It ensures that all sections of society move forward together."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why are conflicts unavoidable in society?",
+      "answer": "Conflicts arise due to differences in opinions, ideas and perspectives."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "How do prejudices increase social conflicts?",
+      "answer": "Prejudices create misunderstandings and mistrust among people."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why is compromise considered essential for conflict resolution?",
+      "answer": "Compromise helps balance differing interests and restores harmony."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "How does tolerance improve social relationships?",
+      "answer": "Tolerance allows acceptance of differences and peaceful interaction."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why does understanding attitude enrich social life?",
+      "answer": "It promotes learning, acceptance of new ideas and mutual growth."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "How does society help individuals develop responsibility?",
+      "answer": "By assigning roles with clear duties and expectations."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why do social roles change over time?",
+      "answer": "Roles change with age, circumstances and social responsibilities."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "How does performing multiple roles shape personality?",
+      "answer": "It builds adaptability, cooperation and a sense of duty."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why are rules necessary for social discipline?",
+      "answer": "Rules guide behaviour and maintain order in society."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "How did traditions regulate society in ancient times?",
+      "answer": "Traditions guided behaviour through accepted social practices."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why are laws essential in modern society?",
+      "answer": "Laws provide a formal system to ensure justice and regulation."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "How do laws and traditions work together?",
+      "answer": "Together they guide behaviour and ensure smooth social functioning."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why is regulation important for social stability?",
+      "answer": "Regulation prevents disorder and maintains harmony."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How do local government bodies support regulation of society?",
+      "answer": "They enforce rules and address issues at the local level."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why is inclusion necessary for balanced development?",
+      "answer": "Inclusion ensures that no group is left behind in progress."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "How does diversity promote mutual learning?",
+      "answer": "It exposes people to different perspectives and cultural practices."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why is peaceful co-existence essential in a diverse society?",
+      "answer": "It allows different communities to live together without conflict."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "How does secularism support unity in diversity?",
+      "answer": "It treats all religions equally while respecting differences."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why is equality important in social development?",
+      "answer": "Equality provides fair opportunities and strengthens social trust."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "How does cooperation help in social progress?",
+      "answer": "It enables collective problem-solving and shared growth."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why is tolerance considered a social value?",
+      "answer": "Tolerance helps maintain peace and mutual respect."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "How does understanding reduce long-term conflicts?",
+      "answer": "It promotes dialogue and peaceful resolution of differences."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why is regulation necessary even in cooperative societies?",
+      "answer": "Regulation ensures consistency and fairness in behaviour."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "How does society influence individual values?",
+      "answer": "It teaches cooperation, respect and responsibility."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why is unity important despite diversity?",
+      "answer": "Unity enables collective strength and social stability."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "How does social harmony contribute to national development?",
+      "answer": "Harmony creates a stable environment for growth and progress."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is compromise preferable to prolonged conflict?",
+      "answer": "Compromise restores peace and prevents social disruption."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "How does society teach peaceful conflict resolution?",
+      "answer": "Through dialogue, tolerance and mutual understanding."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why are social rules important for daily life?",
+      "answer": "They guide behaviour and ensure smooth interactions."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "How does diversity influence social creativity?",
+      "answer": "Different ideas and traditions encourage innovation and learning."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why is inclusion a sign of a healthy society?",
+      "answer": "It reflects equal participation and shared responsibility."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "How does society help individuals face challenges?",
+      "answer": "Through cooperation, unity and collective support."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why is regulation linked with social order?",
+      "answer": "It maintains discipline and prevents chaos."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "How does diversity strengthen democratic values?",
+      "answer": "It encourages participation, equality and mutual respect."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is social unity necessary for long-term peace?",
+      "answer": "Unity minimizes divisions and promotes cooperation."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "How does this chapter connect diversity with development?",
+      "answer": "It shows that diversity, when managed through cooperation, leads to progress."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What overall message does this chapter convey about society?",
+      "answer": "A society grows stronger through diversity, cooperation, secularism and regulation."
+    }
+  ]
+}
+
+  

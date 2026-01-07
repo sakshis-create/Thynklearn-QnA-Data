@@ -1,0 +1,2009 @@
+{
+"Chapter 1": " The Earth and the Graticule ",
+"lessons": [
+"1. The Earth and the Graticule"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "What term is used for the imaginary east-west horizontal lines on the earth?",
+"options": [
+{
+"option_id": 1,
+"text": "Meridians",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Parallels",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "International Date Line",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Equator",
+"is_correct": false
+}
+],
+"answer": "Parallels"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "What is the shape of the meridians?",
+"options": [
+{
+"option_id": 1,
+"text": "Circular",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Points",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Semicircular",
+"is_correct": true
+},
+{
+"option_id": 4,
+"text": "Straight",
+"is_correct": false
+}
+],
+"answer": "Semicircular"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "What do the parallels of latitude and meridians of longitude together form on the globe?",
+"options": [
+{
+"option_id": 1,
+"text": "Angular distance",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Hemisphere",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Graticule",
+"is_correct": true
+},
+{
+"option_id": 4,
+"text": "Equatorial plane",
+"is_correct": false
+}
+],
+"answer": "Graticule"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "How many parallels are there in the northern hemisphere?",
+"options": [
+{
+"option_id": 1,
+"text": "90",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "89",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "91",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "181",
+"is_correct": false
+}
+],
+"answer": "90"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Which circle forms the eastern and western hemispheres?",
+"options": [
+{
+"option_id": 1,
+"text": "0° parallel and 180° meridian",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "0° Prime Meridian and 180° meridian",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "North and South Polar circles",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Equator and Prime Meridian",
+"is_correct": false
+}
+],
+"answer": "0° Prime Meridian and 180° meridian"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "Which circle appears as a point on the globe?",
+"options": [
+{
+"option_id": 1,
+"text": "Equator",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Prime Meridian",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "North / South Pole",
+"is_correct": true
+},
+{
+"option_id": 4,
+"text": "Tropic of Cancer",
+"is_correct": false
+}
+],
+"answer": "North / South Pole"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "How many places on the earth may be located on 45°N parallel?",
+"options": [
+{
+"option_id": 1,
+"text": "one",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "many",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "two",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "none",
+"is_correct": false
+}
+],
+"answer": "many"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "In which city is the Taj Mahal located?",
+"options": [
+{
+"option_id": 1,
+"text": "Tokyo",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Agra",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Rome",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Lima",
+"is_correct": false
+}
+],
+"answer": "Agra"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "In which continent is the Taj Mahal located?",
+"options": [
+{
+"option_id": 1,
+"text": "North America",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Europe",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Asia",
+"is_correct": true
+},
+{
+"option_id": 4,
+"text": "Africa",
+"is_correct": false
+}
+],
+"answer": "Asia"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "What is used to determine locations on the earth as a miniature model?",
+"options": [
+{
+"option_id": 1,
+"text": "Map",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Globe",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Atlas",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Compass",
+"is_correct": false
+}
+],
+"answer": "Globe"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "Why is it impossible to actually draw lines on the earth?",
+"options": [
+{
+"option_id": 1,
+"text": "Because of oceanic waters and uneven land",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Because of too many people",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Because of high mountains",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Because of forests only",
+"is_correct": false
+}
+],
+"answer": "Because of oceanic waters and uneven land"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "What is the measure of angle XMV in figure 1.3?",
+"options": [
+{
+"option_id": 1,
+"text": "20°",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "30°",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "60°",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "90°",
+"is_correct": false
+}
+],
+"answer": "30°"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "What are parallels of latitude parallel to one another?",
+"options": [
+{
+"option_id": 1,
+"text": "Prime Meridian",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Equator",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Poles",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Earth's axis",
+"is_correct": false
+}
+],
+"answer": "Equator"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "What is the equator considered as?",
+"options": [
+{
+"option_id": 1,
+"text": "0° parallel",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "90° parallel",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "180° parallel",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Prime Meridian",
+"is_correct": false
+}
+],
+"answer": "0° parallel"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "What is the largest parallel?",
+"options": [
+{
+"option_id": 1,
+"text": "Tropic of Cancer",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Equator",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "North Pole",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "South Pole",
+"is_correct": false
+}
+],
+"answer": "Equator"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "Which part is called the northern hemisphere?",
+"options": [
+{
+"option_id": 1,
+"text": "South of equator",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "North of equator",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "East of Prime Meridian",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "West of 180° meridian",
+"is_correct": false
+}
+],
+"answer": "North of equator"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "What are the ends of the earth's axis called?",
+"options": [
+{
+"option_id": 1,
+"text": "Equator and Prime Meridian",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "North Pole and South Pole",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Tropics",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Parallels",
+"is_correct": false
+}
+],
+"answer": "North Pole and South Pole"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "How are parallels in the northern hemisphere referred to?",
+"options": [
+{
+"option_id": 1,
+"text": "5°S, 15°S",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "5°N, 15°N",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "10°E, 20°E",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "10°W, 20°W",
+"is_correct": false
+}
+],
+"answer": "5°N, 15°N"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Which places are located on 30°N parallel?",
+"options": [
+{
+"option_id": 1,
+"text": "New Orleans, Cairo",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Harare, Durban",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "St. Petersburg, Rome",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Tokyo, Port Blair",
+"is_correct": false
+}
+],
+"answer": "New Orleans, Cairo"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "How many parallels can be drawn at interval of 1°?",
+"options": [
+{
+"option_id": 1,
+"text": "90",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "180",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "181",
+"is_correct": true
+},
+{
+"option_id": 4,
+"text": "360",
+"is_correct": false
+}
+],
+"answer": "181"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "What is the shape of the earth considered for angular measurements?",
+"options": [
+{
+"option_id": 1,
+"text": "Flat",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Cubic",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Spherical",
+"is_correct": true
+},
+{
+"option_id": 4,
+"text": "Elliptical",
+"is_correct": false
+}
+],
+"answer": "Spherical"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "How many degrees in a circle for the earth?",
+"options": [
+{
+"option_id": 1,
+"text": "180",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "360",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "90",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "181",
+"is_correct": false
+}
+],
+"answer": "360"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "What are meridians of longitude?",
+"options": [
+{
+"option_id": 1,
+"text": "Horizontal lines",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Semicircles joining poles",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Circles parallel to equator",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Points at poles",
+"is_correct": false
+}
+],
+"answer": "Semicircles joining poles"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "Which meridian is known as the Prime Meridian?",
+"options": [
+{
+"option_id": 1,
+"text": "180°",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "0°",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "90°",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "30°",
+"is_correct": false
+}
+],
+"answer": "0°"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "How are meridians in the eastern hemisphere labelled?",
+"options": [
+{
+"option_id": 1,
+"text": "10°W, 25°W",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "10°E, 25°E",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "5°N, 15°N",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "5°S, 15°S",
+"is_correct": false
+}
+],
+"answer": "10°E, 25°E"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Which places are on 30°E meridian?",
+"options": [
+{
+"option_id": 1,
+"text": "New Orleans, Cairo",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Cairo, Harare, Durban",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Agra, Tokyo",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Rome, Lima",
+"is_correct": false
+}
+],
+"answer": "Cairo, Harare, Durban"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "What is the distance between two adjacent parallels?",
+"options": [
+{
+"option_id": 1,
+"text": "Varies",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "111 km everywhere",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Zero at equator",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Maximum at poles",
+"is_correct": false
+}
+],
+"answer": "111 km everywhere"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "How is each degree divided for precise location?",
+"options": [
+{
+"option_id": 1,
+"text": "Into 360 minutes",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Into 60 minutes and each minute into 60 seconds",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Into 90 seconds",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Into 180 parts",
+"is_correct": false
+}
+],
+"answer": "Into 60 minutes and each minute into 60 seconds"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "What forms a net on the globe called graticule?",
+"options": [
+{
+"option_id": 1,
+"text": "Only parallels",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Parallels and meridians",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Only meridians",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Equator and poles",
+"is_correct": false
+}
+],
+"answer": "Parallels and meridians"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "What is the distance between meridians at equator?",
+"options": [
+{
+"option_id": 1,
+"text": "0 km",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "111 km",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "102 km",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "44 km",
+"is_correct": false
+}
+],
+"answer": "111 km"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "What is used for finding location in modern technology like GPS?",
+"options": [
+{
+"option_id": 1,
+"text": "Directions only",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Latitudes and longitudes",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Compass only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Maps without graticule",
+"is_correct": false
+}
+],
+"answer": "Latitudes and longitudes"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "How many meridians in eastern hemisphere?",
+"options": [
+{
+"option_id": 1,
+"text": "90",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "179",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "181",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "360",
+"is_correct": false
+}
+],
+"answer": "179"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "What is the distance between meridians at Tropic of Cancer/Capricorn?",
+"options": [
+{
+"option_id": 1,
+"text": "111 km",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "102 km",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "44 km",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "0 km",
+"is_correct": false
+}
+],
+"answer": "102 km"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "What divides the earth into northern and southern hemispheres?",
+"options": [
+{
+"option_id": 1,
+"text": "Prime Meridian",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Equator",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "180° meridian",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Poles",
+"is_correct": false
+}
+],
+"answer": "Equator"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Are parallels and meridians imaginary lines?",
+"options": [
+{
+"option_id": 1,
+"text": "No",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Yes",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Only parallels",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Only meridians",
+"is_correct": false
+}
+],
+"answer": "Yes"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "Do all meridians have the same size?",
+"options": [
+{
+"option_id": 1,
+"text": "No",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Yes",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Only in equator",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "No at poles",
+"is_correct": false
+}
+],
+"answer": "Yes"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "What is the angular distance used for?",
+"options": [
+{
+"option_id": 1,
+"text": "Determining size of earth",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Determining locations with reference to centre",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Drawing maps",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Measuring distance",
+"is_correct": false
+}
+],
+"answer": "Determining locations with reference to centre"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "On the globe, what do lines at angular distance from equator form?",
+"options": [
+{
+"option_id": 1,
+"text": "Ellipses",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Circles",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Semicircles",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Points",
+"is_correct": false
+}
+],
+"answer": "Circles"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "What is the east-west diameter approximately?",
+"options": [
+{
+"option_id": 1,
+"text": "12714 km",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "12756 km",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "111 km",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "102 km",
+"is_correct": false
+}
+],
+"answer": "12756 km"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "What happens to parallels towards the poles?",
+"options": [
+{
+"option_id": 1,
+"text": "Become larger",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Become smaller",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Remain same",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Disappear",
+"is_correct": false
+}
+],
+"answer": "Become smaller"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Which lines are more in number on a globe?",
+"options": [
+{
+"option_id": 1,
+"text": "Horizontal",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Vertical",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Equal",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "None",
+"is_correct": false
+}
+],
+"answer": "Vertical"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "What is the north-south diameter approximately?",
+"options": [
+{
+"option_id": 1,
+"text": "12756 km",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "12714 km",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "111 km",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "0 km",
+"is_correct": false
+}
+],
+"answer": "12714 km"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Do meridians converge at the equator?",
+"options": [
+{
+"option_id": 1,
+"text": "Yes",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "No",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Only eastern",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Only western",
+"is_correct": false
+}
+],
+"answer": "No"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "What is maximum distance between meridians?",
+"options": [
+{
+"option_id": 1,
+"text": "At poles",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "On equator",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "At tropics",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "At polar circles",
+"is_correct": false
+}
+],
+"answer": "On equator"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "What symbols are used for degrees, minutes, seconds?",
+"options": [
+{
+"option_id": 1,
+"text": ", , ",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "° , ' , ''",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "$ % ^",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "N S E W",
+"is_correct": false
+}
+],
+"answer": "° , ' , ''"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "Which system uses latitudes and longitudes for location?",
+"options": [
+{
+"option_id": 1,
+"text": "Compass",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "GPS",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Orange peeling",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Map reading",
+"is_correct": false
+}
+],
+"answer": "GPS"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "How many satellites in IRNSS?",
+"options": [
+{
+"option_id": 1,
+"text": "5",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "7",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "360",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "181",
+"is_correct": false
+}
+],
+"answer": "7"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "What is distance between meridians at polar circles?",
+"options": [
+{
+"option_id": 1,
+"text": "111 km",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "102 km",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "44 km",
+"is_correct": true
+},
+{
+"option_id": 4,
+"text": "0 km",
+"is_correct": false
+}
+],
+"answer": "44 km"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Are parallels parallel to Prime Meridian?",
+"options": [
+{
+"option_id": 1,
+"text": "Yes",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "No",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Only northern",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Only southern",
+"is_correct": false
+}
+],
+"answer": "No"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Do parallels converge at the equator?",
+"options": [
+{
+"option_id": 1,
+"text": "Yes",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "No",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "At poles",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "At Prime Meridian",
+"is_correct": false
+}
+],
+"answer": "No"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "Why does the use of directions alone not accurately describe location?",
+"answer": "Because answers differ from different places for the same location."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "What is a globe used for?",
+"answer": "A miniature model of the earth to determine locations."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "Why are lines on earth imaginary?",
+"answer": "Oceanic waters, uneven land, forests, islands, buildings make drawing impossible."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "How is angular distance from equator measured?",
+"answer": "Angle at earth's centre between point and equatorial plane."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "What do planes parallel to equatorial plane form on earth?",
+"answer": "Circles called parallels of latitude."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "What is the value of equator?",
+"answer": "0° parallel."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Why is equator the largest parallel?",
+"answer": "It is a great circle."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "What are northern and southern parts divided by equator called?",
+"answer": "Northern hemisphere and southern hemisphere."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "What do parallels become at earth's axis ends?",
+"answer": "Points called North Pole and South Pole."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "How are southern hemisphere parallels referred?",
+"answer": "5°S, 15°S, 30°S, 50°S."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Name places on 30°N parallel.",
+"answer": "New Orleans, Cairo."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "How many parallels at 1° interval?",
+"answer": "181: equator + 90N + 90S."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "Why distances differ on spherical earth for same angle?",
+"answer": "Because earth is spherical."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "What activity demonstrates meridian spacing?",
+"answer": "Peel orange, observe segment gap varying."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "What are meridians drawn through?",
+"answer": "Points on equator at each degree, semicircles to poles."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "What is longitude?",
+"answer": "Angular distance from Prime Meridian in degrees."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "What divides earth into eastern and western hemispheres?",
+"answer": "0° and 180° meridians."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Name places on 30°E.",
+"answer": "Cairo, Harare, Durban."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "Why distance between meridians maximum at equator?",
+"answer": "Reduces towards poles, zero at poles."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "What is distance between adjacent parallels?",
+"answer": "111 km."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "How are degrees subdivided?",
+"answer": "60 minutes ('), each minute 60 seconds ('')."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "What is graticule?",
+"answer": "Net formed by parallels and meridians."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Name technologies using latitude longitude.",
+"answer": "GIS, GPS, Google Maps, Wikimapia, Bhuvan."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "What is IRNSS?",
+"answer": "Indian Regional Navigation Satellite System with 7 satellites."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "How many meridians total?",
+"answer": "360 at 1° interval."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Why Wrangel Island meridian notation puzzling?",
+"answer": "180° can be E or W."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Distance meridians at poles?",
+"answer": "0 km."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Are meridians parallel?",
+"answer": "No."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "Size of parallels?",
+"answer": "Different, equator largest."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "Do parallels lie parallel to Prime Meridian?",
+"answer": "No, parallel to equator."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Express North Pole coordinates.",
+"answer": "90°N, any longitude."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Angular distance Tropic Cancer to Capricorn?",
+"answer": "47°."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "Main uses of graticule?",
+"answer": "Determine precise location of places."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Why ellipses differ in size in activity?",
+"answer": "20° ellipse larger than 60° as farther from centre."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "What labels on vertical lines?",
+"answer": "Longitudes E/W."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Labels on horizontal lines?",
+"answer": "Latitudes N/S."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "How many parallels at 10° interval?",
+"answer": "19."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "How many meridians at 10° interval?",
+"answer": "36."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Why same radial distance but different ellipse sizes?",
+"answer": "Dealing with sphere."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Location determination reference?",
+"answer": "Centre of the earth."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "What bisects earth north-south?",
+"answer": "Equator."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "Progressively smaller parallels?",
+"answer": "North and south of equator."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "All meridians equal?",
+"answer": "Yes in size."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Distance meridians reduces where?",
+"answer": "Towards poles."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Precise location within 111 km how?",
+"answer": "Minutes and seconds."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Net for location determination?",
+"answer": "Graticule."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "India's self-reliance in positioning?",
+"answer": "IRNSS."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Region covered by IRNSS?",
+"answer": "South Asia and Indian Ocean."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Do parallels converge at poles?",
+"answer": "Appear as points."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Meridians converge?",
+"answer": "At poles."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Why different directions for Taj Mahal?",
+"answer": "From different places like St. Petersburg, Kimberley."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Places shown on figure 1.1?",
+"answer": "St. Petersburg, Rome, Tokyo, Agra, Port Blair, Lima, Kimberley."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Shahid's location?",
+"answer": "Agra."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "New system for precise location?",
+"answer": "Latitude and longitude."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Earth's diameters figure?",
+"answer": "East-west 12756 km, north-south 12714 km."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Plane through point parallel to equator meets earth as?",
+"answer": "Circle."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Angular measures in?",
+"answer": "Degrees."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Can lines be drawn on actual earth?",
+"answer": "No."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Vertical lines on globe?",
+"answer": "Meridians."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Horizontal lines on globe?",
+"answer": "Parallels."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Activity with orange shows?",
+"answer": "Meridian spacing varies."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Angles at equator centre for meridians?",
+"answer": "With Prime Meridian."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "0° and 180° form?",
+"answer": "Circle dividing east-west hemispheres."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Western hemisphere labels?",
+"answer": "10°W, 25°W."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Exact location despite huge earth size using?",
+"answer": "Latitudes and longitudes."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Distance adjacent meridians equator?",
+"answer": "111 km."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Convention for lat long expression?",
+"answer": "Degrees, minutes, seconds."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Shaheen Sanket game on?",
+"answer": "Meridians."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Meridians eastern hemisphere count?",
+"answer": "179."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Western hemisphere meridians?",
+"answer": "179."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Distance consecutive meridians equator?",
+"answer": "Maximum 111 km."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "GPS available on?",
+"answer": "Mobile phones and motor cars."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "ISRO's Bhuvan uses?",
+"answer": "Latitudes and longitudes."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "How many parallels northern hemisphere?",
+"answer": "90."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Southern parallels?",
+"answer": "90."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Prime Meridian?",
+"answer": "0° meridian."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "All places on one parallel same?",
+"answer": "Latitude."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Basra Lhasa on?",
+"answer": "30°N."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Parallels measured from?",
+"answer": "Equator."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Meridians measured from?",
+"answer": "Prime Meridian."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Activity figure 1.4 ellipses?",
+"answer": "20° larger than 60°."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Distances XK1 XP2?",
+"answer": "Same."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Orange segments?",
+"answer": "Approximately 10-12."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Gap angle in orange constant?",
+"answer": "No, varies."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "Natalia in?",
+"answer": "Rome."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Enrike in?",
+"answer": "Lima."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Minakshi in?",
+"answer": "Port Blair."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Graham in?",
+"answer": "St. Petersburg."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Katya in?",
+"answer": "Kimberley."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Michico in?",
+"answer": "Tokyo."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Do meridians parallel each other?",
+"answer": "No."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Size of each parallel?",
+"answer": "Different."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Distance meridians larger where?",
+"answer": "On equator."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Decreases towards?",
+"answer": "Poles."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Shape of parallels?",
+"answer": "Circles on globe."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Shape meridians?",
+"answer": "Semicircles."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "I can express angular measures on globe?",
+"answer": "Yes."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "Read parallels on map?",
+"answer": "N/S degrees."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Read meridians?",
+"answer": "E/W degrees."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Draw graticule on?",
+"answer": "Spherical object."
+}
+]
+}

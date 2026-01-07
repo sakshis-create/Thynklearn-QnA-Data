@@ -1,0 +1,1209 @@
+{
+" Chapter 14": " Light and the Formation of Shadows",
+"lessons": [
+"Light and the Formation of Shadows"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "Can we see anything in total darkness?",
+"options": [
+{ "option_id": 1, "text": "Yes", "is_correct": false },
+{ "option_id": 2, "text": "No", "is_correct": true },
+{ "option_id": 3, "text": "Only colors", "is_correct": false },
+{ "option_id": 4, "text": "Only shapes", "is_correct": false }
+],
+"answer": "No"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "What helps us see objects around us?",
+"options": [
+{ "option_id": 1, "text": "Darkness", "is_correct": false },
+{ "option_id": 2, "text": "Light", "is_correct": true },
+{ "option_id": 3, "text": "Sound", "is_correct": false },
+{ "option_id": 4, "text": "Touch", "is_correct": false }
+],
+"answer": "Light"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "Objects that emit light themselves are called?",
+"options": [
+{ "option_id": 1, "text": "Non-luminous", "is_correct": false },
+{ "option_id": 2, "text": "Luminous", "is_correct": true },
+{ "option_id": 3, "text": "Opaque", "is_correct": false },
+{ "option_id": 4, "text": "Translucent", "is_correct": false }
+],
+"answer": "Luminous"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "Which has more intense light, torch or candle?",
+"options": [
+{ "option_id": 1, "text": "Candle", "is_correct": false },
+{ "option_id": 2, "text": "Electric torch", "is_correct": true },
+{ "option_id": 3, "text": "Both same", "is_correct": false },
+{ "option_id": 4, "text": "Neither", "is_correct": false }
+],
+"answer": "Electric torch"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Objects not sources of light themselves are?",
+"options": [
+{ "option_id": 1, "text": "Luminous", "is_correct": false },
+{ "option_id": 2, "text": "Non-luminous", "is_correct": true },
+{ "option_id": 3, "text": "Transparent", "is_correct": false },
+{ "option_id": 4, "text": "Artificial", "is_correct": false }
+],
+"answer": "Non-luminous"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "Man-made sources of light are called?",
+"options": [
+{ "option_id": 1, "text": "Natural", "is_correct": false },
+{ "option_id": 2, "text": "Artificial", "is_correct": true },
+{ "option_id": 3, "text": "Luminous only", "is_correct": false },
+{ "option_id": 4, "text": "Non-luminous", "is_correct": false }
+],
+"answer": "Artificial"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "Main natural source of light?",
+"options": [
+{ "option_id": 1, "text": "Moon", "is_correct": false },
+{ "option_id": 2, "text": "Sun", "is_correct": true },
+{ "option_id": 3, "text": "Stars", "is_correct": false },
+{ "option_id": 4, "text": "Firefly", "is_correct": false }
+],
+"answer": "Sun"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "What makes light path visible through slit?",
+"options": [
+{ "option_id": 1, "text": "Air", "is_correct": false },
+{ "option_id": 2, "text": "Dust particles", "is_correct": true },
+{ "option_id": 3, "text": "Floor", "is_correct": false },
+{ "option_id": 4, "text": "Door", "is_correct": false }
+],
+"answer": "Dust particles"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "Path of light through slit is?",
+"options": [
+{ "option_id": 1, "text": "Curved", "is_correct": false },
+{ "option_id": 2, "text": "Straight lines", "is_correct": true },
+{ "option_id": 3, "text": "Zigzag", "is_correct": false },
+{ "option_id": 4, "text": "Circular", "is_correct": false }
+],
+"answer": "Straight lines"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "What happens if one cardboard is moved in hole experiment?",
+"options": [
+{ "option_id": 1, "text": "Flame seen clearer", "is_correct": false },
+{ "option_id": 2, "text": "Flame not seen", "is_correct": true },
+{ "option_id": 3, "text": "Flame brighter", "is_correct": false },
+{ "option_id": 4, "text": "No change", "is_correct": false }
+],
+"answer": "Flame not seen"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "Light travels in?",
+"options": [
+{ "option_id": 1, "text": "Curved lines", "is_correct": false },
+{ "option_id": 2, "text": "Straight line", "is_correct": true },
+{ "option_id": 3, "text": "Any direction", "is_correct": false },
+{ "option_id": 4, "text": "Bent tube", "is_correct": false }
+],
+"answer": "Straight line"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "Linear propagation of light means?",
+"options": [
+{ "option_id": 1, "text": "Curved path", "is_correct": false },
+{ "option_id": 2, "text": "Straight line path", "is_correct": true },
+{ "option_id": 3, "text": "Reflected path", "is_correct": false },
+{ "option_id": 4, "text": "Shadow path", "is_correct": false }
+],
+"answer": "Straight line path"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "Rays thrown back from object surface is?",
+"options": [
+{ "option_id": 1, "text": "Absorption", "is_correct": false },
+{ "option_id": 2, "text": "Reflection", "is_correct": true },
+{ "option_id": 3, "text": "Transmission", "is_correct": false },
+{ "option_id": 4, "text": "Scattering", "is_correct": false }
+],
+"answer": "Reflection"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "How do we see an object?",
+"options": [
+{ "option_id": 1, "text": "Direct emission", "is_correct": false },
+{ "option_id": 2, "text": "Reflected rays reach eyes", "is_correct": true },
+{ "option_id": 3, "text": "Shadow", "is_correct": false },
+{ "option_id": 4, "text": "Transparency", "is_correct": false }
+],
+"answer": "Reflected rays reach eyes"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Stars are?",
+"options": [
+{ "option_id": 1, "text": "Non-luminous", "is_correct": false },
+{ "option_id": 2, "text": "Luminous", "is_correct": true },
+{ "option_id": 3, "text": "Opaque", "is_correct": false },
+{ "option_id": 4, "text": "Translucent", "is_correct": false }
+],
+"answer": "Luminous"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "Moonlight is?",
+"options": [
+{ "option_id": 1, "text": "Own light", "is_correct": false },
+{ "option_id": 2, "text": "Reflected sunlight", "is_correct": true },
+{ "option_id": 3, "text": "Star light", "is_correct": false },
+{ "option_id": 4, "text": "Artificial", "is_correct": false }
+],
+"answer": "Reflected sunlight"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "In plane mirror, right hand raised shows?",
+"options": [
+{ "option_id": 1, "text": "Right hand", "is_correct": false },
+{ "option_id": 2, "text": "Left hand", "is_correct": true },
+{ "option_id": 3, "text": "Both hands", "is_correct": false },
+{ "option_id": 4, "text": "No hand", "is_correct": false }
+],
+"answer": "Left hand"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "Image distance behind mirror?",
+"options": [
+{ "option_id": 1, "text": "Half object distance", "is_correct": false },
+{ "option_id": 2, "text": "Same as object in front", "is_correct": true },
+{ "option_id": 3, "text": "Double", "is_correct": false },
+{ "option_id": 4, "text": "Zero", "is_correct": false }
+],
+"answer": "Same as object in front"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Size of plane mirror image?",
+"options": [
+{ "option_id": 1, "text": "Smaller", "is_correct": false },
+{ "option_id": 2, "text": "Same as object", "is_correct": true },
+{ "option_id": 3, "text": "Larger", "is_correct": false },
+{ "option_id": 4, "text": "Inverted vertically", "is_correct": false }
+],
+"answer": "Same as object"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "Pinhole camera image of flame is?",
+"options": [
+{ "option_id": 1, "text": "Erect", "is_correct": false },
+{ "option_id": 2, "text": "Inverted", "is_correct": true },
+{ "option_id": 3, "text": "Sideways", "is_correct": false },
+{ "option_id": 4, "text": "Enlarged", "is_correct": false }
+],
+"answer": "Inverted"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "Material through which light passes completely?",
+"options": [
+{ "option_id": 1, "text": "Opaque", "is_correct": false },
+{ "option_id": 2, "text": "Translucent", "is_correct": false },
+{ "option_id": 3, "text": "Transparent", "is_correct": true },
+{ "option_id": 4, "text": "Shadow", "is_correct": false }
+],
+"answer": "Transparent"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "Material through which light does not pass?",
+"options": [
+{ "option_id": 1, "text": "Transparent", "is_correct": false },
+{ "option_id": 2, "text": "Translucent", "is_correct": false },
+{ "option_id": 3, "text": "Opaque", "is_correct": true },
+{ "option_id": 4, "text": "Luminous", "is_correct": false }
+],
+"answer": "Opaque"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Material allowing partial light passage?",
+"options": [
+{ "option_id": 1, "text": "Opaque", "is_correct": false },
+{ "option_id": 2, "text": "Transparent", "is_correct": false },
+{ "option_id": 3, "text": "Translucent", "is_correct": true },
+{ "option_id": 4, "text": "Mirror", "is_correct": false }
+],
+"answer": "Translucent"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "Shadow forms when friend stands between?",
+"options": [
+{ "option_id": 1, "text": "Torch and wall", "is_correct": true },
+{ "option_id": 2, "text": "Wall and light", "is_correct": false },
+{ "option_id": 3, "text": "Only torch", "is_correct": false },
+{ "option_id": 4, "text": "No light", "is_correct": false }
+],
+"answer": "Torch and wall"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "Shadow length due to sunlight morning/evening?",
+"options": [
+{ "option_id": 1, "text": "Short", "is_correct": false },
+{ "option_id": 2, "text": "Long", "is_correct": true },
+{ "option_id": 3, "text": "Same as afternoon", "is_correct": false },
+{ "option_id": 4, "text": "No shadow", "is_correct": false }
+],
+"answer": "Long"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Shadow in afternoon from sunlight?",
+"options": [
+{ "option_id": 1, "text": "Long", "is_correct": false },
+{ "option_id": 2, "text": "Short", "is_correct": true },
+{ "option_id": 3, "text": "Curved", "is_correct": false },
+{ "option_id": 4, "text": "Colored", "is_correct": false }
+],
+"answer": "Short"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "Shadow is?",
+"options": [
+{ "option_id": 1, "text": "Bright part", "is_correct": false },
+{ "option_id": 2, "text": "Dark part where light doesn't reach", "is_correct": true },
+{ "option_id": 3, "text": "Colored region", "is_correct": false },
+{ "option_id": 4, "text": "Reflected light", "is_correct": false }
+],
+"answer": "Dark part where light doesn't reach"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Sundial uses shadow for?",
+"options": [
+{ "option_id": 1, "text": "Decoration", "is_correct": false },
+{ "option_id": 2, "text": "Indicating time", "is_correct": true },
+{ "option_id": 3, "text": "Music", "is_correct": false },
+{ "option_id": 4, "text": "Cooking", "is_correct": false }
+],
+"answer": "Indicating time"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "Newton's disc shows white when rotated fast because?",
+"options": [
+{ "option_id": 1, "text": "Painted white", "is_correct": false },
+{ "option_id": 2, "text": "Sunlight has seven colors", "is_correct": true },
+{ "option_id": 3, "text": "Magic", "is_correct": false },
+{ "option_id": 4, "text": "Black color", "is_correct": false }
+],
+"answer": "Sunlight has seven colors"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "White sunlight separated into how many colors by prism?",
+"options": [
+{ "option_id": 1, "text": "Five", "is_correct": false },
+{ "option_id": 2, "text": "Seven", "is_correct": true },
+{ "option_id": 3, "text": "Three", "is_correct": false },
+{ "option_id": 4, "text": "One", "is_correct": false }
+],
+"answer": "Seven"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "Pinhole camera image type?",
+"options": [
+{ "option_id": 1, "text": "Erect", "is_correct": false },
+{ "option_id": 2, "text": "Inverted", "is_correct": true },
+{ "option_id": 3, "text": "Virtual", "is_correct": false },
+{ "option_id": 4, "text": "Real enlarged", "is_correct": false }
+],
+"answer": "Inverted"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Plane mirror image exchanges?",
+"options": [
+{ "option_id": 1, "text": "Up and down", "is_correct": false },
+{ "option_id": 2, "text": "Left and right", "is_correct": true },
+{ "option_id": 3, "text": "Front and back", "is_correct": false },
+{ "option_id": 4, "text": "Size", "is_correct": false }
+],
+"answer": "Left and right"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Shadow depends on?",
+"options": [
+{ "option_id": 1, "text": "Only object", "is_correct": false },
+{ "option_id": 2, "text": "Source, object, surface", "is_correct": true },
+{ "option_id": 3, "text": "Only light", "is_correct": false },
+{ "option_id": 4, "text": "Colors", "is_correct": false }
+],
+"answer": "Source, object, surface"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Opaque object in light path casts?",
+"options": [
+{ "option_id": 1, "text": "Rainbow", "is_correct": false },
+{ "option_id": 2, "text": "Shadow", "is_correct": true },
+{ "option_id": 3, "text": "Image", "is_correct": false },
+{ "option_id": 4, "text": "Reflection", "is_correct": false }
+],
+"answer": "Shadow"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Firefly is?",
+"options": [
+{ "option_id": 1, "text": "Artificial source", "is_correct": false },
+{ "option_id": 2, "text": "Natural luminous", "is_correct": true },
+{ "option_id": 3, "text": "Non-luminous", "is_correct": false },
+{ "option_id": 4, "text": "Opaque", "is_correct": false }
+],
+"answer": "Natural luminous"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "In bent tube, candle flame seen?",
+"options": [
+{ "option_id": 1, "text": "Clearly", "is_correct": false },
+{ "option_id": 2, "text": "Not seen", "is_correct": true },
+{ "option_id": 3, "text": "Blurred", "is_correct": false },
+{ "option_id": 4, "text": "Enlarged", "is_correct": false }
+],
+"answer": "Not seen"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "Moon is?",
+"options": [
+{ "option_id": 1, "text": "Luminous", "is_correct": false },
+{ "option_id": 2, "text": "Non-luminous", "is_correct": true },
+{ "option_id": 3, "text": "Transparent", "is_correct": false },
+{ "option_id": 4, "text": "Translucent", "is_correct": false }
+],
+"answer": "Non-luminous"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Image in glass pane vs wood?",
+"options": [
+{ "option_id": 1, "text": "Clear on wood", "is_correct": false },
+{ "option_id": 2, "text": "Faint on glass, none on wood", "is_correct": true },
+{ "option_id": 3, "text": "Same on both", "is_correct": false },
+{ "option_id": 4, "text": "None on glass", "is_correct": false }
+],
+"answer": "Faint on glass, none on wood"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Plane mirror image height?",
+"options": [
+{ "option_id": 1, "text": "Different from object", "is_correct": false },
+{ "option_id": 2, "text": "Same as object", "is_correct": true },
+{ "option_id": 3, "text": "Half", "is_correct": false },
+{ "option_id": 4, "text": "Double", "is_correct": false }
+],
+"answer": "Same as object"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "Pinhole camera uses?",
+"options": [
+{ "option_id": 1, "text": "Lens", "is_correct": false },
+{ "option_id": 2, "text": "Small hole", "is_correct": true },
+{ "option_id": 3, "text": "Mirror", "is_correct": false },
+{ "option_id": 4, "text": "Prism", "is_correct": false }
+],
+"answer": "Small hole"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Soap bubble shows?",
+"options": [
+{ "option_id": 1, "text": "Black", "is_correct": false },
+{ "option_id": 2, "text": "Rainbow colors", "is_correct": true },
+{ "option_id": 3, "text": "White only", "is_correct": false },
+{ "option_id": 4, "text": "Shadow", "is_correct": false }
+],
+"answer": "Rainbow colors"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "Sundial location example?",
+"options": [
+{ "option_id": 1, "text": "School", "is_correct": false },
+{ "option_id": 2, "text": "Jantar Mantar, New Delhi", "is_correct": true },
+{ "option_id": 3, "text": "Home", "is_correct": false },
+{ "option_id": 4, "text": "Lab", "is_correct": false }
+],
+"answer": "Jantar Mantar, New Delhi"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Raman Effect about?",
+"options": [
+{ "option_id": 1, "text": "Sound", "is_correct": false },
+{ "option_id": 2, "text": "Scattering of light", "is_correct": true },
+{ "option_id": 3, "text": "Shadows", "is_correct": false },
+{ "option_id": 4, "text": "Magnets", "is_correct": false }
+],
+"answer": "Scattering of light"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "Newton's book on light?",
+"options": [
+{ "option_id": 1, "text": "Shadows", "is_correct": false },
+{ "option_id": 2, "text": "Opticks", "is_correct": true },
+{ "option_id": 3, "text": "Colors", "is_correct": false },
+{ "option_id": 4, "text": "Prisms", "is_correct": false }
+],
+"answer": "Opticks"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "Shadow shape depends on?",
+"options": [
+{ "option_id": 1, "text": "Object only", "is_correct": false },
+{ "option_id": 2, "text": "Source of light, object, surface", "is_correct": true },
+{ "option_id": 3, "text": "Colors", "is_correct": false },
+{ "option_id": 4, "text": "Time", "is_correct": false }
+],
+"answer": "Source of light, object, surface"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "Why not fear night shadows?",
+"options": [
+{ "option_id": 1, "text": "Ghosts", "is_correct": false },
+{ "option_id": 2, "text": "Simple science", "is_correct": true },
+{ "option_id": 3, "text": "Magic", "is_correct": false },
+{ "option_id": 4, "text": "Darkness", "is_correct": false }
+],
+"answer": "Simple science"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Natural sources include?",
+"options": [
+{ "option_id": 1, "text": "Bulb only", "is_correct": false },
+{ "option_id": 2, "text": "Sun, stars, fireflies", "is_correct": true },
+{ "option_id": 3, "text": "Torch only", "is_correct": false },
+{ "option_id": 4, "text": "Candle only", "is_correct": false }
+],
+"answer": "Sun, stars, fireflies"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Artificial sources example?",
+"options": [
+{ "option_id": 1, "text": "Sun", "is_correct": false },
+{ "option_id": 2, "text": "Lantern, candle flame, bulb", "is_correct": true },
+{ "option_id": 3, "text": "Firefly", "is_correct": false },
+{ "option_id": 4, "text": "Stars", "is_correct": false }
+],
+"answer": "Lantern, candle flame, bulb"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Object seen when light?",
+"options": [
+{ "option_id": 1, "text": "Absorbed", "is_correct": false },
+{ "option_id": 2, "text": "Reflected from surface", "is_correct": true },
+{ "option_id": 3, "text": "Transmitted", "is_correct": false },
+{ "option_id": 4, "text": "Blocked", "is_correct": false }
+],
+"answer": "Reflected from surface"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Shadow from?",
+"options": [
+{ "option_id": 1, "text": "Transparent object", "is_correct": false },
+{ "option_id": 2, "text": "Opaque object obstructing light", "is_correct": true },
+{ "option_id": 3, "text": "Translucent", "is_correct": false },
+{ "option_id": 4, "text": "Mirror", "is_correct": false }
+],
+"answer": "Opaque object obstructing light"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "Define luminous objects.",
+"answer": "Objects which emit light themselves"
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "What determines light intensity?",
+"answer": "Extent to which objects emit light"
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "Name main natural light source.",
+"answer": "Sun"
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "Name natural luminous besides sun.",
+"answer": "Stars, fireflies, anglerfish, honey mushroom"
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "Define non-luminous objects.",
+"answer": "Objects not sources of light themselves"
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Path of light visible due to?",
+"answer": "Dust particles"
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Light path shape through slit.",
+"answer": "Straight lines"
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "Result of moving cardboard in hole experiment.",
+"answer": "Flame not seen"
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "Why flame not seen in misaligned holes?",
+"answer": "Light travels straight"
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "Define linear propagation of light.",
+"answer": "Light travels in straight line"
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Define reflection of light.",
+"answer": "Rays thrown back from object surface"
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "How moon visible?",
+"answer": "Sunlight reflected from moon surface"
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "Plane mirror image left-right.",
+"answer": "Exchanged"
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Plane mirror image distance.",
+"answer": "As far behind as object in front"
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "Plane mirror image size.",
+"answer": "Same as object"
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Pinhole camera image orientation.",
+"answer": "Inverted or upside down"
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Define transparent material.",
+"answer": "Light passes through"
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Define opaque material.",
+"answer": "Light does not pass through"
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "Define translucent material.",
+"answer": "Light passes partially"
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Shadow forms on wall when?",
+"answer": "Opaque object between source and wall"
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "Shadow length morning sunlight.",
+"answer": "Long"
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Shadow length afternoon sunlight.",
+"answer": "Short"
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Define shadow.",
+"answer": "Dark part where light does not reach due to opaque object"
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Sundial indicates.",
+"answer": "Time using shadow extent and direction"
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "Newton disc rotation effect.",
+"answer": "Seven colors become white"
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Sunlight colors number.",
+"answer": "Seven"
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Seven colors of sunlight.",
+"answer": "Red, orange, yellow, green, blue, indigo, violet"
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Soap bubble colors.",
+"answer": "Rainbow colors"
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "Raman Effect discovery date.",
+"answer": "28th February 1928"
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "National Science Day.",
+"answer": "28th February"
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Shadow kind depends on distances between.",
+"answer": "Source, object, screen"
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Artificial light sources examples.",
+"answer": "Lantern, candle flame, electric bulb"
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "Planets are.",
+"answer": "Non-luminous"
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Image forming surfaces examples.",
+"answer": "Mirror, steel dish, still water, glossy granite"
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Pinhole camera paper.",
+"answer": "Thin white paper"
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Transparent object examples.",
+"answer": "Piece of glass, water"
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Translucent examples.",
+"answer": "Wax paper, oil paper, tinted glass"
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "Opaque examples.",
+"answer": "Notebook, wooden cupboard, tea kettle"
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Shadow change when object closer to wall.",
+"answer": "Larger shadow"
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Water glass in sunlight on paper shows.",
+"answer": "Rainbow colors"
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "CD in sun shows.",
+"answer": "Colors"
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "Sundial stick position.",
+"answer": "Parallel to earth axis"
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Newton proved sunlight.",
+"answer": "Made of seven colors"
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Pucker lips blowing candle why.",
+"answer": "Increases air pressure"
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Shadow only when light.",
+"answer": "Does not pass through object"
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Object seen by.",
+"answer": "Reflected light reaching eyes"
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "Firefly classification.",
+"answer": "Natural source of light"
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Torch classification.",
+"answer": "Artificial luminous"
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Prism separates light into.",
+"answer": "Seven colors"
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Pinhole image.",
+"answer": "Inverted"
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Shadow forming object type.",
+"answer": "Opaque"
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Transparent light passage.",
+"answer": "Passes through"
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Anglerfish light.",
+"answer": "Natural source"
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Honey mushroom.",
+"answer": "Natural luminous"
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Straight tube candle seen.",
+"answer": "Yes"
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Satellites.",
+"answer": "Non-luminous"
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Mirror reflection property.",
+"answer": "Smooth surface"
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Plane mirror distance change effect.",
+"answer": "Image distance changes similarly"
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Shadow observation trees roadside.",
+"answer": "Length changes morning to afternoon"
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Science behind night shadows.",
+"answer": "Simple science, no fear"
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Newton disc petals.",
+"answer": "Seven colors"
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Raman scientist nationality.",
+"answer": "Indian"
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Shadow fun activity.",
+"answer": "Make shapes of birds animals with hands feet"
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Glass water sunlight experiment.",
+"answer": "Colors on paper"
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Prism torch dark room.",
+"answer": "Same colors"
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "White plastic light.",
+"answer": "Translucent"
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Notebook light passage.",
+"answer": "Opaque"
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Cloth material type.",
+"answer": "Opaque or translucent"
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Torch height change shadow.",
+"answer": "Changes size position"
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Source closer shadow.",
+"answer": "Sharper smaller"
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Object closer screen shadow.",
+"answer": "Larger"
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Pencil luminous?",
+"answer": "Non-luminous"
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Burning candle.",
+"answer": "Luminous"
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Light bulb.",
+"answer": "Luminous artificial"
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Book.",
+"answer": "Non-luminous"
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Tyre.",
+"answer": "Non-luminous"
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "Mirror pair.",
+"answer": "Reflection"
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Firefly pair.",
+"answer": "Luminous"
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Pinhole pair.",
+"answer": "Inverted image"
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Moon pair.",
+"answer": "Non-luminous"
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Shadow necessities.",
+"answer": "Source of light, opaque object, screen"
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Object visibility condition.",
+"answer": "Light reflected to eyes"
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Wax cloth.",
+"answer": "Translucent"
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Pen non-luminous.",
+"answer": "Yes"
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "Newton disc name reason.",
+"answer": "Proved sunlight seven colors"
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Science questions advice.",
+"answer": "Ask and find answers"
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Pucker lips candle blow.",
+"answer": "Small space high air pressure"
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Learn from dust particles.",
+"answer": "Light straight path"
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Anglerfish.",
+"answer": "Natural light source"
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Honey mushroom light.",
+"answer": "Natural"
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Torch light intensity vs candle.",
+"answer": "More intense"
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Window panes types.",
+"answer": "Transparent, opaque, translucent"
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Oil paper.",
+"answer": "Translucent"
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Sheet notebook.",
+"answer": "Translucent"
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Shadow position torch left right.",
+"answer": "Changes"
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Source high low shadow.",
+"answer": "Changes"
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "C.V. Raman discovery.",
+"answer": "Raman Effect scattering light"
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "National Science Day reason.",
+"answer": "Raman Effect commemoration"
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Newton book light.",
+"answer": "Opticks"
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "White sunlight composition.",
+"answer": "Seven colours"
+}
+]
+}

@@ -1,0 +1,1252 @@
+{
+  " Chapter 4": " Weather and Climate",
+  "lessons": [
+    "Weather",
+    "Climate",
+    "Elements of Weather",
+    "Factors Affecting Climate"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is meant by weather?",
+      "options": [
+        { "option_id": 1, "text": "Average atmospheric condition over years", "is_correct": false },
+        { "option_id": 2, "text": "Condition of atmosphere at a given place and time", "is_correct": true },
+        { "option_id": 3, "text": "Seasonal change of climate", "is_correct": false },
+        { "option_id": 4, "text": "Permanent atmospheric condition", "is_correct": false }
+      ],
+      "answer": "Condition of atmosphere at a given place and time"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following best describes climate?",
+      "options": [
+        { "option_id": 1, "text": "Daily condition of atmosphere", "is_correct": false },
+        { "option_id": 2, "text": "Weather condition during a week", "is_correct": false },
+        { "option_id": 3, "text": "Average weather over a long period", "is_correct": true },
+        { "option_id": 4, "text": "Sudden change in weather", "is_correct": false }
+      ],
+      "answer": "Average weather over a long period"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which characteristic of weather makes it different from climate?",
+      "options": [
+        { "option_id": 1, "text": "Weather remains constant", "is_correct": false },
+        { "option_id": 2, "text": "Weather changes frequently", "is_correct": true },
+        { "option_id": 3, "text": "Weather is permanent", "is_correct": false },
+        { "option_id": 4, "text": "Weather is global", "is_correct": false }
+      ],
+      "answer": "Weather changes frequently"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which element of weather is responsible for hot or cold conditions?",
+      "options": [
+        { "option_id": 1, "text": "Humidity", "is_correct": false },
+        { "option_id": 2, "text": "Temperature", "is_correct": true },
+        { "option_id": 3, "text": "Wind", "is_correct": false },
+        { "option_id": 4, "text": "Precipitation", "is_correct": false }
+      ],
+      "answer": "Temperature"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which element of weather refers to the amount of water vapour in air?",
+      "options": [
+        { "option_id": 1, "text": "Air pressure", "is_correct": false },
+        { "option_id": 2, "text": "Humidity", "is_correct": true },
+        { "option_id": 3, "text": "Wind speed", "is_correct": false },
+        { "option_id": 4, "text": "Temperature", "is_correct": false }
+      ],
+      "answer": "Humidity"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What happens to air pressure with increase in height?",
+      "options": [
+        { "option_id": 1, "text": "It increases", "is_correct": false },
+        { "option_id": 2, "text": "It decreases", "is_correct": true },
+        { "option_id": 3, "text": "It remains constant", "is_correct": false },
+        { "option_id": 4, "text": "It becomes zero", "is_correct": false }
+      ],
+      "answer": "It decreases"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why is air pressure higher near the Earth’s surface?",
+      "options": [
+        { "option_id": 1, "text": "Air is lighter near surface", "is_correct": false },
+        { "option_id": 2, "text": "Upper air exerts pressure on lower air", "is_correct": true },
+        { "option_id": 3, "text": "Temperature is high", "is_correct": false },
+        { "option_id": 4, "text": "Humidity is high", "is_correct": false }
+      ],
+      "answer": "Upper air exerts pressure on lower air"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is wind?",
+      "options": [
+        { "option_id": 1, "text": "Vertical movement of air", "is_correct": false },
+        { "option_id": 2, "text": "Horizontal movement of air", "is_correct": true },
+        { "option_id": 3, "text": "Condensed water vapour", "is_correct": false },
+        { "option_id": 4, "text": "Heated air near surface", "is_correct": false }
+      ],
+      "answer": "Horizontal movement of air"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Wind blows from which area to which area?",
+      "options": [
+        { "option_id": 1, "text": "Low pressure to high pressure", "is_correct": false },
+        { "option_id": 2, "text": "High pressure to low pressure", "is_correct": true },
+        { "option_id": 3, "text": "Cold to hot", "is_correct": false },
+        { "option_id": 4, "text": "Humid to dry", "is_correct": false }
+      ],
+      "answer": "High pressure to low pressure"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What determines the speed of wind?",
+      "options": [
+        { "option_id": 1, "text": "Humidity difference", "is_correct": false },
+        { "option_id": 2, "text": "Temperature difference", "is_correct": false },
+        { "option_id": 3, "text": "Difference in air pressure", "is_correct": true },
+        { "option_id": 4, "text": "Cloud cover", "is_correct": false }
+      ],
+      "answer": "Difference in air pressure"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is precipitation?",
+      "options": [
+        { "option_id": 1, "text": "Evaporation of water", "is_correct": false },
+        { "option_id": 2, "text": "Condensation of vapour into droplets or snow", "is_correct": false },
+        { "option_id": 3, "text": "Falling of water droplets or snow on Earth", "is_correct": true },
+        { "option_id": 4, "text": "Movement of moist air", "is_correct": false }
+      ],
+      "answer": "Falling of water droplets or snow on Earth"
+    },
+
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of the following is a form of precipitation?",
+      "options": [
+        { "option_id": 1, "text": "Evaporation", "is_correct": false },
+        { "option_id": 2, "text": "Humidity", "is_correct": false },
+        { "option_id": 3, "text": "Rainfall", "is_correct": true },
+        { "option_id": 4, "text": "Wind", "is_correct": false }
+      ],
+      "answer": "Rainfall"
+    },
+
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which statement correctly differentiates weather and climate?",
+      "options": [
+        { "option_id": 1, "text": "Weather is long-term; climate is short-term", "is_correct": false },
+        { "option_id": 2, "text": "Weather changes frequently; climate does not", "is_correct": true },
+        { "option_id": 3, "text": "Both change daily", "is_correct": false },
+        { "option_id": 4, "text": "Both are same", "is_correct": false }
+      ],
+      "answer": "Weather changes frequently; climate does not"
+    },
+
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which factor influences climate due to distance from equator?",
+      "options": [
+        { "option_id": 1, "text": "Latitude", "is_correct": true },
+        { "option_id": 2, "text": "Longitude", "is_correct": false },
+        { "option_id": 3, "text": "Pressure", "is_correct": false },
+        { "option_id": 4, "text": "Humidity", "is_correct": false }
+      ],
+      "answer": "Latitude"
+    },
+
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why do higher altitude regions have cooler climate?",
+      "options": [
+        { "option_id": 1, "text": "High humidity", "is_correct": false },
+        { "option_id": 2, "text": "Lower air pressure and temperature", "is_correct": true },
+        { "option_id": 3, "text": "Closer to sea", "is_correct": false },
+        { "option_id": 4, "text": "High rainfall", "is_correct": false }
+      ],
+      "answer": "Lower air pressure and temperature"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Why is climate near the sea generally humid?",
+      "options": [
+        { "option_id": 1, "text": "High altitude", "is_correct": false },
+        { "option_id": 2, "text": "Presence of large water bodies", "is_correct": true },
+        { "option_id": 3, "text": "High pressure", "is_correct": false },
+        { "option_id": 4, "text": "Low rainfall", "is_correct": false }
+      ],
+      "answer": "Presence of large water bodies"
+    },
+
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which factor causes coastal areas to have moderate climate?",
+      "options": [
+        { "option_id": 1, "text": "Latitude", "is_correct": false },
+        { "option_id": 2, "text": "Sea water heating and cooling slowly", "is_correct": true },
+        { "option_id": 3, "text": "High altitude", "is_correct": false },
+        { "option_id": 4, "text": "Mountain ranges", "is_correct": false }
+      ],
+      "answer": "Sea water heating and cooling slowly"
+    },
+
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which statement about temperature distribution is correct?",
+      "options": [
+        { "option_id": 1, "text": "Temperature increases towards poles", "is_correct": false },
+        { "option_id": 2, "text": "Temperature decreases with altitude", "is_correct": true },
+        { "option_id": 3, "text": "Temperature remains same everywhere", "is_correct": false },
+        { "option_id": 4, "text": "Temperature increases with height", "is_correct": false }
+      ],
+      "answer": "Temperature decreases with altitude"
+    },
+
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which weather element directly affects drying of clothes?",
+      "options": [
+        { "option_id": 1, "text": "Wind, heat and moisture", "is_correct": true },
+        { "option_id": 2, "text": "Latitude only", "is_correct": false },
+        { "option_id": 3, "text": "Pressure only", "is_correct": false },
+        { "option_id": 4, "text": "Altitude only", "is_correct": false }
+      ],
+      "answer": "Wind, heat and moisture"
+    },
+
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why do clothes dry slowly in humid conditions?",
+      "options": [
+        { "option_id": 1, "text": "High air pressure", "is_correct": false },
+        { "option_id": 2, "text": "Air already contains moisture", "is_correct": true },
+        { "option_id": 3, "text": "Low wind speed", "is_correct": false },
+        { "option_id": 4, "text": "Low temperature only", "is_correct": false }
+      ],
+      "answer": "Air already contains moisture"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which place from the example receives less solar heat?",
+      "options": [
+        { "option_id": 1, "text": "Kochi", "is_correct": false },
+        { "option_id": 2, "text": "Bhopal", "is_correct": false },
+        { "option_id": 3, "text": "Mussoorie", "is_correct": true },
+        { "option_id": 4, "text": "All receive same heat", "is_correct": false }
+      ],
+      "answer": "Mussoorie"
+    },
+
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Why does Mussoorie have cooler weather?",
+      "options": [
+        { "option_id": 1, "text": "Near the sea", "is_correct": false },
+        { "option_id": 2, "text": "High altitude location", "is_correct": true },
+        { "option_id": 3, "text": "Low humidity", "is_correct": false },
+        { "option_id": 4, "text": "Dense forests", "is_correct": false }
+      ],
+      "answer": "High altitude location"
+    },
+
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which condition indicates sultry weather?",
+      "options": [
+        { "option_id": 1, "text": "Low humidity", "is_correct": false },
+        { "option_id": 2, "text": "High humidity and heat", "is_correct": true },
+        { "option_id": 3, "text": "Cold winds", "is_correct": false },
+        { "option_id": 4, "text": "Low temperature", "is_correct": false }
+      ],
+      "answer": "High humidity and heat"
+    },
+
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which element of weather causes cloud formation?",
+      "options": [
+        { "option_id": 1, "text": "Humidity", "is_correct": true },
+        { "option_id": 2, "text": "Pressure", "is_correct": false },
+        { "option_id": 3, "text": "Wind speed", "is_correct": false },
+        { "option_id": 4, "text": "Latitude", "is_correct": false }
+      ],
+      "answer": "Humidity"
+    },
+
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which factor does NOT influence climate?",
+      "options": [
+        { "option_id": 1, "text": "Latitude", "is_correct": false },
+        { "option_id": 2, "text": "Height above sea level", "is_correct": false },
+        { "option_id": 3, "text": "Type of soil", "is_correct": true },
+        { "option_id": 4, "text": "Distance from sea", "is_correct": false }
+      ],
+      "answer": "Type of soil"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Why does temperature decrease from equator towards poles?",
+      "options": [
+        { "option_id": 1, "text": "Earth’s rotation", "is_correct": false },
+        { "option_id": 2, "text": "Less direct solar rays", "is_correct": true },
+        { "option_id": 3, "text": "High humidity", "is_correct": false },
+        { "option_id": 4, "text": "Ocean currents", "is_correct": false }
+      ],
+      "answer": "Less direct solar rays"
+    },
+
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which weather condition affects daily lifestyle the most?",
+      "options": [
+        { "option_id": 1, "text": "Climate", "is_correct": false },
+        { "option_id": 2, "text": "Weather", "is_correct": true },
+        { "option_id": 3, "text": "Latitude", "is_correct": false },
+        { "option_id": 4, "text": "Altitude", "is_correct": false }
+      ],
+      "answer": "Weather"
+    },
+
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which element of weather is responsible for snowfall?",
+      "options": [
+        { "option_id": 1, "text": "Precipitation", "is_correct": true },
+        { "option_id": 2, "text": "Humidity", "is_correct": false },
+        { "option_id": 3, "text": "Pressure", "is_correct": false },
+        { "option_id": 4, "text": "Wind", "is_correct": false }
+      ],
+      "answer": "Precipitation"
+    },
+
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which statement about climate change in short duration is correct?",
+      "options": [
+        { "option_id": 1, "text": "Climate changes daily", "is_correct": false },
+        { "option_id": 2, "text": "Climate changes slowly", "is_correct": true },
+        { "option_id": 3, "text": "Climate changes hourly", "is_correct": false },
+        { "option_id": 4, "text": "Climate is unpredictable daily", "is_correct": false }
+      ],
+      "answer": "Climate changes slowly"
+    },
+
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which factor links climate with human activities?",
+      "options": [
+        { "option_id": 1, "text": "Longitude", "is_correct": false },
+        { "option_id": 2, "text": "Climate influencing diet and shelter", "is_correct": true },
+        { "option_id": 3, "text": "Pressure gradient", "is_correct": false },
+        { "option_id": 4, "text": "Wind direction", "is_correct": false }
+      ],
+      "answer": "Climate influencing diet and shelter"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which living regions are most suitable for life?",
+      "options": [
+        { "option_id": 1, "text": "Extreme climate regions", "is_correct": false },
+        { "option_id": 2, "text": "Regions with conducive climate", "is_correct": true },
+        { "option_id": 3, "text": "Only cold regions", "is_correct": false },
+        { "option_id": 4, "text": "Only hot regions", "is_correct": false }
+      ],
+      "answer": "Regions with conducive climate"
+    },
+
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which element of weather directly influences air density?",
+      "options": [
+        { "option_id": 1, "text": "Temperature", "is_correct": true },
+        { "option_id": 2, "text": "Humidity", "is_correct": false },
+        { "option_id": 3, "text": "Precipitation", "is_correct": false },
+        { "option_id": 4, "text": "Latitude", "is_correct": false }
+      ],
+      "answer": "Temperature"
+    },
+
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which example shows changing weather in a single day?",
+      "options": [
+        { "option_id": 1, "text": "Seasonal cycle", "is_correct": false },
+        { "option_id": 2, "text": "Cold morning and rainy afternoon", "is_correct": true },
+        { "option_id": 3, "text": "Average yearly rainfall", "is_correct": false },
+        { "option_id": 4, "text": "Monsoon pattern", "is_correct": false }
+      ],
+      "answer": "Cold morning and rainy afternoon"
+    },
+
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which weather condition leads to pleasant night breeze?",
+      "options": [
+        { "option_id": 1, "text": "High temperature", "is_correct": false },
+        { "option_id": 2, "text": "Balanced temperature and pressure", "is_correct": true },
+        { "option_id": 3, "text": "Heavy rainfall", "is_correct": false },
+        { "option_id": 4, "text": "High humidity", "is_correct": false }
+      ],
+      "answer": "Balanced temperature and pressure"
+    },
+
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which factor affects drying of clothes the least?",
+      "options": [
+        { "option_id": 1, "text": "Wind", "is_correct": false },
+        { "option_id": 2, "text": "Moisture", "is_correct": false },
+        { "option_id": 3, "text": "Heat", "is_correct": false },
+        { "option_id": 4, "text": "Latitude", "is_correct": true }
+      ],
+      "answer": "Latitude"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Why do clothes dry faster in Bhopal compared to Kochi?",
+      "options": [
+        { "option_id": 1, "text": "Higher altitude", "is_correct": false },
+        { "option_id": 2, "text": "Hot and sunny weather", "is_correct": true },
+        { "option_id": 3, "text": "High humidity", "is_correct": false },
+        { "option_id": 4, "text": "Cold air", "is_correct": false }
+      ],
+      "answer": "Hot and sunny weather"
+    },
+
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which condition indicates cloudy weather?",
+      "options": [
+        { "option_id": 1, "text": "High solar radiation", "is_correct": false },
+        { "option_id": 2, "text": "Little sunlight", "is_correct": true },
+        { "option_id": 3, "text": "Dry air", "is_correct": false },
+        { "option_id": 4, "text": "Strong winds", "is_correct": false }
+      ],
+      "answer": "Little sunlight"
+    },
+
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which element of weather helps describe sultry conditions?",
+      "options": [
+        { "option_id": 1, "text": "Pressure", "is_correct": false },
+        { "option_id": 2, "text": "Humidity and temperature", "is_correct": true },
+        { "option_id": 3, "text": "Wind speed", "is_correct": false },
+        { "option_id": 4, "text": "Latitude", "is_correct": false }
+      ],
+      "answer": "Humidity and temperature"
+    },
+
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which factor helps define climate categories like hot and humid?",
+      "options": [
+        { "option_id": 1, "text": "Single day observation", "is_correct": false },
+        { "option_id": 2, "text": "Long-term weather data", "is_correct": true },
+        { "option_id": 3, "text": "Instant rainfall", "is_correct": false },
+        { "option_id": 4, "text": "Daily temperature", "is_correct": false }
+      ],
+      "answer": "Long-term weather data"
+    },
+
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which term describes vertical variation in air pressure?",
+      "options": [
+        { "option_id": 1, "text": "Horizontal pressure", "is_correct": false },
+        { "option_id": 2, "text": "Vertical air pressure", "is_correct": true },
+        { "option_id": 3, "text": "Wind pressure", "is_correct": false },
+        { "option_id": 4, "text": "Climate pressure", "is_correct": false }
+      ],
+      "answer": "Vertical air pressure"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which factor leads to wind formation?",
+      "options": [
+        { "option_id": 1, "text": "Humidity gradient", "is_correct": false },
+        { "option_id": 2, "text": "Air pressure difference", "is_correct": true },
+        { "option_id": 3, "text": "Temperature drop", "is_correct": false },
+        { "option_id": 4, "text": "Rainfall amount", "is_correct": false }
+      ],
+      "answer": "Air pressure difference"
+    },
+
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which weather element affects cloud formation most directly?",
+      "options": [
+        { "option_id": 1, "text": "Humidity", "is_correct": true },
+        { "option_id": 2, "text": "Pressure", "is_correct": false },
+        { "option_id": 3, "text": "Latitude", "is_correct": false },
+        { "option_id": 4, "text": "Altitude", "is_correct": false }
+      ],
+      "answer": "Humidity"
+    },
+
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which statement about precipitation is correct?",
+      "options": [
+        { "option_id": 1, "text": "It is only rainfall", "is_correct": false },
+        { "option_id": 2, "text": "It includes rain, snow and hail", "is_correct": true },
+        { "option_id": 3, "text": "It is evaporation", "is_correct": false },
+        { "option_id": 4, "text": "It is cloud formation", "is_correct": false }
+      ],
+      "answer": "It includes rain, snow and hail"
+    },
+
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which condition best explains frequent weather changes?",
+      "options": [
+        { "option_id": 1, "text": "Static atmosphere", "is_correct": false },
+        { "option_id": 2, "text": "Dynamic atmospheric elements", "is_correct": true },
+        { "option_id": 3, "text": "Fixed climate", "is_correct": false },
+        { "option_id": 4, "text": "Constant temperature", "is_correct": false }
+      ],
+      "answer": "Dynamic atmospheric elements"
+    },
+
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which factor connects climate with distribution of life?",
+      "options": [
+        { "option_id": 1, "text": "Altitude only", "is_correct": false },
+        { "option_id": 2, "text": "Conducive climatic conditions", "is_correct": true },
+        { "option_id": 3, "text": "Longitude", "is_correct": false },
+        { "option_id": 4, "text": "Pressure only", "is_correct": false }
+      ],
+      "answer": "Conducive climatic conditions"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which statement about climate observation is correct?",
+      "options": [
+        { "option_id": 1, "text": "Observed for a few days", "is_correct": false },
+        { "option_id": 2, "text": "Observed over many years", "is_correct": true },
+        { "option_id": 3, "text": "Observed hourly", "is_correct": false },
+        { "option_id": 4, "text": "Observed seasonally only", "is_correct": false }
+      ],
+      "answer": "Observed over many years"
+    },
+
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which example shows influence of climate on human life?",
+      "options": [
+        { "option_id": 1, "text": "Wind direction", "is_correct": false },
+        { "option_id": 2, "text": "Choice of clothing", "is_correct": true },
+        { "option_id": 3, "text": "Latitude lines", "is_correct": false },
+        { "option_id": 4, "text": "Pressure gradient", "is_correct": false }
+      ],
+      "answer": "Choice of clothing"
+    },
+
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which factor influences climate through oceanic effect?",
+      "options": [
+        { "option_id": 1, "text": "Nearness to ocean", "is_correct": true },
+        { "option_id": 2, "text": "Latitude", "is_correct": false },
+        { "option_id": 3, "text": "Altitude", "is_correct": false },
+        { "option_id": 4, "text": "Wind speed", "is_correct": false }
+      ],
+      "answer": "Nearness to ocean"
+    },
+
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which element of weather affects visibility during rain?",
+      "options": [
+        { "option_id": 1, "text": "Pressure", "is_correct": false },
+        { "option_id": 2, "text": "Precipitation", "is_correct": true },
+        { "option_id": 3, "text": "Latitude", "is_correct": false },
+        { "option_id": 4, "text": "Altitude", "is_correct": false }
+      ],
+      "answer": "Precipitation"
+    },
+
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which conclusion about weather and climate is correct?",
+      "options": [
+        { "option_id": 1, "text": "Both change rapidly", "is_correct": false },
+        { "option_id": 2, "text": "Weather affects daily life more directly", "is_correct": true },
+        { "option_id": 3, "text": "Climate affects hourly activities", "is_correct": false },
+        { "option_id": 4, "text": "Both are identical", "is_correct": false }
+      ],
+      "answer": "Weather affects daily life more directly"
+    } ,
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define weather.",
+      "answer": "Weather is the condition of the atmosphere at a particular place and at a given time."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why is weather described as short-lived?",
+      "answer": "Weather is short-lived because atmospheric conditions change frequently."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Give two examples of weather conditions.",
+      "answer": "Hot weather and rainy weather are examples of weather conditions."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is meant by climate?",
+      "answer": "Climate is the average weather condition of a place observed over a long period of time."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why does climate not change frequently like weather?",
+      "answer": "Climate is based on long-term average weather conditions and therefore changes slowly."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What information do scientists use to determine the climate of a region?",
+      "answer": "Scientists study the weather of a region for many years to determine its climate."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "State one way in which weather affects daily life.",
+      "answer": "Weather affects daily life by influencing clothing, travel and outdoor activities."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name any two elements of weather.",
+      "answer": "Temperature and humidity are two elements of weather."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is temperature?",
+      "answer": "Temperature indicates the degree of hotness or coldness of the air."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why does air temperature decrease with increase in height?",
+      "answer": "Air temperature decreases with height because the air near the Earth’s surface receives more heat from the Sun."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is air pressure?",
+      "answer": "Air pressure is the pressure exerted by the weight of air on the Earth’s surface."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is air pressure higher near the Earth’s surface?",
+      "answer": "Air pressure is higher near the surface because the lower layers of air bear the weight of the upper layers."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What happens to air pressure with increase in altitude?",
+      "answer": "Air pressure decreases with increase in altitude."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Define wind.",
+      "answer": "Wind is the horizontal movement of air from high pressure areas to low pressure areas."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why does air move from high pressure to low pressure areas?",
+      "answer": "Air moves to balance the difference in air pressure between regions."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What determines the speed of wind?",
+      "answer": "The speed of wind depends on the difference in air pressure between two places."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is moisture in the atmosphere?",
+      "answer": "Moisture is the amount of water vapour present in the atmosphere."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why can warm air hold more moisture?",
+      "answer": "Warm air can hold more moisture because higher temperature increases its capacity to retain water vapour."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is precipitation?",
+      "answer": "Precipitation is the falling of condensed water droplets or snow particles on the Earth."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Name any two forms of precipitation.",
+      "answer": "Rainfall and snowfall are two forms of precipitation."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How is weather different from climate?",
+      "answer": "Weather refers to short-term atmospheric conditions while climate refers to long-term average conditions."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why are changes in climate not easily noticed?",
+      "answer": "Changes in climate occur over a long period of time and are therefore not easily noticed."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How does latitude influence climate?",
+      "answer": "Latitude influences climate by affecting the amount of solar heat received by a region."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why are regions near the equator warmer?",
+      "answer": "Regions near the equator receive direct and intense solar rays, making them warmer."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How does height above sea level affect climate?",
+      "answer": "Higher regions have cooler climates because temperature decreases with altitude."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why is the climate near the sea generally humid?",
+      "answer": "The climate near the sea is humid due to the presence of large water bodies supplying moisture to the air."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why do coastal areas experience moderate temperatures?",
+      "answer": "Coastal areas experience moderate temperatures because sea water heats and cools slowly."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Name two other factors that influence climate besides latitude and altitude.",
+      "answer": "Nearness to the ocean and winds influence climate."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why does Mussoorie have a cool climate?",
+      "answer": "Mussoorie has a cool climate because it is located at a high altitude."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why does Kochi experience humid weather?",
+      "answer": "Kochi experiences humid weather due to its nearness to the sea."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why do clothes dry faster in hot and sunny weather?",
+      "answer": "Clothes dry faster in hot and sunny weather because higher temperature speeds up evaporation."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why do clothes dry slowly during the rainy season?",
+      "answer": "Clothes dry slowly during the rainy season because the air already contains high moisture."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Which elements of weather affect drying of clothes?",
+      "answer": "Heat, moisture and wind affect the drying of clothes."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How does wind help in drying clothes?",
+      "answer": "Wind removes moist air around the clothes, allowing faster evaporation."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is the study of weather important?",
+      "answer": "The study of weather is important as it affects daily activities and human life."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How does climate influence living organisms?",
+      "answer": "Climate influences the survival, distribution and lifestyle of living organisms."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why does life thrive in regions with a conducive climate?",
+      "answer": "A conducive climate provides suitable conditions for growth and survival."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "How does climate influence human shelter?",
+      "answer": "Climate influences the type of houses built to protect from heat, cold or rain."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How does climate affect human diet?",
+      "answer": "Climate affects the type of food grown and consumed in a region."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is water distribution an important factor of climate?",
+      "answer": "Water distribution affects humidity, rainfall and overall climate of a region."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is meant by vertical air pressure variation?",
+      "answer": "Vertical air pressure variation refers to the change in air pressure with height."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What causes horizontal movement of air?",
+      "answer": "Horizontal movement of air is caused by differences in air pressure."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why are changes in weather easily perceived?",
+      "answer": "Changes in weather are easily perceived because they occur frequently."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why is climate described using terms like hot and humid?",
+      "answer": "Such terms describe the overall long-term characteristics of weather."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What role do mountain ranges play in influencing climate?",
+      "answer": "Mountain ranges influence climate by affecting winds and rainfall patterns."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How do local winds affect climate?",
+      "answer": "Local winds influence temperature and rainfall in a region."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is weather observation important for agriculture?",
+      "answer": "Weather observation helps farmers plan sowing, irrigation and harvesting."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How does rainfall influence climate classification?",
+      "answer": "Rainfall determines whether a climate is dry, humid or wet."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is climate different at different places?",
+      "answer": "Climate differs due to variations in latitude, altitude, distance from sea and winds."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "State one importance of studying climate.",
+      "answer": "Studying climate helps in understanding long-term environmental conditions."
+    } ,
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why is weather important for planning daily activities?",
+      "answer": "Weather information helps people plan travel, work, farming and outdoor activities."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does sudden weather change affect human life?",
+      "answer": "Sudden weather changes can disrupt transport, agriculture and daily routines."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is climate studied over a long period of time?",
+      "answer": "Climate requires long-term observation to understand average atmospheric behavior."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why cannot a single day’s weather represent the climate of a place?",
+      "answer": "Climate is based on long-term averages, not on short-term weather conditions."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "How does temperature influence air pressure?",
+      "answer": "Warm air becomes lighter and exerts lower pressure, while cold air is heavier and exerts higher pressure."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why is air pressure lower at higher altitudes?",
+      "answer": "At higher altitudes there is less air above, reducing the pressure exerted."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How does difference in air pressure lead to wind formation?",
+      "answer": "Air moves from high pressure areas to low pressure areas, resulting in wind."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why is wind an important element of weather?",
+      "answer": "Wind influences temperature, rainfall distribution and evaporation."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How does moisture in air affect weather conditions?",
+      "answer": "Moisture affects cloud formation, rainfall and humidity levels."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why does high humidity cause discomfort to humans?",
+      "answer": "High humidity reduces evaporation of sweat, making the body feel uncomfortable."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "How does precipitation influence the environment?",
+      "answer": "Precipitation provides water necessary for plants, animals and human use."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why is rainfall considered essential for agriculture?",
+      "answer": "Rainfall supplies water required for crop growth and soil fertility."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "How does uneven rainfall affect human settlements?",
+      "answer": "Uneven rainfall can cause floods in some areas and droughts in others."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why is temperature lower in mountainous regions?",
+      "answer": "Temperature decreases with altitude, making mountainous regions cooler."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "How does distance from the sea influence temperature range?",
+      "answer": "Places far from the sea experience extreme temperatures due to lack of moderating effect."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why do inland areas experience extreme climates?",
+      "answer": "Inland areas lack the moderating influence of large water bodies."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "How does latitude control the amount of solar heat received?",
+      "answer": "Latitude determines the angle of solar rays, affecting heat distribution."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why are polar regions extremely cold?",
+      "answer": "Polar regions receive slanting solar rays and less solar heat."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "How does climate influence vegetation types?",
+      "answer": "Climate determines temperature and rainfall, which control vegetation growth."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why are deserts sparsely populated?",
+      "answer": "Deserts have extreme climate and very low rainfall, making life difficult."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "How does climate affect availability of water resources?",
+      "answer": "Climate controls rainfall and snowfall, which determine water availability."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why is climate important for planning settlements?",
+      "answer": "Climate affects housing style, water supply and occupation of people."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "How does climate influence human clothing?",
+      "answer": "People wear clothes suitable to protect themselves from heat, cold or rain."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why are thick clothes used in cold regions?",
+      "answer": "Thick clothes help retain body heat in cold climates."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "How does climate affect occupation of people?",
+      "answer": "Climate influences farming, fishing and other livelihood activities."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why is climate considered a natural resource?",
+      "answer": "Climate supports life and determines availability of natural resources."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How does climate impact tourism?",
+      "answer": "Tourism depends on pleasant climatic conditions for travel and recreation."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why do people prefer hill stations in summer?",
+      "answer": "Hill stations have cooler climate due to high altitude."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "How does climate influence food habits?",
+      "answer": "Climate determines crops grown, influencing regional diets."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why is climate suitable near coastal regions?",
+      "answer": "Sea moderates temperature, making climate pleasant."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "How does wind influence rainfall distribution?",
+      "answer": "Winds carry moisture and cause rainfall when air rises and cools."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why does wind direction matter in weather studies?",
+      "answer": "Wind direction affects temperature and moisture movement."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "How does climate affect soil formation?",
+      "answer": "Climate controls weathering processes that form soil."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why is moderate climate ideal for human life?",
+      "answer": "Moderate climate supports agriculture, health and comfortable living."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "How does climate influence population density?",
+      "answer": "Regions with favorable climate attract higher population."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why is climate described using terms like hot, cold or humid?",
+      "answer": "Such terms summarize long-term atmospheric conditions."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "How does climate affect biodiversity?",
+      "answer": "Climate determines the type of plants and animals that can survive."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why are forests dense in regions of high rainfall?",
+      "answer": "High rainfall supports abundant plant growth."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "How does climate influence human health?",
+      "answer": "Climate affects disease spread, nutrition and comfort."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is knowledge of climate essential for disaster management?",
+      "answer": "Climate knowledge helps predict floods, droughts and storms."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "How does climate affect availability of natural vegetation?",
+      "answer": "Climate controls temperature and rainfall required for vegetation."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why do regions with harsh climate have sparse population?",
+      "answer": "Harsh climate makes survival and livelihood difficult."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "How does climate affect animal adaptation?",
+      "answer": "Animals adapt their body features and behavior to climate."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why is climate a major factor in regional development?",
+      "answer": "Climate influences agriculture, industry and living conditions."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "How does climate affect energy requirements?",
+      "answer": "Extreme climates increase energy needs for heating or cooling."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why is climate studied in geography?",
+      "answer": "Climate explains distribution of life and human activities."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "How does climate influence cultural practices?",
+      "answer": "Climate shapes clothing, housing and lifestyle traditions."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is climate considered a controlling factor of environment?",
+      "answer": "Climate controls water, vegetation and living conditions."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "How does climate affect long-term planning?",
+      "answer": "Climate helps plan agriculture, infrastructure and settlement."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "State the overall importance of studying weather and climate.",
+      "answer": "Studying weather and climate helps understand Earth’s environment and human life."
+    }
+  ]
+}

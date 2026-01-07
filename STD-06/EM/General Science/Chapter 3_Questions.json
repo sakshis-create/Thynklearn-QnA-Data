@@ -1,0 +1,1210 @@
+{
+"Chapter": "Diversity in Living Things and their Classification",
+"lessons": [
+"Classification of Plants",
+"Classification of Animals"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "Why have various types of living things survived on earth?",
+"options": [
+{ "option_id": 1, "text": "Because they do not adjust to surroundings", "is_correct": false },
+{ "option_id": 2, "text": "Due to their ability to adjust to the conditions in their surroundings", "is_correct": true },
+{ "option_id": 3, "text": "Because geographical conditions are uniform", "is_correct": false },
+{ "option_id": 4, "text": "Due to lack of diversity", "is_correct": false }
+],
+"answer": "Due to their ability to adjust to the conditions in their surroundings"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "Plants that make their own food in sunlight are called?",
+"options": [
+{ "option_id": 1, "text": "Heterotrophic plants", "is_correct": false },
+{ "option_id": 2, "text": "Insectivorous plants", "is_correct": false },
+{ "option_id": 3, "text": "Autotrophic plants", "is_correct": true },
+{ "option_id": 4, "text": "Parasitic plants", "is_correct": false }
+],
+"answer": "Autotrophic plants"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "Which of the following is an example of autotrophic plants?",
+"options": [
+{ "option_id": 1, "text": "Funguses", "is_correct": false },
+{ "option_id": 2, "text": "Loranthus", "is_correct": false },
+{ "option_id": 3, "text": "Hibiscus", "is_correct": true },
+{ "option_id": 4, "text": "Dodder", "is_correct": false }
+],
+"answer": "Hibiscus"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "Plants that use other plants for food are called?",
+"options": [
+{ "option_id": 1, "text": "Autotrophic", "is_correct": false },
+{ "option_id": 2, "text": "Heterotrophic", "is_correct": true },
+{ "option_id": 3, "text": "Insectivorous", "is_correct": false },
+{ "option_id": 4, "text": "Aquatic", "is_correct": false }
+],
+"answer": "Heterotrophic"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Which plant consumes insects and is therefore called insectivorous?",
+"options": [
+{ "option_id": 1, "text": "Pitcher plant", "is_correct": true },
+{ "option_id": 2, "text": "Hibiscus", "is_correct": false },
+{ "option_id": 3, "text": "Pomegranate", "is_correct": false },
+{ "option_id": 4, "text": "Periwinkle", "is_correct": false }
+],
+"answer": "Pitcher plant"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "On what basis are plants classified for convenience?",
+"options": [
+{ "option_id": 1, "text": "Similarities and differences in their structure, organs and characteristics", "is_correct": true },
+{ "option_id": 2, "text": "Colour of flowers only", "is_correct": false },
+{ "option_id": 3, "text": "Size of fruits only", "is_correct": false },
+{ "option_id": 4, "text": "Taste of leaves", "is_correct": false }
+],
+"answer": "Similarities and differences in their structure, organs and characteristics"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "Which scientist made the first scientific classification of plants?",
+"options": [
+{ "option_id": 1, "text": "Charles Darwin", "is_correct": false },
+{ "option_id": 2, "text": "Gregor Mendel", "is_correct": false },
+{ "option_id": 3, "text": "Carolus Linnaeus", "is_correct": true },
+{ "option_id": 4, "text": "Robert Hooke", "is_correct": false }
+],
+"answer": "Carolus Linnaeus"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "Which two main parts is the structure of a plant generally divided into?",
+"options": [
+{ "option_id": 1, "text": "Leaves and flowers", "is_correct": false },
+{ "option_id": 2, "text": "Stem and root", "is_correct": true },
+{ "option_id": 3, "text": "Fruits and seeds", "is_correct": false },
+{ "option_id": 4, "text": "Bark and wood", "is_correct": false }
+],
+"answer": "Stem and root"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "What is the primary function of the root?",
+"options": [
+{ "option_id": 1, "text": "To produce food", "is_correct": false },
+{ "option_id": 2, "text": "To absorb and transport water and nutrients from the soil", "is_correct": true },
+{ "option_id": 3, "text": "To bear flowers", "is_correct": false },
+{ "option_id": 4, "text": "To store seeds", "is_correct": false }
+],
+"answer": "To absorb and transport water and nutrients from the soil"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Which plants have taproot system?",
+"options": [
+{ "option_id": 1, "text": "Onion and grass", "is_correct": false },
+{ "option_id": 2, "text": "Hibiscus and banyan", "is_correct": true },
+{ "option_id": 3, "text": "Rose and mango", "is_correct": false },
+{ "option_id": 4, "text": "Potato and carrot", "is_correct": false }
+],
+"answer": "Hibiscus and banyan"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "Which plants have fibrous root system?",
+"options": [
+{ "option_id": 1, "text": "Hibiscus and banyan", "is_correct": false },
+{ "option_id": 2, "text": "Onion and grass", "is_correct": true },
+{ "option_id": 3, "text": "Mango and tamarind", "is_correct": false },
+{ "option_id": 4, "text": "Oleander and lantana", "is_correct": false }
+],
+"answer": "Onion and grass"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "What is the main role of the leaf?",
+"options": [
+{ "option_id": 1, "text": "Anchoring the plant", "is_correct": false },
+{ "option_id": 2, "text": "Production of food", "is_correct": true },
+{ "option_id": 3, "text": "Storage of water", "is_correct": false },
+{ "option_id": 4, "text": "Reproduction", "is_correct": false }
+],
+"answer": "Production of food"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "Which types of leaves are mentioned in the chapter?",
+"options": [
+{ "option_id": 1, "text": "Tap leaves and fibrous leaves", "is_correct": false },
+{ "option_id": 2, "text": "Simple and compound leaves", "is_correct": true },
+{ "option_id": 3, "text": "Hard and soft leaves", "is_correct": false },
+{ "option_id": 4, "text": "Green and yellow leaves", "is_correct": false }
+],
+"answer": "Simple and compound leaves"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "Example of a plant with simple leaf?",
+"options": [
+{ "option_id": 1, "text": "Rose", "is_correct": false },
+{ "option_id": 2, "text": "Hibiscus", "is_correct": true },
+{ "option_id": 3, "text": "Onion", "is_correct": false },
+{ "option_id": 4, "text": "Grass", "is_correct": false }
+],
+"answer": "Hibiscus"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Which plants' roots store food?",
+"options": [
+{ "option_id": 1, "text": "Hibiscus and rose", "is_correct": false },
+{ "option_id": 2, "text": "Carrot and radish", "is_correct": true },
+{ "option_id": 3, "text": "Mango and banyan", "is_correct": false },
+{ "option_id": 4, "text": "Fenugreek and periwinkle", "is_correct": false }
+],
+"answer": "Carrot and radish"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "What functions does the stem perform?",
+"options": [
+{ "option_id": 1, "text": "Only absorption", "is_correct": false },
+{ "option_id": 2, "text": "Production, conduction and storage of food; support to other parts", "is_correct": true },
+{ "option_id": 3, "text": "Reproduction only", "is_correct": false },
+{ "option_id": 4, "text": "Bearing fruits", "is_correct": false }
+],
+"answer": "Production, conduction and storage of food; support to other parts"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "Which plants are examples of trees?",
+"options": [
+{ "option_id": 1, "text": "Fenugreek and periwinkle", "is_correct": false },
+{ "option_id": 2, "text": "Mango, banyan and tamarind", "is_correct": true },
+{ "option_id": 3, "text": "Hibiscus and oleander", "is_correct": false },
+{ "option_id": 4, "text": "Pumpkin and watermelon", "is_correct": false }
+],
+"answer": "Mango, banyan and tamarind"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "What characterizes trees?",
+"options": [
+{ "option_id": 1, "text": "Short and flexible stems", "is_correct": false },
+{ "option_id": 2, "text": "Tall, hard and strong trunk with branches above ground", "is_correct": true },
+{ "option_id": 3, "text": "Grow close to ground", "is_correct": false },
+{ "option_id": 4, "text": "Live for few months", "is_correct": false }
+],
+"answer": "Tall, hard and strong trunk with branches above ground"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Examples of shrubs?",
+"options": [
+{ "option_id": 1, "text": "Mango and banyan", "is_correct": false },
+{ "option_id": 2, "text": "Oleander, hibiscus, lantana, koranti and rose", "is_correct": true },
+{ "option_id": 3, "text": "Grass and onion", "is_correct": false },
+{ "option_id": 4, "text": "Jowar and sunflower", "is_correct": false }
+],
+"answer": "Oleander, hibiscus, lantana, koranti and rose"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "What is the height range of shrubs?",
+"options": [
+{ "option_id": 1, "text": "1 to 1.5 metres", "is_correct": false },
+{ "option_id": 2, "text": "Two to three metres", "is_correct": true },
+{ "option_id": 3, "text": "Over 10 metres", "is_correct": false },
+{ "option_id": 4, "text": "Less than 0.5 metre", "is_correct": false }
+],
+"answer": "Two to three metres"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "Which plants are herbs?",
+"options": [
+{ "option_id": 1, "text": "Tall trees like mango", "is_correct": false },
+{ "option_id": 2, "text": "Fenugreek and periwinkle", "is_correct": true },
+{ "option_id": 3, "text": "Banyan and tamarind", "is_correct": false },
+{ "option_id": 4, "text": "Oleander and lantana", "is_correct": false }
+],
+"answer": "Fenugreek and periwinkle"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "Characteristics of herbs' stems?",
+"options": [
+{ "option_id": 1, "text": "Thick and hard", "is_correct": false },
+{ "option_id": 2, "text": "Green and quite flexible", "is_correct": true },
+{ "option_id": 3, "text": "Brown and woody", "is_correct": false },
+{ "option_id": 4, "text": "Underground", "is_correct": false }
+],
+"answer": "Green and quite flexible"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Height of herbs?",
+"options": [
+{ "option_id": 1, "text": "1 to 1.5 metres tall", "is_correct": true },
+{ "option_id": 2, "text": "2 to 3 metres", "is_correct": false },
+{ "option_id": 3, "text": "Over 5 metres", "is_correct": false },
+{ "option_id": 4, "text": "Less than 0.5 metre", "is_correct": false }
+],
+"answer": "1 to 1.5 metres tall"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "Which vines need vertical support for growing?",
+"options": [
+{ "option_id": 1, "text": "Watermelon", "is_correct": false },
+{ "option_id": 2, "text": "Climbers like money plant", "is_correct": true },
+{ "option_id": 3, "text": "Grass", "is_correct": false },
+{ "option_id": 4, "text": "Fenugreek", "is_correct": false }
+],
+"answer": "Climbers like money plant"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "What characterizes the stem of a creeper?",
+"options": [
+{ "option_id": 1, "text": "Hard and woody", "is_correct": false },
+{ "option_id": 2, "text": "Very flexible, soft and green", "is_correct": true },
+{ "option_id": 3, "text": "Thick trunk", "is_correct": false },
+{ "option_id": 4, "text": "Underground", "is_correct": false }
+],
+"answer": "Very flexible, soft and green"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Examples of vines mentioned?",
+"options": [
+{ "option_id": 1, "text": "Pumpkin, railroad creeper, kavali, watermelon, grapevine", "is_correct": true },
+{ "option_id": 2, "text": "Mango, banyan, tamarind", "is_correct": false },
+{ "option_id": 3, "text": "Hibiscus, oleander", "is_correct": false },
+{ "option_id": 4, "text": "Fenugreek, periwinkle", "is_correct": false }
+],
+"answer": "Pumpkin, railroad creeper, kavali, watermelon, grapevine"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "What are annual plants?",
+"options": [
+{ "option_id": 1, "text": "Live for several years", "is_correct": false },
+{ "option_id": 2, "text": "Lifecycle completed in one year", "is_correct": true },
+{ "option_id": 3, "text": "Lifecycle of two years", "is_correct": false },
+{ "option_id": 4, "text": "Grow indefinitely", "is_correct": false }
+],
+"answer": "Lifecycle completed in one year"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Examples of annual plants?",
+"options": [
+{ "option_id": 1, "text": "Carrot, beetroot", "is_correct": false },
+{ "option_id": 2, "text": "Jowar, sunflower", "is_correct": true },
+{ "option_id": 3, "text": "Mango, gulmohur", "is_correct": false },
+{ "option_id": 4, "text": "Hibiscus, oleander", "is_correct": false }
+],
+"answer": "Jowar, sunflower"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "What are biennial plants?",
+"options": [
+{ "option_id": 1, "text": "Lifecycle of one year", "is_correct": false },
+{ "option_id": 2, "text": "Lifecycle of two years", "is_correct": true },
+{ "option_id": 3, "text": "Live several years", "is_correct": false },
+{ "option_id": 4, "text": "Perennial shrubs", "is_correct": false }
+],
+"answer": "Lifecycle of two years"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "Examples of biennial plants?",
+"options": [
+{ "option_id": 1, "text": "Jowar, sunflower", "is_correct": false },
+{ "option_id": 2, "text": "Carrot, beetroot", "is_correct": true },
+{ "option_id": 3, "text": "Hibiscus, oleander", "is_correct": false },
+{ "option_id": 4, "text": "Mango, gulmohur", "is_correct": false }
+],
+"answer": "Carrot, beetroot"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "What are perennial plants?",
+"options": [
+{ "option_id": 1, "text": "Complete lifecycle in one year", "is_correct": false },
+{ "option_id": 2, "text": "Live for several years and bear flowers and fruit", "is_correct": true },
+{ "option_id": 3, "text": "Grow only for two years", "is_correct": false },
+{ "option_id": 4, "text": "Short-lived herbs", "is_correct": false }
+],
+"answer": "Live for several years and bear flowers and fruit"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Plants that bear flowers are called?",
+"options": [
+{ "option_id": 1, "text": "Non-flowering plants", "is_correct": false },
+{ "option_id": 2, "text": "Flowering plants", "is_correct": true },
+{ "option_id": 3, "text": "Heterotrophic plants", "is_correct": false },
+{ "option_id": 4, "text": "Insectivorous plants", "is_correct": false }
+],
+"answer": "Flowering plants"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Non-flowering plants may lack?",
+"options": [
+{ "option_id": 1, "text": "Seeds only", "is_correct": false },
+{ "option_id": 2, "text": "Organs like roots, stems, leaves", "is_correct": true },
+{ "option_id": 3, "text": "Flowers and fruits", "is_correct": false },
+{ "option_id": 4, "text": "Stems only", "is_correct": false }
+],
+"answer": "Organs like roots, stems, leaves"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "What is the world's largest flower?",
+"options": [
+{ "option_id": 1, "text": "Wolffia", "is_correct": false },
+{ "option_id": 2, "text": "Rafflesia arnoldi", "is_correct": true },
+{ "option_id": 3, "text": "Hibiscus", "is_correct": false },
+{ "option_id": 4, "text": "Rose", "is_correct": false }
+],
+"answer": "Rafflesia arnoldi"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Where is the world's largest flower found?",
+"options": [
+{ "option_id": 1, "text": "India", "is_correct": false },
+{ "option_id": 2, "text": "Indonesia", "is_correct": true },
+{ "option_id": 3, "text": "Australia", "is_correct": false },
+{ "option_id": 4, "text": "Africa", "is_correct": false }
+],
+"answer": "Indonesia"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "What is the diameter of Rafflesia arnoldi flower?",
+"options": [
+{ "option_id": 1, "text": "0.5 mm", "is_correct": false },
+{ "option_id": 2, "text": "About one metre", "is_correct": true },
+{ "option_id": 3, "text": "10 cm", "is_correct": false },
+{ "option_id": 4, "text": "5 metres", "is_correct": false }
+],
+"answer": "About one metre"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "What is the world's smallest flower?",
+"options": [
+{ "option_id": 1, "text": "Rafflesia arnoldi", "is_correct": false },
+{ "option_id": 2, "text": "Wolffia or duckweed", "is_correct": true },
+{ "option_id": 3, "text": "Lotus", "is_correct": false },
+{ "option_id": 4, "text": "Sunflower", "is_correct": false }
+],
+"answer": "Wolffia or duckweed"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Diameter of the world's smallest flower?",
+"options": [
+{ "option_id": 1, "text": "About one metre", "is_correct": false },
+{ "option_id": 2, "text": "As small as 0.5 mm", "is_correct": true },
+{ "option_id": 3, "text": "10 cm", "is_correct": false },
+{ "option_id": 4, "text": "1 cm", "is_correct": false }
+],
+"answer": "As small as 0.5 mm"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Various habitats of plants include?",
+"options": [
+{ "option_id": 1, "text": "Only land", "is_correct": false },
+{ "option_id": 2, "text": "Land, water, marshy areas, deserts and even a big tree", "is_correct": true },
+{ "option_id": 3, "text": "Only deserts", "is_correct": false },
+{ "option_id": 4, "text": "Air only", "is_correct": false }
+],
+"answer": "Land, water, marshy areas, deserts and even a big tree"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "Where does the lotus grow?",
+"options": [
+{ "option_id": 1, "text": "Desert", "is_correct": false },
+{ "option_id": 2, "text": "Water", "is_correct": true },
+{ "option_id": 3, "text": "Land", "is_correct": false },
+{ "option_id": 4, "text": "Marshy area", "is_correct": false }
+],
+"answer": "Water"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Where does the pomegranate shrub grow?",
+"options": [
+{ "option_id": 1, "text": "Water", "is_correct": false },
+{ "option_id": 2, "text": "Land", "is_correct": true },
+{ "option_id": 3, "text": "Desert", "is_correct": false },
+{ "option_id": 4, "text": "On other plants", "is_correct": false }
+],
+"answer": "Land"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "Where does dodder plant grow?",
+"options": [
+{ "option_id": 1, "text": "Water", "is_correct": false },
+{ "option_id": 2, "text": "On other plants", "is_correct": true },
+{ "option_id": 3, "text": "Land", "is_correct": false },
+{ "option_id": 4, "text": "Desert", "is_correct": false }
+],
+"answer": "On other plants"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Why does water hyacinth float on water?",
+"options": [
+{ "option_id": 1, "text": "It has heavy roots", "is_correct": false },
+{ "option_id": 2, "text": "It has air-filled spaces in stems", "is_correct": true },
+{ "option_id": 3, "text": "It has wings", "is_correct": false },
+{ "option_id": 4, "text": "It lives on land", "is_correct": false }
+],
+"answer": "It has air-filled spaces in stems"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "Why is the stem of cactus fleshy?",
+"options": [
+{ "option_id": 1, "text": "To store water", "is_correct": true },
+{ "option_id": 2, "text": "To bear flowers", "is_correct": false },
+{ "option_id": 3, "text": "To climb", "is_correct": false },
+{ "option_id": 4, "text": "To spread on ground", "is_correct": false }
+],
+"answer": "To store water"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "Which is a unicellular animal seen under microscope in puddle water?",
+"options": [
+{ "option_id": 1, "text": "Horse", "is_correct": false },
+{ "option_id": 2, "text": "Amoeba", "is_correct": true },
+{ "option_id": 3, "text": "Elephant", "is_correct": false },
+{ "option_id": 4, "text": "Bear", "is_correct": false }
+],
+"answer": "Amoeba"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "Another unicellular animal like amoeba?",
+"options": [
+{ "option_id": 1, "text": "Paramoecium", "is_correct": true },
+{ "option_id": 2, "text": "Horse", "is_correct": false },
+{ "option_id": 3, "text": "Tortoise", "is_correct": false },
+{ "option_id": 4, "text": "Bear", "is_correct": false }
+],
+"answer": "Paramoecium"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Examples of multicellular animals?",
+"options": [
+{ "option_id": 1, "text": "Amoeba and paramoecium", "is_correct": false },
+{ "option_id": 2, "text": "Horse, bear, tortoise", "is_correct": true },
+{ "option_id": 3, "text": "Fungus and algae", "is_correct": false },
+{ "option_id": 4, "text": "Bacteria only", "is_correct": false }
+],
+"answer": "Horse, bear, tortoise"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Animals with vertebral column are called?",
+"options": [
+{ "option_id": 1, "text": "Invertebrates", "is_correct": false },
+{ "option_id": 2, "text": "Vertebrates", "is_correct": true },
+{ "option_id": 3, "text": "Amphibians", "is_correct": false },
+{ "option_id": 4, "text": "Oviparous", "is_correct": false }
+],
+"answer": "Vertebrates"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Examples of vertebrates?",
+"options": [
+{ "option_id": 1, "text": "Snails, cockroaches, earthworms", "is_correct": false },
+{ "option_id": 2, "text": "Snakes, birds, fish, kangaroos, humans", "is_correct": true },
+{ "option_id": 3, "text": "Crabs and houseflies", "is_correct": false },
+{ "option_id": 4, "text": "Spiders only", "is_correct": false }
+],
+"answer": "Snakes, birds, fish, kangaroos, humans"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Examples of invertebrates?",
+"options": [
+{ "option_id": 1, "text": "Snakes and birds", "is_correct": false },
+{ "option_id": 2, "text": "Snails, cockroaches, earthworms", "is_correct": true },
+{ "option_id": 3, "text": "Fish and kangaroos", "is_correct": false },
+{ "option_id": 4, "text": "Humans", "is_correct": false }
+],
+"answer": "Snails, cockroaches, earthworms"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "Why do living things exist in diverse geographical conditions?",
+"answer": "Various types of living things have survived because of their ability to adjust themselves to the conditions in their surroundings."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "Define autotrophic plants.",
+"answer": "Autotrophic plants are those that make their own food in sunlight."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "Give examples of heterotrophic plants.",
+"answer": "Funguses, loranthus and dodder are heterotrophic plants that use other plants for food."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "What are insectivorous plants?",
+"answer": "Insectivorous plants like the pitcher plant consume insects."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "Why is classification of plants necessary?",
+"answer": "Classification of plants is necessary for convenience while studying the diversity, based on similarities and differences in structure, organs and other characteristics."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Name the main parts of a plant.",
+"answer": "The root, stem and leaves are the main parts of plants."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Functions of roots.",
+"answer": "Roots hold the soil firmly and anchor the plant, absorb and transport water and nutrients from the soil, and in some like carrot and radish, store food."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "Types of roots mentioned.",
+"answer": "There are two types of roots: taproot and fibrous root."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "Role of leaves in plants.",
+"answer": "The leaf is flat and plays an important role in the production of food."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "Types of leaves.",
+"answer": "Leaves are mainly of two types: simple and compound leaves."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Function of the stem.",
+"answer": "The stem carries out production, conduction and storage of food, gives support to other parts of the plant and in some plants, functions in reproduction."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "Role of flowers in plants.",
+"answer": "The flower is an important means of reproduction."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "What do fruits contain?",
+"answer": "Fruits contain one or more seeds."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Example of fruits that are pods.",
+"answer": "The pods of beans and peas are actually fruits."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "Characteristics of trees.",
+"answer": "Trees are tall, big and perennial plants with hard and strong trunk and branches at some height above the ground, bearing flowers and fruit for many years."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Characteristics of shrubs.",
+"answer": "Shrubs grow close to the ground, give out branches very close to the ground, are shorter and smaller than trees but have thick and hard stem."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Characteristics of herbs.",
+"answer": "Herbs grow 1 to 1.5 metres tall with green and quite flexible stems, and may live for a few months or up to two years."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Difference between climbers and creepers.",
+"answer": "Climbers like money plant need vertical support and have aerial roots, while creepers spread on the ground or grow rapidly with support and have very flexible, soft and green stems."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "What are tendrils used for in cucumber?",
+"answer": "Tendrils in cucumber are used to grasp support for growing."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Define annual plants.",
+"answer": "Annual plants are those whose lifecycle is completed in one year, like jowar and sunflower."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "Define biennial plants.",
+"answer": "Biennial plants have a lifecycle of two years, like carrot and beetroot."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Define perennial plants.",
+"answer": "Perennial plants like shrubs such as hibiscus and oleander, and trees like mango and gulmohur live for several years and bear flowers and fruit."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Differentiate flowering and non-flowering plants.",
+"answer": "Flowering plants bear flowers, while non-flowering plants never bear flowers and may not have organs like roots, stems or leaves."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Name the world's largest flower and its diameter.",
+"answer": "The world's largest flower is Rafflesia arnoldi with diameter about one metre."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "Name the world's smallest flower and its diameter.",
+"answer": "The world's smallest flower is Wolffia or duckweed with diameter as small as 0.5 mm."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "List habitats of plants.",
+"answer": "Land, water, marshy areas, deserts and even a big tree are various habitats of plants."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Where do bulrushes and railroad creeper grow?",
+"answer": "Bulrushes and railroad creeper grow in water or marshy areas."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Adaptation of water hyacinth.",
+"answer": "Water hyacinth floats on water due to air-filled spaces."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "Adaptation of cactus stem.",
+"answer": "The stem of cactus is fleshy to store water."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "What animals can be seen under microscope in puddle water?",
+"answer": "Innumerable microbes, amoeba and paramoecium can be seen under microscope in a drop of puddle water."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Examples of multicellular animals.",
+"answer": "Horse, bear and tortoise are multicellular animals."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "What is the vertebral column?",
+"answer": "The vertebral column is the chain of bones in the centre of our back."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "Define vertebrates.",
+"answer": "Animals with a vertebral column are called vertebrates."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Define invertebrates.",
+"answer": "Animals without a vertebral column are called invertebrates."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Examples of oviparous animals.",
+"answer": "Oviparous animals lay eggs, such as hen."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Examples of viviparous animals.",
+"answer": "Viviparous animals give birth to their young ones, such as cow."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Classify animals based on habitat: frog.",
+"answer": "Frog is amphibious as it lives both on land and water."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "Animals with aerial mode of life.",
+"answer": "Kite, eagle, crow, butterfly and honeybee have aerial mode of life as they fly in the air."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Diversity in animals' body structure.",
+"answer": "Animals have body parts like head, neck, torso, tail and limbs for movement, and various organ systems for functions."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Reason for diversity in animals' food habits.",
+"answer": "Different animals have different methods of obtaining and eating food, leading to differences in body structure."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Why are not all animals seen in one's surroundings?",
+"answer": "Not all animals are seen in one's surroundings because they live in different habitats where food is available."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "What protects the bodies of animals?",
+"answer": "The bodies of animals are protected by skin, scales, feathers, hair or shells."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Terrestrial animals.",
+"answer": "Terrestrial animals live on land."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Aquatic animals.",
+"answer": "Aquatic animals live in water."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Amphibious animals.",
+"answer": "Amphibious animals like frog live both on land and water."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Criteria for classifying plants.",
+"answer": "Plants are classified on the basis of height and shape of stems, period of life cycle and habitat."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "Criteria for classifying animals.",
+"answer": "Animals are classified on the basis of cell structure, vertebral column, method of reproduction and habitat."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Importance of diversity in living world.",
+"answer": "Every plant and animal is unique, and we should make efforts to conserve this diversity in the living world."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Activity for plant classification.",
+"answer": "Visit a plant nursery and classify the plants there."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Activity for animal diversity.",
+"answer": "Visit a zoo and obtain information about the diversity in animals."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "How to observe microbes?",
+"answer": "Take a drop of water from a puddle, place on glass slide and observe under microscope."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Diversity in plant height.",
+"answer": "Some plants like grass are short, others are tall with canopy."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Variety within same plant type.",
+"answer": "Different varieties of rice or wheat, different types of roses, mangoes of different flavours."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Plants without stems, leaves or roots.",
+"answer": "Some plants grow even without stems, leaves or roots and are very different from ordinary plants."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Role of flowers in reproduction.",
+"answer": "Plants bear flowers for reproduction, which transform into fruits containing seeds."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Observation activity for plants.",
+"answer": "Take a round through garden or surroundings, list plants, draw pictures and complete table on nature, height, branches, leaves, flowers, fruits and uses."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Lifecycle of crops like bajra, wheat, corn.",
+"answer": "Crops like bajra, wheat, corn, radish, marigold live for one or two years."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Plants attractive to butterflies and insects.",
+"answer": "Butterflies and insects are attracted to flowers of plants."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Non-flowering plants examples.",
+"answer": "Toadstools, mushrooms, ferns, algae."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Flowering or not: money plant.",
+"answer": "Money plant does not bear flowers."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Habitat classification: lotus.",
+"answer": "Lotus grows in water."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Habitat classification: bulrushes.",
+"answer": "Bulrushes grow in water or marshy areas."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Habitat of dodder.",
+"answer": "Dodder grows on other plants."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Diversity in animals examples.",
+"answer": "Amoeba, elephant, snail, fish, kite, butterfly, house lizard."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Variety in animals' body structure.",
+"options": "Snake, lizard, tiger, fish, eagle, hen, crab, housefly, earthworm, crocodile, grasshopper."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Observation activity for animals.",
+"answer": "Observe animals in surroundings, list names, complete table on food, eating method, habitat and special features."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Websites for animal information.",
+"answer": "www.earthlife.net, www.discovery.com, www.seaworld.org, www.kidsgowild.com, www.worldwildlife.org, www.nationalgeographic.com."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Oviparous reproduction.",
+"answer": "Oviparous animals lay eggs, young ones hatch out of eggs."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Viviparous reproduction.",
+"answer": "Viviparous animals give birth to young ones after they grow within the body."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Amphibious animals examples.",
+"answer": "Frog, salamander, toad."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Aerial animals examples.",
+"answer": "Kite, eagle, crow, butterfly, honeybee."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Essay activity.",
+"answer": "Write an essay on diversity in plants."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Seed collection activity.",
+"answer": "Collect seeds of various plants during summer and throw them in open spaces during rainy season."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Draw figure activity.",
+"answer": "Draw figure of a plant showing root, stem and leaves."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Odd one out: fungus, mushroom, chrysanthemum, spirogyra.",
+"answer": "Chrysanthemum, because others are non-flowering."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Odd one out: mango, banyan, palm, chick pea.",
+"answer": "Chick pea, because others are trees."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "Difference: tree and shrub.",
+"answer": "Trees are tall with hard trunk and branches high up, shrubs are shorter with thick hard stem and branches close to ground."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Difference: vertebrates and invertebrates.",
+"answer": "Vertebrates have vertebral column, invertebrates do not."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "True or false: snail is aquatic.",
+"answer": "False, snail is terrestrial."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "True or false: amphibians live in air and water.",
+"answer": "True."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Name a flowering plant.",
+"answer": "Rose."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Name a non-flowering plant.",
+"answer": "Fern."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Name a creeper.",
+"answer": "Pumpkin."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Name an annual plant.",
+"answer": "Jowar."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "Characteristics of creepers.",
+"answer": "Creepers have very flexible, soft and green stem, grow rapidly with help of support."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Explain herbs with examples.",
+"answer": "Herbs grow 1 to 1.5 m tall with green flexible stems, e.g., fenugreek, periwinkle."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Criteria for classifying plants and animals.",
+"answer": "Height/shape of stems, lifecycle period, habitat for plants; cell structure, vertebral column, reproduction, habitat for animals."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Match: amphibian - frog.",
+"answer": "Amphibian: frog."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Match: vertebrate - monkey.",
+"answer": "Vertebrate: monkey."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Match: with scales - snake.",
+"answer": "With scales: snake."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Odd one out: grape, orange, lemon, hibiscus.",
+"answer": "Hibiscus, because others bear fruits."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Odd one out: sunflower, banyan, jowar, bajra.",
+"answer": "Banyan, because others are annuals."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Odd one out: guava, radish, carrot, beetroot.",
+"answer": "Guava, because others have storage roots."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Odd one out: deer, fish, man, worms.",
+"answer": "Worms, because others are vertebrates."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Difference: flowering and non-flowering plants.",
+"answer": "Flowering plants bear flowers for reproduction, non-flowering do not and may lack roots, stems, leaves."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Name a tree.",
+"answer": "Mango."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Name a shrub.",
+"answer": "Rose."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "Perennial plant example.",
+"answer": "Gulmohur."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Biennial plant example.",
+"answer": "Radish."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Why classify living things?",
+"answer": "Classification is necessary to study diversity conveniently based on similarities and differences."
+}
+]
+}

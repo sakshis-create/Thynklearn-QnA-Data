@@ -1,0 +1,551 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.22",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Nightingale and the Nobleman"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What did the nobleman do to the nightingale?",
+      "options": [
+        { "option_id": 1, "text": "He fed it seeds", "is_correct": false },
+        { "option_id": 2, "text": "He caught it and put it in a cage", "is_correct": true },
+        { "option_id": 3, "text": "He taught it to speak", "is_correct": false },
+        { "option_id": 4, "text": "He sold it at the market", "is_correct": false }
+      ],
+      "answer": "He caught it and put it in a cage"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What did the nightingale offer in exchange for its freedom?",
+      "options": [
+        { "option_id": 1, "text": "Gold coins", "is_correct": false },
+        { "option_id": 2, "text": "A beautiful song", "is_correct": false },
+        { "option_id": 3, "text": "The secret of happiness", "is_correct": true },
+        { "option_id": 4, "text": "Rare diamonds", "is_correct": false }
+      ],
+      "answer": "The secret of happiness"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The nobleman was rich but not _______.",
+      "options": [
+        { "option_id": 1, "text": "Healthy", "is_correct": false },
+        { "option_id": 2, "text": "Happy", "is_correct": true },
+        { "option_id": 3, "text": "Wise", "is_correct": false },
+        { "option_id": 4, "text": "Kind", "is_correct": false }
+      ],
+      "answer": "Happy"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was the first part of the secret of happiness?",
+      "options": [
+        { "option_id": 1, "text": "Never trust anyone", "is_correct": false },
+        { "option_id": 2, "text": "Never cry over spilt milk", "is_correct": true },
+        { "option_id": 3, "text": "Work hard every day", "is_correct": false },
+        { "option_id": 4, "text": "Always keep birds in cages", "is_correct": false }
+      ],
+      "answer": "Never cry over spilt milk"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What was the second part of the secret of happiness?",
+      "options": [
+        { "option_id": 1, "text": "Never trust idle words", "is_correct": true },
+        { "option_id": 2, "text": "Always fly high", "is_correct": false },
+        { "option_id": 3, "text": "Find rare diamonds", "is_correct": false },
+        { "option_id": 4, "text": "Be kind to noblemen", "is_correct": false }
+      ],
+      "answer": "Never trust idle words"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What did the nobleman initially think of the secret?",
+      "options": [
+        { "option_id": 1, "text": "It was very wise", "is_correct": false },
+        { "option_id": 2, "text": "It was a silly piece of advice", "is_correct": true },
+        { "option_id": 3, "text": "He didn't hear it", "is_correct": false },
+        { "option_id": 4, "text": "He wrote it down", "is_correct": false }
+      ],
+      "answer": "It was a silly piece of advice"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What did the bird claim to have under its wings?",
+      "options": [
+        { "option_id": 1, "text": "Magic dust", "is_correct": false },
+        { "option_id": 2, "text": "Golden feathers", "is_correct": false },
+        { "option_id": 3, "text": "Rare diamonds", "is_correct": true },
+        { "option_id": 4, "text": "A map to treasure", "is_correct": false }
+      ],
+      "answer": "Rare diamonds"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How did the nobleman feel when he heard about the diamonds?",
+      "options": [
+        { "option_id": 1, "text": "Excited", "is_correct": false },
+        { "option_id": 2, "text": "Angry and unhappy", "is_correct": true },
+        { "option_id": 3, "text": "Indifferent", "is_correct": false },
+        { "option_id": 4, "text": "Sleepy", "is_correct": false }
+      ],
+      "answer": "Angry and unhappy"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does the bird call the nobleman for being upset?",
+      "options": [
+        { "option_id": 1, "text": "Wise", "is_correct": false },
+        { "option_id": 2, "text": "Greedy", "is_correct": false },
+        { "option_id": 3, "text": "Stupid", "is_correct": true },
+        { "option_id": 4, "text": "Brave", "is_correct": false }
+      ],
+      "answer": "Stupid"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why could the nobleman not catch the bird again?",
+      "options": [
+        { "option_id": 1, "text": "It was too fast", "is_correct": false },
+        { "option_id": 2, "text": "It was already far away", "is_correct": true },
+        { "option_id": 3, "text": "He didn't have a net", "is_correct": false },
+        { "option_id": 4, "text": "The bird was invisible", "is_correct": false }
+      ],
+      "answer": "It was already far away"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Were there actually diamonds under the bird's wings?",
+      "options": [
+        { "option_id": 1, "text": "Yes, many", "is_correct": false },
+        { "option_id": 2, "text": "Only one small one", "is_correct": false },
+        { "option_id": 3, "text": "No, it was a trick", "is_correct": true },
+        { "option_id": 4, "text": "The story doesn't say", "is_correct": false }
+      ],
+      "answer": "No, it was a trick"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The nightingale said it was a mistake to trust ________.",
+      "options": [
+        { "option_id": 1, "text": "Noblemen", "is_correct": false },
+        { "option_id": 2, "text": "Idle words", "is_correct": true },
+        { "option_id": 3, "text": "Friends", "is_correct": false },
+        { "option_id": 4, "text": "Nature", "is_correct": false }
+      ],
+      "answer": "Idle words"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'plead'?",
+      "options": [
+        { "option_id": 1, "text": "To sing loudly", "is_correct": false },
+        { "option_id": 2, "text": "To request or beg", "is_correct": true },
+        { "option_id": 3, "text": "To fly away", "is_correct": false },
+        { "option_id": 4, "text": "To sleep", "is_correct": false }
+      ],
+      "answer": "To request or beg"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does 'farewell' mean?",
+      "options": [
+        { "option_id": 1, "text": "Welcome", "is_correct": false },
+        { "option_id": 2, "text": "Goodbye", "is_correct": true },
+        { "option_id": 3, "text": "Wait", "is_correct": false },
+        { "option_id": 4, "text": "Help", "is_correct": false }
+      ],
+      "answer": "Goodbye"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The phrase 'spilt milk' refers to:",
+      "options": [
+        { "option_id": 1, "text": "A delicious drink", "is_correct": false },
+        { "option_id": 2, "text": "Something that happened in the past and cannot be changed", "is_correct": true },
+        { "option_id": 3, "text": "A mistake in the kitchen", "is_correct": false },
+        { "option_id": 4, "text": "Feeding a bird", "is_correct": false }
+      ],
+      "answer": "Something that happened in the past and cannot be changed"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What kind of bird was in the story?",
+      "options": [
+        { "option_id": 1, "text": "Parrot", "is_correct": false },
+        { "option_id": 2, "text": "Nightingale", "is_correct": true },
+        { "option_id": 3, "text": "Sparrow", "is_correct": false },
+        { "option_id": 4, "text": "Eagle", "is_correct": false }
+      ],
+      "answer": "Nightingale"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "How did the nobleman feel when he let the bird go?",
+      "options": [
+        { "option_id": 1, "text": "Relieved", "is_correct": false },
+        { "option_id": 2, "text": "Curious about the secret", "is_correct": true },
+        { "option_id": 3, "text": "Terrified", "is_correct": false },
+        { "option_id": 4, "text": "Forgetful", "is_correct": false }
+      ],
+      "answer": "Curious about the secret"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What does 'idle words' mean?",
+      "options": [
+        { "option_id": 1, "text": "Wise sayings", "is_correct": false },
+        { "option_id": 2, "text": "Words that have no meaning or truth", "is_correct": true },
+        { "option_id": 3, "text": "Secret codes", "is_correct": false },
+        { "option_id": 4, "text": "A beautiful poem", "is_correct": false }
+      ],
+      "answer": "Words that have no meaning or truth"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Why did the bird call the nobleman 'wicked' and 'nasty'?",
+      "options": [
+        { "option_id": 1, "text": "Because he didn't like the secret", "is_correct": false },
+        { "option_id": 2, "text": "Because he wanted to catch it again", "is_correct": true },
+        { "option_id": 3, "text": "Because he was rich", "is_correct": false },
+        { "option_id": 4, "text": "The bird didn't call him that; the nobleman called the bird that", "is_correct": true }
+      ],
+      "answer": "The bird didn't call him that; the nobleman called the bird that"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What lesson did the nobleman fail to apply immediately?",
+      "options": [
+        { "option_id": 1, "text": "Never cry over spilt milk", "is_correct": true },
+        { "option_id": 2, "text": "Never eat late at night", "is_correct": false },
+        { "option_id": 3, "text": "Always hunt for diamonds", "is_correct": false },
+        { "option_id": 4, "text": "Be kind to noblemen", "is_correct": false }
+      ],
+      "answer": "Never cry over spilt milk"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The nobleman was 'wailing'. This means he was:",
+      "options": [
+        { "option_id": 1, "text": "Laughing loudly", "is_correct": false },
+        { "option_id": 2, "text": "Crying out in grief or pain", "is_correct": true },
+        { "option_id": 3, "text": "Running fast", "is_correct": false },
+        { "option_id": 4, "text": "Whistling", "is_correct": false }
+      ],
+      "answer": "Crying out in grief or pain"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "According to the bird, what is the key to being happy?",
+      "options": [
+        { "option_id": 1, "text": "Owning diamonds", "is_correct": false },
+        { "option_id": 2, "text": "Using the bits of advice it gave", "is_correct": true },
+        { "option_id": 3, "text": "Catching more birds", "is_correct": false },
+        { "option_id": 4, "text": "Being a nobleman", "is_correct": false }
+      ],
+      "answer": "Using the bits of advice it gave"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which word is a synonym for 'bit' as used in 'bits of advice'?",
+      "options": [
+        { "option_id": 1, "text": "Large amount", "is_correct": false },
+        { "option_id": 2, "text": "Piece", "is_correct": true },
+        { "option_id": 3, "text": "Secret", "is_correct": false },
+        { "option_id": 4, "text": "Whole", "is_correct": false }
+      ],
+      "answer": "Piece"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The bird's last speech should be read with proper _________.",
+      "options": [
+        { "option_id": 1, "text": "Speed", "is_correct": false },
+        { "option_id": 2, "text": "Intonation", "is_correct": true },
+        { "option_id": 3, "text": "Loudness", "is_correct": false },
+        { "option_id": 4, "text": "Silence", "is_correct": false }
+      ],
+      "answer": "Intonation"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What did the nobleman exclaim about the secret initially?",
+      "options": [
+        { "option_id": 1, "text": "Brilliant!", "is_correct": false },
+        { "option_id": 2, "text": "I am rich!", "is_correct": false },
+        { "option_id": 3, "text": "This is just a silly piece of advice!", "is_correct": true },
+        { "option_id": 4, "text": "I want more!", "is_correct": false }
+      ],
+      "answer": "This is just a silly piece of advice!"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Where did the nobleman live?",
+      "answer": "He lived in a faraway land."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why was the nightingale unhappy at the start of the story?",
+      "answer": "Because it was caught and put in a cage by the nobleman."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What did the nightingale plead for?",
+      "answer": "It pleaded to be set free."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Why did the nobleman agree to let the bird go?",
+      "answer": "He wanted to know the secret of happiness because he was rich but not happy."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is the first piece of advice given by the nightingale?",
+      "answer": "Never cry over spilt milk."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is the second piece of advice given by the nightingale?",
+      "answer": "Never trust idle words."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Did the nobleman appreciate the advice at first?",
+      "answer": "No, he thought it was just a silly piece of advice."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What lie did the bird tell to test the nobleman?",
+      "answer": "It said that it had rare diamonds under its wings."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "How did the nobleman react to the mention of diamonds?",
+      "answer": "He became very angry and unhappy, regretting letting the bird go."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What words did the nobleman use to describe the bird when he was angry?",
+      "answer": "He called it a 'wicked bird' and a 'nasty bird'."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "How did the bird prove the nobleman hadn't followed the first advice?",
+      "answer": "The nobleman was unhappy about letting the bird go (spilt milk) which was already in the past and couldn't be changed."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "How did the bird prove the nobleman hadn't followed the second advice?",
+      "answer": "The nobleman believed the 'idle words' about an ordinary bird having diamonds under its wings."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What does 'never cry over spilt milk' mean?",
+      "answer": "It means one should not be unhappy about something bad that has happened and cannot be undone."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'wicked'?",
+      "answer": "Wicked means evil or morally wrong."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'noble'?",
+      "answer": "Noble refers to a person of high rank or title."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Why did the bird say 'Farewell' at the end?",
+      "answer": "Because it was leaving and giving its final greeting."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Translate the phrase 'Never trust idle words' into your mother tongue.",
+      "answer": "[Student's own answer - e.g., 'vyarth shabdon par vishwas mat karo' in Hindi]."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Change 'The bird flew a little higher' using the word 'much'.",
+      "answer": "The bird flew much higher."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Change 'I never trust idle words' using the word 'always'.",
+      "answer": "I always trust idle words."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What does the nobleman's wealth represent in the story?",
+      "answer": "It represents that material riches do not guarantee happiness."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What happens to a bird when it is put in a cage?",
+      "answer": "It becomes unhappy and loses its freedom."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "How high did the bird fly when it started talking about diamonds?",
+      "answer": "It flew a little higher."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What does the word 'stale' mean (from the vocabulary list)?",
+      "answer": "Stale means not fresh (often used for food like bread)."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'happy' found in the text?",
+      "answer": "The opposite is 'unhappy'."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What does 'exclaimed' mean?",
+      "answer": "It means to cry out suddenly in surprise, anger, or excitement."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Is the nightingale an ordinary bird or a magical one?",
+      "answer": "The nightingale describes itself as an 'ordinary bird'."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why was it a mistake for the nobleman to trust the bird's words about diamonds?",
+      "answer": "Because they were 'idle words' and it is impossible for an ordinary bird to have diamonds under its wings."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Complete the sentence: 'The baby clapped when...'",
+      "answer": "'...the cat jumped down.'"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does 'plead' signify about the bird's situation?",
+      "answer": "It signifies that the bird was desperate and had no power over the nobleman."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the lesson of the story?",
+      "answer": "The lesson is to move on from past mistakes and not believe everything we hear without thinking."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How many proverbs or sayings should students try to collect according to the exercise?",
+      "answer": "At least 20 proverbs or sayings."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What did the nobleman say when he realized his mistake?",
+      "answer": "He said, 'Oh, no! How stupid of me!'"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why did the bird say it was kind of the nobleman to let it go?",
+      "answer": "The bird was being polite and acknowledging that the nobleman kept his part of the deal."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'fly'?",
+      "answer": "The past tense of fly is 'flew'."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Identify a synonym for 'nasty' used in the text.",
+      "answer": "A synonym used is 'wicked'."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does the nightingale mean by 'use my bits of advice and be happy'?",
+      "answer": "It means that applying wisdom to life leads to true happiness."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'stupid'?",
+      "answer": "The opposite is 'wise' or 'clever'."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Did the bird have wings?",
+      "answer": "Yes, it mentioned wings when it talked about the diamonds."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the 'secret of happiness' according to the title of the bird's offer?",
+      "answer": "It consists of two rules: not crying over the past and not trusting meaningless words."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Give the meaning of 'idle' as per the lesson.",
+      "answer": "Idle means pointless, useless, or lazy."
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.15",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "How many seconds are in a minute according to the poem?",
+      "options": [
+        { "option_id": 1, "text": "Sixty", "is_correct": true },
+        { "option_id": 2, "text": "Twenty-four", "is_correct": false },
+        { "option_id": 3, "text": "Twelve", "is_correct": false },
+        { "option_id": 4, "text": "Seven", "is_correct": false }
+      ],
+      "answer": "Sixty"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who is the author of the poem 'Time'?",
+      "options": [
+        { "option_id": 1, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 2, "text": "Christina Rossetti", "is_correct": true },
+        { "option_id": 3, "text": "Robert Frost", "is_correct": false },
+        { "option_id": 4, "text": "John Keats", "is_correct": false }
+      ],
+      "answer": "Christina Rossetti"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "According to the poem, how many hours are in a day?",
+      "options": [
+        { "option_id": 1, "text": "Sixty", "is_correct": false },
+        { "option_id": 2, "text": "Twelve", "is_correct": false },
+        { "option_id": 3, "text": "Twenty-four", "is_correct": true },
+        { "option_id": 4, "text": "Seven", "is_correct": false }
+      ],
+      "answer": "Twenty-four"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How many weeks are in a month as described in the rhyme?",
+      "options": [
+        { "option_id": 1, "text": "Seven", "is_correct": false },
+        { "option_id": 2, "text": "Twelve", "is_correct": false },
+        { "option_id": 3, "text": "Four", "is_correct": true },
+        { "option_id": 4, "text": "Fifty-two", "is_correct": false }
+      ],
+      "answer": "Four"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the 'sage' say regarding how many years are in an age?",
+      "options": [
+        { "option_id": 1, "text": "Ten", "is_correct": false },
+        { "option_id": 2, "text": "One thousand", "is_correct": false },
+        { "option_id": 3, "text": "One hundred", "is_correct": true },
+        { "option_id": 4, "text": "No one knows", "is_correct": false }
+      ],
+      "answer": "One hundred"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How many ages are in time?",
+      "options": [
+        { "option_id": 1, "text": "Sixty", "is_correct": false },
+        { "option_id": 2, "text": "No one knows", "is_correct": true },
+        { "option_id": 3, "text": "A million", "is_correct": false },
+        { "option_id": 4, "text": "Twelve", "is_correct": false }
+      ],
+      "answer": "No one knows"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the meaning of the word 'swift'?",
+      "options": [
+        { "option_id": 1, "text": "Moving slowly", "is_correct": false },
+        { "option_id": 2, "text": "Wise person", "is_correct": false },
+        { "option_id": 3, "text": "Moving quickly", "is_correct": true },
+        { "option_id": 4, "text": "A type of bird", "is_correct": false }
+      ],
+      "answer": "Moving quickly"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which book gives information about phases of the moon and daily sun times?",
+      "options": [
+        { "option_id": 1, "text": "Dictionary", "is_correct": false },
+        { "option_id": 2, "text": "Almanac", "is_correct": true },
+        { "option_id": 3, "text": "Atlas", "is_correct": false },
+        { "option_id": 4, "text": "Encyclopedia", "is_correct": false }
+      ],
+      "answer": "Almanac"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the old form of the word 'runs' used in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Runneth", "is_correct": true },
+        { "option_id": 2, "text": "Runner", "is_correct": false },
+        { "option_id": 3, "text": "Ran", "is_correct": false },
+        { "option_id": 4, "text": "Runned", "is_correct": false }
+      ],
+      "answer": "Runneth"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "In the poem, hours are for 'work and ______'.",
+      "options": [
+        { "option_id": 1, "text": "Shower", "is_correct": false },
+        { "option_id": 2, "text": "Speak", "is_correct": false },
+        { "option_id": 3, "text": "Play", "is_correct": true },
+        { "option_id": 4, "text": "Rhyme", "is_correct": false }
+      ],
+      "answer": "Play"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How many days are in a week?",
+      "options": [
+        { "option_id": 1, "text": "Six", "is_correct": false },
+        { "option_id": 2, "text": "Seven", "is_correct": true },
+        { "option_id": 3, "text": "Five", "is_correct": false },
+        { "option_id": 4, "text": "Eight", "is_correct": false }
+      ],
+      "answer": "Seven"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is a 'sage'?",
+      "options": [
+        { "option_id": 1, "text": "A fast runner", "is_correct": false },
+        { "option_id": 2, "text": "A wise man", "is_correct": true },
+        { "option_id": 3, "text": "A type of clock", "is_correct": false },
+        { "option_id": 4, "text": "A measurement of time", "is_correct": false }
+      ],
+      "answer": "A wise man"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "How many months are in a year?",
+      "options": [
+        { "option_id": 1, "text": "Ten", "is_correct": false },
+        { "option_id": 2, "text": "Twelve", "is_correct": true },
+        { "option_id": 3, "text": "Four", "is_correct": false },
+        { "option_id": 4, "text": "Six", "is_correct": false }
+      ],
+      "answer": "Twelve"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these is an idiomatic pair mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Sun and moon", "is_correct": false },
+        { "option_id": 2, "text": "Work and play", "is_correct": true },
+        { "option_id": 3, "text": "High and low", "is_correct": false },
+        { "option_id": 4, "text": "Day and year", "is_correct": false }
+      ],
+      "answer": "Work and play"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What unit comes after 'deci' in the metric chain provided?",
+      "options": [
+        { "option_id": 1, "text": "Milli", "is_correct": false },
+        { "option_id": 2, "text": "Metre / litre / gram", "is_correct": true },
+        { "option_id": 3, "text": "Kilo", "is_correct": false },
+        { "option_id": 4, "text": "Hecto", "is_correct": false }
+      ],
+      "answer": "Metre / litre / gram"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The rhyme says 'Sixty, for sun and ______' for minutes in an hour.",
+      "options": [
+        { "option_id": 1, "text": "Flower", "is_correct": false },
+        { "option_id": 2, "text": "Power", "is_correct": false },
+        { "option_id": 3, "text": "Shower", "is_correct": true },
+        { "option_id": 4, "text": "Hour", "is_correct": false }
+      ],
+      "answer": "Shower"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "According to the pointers, what can rhyme pairs have?",
+      "options": [
+        { "option_id": 1, "text": "Same spelling only", "is_correct": false },
+        { "option_id": 2, "text": "Different spelling only", "is_correct": false },
+        { "option_id": 3, "text": "Same or different spelling", "is_correct": true },
+        { "option_id": 4, "text": "No spelling", "is_correct": false }
+      ],
+      "answer": "Same or different spelling"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'year' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Clear", "is_correct": true },
+        { "option_id": 2, "text": "Fear", "is_correct": false },
+        { "option_id": 3, "text": "Hear", "is_correct": false },
+        { "option_id": 4, "text": "There", "is_correct": false }
+      ],
+      "answer": "Clear"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the QR code for this chapter?",
+      "options": [
+        { "option_id": 1, "text": "X3NZ6K", "is_correct": true },
+        { "option_id": 2, "text": "X3F44X", "is_correct": false },
+        { "option_id": 3, "text": "ABC123", "is_correct": false },
+        { "option_id": 4, "text": "TIME24", "is_correct": false }
+      ],
+      "answer": "X3NZ6K"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "In the 'How many' chain, what is the largest unit mentioned?",
+      "options": [
+        { "option_id": 1, "text": "Deca", "is_correct": false },
+        { "option_id": 2, "text": "Hecto", "is_correct": false },
+        { "option_id": 3, "text": "Kilo", "is_correct": true },
+        { "option_id": 4, "text": "Milli", "is_correct": false }
+      ],
+      "answer": "Kilo"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Who wrote the poem 'Time'?",
+      "answer": "The poem was written by Christina Rossetti."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "How many seconds make up one minute?",
+      "answer": "There are sixty seconds in one minute."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What activity is associated with 'seven days' in the poem?",
+      "answer": "The poem associates seven days with 'both to hear and speak'."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Define 'Almanac'.",
+      "answer": "An almanac is a book that gives information about important days, dates, moon phases, and rising/setting times of the sun and planets for the year."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What does the 'sage' say about an age?",
+      "answer": "The sage says that there are one hundred years in an age."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Why does the poem say 'no one knows' the number of ages in time?",
+      "answer": "It suggests that time is infinite or immeasurable beyond human understanding."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is meant by 'swift moon runn'th'?",
+      "answer": "It refers to the fast movement or cycle of the moon, using the old English form 'runn'th' for 'runs'."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "List the three idiomatic pairs mentioned in exercise 5.",
+      "answer": "The pairs are 'sun and shower', 'work and play', and 'hear and speak'."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What are 'idiomatic pairs'?",
+      "answer": "They are two words that are often used together in a specific order, usually joined by 'and' or 'or'."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Which word from the poem rhymes with 'year'?",
+      "answer": "The word 'clear' rhymes with 'year'."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Give the meaning of the word 'sage'.",
+      "answer": "A sage is a wise man."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "According to the poem, what are the twenty-four hours of a day for?",
+      "answer": "They are for 'work and play'."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is the old English word for 'runs' used in the poem?",
+      "answer": "The word is 'runn'th' (runneth)."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "How many weeks are in a month according to the rhyme?",
+      "answer": "There are four weeks in a month."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Match 'bread' from column A with its idiomatic partner in column B.",
+      "answer": "The idiomatic pair is 'bread and butter'."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Match 'day' from column A with its idiomatic partner in column B.",
+      "answer": "The idiomatic pair is 'day and night'."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What does 'moving quickly' mean in the poem's vocabulary?",
+      "answer": "It is the definition for the word 'swift'."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Name the metric units listed in the 'How many' chain example.",
+      "answer": "The units are milli, centi, deci, metre/litre/gram, deca, hecto, and kilo."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "How should the poem be presented in a pair according to the pointers?",
+      "answer": "One person should read the question (the first line of each stanza) and the other should read the answer."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "List two rhyming pairs from the poem that have different spellings.",
+      "answer": "Examples include 'hour' and 'shower', or 'year' and 'clear'."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the rhyme for 'minutes in an hour'?",
+      "answer": "The rhyme is: 'Sixty, for sun and shower'."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What does the almanac make 'clear'?",
+      "answer": "The almanac makes clear that there are twelve months in a year."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Match 'north' from column A with its partner in column B.",
+      "answer": "The pair is 'north and south'."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Match 'life' from column A with its partner in column B.",
+      "answer": "The pair is 'life and death'."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "How many years are in a century based on the poem?",
+      "answer": "The poem calls it an 'age' and says it has one hundred years."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "List three words related to 'time' found in the poem.",
+      "answer": "Words include seconds, minutes, hours, days, weeks, months, years, and ages."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the table in exercise 5?",
+      "answer": "The purpose is to join words from column A and B to make idiomatic pairs using 'and' or 'or'."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Match 'black' with its partner from the table.",
+      "answer": "The pair is 'black and white'."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What rhymes with 'rhyme' in the last stanza?",
+      "answer": "The word 'time' rhymes with 'rhyme'."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Match 'left' with its partner to make an idiomatic pair.",
+      "answer": "The pair is 'left and right'."
+    }
+  ]
+}

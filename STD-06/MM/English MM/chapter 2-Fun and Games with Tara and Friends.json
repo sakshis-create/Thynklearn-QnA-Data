@@ -1,0 +1,911 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.02",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Fun and Games with Tara and Friends"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is Kuku doing in the first picture?",
+      "options": [
+        { "option_id": 1, "text": "Running", "is_correct": false },
+        { "option_id": 2, "text": "Turning cartwheels", "is_correct": true },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Eating", "is_correct": false }
+      ],
+      "answer": "Turning cartwheels"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who is Mithu's friend?",
+      "options": [
+        { "option_id": 1, "text": "Paddy", "is_correct": false },
+        { "option_id": 2, "text": "Toto", "is_correct": false },
+        { "option_id": 3, "text": "Bittu", "is_correct": true },
+        { "option_id": 4, "text": "Mia", "is_correct": false }
+      ],
+      "answer": "Bittu"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does Mia claim about herself?",
+      "options": [
+        { "option_id": 1, "text": "She is the fastest", "is_correct": false },
+        { "option_id": 2, "text": "She does everything better than Kuku", "is_correct": true },
+        { "option_id": 3, "text": "She is very lazy", "is_correct": false },
+        { "option_id": 4, "text": "She likes to sing", "is_correct": false }
+      ],
+      "answer": "She does everything better than Kuku"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "When does the cat (Mia) scratch people?",
+      "options": [
+        { "option_id": 1, "text": "When she is happy", "is_correct": false },
+        { "option_id": 2, "text": "When someone tries to touch her", "is_correct": true },
+        { "option_id": 3, "text": "When she is hungry", "is_correct": false },
+        { "option_id": 4, "text": "When she is playing", "is_correct": false }
+      ],
+      "answer": "When someone tries to touch her"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the dog (Toto) do when he is happy?",
+      "options": [
+        { "option_id": 1, "text": "He barks", "is_correct": false },
+        { "option_id": 2, "text": "He wags his tail", "is_correct": true },
+        { "option_id": 3, "text": "He jumps", "is_correct": false },
+        { "option_id": 4, "text": "He flops his ears", "is_correct": false }
+      ],
+      "answer": "He wags his tail"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word is used to show a 'scared' expression?",
+      "options": [
+        { "option_id": 1, "text": "Laughing", "is_correct": false },
+        { "option_id": 2, "text": "Screeching", "is_correct": true },
+        { "option_id": 3, "text": "Smiling", "is_correct": false },
+        { "option_id": 4, "text": "Wagging", "is_correct": false }
+      ],
+      "answer": "Screeching"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "In the conversation activity, what is the right response to 'Thank you for the flowers!'?",
+      "options": [
+        { "option_id": 1, "text": "I am so sorry", "is_correct": false },
+        { "option_id": 2, "text": "My pleasure!", "is_correct": true },
+        { "option_id": 3, "text": "Excuse me", "is_correct": false },
+        { "option_id": 4, "text": "Never mind", "is_correct": false }
+      ],
+      "answer": "My pleasure!"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "If you spill water on someone's shirt, what should you say?",
+      "options": [
+        { "option_id": 1, "text": "My pleasure", "is_correct": false },
+        { "option_id": 2, "text": "I am so sorry", "is_correct": true },
+        { "option_id": 3, "text": "Please don't mention it", "is_correct": false },
+        { "option_id": 4, "text": "Thank you", "is_correct": false }
+      ],
+      "answer": "I am so sorry"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the polite phrase to use before asking for directions?",
+      "options": [
+        { "option_id": 1, "text": "Thank you", "is_correct": false },
+        { "option_id": 2, "text": "Excuse me", "is_correct": true },
+        { "option_id": 3, "text": "I am sorry", "is_correct": false },
+        { "option_id": 4, "text": "My pleasure", "is_correct": false }
+      ],
+      "answer": "Excuse me"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which number is used to practice naming objects in the text?",
+      "options": [
+        { "option_id": 1, "text": "Five", "is_correct": true },
+        { "option_id": 2, "text": "Ten", "is_correct": false },
+        { "option_id": 3, "text": "Seven", "is_correct": false },
+        { "option_id": 4, "text": "Zero", "is_correct": false }
+      ],
+      "answer": "Five"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What object is paired with '999'?",
+      "options": [
+        { "option_id": 1, "text": "Stars", "is_correct": true },
+        { "option_id": 2, "text": "Cakes", "is_correct": false },
+        { "option_id": 3, "text": "Apples", "is_correct": false },
+        { "option_id": 4, "text": "Birds", "is_correct": false }
+      ],
+      "answer": "Stars"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is a 'thing we cannot see'?",
+      "options": [
+        { "option_id": 1, "text": "Pencil", "is_correct": false },
+        { "option_id": 2, "text": "Air", "is_correct": true },
+        { "option_id": 3, "text": "Kitten", "is_correct": false },
+        { "option_id": 4, "text": "Table", "is_correct": false }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does Kuku enjoy doing?",
+      "options": [
+        { "option_id": 1, "text": "Running", "is_correct": false },
+        { "option_id": 2, "text": "Jumping", "is_correct": true },
+        { "option_id": 3, "text": "Crying", "is_correct": false },
+        { "option_id": 4, "text": "Drawing", "is_correct": false }
+      ],
+      "answer": "Jumping"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "In the 'Yes or No' game, what happens if you say 'Yes'?",
+      "options": [
+        { "option_id": 1, "text": "You win", "is_correct": false },
+        { "option_id": 2, "text": "You are 'out'", "is_correct": true },
+        { "option_id": 3, "text": "You get a point", "is_correct": false },
+        { "option_id": 4, "text": "You start over", "is_correct": false }
+      ],
+      "answer": "You are 'out'"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the end phrase chosen for the enactment activity?",
+      "options": [
+        { "option_id": 1, "text": "Running in a park", "is_correct": false },
+        { "option_id": 2, "text": "Swimming in a tank", "is_correct": true },
+        { "option_id": 3, "text": "Eating a cake", "is_correct": false },
+        { "option_id": 4, "text": "Singing a song", "is_correct": false }
+      ],
+      "answer": "Swimming in a tank"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which character says 'I am hungry'?",
+      "options": [
+        { "option_id": 1, "text": "Tara", "is_correct": false },
+        { "option_id": 2, "text": "Mithu", "is_correct": true },
+        { "option_id": 3, "text": "Paddy", "is_correct": false },
+        { "option_id": 4, "text": "Toto", "is_correct": false }
+      ],
+      "answer": "Mithu"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does the dog (Toto) say after someone else says 'I am hungry'?",
+      "options": [
+        { "option_id": 1, "text": "No", "is_correct": false },
+        { "option_id": 2, "text": "Me, too.", "is_correct": true },
+        { "option_id": 3, "text": "Go home", "is_correct": false },
+        { "option_id": 4, "text": "Yes", "is_correct": false }
+      ],
+      "answer": "Me, too."
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which fruit is mentioned in the circle game?",
+      "options": [
+        { "option_id": 1, "text": "Mango", "is_correct": false },
+        { "option_id": 2, "text": "Apple", "is_correct": true },
+        { "option_id": 3, "text": "Banana", "is_correct": false },
+        { "option_id": 4, "text": "Orange", "is_correct": false }
+      ],
+      "answer": "Apples"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "According to the handwriting activity, how should you write letters?",
+      "options": [
+        { "option_id": 1, "text": "Very fast", "is_correct": false },
+        { "option_id": 2, "text": "In proper proportion", "is_correct": true },
+        { "option_id": 3, "text": "Only in capital", "is_correct": false },
+        { "option_id": 4, "text": "With a red pen", "is_correct": false }
+      ],
+      "answer": "In proper proportion"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which color is mentioned as a 'white thing'?",
+      "options": [
+        { "option_id": 1, "text": "Violet", "is_correct": false },
+        { "option_id": 2, "text": "White", "is_correct": true },
+        { "option_id": 3, "text": "Red", "is_correct": false },
+        { "option_id": 4, "text": "Green", "is_correct": false }
+      ],
+      "answer": "White"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does Bittu say when asked if he is ready?",
+      "options": [
+        { "option_id": 1, "text": "No", "is_correct": false },
+        { "option_id": 2, "text": "I am always ready.", "is_correct": true },
+        { "option_id": 3, "text": "Yes", "is_correct": false },
+        { "option_id": 4, "text": "Wait", "is_correct": false }
+      ],
+      "answer": "I am always ready."
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What should you do after making a list in Activity 8?",
+      "options": [
+        { "option_id": 1, "text": "Delete it", "is_correct": false },
+        { "option_id": 2, "text": "Put words in alphabetical order", "is_correct": true },
+        { "option_id": 3, "text": "Color it", "is_correct": false },
+        { "option_id": 4, "text": "Read it backwards", "is_correct": false }
+      ],
+      "answer": "Put words in alphabetical order"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which adjective is in the list of words to describe objects?",
+      "options": [
+        { "option_id": 1, "text": "Strong", "is_correct": true },
+        { "option_id": 2, "text": "Running", "is_correct": false },
+        { "option_id": 3, "text": "Always", "is_correct": false },
+        { "option_id": 4, "text": "Where", "is_correct": false }
+      ],
+      "answer": "Strong"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the parrot (Mithu) doing in the 'Five' activity?",
+      "options": [
+        { "option_id": 1, "text": "Eating five green chillies", "is_correct": true },
+        { "option_id": 2, "text": "Flying with balls", "is_correct": false },
+        { "option_id": 3, "text": "Reading books", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Eating five green chillies"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of these phrases fits the yellow track exercise?",
+      "options": [
+        { "option_id": 1, "text": "She is our teacher.", "is_correct": true },
+        { "option_id": 2, "text": "She is ball.", "is_correct": false },
+        { "option_id": 3, "text": "She is running.", "is_correct": false },
+        { "option_id": 4, "text": "She is five.", "is_correct": false }
+      ],
+      "answer": "She is our teacher."
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What action can you do with your hands?",
+      "options": [
+        { "option_id": 1, "text": "Walking", "is_correct": false },
+        { "option_id": 2, "text": "Clapping", "is_correct": true },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Dreaming", "is_correct": false }
+      ],
+      "answer": "Clapping"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is Paddy's reaction when someone says they like grapes?",
+      "options": [
+        { "option_id": 1, "text": "He says 'I like apples'", "is_correct": true },
+        { "option_id": 2, "text": "He cries", "is_correct": false },
+        { "option_id": 3, "text": "He goes home", "is_correct": false },
+        { "option_id": 4, "text": "He sleeps", "is_correct": false }
+      ],
+      "answer": "He says 'I like apples'"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "How many green chillies are there in the picture?",
+      "options": [
+        { "option_id": 1, "text": "Four", "is_correct": false },
+        { "option_id": 2, "text": "Five", "is_correct": true },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Ten", "is_correct": false }
+      ],
+      "answer": "Five"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which phrase completes the conversation: 'Thank you for carrying the books'?",
+      "options": [
+        { "option_id": 1, "text": "It's my duty.", "is_correct": true },
+        { "option_id": 2, "text": "Excuse me", "is_correct": false },
+        { "option_id": 3, "text": "I am sorry", "is_correct": false },
+        { "option_id": 4, "text": "Yes", "is_correct": false }
+      ],
+      "answer": "It's my duty."
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What does Mia the cat say about swimming?",
+      "options": [
+        { "option_id": 1, "text": "I love it", "is_correct": false },
+        { "option_id": 2, "text": "I hate swimming.", "is_correct": true },
+        { "option_id": 3, "text": "I am swimming", "is_correct": false },
+        { "option_id": 4, "text": "It is fun", "is_correct": false }
+      ],
+      "answer": "I hate swimming."
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is one topic suggested for making a list?",
+      "options": [
+        { "option_id": 1, "text": "Things in the classroom", "is_correct": true },
+        { "option_id": 2, "text": "Types of cars", "is_correct": false },
+        { "option_id": 3, "text": "Names of planets", "is_correct": false },
+        { "option_id": 4, "text": "History of India", "is_correct": false }
+      ],
+      "answer": "Things in the classroom"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What number is associated with 'footsteps' in the example?",
+      "options": [
+        { "option_id": 1, "text": "5", "is_correct": false },
+        { "option_id": 2, "text": "999", "is_correct": true },
+        { "option_id": 3, "text": "100", "is_correct": false },
+        { "option_id": 4, "text": "0", "is_correct": false }
+      ],
+      "answer": "999"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which letter comes after 'Ss' on the board?",
+      "options": [
+        { "option_id": 1, "text": "Rr", "is_correct": false },
+        { "option_id": 2, "text": "Tt", "is_correct": true },
+        { "option_id": 3, "text": "Uu", "is_correct": false },
+        { "option_id": 4, "text": "Qq", "is_correct": false }
+      ],
+      "answer": "Tt"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is a 'soft little violet' thing mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Bird", "is_correct": true },
+        { "option_id": 2, "text": "Stone", "is_correct": false },
+        { "option_id": 3, "text": "Ball", "is_correct": false },
+        { "option_id": 4, "text": "Tree", "is_correct": false }
+      ],
+      "answer": "Bird"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "When does Toto flop his ears?",
+      "options": [
+        { "option_id": 1, "text": "When happy", "is_correct": false },
+        { "option_id": 2, "text": "When sad", "is_correct": true },
+        { "option_id": 3, "text": "When angry", "is_correct": false },
+        { "option_id": 4, "text": "When eating", "is_correct": false }
+      ],
+      "answer": "When sad"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What word is used for a very high number in the game?",
+      "options": [
+        { "option_id": 1, "text": "One million", "is_correct": false },
+        { "option_id": 2, "text": "Ten thousand", "is_correct": true },
+        { "option_id": 3, "text": "One thousand", "is_correct": false },
+        { "option_id": 4, "text": "Infinity", "is_correct": false }
+      ],
+      "answer": "Ten thousand"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which of these is a 'juicy' thing?",
+      "options": [
+        { "option_id": 1, "text": "Apple", "is_correct": true },
+        { "option_id": 2, "text": "Rock", "is_correct": false },
+        { "option_id": 3, "text": "Book", "is_correct": false },
+        { "option_id": 4, "text": "Shirt", "is_correct": false }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is the phrase for 'no need to say thanks'?",
+      "options": [
+        { "option_id": 1, "text": "Please don't mention it", "is_correct": true },
+        { "option_id": 2, "text": "Go home", "is_correct": false },
+        { "option_id": 3, "text": "Excuse me", "is_correct": false },
+        { "option_id": 4, "text": "Yes", "is_correct": false }
+      ],
+      "answer": "Please don't mention it"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which animal is named 'Mithu'?",
+      "options": [
+        { "option_id": 1, "text": "The Dog", "is_correct": false },
+        { "option_id": 2, "text": "The Parrot", "is_correct": true },
+        { "option_id": 3, "text": "The Cat", "is_correct": false },
+        { "option_id": 4, "text": "The Boy", "is_correct": false }
+      ],
+      "answer": "The Parrot"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is one thing you might see at a railway station?",
+      "options": [
+        { "option_id": 1, "text": "Kitchen", "is_correct": false },
+        { "option_id": 2, "text": "Trains", "is_correct": true },
+        { "option_id": 3, "text": "Classroom", "is_correct": false },
+        { "option_id": 4, "text": "Gym", "is_correct": false }
+      ],
+      "answer": "Trains"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which phrase starts with 'I am'?",
+      "options": [
+        { "option_id": 1, "text": "I am so sorry", "is_correct": true },
+        { "option_id": 2, "text": "You are teacher", "is_correct": false },
+        { "option_id": 3, "text": "He is brother", "is_correct": false },
+        { "option_id": 4, "text": "They are group", "is_correct": false }
+      ],
+      "answer": "I am so sorry"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which of these is a 'crunchy' thing?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Carrot", "is_correct": true },
+        { "option_id": 3, "text": "Air", "is_correct": false },
+        { "option_id": 4, "text": "Sky", "is_correct": false }
+      ],
+      "answer": "Carrot"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What is Paddy doing when Mia is sad?",
+      "options": [
+        { "option_id": 1, "text": "Goes to school", "is_correct": true },
+        { "option_id": 2, "text": "Plays with her", "is_correct": false },
+        { "option_id": 3, "text": "Eats", "is_correct": false },
+        { "option_id": 4, "text": "Sings", "is_correct": false }
+      ],
+      "answer": "Goes to school"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which character says 'I sing songs'?",
+      "options": [
+        { "option_id": 1, "text": "Mia", "is_correct": false },
+        { "option_id": 2, "text": "Tara", "is_correct": true },
+        { "option_id": 3, "text": "Kuku", "is_correct": false },
+        { "option_id": 4, "text": "Bittu", "is_correct": false }
+      ],
+      "answer": "Tara"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which emotion is NOT listed in Tara's pictures?",
+      "options": [
+        { "option_id": 1, "text": "Happy", "is_correct": false },
+        { "option_id": 2, "text": "Excited", "is_correct": true },
+        { "option_id": 3, "text": "Sad", "is_correct": false },
+        { "option_id": 4, "text": "Angry", "is_correct": false }
+      ],
+      "answer": "Excited"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What is the collective name for Paddy, Bittu, Kuku, and Tara?",
+      "options": [
+        { "option_id": 1, "text": "Friends", "is_correct": true },
+        { "option_id": 2, "text": "Enemies", "is_correct": false },
+        { "option_id": 3, "text": "Teachers", "is_correct": false },
+        { "option_id": 4, "text": "Strangers", "is_correct": false }
+      ],
+      "answer": "Friends"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "How long do you have to make a list in Activity 8?",
+      "options": [
+        { "option_id": 1, "text": "Five minutes", "is_correct": false },
+        { "option_id": 2, "text": "Two minutes", "is_correct": true },
+        { "option_id": 3, "text": "One hour", "is_correct": false },
+        { "option_id": 4, "text": "Ten seconds", "is_correct": false }
+      ],
+      "answer": "Two minutes"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which phrase is correct from the yellow track activity?",
+      "options": [
+        { "option_id": 1, "text": "We are in the same school.", "is_correct": true },
+        { "option_id": 2, "text": "We are brother.", "is_correct": false },
+        { "option_id": 3, "text": "We are my friend.", "is_correct": false },
+        { "option_id": 4, "text": "We are his father.", "is_correct": false }
+      ],
+      "answer": "We are in the same school."
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What is the parrot doing in the circle game?",
+      "options": [
+        { "option_id": 1, "text": "Screeching 'Mithu, Mithu!'", "is_correct": true },
+        { "option_id": 2, "text": "Playing ball", "is_correct": false },
+        { "option_id": 3, "text": "Dancing", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Screeching 'Mithu, Mithu!'"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is 'dirty' mentioned as in the descriptor list?",
+      "options": [
+        { "option_id": 1, "text": "An action", "is_correct": false },
+        { "option_id": 2, "text": "A describing word", "is_correct": true },
+        { "option_id": 3, "text": "A number", "is_correct": false },
+        { "option_id": 4, "text": "A character", "is_correct": false }
+      ],
+      "answer": "A describing word"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are the four emotions Tara has pictures of?",
+      "answer": "The four emotions are happy, sad, angry, and scared."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does Mia do when she is scared?",
+      "answer": "Mia screeches when she is scared."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who does Mia say she is better than?",
+      "answer": "Mia says she is better than Kuku."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is Toto's reaction when someone says they are hungry?",
+      "answer": "Toto says, 'Me, too.'"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What should you say if you want to know the way to the gym?",
+      "answer": "You should say, 'Excuse me, can you tell me the way to the gym?'"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the response to 'Thank you so much for carrying the books'?",
+      "answer": "The response is, 'It's my duty, Teacher.'"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does Mia do when she is angry?",
+      "answer": "Mia scratches people when someone tries to touch her."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "List three 'things we cannot see' mentioned in the book.",
+      "answer": "Air, sound, and smell are things we cannot see."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How does Toto show he is sad?",
+      "answer": "Toto flops his ears when he is sad."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What does Tara do to feel better when she is sad?",
+      "answer": "Tara sings songs to feel better."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What direction does the man give to reach the gym?",
+      "answer": "He says to 'Go straight and then turn left.'"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the phrase used to describe the violet bird?",
+      "answer": "The phrase is 'A soft little violet bird.'"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What should you do to words in a list after writing them?",
+      "answer": "You should put them in alphabetical order."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name two things you might need on a picnic.",
+      "answer": "Mat and water bottle."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What happens if a player says 'No' in the circle game?",
+      "answer": "The player is 'out' of the game."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How many fingers are mentioned in the counting activity?",
+      "answer": "Five fingers are mentioned."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does Paddy say when Kuku is turning cartwheels?",
+      "answer": "Paddy says, 'Look, Paddy. Kuku's turning cartwheels again.'"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What fruit does one character like in the circle game?",
+      "answer": "One character says 'I like grapes.'"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the end of the sentence starting with 'They are' in the yellow track?",
+      "answer": "They are 'in the same school' or 'their neighbour'."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What does Mia say about her courage?",
+      "answer": "Mia says, 'I'm never scared.'"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What object is '999' linked to besides stars?",
+      "answer": "It is linked to footsteps, seeds, bikes, and little mice."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the response to 'I am so sorry I spilled water on your shirt'?",
+      "answer": "The response is 'Never mind, it will dry up.'"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What does Mithu say he is in the circle game?",
+      "answer": "Mithu says, 'I am hungry.'"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the game called where you can't say 'Yes' or 'No'?",
+      "answer": "The game is 'You are out if you say Yes or No!'."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What should you observe for good handwriting?",
+      "answer": "Observe the letters on the board carefully and write them in proper proportion."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What color things can you list in Activity 8?",
+      "answer": "You can list 'White things'."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which animal is Bittu?",
+      "answer": "Bittu is a friend of Mithu; Bittu is a boy."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What does Paddy do when Mia feels happy?",
+      "answer": "Paddy plays with her."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What should you do to make others feel better?",
+      "answer": "You can talk to them, help them, or sing songs to them."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is 'A soft little violet toy mouse'?",
+      "answer": "It is a phrase created by combining words from the descriptor box."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What does Kuku say about jumping?",
+      "answer": "Kuku says, 'But I enjoy jumping.'"
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Who tells Toto to go home?",
+      "answer": "Bittu tells Toto to go back home."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What are three adjectives for size mentioned in the list?",
+      "answer": "Tall, short, and little."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is the 'end' phrase used in the enactment game?",
+      "answer": "The end phrase is '... swimming in a tank.'"
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What does Mia say she hates?",
+      "answer": "Mia says, 'I hate swimming.'"
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Name a word beginning with 'C' from the list activity.",
+      "answer": "Cup, Cat, or Cake."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How many balls are mentioned in the 'Five' activity?",
+      "answer": "Five balls are mentioned."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who says 'I am always ready'?",
+      "answer": "Bittu says he is always ready."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What should you describe about items in your list?",
+      "answer": "Describe their shape, size, color, and number."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is 'sweet' or 'juicy' used for?",
+      "answer": "They are used as describing words for objects like fruits."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who is 'in group B' in the yellow track activity?",
+      "answer": "The sentence 'You are in group B' is one of the options."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What does Mithu eat that is green?",
+      "answer": "Mithu eats green chillies."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which letter is before 'Zz'?",
+      "answer": "The letter 'Yy' is before 'Zz'."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What do you say after someone says 'Thank you for the chocolates'?",
+      "answer": "You say 'My pleasure!'."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Is Mia a dog or a cat?",
+      "answer": "Mia is a cat."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What can you see in a kitchen?",
+      "answer": "Stove, utensils, and food."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What does Kuku turn?",
+      "answer": "Kuku turns cartwheels."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What color is the 'bird' in the phrase combining example?",
+      "answer": "The bird is violet."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What are 'bacteria' according to the text?",
+      "answer": "Bacteria are things we cannot see."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What phrase is formed using 'He is' and 'brother'?",
+      "answer": "He is my brother."
+    }
+  ]
+}

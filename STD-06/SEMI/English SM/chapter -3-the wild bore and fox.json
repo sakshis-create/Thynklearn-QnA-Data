@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.03",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Wild Boar and the Fox"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What was the wild boar doing one day?",
+      "options": [
+        { "option_id": 1, "text": "Sleeping under a tree", "is_correct": false },
+        { "option_id": 2, "text": "Sharpening his tusks", "is_correct": true },
+        { "option_id": 3, "text": "Hunting for food", "is_correct": false },
+        { "option_id": 4, "text": "Running from a predator", "is_correct": false }
+      ],
+      "answer": "Sharpening his tusks"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Against what was the boar sharpening his tusks?",
+      "options": [
+        { "option_id": 1, "text": "A stone", "is_correct": false },
+        { "option_id": 2, "text": "The bark of a tree", "is_correct": true },
+        { "option_id": 3, "text": "Another animal's horns", "is_correct": false },
+        { "option_id": 4, "text": "The ground", "is_correct": false }
+      ],
+      "answer": "The bark of a tree"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How was the boar doing his work?",
+      "options": [
+        { "option_id": 1, "text": "Lazily", "is_correct": false },
+        { "option_id": 2, "text": "Quickly", "is_correct": false },
+        { "option_id": 3, "text": "Carefully", "is_correct": true },
+        { "option_id": 4, "text": "Noisy", "is_correct": false }
+      ],
+      "answer": "Carefully"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who lived in the same forest as the boar?",
+      "options": [
+        { "option_id": 1, "text": "A lion", "is_correct": false },
+        { "option_id": 2, "text": "A wolf", "is_correct": false },
+        { "option_id": 3, "text": "A fox", "is_correct": true },
+        { "option_id": 4, "text": "A tiger", "is_correct": false }
+      ],
+      "answer": "A fox"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What was the fox always looking for?",
+      "options": [
+        { "option_id": 1, "text": "Food to eat", "is_correct": false },
+        { "option_id": 2, "text": "A place to sleep", "is_correct": false },
+        { "option_id": 3, "text": "A chance to make fun of others", "is_correct": true },
+        { "option_id": 4, "text": "New friends", "is_correct": false }
+      ],
+      "answer": "A chance to make fun of other animals in the forest"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What did the fox decide to do when he saw the boar?",
+      "options": [
+        { "option_id": 1, "text": "Tease him", "is_correct": true },
+        { "option_id": 2, "text": "Help him", "is_correct": false },
+        { "option_id": 3, "text": "Attack him", "is_correct": false },
+        { "option_id": 4, "text": "Run away", "is_correct": false }
+      ],
+      "answer": "Tease him"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How did the fox act to try and distract the boar?",
+      "options": [
+        { "option_id": 1, "text": "As if he was angry", "is_correct": false },
+        { "option_id": 2, "text": "As if he was sleepy", "is_correct": false },
+        { "option_id": 3, "text": "As if he was really scared", "is_correct": true },
+        { "option_id": 4, "text": "As if he was very happy", "is_correct": false }
+      ],
+      "answer": "As if he was really scared"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Did the boar pay attention to the fox at first?",
+      "options": [
+        { "option_id": 1, "text": "Yes, he stopped working", "is_correct": false },
+        { "option_id": 2, "text": "No, he kept right on with his work", "is_correct": true },
+        { "option_id": 3, "text": "Yes, he started chasing the fox", "is_correct": false },
+        { "option_id": 4, "text": "No, he fell asleep", "is_correct": false }
+      ],
+      "answer": "No, he did not pay any attention to him"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does the word 'grin' mean in the story?",
+      "options": [
+        { "option_id": 1, "text": "Cry", "is_correct": false },
+        { "option_id": 2, "text": "Shout", "is_correct": false },
+        { "option_id": 3, "text": "Smile", "is_correct": true },
+        { "option_id": 4, "text": "Frown", "is_correct": false }
+      ],
+      "answer": "Smile"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What could the fox not see in the forest?",
+      "options": [
+        { "option_id": 1, "text": "Any trees", "is_correct": false },
+        { "option_id": 2, "text": "The wild boar", "is_correct": false },
+        { "option_id": 3, "text": "Any hidden enemy or danger", "is_correct": true },
+        { "option_id": 4, "text": "The sun", "is_correct": false }
+      ],
+      "answer": "Any hidden enemy or danger"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "According to the boar, what won't there be time for when danger comes?",
+      "options": [
+        { "option_id": 1, "text": "To run away", "is_correct": false },
+        { "option_id": 2, "text": "To sharpen his tusks", "is_correct": true },
+        { "option_id": 3, "text": "To call for help", "is_correct": false },
+        { "option_id": 4, "text": "To hide", "is_correct": false }
+      ],
+      "answer": "To sharpen my tusks"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What are the boar's 'weapons'?",
+      "options": [
+        { "option_id": 1, "text": "His hooves", "is_correct": false },
+        { "option_id": 2, "text": "His tusks", "is_correct": true },
+        { "option_id": 3, "text": "His tail", "is_correct": false },
+        { "option_id": 4, "text": "The trees", "is_correct": false }
+      ],
+      "answer": "His tusks"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the moral of the story?",
+      "options": [
+        { "option_id": 1, "text": "Slow and steady wins the race", "is_correct": false },
+        { "option_id": 2, "text": "It is best to be prepared", "is_correct": true },
+        { "option_id": 3, "text": "Honesty is the best policy", "is_correct": false },
+        { "option_id": 4, "text": "Unity is strength", "is_correct": false }
+      ],
+      "answer": "It is best to be prepared"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What should we not leave for the last minute?",
+      "options": [
+        { "option_id": 1, "text": "Eating food", "is_correct": false },
+        { "option_id": 2, "text": "Playing games", "is_correct": false },
+        { "option_id": 3, "text": "Things to be done", "is_correct": true },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Don't leave things to be done at the last minute"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these words means 'living in a jungle'?",
+      "options": [
+        { "option_id": 1, "text": "Tame", "is_correct": false },
+        { "option_id": 2, "text": "Wild", "is_correct": true },
+        { "option_id": 3, "text": "Pet", "is_correct": false },
+        { "option_id": 4, "text": "Domestic", "is_correct": false }
+      ],
+      "answer": "Wild"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "A boar is a type of wild ___.",
+      "options": [
+        { "option_id": 1, "text": "Cat", "is_correct": false },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Pig", "is_correct": true },
+        { "option_id": 4, "text": "Cow", "is_correct": false }
+      ],
+      "answer": "Pig"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the 'bark' of a tree?",
+      "options": [
+        { "option_id": 1, "text": "The sound a tree makes", "is_correct": false },
+        { "option_id": 2, "text": "The leaves", "is_correct": false },
+        { "option_id": 3, "text": "The tough outer covering", "is_correct": true },
+        { "option_id": 4, "text": "The roots", "is_correct": false }
+      ],
+      "answer": "The tough outer covering of the main tree trunk and branches"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which animal is 'as sly as a fox'?",
+      "options": [
+        { "option_id": 1, "text": "The boar", "is_correct": false },
+        { "option_id": 2, "text": "The mule", "is_correct": false },
+        { "option_id": 3, "text": "The fox", "is_correct": true },
+        { "option_id": 4, "text": "The ox", "is_correct": false }
+      ],
+      "answer": "The fox"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which idiom describes a 'mule'?",
+      "options": [
+        { "option_id": 1, "text": "As busy as a bee", "is_correct": false },
+        { "option_id": 2, "text": "As stubborn as a mule", "is_correct": true },
+        { "option_id": 3, "text": "As quiet as a mouse", "is_correct": false },
+        { "option_id": 4, "text": "As brave as a lion", "is_correct": false }
+      ],
+      "answer": "As stubborn as a mule"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Complete the idiom: 'As proud as a ___'.",
+      "options": [
+        { "option_id": 1, "text": "Lion", "is_correct": false },
+        { "option_id": 2, "text": "Bird", "is_correct": false },
+        { "option_id": 3, "text": "Peacock", "is_correct": true },
+        { "option_id": 4, "text": "Snail", "is_correct": false }
+      ],
+      "answer": "Peacock"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What object can be 'sharpened' according to the pointers?",
+      "options": [
+        { "option_id": 1, "text": "A knife", "is_correct": true },
+        { "option_id": 2, "text": "A cup", "is_correct": false },
+        { "option_id": 3, "text": "A shoe", "is_correct": false },
+        { "option_id": 4, "text": "A bag", "is_correct": false }
+      ],
+      "answer": "A knife"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which animal is 'as slow as a snail'?",
+      "options": [
+        { "option_id": 1, "text": "Fox", "is_correct": false },
+        { "option_id": 2, "text": "Snail", "is_correct": true },
+        { "option_id": 3, "text": "Ox", "is_correct": false },
+        { "option_id": 4, "text": "Bee", "is_correct": false }
+      ],
+      "answer": "Snail"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What did the fox begin to look at while walking around?",
+      "options": [
+        { "option_id": 1, "text": "Only the boar", "is_correct": false },
+        { "option_id": 2, "text": "Only the ground", "is_correct": false },
+        { "option_id": 3, "text": "Left and right and up and down", "is_correct": true },
+        { "option_id": 4, "text": "At the sky only", "is_correct": false }
+      ],
+      "answer": "Left and right and up and down"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The boar said if he is not ready, he will have to ___.",
+      "options": [
+        { "option_id": 1, "text": "Suffer", "is_correct": true },
+        { "option_id": 2, "text": "Celebrate", "is_correct": false },
+        { "option_id": 3, "text": "Play", "is_correct": false },
+        { "option_id": 4, "text": "Eat", "is_correct": false }
+      ],
+      "answer": "Suffer"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which action word is paired with 'scissors' in the example?",
+      "options": [
+        { "option_id": 1, "text": "Sharpen", "is_correct": true },
+        { "option_id": 2, "text": "Break", "is_correct": false },
+        { "option_id": 3, "text": "Pour", "is_correct": false },
+        { "option_id": 4, "text": "Wash", "is_correct": false }
+      ],
+      "answer": "Sharpen"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who was sharpening his tusks?",
+      "answer": "A wild boar was sharpening his tusks."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What was the boar using to sharpen his tusks?",
+      "answer": "The bark of a tree."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Where did the fox live?",
+      "answer": "The fox lived in the same forest as the wild boar."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What was the fox's habit?",
+      "answer": "He was always looking for a chance to make fun of other animals."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why did the fox begin to walk around looking scared?",
+      "answer": "He decided to tease the wild boar."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Did the boar stop his work when he saw the fox?",
+      "answer": "No, he kept right on with his work."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What did the fox ask the boar?",
+      "answer": "The fox asked, \"Why are you doing that? I tried very hard, but I did not see any hidden enemy or danger.\""
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What was the boar's reply to the fox's question?",
+      "answer": "He said that when danger really comes, there won't be time to sharpen his tusks, so they must be ready."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What happens if the boar is not ready when danger comes?",
+      "answer": "He says he will have to suffer."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What lesson does the story 'The Wild Boar and the Fox' teach us?",
+      "answer": "It is best to be prepared and not leave things for the last minute."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What are tusks?",
+      "answer": "A pair of long pointed teeth that some animals like elephants and boars have."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'grin'?",
+      "answer": "To grin means to smile."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What does the word 'wild' mean in the chapter?",
+      "answer": "It means living in a jungle."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is a boar?",
+      "answer": "A wild pig."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is the bark of a tree?",
+      "answer": "The tough outer covering of the main tree trunk and branches."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Which animal is used in the idiom for being busy?",
+      "answer": "A bee (as busy as a bee)."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "How is a mouse described in the idioms?",
+      "answer": "As quiet as a mouse."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Which animal is 'as strong as an ox'?",
+      "answer": "An ox."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the idiom for being brave?",
+      "answer": "As brave as a lion."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Which bird is mentioned in the 'as free as' idiom?",
+      "answer": "A bird (as free as a bird)."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Name one thing you can 'sharpen' other than tusks.",
+      "answer": "A knife, a pencil, or your mind."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Name two things you can 'wash'.",
+      "answer": "Your hands and clothes."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name two things you can 'throw'.",
+      "answer": "A ball and a stone."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Name something you can 'pour'.",
+      "answer": "Water or juice."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What can you 'break' with a hammer?",
+      "answer": "Laddoos or a stone."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why should you not leave things to be done at the last minute?",
+      "answer": "Because you might not have enough time and you may suffer, as the boar explained."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What was the fox's real intention when he acted scared?",
+      "answer": "To tease the wild boar and make fun of him."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What does the boar consider his 'weapons'?",
+      "answer": "His sharpened tusks."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How did the boar sharpen his tusks 'carefully'?",
+      "answer": "By rubbing them against the bark of a tree."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which animal is 'as sly as a fox'?",
+      "answer": "The fox."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is an idiom for being stubborn?",
+      "answer": "As stubborn as a mule."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does 'as proud as a peacock' mean?",
+      "answer": "It means being very proud of oneself."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Give an example of something you can 'fold'.",
+      "answer": "A piece of paper or clothes."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Give an example of something you can 'repair'.",
+      "answer": "A broken toy or a bicycle."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What can you 'measure'?",
+      "answer": "Length with a ruler or weight with a scale."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why was the boar sharpening his tusks even when there was no danger?",
+      "answer": "He wanted to be prepared so that his weapons were ready when danger actually arrived."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "In the phrase 'looking left and right and up and down', who was doing this?",
+      "answer": "The fox was doing this."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What did the fox try hard to see but couldn't?",
+      "answer": "Any hidden enemy or danger."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Is a wild boar a pet animal?",
+      "answer": "No, it is a wild animal that lives in the jungle."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the QR code text for this chapter?",
+      "answer": "HNF16H."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What should the teacher do while reading the story according to pointers?",
+      "answer": "Read out the story slowly and say each word carefully."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name three objects you can 'decorate'.",
+      "answer": "A house, a Christmas tree, and a greeting card."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What are three things you can 'open'?",
+      "answer": "A door, a window, and a book."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What can you 'paint'?",
+      "answer": "A picture, a wall, or a fence."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is an idiom for being very slow?",
+      "answer": "As slow as a snail."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is an idiom for being very strong?",
+      "answer": "As strong as an ox."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What can you 'join'?",
+      "answer": "Two pieces of paper or broken parts."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What can you 'find'?",
+      "answer": "A lost key or a solution to a problem."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Give two reasons why someone might be reading a story.",
+      "answer": "Because they like it or because it is interesting."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the situation if Akshay asks 'Why are you reading this story?'",
+      "answer": "The answer could be 'I like it' or 'It's funny'."
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.1.7",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Are you a DIY Kid?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What age should a child be to start doing many things by themselves according to the text?",
+      "options": [
+        { "option_id": 1, "text": "5 years old", "is_correct": false },
+        { "option_id": 2, "text": "nearly 11", "is_correct": true },
+        { "option_id": 3, "text": "8 years old", "is_correct": false },
+        { "option_id": 4, "text": "15 years old", "is_correct": false }
+      ],
+      "answer": "nearly 11"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of these is mentioned as part of taking care of personal hygiene?",
+      "options": [
+        { "option_id": 1, "text": "Trimming nails regularly", "is_correct": true },
+        { "option_id": 2, "text": "Polishing shoes", "is_correct": false },
+        { "option_id": 3, "text": "Sewing buttons", "is_correct": false },
+        { "option_id": 4, "text": "Buying groceries", "is_correct": false }
+      ],
+      "answer": "Trimming nails regularly"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where should you remember to wash during a 'proper wash'?",
+      "options": [
+        { "option_id": 1, "text": "Behind your ears", "is_correct": true },
+        { "option_id": 2, "text": "Only your face", "is_correct": false },
+        { "option_id": 3, "text": "Only your hands", "is_correct": false },
+        { "option_id": 4, "text": "Your hair only", "is_correct": false }
+      ],
+      "answer": "Behind your ears"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How often does the child in the text wash their undergarments?",
+      "options": [
+        { "option_id": 1, "text": "Once a week", "is_correct": false },
+        { "option_id": 2, "text": "Every day", "is_correct": true },
+        { "option_id": 3, "text": "Every two days", "is_correct": false },
+        { "option_id": 4, "text": "When they run out", "is_correct": false }
+      ],
+      "answer": "Every day"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What should you do to soiled parts of clothes before adding them to the washing pile?",
+      "options": [
+        { "option_id": 1, "text": "Iron them", "is_correct": false },
+        { "option_id": 2, "text": "Brush or scrub with soap", "is_correct": true },
+        { "option_id": 3, "text": "Fold them", "is_correct": false },
+        { "option_id": 4, "text": "Dry them", "is_correct": false }
+      ],
+      "answer": "Brush or scrub with soap"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "At what age did the child learn to ride a bicycle?",
+      "options": [
+        { "option_id": 1, "text": "10 years old", "is_correct": false },
+        { "option_id": 2, "text": "8 years old", "is_correct": true },
+        { "option_id": 3, "text": "11 years old", "is_correct": false },
+        { "option_id": 4, "text": "Std II", "is_correct": false }
+      ],
+      "answer": "8 years old"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How often should compost be added to a plant?",
+      "options": [
+        { "option_id": 1, "text": "Every day", "is_correct": false },
+        { "option_id": 2, "text": "Every week", "is_correct": false },
+        { "option_id": 3, "text": "Every 2-3 months", "is_correct": true },
+        { "option_id": 4, "text": "Once a year", "is_correct": false }
+      ],
+      "answer": "Every 2-3 months"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who helped the child dress up when they were in Std II?",
+      "options": [
+        { "option_id": 1, "text": "Mother", "is_correct": false },
+        { "option_id": 2, "text": "Father", "is_correct": true },
+        { "option_id": 3, "text": "Aunt", "is_correct": false },
+        { "option_id": 4, "text": "Grandpa", "is_correct": false }
+      ],
+      "answer": "Father"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is a type of stitch mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Running stitch", "is_correct": true },
+        { "option_id": 2, "text": "Knitting stitch", "is_correct": false },
+        { "option_id": 3, "text": "Blanket stitch", "is_correct": false },
+        { "option_id": 4, "text": "Cross stitch", "is_correct": false }
+      ],
+      "answer": "Running stitch"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What did the child once make by sewing the edges of a square piece of cloth?",
+      "options": [
+        { "option_id": 1, "text": "A bag", "is_correct": false },
+        { "option_id": 2, "text": "A handkerchief", "is_correct": true },
+        { "option_id": 3, "text": "A shirt", "is_correct": false },
+        { "option_id": 4, "text": "A pillowcase", "is_correct": false }
+      ],
+      "answer": "A handkerchief"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which kitchen task does the child like doing with grain or flour?",
+      "options": [
+        { "option_id": 1, "text": "Sifting", "is_correct": true },
+        { "option_id": 2, "text": "Frying", "is_correct": false },
+        { "option_id": 3, "text": "Baking", "is_correct": false },
+        { "option_id": 4, "text": "Boiling", "is_correct": false }
+      ],
+      "answer": "Sifting"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "According to the text, what is a 'skilled job' in the kitchen?",
+      "options": [
+        { "option_id": 1, "text": "Peeling cucumbers", "is_correct": false },
+        { "option_id": 2, "text": "Making bhakri", "is_correct": true },
+        { "option_id": 3, "text": "Shelling peas", "is_correct": false },
+        { "option_id": 4, "text": "Slicing fruit", "is_correct": false }
+      ],
+      "answer": "Making bhakri"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "In what languages should you answer the phone politely?",
+      "options": [
+        { "option_id": 1, "text": "Marathi or English", "is_correct": true },
+        { "option_id": 2, "text": "Hindi or English", "is_correct": false },
+        { "option_id": 3, "text": "Only English", "is_correct": false },
+        { "option_id": 4, "text": "Any language", "is_correct": false }
+      ],
+      "answer": "Marathi or English"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is a 'smart consumer'?",
+      "options": [
+        { "option_id": 1, "text": "Someone who buys everything", "is_correct": false },
+        { "option_id": 2, "text": "Someone who checks products and prices", "is_correct": true },
+        { "option_id": 3, "text": "Someone who uses plastic bags", "is_correct": false },
+        { "option_id": 4, "text": "Someone who never pays", "is_correct": false }
+      ],
+      "answer": "Someone who checks products and prices"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why does the child do 'mental arithmetic' at the shop?",
+      "options": [
+        { "option_id": 1, "text": "To impress the shopkeeper", "is_correct": false },
+        { "option_id": 2, "text": "To collect the correct change", "is_correct": true },
+        { "option_id": 3, "text": "To learn math", "is_correct": false },
+        { "option_id": 4, "text": "To spend more time there", "is_correct": false }
+      ],
+      "answer": "To collect the correct change"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What does the child avoid using when shopping?",
+      "options": [
+        { "option_id": 1, "text": "Money", "is_correct": false },
+        { "option_id": 2, "text": "Plastic bags", "is_correct": true },
+        { "option_id": 3, "text": "Containers", "is_correct": false },
+        { "option_id": 4, "text": "Wallets", "is_correct": false }
+      ],
+      "answer": "Plastic bags"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does the child do to the soil around the plant's roots?",
+      "options": [
+        { "option_id": 1, "text": "Presses it down", "is_correct": false },
+        { "option_id": 2, "text": "Loosens it", "is_correct": true },
+        { "option_id": 3, "text": "Removes it", "is_correct": false },
+        { "option_id": 4, "text": "Colors it", "is_correct": false }
+      ],
+      "answer": "Loosens it"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT mentioned as a kitchen help activity?",
+      "options": [
+        { "option_id": 1, "text": "Slicing fruits", "is_correct": false },
+        { "option_id": 2, "text": "Washing vegetables", "is_correct": false },
+        { "option_id": 3, "text": "Grilling meat", "is_correct": true },
+        { "option_id": 4, "text": "Peeling cucumbers", "is_correct": false }
+      ],
+      "answer": "Grilling meat"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the child going to learn during the vacation?",
+      "options": [
+        { "option_id": 1, "text": "Baking", "is_correct": false },
+        { "option_id": 2, "text": "Riding a bigger bicycle", "is_correct": true },
+        { "option_id": 3, "text": "Driving", "is_correct": false },
+        { "option_id": 4, "text": "Knitting", "is_correct": false }
+      ],
+      "answer": "Riding a bigger bicycle"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What can the child do with a needle and thread besides sewing clothes?",
+      "options": [
+        { "option_id": 1, "text": "String flowers or beads", "is_correct": true },
+        { "option_id": 2, "text": "Tie shoes", "is_correct": false },
+        { "option_id": 3, "text": "Fish", "is_correct": false },
+        { "option_id": 4, "text": "Climb", "is_correct": false }
+      ],
+      "answer": "String flowers or beads"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "How should you hang clothes to dry to avoid creases?",
+      "options": [
+        { "option_id": 1, "text": "Bundled up", "is_correct": false },
+        { "option_id": 2, "text": "Neatly", "is_correct": true },
+        { "option_id": 3, "text": "Wet", "is_correct": false },
+        { "option_id": 4, "text": "In the dark", "is_correct": false }
+      ],
+      "answer": "Neatly"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does DIY stand for?",
+      "options": [
+        { "option_id": 1, "text": "Do It Young", "is_correct": false },
+        { "option_id": 2, "text": "Do It Yourself", "is_correct": true },
+        { "option_id": 3, "text": "Done In Yearly", "is_correct": false },
+        { "option_id": 4, "text": "Dress In Yellow", "is_correct": false }
+      ],
+      "answer": "Do It Yourself"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What can you get by churning?",
+      "options": [
+        { "option_id": 1, "text": "Buttermilk", "is_correct": true },
+        { "option_id": 2, "text": "Juice", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Tea", "is_correct": false }
+      ],
+      "answer": "Buttermilk"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which stitch is used for the border?",
+      "options": [
+        { "option_id": 1, "text": "Hem", "is_correct": true },
+        { "option_id": 2, "text": "Back stitch", "is_correct": false },
+        { "option_id": 3, "text": "Buttonhole", "is_correct": false },
+        { "option_id": 4, "text": "Zig-zag", "is_correct": false }
+      ],
+      "answer": "Hem"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the first thing a smart consumer checks?",
+      "options": [
+        { "option_id": 1, "text": "The color", "is_correct": false },
+        { "option_id": 2, "text": "The product", "is_correct": true },
+        { "option_id": 3, "text": "The bag", "is_correct": false },
+        { "option_id": 4, "text": "The receipt", "is_correct": false }
+      ],
+      "answer": "The product"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What are some things parents do for children when they are very young?",
+      [cite_start]"answer": "Parents feed, wash, dress, and take around very young children[cite: 1, 2]."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the meaning of a 'DIY kid'?",
+      [cite_start]"answer": "A DIY kid is a 'Do It Yourself' kid who has learned to do many things by themselves[cite: 3, 4]."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Name four body parts specifically mentioned to be washed during personal hygiene.",
+      [cite_start]"answer": "The body parts mentioned are behind the ears, under arms, elbows, and knees[cite: 9]."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "How should a child use water while washing?",
+      [cite_start]"answer": "A child should use enough water, not more and not less[cite: 10]."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does the child do with hair after washing it?",
+      [cite_start]"answer": "The child dries, oils, and combs their hair on their own[cite: 10, 11]."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Where should used and soiled clothes be put?",
+      [cite_start]"answer": "They should be put in the washing bucket on time, rather than being stacked up[cite: 15]."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "How does the child ensure clothes dry without creases?",
+      [cite_start]"answer": "The child hangs the clothes neatly on the clothesline to dry[cite: 17]."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What two places are mentioned where a child might swim?",
+      [cite_start]"answer": "A child can swim in a swimming pool or in a well[cite: 18]."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What swimming style is the child going to learn this year?",
+      [cite_start]"answer": "The child is going to learn free style swimming[cite: 19]."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What does the child mean by riding a bicycle without 'balancing wheels'?",
+      [cite_start]"answer": "It means riding a bicycle on only two wheels without the extra support wheels for beginners[cite: 22]."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "How does the child care for their plant every day?",
+      [cite_start]"answer": "The child waters the plant every day[cite: 23]."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What does the plant need besides water and compost?",
+      [cite_start]"answer": "The plant needs sunlight[cite: 29]."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What sewing skill is needed before stringing beads?",
+      [cite_start]"answer": "The child must know how to thread a needle and put a knot in the thread[cite: 31, 32]."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "List four things a child can do with a needle and thread.",
+      [cite_start]"answer": "A child can thread a needle, make stitches (running, back, hem, buttonhole), sew up a tear, and sew a button[cite: 31, 33, 34, 35]."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Name three kitchen tasks involving fruits and vegetables.",
+      [cite_start]"answer": "Tasks include cleaning/washing, peeling (cucumbers), and slicing, cutting, or chopping[cite: 36, 37, 38]."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What simple dishes can the child prepare?",
+      [cite_start]"answer": "The child can prepare salads and peanut-laddoo[cite: 39]."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is difficult about making bhakri, puris, or chapatis?",
+      [cite_start]"answer": "It is difficult to make the dough and roll them out; it is considered a skilled job[cite: 41]."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What should you do if the person a caller wants is not at home?",
+      [cite_start]"answer": "You should ask if they have a message for that person[cite: 43]."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What should you do when you are giving the phone to someone else?",
+      [cite_start]"answer": "You should politely inform the caller, for example, 'I am giving the phone to Grandpa'[cite: 44]."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What calculations does a smart consumer do before paying?",
+      [cite_start]"answer": "They do 'mental arithmetic' or simple calculations to ensure they pay the right amount[cite: 46]."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why should a consumer carry money safely and carefully?",
+      [cite_start]"answer": "A consumer should carry money safely to avoid losing it and to be able to pay for products[cite: 47]."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What should a smart consumer bring to the shop instead of using plastic bags?",
+      [cite_start]"answer": "A smart consumer should remember to take proper containers[cite: 48]."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What question does Bitto ask the caller on the phone?",
+      [cite_start]"answer": "Bitto asks, 'Do you have any message for her?'[cite: 43]."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "How often should you trim your nails?",
+      [cite_start]"answer": "You should trim your nails regularly[cite: 7]."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What does the child do to help with grains?",
+      [cite_start]"answer": "The child helps mother in cleaning grains and cereals, and likes sifting them[cite: 37, 38]."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the benefit of churning?",
+      [cite_start]"answer": "Churning is fun and results in getting buttermilk at the end[cite: 40]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What did the child make using a square piece of cloth?",
+      [cite_start]"answer": "The child made a handkerchief by sewing the edges[cite: 35]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What should you do before visiting someone else?",
+      [cite_start]"answer": "You should make sure you are presentable[cite: 29]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Where does the child put their money when going to the shop?",
+      [cite_start]"answer": "The child carries the money safely and carefully[cite: 47]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name two types of beans mentioned that a child can shell.",
+      [cite_start]"answer": "A child can shell peas, green gram, beans, and peanuts[cite: 39, 40]."
+    }
+  ]
+}

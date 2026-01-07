@@ -1,0 +1,911 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.01",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Songs of Happiness"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What should you do when you are happy and you know it according to the first song?",
+      "options": [
+        { "option_id": 1, "text": "Sing a song", "is_correct": false },
+        { "option_id": 2, "text": "Clap your hands", "is_correct": true },
+        { "option_id": 3, "text": "Dance around", "is_correct": false },
+        { "option_id": 4, "text": "Nod your head", "is_correct": false }
+      ],
+      "answer": "Clap your hands"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "When should you 'sing your way home'?",
+      "options": [
+        { "option_id": 1, "text": "At the start of the day", "is_correct": false },
+        { "option_id": 2, "text": "During lunch time", "is_correct": false },
+        { "option_id": 3, "text": "At the close of the day", "is_correct": true },
+        { "option_id": 4, "text": "At midnight", "is_correct": false }
+      ],
+      "answer": "At the close of the day"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the meaning of the word 'roam'?",
+      "options": [
+        { "option_id": 1, "text": "To stay still", "is_correct": false },
+        { "option_id": 2, "text": "To wander or travel", "is_correct": true },
+        { "option_id": 3, "text": "To sleep deeply", "is_correct": false },
+        { "option_id": 4, "text": "To run fast", "is_correct": false }
+      ],
+      "answer": "wander, travel"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What will singing your way home do to your 'load'?",
+      "options": [
+        { "option_id": 1, "text": "Make it heavier", "is_correct": false },
+        { "option_id": 2, "text": "Make it disappear", "is_correct": false },
+        { "option_id": 3, "text": "Lighten it", "is_correct": true },
+        { "option_id": 4, "text": "Change its color", "is_correct": false }
+      ],
+      "answer": "It will lighten your load"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the phrase 'drive the shadows away' mean?",
+      "options": [
+        { "option_id": 1, "text": "Turn off the lights", "is_correct": false },
+        { "option_id": 2, "text": "Remove all sad thoughts", "is_correct": true },
+        { "option_id": 3, "text": "Run into the dark", "is_correct": false },
+        { "option_id": 4, "text": "Close your eyes", "is_correct": false }
+      ],
+      "answer": "remove all sad thoughts from your mind"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which action is NOT suggested as a replacement for 'Clap your hands'?",
+      "options": [
+        { "option_id": 1, "text": "Sing a song", "is_correct": false },
+        { "option_id": 2, "text": "Dance around", "is_correct": false },
+        { "option_id": 3, "text": "Eat your food", "is_correct": true },
+        { "option_id": 4, "text": "Nod your head", "is_correct": false }
+      ],
+      "answer": "Eat your food"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The text suggests you should 'smile every ___'.",
+      "options": [
+        { "option_id": 1, "text": "hour", "is_correct": false },
+        { "option_id": 2, "text": "day", "is_correct": false },
+        { "option_id": 3, "text": "mile", "is_correct": true },
+        { "option_id": 4, "text": "week", "is_correct": false }
+      ],
+      "answer": "mile"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the result of singing your way home on your road?",
+      "options": [
+        { "option_id": 1, "text": "It will lengthen it", "is_correct": false },
+        { "option_id": 2, "text": "It will brighten it", "is_correct": true },
+        { "option_id": 3, "text": "It will block it", "is_correct": false },
+        { "option_id": 4, "text": "It will make it dusty", "is_correct": false }
+      ],
+      "answer": "It will brighten your road"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does 'at the close of the day' refer to?",
+      "options": [
+        { "option_id": 1, "text": "Sunrise", "is_correct": false },
+        { "option_id": 2, "text": "Noon", "is_correct": false },
+        { "option_id": 3, "text": "The end of the day when work is done", "is_correct": true },
+        { "option_id": 4, "text": "The start of school", "is_correct": false }
+      ],
+      "answer": "At the end of the day, when your work is done."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The phrase 'lighten your load' means to make your ___ smaller.",
+      "options": [
+        { "option_id": 1, "text": "School bag", "is_correct": false },
+        { "option_id": 2, "text": "Worries or problems", "is_correct": true },
+        { "option_id": 3, "text": "Lunch box", "is_correct": false },
+        { "option_id": 4, "text": "Shoes", "is_correct": false }
+      ],
+      "answer": "worries or problems"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Complete the line: 'When you are happy and you know it, and you really want to ___ it'.",
+      "options": [
+        { "option_id": 1, "text": "hide", "is_correct": false },
+        { "option_id": 2, "text": "show", "is_correct": true },
+        { "option_id": 3, "text": "buy", "is_correct": false },
+        { "option_id": 4, "text": "tell", "is_correct": false }
+      ],
+      "answer": "show"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "According to the poem, singing on the way back home makes you feel:",
+      "options": [
+        { "option_id": 1, "text": "Tired", "is_correct": false },
+        { "option_id": 2, "text": "Happy", "is_correct": true },
+        { "option_id": 3, "text": "Sleepy", "is_correct": false },
+        { "option_id": 4, "text": "Hungry", "is_correct": false }
+      ],
+      "answer": "happy"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the title of the first song?",
+      "options": [
+        { "option_id": 1, "text": "Sing your way home", "is_correct": false },
+        { "option_id": 2, "text": "When you are Happy", "is_correct": true },
+        { "option_id": 3, "text": "Smile Every Mile", "is_correct": false },
+        { "option_id": 4, "text": "Happiness", "is_correct": false }
+      ],
+      "answer": "When you are Happy"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "In the phrase 'brighten your road', what does 'road' symbolize?",
+      "options": [
+        { "option_id": 1, "text": "A physical highway", "is_correct": false },
+        { "option_id": 2, "text": "Your feelings and journey", "is_correct": true },
+        { "option_id": 3, "text": "A map", "is_correct": false },
+        { "option_id": 4, "text": "The school grounds", "is_correct": false }
+      ],
+      "answer": "your feelings and cheerfulness"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word in the text rhymes with 'roam'?",
+      "options": [
+        { "option_id": 1, "text": "Day", "is_correct": false },
+        { "option_id": 2, "text": "Home", "is_correct": true },
+        { "option_id": 3, "text": "Mile", "is_correct": false },
+        { "option_id": 4, "text": "Load", "is_correct": false }
+      ],
+      "answer": "home"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the QR code text provided in the document?",
+      "options": [
+        { "option_id": 1, "text": "ALHOO", "is_correct": false },
+        { "option_id": 2, "text": "AKA93L", "is_correct": true },
+        { "option_id": 3, "text": "SONG01", "is_correct": false },
+        { "option_id": 4, "text": "HAPPY", "is_correct": false }
+      ],
+      "answer": "AKA93L"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "How many times is 'Clap your hands' mentioned in the first stanza of the first song?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": true },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The second song is titled:",
+      "options": [
+        { "option_id": 1, "text": "Clap your hands", "is_correct": false },
+        { "option_id": 2, "text": "Sing your way home", "is_correct": true },
+        { "option_id": 3, "text": "Smile and Be Happy", "is_correct": false },
+        { "option_id": 4, "text": "Bright Road", "is_correct": false }
+      ],
+      "answer": "Sing your way home"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What does 'brighten your road' mean in context?",
+      "options": [
+        { "option_id": 1, "text": "To paint the road", "is_correct": false },
+        { "option_id": 2, "text": "To turn on a torch", "is_correct": false },
+        { "option_id": 3, "text": "To make you feel happy and cheerful", "is_correct": true },
+        { "option_id": 4, "text": "To clean the street", "is_correct": false }
+      ],
+      "answer": "make you feel happy and cheerful"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "In the phrase 'lighten your load', what does 'load' refer to?",
+      "options": [
+        { "option_id": 1, "text": "Heavy stones", "is_correct": false },
+        { "option_id": 2, "text": "Worries or problems", "is_correct": true },
+        { "option_id": 3, "text": "Groceries", "is_correct": false },
+        { "option_id": 4, "text": "Luggage", "is_correct": false }
+      ],
+      "answer": "worries or problems"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "According to the text, what should you do 'wherever you roam'?",
+      "options": [
+        { "option_id": 1, "text": "Sing a song", "is_correct": false },
+        { "option_id": 2, "text": "Smile every mile", "is_correct": true },
+        { "option_id": 3, "text": "Clap your hands", "is_correct": false },
+        { "option_id": 4, "text": "Run back home", "is_correct": false }
+      ],
+      "answer": "Smile every mile"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of these is a synonym for 'shadows' in 'Drive the shadows away'?",
+      "options": [
+        { "option_id": 1, "text": "Friends", "is_correct": false },
+        { "option_id": 2, "text": "Sad thoughts", "is_correct": true },
+        { "option_id": 3, "text": "Dark trees", "is_correct": false },
+        { "option_id": 4, "text": "Night time", "is_correct": false }
+      ],
+      "answer": "sad thoughts"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The text says 'It will ___ your road'.",
+      "options": [
+        { "option_id": 1, "text": "shorten", "is_correct": false },
+        { "option_id": 2, "text": "brighten", "is_correct": true },
+        { "option_id": 3, "text": "widen", "is_correct": false },
+        { "option_id": 4, "text": "clean", "is_correct": false }
+      ],
+      "answer": "brighten"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Happiness", "is_correct": true },
+        { "option_id": 2, "text": "Nature", "is_correct": false },
+        { "option_id": 3, "text": "School life", "is_correct": false },
+        { "option_id": 4, "text": "Travel", "is_correct": false }
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which part of the day is mentioned as the time to sing your way home?",
+      "options": [
+        { "option_id": 1, "text": "Morning", "is_correct": false },
+        { "option_id": 2, "text": "Afternoon", "is_correct": false },
+        { "option_id": 3, "text": "Close of the day", "is_correct": true },
+        { "option_id": 4, "text": "Lunch break", "is_correct": false }
+      ],
+      "answer": "At the close of the day"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What happens if you sing your way home?",
+      "options": [
+        { "option_id": 1, "text": "You get tired", "is_correct": false },
+        { "option_id": 2, "text": "It will lighten your load", "is_correct": true },
+        { "option_id": 3, "text": "The road gets longer", "is_correct": false },
+        { "option_id": 4, "text": "It starts to rain", "is_correct": false }
+      ],
+      "answer": "It will lighten your load"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The activity suggests using 'Nod your head' in place of:",
+      "options": [
+        { "option_id": 1, "text": "Sing a song", "is_correct": false },
+        { "option_id": 2, "text": "Clap your hands", "is_correct": true },
+        { "option_id": 3, "text": "Smile every mile", "is_correct": false },
+        { "option_id": 4, "text": "Drive shadows away", "is_correct": false }
+      ],
+      "answer": "Clap your hands"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "According to the song, you should smile every mile for wherever you ___.",
+      "options": [
+        { "option_id": 1, "text": "go", "is_correct": false },
+        { "option_id": 2, "text": "roam", "is_correct": true },
+        { "option_id": 3, "text": "stay", "is_correct": false },
+        { "option_id": 4, "text": "run", "is_correct": false }
+      ],
+      "answer": "roam"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The word 'brighten' in the text is used to describe:",
+      "options": [
+        { "option_id": 1, "text": "A lamp", "is_correct": false },
+        { "option_id": 2, "text": "The road", "is_correct": true },
+        { "option_id": 3, "text": "The sun", "is_correct": false },
+        { "option_id": 4, "text": "A shirt", "is_correct": false }
+      ],
+      "answer": "the road"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Singing your way home helps you to ___.",
+      "options": [
+        { "option_id": 1, "text": "Finish your work", "is_correct": false },
+        { "option_id": 2, "text": "Be happy", "is_correct": true },
+        { "option_id": 3, "text": "Find your way", "is_correct": false },
+        { "option_id": 4, "text": "Sleep faster", "is_correct": false }
+      ],
+      "answer": "be happy"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a rhyming word for 'show'?",
+      "options": [
+        { "option_id": 1, "text": "Know", "is_correct": false },
+        { "option_id": 2, "text": "Show", "is_correct": false },
+        { "option_id": 3, "text": "How", "is_correct": true },
+        { "option_id": 4, "text": "Snow", "is_correct": false }
+      ],
+      "answer": "How"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is the first action mentioned in the first song?",
+      "options": [
+        { "option_id": 1, "text": "Nodding", "is_correct": false },
+        { "option_id": 2, "text": "Clapping", "is_correct": true },
+        { "option_id": 3, "text": "Stamping", "is_correct": false },
+        { "option_id": 4, "text": "Shouting", "is_correct": false }
+      ],
+      "answer": "Clapping"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What should you 'drive away'?",
+      "options": [
+        { "option_id": 1, "text": "The car", "is_correct": false },
+        { "option_id": 2, "text": "The shadows", "is_correct": true },
+        { "option_id": 3, "text": "The dogs", "is_correct": false },
+        { "option_id": 4, "text": "The birds", "is_correct": false }
+      ],
+      "answer": "The shadows"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The phrase 'when your work is done' explains which term?",
+      "options": [
+        { "option_id": 1, "text": "Smile every mile", "is_correct": false },
+        { "option_id": 2, "text": "At the close of the day", "is_correct": true },
+        { "option_id": 3, "text": "Lighten your load", "is_correct": false },
+        { "option_id": 4, "text": "Wherever you roam", "is_correct": false }
+      ],
+      "answer": "At the close of the day"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What does 'show it' refer to in the first song?",
+      "options": [
+        { "option_id": 1, "text": "Your homework", "is_correct": false },
+        { "option_id": 2, "text": "That you are happy", "is_correct": true },
+        { "option_id": 3, "text": "A new toy", "is_correct": false },
+        { "option_id": 4, "text": "A picture", "is_correct": false }
+      ],
+      "answer": "That you are happy"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which word means the same as 'wander'?",
+      "options": [
+        { "option_id": 1, "text": "Close", "is_correct": false },
+        { "option_id": 2, "text": "Roam", "is_correct": true },
+        { "option_id": 3, "text": "Load", "is_correct": false },
+        { "option_id": 4, "text": "Brighten", "is_correct": false }
+      ],
+      "answer": "roam"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The instruction 'Sing the first song again using other actions' is found under which number?",
+      "options": [
+        { "option_id": 1, "text": "", "is_correct": false },
+        { "option_id": 2, "text": "", "is_correct": true },
+        { "option_id": 3, "text": "", "is_correct": false },
+        { "option_id": 4, "text": "", "is_correct": false }
+      ],
+      "answer": ""
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which action is associated with 'Nod'?",
+      "options": [
+        { "option_id": 1, "text": "Hands", "is_correct": false },
+        { "option_id": 2, "text": "Head", "is_correct": true },
+        { "option_id": 3, "text": "Feet", "is_correct": false },
+        { "option_id": 4, "text": "Shoulders", "is_correct": false }
+      ],
+      "answer": "Head"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "In the phrase 'it will lighten your load', what does 'it' refer to?",
+      "options": [
+        { "option_id": 1, "text": "Working hard", "is_correct": false },
+        { "option_id": 2, "text": "Singing your way home", "is_correct": true },
+        { "option_id": 3, "text": "Running", "is_correct": false },
+        { "option_id": 4, "text": "Crying", "is_correct": false }
+      ],
+      "answer": "Singing your way home"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What does the first picture in the PDF depict?",
+      "options": [
+        { "option_id": 1, "text": "A boy clapping his hands", "is_correct": true },
+        { "option_id": 2, "text": "A girl running home", "is_correct": false },
+        { "option_id": 3, "text": "A teacher in school", "is_correct": false },
+        { "option_id": 4, "text": "A bird flying", "is_correct": false }
+      ],
+      "answer": "A boy clapping his hands"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which of these is a positive action mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Wandering alone", "is_correct": false },
+        { "option_id": 2, "text": "Smiling every mile", "is_correct": true },
+        { "option_id": 3, "text": "Crying on the road", "is_correct": false },
+        { "option_id": 4, "text": "Having many worries", "is_correct": false }
+      ],
+      "answer": "Smiling every mile"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "The second picture depicts a girl going where?",
+      "options": [
+        { "option_id": 1, "text": "To the market", "is_correct": false },
+        { "option_id": 2, "text": "Away from school (home)", "is_correct": true },
+        { "option_id": 3, "text": "To a park", "is_correct": false },
+        { "option_id": 4, "text": "To a library", "is_correct": false }
+      ],
+      "answer": "Away from school (home)"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What will brighten your road according to the song?",
+      "options": [
+        { "option_id": 1, "text": "Singing your way home", "is_correct": true },
+        { "option_id": 2, "text": "Buying new shoes", "is_correct": false },
+        { "option_id": 3, "text": "The morning sun", "is_correct": false },
+        { "option_id": 4, "text": "Traffic lights", "is_correct": false }
+      ],
+      "answer": "Singing your way home"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which word is the opposite of 'sad thoughts' in the text?",
+      "options": [
+        { "option_id": 1, "text": "Shadows", "is_correct": false },
+        { "option_id": 2, "text": "Lighten", "is_correct": false },
+        { "option_id": 3, "text": "Happy/Cheerful", "is_correct": true },
+        { "option_id": 4, "text": "Roam", "is_correct": false }
+      ],
+      "answer": "Happy/Cheerful"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What should you do if you really want to show that you are happy?",
+      "options": [
+        { "option_id": 1, "text": "Clap your hands", "is_correct": true },
+        { "option_id": 2, "text": "Go to sleep", "is_correct": false },
+        { "option_id": 3, "text": "Sit quietly", "is_correct": false },
+        { "option_id": 4, "text": "Read a book", "is_correct": false }
+      ],
+      "answer": "Clap your hands"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "The word 'mile' rhymes with:",
+      "options": [
+        { "option_id": 1, "text": "Mile", "is_correct": false },
+        { "option_id": 2, "text": "Smile", "is_correct": true },
+        { "option_id": 3, "text": "Pile", "is_correct": false },
+        { "option_id": 4, "text": "File", "is_correct": false }
+      ],
+      "answer": "smile"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "The term 'Study Tour One' likely refers to:",
+      "options": [
+        { "option_id": 1, "text": "A specific lesson or unit", "is_correct": true },
+        { "option_id": 2, "text": "A field trip", "is_correct": false },
+        { "option_id": 3, "text": "A bus tour", "is_correct": false },
+        { "option_id": 4, "text": "A museum visit", "is_correct": false }
+      ],
+      "answer": "A specific lesson or unit"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which of these is mentioned as an action in the text?",
+      "options": [
+        { "option_id": 1, "text": "Sleep", "is_correct": false },
+        { "option_id": 2, "text": "Dance around", "is_correct": true },
+        { "option_id": 3, "text": "Cry", "is_correct": false },
+        { "option_id": 4, "text": "Eat", "is_correct": false }
+      ],
+      "answer": "Dance around"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "In the poem, what is compared to 'load'?",
+      "options": [
+        { "option_id": 1, "text": "Heavy bags", "is_correct": false },
+        { "option_id": 2, "text": "Worries or problems", "is_correct": true },
+        { "option_id": 3, "text": "Food items", "is_correct": false },
+        { "option_id": 4, "text": "School books", "is_correct": false }
+      ],
+      "answer": "worries or problems"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the very first line of the first song?",
+      "options": [
+        { "option_id": 1, "text": "Clap your hands", "is_correct": false },
+        { "option_id": 2, "text": "When you are happy", "is_correct": true },
+        { "option_id": 3, "text": "Sing your way home", "is_correct": false },
+        { "option_id": 4, "text": "Smile every mile", "is_correct": false }
+      ],
+      "answer": "When you are happy"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the instruction given for the first song regarding other actions?",
+      "answer": "The instruction is to sing the song again using other actions like 'Sing a song', 'Dance around', or 'Nod your head' instead of 'Clap your hands'."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Define the word 'roam' as per the text.",
+      "answer": "The word 'roam' means to wander or travel."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'At the close of the day' mean?",
+      "answer": "It means at the end of the day, when your work is done."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Explain the meaning of 'Drive the shadows away'.",
+      "answer": "It means to remove all sad thoughts from your mind."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What happens when you 'brighten your road'?",
+      "answer": "It means you feel happy and cheerful."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the figurative meaning of 'lighten your load'?",
+      "answer": "It means to make your worries or problems smaller."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "According to the song 'Sing your way home', what should you do when going back home?",
+      "answer": "You should sing on the way and be happy."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "List two actions suggested to replace 'Clap your hands' in the activity.",
+      "answer": "'Sing a song' and 'Dance around'."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "In the song 'When you are Happy', what is the second condition mentioned before clapping hands?",
+      "answer": "The second condition is 'And you know it'."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What will 'brighten your road' according to the second song?",
+      "answer": "Singing your way home will brighten your road."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does 'show it' refer to in the first song?",
+      "answer": "It refers to showing that you are happy."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Where is the QR code located in the chapter and what is the code?",
+      "answer": "The QR code is on the first page and the code text is AKA93L."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What should one do every mile while roaming?",
+      "answer": "One should smile every mile."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the title of Chapter 1.1?",
+      "answer": "The title is 'Songs of Happiness'."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "In the first song, if you are happy and you know it, what part of your body do you use to show it?",
+      "answer": "You use your hands to clap."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the synonym for 'travel' provided in the meanings section?",
+      "answer": "The synonym is 'roam'."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the effect of singing your way home on your 'load'?",
+      "answer": "It will lighten your load."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "At what time should you drive the shadows away by singing?",
+      "answer": "At the close of the day."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does the boy in the first picture appear to be doing?",
+      "answer": "He is clapping his hands happily."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Which word in the second song rhymes with 'load'?",
+      "answer": "The word 'road' rhymes with 'load'."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Name the three actions specifically listed in source 21 and 22.",
+      "answer": "The actions are 'Sing a song', 'Dance around', and 'Nod your head'."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'brighten your road' in the context of the poem?",
+      "answer": "It means to make you feel happy and cheerful."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Is 'Smile every mile' an instruction for a specific distance or a general attitude?",
+      "answer": "It is a general attitude suggesting you should stay happy throughout your journey."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "According to the poem, what will happen if you sing your way home?",
+      "answer": "It will brighten your road and lighten your load."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What does 'shadows' likely symbolize in the second song?",
+      "answer": "Shadows symbolize sad thoughts or worries."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the name of the 'Study Tour' mentioned at the beginning?",
+      "answer": "Study Tour One."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How many stanzas are there in the song 'When you are Happy' as shown in the snippets?",
+      "answer": "There is one main stanza repeated with variations (three main sections mentioned)."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What part of the day is 'the close of the day'?",
+      "answer": "It is the end of the day when work is finished."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What does 'show it' refer to in the song 'When you are Happy'?",
+      "answer": "It refers to expressing your happiness outwardly."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What are the two things singing your way home will do for you?",
+      "answer": "It will brighten your road and lighten your load."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which word is defined as 'to wander' in the chapter?",
+      "answer": "The word is 'roam'."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the phrase used to describe the end of the work day?",
+      "answer": "The phrase is 'At the close of the day'."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is the main message of 'Sing your way home'?",
+      "answer": "The message is to be happy and positive at the end of the day to reduce worries."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "If you replace 'Clap your hands' with 'Nod your head', what would the first line be?",
+      "answer": "When you are happy and you know it, nod your head."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What does the girl in the second image have on her back?",
+      "answer": "She appears to have a school bag, as she is going back home from school."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How does singing 'drive the shadows away'?",
+      "answer": "By removing sad thoughts from your mind."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the first action suggested in 'When you are Happy'?",
+      "answer": "Clap your hands."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "In the line 'Wherever you roam', what does 'wherever' imply?",
+      "answer": "It implies no matter where you go or travel."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the significance of 'Sing your way home' according to the glossary?",
+      "answer": "It means to sing on the way back home and be happy."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the rhyming word for 'day' in the second song?",
+      "answer": "The word 'away' rhymes with 'day'."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "According to the meanings, what is made 'smaller' when you lighten your load?",
+      "answer": "Your worries or problems are made smaller."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Complete the phrase: 'Drive the ___ away'.",
+      "answer": "shadows"
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the instruction for the action 'Nod your head'?",
+      "answer": "It is to be used as a replacement for 'Clap your hands' in the song."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What does 'brighten' mean in a non-literal sense in the poem?",
+      "answer": "It means to make someone feel happy and cheerful."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How many times is 'Happy' mentioned in the title of the first song?",
+      "answer": "Once ('When you are Happy')."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Who is the first song intended for?",
+      "answer": "It is intended for students or anyone who feels happy."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the literal meaning of 'roam'?",
+      "answer": "To wander or travel."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What feeling is associated with singing on the way home?",
+      "answer": "Happiness."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Where can one find the QR code in this chapter?",
+      "answer": "On page 1 of the chapter."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is 'lightened' when you sing your way home?",
+      "answer": "Your 'load', which means your worries or problems."
+    }
+  ]
+}

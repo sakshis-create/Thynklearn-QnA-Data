@@ -1,0 +1,1209 @@
+{
+" Chapter 11": " Work and Energy",
+"lessons": [
+"11. Work and Energy"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "Work is done when?",
+"options": [
+{ "option_id": 1, "text": "Object displaced by force", "is_correct": true },
+{ "option_id": 2, "text": "Force applied no displacement", "is_correct": false },
+{ "option_id": 3, "text": "Object stationary", "is_correct": false },
+{ "option_id": 4, "text": "No force", "is_correct": false }
+],
+"answer": "Object displaced by force"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "More work same displacement when?",
+"options": [
+{ "option_id": 1, "text": "More force", "is_correct": true },
+{ "option_id": 2, "text": "Less force", "is_correct": false },
+{ "option_id": 3, "text": "No force", "is_correct": false },
+{ "option_id": 4, "text": "Same force", "is_correct": false }
+],
+"answer": "More force"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "Same force more work when?",
+"options": [
+{ "option_id": 1, "text": "More displacement", "is_correct": true },
+{ "option_id": 2, "text": "Less displacement", "is_correct": false },
+{ "option_id": 3, "text": "No displacement", "is_correct": false },
+{ "option_id": 4, "text": "Stationary", "is_correct": false }
+],
+"answer": "More displacement"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "Pull empty box 10m vs loaded?",
+"options": [
+{ "option_id": 1, "text": "Loaded more work", "is_correct": true },
+{ "option_id": 2, "text": "Empty more work", "is_correct": false },
+{ "option_id": 3, "text": "Same work", "is_correct": false },
+{ "option_id": 4, "text": "No work", "is_correct": false }
+],
+"answer": "Loaded more work"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Loaded box 10m vs 20m?",
+"options": [
+{ "option_id": 1, "text": "20m more work", "is_correct": true },
+{ "option_id": 2, "text": "10m more work", "is_correct": false },
+{ "option_id": 3, "text": "Same", "is_correct": false },
+{ "option_id": 4, "text": "No difference", "is_correct": false }
+],
+"answer": "20m more work"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "Force on wall displacement?",
+"options": [
+{ "option_id": 1, "text": "No displacement, no work", "is_correct": true },
+{ "option_id": 2, "text": "Displacement occurs", "is_correct": false },
+{ "option_id": 3, "text": "Work done", "is_correct": false },
+{ "option_id": 4, "text": "Energy used", "is_correct": false }
+],
+"answer": "No displacement, no work"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "Energy capacity to?",
+"options": [
+{ "option_id": 1, "text": "Do work", "is_correct": true },
+{ "option_id": 2, "text": "Stationary", "is_correct": false },
+{ "option_id": 3, "text": "Apply force no move", "is_correct": false },
+{ "option_id": 4, "text": "Rest", "is_correct": false }
+],
+"answer": "Do work"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "Friends running rounds capacity?",
+"options": [
+{ "option_id": 1, "text": "Different energy", "is_correct": true },
+{ "option_id": 2, "text": "Same energy", "is_correct": false },
+{ "option_id": 3, "text": "No energy", "is_correct": false },
+{ "option_id": 4, "text": "Infinite", "is_correct": false }
+],
+"answer": "Different energy"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "Mechanical energy types?",
+"options": [
+{ "option_id": 1, "text": "Potential, kinetic", "is_correct": true },
+{ "option_id": 2, "text": "Heat, light", "is_correct": false },
+{ "option_id": 3, "text": "Chemical, electrical", "is_correct": false },
+{ "option_id": 4, "text": "Sound only", "is_correct": false }
+],
+"answer": "Potential, kinetic"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Potential energy due to?",
+"options": [
+{ "option_id": 1, "text": "Position", "is_correct": true },
+{ "option_id": 2, "text": "Motion", "is_correct": false },
+{ "option_id": 3, "text": "Heat", "is_correct": false },
+{ "option_id": 4, "text": "Light", "is_correct": false }
+],
+"answer": "Position"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "Kinetic energy from?",
+"options": [
+{ "option_id": 1, "text": "Motion", "is_correct": true },
+{ "option_id": 2, "text": "Position", "is_correct": false },
+{ "option_id": 3, "text": "Chemical", "is_correct": false },
+{ "option_id": 4, "text": "Sound", "is_correct": false }
+],
+"answer": "Motion"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "Pushed ball hits stationary ball?",
+"options": [
+{ "option_id": 1, "text": "Transfers kinetic energy", "is_correct": true },
+{ "option_id": 2, "text": "No energy transfer", "is_correct": false },
+{ "option_id": 3, "text": "Creates energy", "is_correct": false },
+{ "option_id": 4, "text": "Destroys energy", "is_correct": false }
+],
+"answer": "Transfers kinetic energy"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "Stretched rubber band energy?",
+"options": [
+{ "option_id": 1, "text": "Potential", "is_correct": true },
+{ "option_id": 2, "text": "Kinetic", "is_correct": false },
+{ "option_id": 3, "text": "Heat", "is_correct": false },
+{ "option_id": 4, "text": "Chemical", "is_correct": false }
+],
+"answer": "Potential"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "Catapult stone release?",
+"options": [
+{ "option_id": 1, "text": "Potential to kinetic", "is_correct": true },
+{ "option_id": 2, "text": "Kinetic to potential", "is_correct": false },
+{ "option_id": 3, "text": "No change", "is_correct": false },
+{ "option_id": 4, "text": "Heat produced", "is_correct": false }
+],
+"answer": "Potential to kinetic"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Heat energy unit?",
+"options": [
+{ "option_id": 1, "text": "Calorie", "is_correct": true },
+{ "option_id": 2, "text": "Joule only", "is_correct": false },
+{ "option_id": 3, "text": "Watt", "is_correct": false },
+{ "option_id": 4, "text": "Newton", "is_correct": false }
+],
+"answer": "Calorie"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "Work energy unit same?",
+"options": [
+{ "option_id": 1, "text": "Joule", "is_correct": true },
+{ "option_id": 2, "text": "Calorie", "is_correct": false },
+{ "option_id": 3, "text": "Metre", "is_correct": false },
+{ "option_id": 4, "text": "Second", "is_correct": false }
+],
+"answer": "Joule"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "Convex lens sunlight paper?",
+"options": [
+{ "option_id": 1, "text": "Burns spot", "is_correct": true },
+{ "option_id": 2, "text": "No effect", "is_correct": false },
+{ "option_id": 3, "text": "Cools", "is_correct": false },
+{ "option_id": 4, "text": "Colors", "is_correct": false }
+],
+"answer": "Burns spot"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "Light energy transformation in plants?",
+"options": [
+{ "option_id": 1, "text": "To food energy", "is_correct": true },
+{ "option_id": 2, "text": "To heat only", "is_correct": false },
+{ "option_id": 3, "text": "To sound", "is_correct": false },
+{ "option_id": 4, "text": "To chemical only", "is_correct": false }
+],
+"answer": "To food energy"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Sound energy example?",
+"options": [
+{ "option_id": 1, "text": "Window cracks loud noise", "is_correct": true },
+{ "option_id": 2, "text": "Burning wood", "is_correct": false },
+{ "option_id": 3, "text": "Stretched spring", "is_correct": false },
+{ "option_id": 4, "text": "Sun heat", "is_correct": false }
+],
+"answer": "Window cracks loud noise"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "Chemical energy example?",
+"options": [
+{ "option_id": 1, "text": "Wood burning", "is_correct": true },
+{ "option_id": 2, "text": "Motion of ball", "is_correct": false },
+{ "option_id": 3, "text": "Position height", "is_correct": false },
+{ "option_id": 4, "text": "Light bulb", "is_correct": false }
+],
+"answer": "Wood burning"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "Battery produces?",
+"options": [
+{ "option_id": 1, "text": "Electrical from chemical", "is_correct": true },
+{ "option_id": 2, "text": "Heat from motion", "is_correct": false },
+{ "option_id": 3, "text": "Light from gravity", "is_correct": false },
+{ "option_id": 4, "text": "Sound from position", "is_correct": false }
+],
+"answer": "Electrical from chemical"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "Energy transformation water cycle?",
+"options": [
+{ "option_id": 1, "text": "Solar to electrical", "is_correct": true },
+{ "option_id": 2, "text": "Chemical to heat", "is_correct": false },
+{ "option_id": 3, "text": "Motion to light", "is_correct": false },
+{ "option_id": 4, "text": "No transformation", "is_correct": false }
+],
+"answer": "Solar to electrical"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Electricity bulb transforms to?",
+"options": [
+{ "option_id": 1, "text": "Light", "is_correct": true },
+{ "option_id": 2, "text": "Sound", "is_correct": false },
+{ "option_id": 3, "text": "Chemical", "is_correct": false },
+{ "option_id": 4, "text": "Position", "is_correct": false }
+],
+"answer": "Light"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "Fan electricity to?",
+"options": [
+{ "option_id": 1, "text": "Kinetic", "is_correct": true },
+{ "option_id": 2, "text": "Potential", "is_correct": false },
+{ "option_id": 3, "text": "Heat", "is_correct": false },
+{ "option_id": 4, "text": "Chemical", "is_correct": false }
+],
+"answer": "Kinetic"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "Ultimate source of energy?",
+"options": [
+{ "option_id": 1, "text": "Sun", "is_correct": true },
+{ "option_id": 2, "text": "Earth", "is_correct": false },
+{ "option_id": 3, "text": "Wind", "is_correct": false },
+{ "option_id": 4, "text": "Ocean", "is_correct": false }
+],
+"answer": "Sun"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Conventional energy resources?",
+"options": [
+{ "option_id": 1, "text": "Coal, fossil fuels", "is_correct": true },
+{ "option_id": 2, "text": "Solar, wind", "is_correct": false },
+{ "option_id": 3, "text": "Tidal only", "is_correct": false },
+{ "option_id": 4, "text": "Atomic", "is_correct": false }
+],
+"answer": "Coal, fossil fuels"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "Non-renewable cannot?",
+"options": [
+{ "option_id": 1, "text": "Replenish", "is_correct": true },
+{ "option_id": 2, "text": "Renew", "is_correct": false },
+{ "option_id": 3, "text": "Use", "is_correct": false },
+{ "option_id": 4, "text": "Generate", "is_correct": false }
+],
+"answer": "Replenish"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Renewable energy inexhaustible?",
+"options": [
+{ "option_id": 1, "text": "Yes continuous", "is_correct": true },
+{ "option_id": 2, "text": "No limited", "is_correct": false },
+{ "option_id": 3, "text": "Only coal", "is_correct": false },
+{ "option_id": 4, "text": "Fossil", "is_correct": false }
+],
+"answer": "Yes continuous"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "Solar cooker uses?",
+"options": [
+{ "option_id": 1, "text": "Heat energy", "is_correct": true },
+{ "option_id": 2, "text": "Light energy", "is_correct": false },
+{ "option_id": 3, "text": "Electrical", "is_correct": false },
+{ "option_id": 4, "text": "Chemical", "is_correct": false }
+],
+"answer": "Heat energy"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "Solar cell produces?",
+"options": [
+{ "option_id": 1, "text": "Electrical energy", "is_correct": true },
+{ "option_id": 2, "text": "Heat", "is_correct": false },
+{ "option_id": 3, "text": "Mechanical", "is_correct": false },
+{ "option_id": 4, "text": "Sound", "is_correct": false }
+],
+"answer": "Electrical energy"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "Wind energy windmills?",
+"options": [
+{ "option_id": 1, "text": "Electricity, water draw", "is_correct": true },
+{ "option_id": 2, "text": "Heat only", "is_correct": false },
+{ "option_id": 3, "text": "Light", "is_correct": false },
+{ "option_id": 4, "text": "Chemical", "is_correct": false }
+],
+"answer": "Electricity, water draw"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Tidal energy how?",
+"options": [
+{ "option_id": 1, "text": "Wall creek tides turbine", "is_correct": true },
+{ "option_id": 2, "text": "Sun heat", "is_correct": false },
+{ "option_id": 3, "text": "Wind only", "is_correct": false },
+{ "option_id": 4, "text": "Dam height", "is_correct": false }
+],
+"answer": "Wall creek tides turbine"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Hydel power Koyna?",
+"options": [
+{ "option_id": 1, "text": "Hydroelectric project", "is_correct": true },
+{ "option_id": 2, "text": "Solar plant", "is_correct": false },
+{ "option_id": 3, "text": "Windmill", "is_correct": false },
+{ "option_id": 4, "text": "Atomic", "is_correct": false }
+],
+"answer": "Hydroelectric project"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Oceanic waves energy?",
+"options": [
+{ "option_id": 1, "text": "Up down motion electricity", "is_correct": true },
+{ "option_id": 2, "text": "No energy", "is_correct": false },
+{ "option_id": 3, "text": "Chemical", "is_correct": false },
+{ "option_id": 4, "text": "Heat", "is_correct": false }
+],
+"answer": "Up down motion electricity"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Atomic energy from?",
+"options": [
+{ "option_id": 1, "text": "Fission uranium thorium", "is_correct": true },
+{ "option_id": 2, "text": "Sun directly", "is_correct": false },
+{ "option_id": 3, "text": "Wind", "is_correct": false },
+{ "option_id": 4, "text": "Tides", "is_correct": false }
+],
+"answer": "Fission uranium thorium"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "Energy saving equal to?",
+"options": [
+{ "option_id": 1, "text": "Generating energy", "is_correct": true },
+{ "option_id": 2, "text": "Wasting", "is_correct": false },
+{ "option_id": 3, "text": "No effect", "is_correct": false },
+{ "option_id": 4, "text": "Using more", "is_correct": false }
+],
+"answer": "Generating energy"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "Green energy no?",
+"options": [
+{ "option_id": 1, "text": "Smoke carbon gases", "is_correct": true },
+{ "option_id": 2, "text": "Produces smoke", "is_correct": false },
+{ "option_id": 3, "text": "Fossil fuels", "is_correct": false },
+{ "option_id": 4, "text": "Coal", "is_correct": false }
+],
+"answer": "Smoke carbon gases"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Bucket water well work?",
+"options": [
+{ "option_id": 1, "text": "Force displacement", "is_correct": true },
+{ "option_id": 2, "text": "Force no move", "is_correct": false },
+{ "option_id": 3, "text": "No force", "is_correct": false },
+{ "option_id": 4, "text": "Energy only", "is_correct": false }
+],
+"answer": "Force displacement"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Ball sloping roof acquires?",
+"options": [
+{ "option_id": 1, "text": "Kinetic from potential", "is_correct": true },
+{ "option_id": 2, "text": "Potential from kinetic", "is_correct": false },
+{ "option_id": 3, "text": "Heat", "is_correct": false },
+{ "option_id": 4, "text": "Light", "is_correct": false }
+],
+"answer": "Kinetic from potential"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "Fireworks Diwali transformation?",
+"options": [
+{ "option_id": 1, "text": "Chemical to light", "is_correct": true },
+{ "option_id": 2, "text": "Solar to heat", "is_correct": false },
+{ "option_id": 3, "text": "Motion to sound", "is_correct": false },
+{ "option_id": 4, "text": "No transformation", "is_correct": false }
+],
+"answer": "Chemical to light"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Solar cooker application?",
+"options": [
+{ "option_id": 1, "text": "Heat energy sun", "is_correct": true },
+{ "option_id": 2, "text": "Chemical", "is_correct": false },
+{ "option_id": 3, "text": "Light only", "is_correct": false },
+{ "option_id": 4, "text": "Electrical", "is_correct": false }
+],
+"answer": "Heat energy sun"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "Road metal pans labourer.",
+"options": [
+{ "option_id": 1, "text": "Equal work 4 pans 100m or 2 pans 200m", "is_correct": true },
+{ "option_id": 2, "text": "More for 4 pans", "is_correct": false },
+{ "option_id": 3, "text": "Less for 2 pans", "is_correct": false },
+{ "option_id": 4, "text": "No work", "is_correct": false }
+],
+"answer": "Equal work 4 pans 100m or 2 pans 200m"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Displacement taken place when?",
+"options": [
+{ "option_id": 1, "text": "Position changes", "is_correct": true },
+{ "option_id": 2, "text": "Force applied", "is_correct": false },
+{ "option_id": 3, "text": "No move", "is_correct": false },
+{ "option_id": 4, "text": "Energy used", "is_correct": false }
+],
+"answer": "Position changes"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "Measure work consider?",
+"options": [
+{ "option_id": 1, "text": "Force and displacement", "is_correct": true },
+{ "option_id": 2, "text": "Force only", "is_correct": false },
+{ "option_id": 3, "text": "Displacement only", "is_correct": false },
+{ "option_id": 4, "text": "Energy", "is_correct": false }
+],
+"answer": "Force and displacement"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "Forms of energy include?",
+"options": [
+{ "option_id": 1, "text": "Mechanical, heat, light, sound, chemical, electrical", "is_correct": true },
+{ "option_id": 2, "text": "Only mechanical", "is_correct": false },
+{ "option_id": 3, "text": "Only heat", "is_correct": false },
+{ "option_id": 4, "text": "Only light", "is_correct": false }
+],
+"answer": "Mechanical, heat, light, sound, chemical, electrical"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "Natural chain transformation.",
+"options": [
+{ "option_id": 1, "text": "Solar evaporation potential kinetic electrical", "is_correct": true },
+{ "option_id": 2, "text": "Chemical to heat only", "is_correct": false },
+{ "option_id": 3, "text": "No chain", "is_correct": false },
+{ "option_id": 4, "text": "Motion only", "is_correct": false }
+],
+"answer": "Solar evaporation potential kinetic electrical"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Save energy why?",
+"options": [
+{ "option_id": 1, "text": "Prevent exhaustion global warming", "is_correct": true },
+{ "option_id": 2, "text": "Use more", "is_correct": false },
+{ "option_id": 3, "text": "No need", "is_correct": false },
+{ "option_id": 4, "text": "Only conventional", "is_correct": false }
+],
+"answer": "Prevent exhaustion global warming"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Green energy?",
+"options": [
+{ "option_id": 1, "text": "No smoke carbon gases", "is_correct": true },
+{ "option_id": 2, "text": "Produces pollution", "is_correct": false },
+{ "option_id": 3, "text": "Fossil fuels", "is_correct": false },
+{ "option_id": 4, "text": "Coal", "is_correct": false }
+],
+"answer": "No smoke carbon gases"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Non-conventional resources?",
+"options": [
+{ "option_id": 1, "text": "Solar wind tidal hydel atomic", "is_correct": true },
+{ "option_id": 2, "text": "Coal petrol", "is_correct": false },
+{ "option_id": 3, "text": "Wood only", "is_correct": false },
+{ "option_id": 4, "text": "Diesel", "is_correct": false }
+],
+"answer": "Solar wind tidal hydel atomic"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Pulley lift load 2m vs 4m?",
+"options": [
+{ "option_id": 1, "text": "4m more work", "is_correct": true },
+{ "option_id": 2, "text": "2m more", "is_correct": false },
+{ "option_id": 3, "text": "Same", "is_correct": false },
+{ "option_id": 4, "text": "No work", "is_correct": false }
+],
+"answer": "4m more work"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "Define work.",
+"answer": "When an object is displaced by applying a force on it, work is said to be done."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "When more work same displacement.",
+"answer": "When more force applied."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "Same force more work.",
+"answer": "For more displacement."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "Box pulling experiment conclusion.",
+"answer": "Loaded box more work, longer distance more work."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "Wall push work?",
+"answer": "No displacement, no work."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Define energy.",
+"answer": "The capacity to do work is called energy."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Mechanical energy types.",
+"answer": "Potential energy and kinetic energy."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "Potential energy obtained due to.",
+"answer": "Specific state or position of object."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "Kinetic energy from.",
+"answer": "Motion."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "Ball collision energy.",
+"answer": "Second ball kinetic energy sets first in motion."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Rubber band stretched.",
+"answer": "Potential energy."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "Catapult release transformation.",
+"answer": "Potential to kinetic."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "Heat energy source.",
+"answer": "Sun, burning fuel."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Unit of work and energy.",
+"answer": "Joule."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "Light energy in plants.",
+"answer": "Makes food, transforms to food energy."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Sound energy work done.",
+"answer": "Cracks glass, controls toys."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Chemical energy wood.",
+"answer": "Burns to heat light sound."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Battery chemical action.",
+"answer": "Produces electrical energy."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "Transformation chain water cycle.",
+"answer": "Solar heat evaporates water, potential in dam, kinetic falling, electrical turbine."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Electricity oven transforms to.",
+"answer": "Heat energy."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "Most important energy source.",
+"answer": "Sun."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Conventional resources.",
+"answer": "Coal, fossil fuels, wood."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Non-conventional renewable.",
+"answer": "Inexhaustible, continuous."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Solar devices.",
+"answer": "Solar cooker heat, solar cell electrical."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "Windmill uses.",
+"answer": "Electricity generation, draw water."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Tidal energy mechanism.",
+"answer": "Wall narrow creek, tides rotate turbine."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Hydel power how.",
+"answer": "Water dam height tunnel turbine."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Koyna project.",
+"answer": "Hydroelectric."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "Oceanic waves.",
+"answer": "Water up down electricity."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "Atomic energy fission.",
+"answer": "Heat from uranium thorium atoms."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Energy saving ways.",
+"answer": "Put off lamps, use sunlight."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Green energy definition.",
+"answer": "No smoke carbon dioxide monoxide."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "Bucket well work components.",
+"answer": "Force, displacement water."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Ball roof transformation.",
+"answer": "Potential to kinetic."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Fireworks transformation.",
+"answer": "Chemical to light."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Solar cells lamps.",
+"answer": "Electrical energy sun."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Labourer pans work.",
+"answer": "Equal work."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "Object work capacity.",
+"answer": "Energy."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Displacement definition.",
+"answer": "Object changes position."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Work measurement.",
+"answer": "Force and displacement."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Various energy forms.",
+"answer": "Mechanical heat light sound chemical electrical."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "Save energy necessity.",
+"answer": "Avoid calamity global warming."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Non-conventional examples.",
+"answer": "Solar wind tidal hydel oceanic atomic."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Sun energy forms devices.",
+"answer": "Heat light chemical."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Maximize non-conventional why.",
+"answer": "Conventional exhaust danger."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Odd one diesel wind.",
+"answer": "Diesel non-renewable."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "Odd one book table.",
+"answer": "Book no work no displacement."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Odd one sunlight petrol.",
+"answer": "Petrol conventional."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Odd one fan vacant room.",
+"answer": "Wastes energy."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Puzzle potential kinetic.",
+"answer": "Potential kinetic."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Why hungry after exercise.",
+"answer": "Body uses energy."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Body energy from.",
+"answer": "Food."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Tired why.",
+"answer": "Energy depleted."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Toy car boy push.",
+"answer": "Boy energy to work."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Pulley 1m vs 4m load.",
+"answer": "4m more work."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Marbles striker energy.",
+"answer": "Kinetic."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Spring toy wound.",
+"answer": "Potential energy."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Water height wheel.",
+"answer": "Potential to kinetic."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Earth heat sun.",
+"answer": "Maintains temperature."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Sunlight heat.",
+"answer": "Contains heat energy."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Grapes sour to sweet.",
+"answer": "Chemical change."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "TV picture energy.",
+"answer": "Electrical to light."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Music system electricity.",
+"answer": "To sound."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Plant food energy stored.",
+"answer": "Chemical."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Cooking gas energy.",
+"answer": "Chemical."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Electricity bill consumption.",
+"answer": "Note monthly amounts."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Energy universe.",
+"answer": "In every substance living non-living."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Bow stretched.",
+"answer": "Potential energy."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Rolling object.",
+"answer": "Kinetic energy."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Food.",
+"answer": "Chemical energy."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Uranium.",
+"answer": "Atomic energy."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Run ground friends.",
+"answer": "Different capacity energy."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Energy home school save.",
+"answer": "Put practice measures."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Energy saving devices.",
+"answer": "Market available."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Why non-conventional maximise.",
+"answer": "Population increase usage exhaust conventional."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Wood replenish.",
+"answer": "Not easily."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "Solar plant.",
+"answer": "Many solar cells large electricity."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Solar water heater.",
+"answer": "Heat energy."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Solar drier.",
+"answer": "Heat dry grain."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Hydroelectric dams.",
+"answer": "Other smaller plants."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Electricity shortage atomic.",
+"answer": "Eases crisis."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Global warming calamity.",
+"answer": "From not saving energy."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Energy not visible why.",
+"answer": "Present but not visible."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Appliance energy supplied.",
+"answer": "Electrical form."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "Reservoir water potential.",
+"answer": "Height."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Turbine kinetic transfer.",
+"answer": "From falling water."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Clouds rain potential.",
+"answer": "Stored in reservoirs."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Water vapour clouds.",
+"answer": "From evaporation heat sun."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Diwali fireworks.",
+"answer": "Atom chemical to light."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Road metal two pans 200m.",
+"answer": "Equal work."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Running car work.",
+"answer": "Displacement force."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Hauling log.",
+"answer": "Work done."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "School bag pick.",
+"answer": "Work."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "AC winter waste.",
+"answer": "Energy waste."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Light going out.",
+"answer": "Saving."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Transformation occurs when.",
+"answer": "Work done."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Houses electricity uses.",
+"answer": "Light kinetic sound heat."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "Indirectly utilizing.",
+"answer": "Solar energy."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Energy resources classification.",
+"answer": "Conventional non-renewable, non-conventional renewable."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Increasing population danger.",
+"answer": "Exhaust coal petrol diesel natural gas."
+}
+]
+}

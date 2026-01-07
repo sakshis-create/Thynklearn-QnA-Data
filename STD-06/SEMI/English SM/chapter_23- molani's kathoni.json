@@ -1,0 +1,491 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.23",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Molai's Kathoni"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In which year did the life of Jadav Payeng change?",
+      "options": [
+        { "option_id": 1, "text": "1969", "is_correct": false },
+        { "option_id": 2, "text": "1979", "is_correct": true },
+        { "option_id": 3, "text": "1989", "is_correct": false },
+        { "option_id": 4, "text": "1999", "is_correct": false }
+      ],
+      "answer": "1979"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "On the banks of which river did Jadav live?",
+      "options": [
+        { "option_id": 1, "text": "Ganga", "is_correct": false },
+        { "option_id": 2, "text": "Yamuna", "is_correct": false },
+        { "option_id": 3, "text": "Brahmaputra", "is_correct": true },
+        { "option_id": 4, "text": "Indus", "is_correct": false }
+      ],
+      "answer": "Brahmaputra"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How wide is the Brahmaputra river in some places?",
+      "options": [
+        { "option_id": 1, "text": "1-2 kilometres", "is_correct": false },
+        { "option_id": 2, "text": "7-8 kilometres", "is_correct": true },
+        { "option_id": 3, "text": "15 kilometres", "is_correct": false },
+        { "option_id": 4, "text": "500 metres", "is_correct": false }
+      ],
+      "answer": "7-8 kilometres"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the name of the famous island in the Brahmaputra mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Barren Island", "is_correct": false },
+        { "option_id": 2, "text": "Majuli Island", "is_correct": true },
+        { "option_id": 3, "text": "Havelock Island", "is_correct": false },
+        { "option_id": 4, "text": "Elephanta Island", "is_correct": false }
+      ],
+      "answer": "Majuli island"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What terrible sight did Jadav see when he was 15 years old?",
+      "options": [
+        { "option_id": 1, "text": "A forest fire", "is_correct": false },
+        { "option_id": 2, "text": "Thousands of dead snakes", "is_correct": true },
+        { "option_id": 3, "text": "A dried-up river", "is_correct": false },
+        { "option_id": 4, "text": "Poachers hunting tigers", "is_correct": false }
+      ],
+      "answer": "Thousands of dead snakes"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why did the snakes die on the sandbar?",
+      "options": [
+        { "option_id": 1, "text": "They were hunted by birds", "is_correct": false },
+        { "option_id": 2, "text": "They had no food", "is_correct": false },
+        { "option_id": 3, "text": "They had no trees to protect them from the sun", "is_correct": true },
+        { "option_id": 4, "text": "The water was poisonous", "is_correct": false }
+      ],
+      "answer": "With no trees to protect them, they had all died in the scalding sun"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How many years did Jadav toil to transform the barren land into a forest?",
+      "options": [
+        { "option_id": 1, "text": "10 years", "is_correct": false },
+        { "option_id": 2, "text": "20 years", "is_correct": false },
+        { "option_id": 3, "text": "More than 30 years", "is_correct": true },
+        { "option_id": 4, "text": "5 years", "is_correct": false }
+      ],
+      "answer": "For more than 30 long years"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What was Jadav Payeng's nickname used by his family?",
+      "options": [
+        { "option_id": 1, "text": "Jadu", "is_correct": false },
+        { "option_id": 2, "text": "Molai", "is_correct": true },
+        { "option_id": 3, "text": "Kathoni", "is_correct": false },
+        { "option_id": 4, "text": "Payeng", "is_correct": false }
+      ],
+      "answer": "Molai"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did village elders advise Molai regarding the sandbars?",
+      "options": [
+        { "option_id": 1, "text": "To build a house there", "is_correct": false },
+        { "option_id": 2, "text": "To start fishing", "is_correct": false },
+        { "option_id": 3, "text": "That nothing grows there and not to waste time", "is_correct": true },
+        { "option_id": 4, "text": "To plant rice", "is_correct": false }
+      ],
+      "answer": "Molai, nothing grows on the sandbars. Don't waste your time"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which plant was Molai first advised to try growing?",
+      "options": [
+        { "option_id": 1, "text": "Mango", "is_correct": false },
+        { "option_id": 2, "text": "Bamboo", "is_correct": true },
+        { "option_id": 3, "text": "Banyan", "is_correct": false },
+        { "option_id": 4, "text": "Silk Cotton", "is_correct": false }
+      ],
+      "answer": "But someone told him to try growing bamboo"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What did Molai carry to the island to help the plants grow?",
+      "options": [
+        { "option_id": 1, "text": "Chemical fertilizers", "is_correct": false },
+        { "option_id": 2, "text": "Good soil in his boat", "is_correct": true },
+        { "option_id": 3, "text": "Pesticides", "is_correct": false },
+        { "option_id": 4, "text": "Machines", "is_correct": false }
+      ],
+      "answer": "He even carried good soil in his little boat and spread it near the plants"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why did Molai carry red ants to the island?",
+      "options": [
+        { "option_id": 1, "text": "To protect himself", "is_correct": false },
+        { "option_id": 2, "text": "To make the sandy soil fertile", "is_correct": true },
+        { "option_id": 3, "text": "To feed the birds", "is_correct": false },
+        { "option_id": 4, "text": "By mistake", "is_correct": false }
+      ],
+      "answer": "They would make the sandy soil fertile"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'Molai's Kathoni'?",
+      "options": [
+        { "option_id": 1, "text": "Molai's Home", "is_correct": false },
+        { "option_id": 2, "text": "Molai's Forest", "is_correct": true },
+        { "option_id": 3, "text": "Molai's Boat", "is_correct": false },
+        { "option_id": 4, "text": "Molai's Dream", "is_correct": false }
+      ],
+      "answer": "People in that area named it Molai’s Kathoni - Molai’s forest"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How much area does Molai's Kathoni cover today?",
+      "options": [
+        { "option_id": 1, "text": "100 acres", "is_correct": false },
+        { "option_id": 2, "text": "1500 acres", "is_correct": true },
+        { "option_id": 3, "text": "5000 acres", "is_correct": false },
+        { "option_id": 4, "text": "10 acres", "is_correct": false }
+      ],
+      "answer": "Today, Molai’s Kathoni covers an area of nearly 1500 acres"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which animals visiting the forest indicate it is in very good health?",
+      "options": [
+        { "option_id": 1, "text": "Deer", "is_correct": false },
+        { "option_id": 2, "text": "Rhinos", "is_correct": false },
+        { "option_id": 3, "text": "Elephants", "is_correct": true },
+        { "option_id": 4, "text": "Apes", "is_correct": false }
+      ],
+      "answer": "The elephant visits show that the whole forest is in very good health"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What did Molai do when people wanted to cut down the trees?",
+      "options": [
+        { "option_id": 1, "text": "He ran away", "is_correct": false },
+        { "option_id": 2, "text": "He stood up in their defence like a rock", "is_correct": true },
+        { "option_id": 3, "text": "He asked for money", "is_correct": false },
+        { "option_id": 4, "text": "He called the police", "is_correct": false }
+      ],
+      "answer": "When people wanted to cut down the trees, he stood up in their defence like a rock"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What did the elephants destroy when they came to the area?",
+      "options": [
+        { "option_id": 1, "text": "Only the forest", "is_correct": false },
+        { "option_id": 2, "text": "Rice fields and huts", "is_correct": true },
+        { "option_id": 3, "text": "The river bank", "is_correct": false },
+        { "option_id": 4, "text": "The market", "is_correct": false }
+      ],
+      "answer": "They destroyed the rice fields and huts"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "How does Molai earn his living?",
+      "options": [
+        { "option_id": 1, "text": "By selling wood", "is_correct": false },
+        { "option_id": 2, "text": "By keeping cattle", "is_correct": true },
+        { "option_id": 3, "text": "By being a photographer", "is_correct": false },
+        { "option_id": 4, "text": "By working for the media", "is_correct": false }
+      ],
+      "answer": "Molai keeps cattle for his own living"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who discovered Molai's work and told the media?",
+      "options": [
+        { "option_id": 1, "text": "A village elder", "is_correct": false },
+        { "option_id": 2, "text": "A forest officer", "is_correct": false },
+        { "option_id": 3, "text": "A photographer", "is_correct": true },
+        { "option_id": 4, "text": "His children", "is_correct": false }
+      ],
+      "answer": "One day, a photographer roaming in that area found Molai working in his forest"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which award did the Government honour Molai with?",
+      "options": [
+        { "option_id": 1, "text": "Padma Bhushan", "is_correct": false },
+        { "option_id": 2, "text": "Bharat Ratna", "is_correct": false },
+        { "option_id": 3, "text": "Padma Shri", "is_correct": true },
+        { "option_id": 4, "text": "Arjuna Award", "is_correct": false }
+      ],
+      "answer": "The Government honoured him with the Padma Shri award"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is Molai's message to every person in the country?",
+      "options": [
+        { "option_id": 1, "text": "To live in a forest", "is_correct": false },
+        { "option_id": 2, "text": "To plant and grow at least two trees", "is_correct": true },
+        { "option_id": 3, "text": "To keep cattle", "is_correct": false },
+        { "option_id": 4, "text": "To become a photographer", "is_correct": false }
+      ],
+      "answer": "Each one of us should plant and grow at least two trees"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "According to the text, what do trees take care of for us?",
+      "options": [
+        { "option_id": 1, "text": "Water levels", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Soil erosion only", "is_correct": false },
+        { "option_id": 4, "text": "Wild animals", "is_correct": false }
+      ],
+      "answer": "The trees will take care of the carbon dioxide we produce"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Approximately how many square metres is one acre?",
+      "options": [
+        { "option_id": 1, "text": "1,000", "is_correct": false },
+        { "option_id": 2, "text": "4,047", "is_correct": true },
+        { "option_id": 3, "text": "10,000", "is_correct": false },
+        { "option_id": 4, "text": "2,500", "is_correct": false }
+      ],
+      "answer": "The acre is a unit of land area, which is approximately 4,047 square metres"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What did Molai say to the trees?",
+      "options": [
+        { "option_id": 1, "text": "He complained to them", "is_correct": false },
+        { "option_id": 2, "text": "He spoke words of affection", "is_correct": true },
+        { "option_id": 3, "text": "He ignored them", "is_correct": false },
+        { "option_id": 4, "text": "He sang songs to them", "is_correct": false }
+      ],
+      "answer": "He spoke to them... words of affection"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Molai says he will go on planting trees until ________.",
+      "options": [
+        { "option_id": 1, "text": "He is tired", "is_correct": false },
+        { "option_id": 2, "text": "There is life in his body", "is_correct": true },
+        { "option_id": 3, "text": "The island is full", "is_correct": false },
+        { "option_id": 4, "text": "The government stops him", "is_correct": false }
+      ],
+      "answer": "I will go on planting trees till there is life in my body"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Where did Jadav Payeng live?",
+      "answer": "He lived in a small village on the banks of the Brahmaputra."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What happens to the sandbars during floods?",
+      "answer": "Waters of the Brahmaputra often flood the sandbars, and at times, the river even sweeps some of them away."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What made Jadav weep when he was 15?",
+      "answer": "He saw thousands of dead snakes on a sandbar that had died in the scalding sun because there were no trees to protect them."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What was the mission Jadav found after seeing the dead snakes?",
+      "answer": "His mission was to turn the sandy barren land green with trees."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What did Molai do when the Forest Department scheme work stopped?",
+      "answer": "While all the other labourers left, Molai decided to carry on the work all by himself."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What saplings did the forest department first give Molai?",
+      "answer": "They gave him some bamboo saplings."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What was the second type of sapling Molai brought to the island?",
+      "answer": "He brought silk cotton saplings next."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "How did Molai tend to the plants every day?",
+      "answer": "He watered the plants, made fences around them, and gave support to the saplings."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Why did Molai carry red ants to the island despite the bites?",
+      "answer": "He believed they would make the sandy soil fertile."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "How did the trees respond to Molai's affection?",
+      "answer": "They responded by growing vigorously."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "How did more seeds reach the forest without Molai planting them?",
+      "answer": "Birds, insects, and animals that liked the place unknowingly brought many more seeds."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Which large animals now live in Molai's Kathoni?",
+      "answer": "The forest houses deer, apes, rhinos, tigers, and a herd of elephants."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "How long does the elephant herd stay in the forest each year?",
+      "answer": "They stay there for about three months."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What hardships did Molai face while working on the island?",
+      "answer": "He had to work in heavy rains and scorching heat."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Who were the human threats to the forest?",
+      "answer": "The forest was threatened by poachers and people who wanted to cut down the trees."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What did Molai tell those who wanted to cut the trees?",
+      "answer": "He warned them, 'You will have to cut me before you cut the trees!'"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Why did the villagers want to beat up Molai?",
+      "answer": "They were angry because his forest invited elephants that destroyed their rice fields and huts."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "How did the villagers eventually solve the elephant problem?",
+      "answer": "Most people left the area and shifted the village to make way for the elephants."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Who supports Molai in his work today?",
+      "answer": "He has full support from his family, including his children who will carry on his work."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What was the reaction of the Forest Department after Molai's work became famous?",
+      "answer": "The Forest Department was impressed and decided to help Molai in his work."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the benefit of trees according to Molai's message?",
+      "answer": "Trees take care of carbon dioxide and give us enough oxygen to breathe."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "How does Molai describe the size of his 'house'?",
+      "answer": "He says his house is very big - hundreds of acres (referring to the forest)."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is Molai's view on animals?",
+      "answer": "He asks why he should be afraid of them, as they are part of nature."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What did Molai do to improve the soil on the island besides adding ants?",
+      "answer": "He carried good soil in his little boat and spread it near the plants."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "In what season did the dead snakes incident occur?",
+      "answer": "It happened in the terrible summer season of 1979."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does Molai say about man's knowledge of trees?",
+      "answer": "He says man knows how to cut a tree, but not how to plant it or grow it."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What did Molai use to make the green patches thicker?",
+      "answer": "He took different types of grasses to the island."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How did the media learn about Molai?",
+      "answer": "A photographer who found Molai told newspapers and TV channels about his achievement."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Did Molai's family ask for anything in return for their support?",
+      "answer": "No, Molai says they supported him and did not ask for anything in return."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the primary mission of Jadav Payeng?",
+      "answer": "To create and protect a 'green cover' for the land."
+    }
+  ]
+}
