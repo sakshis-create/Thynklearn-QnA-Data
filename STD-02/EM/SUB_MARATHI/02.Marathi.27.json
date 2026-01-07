@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.27",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "माझे शब्दभांडार"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'ससा' या शब्दाची सुरुवात कोणत्या अक्षराने होते?",
+      "options": [
+        { "option_id": 1, "text": "क", "is_correct": false },
+        { "option_id": 2, "text": "स", "is_correct": true },
+        { "option_id": 3, "text": "म", "is_correct": false },
+        { "option_id": 4, "text": "प", "is_correct": false }
+      ],
+      "answer": "स"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "'कावळा' आणि 'कासव' या शब्दांत कोणते अक्षर समान आहे?",
+      "options": [
+        { "option_id": 1, "text": "का", "is_correct": true },
+        { "option_id": 2, "text": "व", "is_correct": false },
+        { "option_id": 3, "text": "ळा", "is_correct": false },
+        { "option_id": 4, "text": "स", "is_correct": false }
+      ],
+      "answer": "का"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "'कार' आणि 'कान' या शब्दांचे पहिले अक्षर कोणते?",
+      "options": [
+        { "option_id": 1, "text": "पा", "is_correct": false },
+        { "option_id": 2, "text": "का", "is_correct": true },
+        { "option_id": 3, "text": "सा", "is_correct": false },
+        { "option_id": 4, "text": "डा", "is_correct": false }
+      ],
+      "answer": "का"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणत्या शब्दात 'प' हे अक्षर नाही?",
+      "options": [
+        { "option_id": 1, "text": "पाल", "is_correct": false },
+        { "option_id": 2, "text": "पान", "is_correct": false },
+        { "option_id": 3, "text": "साप", "is_correct": false },
+        { "option_id": 4, "text": "ससा", "is_correct": true }
+      ],
+      "answer": "ससा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'डास' या शब्दातील पहिले अक्षर ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "स", "is_correct": false },
+        { "option_id": 2, "text": "डा", "is_correct": true },
+        { "option_id": 3, "text": "क", "is_correct": false },
+        { "option_id": 4, "text": "प", "is_correct": false }
+      ],
+      "answer": "डा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "'आरसा' या शब्दात किती अक्षरे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "एक", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'पाल' आणि 'पान' या शब्दांत कोणते अक्षर वेगळे आहे?",
+      "options": [
+        { "option_id": 1, "text": "पहिले (पा)", "is_correct": false },
+        { "option_id": 2, "text": "दुसरे (ल/न)", "is_correct": true },
+        { "option_id": 3, "text": "दोन्ही", "is_correct": false },
+        { "option_id": 4, "text": "कोणतेही नाही", "is_correct": false }
+      ],
+      "answer": "दुसरे (ल/न)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'आवळा' या शब्दाची सुरुवात कोणत्या स्वराने होते?",
+      "options": [
+        { "option_id": 1, "text": "अ", "is_correct": false },
+        { "option_id": 2, "text": "आ", "is_correct": true },
+        { "option_id": 3, "text": "इ", "is_correct": false },
+        { "option_id": 4, "text": "उ", "is_correct": false }
+      ],
+      "answer": "आ"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "झाडाला काय असते?",
+      "options": [
+        { "option_id": 1, "text": "कान", "is_correct": false },
+        { "option_id": 2, "text": "पान", "is_correct": true },
+        { "option_id": 3, "text": "कार", "is_correct": false },
+        { "option_id": 4, "text": "आरसा", "is_correct": false }
+      ],
+      "answer": "पान"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'साप' या शब्दाचा शेवट कोणत्या अक्षराने होतो?",
+      "options": [
+        { "option_id": 1, "text": "स", "is_correct": false },
+        { "option_id": 2, "text": "प", "is_correct": true },
+        { "option_id": 3, "text": "सा", "is_correct": false },
+        { "option_id": 4, "text": "क", "is_correct": false }
+      ],
+      "answer": "प"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "स्वतःला पाहण्यासाठी आपण कशाचा वापर करतो?",
+      "options": [
+        { "option_id": 1, "text": "आरसा", "is_correct": true },
+        { "option_id": 2, "text": "ससा", "is_correct": false },
+        { "option_id": 3, "text": "कासव", "is_correct": false },
+        { "option_id": 4, "text": "पान", "is_correct": false }
+      ],
+      "answer": "आरसा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाठातील कोणत्या शब्दाचा रंग काळा असतो?",
+      "options": [
+        { "option_id": 1, "text": "ससा", "is_correct": false },
+        { "option_id": 2, "text": "कावळा", "is_correct": true },
+        { "option_id": 3, "text": "पान", "is_correct": false },
+        { "option_id": 4, "text": "आरसा", "is_correct": false }
+      ],
+      "answer": "कावळा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'कासव' कसे चालते?",
+      "options": [
+        { "option_id": 1, "text": "भरभर", "is_correct": false },
+        { "option_id": 2, "text": "हळूहळू", "is_correct": true },
+        { "option_id": 3, "text": "उड्या मारत", "is_correct": false },
+        { "option_id": 4, "text": "वेगाने", "is_correct": false }
+      ],
+      "answer": "हळूहळू"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'कार' हे कशाचे नाव आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्राण्याचे", "is_correct": false },
+        { "option_id": 2, "text": "वाहनाचे", "is_correct": true },
+        { "option_id": 3, "text": "पक्षाचे", "is_correct": false },
+        { "option_id": 4, "text": "फळाचे", "is_correct": false }
+      ],
+      "answer": "वाहनाचे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ऐकण्यासाठी शरीराचा कोणता अवयव वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "नाक", "is_correct": false },
+        { "option_id": 2, "text": "डोळे", "is_correct": false },
+        { "option_id": 3, "text": "कान", "is_correct": true },
+        { "option_id": 4, "text": "हात", "is_correct": false }
+      ],
+      "answer": "कान"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "'स' अक्षरावरून सुरू होणारे दोन शब्द लिहा.",
+      "answer": "ससा, साप."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "'क' अक्षरावरून सुरू होणारे दोन शब्द सांगा.",
+      "answer": "कासव, कान (किंवा कार, कावळा)."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "चित्रात दिसणाऱ्या प्राण्याची नावे लिहा.",
+      "answer": "ससा, साप, कासव."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "'आ' अक्षरावरून येणारे शब्द कोणते?",
+      "answer": "आरसा, आवळा."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "'पान' या शब्दातील शेवटचे अक्षर कोणते?",
+      "answer": "'न'."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "'पाल' कोठे दिसते?",
+      "answer": "'पाल' भिंतीवर दिसते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "'डास' चावल्यावर काय होते?",
+      "answer": "'डास' चावल्यावर आजार होऊ शकतात (उदा. ताप)."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "सशाचा रंग कसा असतो?",
+      "answer": "सशाचा रंग पांढरा असतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "'कार' ला किती चाके असतात?",
+      "answer": "'कार' ला चार चाके असतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "'आवळा' चवीला कसा लागतो?",
+      "answer": "'आवळा' चवीला तुरट-आंबट लागतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "झाडाच्या चित्रात कोणकोणती अक्षरे दिसत आहेत? (कोणतीही दोन)",
+      "answer": "का, सा (किंवा ळा, डा, प, क, इ, र, ब, न, रू, आ)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "'कावळा' कसा ओरडतो?",
+      "answer": "'कावळा' 'काव-काव' ओरडतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "शब्दवाचनाचा सराव कसा करायचा?",
+      "answer": "शब्दांवर बोट फिरवून शब्दवाचनाचा सराव करायचा."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "'शब्दभांडार' म्हणजे काय?",
+      "answer": "'शब्दभांडार' म्हणजे शब्दांचा संग्रह."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या पाठाचे नाव काय आहे?",
+      "answer": "या पाठाचे नाव 'माझे शब्दभांडार' आहे."
+    }
+  ]
+}

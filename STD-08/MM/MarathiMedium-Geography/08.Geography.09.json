@@ -1,0 +1,1238 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Geo.09",
+    "standard": "8",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "नकाशाप्रमाण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाण म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "नकाशावरील अंतर", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीवरील अंतर", "is_correct": false },
+        { "option_id": 3, "text": "नकाशावरील व जमिनीवरील अंतराचे गुणोत्तर", "is_correct": true },
+        { "option_id": 4, "text": "नकाशाचा आकार", "is_correct": false }
+      ],
+      "answer": "नकाशावरील व जमिनीवरील अंतराचे गुणोत्तर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाण का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा सुंदर दिसण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "प्रत्यक्ष अंतर समजण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "नकाशा रंगवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "सीमा दाखवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "प्रत्यक्ष अंतर समजण्यासाठी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाण व्यक्त करण्याचे किती प्रकार आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी शब्दप्रमाण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "1 : 50,000", "is_correct": false },
+        { "option_id": 2, "text": "1 सेमी = 10 किमी", "is_correct": true },
+        { "option_id": 3, "text": "रेषा पट्टी", "is_correct": false },
+        { "option_id": 4, "text": "1/1,00,000", "is_correct": false }
+      ],
+      "answer": "1 सेमी = 10 किमी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अंकप्रमाण कशाच्या स्वरूपात असते?",
+      "options": [
+        { "option_id": 1, "text": "शब्द", "is_correct": false },
+        { "option_id": 2, "text": "गुणोत्तर", "is_correct": true },
+        { "option_id": 3, "text": "चित्र", "is_correct": false },
+        { "option_id": 4, "text": "नकाशा", "is_correct": false }
+      ],
+      "answer": "गुणोत्तर"
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "1 : 60,00,000 हे कोणते प्रमाण आहे?",
+      "options": [
+        { "option_id": 1, "text": "शब्दप्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "अंकप्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "रेषाप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "चित्रप्रमाण", "is_correct": false }
+      ],
+      "answer": "अंकप्रमाण"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रेषाप्रमाणाचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा सजवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "प्रत्यक्ष अंतर मोजण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "नकाशा रंगवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "सीमा दाखवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "प्रत्यक्ष अंतर मोजण्यासाठी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "नकाशा लहान किंवा मोठा केला तरी कोणते प्रमाण अचूक राहते?",
+      "options": [
+        { "option_id": 1, "text": "शब्दप्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "अंकप्रमाण", "is_correct": false },
+        { "option_id": 3, "text": "रेषाप्रमाण", "is_correct": true },
+        { "option_id": 4, "text": "चित्रप्रमाण", "is_correct": false }
+      ],
+      "answer": "रेषाप्रमाण"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "1 : 10,000 हे कोणते प्रमाण आहे?",
+      "options": [
+        { "option_id": 1, "text": "लघुप्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "बृहत्प्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "रेषाप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "शब्दप्रमाण", "is_correct": false }
+      ],
+      "answer": "बृहत्प्रमाण"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "बृहत्प्रमाण नकाशामध्ये काय दिसते?",
+      "options": [
+        { "option_id": 1, "text": "कमी तपशील", "is_correct": false },
+        { "option_id": 2, "text": "अधिक तपशील", "is_correct": true },
+        { "option_id": 3, "text": "फक्त देश", "is_correct": false },
+        { "option_id": 4, "text": "फक्त खंड", "is_correct": false }
+      ],
+      "answer": "अधिक तपशील"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "गावाचा नकाशा कोणत्या प्रमाणात येतो?",
+      "options": [
+        { "option_id": 1, "text": "लघुप्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "बृहत्प्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "अंकप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "रेषाप्रमाण", "is_correct": false }
+      ],
+      "answer": "बृहत्प्रमाण"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "जगाचा नकाशा कोणत्या प्रमाणात असतो?",
+      "options": [
+        { "option_id": 1, "text": "बृहत्प्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "लघुप्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "शब्दप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "रेषाप्रमाण", "is_correct": false }
+      ],
+      "answer": "लघुप्रमाण"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "नकाशावरील डावी बाजू काय दर्शवते?",
+      "options": [
+        { "option_id": 1, "text": "जमिनीवरील अंतर", "is_correct": false },
+        { "option_id": 2, "text": "नकाशावरील अंतर", "is_correct": true },
+        { "option_id": 3, "text": "उंची", "is_correct": false },
+        { "option_id": 4, "text": "दिशा", "is_correct": false }
+      ],
+      "answer": "नकाशावरील अंतर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "अंकप्रमाणाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शब्दप्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "प्रतिनिधिक अपूर्णांक", "is_correct": true },
+        { "option_id": 3, "text": "रेषाप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "चित्रप्रमाण", "is_correct": false }
+      ],
+      "answer": "प्रतिनिधिक अपूर्णांक"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "1 : 50,000 आणि 1 : 5,00,000 यांपैकी कोणते बृहत्प्रमाण आहे?",
+      "options": [
+        { "option_id": 1, "text": "1 : 50,000", "is_correct": true },
+        { "option_id": 2, "text": "1 : 5,00,000", "is_correct": false },
+        { "option_id": 3, "text": "दोन्ही", "is_correct": false },
+        { "option_id": 4, "text": "कोणतेही नाही", "is_correct": false }
+      ],
+      "answer": "1 : 50,000"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "लघुप्रमाण नकाशामध्ये काय वैशिष्ट्य असते?",
+      "options": [
+        { "option_id": 1, "text": "अधिक तपशील", "is_correct": false },
+        { "option_id": 2, "text": "कमी तपशील", "is_correct": true },
+        { "option_id": 3, "text": "फक्त गाव", "is_correct": false },
+        { "option_id": 4, "text": "फक्त रस्ते", "is_correct": false }
+      ],
+      "answer": "कमी तपशील"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "बृहत्प्रमाण नकाशाचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "जगाचा नकाशा", "is_correct": false },
+        { "option_id": 2, "text": "शहर किंवा गावाचा नकाशा", "is_correct": true },
+        { "option_id": 3, "text": "खंडाचा नकाशा", "is_correct": false },
+        { "option_id": 4, "text": "देशाचा नकाशा", "is_correct": false }
+      ],
+      "answer": "शहर किंवा गावाचा नकाशा"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "नकाशा मोठा केला तर कोणते प्रमाण बदलते?",
+      "options": [
+        { "option_id": 1, "text": "रेषाप्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "अंकप्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "प्रत्यक्ष अंतर", "is_correct": false },
+        { "option_id": 4, "text": "दिशा", "is_correct": false }
+      ],
+      "answer": "अंकप्रमाण"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "रेषाप्रमाणाचे मुख्य फायदे कोणते?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा सुंदर दिसतो", "is_correct": false },
+        { "option_id": 2, "text": "नकाशा लहान-मोठा केला तरी अचूक अंतर मिळते", "is_correct": true },
+        { "option_id": 3, "text": "रंग बदलता येतात", "is_correct": false },
+        { "option_id": 4, "text": "नकाशा सजवता येतो", "is_correct": false }
+      ],
+      "answer": "नकाशा लहान-मोठा केला तरी अचूक अंतर मिळते"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "नकाशावरील 1 सेमी = 5 किमी हे कोणते प्रमाण आहे?",
+      "options": [
+        { "option_id": 1, "text": "अंकप्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "शब्दप्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "रेषाप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "चित्रप्रमाण", "is_correct": false }
+      ],
+      "answer": "शब्दप्रमाण"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "प्रतिनिधिक अपूर्णांक कोणत्या प्रकारात मोडतो?",
+      "options": [
+        { "option_id": 1, "text": "रेषाप्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "अंकप्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "शब्दप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "चित्रप्रमाण", "is_correct": false }
+      ],
+      "answer": "अंकप्रमाण"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "1 : 1,000,000 हे कोणते प्रमाण आहे?",
+      "options": [
+        { "option_id": 1, "text": "बृहत्प्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "लघुप्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "रेषाप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "शब्दप्रमाण", "is_correct": false }
+      ],
+      "answer": "लघुप्रमाण"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाणाशिवाय नकाशा अपूर्ण का ठरतो?",
+      "options": [
+        { "option_id": 1, "text": "दिशा समजत नाही", "is_correct": false },
+        { "option_id": 2, "text": "प्रत्यक्ष अंतर समजत नाही", "is_correct": true },
+        { "option_id": 3, "text": "रंग दिसत नाहीत", "is_correct": false },
+        { "option_id": 4, "text": "सीमा कळत नाही", "is_correct": false }
+      ],
+      "answer": "प्रत्यक्ष अंतर समजत नाही"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "जिल्ह्याचा नकाशा कोणत्या प्रमाणात तयार केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "लघुप्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "बृहत्प्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "शब्दप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "रेषाप्रमाण", "is_correct": false }
+      ],
+      "answer": "बृहत्प्रमाण"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "खंडाचा नकाशा कोणत्या प्रमाणात असतो?",
+      "options": [
+        { "option_id": 1, "text": "बृहत्प्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "लघुप्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "रेषाप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "शब्दप्रमाण", "is_correct": false }
+      ],
+      "answer": "लघुप्रमाण"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "नकाशावरील अंतर मोजण्यासाठी काय वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "कंपास", "is_correct": false },
+        { "option_id": 2, "text": "रेषाप्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "दिशादर्शक", "is_correct": false },
+        { "option_id": 4, "text": "प्रतीकचिन्हे", "is_correct": false }
+      ],
+      "answer": "रेषाप्रमाण"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "बृहत्प्रमाण नकाशाचा एक तोटा कोणता?",
+      "options": [
+        { "option_id": 1, "text": "कमी तपशील", "is_correct": false },
+        { "option_id": 2, "text": "मोठा क्षेत्रभाग दाखवता येत नाही", "is_correct": true },
+        { "option_id": 3, "text": "अचूक नसतो", "is_correct": false },
+        { "option_id": 4, "text": "दिशा कळत नाही", "is_correct": false }
+      ],
+      "answer": "मोठा क्षेत्रभाग दाखवता येत नाही"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "लघुप्रमाण नकाशाचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "घराचा नकाशा", "is_correct": false },
+        { "option_id": 2, "text": "जग किंवा खंडाचा नकाशा", "is_correct": true },
+        { "option_id": 3, "text": "शहराचा नकाशा", "is_correct": false },
+        { "option_id": 4, "text": "गावाचा नकाशा", "is_correct": false }
+      ],
+      "answer": "जग किंवा खंडाचा नकाशा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाणामुळे नकाशा कसा बनतो?",
+      "options": [
+        { "option_id": 1, "text": "अचूक व समजण्यास सोपा", "is_correct": true },
+        { "option_id": 2, "text": "फक्त रंगीत", "is_correct": false },
+        { "option_id": 3, "text": "अपूर्ण", "is_correct": false },
+        { "option_id": 4, "text": "गोंधळात टाकणारा", "is_correct": false }
+      ],
+      "answer": "अचूक व समजण्यास सोपा"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "नकाशा तयार करताना प्रमाण का निवडले जाते?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा मोठा दिसावा म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "क्षेत्रफळ योग्य दाखवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "रंग ठरवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "नाव लिहिण्यासाठी", "is_correct": false }
+      ],
+      "answer": "क्षेत्रफळ योग्य दाखवण्यासाठी"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाण बदलल्यास काय बदलते?",
+      "options": [
+        { "option_id": 1, "text": "दिशा", "is_correct": false },
+        { "option_id": 2, "text": "तपशीलाचे प्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "प्रदेशाचे नाव", "is_correct": false },
+        { "option_id": 4, "text": "हवामान", "is_correct": false }
+      ],
+      "answer": "तपशीलाचे प्रमाण"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "शहरातील रस्त्यांचा नकाशा कोणत्या प्रमाणात असतो?",
+      "options": [
+        { "option_id": 1, "text": "लघुप्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "बृहत्प्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "अंकप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "शब्दप्रमाण", "is_correct": false }
+      ],
+      "answer": "बृहत्प्रमाण"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "नकाशावरील प्रमाण नसेल तर काय अडचण येते?",
+      "options": [
+        { "option_id": 1, "text": "दिशा समजत नाही", "is_correct": false },
+        { "option_id": 2, "text": "प्रत्यक्ष अंतर काढता येत नाही", "is_correct": true },
+        { "option_id": 3, "text": "नाव वाचता येत नाही", "is_correct": false },
+        { "option_id": 4, "text": "प्रतीक समजत नाही", "is_correct": false }
+      ],
+      "answer": "प्रत्यक्ष अंतर काढता येत नाही"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाणामुळे नकाशाचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "भूगोल अभ्यासासाठी", "is_correct": true },
+        { "option_id": 2, "text": "फक्त चित्र पाहण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "सजावटीसाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळासाठी", "is_correct": false }
+      ],
+      "answer": "भूगोल अभ्यासासाठी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "नकाशावरील अंतर प्रत्यक्षात जास्त असेल तर कोणते प्रमाण वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "बृहत्प्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "लघुप्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "रेषाप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "शब्दप्रमाण", "is_correct": false }
+      ],
+      "answer": "लघुप्रमाण"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "नकाशावरील 1 सेमी = 1 किमी हे कोणत्या प्रकारचे प्रमाण आहे?",
+      "options": [
+        { "option_id": 1, "text": "अंकप्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "शब्दप्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "रेषाप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "लघुप्रमाण", "is_correct": false }
+      ],
+      "answer": "शब्दप्रमाण"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "नकाशावर सर्वाधिक अचूक अंतर कोणत्या प्रमाणाने मिळते?",
+      "options": [
+        { "option_id": 1, "text": "शब्दप्रमाण", "is_correct": false },
+        { "option_id": 2, "text": "अंकप्रमाण", "is_correct": false },
+        { "option_id": 3, "text": "रेषाप्रमाण", "is_correct": true },
+        { "option_id": 4, "text": "चित्रप्रमाण", "is_correct": false }
+      ],
+      "answer": "रेषाप्रमाण"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाणाचा उपयोग कोणत्या क्षेत्रात होतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त भूगोल", "is_correct": false },
+        { "option_id": 2, "text": "नियोजन व बांधकाम", "is_correct": true },
+        { "option_id": 3, "text": "संगीत", "is_correct": false },
+        { "option_id": 4, "text": "कला", "is_correct": false }
+      ],
+      "answer": "नियोजन व बांधकाम"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाणामुळे नकाशा कसा उपयोगी ठरतो?",
+      "options": [
+        { "option_id": 1, "text": "अंदाजे माहिती देतो", "is_correct": false },
+        { "option_id": 2, "text": "अचूक अंतर व तपशील देतो", "is_correct": true },
+        { "option_id": 3, "text": "फक्त चित्र दाखवतो", "is_correct": false },
+        { "option_id": 4, "text": "मनोरंजन करतो", "is_correct": false }
+      ],
+      "answer": "अचूक अंतर व तपशील देतो"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "नकाशा अभ्यासात प्रमाणाचे स्थान कोणते?",
+      "options": [
+        { "option_id": 1, "text": "अत्यावश्यक", "is_correct": true },
+        { "option_id": 2, "text": "ऐच्छिक", "is_correct": false },
+        { "option_id": 3, "text": "अनावश्यक", "is_correct": false },
+        { "option_id": 4, "text": "फक्त सजावटीसाठी", "is_correct": false }
+      ],
+      "answer": "अत्यावश्यक"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "नकाशावरील प्रमाण योग्य असल्यास काय शक्य होते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त दिशा कळते", "is_correct": false },
+        { "option_id": 2, "text": "अचूक अंतर मोजता येते", "is_correct": true },
+        { "option_id": 3, "text": "फक्त रंग दिसतात", "is_correct": false },
+        { "option_id": 4, "text": "फक्त नावे वाचता येतात", "is_correct": false }
+      ],
+      "answer": "अचूक अंतर मोजता येते"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाण कोणत्या घटकाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "वेळ", "is_correct": false },
+        { "option_id": 2, "text": "अंतर", "is_correct": true },
+        { "option_id": 3, "text": "हवामान", "is_correct": false },
+        { "option_id": 4, "text": "लोकसंख्या", "is_correct": false }
+      ],
+      "answer": "अंतर"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "नकाशावरील प्रमाण चुकीचे असल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा सुंदर दिसतो", "is_correct": false },
+        { "option_id": 2, "text": "अंतर मोजण्यात चूक होते", "is_correct": true },
+        { "option_id": 3, "text": "दिशा बदलते", "is_correct": false },
+        { "option_id": 4, "text": "रंग बदलतात", "is_correct": false }
+      ],
+      "answer": "अंतर मोजण्यात चूक होते"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाणामुळे भूगोल अभ्यास कसा सुलभ होतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त चित्र दिसते", "is_correct": false },
+        { "option_id": 2, "text": "अचूक माहिती मिळते", "is_correct": true },
+        { "option_id": 3, "text": "फक्त नावे दिसतात", "is_correct": false },
+        { "option_id": 4, "text": "मनोरंजन होते", "is_correct": false }
+      ],
+      "answer": "अचूक माहिती मिळते"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "नकाशा अभ्यास करताना सर्वप्रथम काय पाहावे?",
+      "options": [
+        { "option_id": 1, "text": "रंग", "is_correct": false },
+        { "option_id": 2, "text": "प्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "नावे", "is_correct": false },
+        { "option_id": 4, "text": "चित्रे", "is_correct": false }
+      ],
+      "answer": "प्रमाण"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाणामुळे कोणती गणिती क्रिया करावी लागते?",
+      "options": [
+        { "option_id": 1, "text": "बेरीज", "is_correct": false },
+        { "option_id": 2, "text": "गुणोत्तर", "is_correct": true },
+        { "option_id": 3, "text": "वजाबाकी", "is_correct": false },
+        { "option_id": 4, "text": "टक्केवारी", "is_correct": false }
+      ],
+      "answer": "गुणोत्तर"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "नकाशावरील प्रमाणामुळे कोणते कौशल्य विकसित होते?",
+      "options": [
+        { "option_id": 1, "text": "निरीक्षण कौशल्य", "is_correct": true },
+        { "option_id": 2, "text": "गायन कौशल्य", "is_correct": false },
+        { "option_id": 3, "text": "नृत्य कौशल्य", "is_correct": false },
+        { "option_id": 4, "text": "लेखन कौशल्य", "is_correct": false }
+      ],
+      "answer": "निरीक्षण कौशल्य"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाणाचा प्रत्यक्ष जीवनात कुठे उपयोग होतो?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा वाचनात", "is_correct": true },
+        { "option_id": 2, "text": "खेळात", "is_correct": false },
+        { "option_id": 3, "text": "संगीतात", "is_correct": false },
+        { "option_id": 4, "text": "चित्रकलेत", "is_correct": false }
+      ],
+      "answer": "नकाशा वाचनात"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "नकाशाप्रमाणामुळे भूगोल विषय कसा बनतो?",
+      "options": [
+        { "option_id": 1, "text": "कठीण", "is_correct": false },
+        { "option_id": 2, "text": "सोपा व अचूक", "is_correct": true },
+        { "option_id": 3, "text": "गोंधळात टाकणारा", "is_correct": false },
+        { "option_id": 4, "text": "अपूर्ण", "is_correct": false }
+      ],
+      "answer": "सोपा व अचूक"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "‘नकाशाप्रमाण’ या धड्याचा मुख्य उद्देश काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "नकाशावरील अंतर समजावणे", "is_correct": true },
+        { "option_id": 2, "text": "फक्त नकाशे काढणे", "is_correct": false },
+        { "option_id": 3, "text": "रंग शिकवणे", "is_correct": false },
+        { "option_id": 4, "text": "चित्रकला शिकवणे", "is_correct": false }
+      ],
+      "answer": "नकाशावरील अंतर समजावणे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाण म्हणजे काय?",
+      "answer": "नकाशावरील अंतर आणि जमिनीवरील प्रत्यक्ष अंतर यांचे गुणोत्तर म्हणजे नकाशाप्रमाण. यामुळे नकाशातील अंतराचे प्रत्यक्ष मूल्य समजते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा उपयोग काय आहे?",
+      "answer": "नकाशावरील अंतर प्रत्यक्ष अंतरात रूपांतर करण्यासाठी नकाशाप्रमाण वापरले जाते. त्यामुळे अंतर अचूकपणे मोजता येते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "अंकप्रमाण म्हणजे काय?",
+      "answer": "गुणोत्तराच्या स्वरूपात दिलेले प्रमाण म्हणजे अंकप्रमाण. उदा. 1 : 50,000 असे प्रमाण."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "शब्दप्रमाण म्हणजे काय?",
+      "answer": "शब्दांच्या मदतीने दिलेले प्रमाण म्हणजे शब्दप्रमाण. उदा. 1 सेमी = 10 किमी."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "रेषाप्रमाण म्हणजे काय?",
+      "answer": "रेषेच्या स्वरूपात दाखवलेले प्रमाण म्हणजे रेषाप्रमाण. नकाशा लहान-मोठा केला तरी ते अचूक राहते."
+    },
+
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "बृहत्प्रमाण म्हणजे काय?",
+      "answer": "ज्या प्रमाणात हर कमी असतो ते बृहत्प्रमाण होय. या नकाशात अधिक तपशील दिसतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "लघुप्रमाण म्हणजे काय?",
+      "answer": "ज्या प्रमाणात हर मोठा असतो ते लघुप्रमाण होय. या नकाशात कमी तपशील दिसतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "बृहत्प्रमाण नकाशाचा एक उपयोग लिहा.",
+      "answer": "बृहत्प्रमाण नकाशा शहर किंवा गावाचे तपशीलवार चित्र दाखवण्यासाठी वापरला जातो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "लघुप्रमाण नकाशाचा एक उपयोग लिहा.",
+      "answer": "लघुप्रमाण नकाशा देश, खंड किंवा जग दाखवण्यासाठी वापरला जातो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "नकाशा अभ्यासात प्रमाण का महत्त्वाचे आहे?",
+      "answer": "प्रमाणाशिवाय प्रत्यक्ष अंतर कळत नाही. त्यामुळे नकाशा अपूर्ण ठरतो."
+    },
+
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "नकाशा मोठा किंवा लहान केल्यास कोणते प्रमाण उपयुक्त ठरते?",
+      "answer": "रेषाप्रमाण उपयुक्त ठरते कारण ते आकार बदलल्यानंतरही अचूक राहते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "प्रतिनिधिक अपूर्णांक म्हणजे काय?",
+      "answer": "अंकप्रमाणाला प्रतिनिधिक अपूर्णांक असेही म्हणतात. ते गुणोत्तराच्या स्वरूपात असते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "नकाशावरील अंतर मोजण्याची पद्धत स्पष्ट करा.",
+      "answer": "नकाशावरील अंतर मोजून ते प्रमाणाच्या साहाय्याने प्रत्यक्ष अंतरात रूपांतर केले जाते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "गावाचा नकाशा कोणत्या प्रमाणात असतो व का?",
+      "answer": "गावाचा नकाशा बृहत्प्रमाणात असतो कारण अधिक तपशील दाखवणे आवश्यक असते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "जगाचा नकाशा कोणत्या प्रमाणात असतो व का?",
+      "answer": "जगाचा नकाशा लघुप्रमाणात असतो कारण मोठा क्षेत्रभाग दाखवावा लागतो."
+    },
+
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशा कसा अचूक बनतो?",
+      "answer": "प्रमाणामुळे नकाशावरील अंतर प्रत्यक्ष अंतराशी जुळते. त्यामुळे माहिती अचूक मिळते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "नकाशा अभ्यासात प्रमाण पाहण्याची गरज का आहे?",
+      "answer": "प्रमाण पाहिल्याशिवाय नकाशातील अंतराचे प्रत्यक्ष मूल्य समजत नाही."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा वापर प्रत्यक्ष जीवनात कुठे होतो?",
+      "answer": "प्रवास नियोजन, बांधकाम आणि भूगोल अभ्यासात नकाशाप्रमाणाचा वापर होतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाण व गणित यांचा संबंध स्पष्ट करा.",
+      "answer": "नकाशाप्रमाण गुणोत्तरावर आधारित असल्यामुळे गणितीय गणना करावी लागते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाण चुकीचे असल्यास काय परिणाम होतो?",
+      "answer": "प्रत्यक्ष अंतर मोजण्यात चूक होते. त्यामुळे नकाशा चुकीची माहिती देतो."
+    },
+
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे भूगोल अभ्यास कसा सोपा होतो?",
+      "answer": "अंतर व क्षेत्रफळ अचूक कळल्यामुळे भूगोल अभ्यास समजण्यास सोपा होतो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाण निवडताना कोणता घटक महत्त्वाचा असतो?",
+      "answer": "दाखवायचा क्षेत्रभाग आणि आवश्यक तपशील हा घटक महत्त्वाचा असतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "शहराचा नकाशा कोणत्या प्रमाणात तयार केला जातो?",
+      "answer": "शहराचा नकाशा बृहत्प्रमाणात तयार केला जातो कारण अधिक तपशील दाखवावे लागतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे कोणते कौशल्य विकसित होते?",
+      "answer": "निरीक्षण व गणिती विचार करण्याचे कौशल्य विकसित होते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "रेषाप्रमाणाचा एक फायदा लिहा.",
+      "answer": "नकाशा लहान-मोठा केला तरी रेषाप्रमाण अचूक राहते."
+    },
+
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "अंकप्रमाणाचा एक तोटा लिहा.",
+      "answer": "नकाशाचा आकार बदलल्यास अंकप्रमाण अचूक राहत नाही."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "शब्दप्रमाण समजायला सोपे का असते?",
+      "answer": "ते शब्दांत दिलेले असल्यामुळे सर्वसामान्यांना सहज समजते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशाचा उपयोग कसा वाढतो?",
+      "answer": "अचूक अंतर कळल्यामुळे नकाशा विविध कामांसाठी वापरता येतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "नकाशावरील अंतर आणि प्रत्यक्ष अंतर यात काय फरक आहे?",
+      "answer": "नकाशावरील अंतर लहान असते तर प्रत्यक्ष अंतर मोठे असते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यास का आवश्यक आहे?",
+      "answer": "नकाशा अचूक समजण्यासाठी आणि योग्य निष्कर्ष काढण्यासाठी तो आवश्यक आहे."
+    },
+
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा निष्कर्ष लिहा.",
+      "answer": "नकाशाप्रमाणामुळे नकाशा अचूक, उपयुक्त आणि समजण्यास सोपा बनतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशा कसा विश्वासार्ह बनतो?",
+      "answer": "प्रमाणामुळे नकाशावरील अंतर प्रत्यक्ष अंतराशी जुळते. त्यामुळे नकाशातील माहिती विश्वासार्ह ठरते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाण आणि क्षेत्रफळ यांचा काय संबंध आहे?",
+      "answer": "प्रमाणावर नकाशाचे क्षेत्रफळ अवलंबून असते. लघुप्रमाणात क्षेत्रफळ कमी जागेत दाखवले जाते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "नकाशा वाचताना सर्वप्रथम प्रमाण का पाहावे?",
+      "answer": "प्रमाण पाहिल्याने नकाशावरील अंतराचे प्रत्यक्ष मूल्य समजते. त्यामुळे नकाशा योग्य प्रकारे समजतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा उपयोग प्रवास नियोजनात कसा होतो?",
+      "answer": "प्रवासाचे प्रत्यक्ष अंतर मोजून वेळ व मार्ग ठरवता येतो. त्यामुळे प्रवास नियोजन सुलभ होते."
+    },
+
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा बांधकाम क्षेत्रात कसा उपयोग होतो?",
+      "answer": "जमिनीचे मोजमाप अचूक करता येते. त्यामुळे बांधकामाचे नियोजन योग्यरीत्या करता येते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा शिक्षण क्षेत्रात काय उपयोग आहे?",
+      "answer": "विद्यार्थ्यांना अंतर व क्षेत्रफळ समजते. भूगोल अभ्यास अधिक प्रभावी होतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे भौगोलिक माहिती कशी स्पष्ट होते?",
+      "answer": "अंतराचे अचूक रूपांतर झाल्यामुळे माहिती स्पष्ट व समजण्यास सोपी होते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाण नसल्यास कोणत्या अडचणी येतात?",
+      "answer": "प्रत्यक्ष अंतर काढता येत नाही. त्यामुळे नकाशाचा उपयोग मर्यादित होतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाण आणि दिशा यांचा काय संबंध आहे?",
+      "answer": "प्रमाण अंतराशी संबंधित असते तर दिशा स्थान ओळखण्यास मदत करते. दोन्ही नकाशासाठी आवश्यक आहेत."
+    },
+
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे भूगोल अभ्यासात अचूकता कशी येते?",
+      "answer": "अंतर व क्षेत्रफळ अचूक कळल्यामुळे अभ्यासात अचूकता येते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा उपयोग शहर नियोजनात कसा होतो?",
+      "answer": "रस्ते, घरे व सुविधा यांचे योग्य नियोजन करता येते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा उपयोग संरक्षण नियोजनात कसा होतो?",
+      "answer": "सीमांचे अंतर व भौगोलिक स्थिती अचूक समजते. त्यामुळे रणनीती ठरवता येते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशा वैज्ञानिक कसा बनतो?",
+      "answer": "गणितीय गुणोत्तरावर आधारित असल्यामुळे नकाशा वैज्ञानिक ठरतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे तुलना कशी करता येते?",
+      "answer": "विविध ठिकाणांमधील अंतरांची तुलना करता येते."
+    },
+
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा उपयोग जलसंपदा नियोजनात कसा होतो?",
+      "answer": "नद्या व धरणांचे अंतर मोजून नियोजन करता येते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे वाहतूक नियोजन कसे सुलभ होते?",
+      "answer": "रस्त्यांचे अंतर कळल्यामुळे मार्ग नियोजन सोपे होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा पर्यटन क्षेत्रात कसा उपयोग होतो?",
+      "answer": "पर्यटकांना अंतर व मार्ग समजतो. प्रवास सोयीस्कर होतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे भूगोल अभ्यासात रस कसा वाढतो?",
+      "answer": "प्रत्यक्ष अंतर समजल्यामुळे विषय अधिक रोचक वाटतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यास का आवश्यक आहे?",
+      "answer": "नकाशा अचूक समजण्यासाठी आणि योग्य निष्कर्ष काढण्यासाठी तो आवश्यक आहे."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा पर्यावरण अभ्यासात कसा उपयोग होतो?",
+      "answer": "वनक्षेत्र व जलस्रोतांचे अंतर समजून पर्यावरण नियोजन करता येते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे भौगोलिक संशोधन कसे सोपे होते?",
+      "answer": "अचूक मोजमापामुळे संशोधनात अचूकता येते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा कृषी क्षेत्रात कसा उपयोग होतो?",
+      "answer": "शेतजमिनीचे क्षेत्रफळ व अंतर मोजता येते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा आपत्ती व्यवस्थापनात कसा उपयोग होतो?",
+      "answer": "आपत्तीग्रस्त भागाचे अंतर समजून मदतकार्य नियोजित करता येते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे भूगोल अभ्यास अधिक शास्त्रीय कसा होतो?",
+      "answer": "मोजमाप व गणना यामुळे अभ्यास शास्त्रीय बनतो."
+    },
+
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा सामाजिक अभ्यासात कसा उपयोग होतो?",
+      "answer": "लोकवस्ती व सुविधा यांचे अंतर समजते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा ऐतिहासिक अभ्यासात कसा उपयोग होतो?",
+      "answer": "ऐतिहासिक स्थळांचे अंतर समजून घटनांचा अभ्यास करता येतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा आर्थिक नियोजनात कसा उपयोग होतो?",
+      "answer": "औद्योगिक व व्यापारी केंद्रांचे अंतर मोजता येते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा संरक्षण नियोजनात कसा उपयोग होतो?",
+      "answer": "सीमा व मार्गांचे अंतर समजून सुरक्षा व्यवस्था ठरवता येते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा शहरीकरण अभ्यासात कसा उपयोग होतो?",
+      "answer": "शहराचा विस्तार व अंतर समजते."
+    },
+
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा ग्रामीण विकास अभ्यासात कसा उपयोग होतो?",
+      "answer": "ग्रामीण भागातील सुविधा व अंतर समजते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा भूगोल शिक्षणात काय फायदा होतो?",
+      "answer": "विद्यार्थ्यांना संकल्पना स्पष्ट समजतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे निरीक्षण कौशल्य कसे वाढते?",
+      "answer": "नकाशातील तपशील नीट पाहण्याची सवय लागते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे विश्लेषण कौशल्य कसे विकसित होते?",
+      "answer": "अंतर व क्षेत्रफळाचे विश्लेषण करता येते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यास परीक्षेसाठी का महत्त्वाचा आहे?",
+      "answer": "अनेक प्रश्न मोजमापावर आधारित असतात."
+    },
+
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा वापर भविष्यात का वाढणार आहे?",
+      "answer": "नियोजन व विकासासाठी अचूक नकाशांची गरज वाढत आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा डिजिटल नकाशांमध्ये कसा उपयोग होतो?",
+      "answer": "डिजिटल मोजमाप अधिक अचूक करता येते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा GIS मध्ये कसा उपयोग होतो?",
+      "answer": "भौगोलिक माहिती अचूकपणे विश्लेषित करता येते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे भूगोल अभ्यास सर्वसामान्यांसाठी कसा सोपा होतो?",
+      "answer": "प्रत्यक्ष अंतर समजल्यामुळे नकाशा समजणे सोपे होते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यास भविष्यात कसा उपयुक्त ठरेल?",
+      "answer": "विकास नियोजन व संशोधनासाठी तो उपयुक्त ठरेल."
+    },
+
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा निष्कर्ष काय आहे?",
+      "answer": "नकाशाप्रमाण नकाशाचा आत्मा आहे. त्याशिवाय नकाशा अपूर्ण ठरतो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशा उपयुक्त का ठरतो?",
+      "answer": "अचूक अंतर कळल्यामुळे नकाशा उपयोगी ठरतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे भूगोल विषयाचे महत्त्व कसे वाढते?",
+      "answer": "भूगोल अधिक व्यावहारिक व अचूक बनतो."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशा समजण्यास सोपा का होतो?",
+      "answer": "अंतराचे स्पष्ट रूपांतर दिलेले असते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यास का करावा?",
+      "answer": "नकाशाचा योग्य वापर करण्यासाठी अभ्यास आवश्यक आहे."
+    },
+
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा उपयोग जीवनात कसा होतो?",
+      "answer": "प्रवास, नियोजन व अभ्यासात त्याचा उपयोग होतो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशाचा दर्जा कसा वाढतो?",
+      "answer": "अचूकतेमुळे नकाशाचा दर्जा वाढतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यास का शिकवला जातो?",
+      "answer": "विद्यार्थ्यांना नकाशा वाचनाची सवय लागावी म्हणून."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यास का उपयुक्त आहे?",
+      "answer": "नकाशाचा योग्य उपयोग करण्यासाठी तो उपयुक्त आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यासाचा अंतिम उद्देश काय आहे?",
+      "answer": "नकाशा अचूक व प्रभावीपणे वापरणे हा उद्देश आहे."
+    },
+
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशा पूर्ण कसा बनतो?",
+      "answer": "प्रमाणामुळे नकाशाला अचूकता प्राप्त होते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यास का आवश्यक आहे हे स्पष्ट करा.",
+      "answer": "नकाशावरील माहिती योग्यरीत्या समजण्यासाठी तो आवश्यक आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे भूगोल अभ्यासात काय बदल होतो?",
+      "answer": "अभ्यास अधिक शास्त्रीय व अचूक होतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा उपयोग विविध क्षेत्रात कसा होतो?",
+      "answer": "नियोजन, शिक्षण व संशोधनात मोठ्या प्रमाणावर होतो."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यासाचा सारांश लिहा.",
+      "answer": "नकाशाप्रमाण नकाशाचा महत्त्वाचा घटक आहे."
+    },
+
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशा व्यावहारिक कसा बनतो?",
+      "answer": "प्रत्यक्ष उपयोगासाठी आवश्यक माहिती मिळते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यास भविष्यात कसा उपयोगी पडेल?",
+      "answer": "विकास व नियोजनासाठी तो उपयुक्त ठरेल."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशा अचूक का ठरतो?",
+      "answer": "अंतराचे योग्य रूपांतर दिलेले असते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यास का महत्त्वाचा आहे?",
+      "answer": "नकाशा समजण्यासाठी तो अत्यंत महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे भूगोल अभ्यासात काय फायदा होतो?",
+      "answer": "अभ्यास अधिक स्पष्ट व सोपा होतो."
+    },
+
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यासाचा निष्कर्ष लिहा.",
+      "answer": "नकाशाप्रमाण नकाशाचा आधार आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशा अधिक उपयुक्त का ठरतो?",
+      "answer": "अचूक अंतरामुळे नकाशाचा उपयोग वाढतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यास का आवश्यक आहे हे थोडक्यात लिहा.",
+      "answer": "नकाशा अचूक व परिणामकारक वापरण्यासाठी."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशा पूर्ण कसा होतो?",
+      "answer": "प्रमाणामुळे नकाशाला अर्थ प्राप्त होतो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यासाचा महत्त्वपूर्ण मुद्दा लिहा.",
+      "answer": "प्रमाणाशिवाय नकाशा अपूर्ण असतो."
+    },
+
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे नकाशा वापरणे कसे सोपे होते?",
+      "answer": "अंतर समजल्यामुळे वापर सोपा होतो."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यास विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+      "answer": "भूगोल संकल्पना स्पष्ट समजतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा अभ्यासाचा अंतिम निष्कर्ष लिहा.",
+      "answer": "नकाशाप्रमाण नकाशाचा सर्वात महत्त्वाचा घटक आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणामुळे भूगोल अभ्यास अधिक प्रभावी कसा होतो?",
+      "answer": "अचूक मोजमापामुळे अभ्यास प्रभावी होतो."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "नकाशाप्रमाणाचा संपूर्ण सारांश लिहा.",
+      "answer": "नकाशाप्रमाण नकाशाला अचूकता व उपयुक्तता देते."
+    }
+  ]
+}

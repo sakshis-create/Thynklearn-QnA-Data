@@ -1,0 +1,1211 @@
+{
+  "Chapter 1": "The Indian Subcontinent and History",
+  "lessons": [
+    "Geographical conditions and the course of history",
+    "Geographical features of India",
+    "The Indian subcontinent"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which factor among the pillars of history directly connects history with geography?",
+      "options": [
+        { "option_id": 1, "text": "Time", "is_correct": false },
+        { "option_id": 2, "text": "Society", "is_correct": false },
+        { "option_id": 3, "text": "Place", "is_correct": true },
+        { "option_id": 4, "text": "Individual", "is_correct": false }
+      ],
+      "answer": "Place"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which aspect of human life is most directly affected by the availability of fertile land?",
+      "options": [
+        { "option_id": 1, "text": "Language", "is_correct": false },
+        { "option_id": 2, "text": "Diet", "is_correct": true },
+        { "option_id": 3, "text": "Religion", "is_correct": false },
+        { "option_id": 4, "text": "Art", "is_correct": false }
+      ],
+      "answer": "Diet"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why is life in hilly regions described as more strenuous than in plains?",
+      "options": [
+        { "option_id": 1, "text": "Due to extreme temperatures", "is_correct": false },
+        { "option_id": 2, "text": "Due to lack of fertile land", "is_correct": true },
+        { "option_id": 3, "text": "Due to excessive rainfall", "is_correct": false },
+        { "option_id": 4, "text": "Due to dense population", "is_correct": false }
+      ],
+      "answer": "Due to lack of fertile land"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which activity forms a major source of food in hilly regions as described in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Fishing", "is_correct": false },
+        { "option_id": 2, "text": "Agriculture", "is_correct": false },
+        { "option_id": 3, "text": "Hunting and gathering", "is_correct": true },
+        { "option_id": 4, "text": "Trade", "is_correct": false }
+      ],
+      "answer": "Hunting and gathering"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which condition leads to the development of villages and towns over time?",
+      "options": [
+        { "option_id": 1, "text": "Abundance of means of living", "is_correct": true },
+        { "option_id": 2, "text": "Frequent invasions", "is_correct": false },
+        { "option_id": 3, "text": "Environmental degradation", "is_correct": false },
+        { "option_id": 4, "text": "Scarcity of resources", "is_correct": false }
+      ],
+      "answer": "Abundance of means of living"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following can cause settlements to become deserted?",
+      "options": [
+        { "option_id": 1, "text": "Stable climate", "is_correct": false },
+        { "option_id": 2, "text": "Development of agriculture", "is_correct": false },
+        { "option_id": 3, "text": "Environmental degradation", "is_correct": true },
+        { "option_id": 4, "text": "Increase in trade", "is_correct": false }
+      ],
+      "answer": "Environmental degradation"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which natural feature lies to the north of India?",
+      "options": [
+        { "option_id": 1, "text": "Indian Ocean", "is_correct": false },
+        { "option_id": 2, "text": "Bay of Bengal", "is_correct": false },
+        { "option_id": 3, "text": "Himalayas", "is_correct": true },
+        { "option_id": 4, "text": "Arabian Sea", "is_correct": false }
+      ],
+      "answer": "Himalayas"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which seas and oceans surround India on three sides?",
+      "options": [
+        { "option_id": 1, "text": "Arabian Sea, Indian Ocean, Bay of Bengal", "is_correct": true },
+        { "option_id": 2, "text": "Red Sea, Arabian Sea, Bay of Bengal", "is_correct": false },
+        { "option_id": 3, "text": "Indian Ocean, Red Sea, Pacific Ocean", "is_correct": false },
+        { "option_id": 4, "text": "Bay of Bengal, Pacific Ocean, Arabian Sea", "is_correct": false }
+      ],
+      "answer": "Arabian Sea, Indian Ocean, Bay of Bengal"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which regions were included in ancient India before 1947?",
+      "options": [
+        { "option_id": 1, "text": "Only present-day India", "is_correct": false },
+        { "option_id": 2, "text": "India, Pakistan and Bangladesh", "is_correct": true },
+        { "option_id": 3, "text": "India and Sri Lanka", "is_correct": false },
+        { "option_id": 4, "text": "India and Nepal", "is_correct": false }
+      ],
+      "answer": "India, Pakistan and Bangladesh"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which mountain ranges formed a natural barrier to the north of the Indian subcontinent?",
+      "options": [
+        { "option_id": 1, "text": "Aravalli and Vindhya", "is_correct": false },
+        { "option_id": 2, "text": "Satpuda and Sahyadri", "is_correct": false },
+        { "option_id": 3, "text": "Hindukush and Himalaya", "is_correct": true },
+        { "option_id": 4, "text": "Eastern and Western Ghats", "is_correct": false }
+      ],
+      "answer": "Hindukush and Himalaya"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which passes provided land routes into ancient India?",
+      "options": [
+        { "option_id": 1, "text": "Nathu La and Jelep La", "is_correct": false },
+        { "option_id": 2, "text": "Khyber and Bolan", "is_correct": true },
+        { "option_id": 3, "text": "Rohtang and Shipki", "is_correct": false },
+        { "option_id": 4, "text": "Zoji La and Banihal", "is_correct": false }
+      ],
+      "answer": "Khyber and Bolan"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why was the Silk Route important in ancient times?",
+      "options": [
+        { "option_id": 1, "text": "It connected India with Africa", "is_correct": false },
+        { "option_id": 2, "text": "It was used mainly for religious travel", "is_correct": false },
+        { "option_id": 3, "text": "It facilitated trade of silk to western countries", "is_correct": true },
+        { "option_id": 4, "text": "It connected only Indian cities", "is_correct": false }
+      ],
+      "answer": "It facilitated trade of silk to western countries"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which rivers form the plains important to early Indian civilization?",
+      "options": [
+        { "option_id": 1, "text": "Narmada, Tapi, Godavari", "is_correct": false },
+        { "option_id": 2, "text": "Sindhu, Ganga, Brahmaputra", "is_correct": true },
+        { "option_id": 3, "text": "Kaveri, Krishna, Mahanadi", "is_correct": false },
+        { "option_id": 4, "text": "Yamuna, Chambal, Betwa", "is_correct": false }
+      ],
+      "answer": "Sindhu, Ganga, Brahmaputra"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What type of landform is India described as due to being surrounded by sea on three sides?",
+      "options": [
+        { "option_id": 1, "text": "Plateau", "is_correct": false },
+        { "option_id": 2, "text": "Peninsula", "is_correct": true },
+        { "option_id": 3, "text": "Island", "is_correct": false },
+        { "option_id": 4, "text": "Plain", "is_correct": false }
+      ],
+      "answer": "Peninsula"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which plateau occupies a major part of the Indian peninsula?",
+      "options": [
+        { "option_id": 1, "text": "Malwa Plateau", "is_correct": false },
+        { "option_id": 2, "text": "Chota Nagpur Plateau", "is_correct": false },
+        { "option_id": 3, "text": "Deccan Plateau", "is_correct": true },
+        { "option_id": 4, "text": "Bundelkhand Plateau", "is_correct": false }
+      ],
+      "answer": "Deccan Plateau"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which mountain ranges lie to the north of the Deccan Plateau?",
+      "options": [
+        { "option_id": 1, "text": "Aravalli and Sahyadri", "is_correct": false },
+        { "option_id": 2, "text": "Vindhya and Satpuda", "is_correct": true },
+        { "option_id": 3, "text": "Eastern and Western Ghats", "is_correct": false },
+        { "option_id": 4, "text": "Himalaya and Hindukush", "is_correct": false }
+      ],
+      "answer": "Vindhya and Satpuda"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What are the Western Ghats also known as?",
+      "options": [
+        { "option_id": 1, "text": "Vindhya Range", "is_correct": false },
+        { "option_id": 2, "text": "Satpuda Range", "is_correct": false },
+        { "option_id": 3, "text": "Sahyadri Range", "is_correct": true },
+        { "option_id": 4, "text": "Aravalli Range", "is_correct": false }
+      ],
+      "answer": "Sahyadri Range"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which regions lie to the west of the Sahyadri mountains?",
+      "options": [
+        { "option_id": 1, "text": "Coromandel coast", "is_correct": false },
+        { "option_id": 2, "text": "Konkan and Malabar", "is_correct": true },
+        { "option_id": 3, "text": "Northern plains", "is_correct": false },
+        { "option_id": 4, "text": "Thar Desert", "is_correct": false }
+      ],
+      "answer": "Konkan and Malabar"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which empire included the Deccan Plateau as part of its territory?",
+      "options": [
+        { "option_id": 1, "text": "Gupta Empire", "is_correct": false },
+        { "option_id": 2, "text": "Maurya Empire", "is_correct": true },
+        { "option_id": 3, "text": "Harappan Civilization", "is_correct": false },
+        { "option_id": 4, "text": "Mughal Empire", "is_correct": false }
+      ],
+      "answer": "Maurya Empire"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why were coastal regions important in ancient India?",
+      "options": [
+        { "option_id": 1, "text": "They were centers of agriculture", "is_correct": false },
+        { "option_id": 2, "text": "They supported mountain settlements", "is_correct": false },
+        { "option_id": 3, "text": "They enabled sea trade with western countries", "is_correct": true },
+        { "option_id": 4, "text": "They were isolated from foreign contact", "is_correct": false }
+      ],
+      "answer": "They enabled sea trade with western countries"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which islands are located in the Bay of Bengal?",
+      "options": [
+        { "option_id": 1, "text": "Lakshadweep", "is_correct": false },
+        { "option_id": 2, "text": "Andaman and Nicobar", "is_correct": true },
+        { "option_id": 3, "text": "Maldives", "is_correct": false },
+        { "option_id": 4, "text": "Sri Lanka", "is_correct": false }
+      ],
+      "answer": "Andaman and Nicobar"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which group of islands lies in the Arabian Sea?",
+      "options": [
+        { "option_id": 1, "text": "Andaman", "is_correct": false },
+        { "option_id": 2, "text": "Nicobar", "is_correct": false },
+        { "option_id": 3, "text": "Lakshadweep", "is_correct": true },
+        { "option_id": 4, "text": "Sri Lanka", "is_correct": false }
+      ],
+      "answer": "Lakshadweep"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which ancient manuscript mentions Indian islands?",
+      "options": [
+        { "option_id": 1, "text": "Arthashastra", "is_correct": false },
+        { "option_id": 2, "text": "Periplus of the Erythrean Sea", "is_correct": true },
+        { "option_id": 3, "text": "Rigveda", "is_correct": false },
+        { "option_id": 4, "text": "Megasthenes’ Indica", "is_correct": false }
+      ],
+      "answer": "Periplus of the Erythrean Sea"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who authored the manuscript Periplus of the Erythrean Sea?",
+      "options": [
+        { "option_id": 1, "text": "An Indian historian", "is_correct": false },
+        { "option_id": 2, "text": "A Roman trader", "is_correct": false },
+        { "option_id": 3, "text": "An unknown Greek sailor", "is_correct": true },
+        { "option_id": 4, "text": "A Chinese traveler", "is_correct": false }
+      ],
+      "answer": "An unknown Greek sailor"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which regions does the Thar Desert spread across?",
+      "options": [
+        { "option_id": 1, "text": "Punjab, Haryana, Uttar Pradesh", "is_correct": false },
+        { "option_id": 2, "text": "Rajasthan, Haryana, Gujarat", "is_correct": true },
+        { "option_id": 3, "text": "Madhya Pradesh, Maharashtra, Gujarat", "is_correct": false },
+        { "option_id": 4, "text": "Sindh, Baluchistan, Punjab", "is_correct": false }
+      ],
+      "answer": "Rajasthan, Haryana, Gujarat"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which river marks the northern boundary of the Thar Desert?",
+      "options": [
+        { "option_id": 1, "text": "Indus", "is_correct": false },
+        { "option_id": 2, "text": "Ghaggar", "is_correct": false },
+        { "option_id": 3, "text": "Satluj", "is_correct": true },
+        { "option_id": 4, "text": "Yamuna", "is_correct": false }
+      ],
+      "answer": "Satluj"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is the Ghaggar river called in Pakistan?",
+      "options": [
+        { "option_id": 1, "text": "Sindhu", "is_correct": false },
+        { "option_id": 2, "text": "Hakra", "is_correct": true },
+        { "option_id": 3, "text": "Saraswati", "is_correct": false },
+        { "option_id": 4, "text": "Beas", "is_correct": false }
+      ],
+      "answer": "Hakra"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Why are many Harappan sites found along the dry course of the Ghaggar river?",
+      "options": [
+        { "option_id": 1, "text": "The river once supported settlements", "is_correct": true },
+        { "option_id": 2, "text": "The region was forested", "is_correct": false },
+        { "option_id": 3, "text": "The river was a trade route", "is_correct": false },
+        { "option_id": 4, "text": "The area was mountainous", "is_correct": false }
+      ],
+      "answer": "The river once supported settlements"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which cities are associated with the Harappan civilization?",
+      "options": [
+        { "option_id": 1, "text": "Pataliputra and Ujjain", "is_correct": false },
+        { "option_id": 2, "text": "Harappa and Mohen-jo-daro", "is_correct": true },
+        { "option_id": 3, "text": "Taxila and Nalanda", "is_correct": false },
+        { "option_id": 4, "text": "Mathura and Kashi", "is_correct": false }
+      ],
+      "answer": "Harappa and Mohen-jo-daro"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "In which present-day country are Harappa and Mohen-jo-daro located?",
+      "options": [
+        { "option_id": 1, "text": "India", "is_correct": false },
+        { "option_id": 2, "text": "Afghanistan", "is_correct": false },
+        { "option_id": 3, "text": "Pakistan", "is_correct": true },
+        { "option_id": 4, "text": "Bangladesh", "is_correct": false }
+      ],
+      "answer": "Pakistan"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which countries together form South Asia?",
+      "options": [
+        { "option_id": 1, "text": "India, China, Myanmar", "is_correct": false },
+        { "option_id": 2, "text": "India, Pakistan, Nepal, Bhutan, Bangladesh, Sri Lanka, Afghanistan", "is_correct": true },
+        { "option_id": 3, "text": "India, Sri Lanka, Maldives", "is_correct": false },
+        { "option_id": 4, "text": "India and Pakistan only", "is_correct": false }
+      ],
+      "answer": "India, Pakistan, Nepal, Bhutan, Bangladesh, Sri Lanka, Afghanistan"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why is South Asia also referred to as the Indian subcontinent?",
+      "options": [
+        { "option_id": 1, "text": "Due to India’s political power", "is_correct": false },
+        { "option_id": 2, "text": "Due to the size and significance of India", "is_correct": true },
+        { "option_id": 3, "text": "Due to its island nature", "is_correct": false },
+        { "option_id": 4, "text": "Due to its climate", "is_correct": false }
+      ],
+      "answer": "Due to the size and significance of India"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which neighboring countries are NOT part of the Indian subcontinent?",
+      "options": [
+        { "option_id": 1, "text": "China and Myanmar", "is_correct": true },
+        { "option_id": 2, "text": "Nepal and Bhutan", "is_correct": false },
+        { "option_id": 3, "text": "Pakistan and Bangladesh", "is_correct": false },
+        { "option_id": 4, "text": "Sri Lanka and Afghanistan", "is_correct": false }
+      ],
+      "answer": "China and Myanmar"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Despite not being part of the subcontinent, why are China and Myanmar important?",
+      "options": [
+        { "option_id": 1, "text": "They ruled ancient India", "is_correct": false },
+        { "option_id": 2, "text": "They had cultural and trade relations with India", "is_correct": true },
+        { "option_id": 3, "text": "They were part of the Maurya Empire", "is_correct": false },
+        { "option_id": 4, "text": "They controlled sea routes", "is_correct": false }
+      ],
+      "answer": "They had cultural and trade relations with India"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which environmental factor directly supports human livelihood?",
+      "options": [
+        { "option_id": 1, "text": "Climate and rainfall", "is_correct": true },
+        { "option_id": 2, "text": "Political systems", "is_correct": false },
+        { "option_id": 3, "text": "Language diversity", "is_correct": false },
+        { "option_id": 4, "text": "Administrative boundaries", "is_correct": false }
+      ],
+      "answer": "Climate and rainfall"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What leads to migration of people from settlements according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Development of trade", "is_correct": false },
+        { "option_id": 2, "text": "Scarcity of means of living", "is_correct": true },
+        { "option_id": 3, "text": "Growth of towns", "is_correct": false },
+        { "option_id": 4, "text": "Cultural exchange", "is_correct": false }
+      ],
+      "answer": "Scarcity of means of living"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which coast lies on the western side of India?",
+      "options": [
+        { "option_id": 1, "text": "Coromandel Coast", "is_correct": false },
+        { "option_id": 2, "text": "Konkan Coast", "is_correct": true },
+        { "option_id": 3, "text": "Northern Coast", "is_correct": false },
+        { "option_id": 4, "text": "Eastern Plains", "is_correct": false }
+      ],
+      "answer": "Konkan Coast"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which geographical condition supported post-Harappan agrarian cultures?",
+      "options": [
+        { "option_id": 1, "text": "Desert climate", "is_correct": false },
+        { "option_id": 2, "text": "Fertile land of Deccan Plateau", "is_correct": true },
+        { "option_id": 3, "text": "Mountain slopes", "is_correct": false },
+        { "option_id": 4, "text": "Island location", "is_correct": false }
+      ],
+      "answer": "Fertile land of Deccan Plateau"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which factor shows the inseparable nature of history and geography?",
+      "options": [
+        { "option_id": 1, "text": "Human dependence on environment", "is_correct": true },
+        { "option_id": 2, "text": "Written records", "is_correct": false },
+        { "option_id": 3, "text": "Political administration", "is_correct": false },
+        { "option_id": 4, "text": "Religious practices", "is_correct": false }
+      ],
+      "answer": "Human dependence on environment"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which region was separated from Central Asia by mountain ranges?",
+      "options": [
+        { "option_id": 1, "text": "Indian subcontinent", "is_correct": true },
+        { "option_id": 2, "text": "Arabian Peninsula", "is_correct": false },
+        { "option_id": 3, "text": "European plains", "is_correct": false },
+        { "option_id": 4, "text": "African plateau", "is_correct": false }
+      ],
+      "answer": "Indian subcontinent"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What role did passes in the Hindukush play in history?",
+      "options": [
+        { "option_id": 1, "text": "They prevented all movement", "is_correct": false },
+        { "option_id": 2, "text": "They enabled entry of invaders and travelers", "is_correct": true },
+        { "option_id": 3, "text": "They were religious centers", "is_correct": false },
+        { "option_id": 4, "text": "They supported agriculture", "is_correct": false }
+      ],
+      "answer": "They enabled entry of invaders and travelers"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which factor did NOT reduce the importance of sea routes?",
+      "options": [
+        { "option_id": 1, "text": "Development of land routes", "is_correct": false },
+        { "option_id": 2, "text": "Continued sea trade", "is_correct": true },
+        { "option_id": 3, "text": "Expansion of kingdoms", "is_correct": false },
+        { "option_id": 4, "text": "Growth of agriculture", "is_correct": false }
+      ],
+      "answer": "Continued sea trade"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which geographical factor influenced ancient Indian contact with foreign cultures?",
+      "options": [
+        { "option_id": 1, "text": "Dense forests", "is_correct": false },
+        { "option_id": 2, "text": "Sea ports", "is_correct": true },
+        { "option_id": 3, "text": "Plateaus", "is_correct": false },
+        { "option_id": 4, "text": "Deserts", "is_correct": false }
+      ],
+      "answer": "Sea ports"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which region emerged as the center of earliest Indian civilization?",
+      "options": [
+        { "option_id": 1, "text": "Deccan Plateau", "is_correct": false },
+        { "option_id": 2, "text": "Sindhu-Ganga-Brahmaputra plains", "is_correct": true },
+        { "option_id": 3, "text": "Thar Desert", "is_correct": false },
+        { "option_id": 4, "text": "Coastal plains", "is_correct": false }
+      ],
+      "answer": "Sindhu-Ganga-Brahmaputra plains"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which river basin region supported the rise of states and empires?",
+      "options": [
+        { "option_id": 1, "text": "Godavari basin", "is_correct": false },
+        { "option_id": 2, "text": "Sindhu-Ganga region", "is_correct": true },
+        { "option_id": 3, "text": "Narmada basin", "is_correct": false },
+        { "option_id": 4, "text": "Tapi basin", "is_correct": false }
+      ],
+      "answer": "Sindhu-Ganga region"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which element supports the development of regional culture?",
+      "options": [
+        { "option_id": 1, "text": "Flora and fauna", "is_correct": true },
+        { "option_id": 2, "text": "Administrative laws", "is_correct": false },
+        { "option_id": 3, "text": "Military power", "is_correct": false },
+        { "option_id": 4, "text": "Urban planning", "is_correct": false }
+      ],
+      "answer": "Flora and fauna"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which geographical feature isolated India from Central Asia?",
+      "options": [
+        { "option_id": 1, "text": "Deserts", "is_correct": false },
+        { "option_id": 2, "text": "Seas", "is_correct": false },
+        { "option_id": 3, "text": "Mountain ranges", "is_correct": true },
+        { "option_id": 4, "text": "Rivers", "is_correct": false }
+      ],
+      "answer": "Mountain ranges"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What type of relationship exists between history and geography?",
+      "options": [
+        { "option_id": 1, "text": "Independent", "is_correct": false },
+        { "option_id": 2, "text": "Indirect", "is_correct": false },
+        { "option_id": 3, "text": "Very close", "is_correct": true },
+        { "option_id": 4, "text": "Unrelated", "is_correct": false }
+      ],
+      "answer": "Very close"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which human activity shows dependence on geographical surroundings?",
+      "options": [
+        { "option_id": 1, "text": "Occupation", "is_correct": true },
+        { "option_id": 2, "text": "Language formation", "is_correct": false },
+        { "option_id": 3, "text": "Political ideology", "is_correct": false },
+        { "option_id": 4, "text": "Administrative structure", "is_correct": false }
+      ],
+      "answer": "Occupation"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which statement best explains why geography influences history?",
+      "options": [
+        { "option_id": 1, "text": "It determines written records", "is_correct": false },
+        { "option_id": 2, "text": "It shapes human life and settlements", "is_correct": true },
+        { "option_id": 3, "text": "It controls political systems", "is_correct": false },
+        { "option_id": 4, "text": "It defines cultural rituals", "is_correct": false }
+      ],
+      "answer": "It shapes human life and settlements"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define history as explained in the chapter.",
+      "answer": "History is a coherent account of significant past events in the progress of human culture."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name the four major pillars of history.",
+      "answer": "Time, place, society and individuals are the four major pillars of history."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which pillar of history is directly related to geography?",
+      "answer": "The pillar of history related to geography is place."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "State one reason why geography influences human life.",
+      "answer": "Geography influences human life because food, clothing, housing and occupations depend on geographical conditions."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is fertile land scarce in hilly regions?",
+      "answer": "Fertile land is scarce in hilly regions due to uneven terrain and steep slopes."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How does the availability of fertile land affect diet?",
+      "answer": "The availability of fertile land determines the production of crops, which directly affects the diet of people."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What type of food sources are common in hilly regions?",
+      "answer": "People in hilly regions depend more on hunting and gathering for food."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What factors support the livelihood of people in a region?",
+      "answer": "Climate, rainfall, agricultural produce, flora and fauna support the livelihood of people."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why do human settlements flourish in certain regions?",
+      "answer": "Human settlements flourish where the means of living are plentiful."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What happens to settlements when resources become scarce?",
+      "answer": "When resources become scarce, people leave settlements and villages or towns become deserted."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Name two reasons that force people to abandon settlements.",
+      "answer": "Environmental degradation and drought force people to abandon settlements."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "State the geographical boundaries of India.",
+      "answer": "India is bounded by the Himalayas in the north, the Bay of Bengal in the east, the Arabian Sea in the west and the Indian Ocean in the south."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which regions were part of ancient India before 1947?",
+      "answer": "Present-day India, Pakistan and Bangladesh were part of ancient India."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name any two important geographical regions influencing Indian history.",
+      "answer": "The Himalayas and the plains of the Sindhu-Ganga-Brahmaputra rivers influenced Indian history."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How did the Himalayas influence the Indian subcontinent?",
+      "answer": "The Himalayas acted as a natural barrier separating the Indian subcontinent from Central Asia."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Name the two important mountain passes mentioned in the chapter.",
+      "answer": "The Khyber Pass and the Bolan Pass are the two important mountain passes."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why were the Khyber and Bolan passes historically important?",
+      "answer": "They provided land routes for trade, travelers and foreign invaders into ancient India."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What was the Silk Route used for?",
+      "answer": "The Silk Route was used for trade, especially for exporting silk to western countries."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Name the three major rivers of the northern plains.",
+      "answer": "The Sindhu, Ganga and Brahmaputra rivers are the three major rivers."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why are river basins suitable for early civilizations?",
+      "answer": "River basins provide fertile soil and water, supporting agriculture and settlements."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Define a peninsula as mentioned in the chapter.",
+      "answer": "A peninsula is a region bounded by the sea on three sides."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which plateau occupies most of the Indian peninsula?",
+      "answer": "The Deccan Plateau occupies most of the Indian peninsula."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Name the mountain ranges located north of the Deccan Plateau.",
+      "answer": "The Vindhya and Satpuda mountain ranges are located north of the Deccan Plateau."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is another name for the Western Ghats?",
+      "answer": "The Western Ghats are also known as the Sahyadri mountain ranges."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Name the coastal regions lying west of the Sahyadri ranges.",
+      "answer": "The Konkan and Malabar coastal regions lie west of the Sahyadri ranges."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why was the Deccan Plateau important in ancient times?",
+      "answer": "The Deccan Plateau had fertile land where many agrarian cultures flourished."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which empire included the Deccan Plateau within its territory?",
+      "answer": "The Maurya Empire included the Deccan Plateau within its territory."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How did coastal regions help ancient India?",
+      "answer": "Coastal regions helped ancient India through sea trade with western countries."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Name the Indian islands located in the Bay of Bengal.",
+      "answer": "The Andaman and Nicobar Islands are located in the Bay of Bengal."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Where is Lakshadweep located?",
+      "answer": "Lakshadweep is located in the Arabian Sea."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why were Indian islands important in ancient sea trade?",
+      "answer": "Their location made them important stops and reference points in ancient sea trade."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Name the ancient text that mentions Indian islands.",
+      "answer": "The manuscript Periplus of the Erythrean Sea mentions Indian islands."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Who wrote the Periplus of the Erythrean Sea?",
+      "answer": "It was written by an unknown Greek sailor."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which states does the Thar Desert spread across in India?",
+      "answer": "The Thar Desert spreads across Rajasthan, Haryana and parts of Gujarat."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which river flows to the north of the Thar Desert?",
+      "answer": "The Satluj river flows to the north of the Thar Desert."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the Ghaggar river called in Pakistan?",
+      "answer": "The Ghaggar river is called Hakra in Pakistan."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why are Harappan sites found along the dry course of the Ghaggar river?",
+      "answer": "Because the river once flowed there and supported Harappan settlements."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Name the two major cities of the Harappan civilization.",
+      "answer": "Harappa and Mohen-jo-daro are the two major cities."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Where are Harappa and Mohen-jo-daro located today?",
+      "answer": "They are located in present-day Pakistan."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Which countries together form South Asia?",
+      "answer": "India, Afghanistan, Pakistan, Nepal, Bhutan, Bangladesh and Sri Lanka form South Asia."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why is South Asia called the Indian subcontinent?",
+      "answer": "It is called the Indian subcontinent due to the size and significance of India in the region."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Which neighboring countries are not part of the Indian subcontinent?",
+      "answer": "China and Myanmar are not part of the Indian subcontinent."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why are China and Myanmar important in ancient Indian history?",
+      "answer": "They had cultural and trade relations with ancient India."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How does climate influence human lifestyle?",
+      "answer": "Climate influences food habits, clothing, housing and occupations."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What role does rainfall play in human settlements?",
+      "answer": "Rainfall supports agriculture and ensures availability of water for settlements."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why is there a close relation between history and geography?",
+      "answer": "Because geographical conditions influence human life, settlements and historical developments."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What happens to towns during prolonged droughts?",
+      "answer": "During prolonged droughts, towns may be deserted due to lack of resources."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Name one factor that helped cultural development in regions.",
+      "answer": "Availability of natural resources helped cultural development in regions."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Which geographical feature helped India maintain contact with western countries?",
+      "answer": "Sea routes and ports helped India maintain contact with western countries."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "State one reason why geography cannot be separated from history.",
+      "answer": "Geography shapes human activities and settlements which form the basis of historical events."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Explain how geographical conditions shaped the lifestyle of early humans.",
+      "answer": "Geographical conditions determined the availability of food, shelter and occupations, thereby shaping the lifestyle of early humans."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is place considered an essential element in writing history?",
+      "answer": "Place is essential because historical events occur in specific geographical settings that influence human activities."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "How did differences in terrain create differences in human occupations?",
+      "answer": "Different terrains offered different resources, leading people to adopt occupations suited to their surroundings."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Explain why agriculture developed more in plains than in hilly regions.",
+      "answer": "Plains have fertile soil and flat land suitable for cultivation, unlike hilly regions with uneven terrain."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "How did environmental degradation affect historical settlements?",
+      "answer": "Environmental degradation reduced resources, forcing people to abandon settlements."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why did some villages and towns disappear from history?",
+      "answer": "They disappeared due to scarcity of resources caused by droughts, invasions or environmental degradation."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Explain the role of the Himalayas in protecting the Indian subcontinent.",
+      "answer": "The Himalayas formed a natural barrier that separated the Indian subcontinent from Central Asia."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How did mountain passes influence cultural exchange in ancient India?",
+      "answer": "Mountain passes allowed traders, travelers and invaders to enter India, enabling cultural exchange."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why were river valleys preferred locations for early civilizations?",
+      "answer": "River valleys provided water, fertile soil and favorable conditions for agriculture and settlements."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How did the Sindhu-Ganga-Brahmaputra plains influence Indian history?",
+      "answer": "These plains supported early civilizations, states and empires due to fertile land and river systems."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Explain why India is described as a peninsula.",
+      "answer": "India is described as a peninsula because it is surrounded by sea on three sides."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How did the Deccan Plateau support political power in ancient India?",
+      "answer": "Its fertile land supported agriculture, enabling kingdoms and empires to flourish."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why did several kingdoms continue to flourish in the Deccan Plateau after the Mauryas?",
+      "answer": "The fertile land and strategic location allowed continued agricultural and political development."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Explain the significance of coastal regions in India’s ancient trade.",
+      "answer": "Coastal regions enabled sea trade and contact with western countries."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "How did sea routes complement land routes in ancient trade?",
+      "answer": "Sea routes allowed large-scale trade and sustained foreign contacts even after land routes developed."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why did the importance of sea routes not decline over time?",
+      "answer": "Sea trade continued to be efficient and vital for international trade."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Explain the role of Indian islands in ancient maritime trade.",
+      "answer": "Their location made them important reference points and stops in sea trade routes."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why is the Periplus of the Erythrean Sea important for Indian history?",
+      "answer": "It provides evidence of ancient sea trade and mentions Indian islands."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "How does the Thar Desert illustrate the link between geography and history?",
+      "answer": "Despite being a desert today, it once supported civilizations along river courses."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Explain the historical importance of the Ghaggar river.",
+      "answer": "The river supported Harappan settlements before drying up."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why are dried river courses important for historians?",
+      "answer": "They help identify locations of ancient settlements and civilizations."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How did geography determine the spread of the Harappan civilization?",
+      "answer": "The civilization spread along river systems that supported agriculture and trade."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Explain why Harappa and Mohen-jo-daro are key to understanding early Indian history.",
+      "answer": "They represent the earliest known urban civilization in the region."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How does the concept of South Asia help in historical studies?",
+      "answer": "It allows study of shared geographical and cultural history of the region."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is India central to the idea of the Indian subcontinent?",
+      "answer": "India’s size and historical significance dominate the region."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Explain the historical relevance of countries neighboring ancient India.",
+      "answer": "They maintained cultural and trade relations with ancient India."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How did climate influence settlement patterns in ancient times?",
+      "answer": "Favorable climate encouraged permanent settlements and agriculture."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why is rainfall crucial for sustaining civilizations?",
+      "answer": "Rainfall ensures water supply for agriculture and daily life."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "How did flora and fauna contribute to regional cultures?",
+      "answer": "They provided resources for food, tools and livelihoods."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Explain how geography influenced housing patterns.",
+      "answer": "Housing types depended on climate, terrain and available materials."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why is geography considered dynamic in historical studies?",
+      "answer": "Changes in environment continuously affect human life and history."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How did invasions impact settlements historically?",
+      "answer": "Invasions disrupted life and forced people to migrate or abandon towns."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Explain the interdependence between humans and their environment.",
+      "answer": "Humans depend on the environment for survival while modifying it over time."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why is geography essential for understanding historical progress?",
+      "answer": "It explains why civilizations developed differently in different regions."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "How does scarcity of resources change human movement?",
+      "answer": "Scarcity forces people to migrate in search of better living conditions."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Explain how fertile plains contributed to political stability.",
+      "answer": "Agricultural surplus supported population growth and governance."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why did ancient trade flourish along both land and sea routes?",
+      "answer": "Different routes enabled wider exchange of goods and cultures."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How did geography influence India’s contact with the western world?",
+      "answer": "Coastlines and sea routes enabled interaction with western countries."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Explain the importance of studying physical maps in history.",
+      "answer": "Physical maps show geographical features that influenced historical events."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why are mountains both barriers and gateways in history?",
+      "answer": "They restrict movement but passes allow controlled entry."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "How did geography affect food habits in different regions?",
+      "answer": "Availability of resources determined whether people farmed or hunted."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Explain how historical regions are identified through geography.",
+      "answer": "Geographical features define boundaries of historical regions."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is the study of geography necessary for understanding civilization growth?",
+      "answer": "Civilization growth depends on natural resources and environment."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How did rivers act as lifelines of ancient civilizations?",
+      "answer": "They provided water, fertile soil and transport routes."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Explain how deserts influenced settlement distribution.",
+      "answer": "Deserts limited settlements to areas near water sources."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why are historical boundaries different from present political boundaries?",
+      "answer": "Historical boundaries were shaped by geography rather than politics."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "How did geographical unity influence cultural unity?",
+      "answer": "Shared geography encouraged shared cultural practices."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Explain the role of geography in shaping trade networks.",
+      "answer": "Natural routes determined paths of trade and exchange."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is the Indian subcontinent studied as a single historical unit?",
+      "answer": "It shares common geographical features and historical developments."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Summarize the importance of geography in understanding Indian history.",
+      "answer": "Geography explains settlement patterns, economic activities and historical events."
+    }
+  ]
+}

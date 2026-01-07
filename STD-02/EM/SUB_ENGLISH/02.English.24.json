@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.24",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Five Little Seeds"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "How many seeds are mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Three", "is_correct": false },
+        { "option_id": 2, "text": "Five", "is_correct": true },
+        { "option_id": 3, "text": "Two", "is_correct": false },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Five"
+    }
+  ]
+}

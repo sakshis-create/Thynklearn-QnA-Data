@@ -1,0 +1,1209 @@
+{
+" Chapter 12": " Simple Machines",
+"lessons": [
+"12. Simple Machines"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "Machines used for?",
+"options": [
+{ "option_id": 1, "text": "More work less time effort", "is_correct": true },
+{ "option_id": 2, "text": "More effort", "is_correct": false },
+{ "option_id": 3, "text": "Less work", "is_correct": false },
+{ "option_id": 4, "text": "No work", "is_correct": false }
+],
+"answer": "More work less time effort"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "Simple machines examples?",
+"options": [
+{ "option_id": 1, "text": "Nail cutter bottle opener wheel", "is_correct": true },
+{ "option_id": 2, "text": "Bicycle crane", "is_correct": false },
+{ "option_id": 3, "text": "Car", "is_correct": false },
+{ "option_id": 4, "text": "Tractor", "is_correct": false }
+],
+"answer": "Nail cutter bottle opener wheel"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "Simple machines characteristics?",
+"options": [
+{ "option_id": 1, "text": "One two parts simple structure", "is_correct": true },
+{ "option_id": 2, "text": "Many parts", "is_correct": false },
+{ "option_id": 3, "text": "Complicated", "is_correct": false },
+{ "option_id": 4, "text": "Break easily", "is_correct": false }
+],
+"answer": "One two parts simple structure"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "Complex machines?",
+"options": [
+{ "option_id": 1, "text": "Many parts joined", "is_correct": true },
+{ "option_id": 2, "text": "One part", "is_correct": false },
+{ "option_id": 3, "text": "Simple", "is_correct": false },
+{ "option_id": 4, "text": "No parts", "is_correct": false }
+],
+"answer": "Many parts joined"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Inclined plane used for?",
+"options": [
+{ "option_id": 1, "text": "Lift weight easier", "is_correct": true },
+{ "option_id": 2, "text": "Push down", "is_correct": false },
+{ "option_id": 3, "text": "Cut", "is_correct": false },
+{ "option_id": 4, "text": "Rotate", "is_correct": false }
+],
+"answer": "Lift weight easier"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "Longer plank advantage?",
+"options": [
+{ "option_id": 1, "text": "Gradual slope less weight bear", "is_correct": true },
+{ "option_id": 2, "text": "Steeper more weight", "is_correct": false },
+{ "option_id": 3, "text": "No difference", "is_correct": false },
+{ "option_id": 4, "text": "Heavier", "is_correct": false }
+],
+"answer": "Gradual slope less weight bear"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "Screw inclined plane?",
+"options": [
+{ "option_id": 1, "text": "Rolled up", "is_correct": true },
+{ "option_id": 2, "text": "Straight", "is_correct": false },
+{ "option_id": 3, "text": "Lever", "is_correct": false },
+{ "option_id": 4, "text": "Wedge", "is_correct": false }
+],
+"answer": "Rolled up"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "Screw vs nail force?",
+"options": [
+{ "option_id": 1, "text": "Less for screw", "is_correct": true },
+{ "option_id": 2, "text": "More for screw", "is_correct": false },
+{ "option_id": 3, "text": "Same", "is_correct": false },
+{ "option_id": 4, "text": "No force", "is_correct": false }
+],
+"answer": "Less for screw"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "Winding ghat?",
+"options": [
+{ "option_id": 1, "text": "Inclined plane wrapped mountain", "is_correct": true },
+{ "option_id": 2, "text": "Lever", "is_correct": false },
+{ "option_id": 3, "text": "Pulley", "is_correct": false },
+{ "option_id": 4, "text": "Wheel axle", "is_correct": false }
+],
+"answer": "Inclined plane wrapped mountain"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Wedge definition?",
+"options": [
+{ "option_id": 1, "text": "Two inclined planes joined sharp tool", "is_correct": true },
+{ "option_id": 2, "text": "One plane", "is_correct": false },
+{ "option_id": 3, "text": "Rod fulcrum", "is_correct": false },
+{ "option_id": 4, "text": "Wheel rod", "is_correct": false }
+],
+"answer": "Two inclined planes joined sharp tool"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "Wedge uses?",
+"options": [
+{ "option_id": 1, "text": "Break separate objects", "is_correct": true },
+{ "option_id": 2, "text": "Lift rotate", "is_correct": false },
+{ "option_id": 3, "text": "Pull down", "is_correct": false },
+{ "option_id": 4, "text": "No use", "is_correct": false }
+],
+"answer": "Break separate objects"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "Wedge examples?",
+"options": [
+{ "option_id": 1, "text": "Axe knife chisel needle nail", "is_correct": true },
+{ "option_id": 2, "text": "Pulley lever", "is_correct": false },
+{ "option_id": 3, "text": "Wheel axle", "is_correct": false },
+{ "option_id": 4, "text": "Screw only", "is_correct": false }
+],
+"answer": "Axe knife chisel needle nail"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "Lever parts?",
+"options": [
+{ "option_id": 1, "text": "Effort load fulcrum", "is_correct": true },
+{ "option_id": 2, "text": "Plane wedge", "is_correct": false },
+{ "option_id": 3, "text": "Wheel axle", "is_correct": false },
+{ "option_id": 4, "text": "Thread groove", "is_correct": false }
+],
+"answer": "Effort load fulcrum"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "Fulcrum definition.",
+"options": [
+{ "option_id": 1, "text": "Support rod rested rotates", "is_correct": true },
+{ "option_id": 2, "text": "Weight lifted", "is_correct": false },
+{ "option_id": 3, "text": "Force applied", "is_correct": false },
+{ "option_id": 4, "text": "Arm length", "is_correct": false }
+],
+"answer": "Support rod rested rotates"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Load in lever?",
+"options": [
+{ "option_id": 1, "text": "Weight force against", "is_correct": true },
+{ "option_id": 2, "text": "Effort force", "is_correct": false },
+{ "option_id": 3, "text": "Fulcrum", "is_correct": false },
+{ "option_id": 4, "text": "Arm", "is_correct": false }
+],
+"answer": "Weight force against"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "Effort in lever?",
+"options": [
+{ "option_id": 1, "text": "Force applied lift load", "is_correct": true },
+{ "option_id": 2, "text": "Support point", "is_correct": false },
+{ "option_id": 3, "text": "Load weight", "is_correct": false },
+{ "option_id": 4, "text": "Rotation", "is_correct": false }
+],
+"answer": "Force applied lift load"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "Lever first order?",
+"options": [
+{ "option_id": 1, "text": "Fulcrum centre load effort ends", "is_correct": true },
+{ "option_id": 2, "text": "Load centre", "is_correct": false },
+{ "option_id": 3, "text": "Effort centre", "is_correct": false },
+{ "option_id": 4, "text": "No centre", "is_correct": false }
+],
+"answer": "Fulcrum centre load effort ends"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "Lever second order?",
+"options": [
+{ "option_id": 1, "text": "Load centre fulcrum effort sides", "is_correct": true },
+{ "option_id": 2, "text": "Fulcrum centre", "is_correct": false },
+{ "option_id": 3, "text": "Effort centre", "is_correct": false },
+{ "option_id": 4, "text": "Load end", "is_correct": false }
+],
+"answer": "Load centre fulcrum effort sides"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Lever third order?",
+"options": [
+{ "option_id": 1, "text": "Effort centre fulcrum load sides", "is_correct": true },
+{ "option_id": 2, "text": "Load centre", "is_correct": false },
+{ "option_id": 3, "text": "Fulcrum centre", "is_correct": false },
+{ "option_id": 4, "text": "No effort", "is_correct": false }
+],
+"answer": "Effort centre fulcrum load sides"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "Pulley device?",
+"options": [
+{ "option_id": 1, "text": "Grooved wheel thread lift weights", "is_correct": true },
+{ "option_id": 2, "text": "Inclined plane", "is_correct": false },
+{ "option_id": 3, "text": "Wedge", "is_correct": false },
+{ "option_id": 4, "text": "Lever rod", "is_correct": false }
+],
+"answer": "Grooved wheel thread lift weights"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "Pulley advantage?",
+"options": [
+{ "option_id": 1, "text": "Down force lift up convenient", "is_correct": true },
+{ "option_id": 2, "text": "Up force down", "is_correct": false },
+{ "option_id": 3, "text": "No direction change", "is_correct": false },
+{ "option_id": 4, "text": "More effort", "is_correct": false }
+],
+"answer": "Down force lift up convenient"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "Wheel axle example?",
+"options": [
+{ "option_id": 1, "text": "Giant wheel axle rotates", "is_correct": true },
+{ "option_id": 2, "text": "Lever fulcrum", "is_correct": false },
+{ "option_id": 3, "text": "Inclined plane", "is_correct": false },
+{ "option_id": 4, "text": "Wedge", "is_correct": false }
+],
+"answer": "Giant wheel axle rotates"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Bicycle pedal wheel?",
+"options": [
+{ "option_id": 1, "text": "Wheel axle", "is_correct": true },
+{ "option_id": 2, "text": "Pulley", "is_correct": false },
+{ "option_id": 3, "text": "Lever", "is_correct": false },
+{ "option_id": 4, "text": "Screw", "is_correct": false }
+],
+"answer": "Wheel axle"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "Machines maintenance why?",
+"options": [
+{ "option_id": 1, "text": "Reduce friction wear tear", "is_correct": true },
+{ "option_id": 2, "text": "Increase friction", "is_correct": false },
+{ "option_id": 3, "text": "Damage", "is_correct": false },
+{ "option_id": 4, "text": "No care", "is_correct": false }
+],
+"answer": "Reduce friction wear tear"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "Maintenance clean oil cover?",
+"options": [
+{ "option_id": 1, "text": "Wipe lubricant dust prevent paint dry", "is_correct": true },
+{ "option_id": 2, "text": "Dirty rust", "is_correct": false },
+{ "option_id": 3, "text": "Weather expose", "is_correct": false },
+{ "option_id": 4, "text": "No paint", "is_correct": false }
+],
+"answer": "Wipe lubricant dust prevent paint dry"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Blunt needle knife why not work?",
+"options": [
+{ "option_id": 1, "text": "Does not penetrate cut", "is_correct": true },
+{ "option_id": 2, "text": "Works better", "is_correct": false },
+{ "option_id": 3, "text": "No effect", "is_correct": false },
+{ "option_id": 4, "text": "Breaks", "is_correct": false }
+],
+"answer": "Does not penetrate cut"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "Archimedes screw used for?",
+"options": [
+{ "option_id": 1, "text": "Lift water ship hold", "is_correct": true },
+{ "option_id": 2, "text": "Cut wood", "is_correct": false },
+{ "option_id": 3, "text": "Lift stone", "is_correct": false },
+{ "option_id": 4, "text": "Rotate wheel", "is_correct": false }
+],
+"answer": "Lift water ship hold"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Crowbar stone farmer?",
+"options": [
+{ "option_id": 1, "text": "Lever", "is_correct": true },
+{ "option_id": 2, "text": "Wedge", "is_correct": false },
+{ "option_id": 3, "text": "Pulley", "is_correct": false },
+{ "option_id": 4, "text": "Screw", "is_correct": false }
+],
+"answer": "Lever"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "Ruler pencil paperweight?",
+"options": [
+{ "option_id": 1, "text": "Lever first order", "is_correct": true },
+{ "option_id": 2, "text": "Second order", "is_correct": false },
+{ "option_id": 3, "text": "Third order", "is_correct": false },
+{ "option_id": 4, "text": "Wedge", "is_correct": false }
+],
+"answer": "Lever first order"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "Opener sauce bottle?",
+"options": [
+{ "option_id": 1, "text": "Lever first order", "is_correct": true },
+{ "option_id": 2, "text": "Pulley", "is_correct": false },
+{ "option_id": 3, "text": "Inclined", "is_correct": false },
+{ "option_id": 4, "text": "Wheel", "is_correct": false }
+],
+"answer": "Lever first order"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "Tongs lift object?",
+"options": [
+{ "option_id": 1, "text": "Second order lever", "is_correct": true },
+{ "option_id": 2, "text": "First order", "is_correct": false },
+{ "option_id": 3, "text": "Third", "is_correct": false },
+{ "option_id": 4, "text": "Wedge", "is_correct": false }
+],
+"answer": "Second order lever"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Effort arm longer less?",
+"options": [
+{ "option_id": 1, "text": "Force required", "is_correct": true },
+{ "option_id": 2, "text": "More force", "is_correct": false },
+{ "option_id": 3, "text": "No change", "is_correct": false },
+{ "option_id": 4, "text": "Breaks", "is_correct": false }
+],
+"answer": "Force required"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Pulley reel pencil thread weight?",
+"options": [
+{ "option_id": 1, "text": "Lifts weight pull down", "is_correct": true },
+{ "option_id": 2, "text": "No lift", "is_correct": false },
+{ "option_id": 3, "text": "Falls", "is_correct": false },
+{ "option_id": 4, "text": "Stays", "is_correct": false }
+],
+"answer": "Lifts weight pull down"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Giant wheel?",
+"options": [
+{ "option_id": 1, "text": "Wheel axle", "is_correct": true },
+{ "option_id": 2, "text": "Lever", "is_correct": false },
+{ "option_id": 3, "text": "Pulley", "is_correct": false },
+{ "option_id": 4, "text": "Screw", "is_correct": false }
+],
+"answer": "Wheel axle"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Machines parts rub friction?",
+"options": [
+{ "option_id": 1, "text": "Soiled dusty more", "is_correct": true },
+{ "option_id": 2, "text": "Less", "is_correct": false },
+{ "option_id": 3, "text": "No friction", "is_correct": false },
+{ "option_id": 4, "text": "Rust no", "is_correct": false }
+],
+"answer": "Soiled dusty more"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "Maintenance oil lubricant?",
+"options": [
+{ "option_id": 1, "text": "Less friction wearing", "is_correct": true },
+{ "option_id": 2, "text": "More friction", "is_correct": false },
+{ "option_id": 3, "text": "Damage", "is_correct": false },
+{ "option_id": 4, "text": "Dust settle", "is_correct": false }
+],
+"answer": "Less friction wearing"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "Machines not maintained?",
+"options": [
+{ "option_id": 1, "text": "Damaged useless", "is_correct": true },
+{ "option_id": 2, "text": "Better", "is_correct": false },
+{ "option_id": 3, "text": "No use needed", "is_correct": false },
+{ "option_id": 4, "text": "Accidents less", "is_correct": false }
+],
+"answer": "Damaged useless"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Handle machines properly?",
+"options": [
+{ "option_id": 1, "text": "No accidents", "is_correct": true },
+{ "option_id": 2, "text": "Accidents", "is_correct": false },
+{ "option_id": 3, "text": "Break", "is_correct": false },
+{ "option_id": 4, "text": "Rust", "is_correct": false }
+],
+"answer": "No accidents"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Factories maintenance?",
+"options": [
+{ "option_id": 1, "text": "Separate department periodic close", "is_correct": true },
+{ "option_id": 2, "text": "No department", "is_correct": false },
+{ "option_id": 3, "text": "Daily break", "is_correct": false },
+{ "option_id": 4, "text": "No close", "is_correct": false }
+],
+"answer": "Separate department periodic close"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "Travellers bags wheels why?",
+"options": [
+{ "option_id": 1, "text": "Reduce effort", "is_correct": true },
+{ "option_id": 2, "text": "More effort", "is_correct": false },
+{ "option_id": 3, "text": "No reason", "is_correct": false },
+{ "option_id": 4, "text": "Decoration", "is_correct": false }
+],
+"answer": "Reduce effort"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Bicycle complex machine?",
+"options": [
+{ "option_id": 1, "text": "Many parts simple machines", "is_correct": true },
+{ "option_id": 2, "text": "Simple one part", "is_correct": false },
+{ "option_id": 3, "text": "No parts", "is_correct": false },
+{ "option_id": 4, "text": "No machine", "is_correct": false }
+],
+"answer": "Many parts simple machines"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "Tin lid remove machine?",
+"options": [
+{ "option_id": 1, "text": "Opener lever", "is_correct": true },
+{ "option_id": 2, "text": "Wedge", "is_correct": false },
+{ "option_id": 3, "text": "Pulley", "is_correct": false },
+{ "option_id": 4, "text": "Screw", "is_correct": false }
+],
+"answer": "Opener lever"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Bricks tall building?",
+"options": [
+{ "option_id": 1, "text": "Crane pulley lever", "is_correct": true },
+{ "option_id": 2, "text": "Knife", "is_correct": false },
+{ "option_id": 3, "text": "Axe", "is_correct": false },
+{ "option_id": 4, "text": "Needle", "is_correct": false }
+],
+"answer": "Crane pulley lever"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "Vegetables cut?",
+"options": [
+{ "option_id": 1, "text": "Knife wedge", "is_correct": true },
+{ "option_id": 2, "text": "Lever", "is_correct": false },
+{ "option_id": 3, "text": "Pulley", "is_correct": false },
+{ "option_id": 4, "text": "Wheel", "is_correct": false }
+],
+"answer": "Knife wedge"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "Water well draw?",
+"options": [
+{ "option_id": 1, "text": "Pulley", "is_correct": true },
+{ "option_id": 2, "text": "Wedge", "is_correct": false },
+{ "option_id": 3, "text": "Inclined plane", "is_correct": false },
+{ "option_id": 4, "text": "Screw", "is_correct": false }
+],
+"answer": "Pulley"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "Papad roast hold?",
+"options": [
+{ "option_id": 1, "text": "Tongs lever second order", "is_correct": true },
+{ "option_id": 2, "text": "Knife", "is_correct": false },
+{ "option_id": 3, "text": "Pulley", "is_correct": false },
+{ "option_id": 4, "text": "Wheel", "is_correct": false }
+],
+"answer": "Tongs lever second order"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Sea-saw Ravi Savita?",
+"options": [
+{ "option_id": 1, "text": "Lever first order", "is_correct": true },
+{ "option_id": 2, "text": "Second", "is_correct": false },
+{ "option_id": 3, "text": "Third", "is_correct": false },
+{ "option_id": 4, "text": "Wedge", "is_correct": false }
+],
+"answer": "Lever first order"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Gardener wheelbarrow?",
+"options": [
+{ "option_id": 1, "text": "Lever second order", "is_correct": true },
+{ "option_id": 2, "text": "First", "is_correct": false },
+{ "option_id": 3, "text": "Pulley", "is_correct": false },
+{ "option_id": 4, "text": "Inclined", "is_correct": false }
+],
+"answer": "Lever second order"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Lemon squeezer?",
+"options": [
+{ "option_id": 1, "text": "Lever second order", "is_correct": true },
+{ "option_id": 2, "text": "First", "is_correct": false },
+{ "option_id": 3, "text": "Third", "is_correct": false },
+{ "option_id": 4, "text": "Wedge", "is_correct": false }
+],
+"answer": "Lever second order"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Ice tongs glass?",
+"options": [
+{ "option_id": 1, "text": "Lever second order", "is_correct": true },
+{ "option_id": 2, "text": "Third", "is_correct": false },
+{ "option_id": 3, "text": "Pulley", "is_correct": false },
+{ "option_id": 4, "text": "Screw", "is_correct": false }
+],
+"answer": "Lever second order"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "Define machines.",
+"answer": "Devices to get more work in less time and effort."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "Simple machines features.",
+"answer": "One or two parts, simple structure, easy handle, less damage."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "Complex machines characteristics.",
+"answer": "Many parts joined, complicated structure, parts simple machines."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "Machine use daily depending.",
+"answer": "Task time efforts."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "Inclined plane.",
+"answer": "Slanting plank lift weight less bear."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Gradual slope inclined.",
+"answer": "Lesser weight longer plane."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Steeper slope.",
+"answer": "Shorter plane greater weight."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "Screw structure.",
+"answer": "Rolled inclined plane iron strip."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "Winding road ghat.",
+"answer": "Inclined plane mountain."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "Wedge.",
+"answer": "Two inclined planes sharp tool."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Wedge purpose.",
+"answer": "Break two pieces separate stuck."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "Lever machine example.",
+"answer": "Crowbar remove stone."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "Load arm.",
+"answer": "Fulcrum to load."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Effort arm.",
+"answer": "Fulcrum to effort."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "Lever first order fulcrum.",
+"answer": "Centre load effort ends."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Lever second order load.",
+"answer": "Centre fulcrum effort sides."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Lever third order effort.",
+"answer": "Centre fulcrum load sides."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Pulley help.",
+"answer": "Down effort up lift convenient."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "Wheel axle rotates.",
+"answer": "Axle electricity wheel."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Maintenance wipe.",
+"answer": "Clean parts."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "Oil lubricant purpose.",
+"answer": "Less friction between rubbing parts."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Machines cover.",
+"answer": "Prevent dust."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Metallic parts prevent.",
+"answer": "Paint external weather."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Machines keep.",
+"answer": "Dry."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "Blunt tip effect.",
+"answer": "Needle no penetrate knife no cut."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Archimedes screw.",
+"answer": "Lift water pipe rod angle."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Learn handle machines.",
+"answer": "No accidents."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Factories maintenance department.",
+"answer": "Separate fixed periods close."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "Classify wedge needle.",
+"answer": "Wedge."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "Staircase slide.",
+"answer": "Inclined plane."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Nutcrackers scissors.",
+"answer": "Lever."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Opener axe.",
+"answer": "Lever wedge."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "Crane knife.",
+"answer": "Pulley wedge."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Lever first order fulcrum load effort.",
+"answer": "Fulcrum centre load effort."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Second order load fulcrum effort.",
+"answer": "Load centre fulcrum effort."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Third order effort fulcrum load.",
+"answer": "Effort centre fulcrum load."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Tin lid machine type.",
+"answer": "Opener lever."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "Bricks building machine.",
+"answer": "Crane."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Vegetables machine type.",
+"answer": "Knife wedge."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Water well machine.",
+"answer": "Pulley."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Papad tongs type.",
+"answer": "Lever second order."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "Simple machines meaning.",
+"answer": "One two parts easy structure."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Machines advantages.",
+"answer": "Reduce efforts more work less time."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Complex machines meaning.",
+"answer": "Many parts processes task."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Lever definition.",
+"answer": "Rod fulcrum effort load."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Orders lever determined.",
+"answer": "Positions effort fulcrum load."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "Bags wheels why.",
+"answer": "Reduce effort."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Machines maintained why.",
+"answer": "Good condition use needed."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Bicycle complex why.",
+"answer": "Many parts."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Sea-saw lever type fulcrum load effort.",
+"answer": "First order fulcrum centre."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Wheelbarrow type.",
+"answer": "Second order load centre."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Lemon squeezer type.",
+"answer": "Second order."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Tongs ice type.",
+"answer": "Second order."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Activity junk machine.",
+"answer": "Old unused material useful machine."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Fountain pen machine.",
+"answer": "Devise machine."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Bicycle repair observe.",
+"answer": "Note information."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Home neighbourhood machines list.",
+"answer": "Types write."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Flagpole wheel.",
+"answer": "Pulley."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Drum truck plank A B Rahi.",
+"answer": "Longer gradual lightest."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Mountain pathway road.",
+"answer": "Road easier longer."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Triangle paper pencil roll.",
+"answer": "Inclined plane screw."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Tasks lever possible.",
+"answer": "Lift heavy remove stuck."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Ruler pencil distances.",
+"answer": "Longer effort arm less force."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Sauce cap opener fulcrum.",
+"answer": "Opener edge cap fulcrum."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Tongs effort position.",
+"answer": "Middle arms."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Pulley list daily.",
+"answer": "Examples day-to-day."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Giant wheel electricity.",
+"answer": "Axle rotates wheel."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Bicycle pedal rotate.",
+"answer": "Wheel axle."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Parts weather rust.",
+"answer": "Erode damage."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Trick machine junk.",
+"answer": "Task efficiently."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Learn before use.",
+"answer": "Handle properly."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Big factories department.",
+"answer": "Maintenance."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Simple machines list.",
+"answer": "Wedge lever inclined pulley wheel axle."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Maintain properly.",
+"answer": "Good working condition."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Devices pictures name help.",
+"answer": "Accomplish tasks easier."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Drum heaviest lightest.",
+"answer": "Rahi heaviest longer lightest."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "Plank A B slope.",
+"answer": "B steeper shorter."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Screw wood force.",
+"answer": "Less than hammer nail."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Vehicles mountain ghat.",
+"answer": "Climb easy."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Sharp tool wedge.",
+"answer": "Two planes."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Lever rotates about.",
+"answer": "Fulcrum."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Paperweight ruler pencil.",
+"answer": "Load arm effort arm fulcrum pencil."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Opener pull upwards.",
+"answer": "Cap pulled rotates fulcrum."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Tongs load effort fulcrum.",
+"answer": "Load end effort middle fulcrum end."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "Effort arm increase distance.",
+"answer": "Less force lift."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Pulley thread loose end.",
+"answer": "Pull down weight up."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Giant wheel rod.",
+"answer": "Axle."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Machines picture lever type.",
+"answer": "Identify each."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Soiled dusty friction.",
+"answer": "More."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Rust erode.",
+"answer": "Weather affected parts."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Wear tear avoid.",
+"answer": "Care machines."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Trick effect machine.",
+"answer": "Task efficient."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "No proper maintain no use.",
+"answer": "When needed."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Accidents prevent.",
+"answer": "Learn handle."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Bicycle repair shop.",
+"answer": "Observe note."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Home machines types.",
+"answer": "List."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Scissors nutcrackers.",
+"answer": "Lever."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "Axe chisel.",
+"answer": "Wedge."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Wheelbarrow gardener.",
+"answer": "Lever second."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Sherbet seller tongs.",
+"answer": "Lever second."
+}
+]
+}

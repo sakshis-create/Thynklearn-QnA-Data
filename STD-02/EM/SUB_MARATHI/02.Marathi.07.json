@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.07",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "चित्रे पाहू, गप्पा मारू"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "चित्रात मुलगी काय खेळत आहे?",
+      "options": [
+        { "option_id": 1, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 2, "text": "बाहुलीशी", "is_correct": true },
+        { "option_id": 3, "text": "पतंग", "is_correct": false },
+        { "option_id": 4, "text": "भोवरा", "is_correct": false }
+      ],
+      "answer": "बाहुलीशी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आकाशात काय उडवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "भोवरा", "is_correct": false },
+        { "option_id": 2, "text": "पतंग", "is_correct": true },
+        { "option_id": 3, "text": "गाडी", "is_correct": false },
+        { "option_id": 4, "text": "रिंग", "is_correct": false }
+      ],
+      "answer": "पतंग"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "क्रिकेट खेळण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "बॅट आणि बॉल", "is_correct": true },
+        { "option_id": 2, "text": "दोरी", "is_correct": false },
+        { "option_id": 3, "text": "विटी-दांडू", "is_correct": false },
+        { "option_id": 4, "text": "बाहुली", "is_correct": false }
+      ],
+      "answer": "बॅट आणि बॉल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "चित्रात फिरणारा खेळ कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "भोवरा", "is_correct": true },
+        { "option_id": 2, "text": "बॅट", "is_correct": false },
+        { "option_id": 3, "text": "पतंग", "is_correct": false },
+        { "option_id": 4, "text": "विमान", "is_correct": false }
+      ],
+      "answer": "भोवरा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर काय चालवता येते?",
+      "options": [
+        { "option_id": 1, "text": "पतंग", "is_correct": false },
+        { "option_id": 2, "text": "खेळण्यातील गाडी", "is_correct": true },
+        { "option_id": 3, "text": "विमान", "is_correct": false },
+        { "option_id": 4, "text": "होडी", "is_correct": false }
+      ],
+      "answer": "खेळण्यातील गाडी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "चित्रात मुलगा हातात काय धरून उडवत आहे?",
+      "options": [
+        { "option_id": 1, "text": "पक्षी", "is_correct": false },
+        { "option_id": 2, "text": "विमान", "is_correct": true },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "फुगा", "is_correct": false }
+      ],
+      "answer": "विमान"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "दोरीच्या साहाय्याने काय खेळता येते?",
+      "options": [
+        { "option_id": 1, "text": "दोरीउड्या", "is_correct": true },
+        { "option_id": 2, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 3, "text": "कॅरम", "is_correct": false },
+        { "option_id": 4, "text": "बुद्धिबळ", "is_correct": false }
+      ],
+      "answer": "दोरीउड्या"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "लाकुडच्या छोट्या काठीने कोणता खेळ खेळतात?",
+      "options": [
+        { "option_id": 1, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 2, "text": "विटी-दांडू", "is_correct": true },
+        { "option_id": 3, "text": "फुटबॉल", "is_correct": false },
+        { "option_id": 4, "text": "कबड्डी", "is_correct": false }
+      ],
+      "answer": "विटी-दांडू"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "एकावर एक रचून खेळायचा खेळ कोणता?",
+      "options": [
+        { "option_id": 1, "text": "रिंग (Ring toss/Stack)", "is_correct": true },
+        { "option_id": 2, "text": "बॉल", "is_correct": false },
+        { "option_id": 3, "text": "बॅट", "is_correct": false },
+        { "option_id": 4, "text": "पतंग", "is_correct": false }
+      ],
+      "answer": "रिंग (Ring toss/Stack)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "चित्रात कोणता चेंडू दिसत आहे?",
+      "options": [
+        { "option_id": 1, "text": "रंगीत चेंडू", "is_correct": true },
+        { "option_id": 2, "text": "काळा चेंडू", "is_correct": false },
+        { "option_id": 3, "text": "लोखंडी चेंडू", "is_correct": false },
+        { "option_id": 4, "text": "मातीचा चेंडू", "is_correct": false }
+      ],
+      "answer": "रंगीत चेंडू"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भोवरा कसा फिरतो?",
+      "options": [
+        { "option_id": 1, "text": "सरळ", "is_correct": false },
+        { "option_id": 2, "text": "गोल गोल", "is_correct": true },
+        { "option_id": 3, "text": "चौकोनी", "is_correct": false },
+        { "option_id": 4, "text": "वाकडा", "is_correct": false }
+      ],
+      "answer": "गोल गोल"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "या पाठात आपण काय पाहिले?",
+      "options": [
+        { "option_id": 1, "text": "प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "फळे", "is_correct": false },
+        { "option_id": 3, "text": "खेळणी आणि खेळ", "is_correct": true },
+        { "option_id": 4, "text": "फुले", "is_correct": false }
+      ],
+      "answer": "खेळणी आणि खेळ"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मुलीला काय खेळायला आवडते?",
+      "options": [
+        { "option_id": 1, "text": "बाहुली", "is_correct": true },
+        { "option_id": 2, "text": "विटी-दांडू", "is_correct": false },
+        { "option_id": 3, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 4, "text": "फुटबॉल", "is_correct": false }
+      ],
+      "answer": "बाहुली"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'Kite' ला मराठीत काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "भोवरा", "is_correct": false },
+        { "option_id": 2, "text": "पतंग", "is_correct": true },
+        { "option_id": 3, "text": "चेंडू", "is_correct": false },
+        { "option_id": 4, "text": "विमान", "is_correct": false }
+      ],
+      "answer": "पतंग"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "विमान कोठे उडते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 2, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 3, "text": "आकाशात", "is_correct": true },
+        { "option_id": 4, "text": "घरात", "is_correct": false }
+      ],
+      "answer": "आकाशात"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "चित्रातील कोणत्याही दोन खेळण्यांची नावे सांगा.",
+      "answer": "बॅट-बॉल आणि बाहुली (किंवा पतंग, भोवरा)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पतंग उडवण्यासाठी काय लागते?",
+      "answer": "पतंग उडवण्यासाठी मांजा आणि दोरी लागते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "भोवरा फिरवण्यासाठी कशाचा वापर करतात?",
+      "answer": "भोवरा फिरवण्यासाठी जाड दोरीचा किंवा सुतळीचा वापर करतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मुलगी जमिनीवर बसून काय खेळत आहे?",
+      "answer": "मुलगी जमिनीवर बसून गाडीशी खेळत आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "तुम्हाला कोणता खेळ खेळायला आवडतो?",
+      "answer": "मला क्रिकेट खेळायला आवडते (येथे मुलांच्या आवडीनुसार उत्तर येईल)."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "'Car' ला मराठीत काय म्हणतात?",
+      "answer": "'Car' ला मराठीत 'गाडी' किंवा 'मोटार' म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "विटी-दांडूच्या खेळात किती काठ्या असतात?",
+      "answer": "विटी-दांडूच्या खेळात एक मोठी काठी (दांडू) आणि एक छोटी काठी (विटी) असते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "बाहुली कशी दिसते?",
+      "answer": "बाहुली छान आणि सुंदर दिसते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "रिंगचा खेळ कसा खेळतात?",
+      "answer": "रिंगचा खेळ एकावर एक गोल कडी ठेवून खेळतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "क्रिकेट खेळताना काय मारतात?",
+      "answer": "क्रिकेट खेळताना बॅटने बॉलला फटका मारतात (शटकार/चौकार)."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तुम्ही पतंग कधी उडवता?",
+      "answer": "आम्ही पतंग संक्रांतीच्या वेळी किंवा सुट्टीत उडवतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "चित्रात मुलगा विमान कसे उडवत आहे?",
+      "answer": "मुलगा हाताने खेळण्यातील विमान हवेत धरून उडवत आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "दोरीउड्या खेळल्याने काय होते?",
+      "answer": "दोरीउड्या खेळल्याने व्यायाम होतो आणि शरीर लवचिक बनते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "या पाठाचे नाव काय आहे?",
+      "answer": "या पाठाचे नाव 'चित्रे पाहू, गप्पा मारू' आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "टायर पळवण्यासाठी मुलगा कशाचा वापर करतो?",
+      "answer": "टायर पळवण्यासाठी मुलगा काठीचा वापर करतो."
+    }
+  ]
+}

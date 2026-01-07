@@ -1,0 +1,1217 @@
+{
+  "voyage": "Ancient India : Cultural",
+  "lessons": [
+    "Language and literature",
+    "Life of the people",
+    "Science",
+    "Centres of Education",
+    "Art and architecture"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which languages were used for literary production in ancient India?",
+      "options": [
+        { "option_id": 1, "text": "Only Sanskrit and Pali", "is_correct": false },
+        { "option_id": 2, "text": "Sanskrit, Ardhamagadhi, Pali and Tamil", "is_correct": true },
+        { "option_id": 3, "text": "Tamil and Prakrit only", "is_correct": false },
+        { "option_id": 4, "text": "Persian and Arabic", "is_correct": false }
+      ],
+      "answer": "Sanskrit, Ardhamagadhi, Pali and Tamil"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the term ‘Sangham’ mean?",
+      "options": [
+        { "option_id": 1, "text": "A religious text", "is_correct": false },
+        { "option_id": 2, "text": "A gathering of learned men", "is_correct": true },
+        { "option_id": 3, "text": "A royal court", "is_correct": false },
+        { "option_id": 4, "text": "A place of worship", "is_correct": false }
+      ],
+      "answer": "A gathering of learned men"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which works are well-known epics of Sangham literature?",
+      "options": [
+        { "option_id": 1, "text": "Ramayana and Mahabharata", "is_correct": false },
+        { "option_id": 2, "text": "Silappadhikaram and Manimekhalai", "is_correct": true },
+        { "option_id": 3, "text": "Raghuvansha and Meghadoot", "is_correct": false },
+        { "option_id": 4, "text": "Panchatantra and Jataka tales", "is_correct": false }
+      ],
+      "answer": "Silappadhikaram and Manimekhalai"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which aspect of history is understood from Sangham literature?",
+      "options": [
+        { "option_id": 1, "text": "Only religious practices", "is_correct": false },
+        { "option_id": 2, "text": "Political and social life of South India", "is_correct": true },
+        { "option_id": 3, "text": "Foreign invasions", "is_correct": false },
+        { "option_id": 4, "text": "Medieval administration", "is_correct": false }
+      ],
+      "answer": "Political and social life of South India"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which text is a part of Jain religious literature?",
+      "options": [
+        { "option_id": 1, "text": "Agamgranthas", "is_correct": true },
+        { "option_id": 2, "text": "Upanishads", "is_correct": false },
+        { "option_id": 3, "text": "Aranyakas", "is_correct": false },
+        { "option_id": 4, "text": "Smritis", "is_correct": false }
+      ],
+      "answer": "Agamgranthas"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In which language is the Tipitaka written?",
+      "options": [
+        { "option_id": 1, "text": "Sanskrit", "is_correct": false },
+        { "option_id": 2, "text": "Pali", "is_correct": true },
+        { "option_id": 3, "text": "Prakrit", "is_correct": false },
+        { "option_id": 4, "text": "Tamil", "is_correct": false }
+      ],
+      "answer": "Pali"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How many parts does the Tipitaka consist of?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": true },
+        { "option_id": 3, "text": "Four", "is_correct": false },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which Pitaka contains the sermons of Gautama Buddha?",
+      "options": [
+        { "option_id": 1, "text": "Vinay Pitaka", "is_correct": false },
+        { "option_id": 2, "text": "Abhidhamma Pitaka", "is_correct": false },
+        { "option_id": 3, "text": "Sutta Pitaka", "is_correct": true },
+        { "option_id": 4, "text": "Therigatha", "is_correct": false }
+      ],
+      "answer": "Sutta Pitaka"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does the Vinay Pitaka describe?",
+      "options": [
+        { "option_id": 1, "text": "Stories of Buddha’s life", "is_correct": false },
+        { "option_id": 2, "text": "Rules of conduct for monks and nuns", "is_correct": true },
+        { "option_id": 3, "text": "Philosophical debates", "is_correct": false },
+        { "option_id": 4, "text": "Narratives of women saints", "is_correct": false }
+      ],
+      "answer": "Rules of conduct for monks and nuns"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which text explains Buddhist doctrine?",
+      "options": [
+        { "option_id": 1, "text": "Sutta Pitaka", "is_correct": false },
+        { "option_id": 2, "text": "Vinay Pitaka", "is_correct": false },
+        { "option_id": 3, "text": "Abhidhamma Pitaka", "is_correct": true },
+        { "option_id": 4, "text": "Therigatha", "is_correct": false }
+      ],
+      "answer": "Abhidhamma Pitaka"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which text contains narratives written by learned women?",
+      "options": [
+        { "option_id": 1, "text": "Attakatha", "is_correct": false },
+        { "option_id": 2, "text": "Therigatha", "is_correct": true },
+        { "option_id": 3, "text": "Jataka tales", "is_correct": false },
+        { "option_id": 4, "text": "Panchatantra", "is_correct": false }
+      ],
+      "answer": "Therigatha"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The Bhagvad Gita is a part of which epic?",
+      "options": [
+        { "option_id": 1, "text": "Ramayana", "is_correct": false },
+        { "option_id": 2, "text": "Mahabharata", "is_correct": true },
+        { "option_id": 3, "text": "Silappadhikaram", "is_correct": false },
+        { "option_id": 4, "text": "Raghuvansha", "is_correct": false }
+      ],
+      "answer": "Mahabharata"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the central message of the Bhagvad Gita?",
+      "options": [
+        { "option_id": 1, "text": "Worship of nature", "is_correct": false },
+        { "option_id": 2, "text": "Perform duty without expecting rewards", "is_correct": true },
+        { "option_id": 3, "text": "Renunciation of society", "is_correct": false },
+        { "option_id": 4, "text": "Political leadership", "is_correct": false }
+      ],
+      "answer": "Perform duty without expecting rewards"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which grammarian wrote Ashtadhyayi?",
+      "options": [
+        { "option_id": 1, "text": "Patanjali", "is_correct": false },
+        { "option_id": 2, "text": "Panini", "is_correct": true },
+        { "option_id": 3, "text": "Bharatmuni", "is_correct": false },
+        { "option_id": 4, "text": "Kalidasa", "is_correct": false }
+      ],
+      "answer": "Panini"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which work explains the principles of Ashtadhyayi?",
+      "options": [
+        { "option_id": 1, "text": "Mahabhashya", "is_correct": true },
+        { "option_id": 2, "text": "Natyashastra", "is_correct": false },
+        { "option_id": 3, "text": "Arthashastra", "is_correct": false },
+        { "option_id": 4, "text": "Bruhatkatha", "is_correct": false }
+      ],
+      "answer": "Mahabhashya"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which text discusses administration, law and defence?",
+      "options": [
+        { "option_id": 1, "text": "Natyashastra", "is_correct": false },
+        { "option_id": 2, "text": "Arthashastra", "is_correct": true },
+        { "option_id": 3, "text": "Ashtadhyayi", "is_correct": false },
+        { "option_id": 4, "text": "Tipitaka", "is_correct": false }
+      ],
+      "answer": "Arthashastra"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who wrote the Arthashastra?",
+      "options": [
+        { "option_id": 1, "text": "Kalidasa", "is_correct": false },
+        { "option_id": 2, "text": "Kautilya", "is_correct": true },
+        { "option_id": 3, "text": "Bhasa", "is_correct": false },
+        { "option_id": 4, "text": "Magha", "is_correct": false }
+      ],
+      "answer": "Kautilya"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which science of medicine is described in ancient India?",
+      "options": [
+        { "option_id": 1, "text": "Allopathy", "is_correct": false },
+        { "option_id": 2, "text": "Ayurveda", "is_correct": true_Correct": true },
+        { "option_id": 3, "text": "Homeopathy", "is_correct": false },
+        { "option_id": 4, "text": "Unani", "is_correct": false }
+      ],
+      "answer": "Ayurveda"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which text gives details of surgery and fractures?",
+      "options": [
+        { "option_id": 1, "text": "Charaka Samhita", "is_correct": false },
+        { "option_id": 2, "text": "Sushruta Samhita", "is_correct": true },
+        { "option_id": 3, "text": "Aryabhatiya", "is_correct": false },
+        { "option_id": 4, "text": "Panchasidhantika", "is_correct": false }
+      ],
+      "answer": "Sushruta Samhita"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who stated that the earth revolves around the sun?",
+      "options": [
+        { "option_id": 1, "text": "Varahmihir", "is_correct": false },
+        { "option_id": 2, "text": "Aryabhata", "is_correct": true },
+        { "option_id": 3, "text": "Brahmagupta", "is_correct": false },
+        { "option_id": 4, "text": "Kanad", "is_correct": false }
+      ],
+      "answer": "Aryabhata"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which ancient centre was famous for Vedic, Jain and Buddhist studies?",
+      "options": [
+        { "option_id": 1, "text": "Ujjain", "is_correct": false },
+        { "option_id": 2, "text": "Varanasi", "is_correct": true },
+        { "option_id": 3, "text": "Mathura", "is_correct": false },
+        { "option_id": 4, "text": "Taxila", "is_correct": false }
+      ],
+      "answer": "Varanasi"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which university was located near present-day Patna?",
+      "options": [
+        { "option_id": 1, "text": "Takshashila", "is_correct": false },
+        { "option_id": 2, "text": "Nalanda", "is_correct": true },
+        { "option_id": 3, "text": "Valabhi", "is_correct": false },
+        { "option_id": 4, "text": "Vikramshila", "is_correct": false }
+      ],
+      "answer": "Nalanda"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who made generous donations to Nalanda University?",
+      "options": [
+        { "option_id": 1, "text": "Ashoka", "is_correct": false },
+        { "option_id": 2, "text": "Harshavardhan", "is_correct": true },
+        { "option_id": 3, "text": "Chandragupta Maurya", "is_correct": false },
+        { "option_id": 4, "text": "Samudragupta", "is_correct": false }
+      ],
+      "answer": "Harshavardhan"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which university required an entrance examination?",
+      "options": [
+        { "option_id": 1, "text": "Takshashila", "is_correct": false },
+        { "option_id": 2, "text": "Nalanda", "is_correct": true },
+        { "option_id": 3, "text": "Valabhi", "is_correct": false },
+        { "option_id": 4, "text": "Kanchi", "is_correct": false }
+      ],
+      "answer": "Nalanda"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which centre was established by King Dharmapala?",
+      "options": [
+        { "option_id": 1, "text": "Takshashila", "is_correct": false },
+        { "option_id": 2, "text": "Vikramshila", "is_correct": true },
+        { "option_id": 3, "text": "Nalanda", "is_correct": false },
+        { "option_id": 4, "text": "Valabhi", "is_correct": false }
+      ],
+      "answer": "Vikramshila"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who wrote Vaisheshik Darshan?",
+      "options": [
+        { "option_id": 1, "text": "Aryabhata", "is_correct": false },
+        { "option_id": 2, "text": "Kanad", "is_correct": true },
+        { "option_id": 3, "text": "Charaka", "is_correct": false },
+        { "option_id": 4, "text": "Sushruta", "is_correct": false }
+      ],
+      "answer": "Kanad"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "According to Kanad, the universe is made up of:",
+      "options": [
+        { "option_id": 1, "text": "Elements", "is_correct": false },
+        { "option_id": 2, "text": "Anu and paramanu", "is_correct": true },
+        { "option_id": 3, "text": "Energy", "is_correct": false },
+        { "option_id": 4, "text": "Five senses", "is_correct": false }
+      ],
+      "answer": "Anu and paramanu"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which trade goods of India were in demand abroad?",
+      "options": [
+        { "option_id": 1, "text": "Iron tools only", "is_correct": false },
+        { "option_id": 2, "text": "Textiles, ivory, spices and pottery", "is_correct": true },
+        { "option_id": 3, "text": "Gold coins", "is_correct": false },
+        { "option_id": 4, "text": "Weapons", "is_correct": false }
+      ],
+      "answer": "Textiles, ivory, spices and pottery"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What were organizations of traders and artisans called?",
+      "options": [
+        { "option_id": 1, "text": "Guilds", "is_correct": false },
+        { "option_id": 2, "text": "Shrenis", "is_correct": true },
+        { "option_id": 3, "text": "Sabhas", "is_correct": false },
+        { "option_id": 4, "text": "Sanghas", "is_correct": false }
+      ],
+      "answer": "Shrenis"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which crops were commonly grown in ancient India?",
+      "options": [
+        { "option_id": 1, "text": "Rice, wheat, barley and lentil", "is_correct": true },
+        { "option_id": 2, "text": "Maize and potato", "is_correct": false },
+        { "option_id": 3, "text": "Sugarcane only", "is_correct": false },
+        { "option_id": 4, "text": "Tea and coffee", "is_correct": false }
+      ],
+      "answer": "Rice, wheat, barley and lentil"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "When was the concept of stitched clothes introduced in India?",
+      "options": [
+        { "option_id": 1, "text": "Maurya period", "is_correct": false },
+        { "option_id": 2, "text": "Gupta period", "is_correct": false },
+        { "option_id": 3, "text": "Kushana period", "is_correct": true },
+        { "option_id": 4, "text": "Vedic period", "is_correct": false }
+      ],
+      "answer": "Kushana period"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which art form reached its peak during Maurya and Gupta periods?",
+      "options": [
+        { "option_id": 1, "text": "Wood carving", "is_correct": false },
+        { "option_id": 2, "text": "Stone sculpture", "is_correct": true },
+        { "option_id": 3, "text": "Painting on cloth", "is_correct": false },
+        { "option_id": 4, "text": "Metal casting", "is_correct": false }
+      ],
+      "answer": "Stone sculpture"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which monument is an example of Mauryan sculpture?",
+      "options": [
+        { "option_id": 1, "text": "Iron pillar at Mehrauli", "is_correct": false },
+        { "option_id": 2, "text": "Ashoka’s stone pillars", "is_correct": true },
+        { "option_id": 3, "text": "Ellora caves", "is_correct": false },
+        { "option_id": 4, "text": "Mahabalipuram temples", "is_correct": false }
+      ],
+      "answer": "Ashoka’s stone pillars"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which period saw the development of image-making?",
+      "options": [
+        { "option_id": 1, "text": "Maurya", "is_correct": false },
+        { "option_id": 2, "text": "Gupta", "is_correct": true },
+        { "option_id": 3, "text": "Vedic", "is_correct": false },
+        { "option_id": 4, "text": "Kushana", "is_correct": false }
+      ],
+      "answer": "Gupta"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Temple architecture flourished under which dynasties?",
+      "options": [
+        { "option_id": 1, "text": "Maurya and Gupta", "is_correct": false },
+        { "option_id": 2, "text": "Chalukya and Pallava", "is_correct": true },
+        { "option_id": 3, "text": "Kushana and Maurya", "is_correct": false },
+        { "option_id": 4, "text": "Vedic and Maurya", "is_correct": false }
+      ],
+      "answer": "Chalukya and Pallava"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which site is famous for Pallava architecture?",
+      "options": [
+        { "option_id": 1, "text": "Ajanta", "is_correct": false },
+        { "option_id": 2, "text": "Mahabalipuram", "is_correct": true },
+        { "option_id": 3, "text": "Sanchi", "is_correct": false },
+        { "option_id": 4, "text": "Udayagiri", "is_correct": false }
+      ],
+      "answer": "Mahabalipuram"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The bronze images of deities developed during which period?",
+      "options": [
+        { "option_id": 1, "text": "Maurya", "is_correct": false },
+        { "option_id": 2, "text": "Pallava", "is_correct": true },
+        { "option_id": 3, "text": "Gupta", "is_correct": false },
+        { "option_id": 4, "text": "Vedic", "is_correct": false }
+      ],
+      "answer": "Pallava"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which structure shows ancient Indian metallurgical skill?",
+      "options": [
+        { "option_id": 1, "text": "Stupa at Sanchi", "is_correct": false },
+        { "option_id": 2, "text": "Iron pillar at Mehrauli", "is_correct": true },
+        { "option_id": 3, "text": "Ajanta caves", "is_correct": false },
+        { "option_id": 4, "text": "Ellora caves", "is_correct": false }
+      ],
+      "answer": "Iron pillar at Mehrauli"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which centre of education emerged under the Pallavas?",
+      "options": [
+        { "option_id": 1, "text": "Valabhi", "is_correct": false },
+        { "option_id": 2, "text": "Kanchi", "is_correct": true },
+        { "option_id": 3, "text": "Nalanda", "is_correct": false },
+        { "option_id": 4, "text": "Takshashila", "is_correct": false }
+      ],
+      "answer": "Kanchi"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which university was located on an ancient trade route?",
+      "options": [
+        { "option_id": 1, "text": "Nalanda", "is_correct": false },
+        { "option_id": 2, "text": "Takshashila", "is_correct": true },
+        { "option_id": 3, "text": "Vikramshila", "is_correct": false },
+        { "option_id": 4, "text": "Valabhi", "is_correct": false }
+      ],
+      "answer": "Takshashila"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which famous physician studied at Takshashila?",
+      "options": [
+        { "option_id": 1, "text": "Sushruta", "is_correct": false },
+        { "option_id": 2, "text": "Jeevaka", "is_correct": true },
+        { "option_id": 3, "text": "Charaka", "is_correct": false },
+        { "option_id": 4, "text": "Vagbhata", "is_correct": false }
+      ],
+      "answer": "Jeevaka"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which Chinese traveller visited Takshashila?",
+      "options": [
+        { "option_id": 1, "text": "Yuan Chwang", "is_correct": false },
+        { "option_id": 2, "text": "Fa Hien", "is_correct": true },
+        { "option_id": 3, "text": "Itsing", "is_correct": false },
+        { "option_id": 4, "text": "Megasthenes", "is_correct": false }
+      ],
+      "answer": "Fa Hien"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which centre was important for Jain and Buddhist philosophy in Gujarat?",
+      "options": [
+        { "option_id": 1, "text": "Valabhi", "is_correct": true },
+        { "option_id": 2, "text": "Kanchi", "is_correct": false },
+        { "option_id": 3, "text": "Varanasi", "is_correct": false },
+        { "option_id": 4, "text": "Nalanda", "is_correct": false }
+      ],
+      "answer": "Valabhi"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which science text discusses chemicals and metals?",
+      "options": [
+        { "option_id": 1, "text": "Aryabhatiya", "is_correct": false },
+        { "option_id": 2, "text": "Rasaratnakara", "is_correct": true },
+        { "option_id": 3, "text": "Charaka Samhita", "is_correct": false },
+        { "option_id": 4, "text": "Sushruta Samhita", "is_correct": false }
+      ],
+      "answer": "Rasaratnakara"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which work discusses astronomy of multiple civilizations?",
+      "options": [
+        { "option_id": 1, "text": "Aryabhatiya", "is_correct": false },
+        { "option_id": 2, "text": "Panchasidhantika", "is_correct": true },
+        { "option_id": 3, "text": "Mahabhashya", "is_correct": false },
+        { "option_id": 4, "text": "Vaisheshik Darshan", "is_correct": false }
+      ],
+      "answer": "Panchasidhantika"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which text was translated into Arabic as ‘Kitaab-e-susud’?",
+      "options": [
+        { "option_id": 1, "text": "Charaka Samhita", "is_correct": false },
+        { "option_id": 2, "text": "Sushruta Samhita", "is_correct": true },
+        { "option_id": 3, "text": "Ashtang Sangraha", "is_correct": false },
+        { "option_id": 4, "text": "Aryabhatiya", "is_correct": false }
+      ],
+      "answer": "Sushruta Samhita"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which book discusses theatre and performing arts?",
+      "options": [
+        { "option_id": 1, "text": "Arthashastra", "is_correct": false },
+        { "option_id": 2, "text": "Natyashastra", "is_correct": true },
+        { "option_id": 3, "text": "Panchatantra", "is_correct": false },
+        { "option_id": 4, "text": "Tipitaka", "is_correct": false }
+      ],
+      "answer": "Natyashastra"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which narrative text is attributed to Vishnusharma?",
+      "options": [
+        { "option_id": 1, "text": "Bruhatkatha", "is_correct": false },
+        { "option_id": 2, "text": "Panchatantra", "is_correct": true },
+        { "option_id": 3, "text": "Jataka tales", "is_correct": false },
+        { "option_id": 4, "text": "Therigatha", "is_correct": false }
+      ],
+      "answer": "Panchatantra"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which period is described as culturally prosperous and advanced?",
+      "options": [
+        { "option_id": 1, "text": "Medieval India", "is_correct": false },
+        { "option_id": 2, "text": "Ancient India", "is_correct": true },
+        { "option_id": 3, "text": "Colonial India", "is_correct": false },
+        { "option_id": 4, "text": "Modern India", "is_correct": false }
+      ],
+      "answer": "Ancient India"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the main theme of this chapter?",
+      "options": [
+        { "option_id": 1, "text": "Political history", "is_correct": false },
+        { "option_id": 2, "text": "Cultural development of ancient India", "is_correct": true },
+        { "option_id": 3, "text": "Foreign invasions", "is_correct": false },
+        { "option_id": 4, "text": "Administrative systems", "is_correct": false }
+      ],
+      "answer": "Cultural development of ancient India"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why was Sanskrit an important language in ancient India?",
+      "answer": "It was widely used for religious, philosophical, and literary works."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What role did Prakrit languages play in ancient literature?",
+      "answer": "They made literature accessible to common people."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is Tamil literature significant in ancient Indian culture?",
+      "answer": "It provides detailed information about early South Indian society."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What was the purpose of Sangham assemblies?",
+      "answer": "They promoted literary discussions and composition of Tamil works."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which aspects of life are reflected in Sangham literature?",
+      "answer": "Political, social, economic, and cultural life."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why are Silappadhikaram and Manimekhalai important?",
+      "answer": "They are major epics of Tamil literature."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What are Agamgranthas?",
+      "answer": "They are sacred texts of Jainism."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is the Tipitaka important in Buddhism?",
+      "answer": "It contains the teachings and discipline of Buddhism."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name the three parts of the Tipitaka.",
+      "answer": "Vinay Pitaka, Sutta Pitaka, and Abhidhamma Pitaka."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the subject of the Sutta Pitaka?",
+      "answer": "It contains sermons of Gautama Buddha."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why is the Vinay Pitaka significant?",
+      "answer": "It lays down rules for monks and nuns."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does the Abhidhamma Pitaka explain?",
+      "answer": "It explains Buddhist philosophy and doctrine."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is the Therigatha unique?",
+      "answer": "It contains verses composed by learned women."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Mahabharata?",
+      "answer": "It presents moral, social, and philosophical teachings."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What message does the Bhagvad Gita convey?",
+      "answer": "Performing duty without attachment to results."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why is Panini remembered in Indian history?",
+      "answer": "He systematized Sanskrit grammar in Ashtadhyayi."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is Mahabhashya?",
+      "answer": "A commentary explaining Panini’s grammar."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why is Arthashastra an important text?",
+      "answer": "It discusses administration, law, and statecraft."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What contribution did Kautilya make?",
+      "answer": "He authored the Arthashastra."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is Ayurveda?",
+      "answer": "The ancient Indian system of medicine."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is described in the Charaka Samhita?",
+      "answer": "Medical treatments and internal medicine."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why is the Sushruta Samhita important?",
+      "answer": "It explains surgery and surgical instruments."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What scientific idea was proposed by Aryabhata?",
+      "answer": "The earth revolves around the sun."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What did Kanad explain in Vaisheshik Darshan?",
+      "answer": "The atomic theory of matter."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What are Anu and Paramanu?",
+      "answer": "Smallest particles of matter."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Which crops were grown in ancient India?",
+      "answer": "Rice, wheat, barley, and lentil."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What were Shrenis?",
+      "answer": "Organizations of traders and artisans."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why was overseas trade important?",
+      "answer": "It increased wealth and cultural contact."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which goods were exported from India?",
+      "answer": "Textiles, ivory, spices, and pottery."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "When were stitched clothes introduced?",
+      "answer": "During the Kushana period."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which art flourished during Maurya and Gupta periods?",
+      "answer": "Stone sculpture."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What do Ashoka’s pillars represent?",
+      "answer": "Excellence in Mauryan sculpture."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is the Gupta period known for image-making?",
+      "answer": "It developed refined sculpture of deities."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which dynasties promoted temple architecture?",
+      "answer": "Chalukya and Pallava dynasties."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is Mahabalipuram famous?",
+      "answer": "For Pallava rock-cut architecture."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is special about Pallava bronze images?",
+      "answer": "They show artistic excellence in metal casting."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What does the Iron Pillar indicate?",
+      "answer": "Advanced metallurgical knowledge."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why was Varanasi an important centre?",
+      "answer": "It was a centre of religious and educational learning."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Where was Nalanda University located?",
+      "answer": "Near present-day Patna."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why was Nalanda famous?",
+      "answer": "For advanced education and strict admission."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who supported Nalanda University?",
+      "answer": "King Harshavardhan."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is Takshashila important?",
+      "answer": "It was an early international centre of education."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which subjects were taught at Takshashila?",
+      "answer": "Medicine, science, and philosophy."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is Valabhi known for?",
+      "answer": "Jain and Buddhist education."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Who established Vikramshila University?",
+      "answer": "King Dharmapala."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which text discusses chemicals and metals?",
+      "answer": "Rasaratnakara."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What does Panchasidhantika explain?",
+      "answer": "Astronomy of different civilizations."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why is Natyashastra important?",
+      "answer": "It explains drama, dance, and theatre."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the importance of Panchatantra?",
+      "answer": "It teaches moral values through stories."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is ancient Indian culture considered rich?",
+      "answer": "Due to achievements in literature, science, education, and art."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why did multiple languages flourish simultaneously in ancient India?",
+      "answer": "Because different regions and communities used languages suited to religious, literary, and daily needs."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How did Prakrit languages influence the spread of religious ideas?",
+      "answer": "They made teachings understandable to common people."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is Sangham literature considered a reliable historical source?",
+      "answer": "It reflects contemporary political, social, and economic conditions."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How did Sangham assemblies contribute to cultural development?",
+      "answer": "They encouraged literary creation and critical discussion."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why did Jain and Buddhist literature use non-Sanskrit languages?",
+      "answer": "To reach a wider audience beyond the elite."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How did the Tipitaka help preserve Buddhist teachings?",
+      "answer": "By systematically recording doctrine, discipline, and philosophy."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why is the Therigatha important for understanding women’s role in religion?",
+      "answer": "It records spiritual experiences of learned women."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How does the Bhagvad Gita combine philosophy and practical life?",
+      "answer": "It teaches duty while remaining detached from results."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why is Panini’s grammar considered scientific?",
+      "answer": "Because it follows precise rules and structure."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How did Arthashastra reflect practical governance?",
+      "answer": "It detailed administration, economy, and defense."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why was Ayurveda important for ancient society?",
+      "answer": "It provided systematic healthcare and medical knowledge."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How did surgical knowledge advance in ancient India?",
+      "answer": "Through detailed techniques described in Sushruta Samhita."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why is Aryabhata regarded as a pioneer of astronomy?",
+      "answer": "He proposed scientific explanations of celestial movements."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How did Kanad’s ideas contribute to scientific thinking?",
+      "answer": "They introduced the concept of atomic theory."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why was agriculture the backbone of ancient Indian economy?",
+      "answer": "It sustained population and supported trade."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How did Shrenis strengthen economic life?",
+      "answer": "They organized production and trade efficiently."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why was overseas trade culturally significant?",
+      "answer": "It promoted exchange of ideas and goods."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How did introduction of stitched clothing reflect social change?",
+      "answer": "It showed evolving lifestyle and foreign influence."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why did stone sculpture become prominent?",
+      "answer": "Due to durability and royal patronage."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How do Ashokan pillars reflect state ideology?",
+      "answer": "They symbolized moral governance and authority."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why is the Gupta period important for image-making?",
+      "answer": "It achieved refined artistic balance and form."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How did temple architecture evolve after the Gupta period?",
+      "answer": "It developed structural and stylistic diversity."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why were Chalukya and Pallava temples architecturally significant?",
+      "answer": "They introduced new structural designs."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How did Mahabalipuram become a cultural landmark?",
+      "answer": "Through Pallava patronage of rock-cut art."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why was bronze casting an artistic advancement?",
+      "answer": "It allowed realistic and durable sculptures."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "How does the Iron Pillar demonstrate scientific skill?",
+      "answer": "It shows advanced rust-resistant metallurgy."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why were educational centres located along trade routes?",
+      "answer": "To attract scholars and facilitate exchange of ideas."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How did Nalanda maintain high academic standards?",
+      "answer": "Through strict admission and advanced curriculum."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why was royal patronage crucial for education?",
+      "answer": "It ensured resources and protection."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How did Takshashila gain international recognition?",
+      "answer": "By attracting students from different regions."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why did different centres specialize in different disciplines?",
+      "answer": "To meet regional and intellectual needs."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How did Valabhi contribute to philosophical learning?",
+      "answer": "It promoted Jain and Buddhist studies."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why was Vikramshila established alongside Nalanda?",
+      "answer": "To strengthen higher Buddhist education."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How did scientific texts reach foreign lands?",
+      "answer": "Through translations and trade contacts."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is Rasaratnakara important for science history?",
+      "answer": "It documents early chemical knowledge."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How did astronomy influence calendar systems?",
+      "answer": "By determining seasons and festivals."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why was Natyashastra significant beyond entertainment?",
+      "answer": "It systematized performing arts."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How did Panchatantra contribute to moral education?",
+      "answer": "By teaching values through stories."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is ancient Indian culture described as holistic?",
+      "answer": "It integrated art, science, and spirituality."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "How did cultural achievements strengthen political power?",
+      "answer": "They enhanced prestige and legitimacy."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why was religion closely linked with education?",
+      "answer": "Learning was often centered on religious institutions."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "How did cultural exchange shape ancient Indian society?",
+      "answer": "By absorbing and adapting external influences."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is art considered a historical source?",
+      "answer": "It reflects beliefs, technology, and society."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How did craftsmanship support economic growth?",
+      "answer": "By producing trade goods and employment."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why did ancient India emphasize moral values?",
+      "answer": "To ensure social harmony and duty."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How does this chapter show continuity of culture?",
+      "answer": "Through sustained traditions across centuries."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why were texts preserved carefully?",
+      "answer": "To transmit knowledge across generations."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How did ancient education influence later civilizations?",
+      "answer": "Through spread of knowledge and methods."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is the cultural study of ancient India essential?",
+      "answer": "It explains foundations of Indian civilization."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "How does this chapter integrate culture with history?",
+      "answer": "By linking social life, knowledge, and art with the past."
+    }
+  ]
+}
+
+  
+

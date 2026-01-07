@@ -1,0 +1,521 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.09",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Social Health"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is defined as the ability of a person to establish relationships with other persons?",
+      "options": [
+        { "option_id": 1, "text": "Physical Health", "is_correct": false },
+        { "option_id": 2, "text": "Mental Health", "is_correct": false },
+        { "option_id": 3, "text": "Social Health", "is_correct": true },
+        { "option_id": 4, "text": "Economic Health", "is_correct": false }
+      ],
+      "answer": "Social Health"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following factors does NOT typically disturb social health?",
+      "options": [
+        { "option_id": 1, "text": "Mental Stress", "is_correct": false },
+        { "option_id": 2, "text": "Addiction", "is_correct": false },
+        { "option_id": 3, "text": "Education and Gardens", "is_correct": true },
+        { "option_id": 4, "text": "Incurable Diseases", "is_correct": false }
+      ],
+      "answer": "Education and Gardens"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Carcinogenic effect of tobacco containing substances is seen on __________.",
+      "options": [
+        { "option_id": 1, "text": "Heart and Brain", "is_correct": false },
+        { "option_id": 2, "text": "Hands and Legs", "is_correct": false },
+        { "option_id": 3, "text": "Mouth and Lungs", "is_correct": true },
+        { "option_id": 4, "text": "Liver and Kidney", "is_correct": false }
+      ],
+      "answer": "Mouth and Lungs"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Liquor is produced from alcohol obtained through __________ of substances.",
+      "options": [
+        { "option_id": 1, "text": "Distillation", "is_correct": false },
+        { "option_id": 2, "text": "Fermentation", "is_correct": true },
+        { "option_id": 3, "text": "Evaporation", "is_correct": false },
+        { "option_id": 4, "text": "Condensation", "is_correct": false }
+      ],
+      "answer": "Fermentation"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which organ's efficiency is mainly affected by alcoholism?",
+      "options": [
+        { "option_id": 1, "text": "Lungs", "is_correct": false },
+        { "option_id": 2, "text": "Liver and Nervous System", "is_correct": true },
+        { "option_id": 3, "text": "Stomach", "is_correct": false },
+        { "option_id": 4, "text": "Skin", "is_correct": false }
+      ],
+      "answer": "Liver and Nervous System"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which physical problem is NOT typically associated with excessive cell phone use?",
+      "options": [
+        { "option_id": 1, "text": "Insomnia", "is_correct": false },
+        { "option_id": 2, "text": "Tinnitus", "is_correct": false },
+        { "option_id": 3, "text": "Joint Pains", "is_correct": false },
+        { "option_id": 4, "text": "Malaria", "is_correct": true }
+      ],
+      "answer": "Malaria"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Cell phone radiations penetrate the bones of __________ more effectively.",
+      "options": [
+        { "option_id": 1, "text": "Adults", "is_correct": false },
+        { "option_id": 2, "text": "Children", "is_correct": true },
+        { "option_id": 3, "text": "Elderly", "is_correct": false },
+        { "option_id": 4, "text": "Animals", "is_correct": false }
+      ],
+      "answer": "Children"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Persons continuously using computers and internet may develop __________.",
+      "options": [
+        { "option_id": 1, "text": "Autism and Selfishness", "is_correct": true },
+        { "option_id": 2, "text": "Generosity", "is_correct": false },
+        { "option_id": 3, "text": "Athletic ability", "is_correct": false },
+        { "option_id": 4, "text": "Social skills", "is_correct": false }
+      ],
+      "answer": "Autism and Selfishness"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The act of a person indulging in selfie without being aware of the surrounding risks is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Photography", "is_correct": false },
+        { "option_id": 2, "text": "Selfiecide", "is_correct": true },
+        { "option_id": 3, "text": "Suicide", "is_correct": false },
+        { "option_id": 4, "text": "Homicide", "is_correct": false }
+      ],
+      "answer": "Selfiecide"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Obtaining confidential information from the internet with the help of computer programs is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Surfing", "is_correct": false },
+        { "option_id": 2, "text": "Hacking", "is_correct": true },
+        { "option_id": 3, "text": "Chatting", "is_correct": false },
+        { "option_id": 4, "text": "Browsing", "is_correct": false }
+      ],
+      "answer": "Hacking"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Illegal sale of written literature, software, or music obtained from the internet is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Piracy", "is_correct": true },
+        { "option_id": 2, "text": "Privacy", "is_correct": false },
+        { "option_id": 3, "text": "Policy", "is_correct": false },
+        { "option_id": 4, "text": "Phishing", "is_correct": false }
+      ],
+      "answer": "Piracy"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which Act has been enacted since 2000 to control cyber crimes?",
+      "options": [
+        { "option_id": 1, "text": "Consumer Protection Act", "is_correct": false },
+        { "option_id": 2, "text": "IT Act-2000", "is_correct": true },
+        { "option_id": 3, "text": "Right to Information Act", "is_correct": false },
+        { "option_id": 4, "text": "Wildlife Protection Act", "is_correct": false }
+      ],
+      "answer": "IT Act-2000"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "People relieve their mental stress by laughing loudly in __________.",
+      "options": [
+        { "option_id": 1, "text": "Hospitals", "is_correct": false },
+        { "option_id": 2, "text": "Schools", "is_correct": false },
+        { "option_id": 3, "text": "Laughter Clubs", "is_correct": true },
+        { "option_id": 4, "text": "Libraries", "is_correct": false }
+      ],
+      "answer": "Laughter Clubs"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Unified Movement against Tobacco has been started by 45 organizations including __________.",
+      "options": [
+        { "option_id": 1, "text": "WHO and Tata Trust", "is_correct": true },
+        { "option_id": 2, "text": "UNICEF and Reliance", "is_correct": false },
+        { "option_id": 3, "text": "UNESCO and Birla", "is_correct": false },
+        { "option_id": 4, "text": "NATO and Adani", "is_correct": false }
+      ],
+      "answer": "WHO and Tata Trust"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which foundation runs programs to empower children in slum areas of Mumbai?",
+      "options": [
+        { "option_id": 1, "text": "Save the Children", "is_correct": false },
+        { "option_id": 2, "text": "Salaam Mumbai Foundation", "is_correct": true },
+        { "option_id": 3, "text": "Mumbai Smiles", "is_correct": false },
+        { "option_id": 4, "text": "Cry Foundation", "is_correct": false }
+      ],
+      "answer": "Salaam Mumbai Foundation"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the punishment for cyber crime under the IT Act-2000?",
+      "options": [
+        { "option_id": 1, "text": "Imprisonment for 3 years or fine up to 5 lakh", "is_correct": true },
+        { "option_id": 2, "text": "Imprisonment for 1 year", "is_correct": false },
+        { "option_id": 3, "text": "Fine of 1000 rupees", "is_correct": false },
+        { "option_id": 4, "text": "Community service", "is_correct": false }
+      ],
+      "answer": "Imprisonment for 3 years or fine up to 5 lakh"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which state was the first to start a separate cyber crime unit?",
+      "options": [
+        { "option_id": 1, "text": "Gujarat", "is_correct": false },
+        { "option_id": 2, "text": "Karnataka", "is_correct": false },
+        { "option_id": 3, "text": "Maharashtra", "is_correct": true },
+        { "option_id": 4, "text": "Delhi", "is_correct": false }
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which activity helps to improve concentration in studies?",
+      "options": [
+        { "option_id": 1, "text": "Playing video games", "is_correct": false },
+        { "option_id": 2, "text": "Meditation", "is_correct": true },
+        { "option_id": 3, "text": "Eating junk food", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping late", "is_correct": false }
+      ],
+      "answer": "Meditation"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Children in early age try tobacco or alcohol usually due to __________.",
+      "options": [
+        { "option_id": 1, "text": "Health benefits", "is_correct": false },
+        { "option_id": 2, "text": "Peer-group pressure", "is_correct": true },
+        { "option_id": 3, "text": "Parental advice", "is_correct": false },
+        { "option_id": 4, "text": "Teacher's instruction", "is_correct": false }
+      ],
+      "answer": "Peer-group pressure"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why do we see advertisements avoiding discrimination between boys and girls?",
+      "options": [
+        { "option_id": 1, "text": "To sell products", "is_correct": false },
+        { "option_id": 2, "text": "To decrease mental stress caused by gender inequality", "is_correct": true },
+        { "option_id": 3, "text": "To increase population", "is_correct": false },
+        { "option_id": 4, "text": "To promote sports", "is_correct": false }
+      ],
+      "answer": "To decrease mental stress caused by gender inequality"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of these is a factor affecting social health?",
+      "options": [
+        { "option_id": 1, "text": "Financial Status", "is_correct": false },
+        { "option_id": 2, "text": "Residential Area", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "All of the above", "is_correct": true }
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is the effect of games with virtual war and accidents on children?",
+      "options": [
+        { "option_id": 1, "text": "They become peaceful", "is_correct": false },
+        { "option_id": 2, "text": "Their mentality becomes negative", "is_correct": true },
+        { "option_id": 3, "text": "They learn driving", "is_correct": false },
+        { "option_id": 4, "text": "They become healthy", "is_correct": false }
+      ],
+      "answer": "Their mentality becomes negative"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Why should one not disclose their PIN number?",
+      "options": [
+        { "option_id": 1, "text": "To avoid bank transactions", "is_correct": false },
+        { "option_id": 2, "text": "To prevent cyber crimes/fraud", "is_correct": true },
+        { "option_id": 3, "text": "To save paper", "is_correct": false },
+        { "option_id": 4, "text": "To forget it easily", "is_correct": false }
+      ],
+      "answer": "To prevent cyber crimes/fraud"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the closest friend of human beings mentioned in stress management?",
+      "options": [
+        { "option_id": 1, "text": "Mobile phone", "is_correct": false },
+        { "option_id": 2, "text": "Television", "is_correct": false },
+        { "option_id": 3, "text": "Nature", "is_correct": true },
+        { "option_id": 4, "text": "Car", "is_correct": false }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Salaam Mumbai Foundation has made some districts in Maharashtra __________.",
+      "options": [
+        { "option_id": 1, "text": "Alcohol-free", "is_correct": false },
+        { "option_id": 2, "text": "Tobacco-free", "is_correct": true },
+        { "option_id": 3, "text": "Plastic-free", "is_correct": false },
+        { "option_id": 4, "text": "Stress-free", "is_correct": false }
+      ],
+      "answer": "Tobacco-free"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Define Social Health.",
+      "answer": "Social health is the ability of a person to establish relationships with other persons and change one's behavior according to changing social conditions."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Name two factors that can disturb social health.",
+      "answer": "Mental stress and Addiction are two major factors that can disturb social health."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Why are children facing loneliness and mental stress?",
+      "answer": "Children face loneliness and stress due to nuclear families and parents staying outdoors for jobs."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What are the effects of tobacco-containing substances?",
+      "answer": "Tobacco-containing substances have carcinogenic effects, mainly causing cancer of the mouth and lungs."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What happens if the fermentation process for liquor is performed wrongly?",
+      "answer": "If performed wrongly, poisonous liquor is produced which can prove fatal for many people at a time."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "How does alcoholism affect adolescents?",
+      "answer": "Alcoholism hinders brain development in adolescents, slowing down the ability of memorization and learning."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "List three physical problems caused by cell phone radiation.",
+      "answer": "Tiredness, headache, and insomnia are physical problems caused by cell phone radiation."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is 'Selfiecide'?",
+      "answer": "Selfiecide refers to death occurring while taking a selfie due to lack of awareness of the surrounding risks."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is Cyber Crime?",
+      "answer": "Cyber crime involves illegal activities like hacking, piracy, and fraud committed using computers and the internet."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Define Hacking of information.",
+      "answer": "Hacking is obtaining confidential information about government, institutes, or companies from the internet using computer programs."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What is Piracy?",
+      "answer": "Misuse or illegal sale of written literature, software, photos, or videos of others obtained from the internet is called piracy."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is the role of the 'Cyber crime unit'?",
+      "answer": "The cyber crime unit collects details, investigates cyber crimes, and finds criminals with the help of the internet."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What is a 'Laughter Club'?",
+      "answer": "A laughter club is a group where people gather to laugh loudly as a method to relieve mental stress."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "How do hobbies help in stress management?",
+      "answer": "Hobbies utilize free time properly and divert energy towards positive thinking, neutralizing negative thoughts."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What does Yoga include besides asanas?",
+      "answer": "Yoga includes pranayam, discipline, balanced food, and meditation."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the 'Unified Movement against Tobacco'?",
+      "answer": "It is a movement started by 45 organizations like WHO and Tata Trust to control tobacco consumption."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the mission of Salaam Mumbai Foundation?",
+      "answer": "Its mission is to empower children in slum areas in education, sports, and arts, and to make schools tobacco-free."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Why should we not disclose our Aadhar or PAN card numbers to unknown persons?",
+      "answer": "Disclosing this information can lead to misuse and financial fraud (cyber crime)."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What mental illness can arise from excessive internet use?",
+      "answer": "Excessive internet use can lead to autism, selfishness, and a lack of sensitivity towards others."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "How does music help in stress management?",
+      "answer": "Listening to music or singing keeps a person happy, changes the mindset, and drives away stress."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What are the benefits of sports?",
+      "answer": "Sports provide physical exercise, improve discipline, foster unity, and reduce loneliness."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Why are helpline numbers published in newspapers?",
+      "answer": "Helpline numbers are published to provide help and guidelines to children in distress or facing problems."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the punishment under the IT Act-2000?",
+      "answer": "The punishment is imprisonment for 3 years or a fine up to 5 lakh rupees."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Why is nature called the closest friend of human beings?",
+      "answer": "Because hobbies related to nature like gardening and bird watching help create a positive mindset and improve confidence."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the danger of fake social media accounts?",
+      "answer": "Fake accounts can be used to display false information, tease girls, or exploit people financially."
+    },
+    {
+      "question_id": 51,
+      "question_type": "LONG",
+      "question": "Explain the concept of Social Health and the factors affecting it.",
+      "answer": "Social health is the ability to establish relationships with others and adapt to changing social conditions. It depends on having a strong personality, friends, trust, and respect for others. Factors affecting social health include education, financial status, gardens, residential area, water, toilets, transport facilities, social safety, and political conditions. A good social environment is crucial for maintaining social health."
+    },
+    {
+      "question_id": 52,
+      "question_type": "LONG",
+      "question": "Describe the effects of addiction on an individual and society.",
+      "answer": "Addiction to substances like tobacco, alcohol, and drugs can be devastating. Physically, it damages the nervous system, liver, and heart, and can cause cancer. Mentally, it hinders brain development and rational thinking. Socially, the addictive person faces familial illness and isolation. Poisonous liquor can be fatal. Addiction often starts due to peer pressure but leads to permanent damage."
+    },
+    {
+      "question_id": 53,
+      "question_type": "LONG",
+      "question": "How does excessive use of modern technology affect physical and mental health?",
+      "answer": "Physically, excessive use of mobile phones and computers causes tiredness, headache, insomnia, tinnitus, joint pains, and vision problems. Radiation can penetrate children's bones. Mentally, it leads to solitariness, autism, and selfishness. People become less sensitive to others, and constructive communication is lost. It can also lead to 'selfiecide' and addiction to virtual games."
+    },
+    {
+      "question_id": 54,
+      "question_type": "LONG",
+      "question": "What is Cyber Crime? Explain different types of cyber crimes.",
+      "answer": "Cyber crime refers to illegal activities committed using computers and the internet. Types include: 1. Hacking: Stealing confidential information. 2. Piracy: Illegal sale of software or media. 3. Financial Fraud: Using others' PINs for transactions. 4. Fake Accounts: Creating fake profiles to tease or exploit others. 5. Cheating Consumers: Selling inferior goods online. 6. Electronic harassment: Sending vulgar or inflammatory messages."
+    },
+    {
+      "question_id": 55,
+      "question_type": "LONG",
+      "question": "Explain various ways of Stress Management.",
+      "answer": "Stress can be managed by: 1. Communication: Talking to parents, friends, and teachers. 2. Hobbies: Photography, reading, cooking, etc., divert energy to positive thinking. 3. Laughter Clubs: Laughing loudly to relieve stress. 4. Yoga and Meditation: Improves concentration and physical balance. 5. Sports: Provides exercise and reduces loneliness. 6. Nature: Spending time in nature creates a positive mindset."
+    },
+    {
+      "question_id": 56,
+      "question_type": "LONG",
+      "question": "Write a note on the work of Salaam Mumbai Foundation.",
+      "answer": "Salaam Mumbai Foundation works to empower children in slum areas of Mumbai in education, sports, and arts. It helps improve their health and lifestyle. Since 2002, it has worked with schools to make society tobacco-free. It has made some districts in Maharashtra completely tobacco-free and implements programs in 14,000 schools across the state with government help."
+    },
+    {
+      "question_id": 57,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Selfiecide' and the mentality behind it.",
+      "answer": "Selfiecide is death caused while taking a selfie in dangerous situations like on cliffs, near trains, or in oceans. It arises from a lack of awareness of surroundings. Persons indulging in this are often under stress or seeking attention/sympathy. It is considered a mental illness where the urge to capture a moment overrides the instinct for safety."
+    },
+    {
+      "question_id": 58,
+      "question_type": "LONG",
+      "question": "Compare the lifestyle of children in the past (1998) versus the present (2017) as depicted in the text.",
+      "answer": "In 1998, children played outdoors more often, and mothers had to call them in for study. In 2017, children are often glued to mobile screens or computers indoors, and parents have to force them to go out and play. This shift shows the impact of technology, leading to less physical activity and social interaction among today's children."
+    },
+    {
+      "question_id": 59,
+      "question_type": "LONG",
+      "question": "What precautions should be taken to avoid becoming a victim of cyber crime?",
+      "answer": "To avoid cyber crime: 1. Do not share Aadhar, PAN, or credit card details with unknown persons. 2. Never disclose your PIN or OTP to anyone. 3. Be cautious of websites selling superior items for cheap. 4. Do not open suspicious messages or links. 5. Secure personal information on social media to prevent misuse."
+    },
+    {
+      "question_id": 60,
+      "question_type": "LONG",
+      "question": "Discuss the importance of good communication in social health.",
+      "answer": "Good communication is vital for social health. It allows people to express their feelings, relieving stress. Talking to parents, friends, and teachers helps resolve problems and prevents depression. Keeping feelings bottled up can lead to mental strain. Communication builds trust and harmonious relationships, which are the foundation of a healthy social life."
+    }
+  ]
+}

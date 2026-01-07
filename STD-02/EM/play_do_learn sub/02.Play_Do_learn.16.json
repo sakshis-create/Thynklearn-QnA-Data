@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.16",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Drama"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does the chapter 'Drama' mainly teach children?",
+      "options": [
+        { "option_id": 1, "text": "Drawing skills", "is_correct": false },
+        { "option_id": 2, "text": "Acting and expression", "is_correct": true },
+        { "option_id": 3, "text": "Mathematics", "is_correct": false },
+        { "option_id": 4, "text": "Writing stories", "is_correct": false }
+      ],
+      "answer": "Acting and expression"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is a daily life action used in drama?",
+      "options": [
+        { "option_id": 1, "text": "Sleeping", "is_correct": true },
+        { "option_id": 2, "text": "Flying a kite", "is_correct": false },
+        { "option_id": 3, "text": "Swimming in a river", "is_correct": false },
+        { "option_id": 4, "text": "Driving a bus", "is_correct": false }
+      ],
+      "answer": "Sleeping"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which action shows happiness?",
+      "options": [
+        { "option_id": 1, "text": "Laughing", "is_correct": true },
+        { "option_id": 2, "text": "Crying", "is_correct": false },
+        { "option_id": 3, "text": "Sulking", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Laughing"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which action shows sadness?",
+      "options": [
+        { "option_id": 1, "text": "Crying", "is_correct": true },
+        { "option_id": 2, "text": "Laughing", "is_correct": false },
+        { "option_id": 3, "text": "Eating", "is_correct": false },
+        { "option_id": 4, "text": "Playing", "is_correct": false }
+      ],
+      "answer": "Crying"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which action shows anger or displeasure?",
+      "options": [
+        { "option_id": 1, "text": "Sulking", "is_correct": true },
+        { "option_id": 2, "text": "Laughing", "is_correct": false },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Eating", "is_correct": false }
+      ],
+      "answer": "Sulking"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is meant by voice modulation?",
+      "options": [
+        { "option_id": 1, "text": "Changing the tone of voice", "is_correct": true },
+        { "option_id": 2, "text": "Writing loudly", "is_correct": false },
+        { "option_id": 3, "text": "Speaking only fast", "is_correct": false },
+        { "option_id": 4, "text": "Keeping silent", "is_correct": false }
+      ],
+      "answer": "Changing the tone of voice"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which type of voice is used while speaking kindly?",
+      "options": [
+        { "option_id": 1, "text": "Soft voice", "is_correct": true },
+        { "option_id": 2, "text": "Loud voice", "is_correct": false },
+        { "option_id": 3, "text": "Shouting voice", "is_correct": false },
+        { "option_id": 4, "text": "Angry voice", "is_correct": false }
+      ],
+      "answer": "Soft voice"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which role involves selling vegetables?",
+      "options": [
+        { "option_id": 1, "text": "Vegetable vendor", "is_correct": true },
+        { "option_id": 2, "text": "Teacher", "is_correct": false },
+        { "option_id": 3, "text": "Doctor", "is_correct": false },
+        { "option_id": 4, "text": "Postman", "is_correct": false }
+      ],
+      "answer": "Vegetable vendor"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which action shows love and care?",
+      "options": [
+        { "option_id": 1, "text": "Speaking lovingly", "is_correct": true },
+        { "option_id": 2, "text": "Shouting", "is_correct": false },
+        { "option_id": 3, "text": "Sulking", "is_correct": false },
+        { "option_id": 4, "text": "Crying", "is_correct": false }
+      ],
+      "answer": "Speaking lovingly"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is a group presentation?",
+      "options": [
+        { "option_id": 1, "text": "Acting together in a group", "is_correct": true },
+        { "option_id": 2, "text": "Studying alone", "is_correct": false },
+        { "option_id": 3, "text": "Writing silently", "is_correct": false },
+        { "option_id": 4, "text": "Drawing individually", "is_correct": false }
+      ],
+      "answer": "Acting together in a group"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who prepares dialogues in a group presentation?",
+      "options": [
+        { "option_id": 1, "text": "Children using imagination", "is_correct": true },
+        { "option_id": 2, "text": "Teachers only", "is_correct": false },
+        { "option_id": 3, "text": "Parents only", "is_correct": false },
+        { "option_id": 4, "text": "Audience", "is_correct": false }
+      ],
+      "answer": "Children using imagination"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is arranged to create an auditorium in the classroom?",
+      "options": [
+        { "option_id": 1, "text": "Stage, curtain, and seating", "is_correct": true },
+        { "option_id": 2, "text": "Blackboard and desks only", "is_correct": false },
+        { "option_id": 3, "text": "Bookshelves", "is_correct": false },
+        { "option_id": 4, "text": "Play equipment", "is_correct": false }
+      ],
+      "answer": "Stage, curtain, and seating"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why is a curtain used in a drama setup?",
+      "options": [
+        { "option_id": 1, "text": "To separate stage and audience", "is_correct": true },
+        { "option_id": 2, "text": "To decorate walls", "is_correct": false },
+        { "option_id": 3, "text": "To cover windows", "is_correct": false },
+        { "option_id": 4, "text": "To block light", "is_correct": false }
+      ],
+      "answer": "To separate stage and audience"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Why should children observe their surroundings while acting?",
+      "options": [
+        { "option_id": 1, "text": "To perform actions correctly", "is_correct": true },
+        { "option_id": 2, "text": "To know exam answers", "is_correct": false },
+        { "option_id": 3, "text": "To remain silent", "is_correct": false },
+        { "option_id": 4, "text": "To stop acting", "is_correct": false }
+      ],
+      "answer": "To perform actions correctly"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which skill improves through drama activities?",
+      "options": [
+        { "option_id": 1, "text": "Communication skills", "is_correct": true },
+        { "option_id": 2, "text": "Calculation skills", "is_correct": false },
+        { "option_id": 3, "text": "Spelling skills", "is_correct": false },
+        { "option_id": 4, "text": "Typing skills", "is_correct": false }
+      ],
+      "answer": "Communication skills"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is drama?",
+      "answer": "Drama is acting by showing actions and emotions."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name one daily life action used in drama.",
+      "answer": "Sleeping."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is voice modulation?",
+      "answer": "Voice modulation means changing the tone of voice."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name one example of voice modulation.",
+      "answer": "Speaking in a soft voice."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is a group presentation?",
+      "answer": "A group activity where children act together."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What do children use to create dialogues?",
+      "answer": "Their imagination."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name one emotion shown in drama.",
+      "answer": "Happiness."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does sulking show?",
+      "answer": "Anger or sadness."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why is a curtain used in drama?",
+      "answer": "To separate the stage and the audience."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is arranged in an auditorium setup?",
+      "answer": "Stage, curtain, and seating for audience."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why should children observe their environment while acting?",
+      "answer": "To perform actions properly."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name one role shown in drama activities.",
+      "answer": "Vegetable vendor."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How does drama help children?",
+      "answer": "It improves expression and confidence."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What skill improves by acting?",
+      "answer": "Communication skill."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Name one benefit of drama.",
+      "answer": "It builds confidence."
+    }
+  ]
+}

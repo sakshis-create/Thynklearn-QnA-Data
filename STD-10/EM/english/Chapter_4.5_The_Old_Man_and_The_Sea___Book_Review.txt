@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.4.5",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Old Man and The Sea: Book Review"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the author of 'The Old Man and The Sea'?",
+      "options": [
+        { "option_id": 1, "text": "William Shakespeare", "is_correct": false },
+        { "option_id": 2, "text": "Ernest Hemingway", "is_correct": true },
+        { "option_id": 3, "text": "Charles Dickens", "is_correct": false },
+        { "option_id": 4, "text": "Mark Twain", "is_correct": false }
+      ],
+      "answer": "Ernest Hemingway"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which prize did Ernest Hemingway win for 'The Old Man and The Sea'?",
+      "options": [
+        { "option_id": 1, "text": "Booker Prize", "is_correct": false },
+        { "option_id": 2, "text": "Nobel Prize", "is_correct": false },
+        { "option_id": 3, "text": "Pulitzer Prize for Fiction", "is_correct": true },
+        { "option_id": 4, "text": "Oscar", "is_correct": false }
+      ],
+      "answer": "Pulitzer Prize for Fiction"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "For how many days was the old fisherman unable to catch any fish?",
+      "options": [
+        { "option_id": 1, "text": "80 days", "is_correct": false },
+        { "option_id": 2, "text": "84 days", "is_correct": true },
+        { "option_id": 3, "text": "90 days", "is_correct": false },
+        { "option_id": 4, "text": "100 days", "is_correct": false }
+      ],
+      "answer": "84 days"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the name of the young apprentice in the story?",
+      "options": [
+        { "option_id": 1, "text": "Santiago", "is_correct": false },
+        { "option_id": 2, "text": "Manolin", "is_correct": true },
+        { "option_id": 3, "text": "Ernest", "is_correct": false },
+        { "option_id": 4, "text": "Pedro", "is_correct": false }
+      ],
+      "answer": "Manolin"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why did Manolin leave the old man?",
+      "options": [
+        { "option_id": 1, "text": "He didn't like fishing", "is_correct": false },
+        { "option_id": 2, "text": "He was forced by his parents", "is_correct": true },
+        { "option_id": 3, "text": "The old man was rude", "is_correct": false },
+        { "option_id": 4, "text": "He found a better job", "is_correct": false }
+      ],
+      "answer": "He was forced by his parents"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "On which day does the old man hook a marlin?",
+      "options": [
+        { "option_id": 1, "text": "84th day", "is_correct": false },
+        { "option_id": 2, "text": "85th day", "is_correct": true },
+        { "option_id": 3, "text": "1st day", "is_correct": false },
+        { "option_id": 4, "text": "50th day", "is_correct": false }
+      ],
+      "answer": "85th day"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What kind of fish does the old man hook?",
+      "options": [
+        { "option_id": 1, "text": "Shark", "is_correct": false },
+        { "option_id": 2, "text": "Tuna", "is_correct": false },
+        { "option_id": 3, "text": "Marlin", "is_correct": true },
+        { "option_id": 4, "text": "Salmon", "is_correct": false }
+      ],
+      "answer": "Marlin"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Hemingway had experience fishing in which waters?",
+      "options": [
+        { "option_id": 1, "text": "Indian", "is_correct": false },
+        { "option_id": 2, "text": "Cuban", "is_correct": true },
+        { "option_id": 3, "text": "American", "is_correct": false },
+        { "option_id": 4, "text": "Australian", "is_correct": false }
+      ],
+      "answer": "Cuban"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Ernest Hemingway was also a fan of which sport?",
+      "options": [
+        { "option_id": 1, "text": "Cricket", "is_correct": false },
+        { "option_id": 2, "text": "Football", "is_correct": false },
+        { "option_id": 3, "text": "Baseball", "is_correct": true },
+        { "option_id": 4, "text": "Tennis", "is_correct": false }
+      ],
+      "answer": "Baseball"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "During which war did Hemingway work for the Red Cross?",
+      "options": [
+        { "option_id": 1, "text": "First World War", "is_correct": true },
+        { "option_id": 2, "text": "Second World War", "is_correct": false },
+        { "option_id": 3, "text": "Civil War", "is_correct": false },
+        { "option_id": 4, "text": "Cold War", "is_correct": false }
+      ],
+      "answer": "First World War"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Hemingway was injured by ________ in Italy.",
+      "options": [
+        { "option_id": 1, "text": "A bullet", "is_correct": false },
+        { "option_id": 2, "text": "Shrapnel", "is_correct": true },
+        { "option_id": 3, "text": "A knife", "is_correct": false },
+        { "option_id": 4, "text": "Fire", "is_correct": false }
+      ],
+      "answer": "Shrapnel"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "In which year was 'The Old Man and The Sea' published?",
+      "options": [
+        { "option_id": 1, "text": "1945", "is_correct": false },
+        { "option_id": 2, "text": "1950", "is_correct": false },
+        { "option_id": 3, "text": "1952", "is_correct": true },
+        { "option_id": 4, "text": "1960", "is_correct": false }
+      ],
+      "answer": "1952"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the writing style of Hemingway described as?",
+      "options": [
+        { "option_id": 1, "text": "Complex and verbose", "is_correct": false },
+        { "option_id": 2, "text": "Simple and pithy", "is_correct": true },
+        { "option_id": 3, "text": "Poetic and rhyming", "is_correct": false },
+        { "option_id": 4, "text": "Abstract and confusing", "is_correct": false }
+      ],
+      "answer": "Simple and pithy"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What happens to the marlin after the old man catches it?",
+      "options": [
+        { "option_id": 1, "text": "It escapes", "is_correct": false },
+        { "option_id": 2, "text": "It pulls the boat", "is_correct": true },
+        { "option_id": 3, "text": "It dies immediately", "is_correct": false },
+        { "option_id": 4, "text": "It sinks the boat", "is_correct": false }
+      ],
+      "answer": "It pulls the boat"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "After battling the marlin, what does the old man fight against?",
+      "options": [
+        { "option_id": 1, "text": "Whales", "is_correct": false },
+        { "option_id": 2, "text": "Other fishermen", "is_correct": false },
+        { "option_id": 3, "text": "Sharks", "is_correct": true },
+        { "option_id": 4, "text": "Storms", "is_correct": false }
+      ],
+      "answer": "Sharks"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What was the reviewer's reaction when he first read the novel?",
+      "options": [
+        { "option_id": 1, "text": "Extremely moved", "is_correct": false },
+        { "option_id": 2, "text": "Unimpressed", "is_correct": true },
+        { "option_id": 3, "text": "Excited", "is_correct": false },
+        { "option_id": 4, "text": "Scared", "is_correct": false }
+      ],
+      "answer": "Unimpressed"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What image remained with the reviewer after the first reading?",
+      "options": [
+        { "option_id": 1, "text": "The sharks attacking", "is_correct": false },
+        { "option_id": 2, "text": "The boy crying", "is_correct": false },
+        { "option_id": 3, "text": "An old man holding onto his fishing line", "is_correct": true },
+        { "option_id": 4, "text": "The sunset at sea", "is_correct": false }
+      ],
+      "answer": "An old man holding onto his fishing line"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "How did the reviewer feel after reading the book recently?",
+      "options": [
+        { "option_id": 1, "text": "Bored", "is_correct": false },
+        { "option_id": 2, "text": "Confused", "is_correct": false },
+        { "option_id": 3, "text": "Extremely moved", "is_correct": true },
+        { "option_id": 4, "text": "Angry", "is_correct": false }
+      ],
+      "answer": "Extremely moved"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The relationship between the old man and Manolin is described as ________.",
+      "options": [
+        { "option_id": 1, "text": "Heart-warming", "is_correct": true },
+        { "option_id": 2, "text": "Hostile", "is_correct": false },
+        { "option_id": 3, "text": "Professional", "is_correct": false },
+        { "option_id": 4, "text": "Distant", "is_correct": false }
+      ],
+      "answer": "Heart-warming"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "According to the review, the old man and the marlin stand for ________.",
+      "options": [
+        { "option_id": 1, "text": "Different ideals", "is_correct": false },
+        { "option_id": 2, "text": "The same ideal", "is_correct": true },
+        { "option_id": 3, "text": "Nothing specific", "is_correct": false },
+        { "option_id": 4, "text": "Enemies", "is_correct": false }
+      ],
+      "answer": "The same ideal"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the 'ideal' that both the old man and marlin stand for?",
+      "options": [
+        { "option_id": 1, "text": "Victory at all costs", "is_correct": false },
+        { "option_id": 2, "text": "A noble struggle against destruction", "is_correct": true },
+        { "option_id": 3, "text": "Survival of the fittest", "is_correct": false },
+        { "option_id": 4, "text": "Life is meaningless", "is_correct": false }
+      ],
+      "answer": "A noble struggle against destruction"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does the word 'formidable' mean in the text?",
+      "options": [
+        { "option_id": 1, "text": "Weak", "is_correct": false },
+        { "option_id": 2, "text": "Causing fear or respect", "is_correct": true },
+        { "option_id": 3, "text": "Small", "is_correct": false },
+        { "option_id": 4, "text": "Funny", "is_correct": false }
+      ],
+      "answer": "Causing fear or respect"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What does 'pithy' mean?",
+      "options": [
+        { "option_id": 1, "text": "Brief and full of vigour", "is_correct": true },
+        { "option_id": 2, "text": "Long and boring", "is_correct": false },
+        { "option_id": 3, "text": "Confusing", "is_correct": false },
+        { "option_id": 4, "text": "Emotional", "is_correct": false }
+      ],
+      "answer": "Brief and full of vigour"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The novel struck a chord with readers because they were recovering from ________.",
+      "options": [
+        { "option_id": 1, "text": "Economic depression", "is_correct": false },
+        { "option_id": 2, "text": "Mass destruction wrought by two world wars", "is_correct": true },
+        { "option_id": 3, "text": "A pandemic", "is_correct": false },
+        { "option_id": 4, "text": "Political unrest", "is_correct": false }
+      ],
+      "answer": "Mass destruction wrought by two world wars"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Hemingway always talks about the need to struggle against ________.",
+      "options": [
+        { "option_id": 1, "text": "Nature", "is_correct": false },
+        { "option_id": 2, "text": "Defeat or death", "is_correct": true },
+        { "option_id": 3, "text": "Poverty", "is_correct": false },
+        { "option_id": 4, "text": "Other people", "is_correct": false }
+      ],
+      "answer": "Defeat or death"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What helps one to win in the struggle against defeat, according to Hemingway?",
+      "options": [
+        { "option_id": 1, "text": "Luck and money", "is_correct": false },
+        { "option_id": 2, "text": "Friends and family", "is_correct": false },
+        { "option_id": 3, "text": "Determination and endurance", "is_correct": true },
+        { "option_id": 4, "text": "Weapons", "is_correct": false }
+      ],
+      "answer": "Determination and endurance"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The story of the old man is one of ________.",
+      "options": [
+        { "option_id": 1, "text": "Defeat", "is_correct": false },
+        { "option_id": 2, "text": "Triumph", "is_correct": true },
+        { "option_id": 3, "text": "Sadness", "is_correct": false },
+        { "option_id": 4, "text": "Humour", "is_correct": false }
+      ],
+      "answer": "Triumph"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Why is the story considered a triumph?",
+      "options": [
+        { "option_id": 1, "text": "Because he caught the fish", "is_correct": false },
+        { "option_id": 2, "text": "Because he became rich", "is_correct": false },
+        { "option_id": 3, "text": "Because his tale will live on even after death", "is_correct": true },
+        { "option_id": 4, "text": "Because he survived the sharks", "is_correct": false }
+      ],
+      "answer": "Because his tale will live on even after death"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which word means 'brought about'?",
+      "options": [
+        { "option_id": 1, "text": "Wrought", "is_correct": true },
+        { "option_id": 2, "text": "Fought", "is_correct": false },
+        { "option_id": 3, "text": "Bought", "is_correct": false },
+        { "option_id": 4, "text": "Thought", "is_correct": false }
+      ],
+      "answer": "Wrought"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Hemingway practises extreme ________ in his use of words.",
+      "options": [
+        { "option_id": 1, "text": "Wastefulness", "is_correct": false },
+        { "option_id": 2, "text": "Economy", "is_correct": true },
+        { "option_id": 3, "text": "Complexity", "is_correct": false },
+        { "option_id": 4, "text": "Variety", "is_correct": false }
+      ],
+      "answer": "Economy"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is an 'apprentice'?",
+      "options": [
+        { "option_id": 1, "text": "A master", "is_correct": false },
+        { "option_id": 2, "text": "A person who works to learn a trade", "is_correct": true },
+        { "option_id": 3, "text": "A rival fisherman", "is_correct": false },
+        { "option_id": 4, "text": "A boat owner", "is_correct": false }
+      ],
+      "answer": "A person who works to learn a trade"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is 'shrapnel'?",
+      "options": [
+        { "option_id": 1, "text": "A type of fish", "is_correct": false },
+        { "option_id": 2, "text": "Small pieces of metal from an explosion", "is_correct": true },
+        { "option_id": 3, "text": "A fishing hook", "is_correct": false },
+        { "option_id": 4, "text": "A boat part", "is_correct": false }
+      ],
+      "answer": "Small pieces of metal from an explosion"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which famous novel by Hemingway is mentioned in the Warming Up section?",
+      "options": [
+        { "option_id": 1, "text": "A Farewell to Arms", "is_correct": true },
+        { "option_id": 2, "text": "The Great Gatsby", "is_correct": false },
+        { "option_id": 3, "text": "Moby Dick", "is_correct": false },
+        { "option_id": 4, "text": "1984", "is_correct": false }
+      ],
+      "answer": "A Farewell to Arms"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a character in the book?",
+      "options": [
+        { "option_id": 1, "text": "The old man", "is_correct": false },
+        { "option_id": 2, "text": "Manolin", "is_correct": false },
+        { "option_id": 3, "text": "The marlin", "is_correct": false },
+        { "option_id": 4, "text": "Santiago's wife", "is_correct": true }
+      ],
+      "answer": "Santiago's wife"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What does the phrase 'struck a chord' mean?",
+      "options": [
+        { "option_id": 1, "text": "Played music", "is_correct": false },
+        { "option_id": 2, "text": "Hit someone", "is_correct": false },
+        { "option_id": 3, "text": "Triggered a feeling or memory", "is_correct": true },
+        { "option_id": 4, "text": "Broke a string", "is_correct": false }
+      ],
+      "answer": "Triggered a feeling or memory"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which word is a root word for 'unimpressed'?",
+      "options": [
+        { "option_id": 1, "text": "Press", "is_correct": true },
+        { "option_id": 2, "text": "Impress", "is_correct": false },
+        { "option_id": 3, "text": "Un", "is_correct": false },
+        { "option_id": 4, "text": "Ed", "is_correct": false }
+      ],
+      "answer": "Press"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which animal would you relate yourself to? This question appears in which section?",
+      "options": [
+        { "option_id": 1, "text": "English Workshop", "is_correct": false },
+        { "option_id": 2, "text": "Warming Up", "is_correct": true },
+        { "option_id": 3, "text": "Review text", "is_correct": false },
+        { "option_id": 4, "text": "Glossary", "is_correct": false }
+      ],
+      "answer": "Warming Up"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What does 'draws heavily on' mean?",
+      "options": [
+        { "option_id": 1, "text": "Paints a picture", "is_correct": false },
+        { "option_id": 2, "text": "Makes use of", "is_correct": true },
+        { "option_id": 3, "text": "Weighs a lot", "is_correct": false },
+        { "option_id": 4, "text": "Pulls hard", "is_correct": false }
+      ],
+      "answer": "Makes use of"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What does 'run of terrible bad luck' mean?",
+      "options": [
+        { "option_id": 1, "text": "Running fast", "is_correct": false },
+        { "option_id": 2, "text": "A period of time when bad things happen", "is_correct": true },
+        { "option_id": 3, "text": "Being lucky", "is_correct": false },
+        { "option_id": 4, "text": "Bad weather", "is_correct": false }
+      ],
+      "answer": "A period of time when bad things happen"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a point for book review mentioned in the workshop?",
+      "options": [
+        { "option_id": 1, "text": "Story line", "is_correct": false },
+        { "option_id": 2, "text": "Social/Historical content", "is_correct": false },
+        { "option_id": 3, "text": "Price of the book", "is_correct": true },
+        { "option_id": 4, "text": "Writing style", "is_correct": false }
+      ],
+      "answer": "Price of the book"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What should you drop to find the root word of 'inseparably'?",
+      "options": [
+        { "option_id": 1, "text": "in-", "is_correct": false },
+        { "option_id": 2, "text": "-ably", "is_correct": false },
+        { "option_id": 3, "text": "in- and -ably", "is_correct": true },
+        { "option_id": 4, "text": "separ", "is_correct": false }
+      ],
+      "answer": "in- and -ably"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Ernest Hemingway was of which nationality?",
+      "options": [
+        { "option_id": 1, "text": "British", "is_correct": false },
+        { "option_id": 2, "text": "American", "is_correct": true },
+        { "option_id": 3, "text": "Cuban", "is_correct": false },
+        { "option_id": 4, "text": "Italian", "is_correct": false }
+      ],
+      "answer": "American"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "The simplicity of Hemingway's writing is described as ________.",
+      "options": [
+        { "option_id": 1, "text": "Boring", "is_correct": false },
+        { "option_id": 2, "text": "Deceptive", "is_correct": true },
+        { "option_id": 3, "text": "Childish", "is_correct": false },
+        { "option_id": 4, "text": "Poor", "is_correct": false }
+      ],
+      "answer": "Deceptive"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What is the old man's condition at the end of the novel?",
+      "options": [
+        { "option_id": 1, "text": "Healthy and rich", "is_correct": false },
+        { "option_id": 2, "text": "Very near death", "is_correct": true },
+        { "option_id": 3, "text": "Young again", "is_correct": false },
+        { "option_id": 4, "text": "Lost at sea", "is_correct": false }
+      ],
+      "answer": "Very near death"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "The review suggests that new layers of meaning can be found when you ________.",
+      "options": [
+        { "option_id": 1, "text": "Watch the movie", "is_correct": false },
+        { "option_id": 2, "text": "Read the book again", "is_correct": true },
+        { "option_id": 3, "text": "Ask the author", "is_correct": false },
+        { "option_id": 4, "text": "Read the summary", "is_correct": false }
+      ],
+      "answer": "Read the book again"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which of these is a famous novel by Hemingway listed in the Warming Up?",
+      "options": [
+        { "option_id": 1, "text": "For Whom the Bell Tolls", "is_correct": true },
+        { "option_id": 2, "text": "War and Peace", "is_correct": false },
+        { "option_id": 3, "text": "Harry Potter", "is_correct": false },
+        { "option_id": 4, "text": "The Alchemist", "is_correct": false }
+      ],
+      "answer": "For Whom the Bell Tolls"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "The marlin is described as ________ for the old man.",
+      "options": [
+        { "option_id": 1, "text": "Too weak", "is_correct": false },
+        { "option_id": 2, "text": "Too small", "is_correct": false },
+        { "option_id": 3, "text": "Too strong", "is_correct": true },
+        { "option_id": 4, "text": "Too fast", "is_correct": false }
+      ],
+      "answer": "Too strong"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'holding on' in the context of the phrases exercise?",
+      "options": [
+        { "option_id": 1, "text": "Endure in difficult circumstances", "is_correct": true },
+        { "option_id": 2, "text": "Wait on the phone", "is_correct": false },
+        { "option_id": 3, "text": "Grab something", "is_correct": false },
+        { "option_id": 4, "text": "Stop moving", "is_correct": false }
+      ],
+      "answer": "Endure in difficult circumstances"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The description of the sea and creatures is ________.",
+      "options": [
+        { "option_id": 1, "text": "Scary", "is_correct": false },
+        { "option_id": 2, "text": "Beautiful", "is_correct": true },
+        { "option_id": 3, "text": "Boring", "is_correct": false },
+        { "option_id": 4, "text": "Confusing", "is_correct": false }
+      ],
+      "answer": "Beautiful"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What does the old man resolve to do?",
+      "options": [
+        { "option_id": 1, "text": "Stop fishing", "is_correct": false },
+        { "option_id": 2, "text": "Buy a new boat", "is_correct": false },
+        { "option_id": 3, "text": "Sail out farther than all other fishermen", "is_correct": true },
+        { "option_id": 4, "text": "Teach Manolin", "is_correct": false }
+      ],
+      "answer": "Sail out farther than all other fishermen"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who is the main character of the novel 'The Old Man and The Sea'?",
+      "answer": "The main character is an old and experienced Cuban fisherman."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the young apprentice's name?",
+      "answer": "The young apprentice's name is Manolin."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why did Manolin stop working with the old man?",
+      "answer": "His parents forced him to work with another fisherman because the old man was having a run of terrible bad luck."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does the old man resolve to do to break his bad luck?",
+      "answer": "He resolves to sail out farther than all the other fishermen to catch a really big fish."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "On which day does he hook the marlin?",
+      "answer": "He hooks the marlin on the eighty-fifth day."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What happens when the old man hooks the marlin?",
+      "answer": "The marlin is too strong and starts pulling the boat."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What other battle does the old man face after catching the marlin?",
+      "answer": "He battles against sharks."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the novel based on?",
+      "answer": "It is based on real events and draws heavily on Hemingway's own life."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Where did Hemingway have fishing experience?",
+      "answer": "Hemingway had experience fishing in Cuban waters."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which war did Hemingway work in?",
+      "answer": "He worked for the Red Cross during the First World War."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What kind of injury did Hemingway suffer?",
+      "answer": "He was injured by shrapnel in Italy."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the main theme Hemingway talks about?",
+      "answer": "The need to struggle against defeat or death and using determination and endurance to win."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is the story considered a triumph?",
+      "answer": "Because the tales of his life will live on in the memories of the people even after his death."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why did the novel strike a chord with readers in 1952?",
+      "answer": "People were recovering from the mass destruction of two world wars and related to the tale of endurance."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Describe Hemingway's writing style in two words.",
+      "answer": "Simple and pithy."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What kind of sentences does Hemingway mostly use?",
+      "answer": "He uses short and straight-forward sentences."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What happens when you read his work again?",
+      "answer": "You find new layers of meaning every time."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How did the reviewer feel about the book when reading it for the first time?",
+      "answer": "The reviewer did not understand it and was left unimpressed."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What vivid image remained with the reviewer?",
+      "answer": "An old man holding on to his fishing line with the last of his strength."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How does the reviewer describe the relationship between the old man and Manolin?",
+      "answer": "It is described as heart-warming."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who does the reviewer sympathize with?",
+      "answer": "The reviewer finds it hard to decide between the old man and the marlin."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why are the old man and the marlin linked?",
+      "answer": "They both stand for the same ideal: a noble struggle against destruction."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is an apprentice?",
+      "answer": "A person who works for another in order to learn a trade."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is a marlin?",
+      "answer": "A large saltwater fish with an elongated body and a spear-like snout."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Define 'pithy'.",
+      "answer": "Brief and full of vigour."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Define 'formidable'.",
+      "answer": "Causing fear or respect."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What does 'shrapnel' mean?",
+      "answer": "Small pieces of metal that fly during an explosion of a bomb or weapon."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Name two famous novels by Hemingway mentioned in Warming Up.",
+      "answer": "'A Farewell to Arms' and 'For Whom the Bell Tolls'."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What professions did Ernest Hemingway have?",
+      "answer": "Novelist, short story writer, and journalist."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'struck a chord'?",
+      "answer": "To hit on a topic or trigger a feeling/memory."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What does 'in spite of' mean?",
+      "answer": "Without being affected by a particular factor."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the root word of 'unable'?",
+      "answer": "Able."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is the root word of 'heavily'?",
+      "answer": "Heavy."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is the root word of 'determination'?",
+      "answer": "Determine."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the root word of 'endurance'?",
+      "answer": "Endure."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the root word of 'unimpressed'?",
+      "answer": "Press."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the root word of 'relationship'?",
+      "answer": "Relate."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is the root word of 'inseparably'?",
+      "answer": "Separate."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the root word of 'empathetic'?",
+      "answer": "Empathy."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the root word of 'beautiful'?",
+      "answer": "Beauty."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the root word of 'simplicity'?",
+      "answer": "Simple."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Rewrite using 'Although': He hooks a marlin but the marlin is too strong for him.",
+      "answer": "Although he hooks a marlin, the marlin is too strong for him."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Change to Adjectival Clause: Hemingway's novel is based on real events.",
+      "answer": "Hemingway's novel is based on events that are real."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Begin with 'On reading': The reader can read his work again and again and find new layers of meaning.",
+      "answer": "On reading his work again and again, the reader can find new layers of meaning."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Use 'progress' as a noun: As the novel progresses...",
+      "answer": "With the progress of the novel..."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Insert 'and': Being strong, the marlin starts pulling the boat.",
+      "answer": "The marlin is strong and starts pulling the boat."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Use 'but': When I first read this novel, I was unimpressed.",
+      "answer": "I first read this novel, but I was unimpressed."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What are the four points for writing a book review?",
+      "answer": "Story line, Social/Historical content, Writing style, My thought."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What does the text say about Hemingway's use of words?",
+      "answer": "He practises an extreme economy in his use of words."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What does the text say about the old man's character strength?",
+      "answer": "It is described as formidable."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Summarize the story line of 'The Old Man and The Sea' as presented in the review.",
+      "answer": "The story follows an old Cuban fisherman who has gone 84 days without catching a fish. His apprentice, Manolin, leaves him. Determined, the old man sails far out and hooks a huge marlin on the 85th day. A great struggle ensues where the fish pulls the boat. After catching the marlin, he must battle sharks that attack his catch. The story focuses on his struggle and endurance."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Explain the social and historical context of the novel.",
+      "answer": "The novel is based on real events and Hemingway's own life experiences, including fishing in Cuba and his injury in WWI. It explores themes of struggle against defeat and death. Published in 1952, post-WWII, its message of endurance and triumph resonated with readers recovering from the war's mass destruction."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Describe Ernest Hemingway's writing style.",
+      "answer": "Hemingway's style is characterized by simplicity and brevity ('pithy'). He uses short, straightforward sentences and is very economical with words. However, this simplicity is deceptive, as the text holds deep, hidden layers of meaning that reveal themselves upon repeated reading."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "How did the reviewer's opinion of the book change over time?",
+      "answer": "Initially, when the reviewer read the book years ago, they did not understand it and were unimpressed. However, a vivid image of the old man remained. Upon reading it again recently, the reviewer was extremely moved by the characters' strength, devotion, and the beautiful descriptions, finding the relationship and struggle heart-warming."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Discuss the relationship between the old man and the marlin.",
+      "answer": "The relationship is complex. While they are adversaries in a life-or-death struggle, the reviewer notes that as the novel progresses, they become inseparably linked. They both represent the same ideal: a noble struggle against destruction. The reader's sympathies are torn between the desperate old man and the fighting fish."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "What is the significance of Manolin in the story?",
+      "answer": "Manolin represents devotion, loyalty, and empathy. Despite being forced to leave the old man by his parents, he remains devoted. His quiet devotion supports the old man emotionally. He serves as a contrast to the old man's isolation and highlights the theme of human connection amidst struggle."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Why is the story considered a tale of 'ultimate triumph' despite the old man's suffering?",
+      "answer": "Although the old man suffers greatly and is near death at the end, the story is a triumph because his struggle and endurance become legendary. The memory of his suffering and loss will live on in his village. His spirit remains unbroken, and his story survives death, which is a form of victory."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Analyze the theme of struggle in the novel.",
+      "answer": "The novel centralizes the theme of struggle against defeat, death, and destruction. It portrays determination and endurance as key virtues. Whether it's the old man fighting the marlin or the sharks, or Hemingway's own life experiences, the narrative emphasizes that the act of struggling nobly is valuable in itself, regardless of the outcome."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "How does the reviewer describe the descriptions of the sea?",
+      "answer": "The reviewer finds Hemingway's descriptions of the sea and the creatures of the water to be beautiful. This suggests that alongside the harsh struggle, there is an appreciation for the natural world, adding aesthetic value to the narrative."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "What does the review imply about the definition of a hero?",
+      "answer": "Through the old man, the review suggests a hero isn't necessarily someone who wins materially. A hero is defined by formidable strength of character, endurance, and the ability to struggle nobly against overwhelming odds. The old man's legacy makes him a hero."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "Compare the struggles of the Old Man and Ernest Hemingway as mentioned in the workshop.",
+      "answer": "Ernest Hemingway struggled against defeat or death and was injured by shrapnel in WWI. He believed in determination. The Old Man struggled with a marlin and sharks, faced bad luck for 84 days, and fought against destruction. Both demonstrate resilience and the will to fight against odds."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Explain the meaning of 'This simplicity is deceptive' regarding Hemingway's style.",
+      "answer": "It means that while the language looks easy and plain on the surface, it hides complex and deep meanings. A casual reader might miss the depth, but re-reading reveals new layers of understanding. The simple words carry heavy emotional and philosophical weight."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Discuss the symbolic nature of the marlin.",
+      "answer": "The marlin is not just a fish; it represents a worthy opponent and a noble force of nature. It mirrors the old man's strength and determination. The struggle with the marlin symbolizes the human struggle to achieve greatness or conquer nature, and the mutual respect that can exist between adversaries."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "Why did the novel resonate with people in 1952?",
+      "answer": "In 1952, the world was still recovering from the trauma and mass destruction of two World Wars. People were looking for stories of hope and endurance. The old man's resilience in the face of loss and suffering 'struck a chord' with readers who had faced their own struggles, offering a message of ultimate triumph."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "What are the essential points to include in a book review according to the text?",
+      "answer": "A book review should include the Story Line (plot summary), Social/Historical Context (background), Writing Style (language use), and My Thoughts (personal opinion/critique). These elements provide a comprehensive overview for a potential reader."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Elaborate on the phrase 'extreme economy in his use of words'.",
+      "answer": "This means Hemingway used very few words to convey his message. He avoided unnecessary adjectives or flowery language. Every word had a purpose. This brevity makes the writing punchy and forceful ('pithy'), allowing the reader to focus on the action and underlying emotion without distraction."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "How does the reviewer justify the link between the old man and the marlin?",
+      "answer": "The reviewer states they are 'inseparably linked' because they stand for the same ideal. Both are engaged in a 'noble struggle against destruction'. The marlin fights for its life desperately, and the old man fights to catch it and then protect it. This shared struggle creates a bond of respect and identity between hunter and prey."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "What role does memory play in the story's theme of triumph?",
+      "answer": "The text suggests that triumph is achieved because 'the story of his suffering and loss will live on in the memories of the people'. Immortality through memory is presented as the ultimate victory over death. Even though the old man is near death, his legacy survives, making his life meaningful."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "Describe the character of the old man based on the review.",
+      "answer": "The old man is experienced, determined, and resilient. He has 'formidable strength of character'. He resolves to go farther than others, showing ambition and courage. He endures 'terrible bad luck' and physical struggle without giving up. He is also capable of a deep, almost spiritual connection with his adversary, the marlin."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "What is the significance of the sharks in the story?",
+      "answer": "The sharks represent the destructive forces of nature or life that try to strip away one's achievements. After the noble battle with the marlin, the battle with sharks is a fight to preserve what was gained. Even though the sharks destroy the fish physically, they cannot destroy the old man's spirit or the story of his feat."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "How does the review encourage readers to revisit books?",
+      "answer": "The reviewer shares their own experience of reading the book twice. The first time, they didn't understand it. The second time, years later, they were 'extremely moved'. This anecdote encourages readers to give books a second chance, as maturity and perspective can reveal 'new layers of meaning' previously missed."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "What does the phrase 'struck a chord' imply about the relationship between a book and its readers?",
+      "answer": "It implies a deep emotional resonance. It suggests that a book is successful when it connects with the readers' own experiences, feelings, or historical reality. The book reflects the readers' internal state or collective consciousness (post-war recovery), creating a harmonious understanding and appreciation."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "Discuss the importance of background knowledge (Social/Historical context) in understanding a novel.",
+      "answer": "Understanding the context helps interpret the themes. Knowing Hemingway was injured in war and lived in Cuba explains the realism of the fishing scenes and the depth of the struggle theme. Knowing it was published post-WWII explains its reception. Context provides the 'why' behind the story, enriching the reading experience."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "How does the 'Warming Up' section connect to the themes of the book?",
+      "answer": "The 'Warming Up' asks about animals you relate to, heroes, and passions you'd fight for. These directly connect to the novel's themes: the old man's relation to the marlin (animal), his heroism, and his passion for fishing. It prepares the reader's mind to engage with the core conflicts and character motivations in the story."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "Explain the grammar transformation: 'Hemingway's novel is based on real events.' -> Adjectival Clause.",
+      "answer": "The original sentence uses the adjective 'real'. To convert this to an adjectival clause, we expand 'real' into a clause describing the events. The answer 'Hemingway's novel is based on events that are real' uses 'that are real' to modify 'events', functioning as an adjectival clause."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "Explain the grammar transformation: 'The reader can read his work again and again and find new layers of meaning.' -> On reading.",
+      "answer": "This transformation changes a compound sentence into a simple or complex one using a participle phrase. 'On reading his work again and again' acts as an introductory phrase indicating the condition or time, leading to the main action: 'the reader can find new layers of meaning.'"
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "Explain the grammar transformation: 'As the novel progresses...' -> using 'progress' as a Noun.",
+      "answer": "The verb 'progresses' is changed to the noun 'progress'. This requires restructuring the sentence. 'With the progress of the novel...' serves as a prepositional phrase replacing the dependent clause, maintaining the meaning that as the story moves forward, the link between characters strengthens."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "Explain the grammar transformation: 'Being strong, the marlin starts pulling the boat.' -> insert 'and'.",
+      "answer": "The original sentence uses a participle phrase 'Being strong'. To use 'and', we convert it into a compound sentence with two independent clauses. 'The marlin is strong' describes the state, 'and' connects it to the result: 'starts pulling the boat'."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "Explain the grammar transformation: 'When I first read this novel, I was unimpressed.' -> use 'but'.",
+      "answer": "The original is a complex sentence with a 'When' clause. To use 'but', we create a compound sentence contrasting two past actions/states. 'I first read this novel' is the first action, 'but' introduces the contrast: 'I was unimpressed'."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "Why is 'The Old Man and The Sea' classified as fiction?",
+      "answer": "Although based on real events and Hemingway's life, it is a creative narrative with invented characters (Santiago, Manolin) and specific plot details crafted by the author. It is a story told for artistic effect, not a factual historical record, hence it is fiction (and won the Pulitzer for Fiction)."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "Analyze the phrase 'run of terrible bad luck'.",
+      "answer": "'Run' here refers to a continuous period or streak. 'Terrible bad luck' emphasizes the severity of the situation. For a fisherman, not catching fish for 84 days is disastrous. This phrase sets the stakes high at the beginning of the story, establishing the old man's desperate situation."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "What is the significance of the number 84 and 85 in the story?",
+      "answer": "84 represents the duration of failure and the test of endurance. It's a long time to persist without success. The 85th day represents hope and the breaking of the pattern. It is the day the old man decides to go further and finally hooks the marlin, marking the turning point of the plot."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "Discuss the theme of isolation in the novel based on the review.",
+      "answer": "The old man is isolated; his apprentice leaves him, and he sails 'farther than all the other fishermen'. He battles the marlin and sharks alone on the sea. This isolation highlights his individual strength and the personal nature of his struggle, making his internal fortitude even more impressive."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "How does the review describe the 'Manolin' character's role?",
+      "answer": "Manolin is described as 'young and devoted'. His role is 'empathetic'. He provides a human connection for the old man. His 'quiet devotion' contrasts with the old man's solitary struggle at sea. He represents the future generation valuing the wisdom and experience of the old."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Why does the reviewer say 'simplicity is deceptive'?",
+      "answer": "The reviewer means that a simple surface can hide deep depth. Hemingway's short sentences might look easy to write or read, but they are crafted to evoke strong emotions and complex themes. It warns the reader not to underestimate the book based on its easy language."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "What can students learn from the 'Project' section about libraries?",
+      "answer": "The project encourages creating a 'Classroom Library' where students donate and exchange books. This teaches the value of sharing knowledge, reading diverse books, and discussing them (reviews). It fosters a community of readers and makes resources accessible to everyone."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "How does the review serve as a recommendation?",
+      "answer": "The review moves from a neutral summary to a highly positive personal reflection ('extremely moved', 'heart-warming'). By sharing the transformation from unimpressed to moved, the reviewer strongly recommends the book, suggesting it's worth reading even if it seems simple at first."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "What does 'empathetic' mean in the context of Manolin?",
+      "answer": "Empathetic means showing an ability to understand and share the feelings of another. Manolin understands the old man's sadness and bad luck without needing words. He feels for him and wants to help, showing a deep emotional bond beyond just a working relationship."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "Interpret the meaning of 'noble struggle against destruction'.",
+      "answer": "Destruction (death, failure) is inevitable. However, the 'noble' part is the choice to fight against it with dignity and courage. Both the man and the fish fight to survive. The struggle gives life meaning and honour, even if the ultimate result (destruction) cannot be avoided."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "What is the difference between a book review and a summary?",
+      "answer": "A summary just retells the plot (Story Line). A review includes the summary but goes further to analyze the background (Social/Historical context), evaluate the technique (Writing style), and offer a personal opinion (My Thoughts). A review is critical and subjective; a summary is descriptive and objective."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "How does the 'Word Chain' activity (implied in language study) help?",
+      "answer": "Identifying root words (e.g., 'heavily' -> 'heavy', 'endurance' -> 'endure') helps in understanding vocabulary formation. It shows how prefixes and suffixes change meanings and parts of speech, improving language skills and comprehension of the text."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "What does the 'Pulitzer Prize' signify for the book?",
+      "answer": "The Pulitzer Prize is a prestigious award for excellence in literature. Winning it signifies that 'The Old Man and The Sea' is recognized as a work of high artistic quality and cultural importance in America. It validates the book's status as a classic."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "Why is the book title 'The Old Man and The Sea' appropriate?",
+      "answer": "The title highlights the two main forces in the book: the human protagonist (The Old Man) and the natural environment/antagonist (The Sea). It suggests a primal, elemental conflict and relationship. It focuses the story on this solitary interaction rather than society."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "Discuss the reviewer's vivid image of the old man.",
+      "answer": "The image of 'an old man holding on to his fishing line with the last of his strength' captures the essence of the novel: endurance. It visualizes the physical and mental strain, the desperation, and the refusal to let go. This single image stayed with the reviewer for years, proving the power of Hemingway's descriptive capability."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "What is the significance of the marlin pulling the boat?",
+      "answer": "The marlin pulling the boat reverses the typical power dynamic. Usually, the fisherman controls the fish. Here, the fish controls the man's movement. It emphasizes the marlin's immense power and size, making the old man's struggle to conquer it even more heroic and difficult."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "How does the story depict the concept of 'luck'?",
+      "answer": "The story starts with 'terrible bad luck'. Luck is seen as a force outside control. However, the old man decides to take action ('sail out farther') rather than wait for luck. The story suggests that while luck exists, determination and effort are what define a person's character."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "What does 'draws heavily on his own life' imply about the author?",
+      "answer": "It implies that the author used his personal experiences as raw material for his fiction. Hemingway didn't just invent the fishing scenes; he lived them. This adds authenticity and realism to the details of the sea, the fishing techniques, and the emotions of the struggle."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "Explain the phrase 'holding on' in the context of the story.",
+      "answer": "In the story, 'holding on' is literal (holding the fishing line) and metaphorical (enduring difficult circumstances). The old man holds the line despite pain and exhaustion. Metaphorically, he holds on to his dignity, his purpose, and his hope despite bad luck and age."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "What might be the 'new layers of meaning' found on re-reading?",
+      "answer": "On first read, it might seem like just a fishing story. On re-reading, one might see religious symbolism, allegories for the artist's struggle, themes of aging, the cycle of life, or the respect for nature. The reader's own life experiences (like the reviewer's) allow them to see these deeper philosophical depths."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "Why is the old man's resolve to sail 'farther' significant?",
+      "answer": "Sailing 'farther than all the other fishermen' symbolizes going beyond the ordinary limits, taking risks, and seeking greater challenges. It sets the old man apart from the rest. It shows that great rewards (the huge marlin) require great risks and venturing into the unknown (the deep sea)."
+    }
+  ]
+}

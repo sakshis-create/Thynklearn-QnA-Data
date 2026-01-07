@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.08",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Reading Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is on the wall in the classroom?",
+      "options": [
+        { "option_id": 1, "text": "A big board", "is_correct": true },
+        { "option_id": 2, "text": "A big mirror", "is_correct": false },
+        { "option_id": 3, "text": "A big clock", "is_correct": false },
+        { "option_id": 4, "text": "A painting", "is_correct": false }
+      ],
+      "answer": "A big board"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the teacher use to write on the board?",
+      "options": [
+        { "option_id": 1, "text": "A pen", "is_correct": false },
+        { "option_id": 2, "text": "A pencil", "is_correct": false },
+        { "option_id": 3, "text": "A chalk", "is_correct": true },
+        { "option_id": 4, "text": "A marker", "is_correct": false }
+      ],
+      "answer": "A chalk"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the teacher have to sit on?",
+      "options": [
+        { "option_id": 1, "text": "A bench", "is_correct": false },
+        { "option_id": 2, "text": "A mat", "is_correct": false },
+        { "option_id": 3, "text": "A stool", "is_correct": false },
+        { "option_id": 4, "text": "A chair", "is_correct": true }
+      ],
+      "answer": "A chair"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What furniture do the students sit on?",
+      "options": [
+        { "option_id": 1, "text": "Benches", "is_correct": true },
+        { "option_id": 2, "text": "Chairs", "is_correct": false },
+        { "option_id": 3, "text": "The floor", "is_correct": false },
+        { "option_id": 4, "text": "Sofas", "is_correct": false }
+      ],
+      "answer": "Benches"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Where do students keep their books?",
+      "options": [
+        { "option_id": 1, "text": "On the floor", "is_correct": false },
+        { "option_id": 2, "text": "On the desks", "is_correct": true },
+        { "option_id": 3, "text": "In the car", "is_correct": false },
+        { "option_id": 4, "text": "On the chair", "is_correct": false }
+      ],
+      "answer": "On the desks"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How many doors does the classroom have?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "One", "is_correct": true },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "One"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How many windows are in the classroom?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Five", "is_correct": false },
+        { "option_id": 3, "text": "Two", "is_correct": true },
+        { "option_id": 4, "text": "Zero", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What do the charts on the wall display?",
+      "options": [
+        { "option_id": 1, "text": "Teacher's photos", "is_correct": false },
+        { "option_id": 2, "text": "Children's work", "is_correct": true },
+        { "option_id": 3, "text": "Movie posters", "is_correct": false },
+        { "option_id": 4, "text": "Maps only", "is_correct": false }
+      ],
+      "answer": "Children's work"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What electronic device does the teacher use?",
+      "options": [
+        { "option_id": 1, "text": "A television", "is_correct": false },
+        { "option_id": 2, "text": "A computer", "is_correct": false },
+        { "option_id": 3, "text": "A projector", "is_correct": true },
+        { "option_id": 4, "text": "A tablet", "is_correct": false }
+      ],
+      "answer": "A projector"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is kept near the wall for storage?",
+      "options": [
+        { "option_id": 1, "text": "A cupboard", "is_correct": true },
+        { "option_id": 2, "text": "A box", "is_correct": false },
+        { "option_id": 3, "text": "A bag", "is_correct": false },
+        { "option_id": 4, "text": "A basket", "is_correct": false }
+      ],
+      "answer": "A cupboard"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is kept in the corner to keep the room clean?",
+      "options": [
+        { "option_id": 1, "text": "A broom", "is_correct": false },
+        { "option_id": 2, "text": "A dustbin", "is_correct": true },
+        { "option_id": 3, "text": "A bucket", "is_correct": false },
+        { "option_id": 4, "text": "A mop", "is_correct": false }
+      ],
+      "answer": "A dustbin"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The teacher shows short films and ________.",
+      "options": [
+        { "option_id": 1, "text": "Games", "is_correct": false },
+        { "option_id": 2, "text": "Songs", "is_correct": true },
+        { "option_id": 3, "text": "Dances", "is_correct": false },
+        { "option_id": 4, "text": "Sports", "is_correct": false }
+      ],
+      "answer": "Songs"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word describes the board in the classroom?",
+      "options": [
+        { "option_id": 1, "text": "Small", "is_correct": false },
+        { "option_id": 2, "text": "Big", "is_correct": true },
+        { "option_id": 3, "text": "Dirty", "is_correct": false },
+        { "option_id": 4, "text": "Old", "is_correct": false }
+      ],
+      "answer": "Big"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How is the teacher described during the day?",
+      "options": [
+        { "option_id": 1, "text": "Lazy", "is_correct": false },
+        { "option_id": 2, "text": "Sleepy", "is_correct": false },
+        { "option_id": 3, "text": "Busy", "is_correct": true },
+        { "option_id": 4, "text": "Angry", "is_correct": false }
+      ],
+      "answer": "Busy"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is fun to watch on the projector?",
+      "options": [
+        { "option_id": 1, "text": "The news", "is_correct": false },
+        { "option_id": 2, "text": "The films", "is_correct": true },
+        { "option_id": 3, "text": "The clock", "is_correct": false },
+        { "option_id": 4, "text": "The wall", "is_correct": false }
+      ],
+      "answer": "The films"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does the teacher keep on her table?",
+      "answer": "The teacher keeps her books on the table."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Identify two things found on the walls of the classroom.",
+      "answer": "A big board and many charts."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What do the students have to sit on?",
+      "answer": "The students have benches to sit on."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What helps the teacher show stories and songs?",
+      "answer": "The projector helps the teacher show stories and songs."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Where is the dustbin located?",
+      "answer": "The dustbin is located in the corner."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why is there a cupboard in the classroom?",
+      "answer": "To keep the material."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the topic of the charts on the wall?",
+      "answer": "The charts display children's work on various topics."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How many sentences are you asked to write in the activity?",
+      "answer": "Five sentences."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What item is used to write on the board?",
+      "answer": "Chalk is used to write on the board."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Is the teacher free or busy the whole day?",
+      "answer": "The teacher is busy the whole day."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What do students keep on their desks?",
+      "answer": "They keep their books on their desks."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the title of Chapter 1.8?",
+      "answer": "Reading Time."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name two pieces of furniture for the students.",
+      "answer": "Benches and desks."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Do the students keep the classroom dirty or clean?",
+      "answer": "They keep the classroom clean."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "List two items from the 'Look and say' section.",
+      "answer": "Board, Chalk, Table, Chair, Benches, Desks, Books, Door, Windows, Cupboard, Dustbin (any two)."
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.KKS.16",
+    "standard": "2",
+    "subject": "Khelu_Karu_Shiku",
+    "medium": "Marathi",
+    "chapter_name": "नाट्य"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "नाट्य म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "धावण्याचा खेळ", "is_correct": false },
+        { "option_id": 2, "text": "भूमिका साकारत कथा सादर करणे", "is_correct": true },
+        { "option_id": 3, "text": "चित्र काढणे", "is_correct": false },
+        { "option_id": 4, "text": "गाणे म्हणणे", "is_correct": false }
+      ],
+      "answer": "भूमिका साकारत कथा सादर करणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "नाटकातील पात्र म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "नाटक पाहणारा प्रेक्षक", "is_correct": false },
+        { "option_id": 2, "text": "भूमिका वठवणारी व्यक्ती", "is_correct": true },
+        { "option_id": 3, "text": "रंगमंच", "is_correct": false },
+        { "option_id": 4, "text": "संगीत वाद्य", "is_correct": false }
+      ],
+      "answer": "भूमिका वठवणारी व्यक्ती"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "संवाद म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "ताल", "is_correct": false },
+        { "option_id": 2, "text": "पात्र बोलणारी वाक्ये", "is_correct": true },
+        { "option_id": 3, "text": "नृत्याचे पाऊल", "is_correct": false },
+        { "option_id": 4, "text": "चित्रातील रंग", "is_correct": false }
+      ],
+      "answer": "पात्र बोलणारी वाक्ये"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "नाट्य सराव का करतात?",
+      "options": [
+        { "option_id": 1, "text": "डायलॉग विसरण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "सादरीकरण चांगले व्हावे म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "शाळा टाळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "सादरीकरण चांगले व्हावे म्हणून"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "नाटक करताना आवाज कसा असावा?",
+      "options": [
+        { "option_id": 1, "text": "अतिशय मंद", "is_correct": false },
+        { "option_id": 2, "text": "स्पष्ट आणि नीट", "is_correct": true },
+        { "option_id": 3, "text": "आरडाओरड", "is_correct": false },
+        { "option_id": 4, "text": "फुसफुस", "is_correct": false }
+      ],
+      "answer": "स्पष्ट आणि नीट"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "नाटकात वेशभूषेचे महत्त्व काय?",
+      "options": [
+        { "option_id": 1, "text": "फक्त सजावट", "is_correct": false },
+        { "option_id": 2, "text": "पात्राची ओळख पटते", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "रंग बदलण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पात्राची ओळख पटते"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "नाटक करताना रंगमंचावर कसे उभे राहावे?",
+      "options": [
+        { "option_id": 1, "text": "बेपर्वा", "is_correct": false },
+        { "option_id": 2, "text": "आत्मविश्वासाने व ताठ", "is_correct": true },
+        { "option_id": 3, "text": "आडवे", "is_correct": false },
+        { "option_id": 4, "text": "लपून", "is_correct": false }
+      ],
+      "answer": "आत्मविश्वासाने व ताठ"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "नाटक सादर करताना चेहऱ्यावर काय असावे?",
+      "options": [
+        { "option_id": 1, "text": "राग", "is_correct": false },
+        { "option_id": 2, "text": "भावभावना", "is_correct": true },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "उदासीनता", "is_correct": false }
+      ],
+      "answer": "भावभावना"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "नाट्यकलेमुळे कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "आळस", "is_correct": false },
+        { "option_id": 2, "text": "आत्मविश्वास", "is_correct": true },
+        { "option_id": 3, "text": "मत्सर", "is_correct": false },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "नाटक सादर करताना काय टाळावे?",
+      "options": [
+        { "option_id": 1, "text": "संवाद नीट बोलणे", "is_correct": false },
+        { "option_id": 2, "text": "हशा आणि गोंधळ", "is_correct": true },
+        { "option_id": 3, "text": "सराव", "is_correct": false },
+        { "option_id": 4, "text": "एकाग्रता", "is_correct": false }
+      ],
+      "answer": "हशा आणि गोंधळ"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "नाटकात सहकार्य कोणाबरोबर आवश्यक असते?",
+      "options": [
+        { "option_id": 1, "text": "मित्रांबरोबर", "is_correct": true },
+        { "option_id": 2, "text": "प्रेक्षकांबरोबर", "is_correct": false },
+        { "option_id": 3, "text": "स्वतःशीच", "is_correct": false },
+        { "option_id": 4, "text": "कोणाबरोबरही नाही", "is_correct": false }
+      ],
+      "answer": "मित्रांबरोबर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "नाटकात संवाद विसरल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "थांबून रडावे", "is_correct": false },
+        { "option_id": 2, "text": "शांत राहून पुढे सांगावे", "is_correct": true },
+        { "option_id": 3, "text": "मंच सोडून जावे", "is_correct": false },
+        { "option_id": 4, "text": "हसत राहावे", "is_correct": false }
+      ],
+      "answer": "शांत राहून पुढे सांगावे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "नाटकातील कथा कोण सांगते?",
+      "options": [
+        { "option_id": 1, "text": "वाद्य", "is_correct": false },
+        { "option_id": 2, "text": "पात्रे व संवाद", "is_correct": true },
+        { "option_id": 3, "text": "छायाचित्रे", "is_correct": false },
+        { "option_id": 4, "text": "पोस्टर", "is_correct": false }
+      ],
+      "answer": "पात्रे व संवाद"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "नाट्यकलेतून कोणता गुण विकसित होतो?",
+      "options": [
+        { "option_id": 1, "text": "भांडण", "is_correct": false },
+        { "option_id": 2, "text": "संवादकौशल्य", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "मत्सर", "is_correct": false }
+      ],
+      "answer": "संवादकौशल्य"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "नाटकाचा मुख्य उद्देश काय?",
+      "options": [
+        { "option_id": 1, "text": "मनोरंजन आणि शिकवण", "is_correct": true },
+        { "option_id": 2, "text": "भांडण", "is_correct": false },
+        { "option_id": 3, "text": "गोंधळ वाढवणे", "is_correct": false },
+        { "option_id": 4, "text": "शिस्त मोडणे", "is_correct": false }
+      ],
+      "answer": "मनोरंजन आणि शिकवण"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "नाट्यकला म्हणजे काय?",
+      "answer": "पात्रांची भूमिका साकारत कथा रंगमंचावर सादर करणे म्हणजे नाट्यकला."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "नाटकात वेशभूषा का महत्त्वाची आहे?",
+      "answer": "वेशभूषेमुळे पात्राची ओळख स्पष्ट होते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "संवाद स्पष्ट बोलणे का आवश्यक आहे?",
+      "answer": "संवाद स्पष्ट बोलल्यास प्रेक्षकांना कथा समजते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "नाटक करताना शिस्त का पाळावी?",
+      "answer": "शिस्त पाळल्यास सादरीकरण नीटनेटके होते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "नाट्यकलेत सहकार्य कसे उपयुक्त आहे?",
+      "answer": "सर्वांनी जुळवून काम केल्यास सादरीकरण सुंदर होते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "नाटकाचा सराव का आवश्यक आहे?",
+      "answer": "सराव केल्याने संवाद आणि हालचाली योग्य होतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "नाट्यकलेत आत्मविश्वास कसा वाढतो?",
+      "answer": "रंगमंचावर बोलल्याने स्वतःवरील विश्वास वाढतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "नाटक करताना भीती का ठेवू नये?",
+      "answer": "भीतीमुळे संवाद आणि हालचाली चुकतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "नाटकातून काय शिकायला मिळते?",
+      "answer": "संवादकौशल्य, सहकार्य आणि आत्मविश्वास शिकायला मिळतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "रंगमंचावर उभे राहताना काय जपावे?",
+      "answer": "योग्य उभटपणा, भावभावना आणि आवाज."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "नाटक करताना गोंधळ का करू नये?",
+      "answer": "गोंधळामुळे सादरीकरण बिघडते आणि इतरांचा ताल चुकतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "संवाद विसरलात तर काय कराल?",
+      "answer": "शांत राहून पुढील संवाद आठवून नीट बोलावे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मित्रांसोबत नाटक करताना कसे वागावे?",
+      "answer": "सहकार्याने, संयमाने आणि नम्रतेने वागावे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "तुला कोणती भूमिका करायला आवडेल? का?",
+      "answer": "मला नेता/शूरवीराची भूमिका करायला आवडेल कारण ती प्रेरणादायक असते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्याची मुख्य शिकवण काय?",
+      "answer": "नाट्यकलेत शिस्त, सहकार्य, आत्मविश्वास आणि स्पष्ट संवाद महत्त्वाचे आहेत."
+    }
+  ]
+}

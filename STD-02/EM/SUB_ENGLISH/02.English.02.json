@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.02",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Activity Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the first step of the activity mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Write words", "is_correct": false },
+        { "option_id": 2, "text": "Form pairs", "is_correct": true },
+        { "option_id": 3, "text": "Open your eyes", "is_correct": false },
+        { "option_id": 4, "text": "Pick colours", "is_correct": false }
+      ],
+      "answer": "Form pairs"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What should one student do after closing their eyes?",
+      "options": [
+        { "option_id": 1, "text": "Write a word", "is_correct": false },
+        { "option_id": 2, "text": "Pick a number", "is_correct": false },
+        { "option_id": 3, "text": "Put a finger on any letter on the blue card", "is_correct": true },
+        { "option_id": 4, "text": "Read aloud", "is_correct": false }
+      ],
+      "answer": "Put a finger on any letter on the blue card"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which card does the partner use to pick a letter?",
+      "options": [
+        { "option_id": 1, "text": "Green card", "is_correct": false },
+        { "option_id": 2, "text": "Yellow card", "is_correct": false },
+        { "option_id": 3, "text": "Pink card", "is_correct": true },
+        { "option_id": 4, "text": "White card", "is_correct": false }
+      ],
+      "answer": "Pink card"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How many letters does each pair finally have?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": true },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What should students do after getting two letters?",
+      "options": [
+        { "option_id": 1, "text": "Draw pictures", "is_correct": false },
+        { "option_id": 2, "text": "Sing a song", "is_correct": false },
+        { "option_id": 3, "text": "Write as many words as possible using both letters", "is_correct": true },
+        { "option_id": 4, "text": "Change partners", "is_correct": false }
+      ],
+      "answer": "Write as many words as possible using both letters"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following is a vowel?",
+      "options": [
+        { "option_id": 1, "text": "b", "is_correct": false },
+        { "option_id": 2, "text": "d", "is_correct": false },
+        { "option_id": 3, "text": "a", "is_correct": true },
+        { "option_id": 4, "text": "t", "is_correct": false }
+      ],
+      "answer": "a"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following is a consonant?",
+      "options": [
+        { "option_id": 1, "text": "e", "is_correct": false },
+        { "option_id": 2, "text": "i", "is_correct": false },
+        { "option_id": 3, "text": "u", "is_correct": false },
+        { "option_id": 4, "text": "k", "is_correct": true }
+      ],
+      "answer": "k"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word is correctly formed in the activity?",
+      "options": [
+        { "option_id": 1, "text": "Fish", "is_correct": true },
+        { "option_id": 2, "text": "Chair", "is_correct": false },
+        { "option_id": 3, "text": "School", "is_correct": false },
+        { "option_id": 4, "text": "Garden", "is_correct": false }
+      ],
+      "answer": "Fish"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who greets the children in the classroom?",
+      "options": [
+        { "option_id": 1, "text": "Student", "is_correct": false },
+        { "option_id": 2, "text": "Teacher", "is_correct": true },
+        { "option_id": 3, "text": "Parent", "is_correct": false },
+        { "option_id": 4, "text": "Principal", "is_correct": false }
+      ],
+      "answer": "Teacher"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the name of the student in the dialogue?",
+      "options": [
+        { "option_id": 1, "text": "Neha", "is_correct": false },
+        { "option_id": 2, "text": "Tejal", "is_correct": true },
+        { "option_id": 3, "text": "Rina", "is_correct": false },
+        { "option_id": 4, "text": "Anu", "is_correct": false }
+      ],
+      "answer": "Tejal"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the first letter of Tejal’s name?",
+      "options": [
+        { "option_id": 1, "text": "J", "is_correct": false },
+        { "option_id": 2, "text": "T", "is_correct": true },
+        { "option_id": 3, "text": "L", "is_correct": false },
+        { "option_id": 4, "text": "A", "is_correct": false }
+      ],
+      "answer": "T"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the last letter of Tejal’s name?",
+      "options": [
+        { "option_id": 1, "text": "t", "is_correct": false },
+        { "option_id": 2, "text": "a", "is_correct": false },
+        { "option_id": 3, "text": "l", "is_correct": true },
+        { "option_id": 4, "text": "j", "is_correct": false }
+      ],
+      "answer": "l"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "How many letters are there in the name Tejal?",
+      "options": [
+        { "option_id": 1, "text": "Four", "is_correct": false },
+        { "option_id": 2, "text": "Five", "is_correct": true },
+        { "option_id": 3, "text": "Six", "is_correct": false },
+        { "option_id": 4, "text": "Three", "is_correct": false }
+      ],
+      "answer": "Five"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word begins with the letter ‘T’?",
+      "options": [
+        { "option_id": 1, "text": "Tiger", "is_correct": true },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Fish", "is_correct": false }
+      ],
+      "answer": "Tiger"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the main purpose of this chapter?",
+      "options": [
+        { "option_id": 1, "text": "To teach drawing", "is_correct": false },
+        { "option_id": 2, "text": "To practice letters and words", "is_correct": true },
+        { "option_id": 3, "text": "To learn numbers", "is_correct": false },
+        { "option_id": 4, "text": "To sing songs", "is_correct": false }
+      ],
+      "answer": "To practice letters and words"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the first step of the activity?",
+      "answer": "The first step of the activity is to form pairs."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does one student do with the blue card?",
+      "answer": "The student puts a finger on any letter on the blue card."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How many letters does each student get?",
+      "answer": "Each student gets one letter."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What do students do with the two letters?",
+      "answer": "They write words using both letters."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name any one vowel.",
+      "answer": "One vowel is ‘a’."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name any one consonant.",
+      "answer": "One consonant is ‘b’."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Who says ‘Good morning children’?",
+      "answer": "The teacher says ‘Good morning children’."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the name of the student in the conversation?",
+      "answer": "The student’s name is Tejal."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the first letter of Tejal’s name?",
+      "answer": "The first letter is ‘T’."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the last letter of Tejal’s name?",
+      "answer": "The last letter is ‘l’."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How many letters are there in the name Tejal?",
+      "answer": "There are five letters in the name Tejal."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which word starts with the letter ‘T’?",
+      "answer": "The word ‘Tiger’ starts with the letter ‘T’."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What does this activity help students learn?",
+      "answer": "It helps students learn letters and form words."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What kind of classroom activity is shown?",
+      "answer": "It is a speaking and word practice activity."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is this activity useful for students?",
+      "answer": "It improves letter recognition and word formation."
+    }
+  ]
+}

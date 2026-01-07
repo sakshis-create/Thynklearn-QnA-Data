@@ -1,0 +1,1214 @@
+{
+  "Chapter 7": "Rocks and Rock Types",
+  "lessons": [
+    "Introduction to Rocks",
+    "Igneous Rocks",
+    "Sedimentary Rocks",
+    "Metamorphic Rocks",
+    "Distribution of Rocks in Maharashtra",
+    "Uses of Rocks"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the basic material that makes up the earth’s crust?",
+      "options": [
+        { "option_id": 1, "text": "Water and air", "is_correct": false },
+        { "option_id": 2, "text": "Rocks and soil", "is_correct": true },
+        { "option_id": 3, "text": "Minerals only", "is_correct": false },
+        { "option_id": 4, "text": "Organic matter", "is_correct": false }
+      ],
+      "answer": "Rocks and soil"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Rocks are mainly a mixture of which components?",
+      "options": [
+        { "option_id": 1, "text": "Plants and animals", "is_correct": false },
+        { "option_id": 2, "text": "Soil and water", "is_correct": false },
+        { "option_id": 3, "text": "Different minerals", "is_correct": true },
+        { "option_id": 4, "text": "Air and gases", "is_correct": false }
+      ],
+      "answer": "Different minerals"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which factor mainly determines the properties of rocks?",
+      "options": [
+        { "option_id": 1, "text": "Their colour only", "is_correct": false },
+        { "option_id": 2, "text": "Their age", "is_correct": false },
+        { "option_id": 3, "text": "Constituent minerals and formation process", "is_correct": true },
+        { "option_id": 4, "text": "Their location", "is_correct": false }
+      ],
+      "answer": "Constituent minerals and formation process"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a major rock-forming mineral mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Silica", "is_correct": false },
+        { "option_id": 2, "text": "Aluminium", "is_correct": false },
+        { "option_id": 3, "text": "Iron", "is_correct": false },
+        { "option_id": 4, "text": "Gold", "is_correct": true }
+      ],
+      "answer": "Gold"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How many main types of rocks are classified based on their formation?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": true },
+        { "option_id": 3, "text": "Four", "is_correct": false },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which rocks are also known as primary rocks?",
+      "options": [
+        { "option_id": 1, "text": "Sedimentary rocks", "is_correct": false },
+        { "option_id": 2, "text": "Metamorphic rocks", "is_correct": false },
+        { "option_id": 3, "text": "Igneous rocks", "is_correct": true },
+        { "option_id": 4, "text": "Laterite rocks", "is_correct": false }
+      ],
+      "answer": "Igneous rocks"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Igneous rocks are formed from which material?",
+      "options": [
+        { "option_id": 1, "text": "Sediments", "is_correct": false },
+        { "option_id": 2, "text": "Magma or lava", "is_correct": true },
+        { "option_id": 3, "text": "Fossils", "is_correct": false },
+        { "option_id": 4, "text": "Soil particles", "is_correct": false }
+      ],
+      "answer": "Magma or lava"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which characteristic is typical of igneous rocks?",
+      "options": [
+        { "option_id": 1, "text": "Layered structure", "is_correct": false },
+        { "option_id": 2, "text": "Presence of fossils", "is_correct": false },
+        { "option_id": 3, "text": "Hard and homogeneous nature", "is_correct": true },
+        { "option_id": 4, "text": "Highly porous texture", "is_correct": false }
+      ],
+      "answer": "Hard and homogeneous nature"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which igneous rock is a major example mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Sandstone", "is_correct": false },
+        { "option_id": 2, "text": "Basalt", "is_correct": true },
+        { "option_id": 3, "text": "Marble", "is_correct": false },
+        { "option_id": 4, "text": "Slate", "is_correct": false }
+      ],
+      "answer": "Basalt"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which regions in Maharashtra are mainly formed of igneous rocks?",
+      "options": [
+        { "option_id": 1, "text": "Konkan coast only", "is_correct": false },
+        { "option_id": 2, "text": "Maharashtra Plateau and Sahyadris", "is_correct": true },
+        { "option_id": 3, "text": "Vidarbha plains", "is_correct": false },
+        { "option_id": 4, "text": "River deltas", "is_correct": false }
+      ],
+      "answer": "Maharashtra Plateau and Sahyadris"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why are fossils not found in igneous rocks?",
+      "options": [
+        { "option_id": 1, "text": "They are too soft", "is_correct": false },
+        { "option_id": 2, "text": "They form from molten material", "is_correct": true },
+        { "option_id": 3, "text": "They are porous", "is_correct": false },
+        { "option_id": 4, "text": "They are layered", "is_correct": false }
+      ],
+      "answer": "They form from molten material"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which igneous rock is formed from volcanic froth?",
+      "options": [
+        { "option_id": 1, "text": "Granite", "is_correct": false },
+        { "option_id": 2, "text": "Basalt", "is_correct": false },
+        { "option_id": 3, "text": "Pumice", "is_correct": true },
+        { "option_id": 4, "text": "Gneiss", "is_correct": false }
+      ],
+      "answer": "Pumice"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What special property allows pumice to float on water?",
+      "options": [
+        { "option_id": 1, "text": "High hardness", "is_correct": false },
+        { "option_id": 2, "text": "High density", "is_correct": false },
+        { "option_id": 3, "text": "Low density", "is_correct": true },
+        { "option_id": 4, "text": "Smooth surface", "is_correct": false }
+      ],
+      "answer": "Low density"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which process begins the formation of sedimentary rocks?",
+      "options": [
+        { "option_id": 1, "text": "Volcanic eruption", "is_correct": false },
+        { "option_id": 2, "text": "Weathering of rocks", "is_correct": true },
+        { "option_id": 3, "text": "Melting of minerals", "is_correct": false },
+        { "option_id": 4, "text": "Crystallization", "is_correct": false }
+      ],
+      "answer": "Weathering of rocks"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which agents transport rock particles during sedimentary rock formation?",
+      "options": [
+        { "option_id": 1, "text": "Only rivers", "is_correct": false },
+        { "option_id": 2, "text": "Rivers, glaciers and wind", "is_correct": true },
+        { "option_id": 3, "text": "Earthquakes only", "is_correct": false },
+        { "option_id": 4, "text": "Volcanoes only", "is_correct": false }
+      ],
+      "answer": "Rivers, glaciers and wind"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What causes sediments to compact and form sedimentary rocks?",
+      "options": [
+        { "option_id": 1, "text": "Cooling of lava", "is_correct": false },
+        { "option_id": 2, "text": "Pressure of upper layers", "is_correct": true },
+        { "option_id": 3, "text": "Chemical reactions only", "is_correct": false },
+        { "option_id": 4, "text": "Sudden heating", "is_correct": false }
+      ],
+      "answer": "Pressure of upper layers"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which feature is commonly visible in sedimentary rocks?",
+      "options": [
+        { "option_id": 1, "text": "Uniform crystals", "is_correct": false },
+        { "option_id": 2, "text": "Layered structure", "is_correct": true },
+        { "option_id": 3, "text": "Glassy surface", "is_correct": false },
+        { "option_id": 4, "text": "Absence of pores", "is_correct": false }
+      ],
+      "answer": "Layered structure"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Why are fossils commonly found in sedimentary rocks?",
+      "options": [
+        { "option_id": 1, "text": "Due to high heat", "is_correct": false },
+        { "option_id": 2, "text": "Because remains get buried in layers", "is_correct": true },
+        { "option_id": 3, "text": "Because they melt easily", "is_correct": false },
+        { "option_id": 4, "text": "Due to volcanic activity", "is_correct": false }
+      ],
+      "answer": "Because remains get buried in layers"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which property best describes sedimentary rocks?",
+      "options": [
+        { "option_id": 1, "text": "Very hard and heavy", "is_correct": false },
+        { "option_id": 2, "text": "Brittle and lightweight", "is_correct": true },
+        { "option_id": 3, "text": "Non-porous", "is_correct": false },
+        { "option_id": 4, "text": "Molten in nature", "is_correct": false }
+      ],
+      "answer": "Brittle and lightweight"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following is a sedimentary rock?",
+      "options": [
+        { "option_id": 1, "text": "Basalt", "is_correct": false },
+        { "option_id": 2, "text": "Granite", "is_correct": false },
+        { "option_id": 3, "text": "Sandstone", "is_correct": true },
+        { "option_id": 4, "text": "Gneiss", "is_correct": false }
+      ],
+      "answer": "Sandstone"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which useful resource is often found in sedimentary rocks?",
+      "options": [
+        { "option_id": 1, "text": "Diamonds", "is_correct": false },
+        { "option_id": 2, "text": "Coal seams", "is_correct": true },
+        { "option_id": 3, "text": "Lava", "is_correct": false },
+        { "option_id": 4, "text": "Magma", "is_correct": false }
+      ],
+      "answer": "Coal seams"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What causes the formation of metamorphic rocks?",
+      "options": [
+        { "option_id": 1, "text": "Weathering alone", "is_correct": false },
+        { "option_id": 2, "text": "Deposition of sediments", "is_correct": false },
+        { "option_id": 3, "text": "Heat and pressure on existing rocks", "is_correct": true },
+        { "option_id": 4, "text": "Cooling of magma", "is_correct": false }
+      ],
+      "answer": "Heat and pressure on existing rocks"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which rocks can change into metamorphic rocks?",
+      "options": [
+        { "option_id": 1, "text": "Only igneous rocks", "is_correct": false },
+        { "option_id": 2, "text": "Only sedimentary rocks", "is_correct": false },
+        { "option_id": 3, "text": "Both igneous and sedimentary rocks", "is_correct": true },
+        { "option_id": 4, "text": "Only laterite rocks", "is_correct": false }
+      ],
+      "answer": "Both igneous and sedimentary rocks"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What happens to minerals during metamorphism?",
+      "options": [
+        { "option_id": 1, "text": "They evaporate", "is_correct": false },
+        { "option_id": 2, "text": "They re-crystallize", "is_correct": true },
+        { "option_id": 3, "text": "They dissolve in water", "is_correct": false },
+        { "option_id": 4, "text": "They break into soil", "is_correct": false }
+      ],
+      "answer": "They re-crystallize"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which property is typical of metamorphic rocks?",
+      "options": [
+        { "option_id": 1, "text": "Presence of fossils", "is_correct": false },
+        { "option_id": 2, "text": "Porous and light", "is_correct": false },
+        { "option_id": 3, "text": "Hard and heavy", "is_correct": true },
+        { "option_id": 4, "text": "Loose particles", "is_correct": false }
+      ],
+      "answer": "Hard and heavy"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which sedimentary rock changes into marble after metamorphism?",
+      "options": [
+        { "option_id": 1, "text": "Sandstone", "is_correct": false },
+        { "option_id": 2, "text": "Shale", "is_correct": false },
+        { "option_id": 3, "text": "Limestone", "is_correct": true },
+        { "option_id": 4, "text": "Coal", "is_correct": false }
+      ],
+      "answer": "Limestone"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Granite gets metamorphosed into which rock?",
+      "options": [
+        { "option_id": 1, "text": "Quartzite", "is_correct": false },
+        { "option_id": 2, "text": "Slate", "is_correct": false },
+        { "option_id": 3, "text": "Gneiss", "is_correct": true },
+        { "option_id": 4, "text": "Marble", "is_correct": false }
+      ],
+      "answer": "Gneiss"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which metamorphic rock is formed from sandstone?",
+      "options": [
+        { "option_id": 1, "text": "Slate", "is_correct": false },
+        { "option_id": 2, "text": "Quartzite", "is_correct": true },
+        { "option_id": 3, "text": "Marble", "is_correct": false },
+        { "option_id": 4, "text": "Amphibolite", "is_correct": false }
+      ],
+      "answer": "Quartzite"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Coal gets transformed into which valuable material under intense heat and pressure?",
+      "options": [
+        { "option_id": 1, "text": "Graphite", "is_correct": false },
+        { "option_id": 2, "text": "Marble", "is_correct": false },
+        { "option_id": 3, "text": "Diamond", "is_correct": true },
+        { "option_id": 4, "text": "Quartz", "is_correct": false }
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Why is sandstone suitable for carving monuments?",
+      "options": [
+        { "option_id": 1, "text": "It is very hard", "is_correct": false },
+        { "option_id": 2, "text": "It is relatively soft", "is_correct": true },
+        { "option_id": 3, "text": "It melts easily", "is_correct": false },
+        { "option_id": 4, "text": "It is porous only", "is_correct": false }
+      ],
+      "answer": "It is relatively soft"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The Red Fort in Delhi is built using which type of rock?",
+      "options": [
+        { "option_id": 1, "text": "Granite", "is_correct": false },
+        { "option_id": 2, "text": "Red sandstone", "is_correct": true },
+        { "option_id": 3, "text": "Basalt", "is_correct": false },
+        { "option_id": 4, "text": "Marble", "is_correct": false }
+      ],
+      "answer": "Red sandstone"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which monument is built using marble?",
+      "options": [
+        { "option_id": 1, "text": "Fort Raigad", "is_correct": false },
+        { "option_id": 2, "text": "Ellora Caves", "is_correct": false },
+        { "option_id": 3, "text": "Taj Mahal", "is_correct": true },
+        { "option_id": 4, "text": "Red Fort", "is_correct": false }
+      ],
+      "answer": "Taj Mahal"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Marble is classified as which type of rock?",
+      "options": [
+        { "option_id": 1, "text": "Igneous", "is_correct": false },
+        { "option_id": 2, "text": "Sedimentary", "is_correct": false },
+        { "option_id": 3, "text": "Metamorphic", "is_correct": true },
+        { "option_id": 4, "text": "Laterite", "is_correct": false }
+      ],
+      "answer": "Metamorphic"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which river has carved a gorge through marble rock at Bhedaghat?",
+      "options": [
+        { "option_id": 1, "text": "Ganga", "is_correct": false },
+        { "option_id": 2, "text": "Godavari", "is_correct": false },
+        { "option_id": 3, "text": "Narmada", "is_correct": true },
+        { "option_id": 4, "text": "Krishna", "is_correct": false }
+      ],
+      "answer": "Narmada"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which rock type covers a vast region of Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Granite", "is_correct": false },
+        { "option_id": 2, "text": "Laterite", "is_correct": false },
+        { "option_id": 3, "text": "Basalt", "is_correct": true },
+        { "option_id": 4, "text": "Sandstone", "is_correct": false }
+      ],
+      "answer": "Basalt"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Why does Maharashtra have limited mineral wealth?",
+      "options": [
+        { "option_id": 1, "text": "Due to lack of rivers", "is_correct": false },
+        { "option_id": 2, "text": "Due to thick basalt layers", "is_correct": true },
+        { "option_id": 3, "text": "Due to dense forests", "is_correct": false },
+        { "option_id": 4, "text": "Due to low rainfall", "is_correct": false }
+      ],
+      "answer": "Due to thick basalt layers"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "In which regions of Maharashtra is mining activity mainly concentrated?",
+      "options": [
+        { "option_id": 1, "text": "Western Maharashtra", "is_correct": false },
+        { "option_id": 2, "text": "South Konkan and eastern Maharashtra", "is_correct": true },
+        { "option_id": 3, "text": "Central Maharashtra", "is_correct": false },
+        { "option_id": 4, "text": "Coastal plains only", "is_correct": false }
+      ],
+      "answer": "South Konkan and eastern Maharashtra"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Granite is mainly found in which parts of Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Central plateau", "is_correct": false },
+        { "option_id": 2, "text": "Eastern parts and South Konkan", "is_correct": true },
+        { "option_id": 3, "text": "Western coast only", "is_correct": false },
+        { "option_id": 4, "text": "Northern plains", "is_correct": false }
+      ],
+      "answer": "Eastern parts and South Konkan"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Laterite rock in Maharashtra is mainly found in which region?",
+      "options": [
+        { "option_id": 1, "text": "Vidarbha", "is_correct": false },
+        { "option_id": 2, "text": "Central Maharashtra", "is_correct": false },
+        { "option_id": 3, "text": "South Konkan", "is_correct": true },
+        { "option_id": 4, "text": "Marathwada", "is_correct": false }
+      ],
+      "answer": "South Konkan"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Laterite rock is especially found in which districts?",
+      "options": [
+        { "option_id": 1, "text": "Pune and Satara", "is_correct": false },
+        { "option_id": 2, "text": "Ratnagiri and Sindhudurg", "is_correct": true },
+        { "option_id": 3, "text": "Nagpur and Wardha", "is_correct": false },
+        { "option_id": 4, "text": "Aurangabad and Jalna", "is_correct": false }
+      ],
+      "answer": "Ratnagiri and Sindhudurg"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which rock type is generally porous?",
+      "options": [
+        { "option_id": 1, "text": "Igneous", "is_correct": false },
+        { "option_id": 2, "text": "Sedimentary", "is_correct": true },
+        { "option_id": 3, "text": "Metamorphic", "is_correct": false },
+        { "option_id": 4, "text": "Granite", "is_correct": false }
+      ],
+      "answer": "Sedimentary"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which characteristic best helps identify sedimentary rocks in the field?",
+      "options": [
+        { "option_id": 1, "text": "Glassy texture", "is_correct": false },
+        { "option_id": 2, "text": "Visible layers", "is_correct": true },
+        { "option_id": 3, "text": "Uniform crystals", "is_correct": false },
+        { "option_id": 4, "text": "Extreme hardness", "is_correct": false }
+      ],
+      "answer": "Visible layers"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which rock type does NOT contain fossils?",
+      "options": [
+        { "option_id": 1, "text": "Sedimentary", "is_correct": false },
+        { "option_id": 2, "text": "Metamorphic", "is_correct": true },
+        { "option_id": 3, "text": "Shale", "is_correct": false },
+        { "option_id": 4, "text": "Limestone", "is_correct": false }
+      ],
+      "answer": "Metamorphic"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What happens to original rocks during metamorphism?",
+      "options": [
+        { "option_id": 1, "text": "They melt completely", "is_correct": false },
+        { "option_id": 2, "text": "They get eroded", "is_correct": false },
+        { "option_id": 3, "text": "Their structure and composition change", "is_correct": true },
+        { "option_id": 4, "text": "They become soil", "is_correct": false }
+      ],
+      "answer": "Their structure and composition change"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which metamorphic rock is formed from shale?",
+      "options": [
+        { "option_id": 1, "text": "Quartzite", "is_correct": false },
+        { "option_id": 2, "text": "Slate", "is_correct": true },
+        { "option_id": 3, "text": "Marble", "is_correct": false },
+        { "option_id": 4, "text": "Gneiss", "is_correct": false }
+      ],
+      "answer": "Slate"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which statement correctly describes fossils?",
+      "options": [
+        { "option_id": 1, "text": "Molten remains of animals", "is_correct": false },
+        { "option_id": 2, "text": "Impressions of buried plants or animals", "is_correct": true },
+        { "option_id": 3, "text": "Crystals in rocks", "is_correct": false },
+        { "option_id": 4, "text": "Soil particles in layers", "is_correct": false }
+      ],
+      "answer": "Impressions of buried plants or animals"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What information does the study of fossils provide?",
+      "options": [
+        { "option_id": 1, "text": "Future climate changes", "is_correct": false },
+        { "option_id": 2, "text": "Life that existed in the past", "is_correct": true },
+        { "option_id": 3, "text": "Mineral composition only", "is_correct": false },
+        { "option_id": 4, "text": "Earth’s core temperature", "is_correct": false }
+      ],
+      "answer": "Life that existed in the past"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which rock type was mainly used for hill forts in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Basalt", "is_correct": true },
+        { "option_id": 2, "text": "Sandstone", "is_correct": false },
+        { "option_id": 3, "text": "Marble", "is_correct": false },
+        { "option_id": 4, "text": "Laterite", "is_correct": false }
+      ],
+      "answer": "Basalt"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Why were old quarry sites converted into reservoirs in forts?",
+      "options": [
+        { "option_id": 1, "text": "To mine more rock", "is_correct": false },
+        { "option_id": 2, "text": "To allow water accumulation", "is_correct": true },
+        { "option_id": 3, "text": "To grow vegetation", "is_correct": false },
+        { "option_id": 4, "text": "To store minerals", "is_correct": false }
+      ],
+      "answer": "To allow water accumulation"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which rock type would be most suitable for sculpture making due to ease of carving?",
+      "options": [
+        { "option_id": 1, "text": "Basalt", "is_correct": false },
+        { "option_id": 2, "text": "Granite", "is_correct": false },
+        { "option_id": 3, "text": "Sandstone", "is_correct": true },
+        { "option_id": 4, "text": "Quartzite", "is_correct": false }
+      ],
+      "answer": "Sandstone"
+    },
+{
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are rocks?",
+      "answer": "Rocks are natural solid substances made up of a mixture of different minerals found on and below the earth’s surface."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Where are rocks found on the earth?",
+      "answer": "Rocks are found on the land surface as well as below the land surface in the earth’s crust."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "On what basis are rocks classified into different types?",
+      "answer": "Rocks are classified based on their formation process."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name the three main types of rocks.",
+      "answer": "The three main types of rocks are igneous, sedimentary and metamorphic rocks."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why do rocks have different properties?",
+      "answer": "Rocks have different properties due to variation in their constituent minerals and their formation processes."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What are igneous rocks?",
+      "answer": "Igneous rocks are formed when molten magma or lava cools and solidifies."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why are igneous rocks called primary rocks?",
+      "answer": "Igneous rocks are called primary rocks because they are formed directly from the material inside the earth."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "State two characteristics of igneous rocks.",
+      "answer": "Igneous rocks are hard and homogeneous, and they are generally heavy."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why are fossils absent in igneous rocks?",
+      "answer": "Igneous rocks form from molten material, which destroys any organic remains."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one important igneous rock found in Maharashtra.",
+      "answer": "Basalt is an important igneous rock found in Maharashtra."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is pumice?",
+      "answer": "Pumice is an igneous rock formed from volcanic froth."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why can pumice float on water?",
+      "answer": "Pumice can float on water because it is porous and has very low density."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is weathering of rocks?",
+      "answer": "Weathering is the process by which rocks crack, disintegrate or decompose due to temperature changes and water action."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How are sedimentary rocks formed?",
+      "answer": "Sedimentary rocks are formed by deposition, compaction and consolidation of sediments transported by natural agents."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which natural agents transport sediments?",
+      "answer": "Rivers, glaciers and wind transport sediments."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why do sedimentary rocks show layers?",
+      "answer": "Sedimentary rocks show layers because sediments are deposited one over another over a long period."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why are fossils commonly found in sedimentary rocks?",
+      "answer": "Fossils are found because remains of plants and animals get buried in sedimentary layers."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "State two properties of sedimentary rocks.",
+      "answer": "Sedimentary rocks are generally brittle and lightweight."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Name any two sedimentary rocks.",
+      "answer": "Sandstone and limestone are sedimentary rocks."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What useful resource is found in sedimentary rocks?",
+      "answer": "Coal seams are commonly found in sedimentary rocks."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is a volcano?",
+      "answer": "A volcano is an opening in the earth’s crust through which molten material, gases and ash are released."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What are metamorphic rocks?",
+      "answer": "Metamorphic rocks are formed when existing rocks undergo changes due to heat and pressure."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Which rocks can change into metamorphic rocks?",
+      "answer": "Both igneous and sedimentary rocks can change into metamorphic rocks."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What happens to minerals during metamorphism?",
+      "answer": "Minerals in the rocks get re-crystallized during metamorphism."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why are fossils not found in metamorphic rocks?",
+      "answer": "High heat and pressure destroy fossils during metamorphism."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Name the metamorphic rock formed from limestone.",
+      "answer": "Marble is formed from limestone."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which rock is formed when sandstone undergoes metamorphism?",
+      "answer": "Quartzite is formed from sandstone."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is gneiss?",
+      "answer": "Gneiss is a metamorphic rock formed from granite."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How does coal change into diamond?",
+      "answer": "Coal changes into diamond under intense heat and heavy pressure."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is marble used in monuments like the Taj Mahal?",
+      "answer": "Marble is hard, durable and suitable for fine carving."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which river has carved a gorge through marble rock at Bhedaghat?",
+      "answer": "The river Narmada has carved a gorge through marble rock."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which rock type covers most of Maharashtra?",
+      "answer": "Basalt rock covers most of Maharashtra."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why does Maharashtra have limited mineral wealth?",
+      "answer": "Maharashtra has thick layers of basalt, which restrict mineral deposits."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Where is granite found in Maharashtra?",
+      "answer": "Granite is found in eastern Maharashtra and South Konkan."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Where is laterite rock mainly found in Maharashtra?",
+      "answer": "Laterite rock is mainly found in South Konkan."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Name the districts where laterite rock is found.",
+      "answer": "Laterite rock is found in Ratnagiri and Sindhudurg districts."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why is mining concentrated in South Konkan and eastern Maharashtra?",
+      "answer": "These regions have rocks other than basalt, which contain mineral resources."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why was basalt used for building hill forts in Maharashtra?",
+      "answer": "Basalt is hard and durable, making it suitable for fort construction."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How were reservoirs formed in old fort quarries?",
+      "answer": "Water accumulated in pits left after stone extraction, forming reservoirs."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What are fossils?",
+      "answer": "Fossils are preserved impressions or remains of dead plants and animals in rocks."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What does the study of fossils help us understand?",
+      "answer": "The study of fossils helps us understand life in the past."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is sandstone easy to carve?",
+      "answer": "Sandstone is relatively soft compared to other rocks."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which rock would you suggest for sculpture making and why?",
+      "answer": "Sandstone is suitable because it is easy to carve."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is laterite rock?",
+      "answer": "Laterite is a rock found in coastal regions, rich in iron and aluminium."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is classification of rocks important?",
+      "answer": "Classification helps in understanding rock properties, uses and formation."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How are rocks useful to humans?",
+      "answer": "Rocks are used for construction, sculptures, minerals and fuels."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What observations help identify a rock specimen?",
+      "answer": "Colour, hardness, weight, structure and porosity help identify a rock."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does porosity of a rock indicate?",
+      "answer": "Porosity indicates the presence of pores or spaces within a rock."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why are sedimentary rocks generally porous?",
+      "answer": "They are formed from compacted sediments, leaving spaces between particles."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "How do rocks help us understand earth’s history?",
+      "answer": "Rocks and fossils provide evidence about past geological processes and life."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Explain how the mineral composition of rocks influences their hardness and weight.",
+      "answer": "The type and proportion of minerals present in a rock determine its hardness and weight, as different minerals have varying strength and density."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why are igneous rocks considered the foundation of other rock types?",
+      "answer": "Igneous rocks are formed first from molten material and later give rise to sedimentary and metamorphic rocks through weathering and transformation."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "How does the cooling of magma and lava affect the structure of igneous rocks?",
+      "answer": "Cooling causes molten material to solidify into a hard and uniform structure, resulting in homogeneous igneous rocks."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why are igneous rocks unsuitable for fossil preservation?",
+      "answer": "The high temperature of molten magma destroys organic remains, preventing fossil formation."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Explain why pumice has a porous structure.",
+      "answer": "Pumice forms from volcanic froth containing gas bubbles, creating a porous structure."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How does weathering initiate the rock cycle?",
+      "answer": "Weathering breaks rocks into smaller particles, which later form sedimentary rocks, starting the rock cycle."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why is transportation of sediments essential in sedimentary rock formation?",
+      "answer": "Transportation moves rock particles to low-lying areas where they can accumulate and form layers."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How does pressure from upper layers change loose sediments into solid rock?",
+      "answer": "Pressure compacts sediments tightly, binding particles together to form sedimentary rocks."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Explain why sedimentary rocks are generally brittle.",
+      "answer": "They are formed from compacted sediments, which lack strong interlocking crystals."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How do sedimentary rocks provide evidence of past life?",
+      "answer": "They contain fossils formed from buried remains of plants and animals."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why is coal considered both a sedimentary and a metamorphic resource?",
+      "answer": "Coal is found in sedimentary rocks but transforms into diamond under intense heat and pressure."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Explain how heat and pressure together bring about metamorphism.",
+      "answer": "Heat alters mineral composition while pressure changes rock structure, transforming original rocks."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why do metamorphic rocks become harder than their original forms?",
+      "answer": "Re-crystallization of minerals under pressure increases hardness and density."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How does metamorphism erase fossils from rocks?",
+      "answer": "High temperature and pressure destroy fossil structures during transformation."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Explain the transformation of limestone into marble.",
+      "answer": "Limestone undergoes heat and pressure, causing mineral re-crystallization into marble."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why is quartzite harder than sandstone?",
+      "answer": "Quartzite forms when sandstone is subjected to intense heat and pressure, strengthening its mineral bonds."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "How does the transformation of coal into diamond show economic change in rocks?",
+      "answer": "Metamorphism converts low-value coal into high-value diamond due to structural changes."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why are metamorphic rocks preferred for decorative monuments?",
+      "answer": "They are hard, durable and suitable for fine finishing."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Explain why marble was chosen for the Taj Mahal.",
+      "answer": "Marble is durable, aesthetically appealing and suitable for detailed carving."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How do geological conditions influence the distribution of rocks in Maharashtra?",
+      "answer": "Volcanic activity led to widespread basalt, while other regions contain granite and laterite."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why does extensive basalt reduce mineral availability in Maharashtra?",
+      "answer": "Basalt layers restrict the formation and exposure of mineral-rich rocks."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Explain why mining is localized in specific regions of Maharashtra.",
+      "answer": "Mining occurs where non-basaltic rocks containing minerals are present."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is laterite commonly found in coastal regions?",
+      "answer": "Climatic conditions in coastal areas favor laterite formation."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How does laterite differ in use from basalt?",
+      "answer": "Laterite is used for construction locally, while basalt is used for strong fort structures."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why were hill forts in Maharashtra constructed using basalt?",
+      "answer": "Basalt is hard, durable and abundantly available in the region."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Explain how old quarry sites became important water reservoirs.",
+      "answer": "Abandoned quarry pits collected rainwater, forming lakes and tanks."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How do rocks help in understanding earth’s geological history?",
+      "answer": "Rock types and fossils reveal information about past processes and environments."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why is classification of rocks essential in geology?",
+      "answer": "It helps in identifying rock properties, origin and practical uses."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "How does porosity affect the usability of rocks?",
+      "answer": "Porous rocks absorb water easily, influencing their use in construction."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why are sedimentary rocks important for energy resources?",
+      "answer": "They contain coal seams, which are major energy sources."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Explain the role of rocks in human civilization.",
+      "answer": "Rocks provide materials for tools, buildings, monuments and energy."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How does river action contribute indirectly to rock formation?",
+      "answer": "Rivers transport sediments that later form sedimentary rocks."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is sandstone preferred for sculpture work?",
+      "answer": "Its softness allows easy carving and shaping."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Explain how rock hardness influences construction choices.",
+      "answer": "Hard rocks are used for strength, while softer rocks are used for carving."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "How does the rock cycle show continuity in nature?",
+      "answer": "Rocks continuously change from one type to another through natural processes."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why are igneous rocks usually non-porous?",
+      "answer": "They form from solidified molten material without air spaces."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "How does temperature variation accelerate weathering?",
+      "answer": "Expansion and contraction due to temperature changes cause rock cracking."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Explain why fossils are valuable to scientists.",
+      "answer": "They provide evidence of ancient life and environmental conditions."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "How does metamorphism change both structure and composition of rocks?",
+      "answer": "Minerals re-crystallize and realign under heat and pressure."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why are metamorphic rocks rarely porous?",
+      "answer": "Pressure closes pore spaces during re-crystallization."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Explain the relationship between rock type and landform development.",
+      "answer": "Different rock hardness leads to varied erosion and landforms."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why does basalt dominate the Deccan plateau region?",
+      "answer": "Extensive volcanic eruptions spread basalt over a wide area."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "How does rock distribution influence economic activities?",
+      "answer": "Availability of minerals determines mining and industrial development."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why is granite used in construction despite being hard to carve?",
+      "answer": "Its strength and durability make it suitable for heavy structures."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Explain how studying rocks supports environmental planning.",
+      "answer": "Knowledge of rocks helps in construction safety and resource management."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How do rocks influence soil formation?",
+      "answer": "Weathered rocks break down to form soil components."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is basalt less suitable for sculpture compared to sandstone?",
+      "answer": "Basalt is extremely hard, making carving difficult."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How do geological processes show interdependence in rock formation?",
+      "answer": "Weathering, deposition and metamorphism are interconnected processes."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Explain why rocks are considered natural records of the earth.",
+      "answer": "They preserve evidence of past geological and biological events."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is sustainable use of rock resources important?",
+      "answer": "Rocks form over long periods and must be conserved for future use."
+    }
+  ]
+}

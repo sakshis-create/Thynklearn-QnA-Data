@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.27",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Worth of a Fabric"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was Thiruvalluvar?",
+      "options": [
+        { "option_id": 1, "text": "A rich merchant", "is_correct": false },
+        { "option_id": 2, "text": "A great Tamil Saint-poet", "is_correct": true },
+        { "option_id": 3, "text": "A young warrior", "is_correct": false },
+        { "option_id": 4, "text": "A king", "is_correct": false }
+      ],
+      "answer": "A great Tamil Saint-poet"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the name of the book containing Thiruvalluvar's teachings?",
+      "options": [
+        { "option_id": 1, "text": "Ramayana", "is_correct": false },
+        { "option_id": 2, "text": "Mahabharata", "is_correct": false },
+        { "option_id": 3, "text": "Thirukkural", "is_correct": true },
+        { "option_id": 4, "text": "Vedas", "is_correct": false }
+      ],
+      "answer": "Thirukkural"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What was Thiruvalluvar's profession?",
+      "options": [
+        { "option_id": 1, "text": "Farmer", "is_correct": false },
+        { "option_id": 2, "text": "Textile weaver", "is_correct": true },
+        { "option_id": 3, "text": "Carpenter", "is_correct": false },
+        { "option_id": 4, "text": "Potter", "is_correct": false }
+      ],
+      "answer": "Textile weaver"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What did people say about Thiruvalluvar's nature?",
+      "options": [
+        { "option_id": 1, "text": "He was very greedy", "is_correct": false },
+        { "option_id": 2, "text": "He never got angry", "is_correct": true },
+        { "option_id": 3, "text": "He was very proud", "is_correct": false },
+        { "option_id": 4, "text": "He shouted at everyone", "is_correct": false }
+      ],
+      "answer": "He never got angry"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why did the rich young man approach Thiruvalluvar?",
+      "options": [
+        { "option_id": 1, "text": "To buy a sari", "is_correct": false },
+        { "option_id": 2, "text": "To learn weaving", "is_correct": false },
+        { "option_id": 3, "text": "To make him angry", "is_correct": true },
+        { "option_id": 4, "text": "To ask for money", "is_correct": false }
+      ],
+      "answer": "To make him angry"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What was the initial price of the beautiful fabric?",
+      "options": [
+        { "option_id": 1, "text": "Four coins", "is_correct": false },
+        { "option_id": 2, "text": "Ten coins", "is_correct": false },
+        { "option_id": 3, "text": "Eight coins", "is_correct": true },
+        { "option_id": 4, "text": "Two coins", "is_correct": false }
+      ],
+      "answer": "Eight coins"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What did the young man do to the fabric first?",
+      "options": [
+        { "option_id": 1, "text": "He bought it", "is_correct": false },
+        { "option_id": 2, "text": "He tore it into two", "is_correct": true },
+        { "option_id": 3, "text": "He threw it away", "is_correct": false },
+        { "option_id": 4, "text": "He wore it", "is_correct": false }
+      ],
+      "answer": "He tore it into two"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What was the price after the fabric was torn once?",
+      "options": [
+        { "option_id": 1, "text": "Eight coins", "is_correct": false },
+        { "option_id": 2, "text": "Six coins", "is_correct": false },
+        { "option_id": 3, "text": "Four coins", "is_correct": true },
+        { "option_id": 4, "text": "Zero coins", "is_correct": false }
+      ],
+      "answer": "Four coins"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How did Thiruvalluvar react when the young man tore the fabric?",
+      "options": [
+        { "option_id": 1, "text": "He shouted at him", "is_correct": false },
+        { "option_id": 2, "text": "He started crying", "is_correct": false },
+        { "option_id": 3, "text": "He answered politely", "is_correct": true },
+        { "option_id": 4, "text": "He hit the young man", "is_correct": false }
+      ],
+      "answer": "He answered politely"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What happened to the price as the fabric was torn into smaller pieces?",
+      "options": [
+        { "option_id": 1, "text": "It increased", "is_correct": false },
+        { "option_id": 2, "text": "It stayed the same", "is_correct": false },
+        { "option_id": 3, "text": "It reduced to half every time", "is_correct": true },
+        { "option_id": 4, "text": "It became double", "is_correct": false }
+      ],
+      "answer": "It reduced to half every time"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "When did the fabric become 'worthless'?",
+      "options": [
+        { "option_id": 1, "text": "When it was torn once", "is_correct": false },
+        { "option_id": 2, "text": "When it was reduced to rags", "is_correct": true },
+        { "option_id": 3, "text": "When the sun went down", "is_correct": false },
+        { "option_id": 4, "text": "When it was washed", "is_correct": false }
+      ],
+      "answer": "When it was reduced to rags"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why did Thiruvalluvar refuse to take the eight coins at the end?",
+      "options": [
+        { "option_id": 1, "text": "He wanted more money", "is_correct": false },
+        { "option_id": 2, "text": "The fabric was now of no use", "is_correct": true },
+        { "option_id": 3, "text": "He didn't like the young man", "is_correct": false },
+        { "option_id": 4, "text": "The coins were fake", "is_correct": false }
+      ],
+      "answer": "The fabric was now of no use"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who worked hard for months to grow the cotton?",
+      "options": [
+        { "option_id": 1, "text": "The weaver", "is_correct": false },
+        { "option_id": 2, "text": "The spinner", "is_correct": false },
+        { "option_id": 3, "text": "The farmer", "is_correct": true },
+        { "option_id": 4, "text": "The merchant", "is_correct": false }
+      ],
+      "answer": "The farmer"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What process involves cleaning and combing cotton?",
+      "options": [
+        { "option_id": 1, "text": "Spinning", "is_correct": false },
+        { "option_id": 2, "text": "Dyeing", "is_correct": false },
+        { "option_id": 3, "text": "Carding", "is_correct": true },
+        { "option_id": 4, "text": "Weaving", "is_correct": false }
+      ],
+      "answer": "Carding"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What did the weaver and his wife put into the fabric?",
+      "options": [
+        { "option_id": 1, "text": "Beautiful designs", "is_correct": true },
+        { "option_id": 2, "text": "Golden coins", "is_correct": false },
+        { "option_id": 3, "text": "Thorns", "is_correct": false },
+        { "option_id": 4, "text": "Magic powder", "is_correct": false }
+      ],
+      "answer": "Beautiful designs"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "According to Thiruvalluvar, what destroyed the 'love and labour'?",
+      "options": [
+        { "option_id": 1, "text": "The rain", "is_correct": false },
+        { "option_id": 2, "text": "The market prices", "is_correct": false },
+        { "option_id": 3, "text": "The destruction of the fabric", "is_correct": true },
+        { "option_id": 4, "text": "The passage of time", "is_correct": false }
+      ],
+      "answer": "The destruction of the fabric"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What cannot bring back the destroyed labour?",
+      "options": [
+        { "option_id": 1, "text": "Prayer", "is_correct": false },
+        { "option_id": 2, "text": "Money", "is_correct": true },
+        { "option_id": 3, "text": "New threads", "is_correct": false },
+        { "option_id": 4, "text": "Hard work", "is_correct": false }
+      ],
+      "answer": "Money"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What did Thiruvalluvar compare the fabric to?",
+      "options": [
+        { "option_id": 1, "text": "A book", "is_correct": false },
+        { "option_id": 2, "text": "The river", "is_correct": false },
+        { "option_id": 3, "text": "Human life", "is_correct": true },
+        { "option_id": 4, "text": "A dream", "is_correct": false }
+      ],
+      "answer": "Human life"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "How can life be destroyed according to the story?",
+      "options": [
+        { "option_id": 1, "text": "By weaving more", "is_correct": false },
+        { "option_id": 2, "text": "By hasty, thoughtless actions", "is_correct": true },
+        { "option_id": 3, "text": "By getting rich", "is_correct": false },
+        { "option_id": 4, "text": "By working hard", "is_correct": false }
+      ],
+      "answer": "By hasty, thoughtless actions"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What did the young man decide to give up at the end?",
+      "options": [
+        { "option_id": 1, "text": "His money", "is_correct": false },
+        { "option_id": 2, "text": "His clothes", "is_correct": false },
+        { "option_id": 3, "text": "His idleness and bad habits", "is_correct": true },
+        { "option_id": 4, "text": "His friends", "is_correct": false }
+      ],
+      "answer": "His idleness and bad habits"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The word 'boll' means:",
+      "options": [
+        { "option_id": 1, "text": "A cricket ball", "is_correct": false },
+        { "option_id": 2, "text": "Pod of the cotton plant", "is_correct": true },
+        { "option_id": 3, "text": "A large bowl", "is_correct": false },
+        { "option_id": 4, "text": "A type of fabric", "is_correct": false }
+      ],
+      "answer": "Pod of the cotton plant"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does 'idleness' mean?",
+      "options": [
+        { "option_id": 1, "text": "Laziness", "is_correct": true },
+        { "option_id": 2, "text": "Hard work", "is_correct": false },
+        { "option_id": 3, "text": "Smartness", "is_correct": false },
+        { "option_id": 4, "text": "Wealth", "is_correct": false }
+      ],
+      "answer": "Laziness"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Thiruvalluvar lived more than ______ years ago.",
+      "options": [
+        { "option_id": 1, "text": "Five hundred", "is_correct": false },
+        { "option_id": 2, "text": "Two thousand", "is_correct": true },
+        { "option_id": 3, "text": "One thousand", "is_correct": false },
+        { "option_id": 4, "text": "One hundred", "is_correct": false }
+      ],
+      "answer": "Two thousand"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who was impatient and agitated in the middle of the story?",
+      "options": [
+        { "option_id": 1, "text": "Thiruvalluvar", "is_correct": false },
+        { "option_id": 2, "text": "The young man", "is_correct": true },
+        { "option_id": 3, "text": "The farmer", "is_correct": false },
+        { "option_id": 4, "text": "The merchant", "is_correct": false }
+      ],
+      "answer": "The young man"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which town did the characters live in?",
+      "options": [
+        { "option_id": 1, "text": "The story doesn't name the town, just says 'the same town'", "is_correct": true },
+        { "option_id": 2, "text": "Madurai", "is_correct": false },
+        { "option_id": 3, "text": "Chennai", "is_correct": false },
+        { "option_id": 4, "text": "Kanchipuram", "is_correct": false }
+      ],
+      "answer": "The story doesn't name the town, just says 'the same town'"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who was Thiruvalluvar?",
+      "answer": "Thiruvalluvar was a great Tamil Saint-poet and textile weaver who lived more than two thousand years ago."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is 'Thirukkural'?",
+      "answer": "'Thirukkural' is a book containing the teachings of Thiruvalluvar."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What items did Thiruvalluvar weave and sell?",
+      "answer": "He wove beautiful fabrics and saris and sold them in the market."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Describe the character of Thiruvalluvar as mentioned by people.",
+      "answer": "People said he never got angry, never used bad words, and never shouted at anyone."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "How did the rich young man spend his time?",
+      "answer": "He wasted most of his time roaming around with his friends and making fun of other people."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What was the young man's challenge to himself?",
+      "answer": "The young man challenged himself to make Thiruvalluvar angry."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What did the young man do when he first approached Thiruvalluvar?",
+      "answer": "He picked up a beautiful piece of fabric and asked how much it cost."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What was the initial price of the fabric?",
+      "answer": "The initial price was eight coins."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What did the young man do to the fabric to try and provoke the Saint?",
+      "answer": "He tore the fabric into two and eventually into rags."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "How did Thiruvalluvar respond when the fabric was torn into two?",
+      "answer": "He answered politely that the price for the piece was now four coins."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Why was the youth 'taken aback' during the interaction?",
+      "answer": "He was taken aback because Thiruvalluvar did not get angry despite the fabric being torn."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What was the price when the pieces were torn again and again?",
+      "answer": "The price was reduced to half every time: from eight to four, then two, and so on."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What happened to the fabric at the end of the young man's actions?",
+      "answer": "The fabric was reduced to worthless rags."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Why did Thiruvalluvar say the fabric had become worthless?",
+      "answer": "It became worthless because no one would be able to wear it anymore."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What did the young man offer to pay at the end?",
+      "answer": "He offered to pay eight coins to the Saint."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Why did Thiruvalluvar refuse the money?",
+      "answer": "He refused because the fabric was now of no use, and he would not take money for something worthless."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Explain the role of the farmer in making the fabric.",
+      "answer": "The farmer grew cotton in his field, working for months through sun and rain, and picked cotton from each boll."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What happens after the cotton is picked?",
+      "answer": "It is given for spinning, carded, and spun into long, uniform threads."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "How did the threads get their lovely colors?",
+      "answer": "The threads were dyed carefully to take on those colors."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Who wove the threads together?",
+      "answer": "Thiruvalluvar and his wife wove the threads together."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What did the weavers hope for while making the fabric?",
+      "answer": "They hoped that someday someone would like the fabric, wear it, and be happy."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What did destroying the fabric represent to Thiruvalluvar?",
+      "answer": "It represented the destruction of all the love and labor that went into making it."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Why can money not bring back the fabric?",
+      "answer": "Money can pay for the material, but it cannot bring back the months of hard work and care put in by many people."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "How did the young man feel after hearing Thiruvalluvar's explanation?",
+      "answer": "He felt really ashamed of himself and his heart was touched by the softly spoken words."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the comparison made between life and the fabric?",
+      "answer": "Like the fabric, life can be destroyed by hasty, thoughtless actions, and once destroyed, it cannot be gotten back."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What was the final result of Thiruvalluvar's words on the young man?",
+      "answer": "The young man's eyes were opened, and he decided to give up his idleness and bad habits."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does 'spinning' mean?",
+      "answer": "Spinning is the process of making yarn or thread out of cotton wool."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Define 'carded' as used in the text.",
+      "answer": "Carded means cleaned and combed cotton to remove seeds."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does it mean to be 'rewarded' in the context of the story?",
+      "answer": "It means getting what one has worked for, such as seeing someone happy wearing the fabric."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why did Thiruvalluvar smile for the first time?",
+      "answer": "He smiled while refusing the money, perhaps seeing the young man's realization or maintaining his calm demeanor."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Where did Thiruvalluvar sell his goods?",
+      "answer": "He sold them in the market."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How many years ago did the Saint live?",
+      "answer": "He lived more than two thousand years ago."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What kind of words did Thiruvalluvar use?",
+      "answer": "He used softly spoken words and never used bad words."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What was the young man proud of?",
+      "answer": "He was proud of his riches."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the central message of the story?",
+      "answer": "The message is to value the labor of others and to realize that thoughtless actions can destroy precious things like life and effort."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What did the farmer have to endure to grow cotton?",
+      "answer": "The farmer had to work through sun and rain for months."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Who helped Thiruvalluvar in weaving?",
+      "answer": "His wife helped him in weaving."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'opened the young man's eyes' mean?",
+      "answer": "It means he was made to realize the truth or understand his mistake."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How did the Saint name the price of the fabric pieces?",
+      "answer": "He named them calmly and politely."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Could the weaver weave another fabric?",
+      "answer": "Yes, Thiruvalluvar said he could weave another fabric, but life cannot be replaced."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does 'toiled' mean in the text?",
+      "answer": "Toiled means worked extremely hard."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What did the young man's friends do?",
+      "answer": "They roamed around with him and often made fun of other people."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why didn't Thiruvalluvar name a price for the rags?",
+      "answer": "Because the rags were worthless and could not be used for anything."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What are 'uniform threads'?",
+      "answer": "Threads that are consistent in thickness and quality throughout."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What kind of tone did Thiruvalluvar use when the fabric became rags?",
+      "answer": "He used a quiet tone."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How long did the farmer work?",
+      "answer": "The farmer worked for months."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What was the youth's mental state when he tore the pieces again and again?",
+      "answer": "He became impatient and agitated."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What does 'agitated' mean?",
+      "answer": "Agitated means feeling troubled, nervous, or excited."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Did Thiruvalluvar ever shout?",
+      "answer": "No, people said he never shouted at anyone."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the lesson about money in this story?",
+      "answer": "Money cannot compensate for the loss of hard work, love, and life's value."
+    }
+  ]
+}

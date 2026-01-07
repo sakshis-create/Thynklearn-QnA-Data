@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.08",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "चित्रवाचन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "चित्रात आई–वडील आणि मुले कुठे आलेली दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "बागेत", "is_correct": false },
+        { "option_id": 2, "text": "शाळेत", "is_correct": false },
+        { "option_id": 3, "text": "खेळण्यांच्या दुकानात", "is_correct": true },
+        { "option_id": 4, "text": "रुग्णालयात", "is_correct": false }
+      ],
+      "answer": "खेळण्यांच्या दुकानात"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "दुकानातील काउंटरच्या मागे कोण उभे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "आई", "is_correct": false },
+        { "option_id": 2, "text": "दुकानदार काका", "is_correct": true },
+        { "option_id": 3, "text": "मुलगा", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षक", "is_correct": false }
+      ],
+      "answer": "दुकानदार काका"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "दुकानदार मुलाला कोणते खेळणे देत आहे?",
+      "options": [
+        { "option_id": 1, "text": "कार", "is_correct": false },
+        { "option_id": 2, "text": "चेंडू", "is_correct": false },
+        { "option_id": 3, "text": "ससा खेळणे", "is_correct": true },
+        { "option_id": 4, "text": "विमान", "is_correct": false }
+      ],
+      "answer": "ससा खेळणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शेल्फवर वरच्या बाजूला कोणती खेळणी ठेवलेली दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "प्राणी आणि बाहुल्या", "is_correct": true },
+        { "option_id": 2, "text": "भांडी", "is_correct": false },
+        { "option_id": 3, "text": "पुस्तके", "is_correct": false },
+        { "option_id": 4, "text": "फळे", "is_correct": false }
+      ],
+      "answer": "प्राणी आणि बाहुल्या"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "दुसऱ्या चित्रात कोणत्या प्रकारची खेळणी अधिक दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळाचे चेंडू आणि बॅट", "is_correct": false },
+        { "option_id": 2, "text": "गाड्या, ट्रेन आणि प्राणी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त बाहुल्या", "is_correct": false },
+        { "option_id": 4, "text": "केवळ पझल", "is_correct": false }
+      ],
+      "answer": "गाड्या, ट्रेन आणि प्राणी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "शेल्फवर कोणते खेळणे गोल आहे?",
+      "options": [
+        { "option_id": 1, "text": "टेडी बेअर", "is_correct": false },
+        { "option_id": 2, "text": "कार", "is_correct": false },
+        { "option_id": 3, "text": "फुटबॉल", "is_correct": true },
+        { "option_id": 4, "text": "रॉकेट", "is_correct": false }
+      ],
+      "answer": "फुटबॉल"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "चित्रातील मुले कशी दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "दुःखी", "is_correct": false },
+        { "option_id": 2, "text": "रागावलेली", "is_correct": false },
+        { "option_id": 3, "text": "आनंदी व हसरी", "is_correct": true },
+        { "option_id": 4, "text": "घाबरलेली", "is_correct": false }
+      ],
+      "answer": "आनंदी व हसरी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "दुसऱ्या चित्रात खाली कोणती खेळणी ठेवलेली आहेत?",
+      "options": [
+        { "option_id": 1, "text": "सायकल व स्केट", "is_correct": false },
+        { "option_id": 2, "text": "लहान गाडी, डायनासोर, टेडी", "is_correct": true },
+        { "option_id": 3, "text": "केवळ बंदुका", "is_correct": false },
+        { "option_id": 4, "text": "इलेक्ट्रॉनिक खेळ", "is_correct": false }
+      ],
+      "answer": "लहान गाडी, डायनासोर, टेडी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "दुकानात कोणत्या वस्तूंच्या बॉक्सवर BEADS असे लिहिलेले आहे?",
+      "options": [
+        { "option_id": 1, "text": "रंग खेळणी", "is_correct": false },
+        { "option_id": 2, "text": "मण्यांच्या खेळाचे बॉक्स", "is_correct": true },
+        { "option_id": 3, "text": "कार खेळणी", "is_correct": false },
+        { "option_id": 4, "text": "कोडी", "is_correct": false }
+      ],
+      "answer": "मण्यांच्या खेळाचे बॉक्स"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "चित्रवाचनाचा उद्देश काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "चित्र रंगवणे", "is_correct": false },
+        { "option_id": 2, "text": "चित्रातील गोष्टी ओळखणे व सांगणे", "is_correct": true },
+        { "option_id": 3, "text": "केवळ कविता म्हणणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ खेळणे", "is_correct": false }
+      ],
+      "answer": "चित्रातील गोष्टी ओळखणे व सांगणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "चित्रात कोणते खेळ साहित्य दिसते?",
+      "options": [
+        { "option_id": 1, "text": "रॅकेट व शटलकॉक", "is_correct": true },
+        { "option_id": 2, "text": "क्रिकेट किट", "is_correct": false },
+        { "option_id": 3, "text": "हॉकी गोलपोस्ट", "is_correct": false },
+        { "option_id": 4, "text": "टेनिस नेट", "is_correct": false }
+      ],
+      "answer": "रॅकेट व शटलकॉक"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "दुकानातील शेल्फची रचना कशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकच कप्पा", "is_correct": false },
+        { "option_id": 2, "text": "अनेक कप्पे व रांगा", "is_correct": true },
+        { "option_id": 3, "text": "गोलाकार", "is_correct": false },
+        { "option_id": 4, "text": "त्रिकोणी", "is_correct": false }
+      ],
+      "answer": "अनेक कप्पे व रांगा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "चित्रातून कोणता गुण शिकायला मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "भांडणे", "is_correct": false },
+        { "option_id": 2, "text": "सहकार्य व आनंद", "is_correct": true },
+        { "option_id": 3, "text": "दुःख व्यक्त करणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळणी फोडणे", "is_correct": false }
+      ],
+      "answer": "सहकार्य व आनंद"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "‘खेळण्यांचे दुकान’ या शब्दसमूहातील ‘दुकान’ हा कोणता शब्दप्रकार आहे?",
+      "options": [
+        { "option_id": 1, "text": "क्रियापद", "is_correct": false },
+        { "option_id": 2, "text": "नाम", "is_correct": true },
+        { "option_id": 3, "text": "सर्वनाम", "is_correct": false },
+        { "option_id": 4, "text": "अव्यय", "is_correct": false }
+      ],
+      "answer": "नाम"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "चित्रातील मुलांना काय मिळते आहे?",
+      "options": [
+        { "option_id": 1, "text": "चॉकलेट", "is_correct": false },
+        { "option_id": 2, "text": "पुस्तक", "is_correct": false },
+        { "option_id": 3, "text": "नवे खेळणे", "is_correct": true },
+        { "option_id": 4, "text": "दप्तर", "is_correct": false }
+      ],
+      "answer": "नवे खेळणे"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "चित्रात दिसणाऱ्या दोन खेळण्यांची नावे लिहा.",
+      "answer": "टेडी बेअर आणि फुटबॉल."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "चित्रातील दुकानदार कसा दिसतो?",
+      "answer": "तो हसतमुख आणि प्रेमळ दिसतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मुलांना खेळणे घेताना कसे वाटते?",
+      "answer": "मुलांना खूप आनंद वाटतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "खेळण्यांच्या दुकानाचा उपयोग काय?",
+      "answer": "मुलांसाठी विविध खेळणी मिळतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "चित्रवाचन म्हणजे काय?",
+      "answer": "चित्र पाहून त्यातील गोष्टी ओळखणे आणि सांगणे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "तुला कोणते खेळणे आवडते?",
+      "answer": "मला कार खेळणे आवडते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "चित्रातून आपण काय शिकतो?",
+      "answer": "निरीक्षण आणि वर्णन कौशल्य वाढते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "चित्रातील दोन खेळणी लिहा जी मैदानी खेळासाठी आहेत.",
+      "answer": "बॅडमिंटन रॅकेट आणि शटलकॉक."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "दुकान शिस्तीत का ठेवावे?",
+      "answer": "खेळणी नीट दिसतात आणि शोधणे सोपे जाते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "चित्रातील मुले कोणासोबत आली आहेत?",
+      "answer": "ती आई–वडिलांसोबत आली आहेत."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "दुकानाचे वातावरण कसे दिसते?",
+      "answer": "रंगीबेरंगी, स्वच्छ आणि आनंदी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "खेळणी मुलांसाठी का महत्त्वाची असतात?",
+      "answer": "खेळण्यांमुळे कल्पनाशक्ती आणि आनंद वाढतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "चित्रातील कार कोणत्या रॅकवर आहे?",
+      "answer": "मधल्या शेल्फवर लाल कार ठेवलेली आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "चित्रातील दोन मऊ खेळणी लिहा.",
+      "answer": "टेडी बेअर आणि पांडा."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "चित्र पाहून वाक्य तयार करा.",
+      "answer": "मुले आनंदाने नवे खेळणे घेत आहेत."
+    }
+  ]
+}

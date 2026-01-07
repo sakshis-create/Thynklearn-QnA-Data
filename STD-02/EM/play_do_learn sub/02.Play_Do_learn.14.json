@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.14",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Instruments"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Can music be created without musical instruments?",
+      "options": [
+        { "option_id": 1, "text": "No, instruments are compulsory", "is_correct": false },
+        { "option_id": 2, "text": "Yes, by hitting available objects", "is_correct": true },
+        { "option_id": 3, "text": "Only with machines", "is_correct": false },
+        { "option_id": 4, "text": "Only with singers", "is_correct": false }
+      ],
+      "answer": "Yes, by hitting available objects"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following can be used to create sound?",
+      "options": [
+        { "option_id": 1, "text": "Empty tiffin box", "is_correct": true },
+        { "option_id": 2, "text": "Notebook", "is_correct": false },
+        { "option_id": 3, "text": "Pillow", "is_correct": false },
+        { "option_id": 4, "text": "Cloth", "is_correct": false }
+      ],
+      "answer": "Empty tiffin box"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which natural objects are used to make sounds?",
+      "options": [
+        { "option_id": 1, "text": "Plastic toys", "is_correct": false },
+        { "option_id": 2, "text": "Dried pods of Gulmohar and babul", "is_correct": true },
+        { "option_id": 3, "text": "Rubber balls", "is_correct": false },
+        { "option_id": 4, "text": "Paper sheets", "is_correct": false }
+      ],
+      "answer": "Dried pods of Gulmohar and babul"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which utensil can be used to create sound?",
+      "options": [
+        { "option_id": 1, "text": "Dinner plate", "is_correct": true },
+        { "option_id": 2, "text": "Spoon only", "is_correct": false },
+        { "option_id": 3, "text": "Cupboard", "is_correct": false },
+        { "option_id": 4, "text": "Book", "is_correct": false }
+      ],
+      "answer": "Dinner plate"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which instrument is shown as a single string instrument?",
+      "options": [
+        { "option_id": 1, "text": "Single string instrument", "is_correct": true },
+        { "option_id": 2, "text": "Dholak", "is_correct": false },
+        { "option_id": 3, "text": "Halagi", "is_correct": false },
+        { "option_id": 4, "text": "Cymbaly", "is_correct": false }
+      ],
+      "answer": "Single string instrument"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which instrument is beaten with hands to produce sound?",
+      "options": [
+        { "option_id": 1, "text": "Dholak", "is_correct": true },
+        { "option_id": 2, "text": "Tarapa", "is_correct": false },
+        { "option_id": 3, "text": "Cymbaly", "is_correct": false },
+        { "option_id": 4, "text": "Single string instrument", "is_correct": false }
+      ],
+      "answer": "Dholak"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which instrument is blown to create sound?",
+      "options": [
+        { "option_id": 1, "text": "Tarapa", "is_correct": true },
+        { "option_id": 2, "text": "Dholki", "is_correct": false },
+        { "option_id": 3, "text": "Halagi", "is_correct": false },
+        { "option_id": 4, "text": "Cymbaly", "is_correct": false }
+      ],
+      "answer": "Tarapa"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which instrument produces sound by striking two metal pieces?",
+      "options": [
+        { "option_id": 1, "text": "Cymbaly", "is_correct": true },
+        { "option_id": 2, "text": "Dholki", "is_correct": false },
+        { "option_id": 3, "text": "Tarapa", "is_correct": false },
+        { "option_id": 4, "text": "Halagi", "is_correct": false }
+      ],
+      "answer": "Cymbaly"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is rhythmic clapping?",
+      "options": [
+        { "option_id": 1, "text": "Clapping without order", "is_correct": false },
+        { "option_id": 2, "text": "Clapping in a fixed pattern", "is_correct": true },
+        { "option_id": 3, "text": "Clapping loudly", "is_correct": false },
+        { "option_id": 4, "text": "Clapping slowly", "is_correct": false }
+      ],
+      "answer": "Clapping in a fixed pattern"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why should children practice rhythmic claps?",
+      "options": [
+        { "option_id": 1, "text": "To improve rhythm sense", "is_correct": true },
+        { "option_id": 2, "text": "To make noise", "is_correct": false },
+        { "option_id": 3, "text": "To disturb others", "is_correct": false },
+        { "option_id": 4, "text": "To waste time", "is_correct": false }
+      ],
+      "answer": "To improve rhythm sense"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which vehicle sound is introduced in this chapter?",
+      "options": [
+        { "option_id": 1, "text": "Jeep", "is_correct": true },
+        { "option_id": 2, "text": "Aeroplane", "is_correct": false },
+        { "option_id": 3, "text": "Ship", "is_correct": false },
+        { "option_id": 4, "text": "Train", "is_correct": false }
+      ],
+      "answer": "Jeep"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which animal cart sound is shown?",
+      "options": [
+        { "option_id": 1, "text": "Bullock cart", "is_correct": true },
+        { "option_id": 2, "text": "Camel cart", "is_correct": false },
+        { "option_id": 3, "text": "Horse carriage only", "is_correct": false },
+        { "option_id": 4, "text": "Elephant cart", "is_correct": false }
+      ],
+      "answer": "Bullock cart"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which vehicle makes a loud engine sound?",
+      "options": [
+        { "option_id": 1, "text": "Truck", "is_correct": true },
+        { "option_id": 2, "text": "Bicycle", "is_correct": false },
+        { "option_id": 3, "text": "Cart", "is_correct": false },
+        { "option_id": 4, "text": "Handcart", "is_correct": false }
+      ],
+      "answer": "Truck"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What should children do after hearing different sounds?",
+      "options": [
+        { "option_id": 1, "text": "Imitate the sounds", "is_correct": true },
+        { "option_id": 2, "text": "Ignore them", "is_correct": false },
+        { "option_id": 3, "text": "Stop listening", "is_correct": false },
+        { "option_id": 4, "text": "Make drawings only", "is_correct": false }
+      ],
+      "answer": "Imitate the sounds"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What activity is suggested with pictures of instruments?",
+      "options": [
+        { "option_id": 1, "text": "Collect and paste pictures", "is_correct": true },
+        { "option_id": 2, "text": "Throw pictures", "is_correct": false },
+        { "option_id": 3, "text": "Hide pictures", "is_correct": false },
+        { "option_id": 4, "text": "Color randomly", "is_correct": false }
+      ],
+      "answer": "Collect and paste pictures"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Can music be made without instruments?",
+      "answer": "Yes, music can be made by hitting available objects."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name one natural object used to create sound.",
+      "answer": "Dried pods of Gulmohar."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name one utensil used to make sound.",
+      "answer": "Dinner plate."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name any one musical instrument shown in the chapter.",
+      "answer": "Dholak."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is rhythmic clapping?",
+      "answer": "Clapping in a fixed rhythm or pattern."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why should children practice rhythmic claps?",
+      "answer": "To improve rhythm and coordination."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name one vehicle sound introduced.",
+      "answer": "Jeep."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which vehicle is pulled by animals?",
+      "answer": "Bullock cart."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What should children do after hearing sounds?",
+      "answer": "They should imitate the sounds."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one blown musical instrument.",
+      "answer": "Tarapa."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which instrument has strings?",
+      "answer": "Single string instrument."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why are pictures of instruments collected?",
+      "answer": "To recognize and learn about instruments."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one percussion instrument.",
+      "answer": "Dholki."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What skill improves by listening to sounds?",
+      "answer": "Listening skill."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What do different sounds help children learn?",
+      "answer": "They help children identify and enjoy sounds."
+    }
+  ]
+}

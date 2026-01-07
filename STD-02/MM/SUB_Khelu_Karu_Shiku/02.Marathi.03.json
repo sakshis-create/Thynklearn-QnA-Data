@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.KKS.03",
+    "standard": "2",
+    "subject": "Khelu_Karu_Shiku",
+    "medium": "Marathi",
+    "chapter_name": "खेळ व शर्यत"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "शर्यत म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "हळू चालणे", "is_correct": false },
+        { "option_id": 2, "text": "एकमेकांशी स्पर्धा करणे", "is_correct": true },
+        { "option_id": 3, "text": "झोप घेणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ थांबवणे", "is_correct": false }
+      ],
+      "answer": "एकमेकांशी स्पर्धा करणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "शर्यतीत काय महत्त्वाचे असते?",
+      "options": [
+        { "option_id": 1, "text": "भांडण", "is_correct": false },
+        { "option_id": 2, "text": "शिस्त आणि नियम", "is_correct": true },
+        { "option_id": 3, "text": "आरडाओरडा", "is_correct": false },
+        { "option_id": 4, "text": "इतरांना ढकलणे", "is_correct": false }
+      ],
+      "answer": "शिस्त आणि नियम"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "शर्यतीत कोण जिंकतो?",
+      "options": [
+        { "option_id": 1, "text": "पहिला येणारा", "is_correct": true },
+        { "option_id": 2, "text": "शेवटचा येणारा", "is_correct": false },
+        { "option_id": 3, "text": "उभे राहणारा", "is_correct": false },
+        { "option_id": 4, "text": "बसून राहणारा", "is_correct": false }
+      ],
+      "answer": "पहिला येणारा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शर्यतीत भाग घेताना काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "हार मानावी", "is_correct": false },
+        { "option_id": 2, "text": "प्रयत्न करावा", "is_correct": true },
+        { "option_id": 3, "text": "इतरांना थांबवावे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ नको म्हणावे", "is_correct": false }
+      ],
+      "answer": "प्रयत्न करावा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "शर्यतीत पडल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "रडत बसावे", "is_correct": false },
+        { "option_id": 2, "text": "भांडण करावे", "is_correct": false },
+        { "option_id": 3, "text": "उठून पुन्हा प्रयत्न करावा", "is_correct": true },
+        { "option_id": 4, "text": "खेळ सोडून जावे", "is_correct": false }
+      ],
+      "answer": "उठून पुन्हा प्रयत्न करावा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "शर्यतीत कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "आळस", "is_correct": false },
+        { "option_id": 2, "text": "धैर्य आणि मेहनत", "is_correct": true },
+        { "option_id": 3, "text": "भांडखोरपणा", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "धैर्य आणि मेहनत"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "खेळांमधून काय शिकायला मिळते?",
+      "options": [
+        { "option_id": 1, "text": "भांडणे", "is_correct": false },
+        { "option_id": 2, "text": "संयम व सहकार्य", "is_correct": true },
+        { "option_id": 3, "text": "घरात बसणे", "is_correct": false },
+        { "option_id": 4, "text": "काम टाळणे", "is_correct": false }
+      ],
+      "answer": "संयम व सहकार्य"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "खेळात हरल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "रागावावे", "is_correct": false },
+        { "option_id": 2, "text": "मित्रांशी भांडावे", "is_correct": false },
+        { "option_id": 3, "text": "विजेत्याचे कौतुक करावे", "is_correct": true },
+        { "option_id": 4, "text": "खेळ सोडावा", "is_correct": false }
+      ],
+      "answer": "विजेत्याचे कौतुक करावे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "शर्यतीतील सर्वात महत्वाची गोष्ट कोणती?",
+      "options": [
+        { "option_id": 1, "text": "जिंकणेच महत्त्वाचे", "is_correct": false },
+        { "option_id": 2, "text": "प्रामाणिकपणे खेळणे", "is_correct": true },
+        { "option_id": 3, "text": "इतरांना हरवणे", "is_correct": false },
+        { "option_id": 4, "text": "आरडाओरडा करणे", "is_correct": false }
+      ],
+      "answer": "प्रामाणिकपणे खेळणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "शर्यतीत नियम पाळल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "खेळ मजेदार होतो", "is_correct": true },
+        { "option_id": 2, "text": "भांडण वाढते", "is_correct": false },
+        { "option_id": 3, "text": "खेळ बंद होतो", "is_correct": false },
+        { "option_id": 4, "text": "सगळे रागावतात", "is_correct": false }
+      ],
+      "answer": "खेळ मजेदार होतो"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "शर्यतीत इतरांशी कसे वागावे?",
+      "options": [
+        { "option_id": 1, "text": "रागाने", "is_correct": false },
+        { "option_id": 2, "text": "मत्सराने", "is_correct": false },
+        { "option_id": 3, "text": "मैत्रीने", "is_correct": true },
+        { "option_id": 4, "text": "ढकलत", "is_correct": false }
+      ],
+      "answer": "मैत्रीने"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खेळ आणि शर्यतीत सहभागी झाल्याने काय वाढते?",
+      "options": [
+        { "option_id": 1, "text": "आळस", "is_correct": false },
+        { "option_id": 2, "text": "आत्मविश्वास", "is_correct": true },
+        { "option_id": 3, "text": "भिती", "is_correct": false },
+        { "option_id": 4, "text": "कमजोरी", "is_correct": false }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "हार-जीत यात काय महत्वाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्याची संधी", "is_correct": true },
+        { "option_id": 2, "text": "फक्त जिंकणे", "is_correct": false },
+        { "option_id": 3, "text": "फक्त हरवणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ टाळणे", "is_correct": false }
+      ],
+      "answer": "खेळण्याची संधी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "शर्यतीत कोणता गुण विकसित होतो?",
+      "options": [
+        { "option_id": 1, "text": "मत्सर", "is_correct": false },
+        { "option_id": 2, "text": "प्रामाणिकपणा आणि क्रीडाभाव", "is_correct": true },
+        { "option_id": 3, "text": "स्वार्थ", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "प्रामाणिकपणा आणि क्रीडाभाव"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खेळ व शर्यत यांचा मुख्य उद्देश कोणता?",
+      "options": [
+        { "option_id": 1, "text": "भांडण करणे", "is_correct": false },
+        { "option_id": 2, "text": "आरोग्य व आनंद", "is_correct": true },
+        { "option_id": 3, "text": "इतराना हरवणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ सोडणे", "is_correct": false }
+      ],
+      "answer": "आरोग्य व आनंद"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "शर्यत म्हणजे काय?",
+      "answer": "एकमेकांशी स्पर्धा करून पुढे जाणे म्हणजे शर्यत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "शर्यतीत क्रीडाभाव म्हणजे काय?",
+      "answer": "प्रामाणिकपणे आणि मैत्रीने खेळणे म्हणजे क्रीडाभाव."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "खेळताना नियम पाळणे का आवश्यक आहे?",
+      "answer": "नियम पाळल्याने खेळ सुरक्षित आणि आनंदी होतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "शर्यतीत हरल्यास कसे वागावे?",
+      "answer": "विजेत्याचे कौतुक करून पुन्हा प्रयत्न करावा."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "खेळातून कोणते मूल्य शिकतो?",
+      "answer": "शिस्त, मेहनत, सहकार्य आणि संयम."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पडल्यास काय करावे?",
+      "answer": "उठून शांतपणे पुन्हा प्रयत्न करावा."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "जिंकणे महत्त्वाचे की खेळणे?",
+      "answer": "खेळणे आणि सहभाग घेणे जास्त महत्त्वाचे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "शर्यतीत धावण्याचा फायदा काय?",
+      "answer": "शरीर सशक्त होते आणि आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "खेळात भांडण का करू नये?",
+      "answer": "भांडल्याने मैत्री तुटते आणि खेळ बिघडतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "मैत्रीने खेळणे का चांगले?",
+      "answer": "मैत्री वाढते आणि खेळ आनंददायक होतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "क्रीडाभाव म्हणजे काय?",
+      "answer": "जिंकले तरी नम्र राहणे आणि हरले तरी हसून स्वीकारणे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "शर्यत आपल्या जीवनात कशी उपयोगी?",
+      "answer": "मेहनत, प्रयत्न आणि हार न मानण्याची सवय लागते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "तुला कोणती शर्यत आवडते? का?",
+      "answer": "मला धावण्याची शर्यत आवडते कारण ती उत्साहवर्धक आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "खेळ आणि अभ्यासाचा काय संबंध?",
+      "answer": "खेळल्याने शरीर निरोगी राहते आणि अभ्यास चांगला होतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्यातून तुला काय शिकायला मिळाले?",
+      "answer": "क्रीडाभाव, प्रामाणिकपणा, शिस्त आणि सहकार्य यांचे महत्त्व समजले."
+    }
+  ]
+}

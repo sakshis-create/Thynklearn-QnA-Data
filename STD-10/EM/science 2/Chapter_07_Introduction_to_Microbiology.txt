@@ -1,0 +1,1031 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.07",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Introduction to Microbiology"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which branch of biology involves the study of enzymes related to prokaryotes and eukaryotic microbes?",
+      "options": [
+        { "option_id": 1, "text": "Botany", "is_correct": false },
+        { "option_id": 2, "text": "Applied Microbiology", "is_correct": true },
+        { "option_id": 3, "text": "Zoology", "is_correct": false },
+        { "option_id": 4, "text": "Geology", "is_correct": false }
+      ],
+      "answer": "Applied Microbiology"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Industrial microbiology mainly involves the use of __________.",
+      "options": [
+        { "option_id": 1, "text": "Fermentation process", "is_correct": true },
+        { "option_id": 2, "text": "Photosynthesis", "is_correct": false },
+        { "option_id": 3, "text": "Nuclear fission", "is_correct": false },
+        { "option_id": 4, "text": "Distillation", "is_correct": false }
+      ],
+      "answer": "Fermentation process"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which bacteria are used for the fermentation of milk to produce yoghurt?",
+      "options": [
+        { "option_id": 1, "text": "Salmonella typhi", "is_correct": false },
+        { "option_id": 2, "text": "Lactobacillus delbrueckii", "is_correct": true },
+        { "option_id": 3, "text": "E. coli", "is_correct": false },
+        { "option_id": 4, "text": "Vibrio cholerae", "is_correct": false }
+      ],
+      "answer": "Lactobacillus delbrueckii"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which compound gives the characteristic taste to yoghurt?",
+      "options": [
+        { "option_id": 1, "text": "Acetic acid", "is_correct": false },
+        { "option_id": 2, "text": "Acetaldehyde", "is_correct": true },
+        { "option_id": 3, "text": "Ethanol", "is_correct": false },
+        { "option_id": 4, "text": "Formaldehyde", "is_correct": false }
+      ],
+      "answer": "Acetaldehyde"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which enzyme obtained from fungi is used to produce vegetarian cheese?",
+      "options": [
+        { "option_id": 1, "text": "Rennet", "is_correct": false },
+        { "option_id": 2, "text": "Pepsin", "is_correct": false },
+        { "option_id": 3, "text": "Protease", "is_correct": true },
+        { "option_id": 4, "text": "Amylase", "is_correct": false }
+      ],
+      "answer": "Protease"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which bacteria are active in probiotic products?",
+      "options": [
+        { "option_id": 1, "text": "Clostridium", "is_correct": false },
+        { "option_id": 2, "text": "Lactobacillus acidophilus", "is_correct": true },
+        { "option_id": 3, "text": "Staphylococcus", "is_correct": false },
+        { "option_id": 4, "text": "Salmonella", "is_correct": false }
+      ],
+      "answer": "Lactobacillus acidophilus"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Bread becomes spongy due to the formation of __________ during fermentation.",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which yeast is known as baker's yeast?",
+      "options": [
+        { "option_id": 1, "text": "Candida", "is_correct": false },
+        { "option_id": 2, "text": "Saccharomyces cerevisiae", "is_correct": true },
+        { "option_id": 3, "text": "Aspergillus oryzae", "is_correct": false },
+        { "option_id": 4, "text": "Hansenula", "is_correct": false }
+      ],
+      "answer": "Saccharomyces cerevisiae"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Chemically, vinegar is __________.",
+      "options": [
+        { "option_id": 1, "text": "4% Acetic acid", "is_correct": true },
+        { "option_id": 2, "text": "10% Citric acid", "is_correct": false },
+        { "option_id": 3, "text": "50% Ethanol", "is_correct": false },
+        { "option_id": 4, "text": "Pure Sulphuric acid", "is_correct": false }
+      ],
+      "answer": "4% Acetic acid"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which fungus is used for the production of Soya sauce?",
+      "options": [
+        { "option_id": 1, "text": "Saccharomyces cerevisiae", "is_correct": false },
+        { "option_id": 2, "text": "Aspergillus oryzae", "is_correct": true },
+        { "option_id": 3, "text": "Penicillium", "is_correct": false },
+        { "option_id": 4, "text": "Agaricus", "is_correct": false }
+      ],
+      "answer": "Aspergillus oryzae"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which microbe is used to obtain Citric acid?",
+      "options": [
+        { "option_id": 1, "text": "Aspergillus niger", "is_correct": true },
+        { "option_id": 2, "text": "Lactobacillus brevis", "is_correct": false },
+        { "option_id": 3, "text": "Acetobacter", "is_correct": false },
+        { "option_id": 4, "text": "Streptococcus", "is_correct": false }
+      ],
+      "answer": "Aspergillus niger"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Xanthan gum is obtained by fermentation with the help of __________ species.",
+      "options": [
+        { "option_id": 1, "text": "Aspergillus", "is_correct": false },
+        { "option_id": 2, "text": "Xanthomonas", "is_correct": true },
+        { "option_id": 3, "text": "Bacillus", "is_correct": false },
+        { "option_id": 4, "text": "Saccharomyces", "is_correct": false }
+      ],
+      "answer": "Xanthomonas"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which amino acid is used in the production of Ajinomoto (Monosodium glutamate)?",
+      "options": [
+        { "option_id": 1, "text": "Lysine", "is_correct": false },
+        { "option_id": 2, "text": "Tryptophan", "is_correct": false },
+        { "option_id": 3, "text": "L-glutamic acid", "is_correct": true },
+        { "option_id": 4, "text": "Methionine", "is_correct": false }
+      ],
+      "answer": "L-glutamic acid"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which antibiotic is effective against tuberculosis?",
+      "options": [
+        { "option_id": 1, "text": "Penicillin", "is_correct": false },
+        { "option_id": 2, "text": "Rifamycin", "is_correct": true },
+        { "option_id": 3, "text": "Erythromycin", "is_correct": false },
+        { "option_id": 4, "text": "Bacitracin", "is_correct": false }
+      ],
+      "answer": "Rifamycin"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which clean smokeless fuel is obtained during fermentation of molasses?",
+      "options": [
+        { "option_id": 1, "text": "Methane", "is_correct": false },
+        { "option_id": 2, "text": "Ethanol", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Butane", "is_correct": false }
+      ],
+      "answer": "Ethanol"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Hydrogen gas is released during __________ of water by bacteria.",
+      "options": [
+        { "option_id": 1, "text": "Bio-photolysis", "is_correct": true },
+        { "option_id": 2, "text": "Electrolysis", "is_correct": false },
+        { "option_id": 3, "text": "Hydrolysis", "is_correct": false },
+        { "option_id": 4, "text": "Oxidation", "is_correct": false }
+      ],
+      "answer": "Bio-photolysis"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which bacteria are used to clear oil spills in the ocean?",
+      "options": [
+        { "option_id": 1, "text": "Lactobacillus", "is_correct": false },
+        { "option_id": 2, "text": "Alcanovorax borkumensis", "is_correct": true },
+        { "option_id": 3, "text": "Streptococcus", "is_correct": false },
+        { "option_id": 4, "text": "Rhizobium", "is_correct": false }
+      ],
+      "answer": "Alcanovorax borkumensis"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Plastic bottles are formed from which chemical substance?",
+      "options": [
+        { "option_id": 1, "text": "PVC", "is_correct": false },
+        { "option_id": 2, "text": "PET", "is_correct": true },
+        { "option_id": 3, "text": "Polystyrene", "is_correct": false },
+        { "option_id": 4, "text": "Polypropylene", "is_correct": false }
+      ],
+      "answer": "PET"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which bacterial species can decompose PET (plastic)?",
+      "options": [
+        { "option_id": 1, "text": "Ideonella sakaiensis", "is_correct": true },
+        { "option_id": 2, "text": "E. coli", "is_correct": false },
+        { "option_id": 3, "text": "Salmonella", "is_correct": false },
+        { "option_id": 4, "text": "Acetobacter", "is_correct": false }
+      ],
+      "answer": "Ideonella sakaiensis"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which bacteria convert salts of uranium into insoluble salts?",
+      "options": [
+        { "option_id": 1, "text": "Geobacter", "is_correct": true },
+        { "option_id": 2, "text": "Acidobacillus", "is_correct": false },
+        { "option_id": 3, "text": "Thiobacillus", "is_correct": false },
+        { "option_id": 4, "text": "Pseudomonas", "is_correct": false }
+      ],
+      "answer": "Geobacter"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Spinosad is a __________.",
+      "options": [
+        { "option_id": 1, "text": "Bio-fertilizer", "is_correct": false },
+        { "option_id": 2, "text": "Bio-fuel", "is_correct": false },
+        { "option_id": 3, "text": "Biopesticide", "is_correct": true },
+        { "option_id": 4, "text": "Antibiotic", "is_correct": false }
+      ],
+      "answer": "Biopesticide"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a benefit of microbial enzymes?",
+      "options": [
+        { "option_id": 1, "text": "Active at low temperature", "is_correct": false },
+        { "option_id": 2, "text": "Energy saving", "is_correct": false },
+        { "option_id": 3, "text": "Require expensive erosion-proof instruments", "is_correct": true },
+        { "option_id": 4, "text": "Eco-friendly", "is_correct": false }
+      ],
+      "answer": "Require expensive erosion-proof instruments"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which microbe is used to separate seeds from coffee fruit?",
+      "options": [
+        { "option_id": 1, "text": "Lactobacillus brevis", "is_correct": true },
+        { "option_id": 2, "text": "Candida", "is_correct": false },
+        { "option_id": 3, "text": "Saccharomyces cerevisiae", "is_correct": false },
+        { "option_id": 4, "text": "Hansenula", "is_correct": false }
+      ],
+      "answer": "Lactobacillus brevis"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the source of Itaconic acid?",
+      "options": [
+        { "option_id": 1, "text": "Sugar molasses", "is_correct": false },
+        { "option_id": 2, "text": "Molasses and corn steep liquor", "is_correct": true },
+        { "option_id": 3, "text": "Fruit juices", "is_correct": false },
+        { "option_id": 4, "text": "Milk", "is_correct": false }
+      ],
+      "answer": "Molasses and corn steep liquor"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Nycin and natamycin are used as __________.",
+      "options": [
+        { "option_id": 1, "text": "Artificial sweeteners", "is_correct": false },
+        { "option_id": 2, "text": "Microbial restrictors", "is_correct": true },
+        { "option_id": 3, "text": "Emulsifiers", "is_correct": false },
+        { "option_id": 4, "text": "Edible colours", "is_correct": false }
+      ],
+      "answer": "Microbial restrictors"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Beta carotene and lycopenes are examples of __________.",
+      "options": [
+        { "option_id": 1, "text": "Edible colours", "is_correct": true },
+        { "option_id": 2, "text": "Antioxidants", "is_correct": false },
+        { "option_id": 3, "text": "Essences", "is_correct": false },
+        { "option_id": 4, "text": "Antibiotics", "is_correct": false }
+      ],
+      "answer": "Edible colours"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Xylitol and aspartame are used as __________.",
+      "options": [
+        { "option_id": 1, "text": "Acidity regulators", "is_correct": false },
+        { "option_id": 2, "text": "Artificial sweeteners", "is_correct": true },
+        { "option_id": 3, "text": "Protein binders", "is_correct": false },
+        { "option_id": 4, "text": "Vitamins", "is_correct": false }
+      ],
+      "answer": "Artificial sweeteners"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which bacteria can decompose rubber from garbage?",
+      "options": [
+        { "option_id": 1, "text": "Actinomycetes", "is_correct": true },
+        { "option_id": 2, "text": "Lactobacillus", "is_correct": false },
+        { "option_id": 3, "text": "Acetobacter", "is_correct": false },
+        { "option_id": 4, "text": "Vibrio", "is_correct": false }
+      ],
+      "answer": "Actinomycetes"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which acid is the source of energy for *Acidobacillus ferroxidens*?",
+      "options": [
+        { "option_id": 1, "text": "Acetic acid", "is_correct": false },
+        { "option_id": 2, "text": "Sulphuric acid", "is_correct": true },
+        { "option_id": 3, "text": "Citric acid", "is_correct": false },
+        { "option_id": 4, "text": "Lactic acid", "is_correct": false }
+      ],
+      "answer": "Sulphuric acid"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Probiotics decrease the population of harmful microbes like __________.",
+      "options": [
+        { "option_id": 1, "text": "Lactobacillus", "is_correct": false },
+        { "option_id": 2, "text": "Clostridium", "is_correct": true },
+        { "option_id": 3, "text": "Rhizobium", "is_correct": false },
+        { "option_id": 4, "text": "Yeast", "is_correct": false }
+      ],
+      "answer": "Clostridium"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is the ratio of Streptococcus thermophilus and Lactobacillus delbrueckii added to milk for yoghurt production?",
+      "options": [
+        { "option_id": 1, "text": "1:2", "is_correct": false },
+        { "option_id": 2, "text": "2:1", "is_correct": false },
+        { "option_id": 3, "text": "1:1", "is_correct": true },
+        { "option_id": 4, "text": "3:1", "is_correct": false }
+      ],
+      "answer": "1:1"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which microbe is used for the production of wine from grapes?",
+      "options": [
+        { "option_id": 1, "text": "Saccharomyces cerevisiae", "is_correct": true },
+        { "option_id": 2, "text": "Lactobacillus brevis", "is_correct": false },
+        { "option_id": 3, "text": "Candida", "is_correct": false },
+        { "option_id": 4, "text": "Hansenula", "is_correct": false }
+      ],
+      "answer": "Saccharomyces cerevisiae"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which of the following is a semi-hard cheese?",
+      "options": [
+        { "option_id": 1, "text": "Cottage cheese", "is_correct": false },
+        { "option_id": 2, "text": "Cheddar cheese", "is_correct": true },
+        { "option_id": 3, "text": "Parmesan cheese", "is_correct": false },
+        { "option_id": 4, "text": "Mozzarella cheese", "is_correct": false }
+      ],
+      "answer": "Cheddar cheese"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which very hard cheese is formed after ripening for 12-18 months?",
+      "options": [
+        { "option_id": 1, "text": "Cheddar cheese", "is_correct": false },
+        { "option_id": 2, "text": "Parmesan cheese", "is_correct": true },
+        { "option_id": 3, "text": "Cream cheese", "is_correct": false },
+        { "option_id": 4, "text": "Mozzarella cheese", "is_correct": false }
+      ],
+      "answer": "Parmesan cheese"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Vanillin and Ethyl butyrate are examples of __________.",
+      "options": [
+        { "option_id": 1, "text": "Emulsifiers", "is_correct": false },
+        { "option_id": 2, "text": "Essence", "is_correct": true },
+        { "option_id": 3, "text": "Antioxidants", "is_correct": false },
+        { "option_id": 4, "text": "Antibiotics", "is_correct": false }
+      ],
+      "answer": "Essence"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Ascorbic acid (Vitamin C) acts as an __________.",
+      "options": [
+        { "option_id": 1, "text": "Antioxidant", "is_correct": true },
+        { "option_id": 2, "text": "Artificial sweetener", "is_correct": false },
+        { "option_id": 3, "text": "Emulsifier", "is_correct": false },
+        { "option_id": 4, "text": "Edible colour", "is_correct": false }
+      ],
+      "answer": "Antioxidant"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which of these is used for producing Cider?",
+      "options": [
+        { "option_id": 1, "text": "Apple", "is_correct": true },
+        { "option_id": 2, "text": "Grapes", "is_correct": false },
+        { "option_id": 3, "text": "Coffee", "is_correct": false },
+        { "option_id": 4, "text": "Cocoa", "is_correct": false }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Polylactic acid is a type of __________ plastic.",
+      "options": [
+        { "option_id": 1, "text": "Non-biodegradable", "is_correct": false },
+        { "option_id": 2, "text": "Biodegradable", "is_correct": true },
+        { "option_id": 3, "text": "Toxic", "is_correct": false },
+        { "option_id": 4, "text": "Metallic", "is_correct": false }
+      ],
+      "answer": "Biodegradable"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the function of 'Rennet' in cheese production?",
+      "options": [
+        { "option_id": 1, "text": "To add colour", "is_correct": false },
+        { "option_id": 2, "text": "To coagulate milk", "is_correct": true },
+        { "option_id": 3, "text": "To sweeten milk", "is_correct": false },
+        { "option_id": 4, "text": "To kill bacteria", "is_correct": false }
+      ],
+      "answer": "To coagulate milk"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which microbes are used to control soil pollution occurring due to acid rain?",
+      "options": [
+        { "option_id": 1, "text": "Acidophillium spp.", "is_correct": true },
+        { "option_id": 2, "text": "Geobacter", "is_correct": false },
+        { "option_id": 3, "text": "Ideonella", "is_correct": false },
+        { "option_id": 4, "text": "Vibrio", "is_correct": false }
+      ],
+      "answer": "Acidophillium spp."
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Phenol oxidizing bacteria decompose __________ present in sewage.",
+      "options": [
+        { "option_id": 1, "text": "Xenobiotic chemicals", "is_correct": true },
+        { "option_id": 2, "text": "Proteins", "is_correct": false },
+        { "option_id": 3, "text": "Vitamins", "is_correct": false },
+        { "option_id": 4, "text": "Sugars", "is_correct": false }
+      ],
+      "answer": "Xenobiotic chemicals"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT an example of a biofuel?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Vegetable oil", "is_correct": false },
+        { "option_id": 3, "text": "Gobar gas", "is_correct": false },
+        { "option_id": 4, "text": "Uranium", "is_correct": true }
+      ],
+      "answer": "Uranium"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which bacterial inoculant is used in organic farming?",
+      "options": [
+        { "option_id": 1, "text": "Azotobacter", "is_correct": true },
+        { "option_id": 2, "text": "E. coli", "is_correct": false },
+        { "option_id": 3, "text": "Salmonella", "is_correct": false },
+        { "option_id": 4, "text": "Vibrio", "is_correct": false }
+      ],
+      "answer": "Azotobacter"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which gas is considered to be the 'fuel of future'?",
+      "options": [
+        { "option_id": 1, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 2, "text": "Hydrogen", "is_correct": true },
+        { "option_id": 3, "text": "Oxygen", "is_correct": false },
+        { "option_id": 4, "text": "Chlorine", "is_correct": false }
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which acid is obtained from sugar molasses and salt using Aspergillus niger?",
+      "options": [
+        { "option_id": 1, "text": "Citric acid", "is_correct": true },
+        { "option_id": 2, "text": "Acetic acid", "is_correct": false },
+        { "option_id": 3, "text": "Lactic acid", "is_correct": false },
+        { "option_id": 4, "text": "Gluconic acid", "is_correct": false }
+      ],
+      "answer": "Citric acid"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What is the function of emulsifiers?",
+      "options": [
+        { "option_id": 1, "text": "To add colour", "is_correct": false },
+        { "option_id": 2, "text": "To mix two immiscible liquids", "is_correct": true },
+        { "option_id": 3, "text": "To kill bacteria", "is_correct": false },
+        { "option_id": 4, "text": "To add sweetness", "is_correct": false }
+      ],
+      "answer": "To mix two immiscible liquids"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which of these is a source of nitrogen and vitamins?",
+      "options": [
+        { "option_id": 1, "text": "Lactic acid", "is_correct": true },
+        { "option_id": 2, "text": "Itaconic acid", "is_correct": false },
+        { "option_id": 3, "text": "Citric acid", "is_correct": false },
+        { "option_id": 4, "text": "Gluconic acid", "is_correct": false }
+      ],
+      "answer": "Lactic acid"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the role of *Hydrocarbonoclastic bacteria* (HCB)?",
+      "options": [
+        { "option_id": 1, "text": "Producing yoghurt", "is_correct": false },
+        { "option_id": 2, "text": "Decomposing hydrocarbons", "is_correct": true },
+        { "option_id": 3, "text": "Producing antibiotics", "is_correct": false },
+        { "option_id": 4, "text": "Fermenting bread", "is_correct": false }
+      ],
+      "answer": "Decomposing hydrocarbons"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a milk product?",
+      "options": [
+        { "option_id": 1, "text": "Kefir", "is_correct": false },
+        { "option_id": 2, "text": "Yoghurt", "is_correct": false },
+        { "option_id": 3, "text": "Cheese", "is_correct": false },
+        { "option_id": 4, "text": "Cider", "is_correct": true }
+      ],
+      "answer": "Cider"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Gluconic acid is used for the production of minerals used as supplements for __________.",
+      "options": [
+        { "option_id": 1, "text": "Calcium and Iron", "is_correct": true },
+        { "option_id": 2, "text": "Sodium and Potassium", "is_correct": false },
+        { "option_id": 3, "text": "Zinc and Magnesium", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen and Oxygen", "is_correct": false }
+      ],
+      "answer": "Calcium and Iron"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define Applied Microbiology.",
+      "answer": "Applied microbiology is a branch of biology that studies enzymes related to microbes, proteins, applied genetics, and molecular biology for societal use."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Define Industrial Microbiology.",
+      "answer": "Industrial microbiology is the science related to the commercial use of microbes for economic, social, and environmental processes and products."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is fermentation?",
+      "answer": "Fermentation is a metabolic process where microbes like yeast and bacteria convert carbohydrates into alcohol or acids."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name two dairy products produced using milk bacteria.",
+      "answer": "Yoghurt and Butter are two dairy products produced using milk bacteria."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What are Probiotics?",
+      "answer": "Probiotics are milk products containing active bacteria that maintain the balance of intestinal microorganisms."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Give two examples of probiotic bacteria.",
+      "answer": "Lactobacillus acidophilus and Lactobacillus casei are examples of probiotic bacteria."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why does bread dough rise?",
+      "answer": "Bread dough rises because yeast ferments carbohydrates to produce carbon dioxide, which gets trapped in the dough."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of acetic acid?",
+      "answer": "The chemical formula of acetic acid is CH3COOH."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is 'Bio-fuel'?",
+      "answer": "Bio-fuel is a renewable source of energy obtained from biomass, available in solid, liquid, or gaseous forms."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one gaseous biofuel.",
+      "answer": "Gobar gas (or Coal gas) is a gaseous biofuel."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is Xanthan gum?",
+      "answer": "Xanthan gum is a substance obtained by fermenting starch and molasses with Xanthomonas species, used to impart thickness to food."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "State one use of Xanthan gum.",
+      "answer": "Xanthan gum is used in the production of ice creams, toothpastes, or pigments."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What are antibiotics?",
+      "answer": "Antibiotics are carbon compounds obtained from bacteria and fungi used to destroy or prevent the growth of harmful micro-organisms."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name two antibiotics.",
+      "answer": "Penicillin and Streptomycin are two examples of antibiotics."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is 'Clean Technology'?",
+      "answer": "Clean technology involves using microbes to control air, soil, and water pollution, such as decomposing manmade chemicals."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which bacteria are used to clean oil spills?",
+      "answer": "Pseudomonas spp. and Alcanovorax borkumensis are used to clean oil spills."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What are 'Hydrocarbonoclastic bacteria'?",
+      "answer": "These are bacteria that have the ability to decompose hydrocarbons, often used in cleaning oil spills."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the use of *Geobacter*?",
+      "answer": "Geobacter converts soluble uranium salts into insoluble salts, preventing groundwater contamination."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is a 'Landfill site'?",
+      "answer": "A landfill site is a place where degradable urban waste is dumped in pits for microbial decomposition."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is Sewage Management?",
+      "answer": "It is the process of treating sewage with microbes to decompose compounds and destroy pathogens before releasing it."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Name the bacteria that decompose rubber.",
+      "answer": "Actinomycetes, Streptomyces, Nocardia, or Actinoplanes can decompose rubber."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the benefit of microbial inoculants in farming?",
+      "answer": "They improve plant growth by supplying nutrients and enhance the quality of vegetarian food."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What are Bioinsecticides?",
+      "answer": "Bioinsecticides are bacterial or fungal toxins integrated into plants or used as sprays to destroy pests."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Name a byproduct of fermentation used as a biopesticide.",
+      "answer": "Spinosad is a biopesticide obtained as a byproduct of fermentation."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How is vinegar produced?",
+      "answer": "Vinegar is produced by fermenting carbon compounds with yeast to get ethanol, then mixing it with Acetobacter to get acetic acid."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the role of *Lactobacilli* in yoghurt production?",
+      "answer": "Lactobacilli ferment lactose sugar into lactic acid and produce compounds like acetaldehyde that give taste."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why is condensed milk powder added in industrial yoghurt production?",
+      "answer": "It is added to maintain the protein content of the milk."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What gives the dense consistency to yoghurt?",
+      "answer": "Lactic acid produced by *Streptococcus* causes proteins to gel out, giving dense consistency."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is 'Whey'?",
+      "answer": "Whey is the water separated from yoghurt during cheese production."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "How are microbial enzymes eco-friendly?",
+      "answer": "They work at low temperatures reducing energy use, and avoid the formation of unnecessary byproducts or waste."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Name the microbe used for coffee production.",
+      "answer": "Lactobacillus brevis is used to separate seeds from coffee fruit."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Name the microbe used for Cocoa production.",
+      "answer": "Candida, Hansenula, Pichia, or Saccharomyces are used."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Name the microbe used for producing Citric acid.",
+      "answer": "Aspergillus niger is used for producing Citric acid."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is the source of L-glutamic acid?",
+      "answer": "Sugar beet molasses and ammonia salt are sources."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What are 'Broad spectrum antibiotics'?",
+      "answer": "Antibiotics that are useful against a wide variety of bacteria are called broad spectrum antibiotics."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is 'Bio-photolysis'?",
+      "answer": "It is the process of splitting water into hydrogen and oxygen using bacteria and light."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why is plastic difficult to degrade?",
+      "answer": "Plastic is a manmade chemical substance (polymer) that resists natural decomposition processes."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is PET?",
+      "answer": "PET stands for Polyethylene Terephthalate Polyester, used to make plastic bottles."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How does acid rain affect soil?",
+      "answer": "Acid rain contains sulphuric acid which pollutes the soil and causes erosion of metals."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the use of *Thiobacilli*?",
+      "answer": "Thiobacilli convert metals leaching from metalloids into compounds, preventing environmental pollution."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What are the main features of Industrial Microbiology?",
+      "answer": "Its main features are producing various products via fermentation and using microbes for pollution control."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why are probiotics used in poultry?",
+      "answer": "Probiotics are used in poultry treatment to improve health and digestion of the birds."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the use of yeast in daily life?",
+      "answer": "Yeast is used domestically to make bread, cakes, and other bakery products."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is 'Soya sauce' made from?",
+      "answer": "Soya sauce is made by fermenting a mixture of wheat/rice flour and soybean with *Aspergillus oryzae*."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the advantage of using microbial enzymes in detergents?",
+      "answer": "They allow the process of dirt removal to occur at low temperatures."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What are the products of anaerobic decomposition of waste?",
+      "answer": "Methane gas (biofuel) is a product of anaerobic decomposition."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is 'Polylactic acid'?",
+      "answer": "It is a type of biodegradable plastic used for storing garbage."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why is hydrogen considered a fuel of the future?",
+      "answer": "Because it is non-polluting and can be produced biologically."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What are 'antioxidants'?",
+      "answer": "Antioxidants are substances (like Vitamin C) that prevent cell damage."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "How are pests destroyed using bioinsecticides?",
+      "answer": "Toxins from bacteria or fungi destroy the pests when they consume the plants."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Explain the process of industrial yoghurt production.",
+      "answer": "In industrial yoghurt production, milk is first mixed with condensed milk powder to maintain protein content. It is boiled and cooled to warm temperature. Strains of *Streptococcus thermophilus* and *Lactobacillus delbrueckii* are added in a 1:1 ratio. Streptococcus produces lactic acid, gelling the proteins for density. Lactobacillus produces acetaldehyde for taste. Fruit juices may be added for flavour. Finally, it is pasteurized to improve shelf life."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Describe the steps involved in cheese production.",
+      "answer": "Cheese production starts with testing milk chemically and microbiologically. Microbes like *Lactobacillus lactis* and *Streptococcus thermophilus* are added to sour the milk. To create a dense texture, whey is removed. Traditionally, rennet enzyme was used, but now protease from fungi is used for vegetarian cheese. The solid yoghurt is cut, washed, rubbed, salted, and mixed with microbes/flavours. Finally, it is pressed, cut, and stored for ripening."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "What are the benefits of probiotics?",
+      "answer": "Probiotics contain active bacteria like *Lactobacillus acidophilus* that maintain the balance of intestinal microbes. They increase useful digestion-aiding microbes and decrease harmful ones like *Clostridium*. They improve resistance, lower ill-effects of harmful metabolic substances, and help treat diarrhoea. They can also reactivate useful microbes that were inactivated by antibiotics."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Explain the production of Vinegar.",
+      "answer": "Vinegar (4% acetic acid) is produced from carbon compounds like fruit juices or molasses. First, these are fermented with yeast *Saccharomyces cerevisiae* to obtain ethanol. Then, bacterial strains like *Acetobacter* and *Glucanobacter* are added to the ethanol for microbial degradation, producing acetic acid. The acid is separated by rarefaction, bleached with potassium ferrocyanide, and pasteurized. Finally, a small amount of SO2 is added."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Why are microbial enzymes used in the chemical industry instead of chemical catalysts?",
+      "answer": "Microbial enzymes are preferred because they are active at low temperature, pH, and pressure, which saves energy. They do not require expensive erosion-proof instruments. They are highly specific, preventing the formation of unnecessary byproducts and reducing purification costs. Additionally, they can be reused, and their waste decomposition is avoided, making them eco-friendly."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Describe the modern landfill site method for solid waste management.",
+      "answer": "Large pits are dug in open spaces and lined with plastic sheets to prevent soil pollution from toxic leaching. Compressed degradable waste is dumped in the pit and covered with layers of soil, sawdust, and biochemicals. Bioreactors and soil microbes decompose the waste. The pit is sealed with soil slurry. After decomposition, high-quality compost is formed, and the site can be reused."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "How are microbes used for sewage management in cities?",
+      "answer": "In cities, sewage is processed in treatment units. Microbes are added to decompose carbon compounds and destroy pathogens of diseases like cholera and typhoid. These microbes release methane and CO2. Phenol-oxidizing bacteria decompose xenobiotic chemicals. The sludge formed is used as fertilizer, and the treated water is released safely into the environment."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Explain how microbes help in cleaning oil spills in oceans.",
+      "answer": "Oil spills are toxic to aquatic life and hard to remove mechanically. Hydrocarbonoclastic bacteria (HCB) like *Pseudomonas* spp. and *Alcanovorax borkumensis* have the ability to destroy pyridines and other chemicals in oil. They decompose hydrocarbons by reacting carbon with oxygen to form CO2 and water, effectively cleaning the oil spill."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Write a note on Bio-pesticides and their importance.",
+      "answer": "Bio-pesticides are substances derived from microbes to control pests. Bacterial and fungal toxins can be integrated into plants via biotechnology or used as sprays. When pests eat these plants, the toxins destroy them. Spinosad is a byproduct of fermentation used as a biopesticide. They are important because they reduce reliance on harmful chemical pesticides causing soil and water pollution."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Discuss the production and importance of Xanthan gum.",
+      "answer": "Xanthan gum is produced by fermenting starch and molasses with *Xanthomonas* species. It is valuable because it is soluble in both hot and cold water and has high density. It is widely used in industries to produce ice creams, puddings, chocolates, instant soups, toothpastes, pigments, fertilizers, and high-quality paper."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "What are the different types of cheeses mentioned and how do they differ?",
+      "answer": "The text mentions Cottage cheese, Cream cheese, Mozzarella cheese, Cheddar cheese, and Parmesan cheese. Freshly prepared cheese is soft (e.g., Cottage, Cream, Mozzarella). If stored for 3-12 months, it becomes semi-hard (Cheddar). If ripened for 12-18 months, it becomes very hard (Parmesan). The difference lies in their texture and ripening time."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Explain the role of microbes in fuel production.",
+      "answer": "Microbes play a key role in producing biofuels. Methane gas is obtained by anaerobic decomposition of urban and agricultural waste. Ethanol, a clean liquid fuel, is obtained by fermenting molasses with *Saccharomyces* yeast. Hydrogen gas, a future fuel, is released during the bio-photolysis of water by bacteria performing photoreduction."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "How are beverages like Coffee and Cocoa produced using microbes?",
+      "answer": "For coffee, the fruit of *Coffea arabica* is processed using *Lactobacillus brevis* to separate the seeds from the fruit. For cocoa, the seeds of *Theobroma cacao* are separated from the fruit using microbes like *Candida*, *Hansenula*, *Pichia*, and *Saccharomyces*. These microbial processes are essential for obtaining the beans used to make beverages."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "Describe the role of antibiotics in medicine.",
+      "answer": "Antibiotics obtained from bacteria and fungi are used to control many bacterial diseases in humans and animals. They act against Gram-positive and Gram-negative bacteria. Examples include Penicillin, Streptomycin, and Erythromycin. Rifamycin is specifically effective against tuberculosis. However, they should be consumed with precaution."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Explain the process of bread making using yeast.",
+      "answer": "Bread is made from cereal flour. A dough is formed by mixing flour, water, salt, and baker's yeast (*Saccharomyces cerevisiae*). The yeast ferments carbohydrates in the flour, converting sugar into carbon dioxide and ethanol. The CO2 causes the dough to rise, making the bread spongy when baked. Commercial yeast also adds nutritive value."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "How can soil polluted by acid rain be treated?",
+      "answer": "Acid rain adds sulphuric acid to the soil, causing pollution. Certain bacteria like *Acidophillium* spp. and *Acidobacillus ferroxidens* use sulphuric acid as a source of energy. By introducing these bacteria into the polluted soil, the sulphuric acid is consumed and controlled, making the soil fertile again."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "What is the role of microbial inoculants in agriculture?",
+      "answer": "Microbial inoculants produced by fermentation are sprayed on seeds or released into plants. They contain microbes that help in plant growth by supplying nutrients. For example, *Azotobacter* and artificial nitrogenase are used in organic farming. They improve the quality of food and prevent soil pollution caused by chemical fertilizers."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "Explain the significance of 'Industrial Microbiology'.",
+      "answer": "Industrial microbiology is significant because it uses microbes commercially for economic and social benefits. It enables the large-scale production of food (bread, cheese), medicines (antibiotics), and fuels (ethanol). It also plays a crucial role in environment management through waste disposal, pollution control, and sewage treatment."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "How are plastic and rubber waste managed using microbes?",
+      "answer": "Plastic waste, specifically PET bottles, is a major pollutant. Bacteria like *Ideonella sakaiensis* and *Vibrio* can decompose PET. Similarly, rubber from garbage can be decomposed by bacterial species like *Actinomycetes*, *Streptomyces*, *Nocardia*, and *Actinoplanes*. This offers a biological solution to solid waste management."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Discuss the use of organic acids in commercial products.",
+      "answer": "Organic acids produced by microbes have various uses. L-glutamic acid is used to make Ajinomoto. Citric acid is used in drinks and toffees. Gluconic acid is used for calcium/iron supplements. Lactic acid is a source of nitrogen and vitamins. Itaconic acid is used in paper and textile industries. These acids are vital for the food and chemical industries."
+    }
+  ]
+}

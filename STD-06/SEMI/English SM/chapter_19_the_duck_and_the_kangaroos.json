@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.19",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Duck and the Kangaroo"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the Duck's main complaint about its life?",
+      "options": [
+        { "option_id": 1, "text": "It is too dangerous", "is_correct": false },
+        { "option_id": 2, "text": "It is a bore in a nasty pond", "is_correct": true },
+        { "option_id": 3, "text": "There is no food", "is_correct": false },
+        { "option_id": 4, "text": "The water is too deep", "is_correct": false }
+      ],
+      "answer": "It is a bore in a nasty pond"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where does the Duck long to go?",
+      "options": [
+        { "option_id": 1, "text": "To the farm", "is_correct": false },
+        { "option_id": 2, "text": "To the ocean", "is_correct": false },
+        { "option_id": 3, "text": "To the world beyond", "is_correct": true },
+        { "option_id": 4, "text": "To another pond", "is_correct": false }
+      ],
+      "answer": "To the world beyond"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the Duck wish it could do like the Kangaroo?",
+      "options": [
+        { "option_id": 1, "text": "Swim", "is_correct": false },
+        { "option_id": 2, "text": "Hop", "is_correct": true },
+        { "option_id": 3, "text": "Fly", "is_correct": false },
+        { "option_id": 4, "text": "Sing", "is_correct": false }
+      ],
+      "answer": "Hop"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the Kangaroo's main 'objection' to the Duck's request?",
+      "options": [
+        { "option_id": 1, "text": "The Duck is too heavy", "is_correct": false },
+        { "option_id": 2, "text": "The Duck's feet are wet and cold", "is_correct": true },
+        { "option_id": 3, "text": "The Kangaroo is tired", "is_correct": false },
+        { "option_id": 4, "text": "The Duck talks too much", "is_correct": false }
+      ],
+      "answer": "The Duck's feet are wet and cold"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What disease does the Kangaroo fear he might get?",
+      "options": [
+        { "option_id": 1, "text": "A cold", "is_correct": false },
+        { "option_id": 2, "text": "Fever", "is_correct": false },
+        { "option_id": 3, "text": "Roo-matiz", "is_correct": true },
+        { "option_id": 4, "text": "Cough", "is_correct": false }
+      ],
+      "answer": "Roo-matiz"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How many pairs of worsted socks did the Duck buy?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Four", "is_correct": true },
+        { "option_id": 4, "text": "One", "is_correct": false }
+      ],
+      "answer": "Four"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where does the Duck sit on the Kangaroo?",
+      "options": [
+        { "option_id": 1, "text": "On its head", "is_correct": false },
+        { "option_id": 2, "text": "In its pouch", "is_correct": false },
+        { "option_id": 3, "text": "At the end of its tail", "is_correct": true },
+        { "option_id": 4, "text": "On its back", "is_correct": false }
+      ],
+      "answer": "At the end of its tail"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How many times did they hop around the world?",
+      "options": [
+        { "option_id": 1, "text": "Once", "is_correct": false },
+        { "option_id": 2, "text": "Two times", "is_correct": false },
+        { "option_id": 3, "text": "Three times", "is_correct": true },
+        { "option_id": 4, "text": "Five times", "is_correct": false }
+      ],
+      "answer": "Three times"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'reflection' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "A mirror image", "is_correct": false },
+        { "option_id": 2, "text": "Thinking", "is_correct": true },
+        { "option_id": 3, "text": "Light bouncing off", "is_correct": false },
+        { "option_id": 4, "text": "A type of water", "is_correct": false }
+      ],
+      "answer": "Thinking"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word is an adverb used in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Pond", "is_correct": false },
+        { "option_id": 2, "text": "Completely", "is_correct": true },
+        { "option_id": 3, "text": "Duck", "is_correct": false },
+        { "option_id": 4, "text": "Socks", "is_correct": false }
+      ],
+      "answer": "Completely"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What material are the Duck's socks made of?",
+      "options": [
+        { "option_id": 1, "text": "Cotton", "is_correct": false },
+        { "option_id": 2, "text": "Silk", "is_correct": false },
+        { "option_id": 3, "text": "Worsted wool", "is_correct": true },
+        { "option_id": 4, "text": "Plastic", "is_correct": false }
+      ],
+      "answer": "Worsted wool"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The Kangaroo says the moonlight is:",
+      "options": [
+        { "option_id": 1, "text": "Bright", "is_correct": false },
+        { "option_id": 2, "text": "Pale", "is_correct": true },
+        { "option_id": 3, "text": "Yellow", "is_correct": false },
+        { "option_id": 4, "text": "Dark", "is_correct": false }
+      ],
+      "answer": "Pale"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does the Kangaroo ask the Duck to do to keep balance?",
+      "options": [
+        { "option_id": 1, "text": "Hold his ears", "is_correct": false },
+        { "option_id": 2, "text": "Sit steady", "is_correct": true },
+        { "option_id": 3, "text": "Flap her wings", "is_correct": false },
+        { "option_id": 4, "text": "Keep quiet", "is_correct": false }
+      ],
+      "answer": "Sit steady"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which pair has a short and long vowel sound respectively?",
+      "options": [
+        { "option_id": 1, "text": "Fit-Feet", "is_correct": true },
+        { "option_id": 2, "text": "Hop-Stop", "is_correct": false },
+        { "option_id": 3, "text": "Duck-Luck", "is_correct": false },
+        { "option_id": 4, "text": "Pond-Beyond", "is_correct": false }
+      ],
+      "answer": "Fit-Feet"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is a 'bore' according to the glossary?",
+      "options": [
+        { "option_id": 1, "text": "An animal", "is_correct": false },
+        { "option_id": 2, "text": "Something dull and uninteresting", "is_correct": true },
+        { "option_id": 3, "text": "A hole in the ground", "is_correct": false },
+        { "option_id": 4, "text": "A loud noise", "is_correct": false }
+      ],
+      "answer": "Something dull and uninteresting"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "In the sentence 'You are too kind', the word 'too' is an adverb that modifies:",
+      "options": [
+        { "option_id": 1, "text": "A verb", "is_correct": false },
+        { "option_id": 2, "text": "A noun", "is_correct": false },
+        { "option_id": 3, "text": "An adjective", "is_correct": true },
+        { "option_id": 4, "text": "A pronoun", "is_correct": false }
+      ],
+      "answer": "An adjective"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the QR code text on the first page of this chapter?",
+      "options": [
+        { "option_id": 1, "text": "X4GNBI", "is_correct": false },
+        { "option_id": 2, "text": "X4QID6", "is_correct": true },
+        { "option_id": 3, "text": "X40106", "is_correct": false },
+        { "option_id": 4, "text": "A1B2C3", "is_correct": false }
+      ],
+      "answer": "X4QID6"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The Kangaroo fears 'roo-matiz'. What is the real name of this disease?",
+      "options": [
+        { "option_id": 1, "text": "Influenza", "is_correct": false },
+        { "option_id": 2, "text": "Rheumatism", "is_correct": true },
+        { "option_id": 3, "text": "Pneumonia", "is_correct": false },
+        { "option_id": 4, "text": "Malaria", "is_correct": false }
+      ],
+      "answer": "Rheumatism"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What exclamation is used to show surprise in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Oh no!", "is_correct": false },
+        { "option_id": 2, "text": "Good gracious!", "is_correct": true },
+        { "option_id": 3, "text": "Well well!", "is_correct": false },
+        { "option_id": 4, "text": "Alas!", "is_correct": false }
+      ],
+      "answer": "Good gracious!"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of these is a 'bound'?",
+      "options": [
+        { "option_id": 1, "text": "A walk", "is_correct": false },
+        { "option_id": 2, "text": "A big jump", "is_correct": true },
+        { "option_id": 3, "text": "A slide", "is_correct": false },
+        { "option_id": 4, "text": "A swim", "is_correct": false }
+      ],
+      "answer": "A big jump"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Adverbs often end with which letters?",
+      "options": [
+        { "option_id": 1, "text": "-ed", "is_correct": false },
+        { "option_id": 2, "text": "-ing", "is_correct": false },
+        { "option_id": 3, "text": "-ly", "is_correct": true },
+        { "option_id": 4, "text": "-ion", "is_correct": false }
+      ],
+      "answer": "-ly"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The Duck was sitting on the ____ when it thought about the sock solution.",
+      "options": [
+        { "option_id": 1, "text": "Pond", "is_correct": false },
+        { "option_id": 2, "text": "Rocks", "is_correct": true },
+        { "option_id": 3, "text": "Kangaroo", "is_correct": false },
+        { "option_id": 4, "text": "Grass", "is_correct": false }
+      ],
+      "answer": "Rocks"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "In the Pointers section, which pair does NOT match the fit-feet pattern?",
+      "options": [
+        { "option_id": 1, "text": "Pick-Peak", "is_correct": false },
+        { "option_id": 2, "text": "Sit-Seat", "is_correct": false },
+        { "option_id": 3, "text": "Hop-Bound", "is_correct": true },
+        { "option_id": 4, "text": "Hit-Heat", "is_correct": false }
+      ],
+      "answer": "Hop-Bound"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which place is NOT listed in the make-believe town placards?",
+      "options": [
+        { "option_id": 1, "text": "Bank", "is_correct": false },
+        { "option_id": 2, "text": "Zoo", "is_correct": false },
+        { "option_id": 3, "text": "Airport", "is_correct": true },
+        { "option_id": 4, "text": "Stadium", "is_correct": false }
+      ],
+      "answer": "Airport"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the primary action word for the Kangaroo?",
+      "options": [
+        { "option_id": 1, "text": "Swim", "is_correct": false },
+        { "option_id": 2, "text": "Fly", "is_correct": false },
+        { "option_id": 3, "text": "Hop", "is_correct": true },
+        { "option_id": 4, "text": "Crawl", "is_correct": false }
+      ],
+      "answer": "Hop"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who are the two main characters in the poem?",
+      "answer": "The two main characters are the Duck and the Kangaroo."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "How does the Duck describe the pond?",
+      "answer": "The Duck describes the pond as 'nasty'."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What does the Duck admire about the Kangaroo?",
+      "answer": "The Duck admires how the Kangaroo hops over fields and water."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What does the word 'long' mean when used as a verb?",
+      "answer": "It means to wish for something or want something very much."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is the Kangaroo's one objection?",
+      "answer": "The Kangaroo's objection is that the Duck's feet are unpleasantly wet and cold."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What does 'roo-matiz' refer to?",
+      "answer": "It is a funny way of saying 'rheumatism', which is a disease."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Where was the Duck when it thought of a solution to the cold feet?",
+      "answer": "The Duck was sitting on the rocks."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "How many pairs of socks did the Duck buy?",
+      "answer": "The Duck bought four pairs of socks."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What kind of fabric are the socks made of?",
+      "answer": "The socks are made of worsted woollen fabric."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Why did the Duck buy the socks?",
+      "answer": "The Duck bought them to keep its web-feet warm and dry so the Kangaroo wouldn't get sick."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "How did the Kangaroo feel about the socks?",
+      "answer": "The Kangaroo was satisfied and said 'I'm ready!'"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "During what time of day did they start their journey?",
+      "answer": "They started 'in the moonlight pale', which means at night."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Exactly where on the Kangaroo's body did the Duck sit?",
+      "answer": "The Duck sat 'quite at the end' of the Kangaroo's tail."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Why did the Duck have to sit steady?",
+      "answer": "The Duck had to sit steady to help balance the Kangaroo."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "How many times did they travel around the world?",
+      "answer": "They travelled round the world three times."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'bound'?",
+      "answer": "A bound is a big jump."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is an adverb?",
+      "answer": "An adverb is a word that tells us something more about a verb, an adjective, or another adverb."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Give an example of an adverb from the poem.",
+      "answer": "'Completely', 'neatly', or 'steady'."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Identify the adverb in the sentence: 'The socks fit my feet neatly.'",
+      "answer": "The adverb is 'neatly'."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What does the exclamation 'Good gracious!' show?",
+      "answer": "It shows surprise or other strong feelings."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What are the two roles children play in the town activity?",
+      "answer": "The roles are citizens and tourists."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "List three places mentioned in the town placards.",
+      "answer": "Possible answers include: garden, bank, school, museum, or zoo."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the long vowel partner for the word 'bit'?",
+      "answer": "The long vowel partner is 'beat'."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is the short vowel partner for the word 'cheek'?",
+      "answer": "The short vowel partner is 'chick'."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What does the Kangaroo mean by 'reflection'?",
+      "answer": "He means he needs to do some thinking about the Duck's request."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Was the Duck happy at the end of the poem?",
+      "answer": "Yes, the poem ends by asking 'And who so happy... As the Duck and the Kangaroo?'"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Tourists and Citizens' activity?",
+      "answer": "To practice enquiring about routes and guiding others using placards."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "In the adverb section, what does 'very' modify in 'They ran very fast'?",
+      "answer": "It modifies another adverb, 'fast'."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the long vowel partner for 'lick'?",
+      "answer": "The long vowel partner is 'leak'."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How many groups are suggested for reading the poem?",
+      "answer": "Groups of three are suggested."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What are the three roles to be played in the oral reading of the poem?",
+      "answer": "The narrator, the Duck, and the Kangaroo."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which word means 'special woollen fabric'?",
+      "answer": "The word is 'worsted'."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How did they travel? (Use two verbs from the poem)",
+      "answer": "They went with a 'hop' and a 'bound'."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Change the highlighted word in 'How you hop!' to make a new sentence.",
+      "answer": "Example: 'How you jump!' or 'How you run!'"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the first event in the order of events list (Pointer 3)?",
+      "answer": "The first event is: The Duck lived in a pond (c)."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the final event in the order of events list (Pointer 3)?",
+      "answer": "The final event is: The Duck and the Kangaroo travelled round the world three times (g)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Identify the adverb in 'Sit steady'.",
+      "answer": "The adverb is 'steady'."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Identify the adverb in 'Stir it nicely'.",
+      "answer": "The adverb is 'nicely'."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Identify the adverb in 'Sprinkle them gently'.",
+      "answer": "The adverb is 'gently'."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does the Duck wish to see 'beyond'?",
+      "answer": "The Duck longs to go out in the world beyond the pond."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does the Kangaroo hope the trip might bring him?",
+      "answer": "He thinks 'perhaps on the whole it might bring me luck'."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the long vowel partner for 'tick'?",
+      "answer": "The long vowel partner is 'teak'."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the long vowel partner for 'pick'?",
+      "answer": "The long vowel partner is 'peak'."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the long vowel partner for 'sit'?",
+      "answer": "The long vowel partner is 'seat'."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Does the Kangaroo ask the Duck to sit on his back?",
+      "answer": "No, he specifically asks the Duck to sit at the end of his tail."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the code 'X40106' referring to in the PDF?",
+      "answer": "It is a digital access code (often linked to a QR code or online resource)."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is 'old palace' in the town placards list?",
+      "answer": "It is one of the places tourists can enquire about."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How many times 'O Who' is used in the last stanza?",
+      "answer": "It is used once: 'And who so happy, O Who...'"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Name the wool used for the Duck's socks.",
+      "answer": "Worsted wool."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the name of this poem?",
+      "answer": "The name of the poem is 'The Duck and the Kangaroo'."
+    }
+  ]
+}

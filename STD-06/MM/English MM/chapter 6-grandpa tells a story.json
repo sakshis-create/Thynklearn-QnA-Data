@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.06",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Grandpa Tells a Story"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was telling the story to Ronak and his friends?",
+      "options": [
+        { "option_id": 1, "text": "The teacher", "is_correct": false },
+        { "option_id": 2, "text": "Grandpa", "is_correct": true },
+        { "option_id": 3, "text": "Akshay", "is_correct": false },
+        { "option_id": 4, "text": "The farmer", "is_correct": false }
+      ],
+      "answer": "Grandpa"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where did the camel and the jackal live?",
+      "options": [
+        { "option_id": 1, "text": "In a village", "is_correct": false },
+        { "option_id": 2, "text": "In a forest", "is_correct": false },
+        { "option_id": 3, "text": "By a river", "is_correct": true },
+        { "option_id": 4, "text": "On a farm", "is_correct": false }
+      ],
+      "answer": "By a river"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'edge' in the story?",
+      "options": [
+        { "option_id": 1, "text": "A sharp knife", "is_correct": false },
+        { "option_id": 2, "text": "The middle of the river", "is_correct": false },
+        { "option_id": 3, "text": "The border where one thing stops and another begins", "is_correct": true },
+        { "option_id": 4, "text": "A sugarcane field", "is_correct": false }
+      ],
+      "answer": "The border or the line where one thing stops and another begins"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which animal was described as 'very clever'?",
+      "options": [
+        { "option_id": 1, "text": "The camel", "is_correct": false },
+        { "option_id": 2, "text": "The jackal", "is_correct": true },
+        { "option_id": 3, "text": "The bull", "is_correct": false },
+        { "option_id": 4, "text": "The lion", "is_correct": false }
+      ],
+      "answer": "The jackal"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What 'treat' did the jackal tempt the camel with?",
+      "options": [
+        { "option_id": 1, "text": "Watermelon", "is_correct": false },
+        { "option_id": 2, "text": "Sugarcane", "is_correct": true },
+        { "option_id": 3, "text": "Mangoes", "is_correct": false },
+        { "option_id": 4, "text": "A good dinner", "is_correct": false }
+      ],
+      "answer": "Sugarcane"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How did the two friends cross the river?",
+      "options": [
+        { "option_id": 1, "text": "They swam separately", "is_correct": false },
+        { "option_id": 2, "text": "They used a boat", "is_correct": false },
+        { "option_id": 3, "text": "The jackal sat on the camel's back", "is_correct": true },
+        { "option_id": 4, "text": "They walked across a bridge", "is_correct": false }
+      ],
+      "answer": "The jackal sat on the camel's back"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What did the jackal do after eating his fill?",
+      "options": [
+        { "option_id": 1, "text": "He fell asleep", "is_correct": false },
+        { "option_id": 2, "text": "He began to howl", "is_correct": true },
+        { "option_id": 3, "text": "He ran away immediately", "is_correct": false },
+        { "option_id": 4, "text": "He thanked the camel", "is_correct": false }
+      ],
+      "answer": "He began to howl"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Why did the jackal howl?",
+      "options": [
+        { "option_id": 1, "text": "He was in pain", "is_correct": false },
+        { "option_id": 2, "text": "He was hungry", "is_correct": false },
+        { "option_id": 3, "text": "He claimed it was his habit after a good dinner", "is_correct": true },
+        { "option_id": 4, "text": "He wanted to scare the camel", "is_correct": false }
+      ],
+      "answer": "He was in the habit of singing (howling) after a good dinner"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What happened to the camel when the farmer came?",
+      "options": [
+        { "option_id": 1, "text": "He hid in the sugarcane", "is_correct": false },
+        { "option_id": 2, "text": "He slipped away", "is_correct": false },
+        { "option_id": 3, "text": "The farmer beat him up and drove him away", "is_correct": true },
+        { "option_id": 4, "text": "The farmer gave him more food", "is_correct": false }
+      ],
+      "answer": "The farmer beat him up and drove him away"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Where did the camel start taking a dip?",
+      "options": [
+        { "option_id": 1, "text": "Near the bank", "is_correct": false },
+        { "option_id": 2, "text": "In the sugarcane field", "is_correct": false },
+        { "option_id": 3, "text": "Near the middle of the river", "is_correct": true },
+        { "option_id": 4, "text": "At the water's edge", "is_correct": false }
+      ],
+      "answer": "Near the middle of the river"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why did the camel take a dip in the river?",
+      "options": [
+        { "option_id": 1, "text": "To clean himself", "is_correct": false },
+        { "option_id": 2, "text": "To drown the jackal", "is_correct": false },
+        { "option_id": 3, "text": "To teach the jackal a lesson", "is_correct": true },
+        { "option_id": 4, "text": "He was thirsty", "is_correct": false }
+      ],
+      "answer": "To teach the jackal a lesson (Tit for Tat)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the title of Grandpa's story?",
+      "options": [
+        { "option_id": 1, "text": "The Naughty Jackal", "is_correct": false },
+        { "option_id": 2, "text": "Tit for Tat", "is_correct": true },
+        { "option_id": 3, "text": "The Sugarcane Treat", "is_correct": false },
+        { "option_id": 4, "text": "A Trip to the Village", "is_correct": false }
+      ],
+      "answer": "Tit for Tat"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is a polite way to interrupt?",
+      "options": [
+        { "option_id": 1, "text": "Stop talking!", "is_correct": false },
+        { "option_id": 2, "text": "Pardon, Grandpa", "is_correct": true },
+        { "option_id": 3, "text": "Hey you!", "is_correct": false },
+        { "option_id": 4, "text": "I don't like this", "is_correct": false }
+      ],
+      "answer": "Pardon, Grandpa"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word is a noun from the story?",
+      "options": [
+        { "option_id": 1, "text": "Happily", "is_correct": false },
+        { "option_id": 2, "text": "Camel", "is_correct": true },
+        { "option_id": 3, "text": "Clever", "is_correct": false },
+        { "option_id": 4, "text": "Running", "is_correct": false }
+      ],
+      "answer": "Camel"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word is a pronoun?",
+      "options": [
+        { "option_id": 1, "text": "Jackal", "is_correct": false },
+        { "option_id": 2, "text": "They", "is_correct": true },
+        { "option_id": 3, "text": "Farmer", "is_correct": false },
+        { "option_id": 4, "text": "Field", "is_correct": false }
+      ],
+      "answer": "They"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is a 'treat'?",
+      "options": [
+        { "option_id": 1, "text": "Daily food", "is_correct": false },
+        { "option_id": 2, "text": "Something special one enjoys", "is_correct": true },
+        { "option_id": 3, "text": "Medicine", "is_correct": false },
+        { "option_id": 4, "text": "Working hard", "is_correct": false }
+      ],
+      "answer": "A treat is something special that one enjoys"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who said, 'Excuse me, Grandpa'?",
+      "options": [
+        { "option_id": 1, "text": "Ishan", "is_correct": false },
+        { "option_id": 2, "text": "Ronak", "is_correct": true },
+        { "option_id": 3, "text": "Vidya", "is_correct": false },
+        { "option_id": 4, "text": "Radhika", "is_correct": false }
+      ],
+      "answer": "Ronak"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who explained what a 'sugarcane treat' meant?",
+      "options": [
+        { "option_id": 1, "text": "Akshay", "is_correct": true },
+        { "option_id": 2, "text": "Vidya", "is_correct": false },
+        { "option_id": 3, "text": "Gauri", "is_correct": false },
+        { "option_id": 4, "text": "Ishan", "is_correct": false }
+      ],
+      "answer": "Akshay"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "How should you interrupt someone who is speaking?",
+      "options": [
+        { "option_id": 1, "text": "Loudly", "is_correct": false },
+        { "option_id": 2, "text": "Politely", "is_correct": true },
+        { "option_id": 3, "text": "Suddenly", "is_correct": false },
+        { "option_id": 4, "text": "Angry", "is_correct": false }
+      ],
+      "answer": "Politely"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the noun for something we cannot touch or see?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Happiness", "is_correct": true },
+        { "option_id": 3, "text": "Stick", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does a sentence always end with?",
+      "options": [
+        { "option_id": 1, "text": "A capital letter", "is_correct": false },
+        { "option_id": 2, "text": "A full stop or question mark", "is_correct": true },
+        { "option_id": 3, "text": "A comma", "is_correct": false },
+        { "option_id": 4, "text": "A noun", "is_correct": false }
+      ],
+      "answer": "A full stop or a question mark"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does a sentence always start with?",
+      "options": [
+        { "option_id": 1, "text": "A small letter", "is_correct": false },
+        { "option_id": 2, "text": "A capital letter", "is_correct": true },
+        { "option_id": 3, "text": "A pronoun", "is_correct": false },
+        { "option_id": 4, "text": "A verb", "is_correct": false }
+      ],
+      "answer": "A capital letter"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which of these is a place noun?",
+      "options": [
+        { "option_id": 1, "text": "Grandpa", "is_correct": false },
+        { "option_id": 2, "text": "Village", "is_correct": true },
+        { "option_id": 3, "text": "Trick", "is_correct": false },
+        { "option_id": 4, "text": "Friends", "is_correct": false }
+      ],
+      "answer": "Village"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What did Ishan guess 'edge' meant?",
+      "options": [
+        { "option_id": 1, "text": "The middle", "is_correct": false },
+        { "option_id": 2, "text": "The border", "is_correct": true },
+        { "option_id": 3, "text": "A field", "is_correct": false },
+        { "option_id": 4, "text": "The village", "is_correct": false }
+      ],
+      "answer": "The border"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What did the jackal say he had a habit of doing after dinner?",
+      "options": [
+        { "option_id": 1, "text": "Sleeping", "is_correct": false },
+        { "option_id": 2, "text": "Singing", "is_correct": true },
+        { "option_id": 3, "text": "Walking", "is_correct": false },
+        { "option_id": 4, "text": "Swimming", "is_correct": false }
+      ],
+      "answer": "Singing"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who are the characters in Grandpa's story?",
+      "answer": "The characters are a camel and a jackal."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Where did the camel and the jackal live?",
+      "answer": "They lived by a river, near the water's edge."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What was located on the other side of the river?",
+      "answer": "There was a village with fields and farms."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What word did Ronak ask for a definition of?",
+      "answer": "Ronak asked for the meaning of the word 'edge'."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "How did Ishan define the word 'edge'?",
+      "answer": "Ishan defined it as the border or the line where one thing stops and another begins."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What was the camel doing when the jackal tried to play a trick?",
+      "answer": "The camel was happily munching away his food."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'munching away'?",
+      "answer": "It means happily and slowly eating food."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What did the jackal tempt the camel to do?",
+      "answer": "The jackal tempted him to go for a sugarcane treat in a farmer's field."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "How did Grandpa define a 'treat'?",
+      "answer": "A treat is something special that one enjoys."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Did the camel agree to go for the treat immediately?",
+      "answer": "No, at first he hesitated, but in the end he agreed."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "How did the jackal get across the river?",
+      "answer": "He sat on the camel's back while the camel swam across."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What did the two friends do in the field?",
+      "answer": "They ate their fill of sugarcane."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What did the jackal do unexpectedly in the field?",
+      "answer": "Suddenly, the jackal began to howl."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What did the camel say to try and stop the jackal?",
+      "answer": "He said, 'Sssh! You will wake the farmer.'"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Who came running to the field because of the howling?",
+      "answer": "The farmer and his helpers came running."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What did the jackal do when the farmer arrived?",
+      "answer": "The naughty jackal slipped away."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What happened to the camel when the farmer caught him?",
+      "answer": "The farmer beat him up and drove him away."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Where was the jackal when the camel returned to the river?",
+      "answer": "The jackal was waiting for the camel at the riverside."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What reason did the jackal give for howling?",
+      "answer": "He said he was in the habit of singing after a good dinner."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "How did the camel react to the jackal's apology at the riverside?",
+      "answer": "He didn't say anything and let the jackal sit on his back to cross the river."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What was the water like in the middle of the river?",
+      "answer": "The water was very deep."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What did the camel do in the deep water?",
+      "answer": "The camel began to take a dip in the river."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Why was the jackal frightened in the river?",
+      "answer": "He was afraid the camel was trying to drown him."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What did the camel say to the jackal in the river?",
+      "answer": "He said he was in the habit of taking a dip in the river after a good meal."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Did the jackal learn a lesson?",
+      "answer": "Yes, he learnt his lesson and never troubled the camel again."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the English name for words like 'I, we, you, he, she, it, they'?",
+      "answer": "They are called pronouns."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What do pronouns stand for?",
+      "answer": "Pronouns are words that stand for nouns."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Give two examples of polite interruptions from the box.",
+      "answer": "'Pardon,' and 'Excuse me, Sir/Madam'."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What should you say if you didn't hear the last word someone said?",
+      "answer": "'Sorry, but I did not get the last word / sentence.'"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What are nouns?",
+      "answer": "Nouns are naming words for people, animals, places, or things."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name two nouns that refer to 'People' from the chapter.",
+      "answer": "Grandpa and farmer (or friends, helpers, Radhika)."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name two nouns that refer to 'Animals' from the chapter.",
+      "answer": "Camel and jackal."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name two nouns that refer to 'Places' from the chapter.",
+      "answer": "Village and field (or farm, river)."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Give an example of a noun for something we can feel or see.",
+      "answer": "Stick, water, or sugarcane."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Give an example of a noun for something we cannot touch or see.",
+      "answer": "Happiness, habit, trick, or time."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is a 'response' when someone says 'Excuse me'?",
+      "answer": "A response can be 'Yes?', 'Sure', or 'Certainly'."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does Gauri ask Grandpa about the story?",
+      "answer": "Gauri asks if it means the animals were going to steal from the farmer."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why did Shreya want the questions to be held later?",
+      "answer": "She wanted to listen to the rest of the story first."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the first rule for writing a sentence mentioned in the book?",
+      "answer": "The first letter of a sentence is always a capital letter."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What punctuation can a sentence end with?",
+      "answer": "A sentence can end with a full stop or a question mark."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the equivalent of 'Tit for Tat' in your mother tongue?",
+      "answer": "(This varies by language, e.g., in Hindi: 'Jaise ko taisa')."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Is 'Jackal' a proper noun or a common noun in the table?",
+      "answer": "It is listed under 'Animals' as a noun."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Who said, 'Can you / Could you repeat that, please?'",
+      "answer": "This is a suggested expression for polite interruptions."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How did the camel describe the jackal's behavior in the river?",
+      "answer": "He called him a 'silly fellow'."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What did Vidya ask for?",
+      "answer": "She asked Grandpa to repeat the last words because she didn't get them."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What did Radhika want Grandpa to repeat?",
+      "answer": "Radhika asked him to repeat the last phrase 'happily munching away'."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "How many friends were listening to Grandpa's story?",
+      "answer": "The story mentions Ronak, Ishan, Radhika, Vidya, Akshay, Gauri, and Shreya (at least 7)."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is 'howling'?",
+      "answer": "Howling is the long, loud cry of a jackal or wolf."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why did the jackal slip away easily?",
+      "answer": "He was small and naughty (clever)."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why could the camel not slip away?",
+      "answer": "The camel is a large animal and could not move as quickly or hide easily."
+    }
+  ]
+}

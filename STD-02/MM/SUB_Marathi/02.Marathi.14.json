@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.14",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "झरा पड"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कवितेत कोण झराझरा पडत आहे?",
+      "options": [
+        { "option_id": 1, "text": "धूळ", "is_correct": false },
+        { "option_id": 2, "text": "बर्फ", "is_correct": false },
+        { "option_id": 3, "text": "पाऊस", "is_correct": true },
+        { "option_id": 4, "text": "फुले", "is_correct": false }
+      ],
+      "answer": "पाऊस"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पावसाचे थेंब कसे पडतात असे सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "शांतपणे", "is_correct": false },
+        { "option_id": 2, "text": "झराझरा", "is_correct": true },
+        { "option_id": 3, "text": "हळूच", "is_correct": false },
+        { "option_id": 4, "text": "मोठ्याने", "is_correct": false }
+      ],
+      "answer": "झराझरा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पावसामुळे काय हिरवेगार होते?",
+      "options": [
+        { "option_id": 1, "text": "खडे", "is_correct": false },
+        { "option_id": 2, "text": "झाडे आणि पाने", "is_correct": true },
+        { "option_id": 3, "text": "आकाश", "is_correct": false },
+        { "option_id": 4, "text": "डोंगर", "is_correct": false }
+      ],
+      "answer": "झाडे आणि पाने"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवितेत पावसाचा आवाज कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "टणाटण", "is_correct": false },
+        { "option_id": 2, "text": "धडामधूम", "is_correct": false },
+        { "option_id": 3, "text": "झराझरा", "is_correct": true },
+        { "option_id": 4, "text": "श्शश्श", "is_correct": false }
+      ],
+      "answer": "झराझरा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पावसामुळे मातीला काय होते?",
+      "options": [
+        { "option_id": 1, "text": "कोरडी होते", "is_correct": false },
+        { "option_id": 2, "text": "गरम होते", "is_correct": false },
+        { "option_id": 3, "text": "ओलसर होते", "is_correct": true },
+        { "option_id": 4, "text": "कडक होते", "is_correct": false }
+      ],
+      "answer": "ओलसर होते"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाऊस पडला की मुलांना काय करायला आवडते?",
+      "options": [
+        { "option_id": 1, "text": "झोपायला", "is_correct": false },
+        { "option_id": 2, "text": "शांत बसायला", "is_correct": false },
+        { "option_id": 3, "text": "खेळायला आणि भिजायला", "is_correct": true },
+        { "option_id": 4, "text": "भांडी धुवायला", "is_correct": false }
+      ],
+      "answer": "खेळायला आणि भिजायला"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पावसामुळे कोणती नदी वाहते?",
+      "options": [
+        { "option_id": 1, "text": "कोरडी नदी", "is_correct": false },
+        { "option_id": 2, "text": "पावसानंतर वाहणारी नदी", "is_correct": true },
+        { "option_id": 3, "text": "समुद्र", "is_correct": false },
+        { "option_id": 4, "text": "तलाव", "is_correct": false }
+      ],
+      "answer": "पावसानंतर वाहणारी नदी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पाऊस पडल्यावर शेतात काय उगवते?",
+      "options": [
+        { "option_id": 1, "text": "फुले", "is_correct": false },
+        { "option_id": 2, "text": "पिके", "is_correct": true },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "वाळू", "is_correct": false }
+      ],
+      "answer": "पिके"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवितेत पावसाची भावना कशी व्यक्त केली आहे?",
+      "options": [
+        { "option_id": 1, "text": "भीतीची", "is_correct": false },
+        { "option_id": 2, "text": "दुःखाची", "is_correct": false },
+        { "option_id": 3, "text": "आनंदाची", "is_correct": true },
+        { "option_id": 4, "text": "रागाची", "is_correct": false }
+      ],
+      "answer": "आनंदाची"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "‘झरा पड’ या शब्दातून कोणता अर्थ कळतो?",
+      "options": [
+        { "option_id": 1, "text": "हलका पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याचा सतत प्रवाह", "is_correct": true },
+        { "option_id": 3, "text": "वादळ", "is_correct": false },
+        { "option_id": 4, "text": "गारा", "is_correct": false }
+      ],
+      "answer": "पाण्याचा सतत प्रवाह"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पावसामुळे काय थंडगार होते?",
+      "options": [
+        { "option_id": 1, "text": "वारा", "is_correct": true },
+        { "option_id": 2, "text": "दगड", "is_correct": false },
+        { "option_id": 3, "text": "सूर्य", "is_correct": false },
+        { "option_id": 4, "text": "आकाश", "is_correct": false }
+      ],
+      "answer": "वारा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पावसात नाचणारे कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "फक्त प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "फक्त मुले", "is_correct": false },
+        { "option_id": 3, "text": "मुले व पक्षी", "is_correct": true },
+        { "option_id": 4, "text": "फक्त शेतकरी", "is_correct": false }
+      ],
+      "answer": "मुले व पक्षी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पावसामुळे निसर्ग कसा दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "उजाड", "is_correct": false },
+        { "option_id": 2, "text": "रूक्ष", "is_correct": false },
+        { "option_id": 3, "text": "ताजेतवाने", "is_correct": true },
+        { "option_id": 4, "text": "अंधारलेला", "is_correct": false }
+      ],
+      "answer": "ताजेतवाने"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवितेत पावसाचा उल्लेख कोणत्या रूपात केला आहे?",
+      "options": [
+        { "option_id": 1, "text": "मित्र", "is_correct": true },
+        { "option_id": 2, "text": "शत्रू", "is_correct": false },
+        { "option_id": 3, "text": "खेळणे", "is_correct": false },
+        { "option_id": 4, "text": "प्राणी", "is_correct": false }
+      ],
+      "answer": "मित्र"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या ऋतूवर आधारित आहे?",
+      "options": [
+        { "option_id": 1, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 2, "text": "उन्हाळा", "is_correct": false },
+        { "option_id": 3, "text": "पावसाळा", "is_correct": true },
+        { "option_id": 4, "text": "वसंत", "is_correct": false }
+      ],
+      "answer": "पावसाळा"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘झरा पड’ या शब्दाचा अर्थ लिहा.",
+      "answer": "सतत वाहणारा पाण्याचा प्रवाह."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पावसामुळे निसर्गात काय बदल होतो?",
+      "answer": "निसर्ग हिरवागार आणि ताजा होतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पाऊस का महत्त्वाचा आहे?",
+      "answer": "कारण तो पिकांना आणि पृथ्वीला पाणी देतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पावसाचा आवाज कसा वाटतो?",
+      "answer": "झराझरा पडणारा गोड आवाज वाटतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पावसात मुले काय करतात?",
+      "answer": "पावसात खेळतात आणि भिजतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पावसामुळे शेतात काय उगवते?",
+      "answer": "शेतात पिके उगवतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कवितेतील आवडलेला एक शब्द लिहा.",
+      "answer": "झराझरा."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पावसामुळे नदीला काय होते?",
+      "answer": "नदीला पाणी वाढते आणि ती वाहू लागते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "पाऊस पडल्यावर हवा कशी होते?",
+      "answer": "हवा थंडगार आणि ताजी होते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कवितेतून कोणती भावना व्यक्त होते?",
+      "answer": "आनंद आणि उत्साहाची भावना."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘हिरवेगार’ या शब्दाचा अर्थ लिहा.",
+      "answer": "हिरवे आणि ताजेतवाने."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "निसर्गाला पावसाची गरज का आहे?",
+      "answer": "कारण पाण्याशिवाय झाडे व पिके जगू शकत नाहीत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "तुला पावसात काय करायला आवडते?",
+      "answer": "मला पावसात खेळायला आणि भिजायला आवडते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पाऊस आपल्यासाठी कसा उपयुक्त आहे?",
+      "answer": "तो पिण्याचे पाणी, शेती आणि निसर्गासाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "ही कविता तुला का आवडली?",
+      "answer": "कारण ती पावसाचा आनंद आणि निसर्गसौंदर्य दाखवते."
+    }
+  ]
+}

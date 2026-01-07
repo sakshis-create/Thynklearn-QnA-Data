@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.17",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "खार"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणाचे वर्णन केले आहे?",
+      "options": [
+        { "option_id": 1, "text": "मांजराचे", "is_correct": false },
+        { "option_id": 2, "text": "खारीचे", "is_correct": true },
+        { "option_id": 3, "text": "कुत्र्याचे", "is_correct": false },
+        { "option_id": 4, "text": "पोपटाचे", "is_correct": false }
+      ],
+      "answer": "खारीचे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खारीची शेपूट कशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "झुबकेदार", "is_correct": true },
+        { "option_id": 3, "text": "काळी", "is_correct": false },
+        { "option_id": 4, "text": "काटेरी", "is_correct": false }
+      ],
+      "answer": "झुबकेदार"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खार कशी बसते?",
+      "options": [
+        { "option_id": 1, "text": "वाकडी", "is_correct": false },
+        { "option_id": 2, "text": "डौलदार", "is_correct": true },
+        { "option_id": 3, "text": "झोपून", "is_correct": false },
+        { "option_id": 4, "text": "शांत", "is_correct": false }
+      ],
+      "answer": "डौलदार"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "खार कशी उभी राहते?",
+      "options": [
+        { "option_id": 1, "text": "घाबरून", "is_correct": false },
+        { "option_id": 2, "text": "ऐटदार", "is_correct": true },
+        { "option_id": 3, "text": "वाकून", "is_correct": false },
+        { "option_id": 4, "text": "लपून", "is_correct": false }
+      ],
+      "answer": "ऐटदार"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "खारीचे डोळे कसे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "लुकलुक", "is_correct": true },
+        { "option_id": 2, "text": "बंद", "is_correct": false },
+        { "option_id": 3, "text": "लाल", "is_correct": false },
+        { "option_id": 4, "text": "मोठे", "is_correct": false }
+      ],
+      "answer": "लुकलुक"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "खारीचे कान कसे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "लांब", "is_correct": false },
+        { "option_id": 2, "text": "खुटखुट", "is_correct": true },
+        { "option_id": 3, "text": "काळे", "is_correct": false },
+        { "option_id": 4, "text": "मऊ", "is_correct": false }
+      ],
+      "answer": "खुटखुट"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "खार रस्त्यावर कशी पळते?",
+      "options": [
+        { "option_id": 1, "text": "हळूहळू", "is_correct": false },
+        { "option_id": 2, "text": "भरभर", "is_correct": true },
+        { "option_id": 3, "text": "लंगडत", "is_correct": false },
+        { "option_id": 4, "text": "थांबत", "is_correct": false }
+      ],
+      "answer": "भरभर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "खार झाडावर कशी चढते?",
+      "options": [
+        { "option_id": 1, "text": "सावकाश", "is_correct": false },
+        { "option_id": 2, "text": "झरझर", "is_correct": true },
+        { "option_id": 3, "text": "घाबरत", "is_correct": false },
+        { "option_id": 4, "text": "उड्या मारत", "is_correct": false }
+      ],
+      "answer": "झरझर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खार काय करते?",
+      "options": [
+        { "option_id": 1, "text": "धडपड", "is_correct": true },
+        { "option_id": 2, "text": "गाणे गाते", "is_correct": false },
+        { "option_id": 3, "text": "झोपते", "is_correct": false },
+        { "option_id": 4, "text": "रडते", "is_correct": false }
+      ],
+      "answer": "धडपड"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "खार कशी पसार होते?",
+      "options": [
+        { "option_id": 1, "text": "हळूच", "is_correct": false },
+        { "option_id": 2, "text": "झटपट", "is_correct": true },
+        { "option_id": 3, "text": "उशिरा", "is_correct": false },
+        { "option_id": 4, "text": "सावकाश", "is_correct": false }
+      ],
+      "answer": "झटपट"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणी लिहिली आहे?",
+      "options": [
+        { "option_id": 1, "text": "साने गुरुजी", "is_correct": false },
+        { "option_id": 2, "text": "देवबा पाटील", "is_correct": true },
+        { "option_id": 3, "text": "कुसुमाग्रज", "is_correct": false },
+        { "option_id": 4, "text": "बालकवी", "is_correct": false }
+      ],
+      "answer": "देवबा पाटील"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खार साऱ्यांना कशी वाटते?",
+      "options": [
+        { "option_id": 1, "text": "वाईट", "is_correct": false },
+        { "option_id": 2, "text": "आवडती (आवडे फार फार)", "is_correct": true },
+        { "option_id": 3, "text": "घाणेरडी", "is_correct": false },
+        { "option_id": 4, "text": "भीतिदायक", "is_correct": false }
+      ],
+      "answer": "आवडती (आवडे फार फार)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'मजेदार' या शब्दाचा यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "झुबकेदार", "is_correct": true },
+        { "option_id": 2, "text": "झाड", "is_correct": false },
+        { "option_id": 3, "text": "पान", "is_correct": false },
+        { "option_id": 4, "text": "फळ", "is_correct": false }
+      ],
+      "answer": "झुबकेदार"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "खारीचे वर्णन 'सुंदर आणि ____' असे केले आहे.",
+      "options": [
+        { "option_id": 1, "text": "मजेदार", "is_correct": true },
+        { "option_id": 2, "text": "हुशार", "is_correct": false },
+        { "option_id": 3, "text": "लहान", "is_correct": false },
+        { "option_id": 4, "text": "मोठी", "is_correct": false }
+      ],
+      "answer": "मजेदार"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खार कोठे चढते?",
+      "options": [
+        { "option_id": 1, "text": "घरावर", "is_correct": false },
+        { "option_id": 2, "text": "झाडावर", "is_correct": true },
+        { "option_id": 3, "text": "डोंगरावर", "is_correct": false },
+        { "option_id": 4, "text": "गाडीवर", "is_correct": false }
+      ],
+      "answer": "झाडावर"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवितेतील प्राण्याचे नाव काय आहे?",
+      "answer": "कवितेतील प्राण्याचे नाव 'खार' आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "खारीची शेपूट कशी आहे?",
+      "answer": "खारीची शेपूट झुबकेदार आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "खार झाडावर कशी चढते?",
+      "answer": "खार झाडावर 'झरझर' चढते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "खारीचे डोळे कसे आहेत?",
+      "answer": "खारीचे डोळे 'लुकलुक' आहेत."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "खार रस्त्यावर कशी पळते?",
+      "answer": "खार रस्त्यावर 'भरभर' पळते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "खारीचे कान काय करतात?",
+      "answer": "खारीचे कान 'खुटखुट' ऐकतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "खार कशी बसते?",
+      "answer": "खार डौलदार बसते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "खार कशी उभी राहते?",
+      "answer": "खार ऐटदार उभी राहते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "खार साऱ्यांना का आवडते?",
+      "answer": "खार छान, सुंदर आणि मजेदार असल्यामुळे साऱ्यांना आवडते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कवितेचे कवी कोण आहेत?",
+      "answer": "कवितेचे कवी 'देवबा पाटील' आहेत."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "'झटपट' म्हणजे काय?",
+      "answer": "'झटपट' म्हणजे पटकन किंवा लवकर."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "खार काय करते?",
+      "answer": "खार फार धडपड करते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "'डोळे' या शब्दाचा यमक जुळणारा शब्द कवितेतून शोधा.",
+      "answer": "डोळे - पळे (किंवा बघती - ऐकती असे क्रियापद यमक होऊ शकते, पण डोळे साठी अचूक यमक शब्द नाही, संदर्भानुसार 'बघती' येते)."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "'ऐटदार' म्हणजे काय?",
+      "answer": "'ऐटदार' म्हणजे रुबाबदार किंवा स्टायलिश."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "तुम्ही खार कोठे पाहिली आहे?",
+      "answer": "आम्ही खार झाडावर किंवा बागेत पाहिली आहे."
+    }
+  ]
+}

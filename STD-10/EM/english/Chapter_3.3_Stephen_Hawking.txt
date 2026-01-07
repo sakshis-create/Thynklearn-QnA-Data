@@ -1,0 +1,1183 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.3.3",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Stephen Hawking"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "When was Stephen Hawking born?",
+      "options": [
+        { "option_id": 1, "text": "March 14, 2018", "is_correct": false },
+        { "option_id": 2, "text": "January 8, 1942", "is_correct": true },
+        { "option_id": 3, "text": "July 4, 1950", "is_correct": false },
+        { "option_id": 4, "text": "December 25, 1942", "is_correct": false }
+      ],
+      "answer": "January 8, 1942"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "At what age was Stephen Hawking diagnosed with ALS?",
+      "options": [
+        { "option_id": 1, "text": "25", "is_correct": false },
+        { "option_id": 2, "text": "30", "is_correct": false },
+        { "option_id": 3, "text": "21", "is_correct": true },
+        { "option_id": 4, "text": "18", "is_correct": false }
+      ],
+      "answer": "21"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does ALS stand for?",
+      "options": [
+        { "option_id": 1, "text": "Amyotrophic Lateral Sclerosis", "is_correct": true },
+        { "option_id": 2, "text": "Anterior Lateral Syndrome", "is_correct": false },
+        { "option_id": 3, "text": "Advanced Learning Sickness", "is_correct": false },
+        { "option_id": 4, "text": "Acute Lung Sclerosis", "is_correct": false }
+      ],
+      "answer": "Amyotrophic Lateral Sclerosis"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which university was Stephen Hawking studying at when diagnosed?",
+      "options": [
+        { "option_id": 1, "text": "Oxford", "is_correct": false },
+        { "option_id": 2, "text": "Cambridge", "is_correct": true },
+        { "option_id": 3, "text": "Harvard", "is_correct": false },
+        { "option_id": 4, "text": "Stanford", "is_correct": false }
+      ],
+      "answer": "Cambridge"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What book catapulted Hawking to international prominence in 1988?",
+      "options": [
+        { "option_id": 1, "text": "The Grand Design", "is_correct": false },
+        { "option_id": 2, "text": "The Theory of Everything", "is_correct": false },
+        { "option_id": 3, "text": "A Brief History of Time", "is_correct": true },
+        { "option_id": 4, "text": "The Universe in a Nutshell", "is_correct": false }
+      ],
+      "answer": "A Brief History of Time"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How many books has Stephen Hawking written or co-written?",
+      "options": [
+        { "option_id": 1, "text": "10", "is_correct": false },
+        { "option_id": 2, "text": "20", "is_correct": false },
+        { "option_id": 3, "text": "15", "is_correct": true },
+        { "option_id": 4, "text": "5", "is_correct": false }
+      ],
+      "answer": "15"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the science of the origin and development of the universe called?",
+      "options": [
+        { "option_id": 1, "text": "Astrology", "is_correct": false },
+        { "option_id": 2, "text": "Cosmology", "is_correct": true },
+        { "option_id": 3, "text": "Geology", "is_correct": false },
+        { "option_id": 4, "text": "Biology", "is_correct": false }
+      ],
+      "answer": "Cosmology"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which film depicted part of Stephen Hawking's life story?",
+      "options": [
+        { "option_id": 1, "text": "The Theory of Everything", "is_correct": true },
+        { "option_id": 2, "text": "A Beautiful Mind", "is_correct": false },
+        { "option_id": 3, "text": "Interstellar", "is_correct": false },
+        { "option_id": 4, "text": "Gravity", "is_correct": false }
+      ],
+      "answer": "The Theory of Everything"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What disease is also known as Lou Gehrig's disease?",
+      "options": [
+        { "option_id": 1, "text": "Multiple Sclerosis", "is_correct": false },
+        { "option_id": 2, "text": "ALS", "is_correct": true },
+        { "option_id": 3, "text": "Parkinson's", "is_correct": false },
+        { "option_id": 4, "text": "Alzheimer's", "is_correct": false }
+      ],
+      "answer": "ALS"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How long did 'A Brief History of Time' spend on the best-seller list?",
+      "options": [
+        { "option_id": 1, "text": "One year", "is_correct": false },
+        { "option_id": 2, "text": "Two years", "is_correct": false },
+        { "option_id": 3, "text": "Four years", "is_correct": true },
+        { "option_id": 4, "text": "Six months", "is_correct": false }
+      ],
+      "answer": "Four years"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "In which book did Hawking argue that the universe can create itself from nothing?",
+      "options": [
+        { "option_id": 1, "text": "A Brief History of Time", "is_correct": false },
+        { "option_id": 2, "text": "The Grand Design", "is_correct": true },
+        { "option_id": 3, "text": "The Universe in a Nutshell", "is_correct": false },
+        { "option_id": 4, "text": "Black Holes", "is_correct": false }
+      ],
+      "answer": "The Grand Design"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the highest civilian award in the US received by Hawking?",
+      "options": [
+        { "option_id": 1, "text": "Nobel Prize", "is_correct": false },
+        { "option_id": 2, "text": "Presidential Medal of Freedom", "is_correct": true },
+        { "option_id": 3, "text": "Congressional Gold Medal", "is_correct": false },
+        { "option_id": 4, "text": "Fields Medal", "is_correct": false }
+      ],
+      "answer": "Presidential Medal of Freedom"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does 'atypical' mean?",
+      "options": [
+        { "option_id": 1, "text": "Very common", "is_correct": false },
+        { "option_id": 2, "text": "Very unusual", "is_correct": true },
+        { "option_id": 3, "text": "Typical", "is_correct": false },
+        { "option_id": 4, "text": "Normal", "is_correct": false }
+      ],
+      "answer": "Very unusual"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these events prevented Hawking from becoming despondent?",
+      "options": [
+        { "option_id": 1, "text": "Winning a prize", "is_correct": false },
+        { "option_id": 2, "text": "Sharing a room with a boy suffering from leukemia", "is_correct": true },
+        { "option_id": 3, "text": "Getting married", "is_correct": false },
+        { "option_id": 4, "text": "Writing a book", "is_correct": false }
+      ],
+      "answer": "Sharing a room with a boy suffering from leukemia"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Hawking dreamt he was going to be ________.",
+      "options": [
+        { "option_id": 1, "text": "Cured", "is_correct": false },
+        { "option_id": 2, "text": "Rich", "is_correct": false },
+        { "option_id": 3, "text": "Executed", "is_correct": true },
+        { "option_id": 4, "text": "Famous", "is_correct": false }
+      ],
+      "answer": "Executed"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What year was Hawking forced to use a wheelchair?",
+      "options": [
+        { "option_id": 1, "text": "1963", "is_correct": false },
+        { "option_id": 2, "text": "1969", "is_correct": true },
+        { "option_id": 3, "text": "1975", "is_correct": false },
+        { "option_id": 4, "text": "1985", "is_correct": false }
+      ],
+      "answer": "1969"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What procedure caused Hawking to lose his voice for good?",
+      "options": [
+        { "option_id": 1, "text": "Appendectomy", "is_correct": false },
+        { "option_id": 2, "text": "Tracheotomy", "is_correct": true },
+        { "option_id": 3, "text": "Biopsy", "is_correct": false },
+        { "option_id": 4, "text": "Tonsillectomy", "is_correct": false }
+      ],
+      "answer": "Tracheotomy"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What year did Hawking lose his voice?",
+      "options": [
+        { "option_id": 1, "text": "1985", "is_correct": true },
+        { "option_id": 2, "text": "1995", "is_correct": false },
+        { "option_id": 3, "text": "1975", "is_correct": false },
+        { "option_id": 4, "text": "2005", "is_correct": false }
+      ],
+      "answer": "1985"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who developed the speaking program for Hawking?",
+      "options": [
+        { "option_id": 1, "text": "A British scientist", "is_correct": false },
+        { "option_id": 2, "text": "A California computer programmer", "is_correct": true },
+        { "option_id": 3, "text": "His nurse", "is_correct": false },
+        { "option_id": 4, "text": "His student", "is_correct": false }
+      ],
+      "answer": "A California computer programmer"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "How does Hawking direct the speaking program today?",
+      "options": [
+        { "option_id": 1, "text": "Handheld clicker", "is_correct": false },
+        { "option_id": 2, "text": "Cheek muscle attached to a sensor", "is_correct": true },
+        { "option_id": 3, "text": "Voice command", "is_correct": false },
+        { "option_id": 4, "text": "Keyboard", "is_correct": false }
+      ],
+      "answer": "Cheek muscle attached to a sensor"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which book simplified the core concepts of 'A Brief History of Time'?",
+      "options": [
+        { "option_id": 1, "text": "The Grand Design", "is_correct": false },
+        { "option_id": 2, "text": "A Briefer History of Time", "is_correct": true },
+        { "option_id": 3, "text": "Universe in a Nutshell", "is_correct": false },
+        { "option_id": 4, "text": "Black Holes", "is_correct": false }
+      ],
+      "answer": "A Briefer History of Time"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Hawking claims he can think in how many dimensions?",
+      "options": [
+        { "option_id": 1, "text": "3", "is_correct": false },
+        { "option_id": 2, "text": "4", "is_correct": false },
+        { "option_id": 3, "text": "11", "is_correct": true },
+        { "option_id": 4, "text": "10", "is_correct": false }
+      ],
+      "answer": "11"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is Hawking convinced is possible?",
+      "options": [
+        { "option_id": 1, "text": "Time travel", "is_correct": true },
+        { "option_id": 2, "text": "Teleportation", "is_correct": false },
+        { "option_id": 3, "text": "Invisibility", "is_correct": false },
+        { "option_id": 4, "text": "Immortality", "is_correct": false }
+      ],
+      "answer": "Time travel"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Hawking challenged whose belief that the universe was designed by God?",
+      "options": [
+        { "option_id": 1, "text": "Albert Einstein", "is_correct": false },
+        { "option_id": 2, "text": "Galileo", "is_correct": false },
+        { "option_id": 3, "text": "Sir Isaac Newton", "is_correct": true },
+        { "option_id": 4, "text": "Darwin", "is_correct": false }
+      ],
+      "answer": "Sir Isaac Newton"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What post did Hawking hold at Cambridge for 30 years?",
+      "options": [
+        { "option_id": 1, "text": "Professor of Physics", "is_correct": false },
+        { "option_id": 2, "text": "Lucasian Professor of Mathematics", "is_correct": true },
+        { "option_id": 3, "text": "Dean of Science", "is_correct": false },
+        { "option_id": 4, "text": "Head of Cosmology", "is_correct": false }
+      ],
+      "answer": "Lucasian Professor of Mathematics"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "When did Stephen Hawking pass away?",
+      "options": [
+        { "option_id": 1, "text": "March 14, 2018", "is_correct": true },
+        { "option_id": 2, "text": "January 8, 2018", "is_correct": false },
+        { "option_id": 3, "text": "April 1, 2018", "is_correct": false },
+        { "option_id": 4, "text": "December 31, 2017", "is_correct": false }
+      ],
+      "answer": "March 14, 2018"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'catapulted'?",
+      "options": [
+        { "option_id": 1, "text": "Fell down", "is_correct": false },
+        { "option_id": 2, "text": "Launched", "is_correct": true },
+        { "option_id": 3, "text": "Stopped", "is_correct": false },
+        { "option_id": 4, "text": "Studied", "is_correct": false }
+      ],
+      "answer": "Launched"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'prolific'?",
+      "options": [
+        { "option_id": 1, "text": "Slow", "is_correct": false },
+        { "option_id": 2, "text": "Productive", "is_correct": true },
+        { "option_id": 3, "text": "Lazy", "is_correct": false },
+        { "option_id": 4, "text": "Rare", "is_correct": false }
+      ],
+      "answer": "Productive"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'peril'?",
+      "options": [
+        { "option_id": 1, "text": "Safety", "is_correct": false },
+        { "option_id": 2, "text": "Serious and immediate danger", "is_correct": true },
+        { "option_id": 3, "text": "Fun", "is_correct": false },
+        { "option_id": 4, "text": "Challenge", "is_correct": false }
+      ],
+      "answer": "Serious and immediate danger"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which book offered a more illustrated guide to cosmology's big theories?",
+      "options": [
+        { "option_id": 1, "text": "A Brief History of Time", "is_correct": false },
+        { "option_id": 2, "text": "The Universe in a Nutshell", "is_correct": true },
+        { "option_id": 3, "text": "The Grand Design", "is_correct": false },
+        { "option_id": 4, "text": "Black Holes", "is_correct": false }
+      ],
+      "answer": "The Universe in a Nutshell"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What does 'cosmology' mean?",
+      "options": [
+        { "option_id": 1, "text": "Study of stars", "is_correct": false },
+        { "option_id": 2, "text": "Study of the origin and development of the universe", "is_correct": true },
+        { "option_id": 3, "text": "Study of earth", "is_correct": false },
+        { "option_id": 4, "text": "Study of life", "is_correct": false }
+      ],
+      "answer": "Study of the origin and development of the universe"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is 'quantum mechanics' the study of?",
+      "options": [
+        { "option_id": 1, "text": "The small", "is_correct": true },
+        { "option_id": 2, "text": "The big", "is_correct": false },
+        { "option_id": 3, "text": "The stars", "is_correct": false },
+        { "option_id": 4, "text": "The planets", "is_correct": false }
+      ],
+      "answer": "The small"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Hawking says the universe can create itself from nothing because of a law such as ________.",
+      "options": [
+        { "option_id": 1, "text": "Motion", "is_correct": false },
+        { "option_id": 2, "text": "Gravity", "is_correct": true },
+        { "option_id": 3, "text": "Thermodynamics", "is_correct": false },
+        { "option_id": 4, "text": "Relativity", "is_correct": false }
+      ],
+      "answer": "Gravity"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Identify the word formed by Reduplication: 'riff-raff'.",
+      "options": [
+        { "option_id": 1, "text": "True", "is_correct": true },
+        { "option_id": 2, "text": "False", "is_correct": false }
+      ],
+      "answer": "True"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Identify the word formed by Blending: 'motel'.",
+      "options": [
+        { "option_id": 1, "text": "True", "is_correct": true },
+        { "option_id": 2, "text": "False", "is_correct": false }
+      ],
+      "answer": "True"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Identify the word formed by Clipping: 'Maths'.",
+      "options": [
+        { "option_id": 1, "text": "True", "is_correct": true },
+        { "option_id": 2, "text": "False", "is_correct": false }
+      ],
+      "answer": "True"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Identify the word formed by Acronym: 'NASA'.",
+      "options": [
+        { "option_id": 1, "text": "True", "is_correct": true },
+        { "option_id": 2, "text": "False", "is_correct": false }
+      ],
+      "answer": "True"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Complete the sentence: Mother ________ a good meal. (cook/cooks)",
+      "options": [
+        { "option_id": 1, "text": "cook", "is_correct": false },
+        { "option_id": 2, "text": "cooks", "is_correct": true }
+      ],
+      "answer": "cooks"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Complete the sentence: Mother and her daughter ________ a good meal. (cook/cooks)",
+      "options": [
+        { "option_id": 1, "text": "cook", "is_correct": true },
+        { "option_id": 2, "text": "cooks", "is_correct": false }
+      ],
+      "answer": "cook"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Complete the sentence: The rise and fall of the Empire ________ recorded in History. (is/are)",
+      "options": [
+        { "option_id": 1, "text": "is", "is_correct": true },
+        { "option_id": 2, "text": "are", "is_correct": false }
+      ],
+      "answer": "is"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Complete the sentence: Neither Ritesh nor Alok ________ well. (play/plays)",
+      "options": [
+        { "option_id": 1, "text": "play", "is_correct": false },
+        { "option_id": 2, "text": "plays", "is_correct": true }
+      ],
+      "answer": "plays"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Complete the sentence: Either of the two ________ guilty. (is/are)",
+      "options": [
+        { "option_id": 1, "text": "is", "is_correct": true },
+        { "option_id": 2, "text": "are", "is_correct": false }
+      ],
+      "answer": "is"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Complete the sentence: Everyone ________ mistakes. (make/makes)",
+      "options": [
+        { "option_id": 1, "text": "make", "is_correct": false },
+        { "option_id": 2, "text": "makes", "is_correct": true }
+      ],
+      "answer": "makes"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Complete the sentence: That news ________ published today. (is/are)",
+      "options": [
+        { "option_id": 1, "text": "is", "is_correct": true },
+        { "option_id": 2, "text": "are", "is_correct": false }
+      ],
+      "answer": "is"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Complete the sentence: Eight lakh rupees ________ a big amount. (was/were)",
+      "options": [
+        { "option_id": 1, "text": "was", "is_correct": true },
+        { "option_id": 2, "text": "were", "is_correct": false }
+      ],
+      "answer": "was"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Complete the sentence: The Committee ________ approved of it. (has/have)",
+      "options": [
+        { "option_id": 1, "text": "has", "is_correct": true },
+        { "option_id": 2, "text": "have", "is_correct": false }
+      ],
+      "answer": "has"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Complete the sentence: The cost of all the goods ________ risen. (has/have)",
+      "options": [
+        { "option_id": 1, "text": "has", "is_correct": true },
+        { "option_id": 2, "text": "have", "is_correct": false }
+      ],
+      "answer": "has"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Hawking's dream after leaving hospital made him realize ________.",
+      "options": [
+        { "option_id": 1, "text": "He was going to die soon", "is_correct": false },
+        { "option_id": 2, "text": "There were still things to do with his life", "is_correct": true },
+        { "option_id": 3, "text": "He wanted to travel", "is_correct": false },
+        { "option_id": 4, "text": "He should give up", "is_correct": false }
+      ],
+      "answer": "There were still things to do with his life"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Hawking was diagnosed with which disease?",
+      "options": [
+        { "option_id": 1, "text": "Leukemia", "is_correct": false },
+        { "option_id": 2, "text": "ALS", "is_correct": true },
+        { "option_id": 3, "text": "Polio", "is_correct": false },
+        { "option_id": 4, "text": "Cancer", "is_correct": false }
+      ],
+      "answer": "ALS"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Hawking's 2005 book was titled ________.",
+      "options": [
+        { "option_id": 1, "text": "A Brief History of Time", "is_correct": false },
+        { "option_id": 2, "text": "A Briefer History of Time", "is_correct": true },
+        { "option_id": 3, "text": "The Grand Design", "is_correct": false },
+        { "option_id": 4, "text": "My Life", "is_correct": false }
+      ],
+      "answer": "A Briefer History of Time"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who was Stephen Hawking?",
+      "answer": "Stephen Hawking was an English theoretical physicist, cosmologist, author, and Director of Research at the Centre of Theoretical Cosmology within Cambridge University."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What theory did Hawking set out?",
+      "answer": "He set out a theory of cosmology explained by a union of the general theory of relativity and quantum mechanics."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What was Hawking diagnosed with at age 21?",
+      "answer": "He was diagnosed with amyotrophic lateral sclerosis (ALS)."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What did the doctors predict when he was 21?",
+      "answer": "The doctors gave him two and a half years to live."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Where did Hawking first notice his health problems?",
+      "answer": "He first began to notice problems with his physical health while he was at Oxford."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What was the result of the tests at the medical clinic?",
+      "answer": "The tests showed he had an atypical case of ALS."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What event in the hospital made Hawking feel his situation was tolerable?",
+      "answer": "Sharing a room with a boy suffering from leukemia."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How did Hawking's disease affect his career?",
+      "answer": "With the realization that he might not live long, he poured himself into his work and research."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What happened to Hawking physically by 1969?",
+      "answer": "He was forced to use a wheelchair."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What was the condition of Hawking's speech by the mid-1970s?",
+      "answer": "His speech had become increasingly slurred, so only those who knew him well could understand him."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How did Hawking lose his voice completely?",
+      "answer": "He lost his voice in 1985 following a tracheotomy."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Who helped Hawking communicate after he lost his voice?",
+      "answer": "A California computer programmer developed a speaking program for him."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How did the speaking program work initially?",
+      "answer": "Hawking selected words on a computer screen with a handheld clicker."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How did Hawking direct the program later when he lost body control?",
+      "answer": "He directed it through a cheek muscle attached to a sensor."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What topics did Hawking's books cover?",
+      "answer": "His books covered cosmology, the Big Bang, black holes, and the nature of the universe."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is 'A Brief History of Time' about?",
+      "answer": "It is an overview of space and time, the existence of God, and the future."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why did Hawking write 'The Universe in a Nutshell'?",
+      "answer": "To offer a more illustrated and easier-to-understand guide to cosmology's big theories."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is science's 'Holy Grail' for Hawking?",
+      "answer": "A single unifying theory combining cosmology and quantum mechanics."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does Hawking believe about time travel?",
+      "answer": "He is convinced that time travel is possible."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What does Hawking believe about human colonization?",
+      "answer": "He believes humans may colonize other planets in the future."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What idea did Hawking speak against in 'The Grand Design'?",
+      "answer": "He spoke against the idea that God created the universe."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "According to Hawking, what caused the Big Bang?",
+      "answer": "The Big Bang was the inevitable consequence of the laws of physics."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What law allows the universe to create itself from nothing?",
+      "answer": "The law of gravity."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What happened to Hawking in 2009?",
+      "answer": "He failed to appear at a conference due to a chest infection and was hospitalized."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What position did Hawking retire from in 2009?",
+      "answer": "He retired from the post of Lucasian Professor of Mathematics at Cambridge."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is 'cosmology'?",
+      "answer": "The science of the origin and development of the universe."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is 'prognosis'?",
+      "answer": "A forecast of the likely outcome of a disease or situation."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What does 'noteworthy' mean?",
+      "answer": "Deserving attention; remarkable."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What does 'catapulted' mean in the text?",
+      "answer": "Launched or propelled suddenly to prominence."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is 'quantum mechanics'?",
+      "answer": "The study of the mechanics of subatomic particles (the small)."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is 'general relativity'?",
+      "answer": "It is Einstein's theory of gravitation."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is 'reduplication' in word building?",
+      "answer": "The root/stem of a word is repeated exactly or with a slight change (e.g., tweet-tweet)."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is 'blending' in word building?",
+      "answer": "Parts of two or more words combine to form a new one (e.g., smog from smoke + fog)."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is 'clipping' in word building?",
+      "answer": "Reducing a word to one of its syllables or a part of it (e.g., Maths from Mathematics)."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is an 'acronym'?",
+      "answer": "Words formed from the first letter of each of the words involved (e.g., NASA)."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Give an example of reduplication.",
+      "answer": "pitter-patter."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Give an example of blending.",
+      "answer": "brunch (breakfast + lunch)."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Give an example of clipping.",
+      "answer": "Lab (from Laboratory)."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Give an example of an acronym.",
+      "answer": "Unicef."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What disability did John Milton have?",
+      "answer": "He became blind at the age of 43."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What disability did Beethoven have?",
+      "answer": "He became deaf at the age of 28."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What disability did Helen Keller have?",
+      "answer": "She was blind and deaf."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What disability did Sudha Chandran have?",
+      "answer": "Her leg had to be amputated because of an accident."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What disability did Franklin Roosevelt have?",
+      "answer": "He had polio."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Underline the Noun and encircle the Determiner: 'He lost his voice for good.'",
+      "answer": "Noun: voice; Determiner: his."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Underline the Noun and encircle the Determiner: 'Over the years, Hawking has written 15 books.'",
+      "answer": "Noun: books; Determiner: 15."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Underline the Noun and encircle the Determiner: 'These three books articulate his search.'",
+      "answer": "Noun: books; Determiner: These three."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Underline the Noun and encircle the Determiner: 'A few events prevented him from despondency.'",
+      "answer": "Noun: events; Determiner: A few."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Underline the Noun and encircle the Determiner: 'That dream made him realize it.'",
+      "answer": "Noun: dream; Determiner: That."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What proverb is exemplified by Stephen Hawking's life?",
+      "answer": "'Every cloud has a silver lining'."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Summarize the early signs and diagnosis of Stephen Hawking's illness.",
+      "answer": "Stephen Hawking began noticing physical coordination problems while at Oxford, such as tripping and slurring his speech. At age 21, at Cambridge, his condition worsened. His father took him to a doctor, and he underwent two weeks of tests involving electrodes and fluid injections. Doctors diagnosed him with ALS (Lou Gehrig's disease), a condition where nerves controlling muscles shut down, and gave him two and a half years to live."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "How did Hawking's diagnosis affect his outlook on life?",
+      "answer": "Initially, the diagnosis was devastating. However, while in the hospital, he saw a boy with leukemia, which made his own situation seem tolerable. He also had a dream about being executed, which made him realize there were still things he wanted to do. This sudden realization of limited time motivated him to focus intensely on his research, transforming his life from boredom to productivity."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Describe the progression of Hawking's physical disability and how he coped with it.",
+      "answer": "Hawking's physical control diminished over time; he was in a wheelchair by 1969. By the mid-70s, he needed help for almost everything except feeding himself. His speech slurred, becoming intelligible only to close ones. In 1985, a tracheotomy took his voice away completely, requiring 24-hour care. He coped by using a computer program that allowed him to select words via a hand clicker, and later, a cheek muscle sensor, enabling him to write and speak."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "What is the significance of the book 'A Brief History of Time'?",
+      "answer": "Published in 1988, 'A Brief History of Time' catapulted Hawking to international fame. It was a short, informative book that made cosmology accessible to the masses. It covered topics like space, time, God, and the future. The book was a massive success, staying on the London Sunday Times best-seller list for over four years and selling millions of copies in over 40 languages."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Explain Hawking's views on the creation of the universe as expressed in 'The Grand Design'.",
+      "answer": "In 'The Grand Design' (2010), Hawking challenged the belief that God created the universe. He argued that the Big Bang was an inevitable consequence of the laws of physics, specifically gravity. He stated, 'Because there is a law such as gravity, the universe can and will create itself from nothing.' He termed this 'spontaneous creation' as the reason for existence, removing the necessity of a creator."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Discuss Stephen Hawking's contribution to science and literature.",
+      "answer": "Hawking made groundbreaking contributions to physics and cosmology, particularly in understanding black holes and the universe's origin. He sought a unifying theory of cosmology and quantum mechanics. As an author, he wrote 15 books, including 'A Brief History of Time', making complex science accessible to the public. His work bridged the gap between theoretical physics and the common reader."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "How does Stephen Hawking's life exemplify the proverb 'Every cloud has a silver lining'?",
+      "answer": "Hawking was diagnosed with a fatal disease at 21 (the cloud). However, this tragedy gave him a sense of purpose. Realizing his time was short, he focused intensely on his research, leading to groundbreaking discoveries and global fame (the silver lining). His physical limitations forced him to work purely with his mind, perhaps enhancing his theoretical capabilities. He achieved greatness despite, and partly because of, his adversity."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "What technological aid helped Hawking communicate, and how did it work?",
+      "answer": "A California computer programmer developed a speaking program for Hawking. Initially, Hawking used a handheld clicker to select words on a screen, which were then passed through a speech synthesizer. As he lost hand control, the system was adapted to use a sensor attached to his cheek muscle. By moving his cheek, he could select words and sentences, allowing him to write books and speak."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "List the books written by Stephen Hawking mentioned in the text and their significance.",
+      "answer": "1. 'A Brief History of Time' (1988): Made cosmology accessible to masses. 2. 'The Universe in a Nutshell' (2001): An illustrated guide to big theories. 3. 'A Briefer History of Time' (2005): Simplified core concepts further. 4. 'The Grand Design' (2010): Challenged the idea of divine creation. These books reflect his mission to explain the universe to everyone."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Describe the incident involving Hawking's health in 2009.",
+      "answer": "In 2009, concerns about Hawking's health heightened when he missed a conference in Arizona due to a chest infection. Later in April, he was rushed to the hospital in Cambridge, described as 'gravely ill'. This happened around the time he retired from his 30-year post as Lucasian Professor. Fortunately, he made a full recovery."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "What are Hawking's beliefs about the future of humanity?",
+      "answer": "Hawking, claiming to think in 11 dimensions, laid out big possibilities for humankind. He was convinced that time travel is possible. He also believed that humans must and will colonize other planets in the future to ensure the survival of the species. His vision extended beyond Earth and the present time."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Why is Stephen Hawking considered a role model?",
+      "answer": "Hawking is a role model because of his extraordinary resilience and intellect. Despite being paralyzed and given a short life expectancy at 21, he lived for decades, made monumental scientific contributions, and wrote best-sellers. He didn't let his disability stop him; instead, he adapted and excelled. His life teaches perseverance, optimism, and the power of the human mind."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Spontaneous Creation' as mentioned by Hawking.",
+      "answer": "Hawking used 'Spontaneous Creation' to explain the origin of the universe without a God. He argued that because laws like gravity exist, the universe has the potential to create itself from nothing. This process is inevitable and explains why there is something rather than nothing, and why we exist. It relies on physics rather than metaphysics."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "What were the major achievements of Stephen Hawking mentioned in the text?",
+      "answer": "Major achievements include: 1. Groundbreaking work in physics and cosmology. 2. Theory of cosmology uniting relativity and quantum mechanics. 3. Authoring best-selling books like 'A Brief History of Time'. 4. Receiving the Presidential Medal of Freedom. 5. Serving as Lucasian Professor at Cambridge for 30 years. 6. Inspiring the world with his battle against ALS."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "How did Hawking challenge Sir Isaac Newton's beliefs?",
+      "answer": "Sir Isaac Newton believed that the universe must have been designed by God because it could not have arisen from chaos. Hawking challenged this in 'The Grand Design'. He argued that modern physics can explain the origin of the universe. He stated that it is not necessary to invoke God to set the universe going; natural laws like gravity are sufficient."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Write a character sketch of Stephen Hawking based on the text.",
+      "answer": "Stephen Hawking was a brilliant, determined, and optimistic individual. He possessed a superior intellect capable of thinking in 11 dimensions. Despite a debilitating disease, he showed immense courage and perseverance. He was a prolific writer and communicator, eager to share knowledge. He was also bold, unafraid to challenge established beliefs about God and the universe."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "What is the 'Holy Grail' of science according to the text?",
+      "answer": "The 'Holy Grail' of science refers to a single unifying theory that can combine two major fields of physics: cosmology (the study of the big, like stars and galaxies) and quantum mechanics (the study of the small, like subatomic particles). Hawking's work aimed to find this theory to explain the origin of the universe completely."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "Describe the timeline of Stephen Hawking's life events.",
+      "answer": "1942: Born. 1963: Diagnosed with ALS at Cambridge. 1969: Forced to use a wheelchair. 1985: Lost voice after tracheotomy. 1988: Published 'A Brief History of Time'. 2001: Published 'The Universe in a Nutshell'. 2005: Published 'A Briefer History of Time'. 2009: Retired as Lucasian Professor. 2010: Published 'The Grand Design'. 2014: Film 'The Theory of Everything' released. 2018: Died."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "How did Hawking continue to work despite his severe disability?",
+      "answer": "Hawking adapted to his deteriorating condition. When he couldn't write, he dictated. When he lost his voice, he used a computer synthesizer operated by a cheek sensor. He relied on a team of assistants and graduate students for care and work management. His determination and use of technology allowed him to continue writing papers and books at a prolific rate."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "What are the different word building devices mentioned in the warming up section?",
+      "answer": "1. Reduplication: Repeating a root word (e.g., chit-chat). 2. Blending: Combining parts of two words (e.g., smog). 3. Clipping: Reducing a word to a part (e.g., lab). 4. Acronym: Forming a word from initial letters (e.g., NASA). These devices show how new words are formed in English."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Reduplication' with examples.",
+      "answer": "Reduplication is a word-formation process where the root or stem of a word is repeated exactly or with a slight change. It is often used for emphasis or to create specific sound effects. Examples include 'tweet-tweet' (exact repetition), 'pitter-patter' (slight vowel change), 'chit-chat', 'bang-bang', and 'riff-raff'."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Blending' with examples.",
+      "answer": "Blending is the process of forming a new word by combining parts of two or more words. The meanings of the original words are blended in the new word. Examples: 'Brunch' comes from Breakfast + Lunch. 'Smog' comes from Smoke + Fog. 'Motel' comes from Motor + Hotel."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Clipping' with examples.",
+      "answer": "Clipping involves reducing a longer word to one of its syllables or a shorter part, while retaining the original meaning. It makes words easier to say and write. Examples: 'Maths' from Mathematics, 'Ad' from Advertisement, 'Lab' from Laboratory, 'Phone' from Telephone."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Acronym' with examples.",
+      "answer": "An acronym is a word formed from the first letter of each word in a series or phrase. Acronyms are pronounced as words or letter by letter. Examples: 'RADAR' (Radio Detection And Ranging), 'NASA' (National Aeronautics and Space Administration), 'UNICEF', 'BBC'. They simplify long names."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "Match the personalities with their disabilities: Milton, Beethoven, Disney, Einstein.",
+      "answer": "John Milton: Blind at 43. Beethoven: Deaf at 28. Walt Disney: Learning disability (implied, though text says paralyzed for someone else, the matching pair for Disney is likely learning disability based on options). Albert Einstein: Learning disability and deaf (as per text option)."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "Match the personalities with their disabilities: Edison, Helen Keller, Sudha Chandran, Roosevelt.",
+      "answer": "Thomas Edison: Learning disability and deaf (as per text). Helen Keller: Blind and deaf. Sudha Chandran: Leg amputated. Franklin Roosevelt: Polio. (Note: Text has mixed options, matching based on common knowledge and text clues)."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "What message does the life of Stephen Hawking convey to the disabled?",
+      "answer": "Hawking's life conveys that physical disability does not have to limit intellectual achievement or a fulfilling life. It shows that with determination, adaptation, and technology, one can overcome immense physical barriers. He proved that the mind can soar even if the body is trapped, inspiring disabled people to pursue their dreams."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "Discuss the writing style of Stephen Hawking.",
+      "answer": "Hawking's writing style is noted for being accessible to the non-scientific community. He simplified complex concepts like the Big Bang and black holes. He used illustrations and clear explanations. His goal was to 'make science accessible to everyone', moving away from purely academic jargon to engage a broader audience."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "Why did Hawking write 'A Briefer History of Time'?",
+      "answer": "Although 'A Brief History of Time' was a best-seller, some readers found it difficult to understand. Hawking wrote 'A Briefer History of Time' in 2005 to be 'even more accessible'. He simplified the core concepts of the original work further and included new developments like String theory to ensure wider comprehension."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "What is the importance of 'The Theory of Everything' film?",
+      "answer": "Released in 2014, the film 'The Theory of Everything' brought Stephen Hawking's life story to a global audience. It depicted his early life, romance, diagnosis, and struggle with ALS. It humanized the scientist, showing his personal challenges alongside his professional triumphs, thereby increasing public interest in his life and work."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "How did Hawking's family support him?",
+      "answer": "The text mentions that by the mid-1970s, the Hawking family took in one of his graduate students to help manage his care and work. This support system was crucial as his physical state worsened. It allowed him to continue his research while his daily needs were met, showing the importance of family and caregivers."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "Analyze the impact of Hawking's work on the public perception of science.",
+      "answer": "Hawking played a major role in popularizing science. His books became best-sellers, introducing millions to cosmology. He became a cultural icon, appearing in media. By addressing big questions about the universe and God, he sparked public curiosity and debate. He made physics 'cool' and accessible, reducing the gap between scientists and the public."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "What does the text say about Hawking's prolific writing rate?",
+      "answer": "Despite losing virtually all body control, Hawking continued to write at a 'prolific rate'. This was made possible by the computer program that allowed him to select words with a cheek muscle. This prolific output demonstrates his unyielding intellect and the effectiveness of assistive technology in enabling expression for the disabled."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "Explain the phrase 'pour himself into his work'.",
+      "answer": "The phrase means to dedicate oneself completely and intensely to a task. After his diagnosis, Hawking 'poured himself into his work'. Facing a short life expectancy, he channeled all his energy and focus into physics. This intense dedication distracted him from his condition and led to his major discoveries."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "What is the 'Lucasian Professor of Mathematics'?",
+      "answer": "It is a prestigious academic post at the University of Cambridge. Stephen Hawking held this post for 30 years. It was famously held by Sir Isaac Newton in the past. Holding this title signifies being one of the world's leading mathematicians and physicists, marking the pinnacle of an academic career."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "Identify the tense: 'Hawking had a dream that he was going to be executed'.",
+      "answer": "The main verb phrase is 'had a dream'. 'Had' is the past tense of 'have'. The clause 'was going to be executed' uses the past continuous form 'was going' and passive infinitive 'to be executed'. The sentence generally narrates a past event using Past Simple tense."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "Identify the tense: 'Hawking has written 15 books'.",
+      "answer": "The verb phrase is 'has written'. 'Has' is the present auxiliary, and 'written' is the past participle. This construction forms the Present Perfect Tense. It indicates an action that happened in the past but has relevance to the present (his legacy of books)."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "Identify the tense: 'He was diagnosed with ALS'.",
+      "answer": "The verb phrase is 'was diagnosed'. 'Was' is the past tense of 'be', and 'diagnosed' is the past participle. This is the Simple Past Tense in the passive voice. It describes a completed action in the past."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "Fill in the blank: 'The cost of all the goods ________ risen.' (has/have). Explain why.",
+      "answer": "The correct word is 'has'. The sentence is 'The cost of all the goods has risen.' The subject is 'cost' (singular), not 'goods'. Therefore, the singular verb 'has' is used to agree with the singular subject 'cost'."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "Fill in the blank: 'Neither Ritesh nor Alok ________ well.' (play/plays). Explain why.",
+      "answer": "The correct word is 'plays'. The sentence is 'Neither Ritesh nor Alok plays well.' When using 'neither...nor', the verb agrees with the subject closest to it. Here, 'Alok' is singular, so the singular verb 'plays' is used."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "What are Determiners? Find examples in the text.",
+      "answer": "Determiners are words placed in front of a noun to specify quantity or clarify what the noun refers to. Examples from the text include: 'the' (The Grand Design), 'his' (his work), 'a' (a dream), 'these' (these symptoms), '15' (15 books). They include articles, possessives, demonstratives, and quantifiers."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "Prepare a summary of Stephen Hawking's achievements using the web chart approach.",
+      "answer": "Stephen Hawking's achievements: 1. Author of best-sellers like 'A Brief History of Time'. 2. Groundbreaking theories on black holes and the Big Bang. 3. Unifying General Relativity and Quantum Mechanics. 4. Lucasian Professor at Cambridge for 30 years. 5. Recipient of Presidential Medal of Freedom. 6. Inspiring figure for overcoming ALS."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "Write a review of the film 'The Theory of Everything' based on the points given.",
+      "answer": "Title: The Theory of Everything. Characters: Stephen Hawking (Eddie Redmayne), Jane Wilde (Felicity Jones). Story: Follows Hawking's life, romance, diagnosis, and success. Dialogues: Emotional and intellectual. Picturisation: Beautifully captures Cambridge and emotional depth. Music: Moving score. Special features: Realistic portrayal of disability. Opinion: Inspiring and touching. Message: Hope and determination overcome adversity."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "Arrange the incidents in order: a) 'Universe in a Nutshell' published. b) 'Brief History of Time' published. c) Missed Arizona conference. d) Diagnosed with ALS. e) Published 'A Briefer History of Time'.",
+      "answer": "Correct Order: 1. (d) Diagnosed with ALS (1963). 2. (b) 'Brief History of Time' published (1988). 3. (a) 'Universe in a Nutshell' published (2001). 4. (e) Published 'A Briefer History of Time' (2005). 5. (c) Missed Arizona conference (2009)."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "What is the difference between 'biography' and 'autobiography'? Is the text a biography?",
+      "answer": "A biography is a life story written by someone else. An autobiography is a life story written by the person themselves. This text is a biography (or biographical article) because it is written by a third party about Stephen Hawking, using 'he' to refer to him."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "Why is 'The Grand Design' considered controversial?",
+      "answer": "'The Grand Design' is controversial because it explicitly rejects the need for a divine creator. By stating 'God is not necessary', it clashed with religious views. It placed scientific laws like gravity as the ultimate creator, challenging the synthesis of science and religion that many hold."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "How did Hawking's communication method evolve?",
+      "answer": "Initially, he spoke naturally but with a slur. After his tracheotomy, he couldn't speak. He used a clicker to select words on a screen. As his hand function failed, he moved to a cheek sensor. This evolution shows his adaptability and the crucial role of technology in maintaining his voice."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "What does the text imply about the relationship between disability and intellect?",
+      "answer": "The text implies there is no negative correlation. In fact, Hawking's disability might have sharpened his intellect by forcing him to visualize complex problems mentally. It suggests that a disabled body can house a limitless mind, and physical constraints do not define a person's capability."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "Explain the phrase 'mind over matter' in context of Hawking.",
+      "answer": "'Mind over matter' means the use of willpower to overcome physical problems. Hawking exemplifies this. His 'matter' (body) was failing, but his 'mind' remained sharp and productive. He used his mental strength to transcend his physical limitations, achieving more than most able-bodied people."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "What legacy does Stephen Hawking leave behind?",
+      "answer": "He leaves a legacy of scientific discovery, popularizing science, and inspiring the disabled. He changed how we understand the universe. He showed the power of human spirit. His books continue to educate. He is a symbol of endurance and brilliance, remembered as one of the greatest scientists of his time."
+    }
+  ]
+}

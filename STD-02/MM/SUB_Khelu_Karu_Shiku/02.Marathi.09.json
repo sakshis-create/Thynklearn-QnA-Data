@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.KKS.09",
+    "standard": "2",
+    "subject": "Khelu_Karu_Shiku",
+    "medium": "Marathi",
+    "chapter_name": "ऐच्छिक उपक्रम"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "ऐच्छिक उपक्रम म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "बंधनकारक उपक्रम", "is_correct": false },
+        { "option_id": 2, "text": "मनाप्रमाणे निवडून करायचे उपक्रम", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षकच ठरवलेले उपक्रम", "is_correct": false },
+        { "option_id": 4, "text": "घरीच करायचे उपक्रम", "is_correct": false }
+      ],
+      "answer": "मनाप्रमाणे निवडून करायचे उपक्रम"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "योगासन हा कोणत्या प्रकारचा उपक्रम आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळ", "is_correct": false },
+        { "option_id": 2, "text": "आरोग्यवर्धक उपक्रम", "is_correct": true },
+        { "option_id": 3, "text": "चित्रकला", "is_correct": false },
+        { "option_id": 4, "text": "संगीत", "is_correct": false }
+      ],
+      "answer": "आरोग्यवर्धक उपक्रम"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वाचन उपक्रमातून कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "राग", "is_correct": false },
+        { "option_id": 2, "text": "ज्ञान आणि एकाग्रता", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "भांडखोरपणा", "is_correct": false }
+      ],
+      "answer": "ज्ञान आणि एकाग्रता"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "चित्रकला करताना काय जपावे?",
+      "options": [
+        { "option_id": 1, "text": "घाई", "is_correct": false },
+        { "option_id": 2, "text": "स्वच्छता आणि रंगसंगती", "is_correct": true },
+        { "option_id": 3, "text": "कागद फाडणे", "is_correct": false },
+        { "option_id": 4, "text": "रंग वाया घालवणे", "is_correct": false }
+      ],
+      "answer": "स्वच्छता आणि रंगसंगती"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "खेळ उपक्रमातून काय विकसित होते?",
+      "options": [
+        { "option_id": 1, "text": "आळस", "is_correct": false },
+        { "option_id": 2, "text": "शारीरिक तंदुरुस्ती", "is_correct": true },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "शारीरिक तंदुरुस्ती"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "संगीत या उपक्रमातून काय वाढते?",
+      "options": [
+        { "option_id": 1, "text": "राग", "is_correct": false },
+        { "option_id": 2, "text": "लय आणि ताल", "is_correct": true },
+        { "option_id": 3, "text": "आळशीपणा", "is_correct": false },
+        { "option_id": 4, "text": "मत्सर", "is_correct": false }
+      ],
+      "answer": "लय आणि ताल"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "बागकाम उपक्रमातून कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "निसर्गप्रेम", "is_correct": true },
+        { "option_id": 2, "text": "गोंधळ", "is_correct": false },
+        { "option_id": 3, "text": "निष्काळजीपणा", "is_correct": false },
+        { "option_id": 4, "text": "आळस", "is_correct": false }
+      ],
+      "answer": "निसर्गप्रेम"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वाचनालयात कसे वागावे?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्याने बोलावे", "is_correct": false },
+        { "option_id": 2, "text": "शांतपणे बसावे", "is_correct": true },
+        { "option_id": 3, "text": "आरडाओरडा करावा", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तके फाडावीत", "is_correct": false }
+      ],
+      "answer": "शांतपणे बसावे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "योगासन करताना काय जपावे?",
+      "options": [
+        { "option_id": 1, "text": "घाई", "is_correct": false },
+        { "option_id": 2, "text": "समतोल आणि श्वास", "is_correct": true },
+        { "option_id": 3, "text": "आरडाओरडा", "is_correct": false },
+        { "option_id": 4, "text": "धावपळ", "is_correct": false }
+      ],
+      "answer": "समतोल आणि श्वास"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ऐच्छिक उपक्रमांमध्ये मुलांनी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "इतरांची नक्कल करावी", "is_correct": false },
+        { "option_id": 2, "text": "आपल्या आवडीनुसार उपक्रम निवडावा", "is_correct": true },
+        { "option_id": 3, "text": "उपक्रम टाळावेत", "is_correct": false },
+        { "option_id": 4, "text": "फक्त खेळावे", "is_correct": false }
+      ],
+      "answer": "आपल्या आवडीनुसार उपक्रम निवडावा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "चित्रकला उपक्रमातून कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "सर्जनशीलता", "is_correct": true },
+        { "option_id": 2, "text": "राग", "is_correct": false },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "सर्जनशीलता"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खेळताना कोणती गोष्ट पाळावी?",
+      "options": [
+        { "option_id": 1, "text": "भांडण", "is_correct": false },
+        { "option_id": 2, "text": "शिस्त आणि नियम", "is_correct": true },
+        { "option_id": 3, "text": "ढकलाढकली", "is_correct": false },
+        { "option_id": 4, "text": "गोंधळ", "is_correct": false }
+      ],
+      "answer": "शिस्त आणि नियम"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "बागकाम करताना काय जपावे?",
+      "options": [
+        { "option_id": 1, "text": "रोपे उपटावी", "is_correct": false },
+        { "option_id": 2, "text": "रोपांना पाणी द्यावे", "is_correct": true },
+        { "option_id": 3, "text": "माती फेकून द्यावी", "is_correct": false },
+        { "option_id": 4, "text": "झाडे तोडावीत", "is_correct": false }
+      ],
+      "answer": "रोपांना पाणी द्यावे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ऐच्छिक उपक्रमांमुळे कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "निष्क्रियता", "is_correct": false },
+        { "option_id": 2, "text": "आत्मविश्वास", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "गैरवर्तन", "is_correct": false }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ऐच्छिक उपक्रमांचा मुख्य फायदा कोणता?",
+      "options": [
+        { "option_id": 1, "text": "मैत्री कमी होते", "is_correct": false },
+        { "option_id": 2, "text": "वैयक्तिक विकास होतो", "is_correct": true },
+        { "option_id": 3, "text": "अभ्यास नष्ट होतो", "is_correct": false },
+        { "option_id": 4, "text": "गोंधळ वाढतो", "is_correct": false }
+      ],
+      "answer": "वैयक्तिक विकास होतो"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "ऐच्छिक उपक्रम का महत्त्वाचे आहेत?",
+      "answer": "कारण त्यातून विद्यार्थ्यांना आपली आवड निवडण्याची संधी मिळते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "योगासनाचा एक फायदा लिहा.",
+      "answer": "योगासनामुळे शरीर तंदुरुस्त आणि मन शांत राहते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वाचन का आवश्यक आहे?",
+      "answer": "कारण वाचनातून ज्ञान वाढते आणि एकाग्रता सुधारते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "चित्रकला करताना कोणती काळजी घ्यावी?",
+      "answer": "स्वच्छता राखावी आणि रंग व्यवस्थित वापरावा."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "खेळण्याचा एक फायदा लिहा.",
+      "answer": "खेळल्याने शरीर मजबूत व निरोगी राहते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "बागकामातून काय शिकतो?",
+      "answer": "वनस्पतींची काळजी घेणे आणि निसर्गप्रेम."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "संगीत का उपयुक्त आहे?",
+      "answer": "कारण संगीत मन प्रसन्न ठेवते आणि तालबुद्धी वाढवते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "योगासन करताना कोणती जागा निवडावी?",
+      "answer": "शांत, स्वच्छ आणि मोकळी जागा."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "वाचनालयातील एक नियम लिहा.",
+      "answer": "शांतपणे बसावे आणि पुस्तके जपून ठेवावीत."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ऐच्छिक उपक्रमांमुळे आत्मविश्वास का वाढतो?",
+      "answer": "कारण विद्यार्थी स्वतःचे कौशल्य विकसित करतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "खेळताना कोणता नियम पाळावा?",
+      "answer": "शिस्त आणि क्रीडाभाव पाळावा."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "तुला कोणता ऐच्छिक उपक्रम आवडतो? का?",
+      "answer": "मला वाचन आवडते कारण त्यातून ज्ञान वाढते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ऐच्छिक उपक्रमांमधून मैत्री कशी वाढते?",
+      "answer": "गटाने काम करताना सहकार्य आणि संवाद वाढतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "सर्जनशीलता म्हणजे काय?",
+      "answer": "नवीन कल्पना आणि निर्मिती करण्याची क्षमता."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्याचा मुख्य संदेश लिहा.",
+      "answer": "ऐच्छिक उपक्रमांमुळे व्यक्तिमत्त्व आणि कौशल्यांचा विकास होतो."
+    }
+  ]
+}

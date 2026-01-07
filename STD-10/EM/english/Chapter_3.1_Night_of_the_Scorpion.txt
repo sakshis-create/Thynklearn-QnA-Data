@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.3.1",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Night of the Scorpion"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'Night of the Scorpion'?",
+      "options": [
+        { "option_id": 1, "text": "Ruskin Bond", "is_correct": false },
+        { "option_id": 2, "text": "Nissim Ezekiel", "is_correct": true },
+        { "option_id": 3, "text": "Rabindranath Tagore", "is_correct": false },
+        { "option_id": 4, "text": "Sarojini Naidu", "is_correct": false }
+      ],
+      "answer": "Nissim Ezekiel"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The poet Nissim Ezekiel was an Indian ________ poet.",
+      "options": [
+        { "option_id": 1, "text": "Christian", "is_correct": false },
+        { "option_id": 2, "text": "Hindu", "is_correct": false },
+        { "option_id": 3, "text": "Jewish", "is_correct": true },
+        { "option_id": 4, "text": "Muslim", "is_correct": false }
+      ],
+      "answer": "Jewish"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where did the scorpion hide?",
+      "options": [
+        { "option_id": 1, "text": "Under the bed", "is_correct": false },
+        { "option_id": 2, "text": "Behind the door", "is_correct": false },
+        { "option_id": 3, "text": "Beneath a sack of rice", "is_correct": true },
+        { "option_id": 4, "text": "In a shoe", "is_correct": false }
+      ],
+      "answer": "Beneath a sack of rice"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What drove the scorpion to crawl beneath the sack?",
+      "options": [
+        { "option_id": 1, "text": "Fear of people", "is_correct": false },
+        { "option_id": 2, "text": "Ten hours of steady rain", "is_correct": true },
+        { "option_id": 3, "text": "Hunger", "is_correct": false },
+        { "option_id": 4, "text": "Darkness", "is_correct": false }
+      ],
+      "answer": "Ten hours of steady rain"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the poet compare the peasants to?",
+      "options": [
+        { "option_id": 1, "text": "Swarms of bees", "is_correct": false },
+        { "option_id": 2, "text": "Swarms of flies", "is_correct": true },
+        { "option_id": 3, "text": "A herd of cattle", "is_correct": false },
+        { "option_id": 4, "text": "A flock of birds", "is_correct": false }
+      ],
+      "answer": "Swarms of flies"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How many times did the peasants buzz the name of God?",
+      "options": [
+        { "option_id": 1, "text": "Ten times", "is_correct": false },
+        { "option_id": 2, "text": "Fifty times", "is_correct": false },
+        { "option_id": 3, "text": "A hundred times", "is_correct": true },
+        { "option_id": 4, "text": "A thousand times", "is_correct": false }
+      ],
+      "answer": "A hundred times"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why did the peasants buzz the name of God?",
+      "options": [
+        { "option_id": 1, "text": "To pray for rain", "is_correct": false },
+        { "option_id": 2, "text": "To paralyse the Evil One", "is_correct": true },
+        { "option_id": 3, "text": "To summon the doctor", "is_correct": false },
+        { "option_id": 4, "text": "To scare the scorpion", "is_correct": false }
+      ],
+      "answer": "To paralyse the Evil One"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What did the peasants use to search for the scorpion?",
+      "options": [
+        { "option_id": 1, "text": "Flashlights", "is_correct": false },
+        { "option_id": 2, "text": "Candles and lanterns", "is_correct": true },
+        { "option_id": 3, "text": "Torches", "is_correct": false },
+        { "option_id": 4, "text": "Mobile phones", "is_correct": false }
+      ],
+      "answer": "Candles and lanterns"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What shadows were thrown on the mud-baked walls?",
+      "options": [
+        { "option_id": 1, "text": "Ghost shadows", "is_correct": false },
+        { "option_id": 2, "text": "Tree shadows", "is_correct": false },
+        { "option_id": 3, "text": "Giant scorpion shadows", "is_correct": true },
+        { "option_id": 4, "text": "Bird shadows", "is_correct": false }
+      ],
+      "answer": "Giant scorpion shadows"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What sound did the peasants make while searching?",
+      "options": [
+        { "option_id": 1, "text": "Clapping hands", "is_correct": false },
+        { "option_id": 2, "text": "Clicking tongues", "is_correct": true },
+        { "option_id": 3, "text": "Whistling", "is_correct": false },
+        { "option_id": 4, "text": "Stamping feet", "is_correct": false }
+      ],
+      "answer": "Clicking tongues"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "According to the peasants, what happens with every movement the scorpion makes?",
+      "options": [
+        { "option_id": 1, "text": "It rains harder", "is_correct": false },
+        { "option_id": 2, "text": "The poison moves in the mother's blood", "is_correct": true },
+        { "option_id": 3, "text": "The scorpion gets faster", "is_correct": false },
+        { "option_id": 4, "text": "The pain decreases", "is_correct": false }
+      ],
+      "answer": "The poison moves in the mother's blood"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What did the peasants hope the scorpion would do?",
+      "options": [
+        { "option_id": 1, "text": "Run away", "is_correct": false },
+        { "option_id": 2, "text": "Die", "is_correct": false },
+        { "option_id": 3, "text": "Sit still", "is_correct": true },
+        { "option_id": 4, "text": "Sting someone else", "is_correct": false }
+      ],
+      "answer": "Sit still"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The peasants believed the mother's suffering would burn away the ________ of her previous birth.",
+      "options": [
+        { "option_id": 1, "text": "Memories", "is_correct": false },
+        { "option_id": 2, "text": "Sins", "is_correct": true },
+        { "option_id": 3, "text": "Pain", "is_correct": false },
+        { "option_id": 4, "text": "Joys", "is_correct": false }
+      ],
+      "answer": "Sins"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The peasants said the suffering would decrease the ________ of the mother's next birth.",
+      "options": [
+        { "option_id": 1, "text": "Misfortunes", "is_correct": true },
+        { "option_id": 2, "text": "Happiness", "is_correct": false },
+        { "option_id": 3, "text": "Length", "is_correct": false },
+        { "option_id": 4, "text": "Wealth", "is_correct": false }
+      ],
+      "answer": "Misfortunes"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The peasants believed the poison would purify the mother's flesh of ________.",
+      "options": [
+        { "option_id": 1, "text": "Pain", "is_correct": false },
+        { "option_id": 2, "text": "Disease", "is_correct": false },
+        { "option_id": 3, "text": "Desire", "is_correct": true },
+        { "option_id": 4, "text": "Weakness", "is_correct": false }
+      ],
+      "answer": "Desire"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "How does the poet describe his father?",
+      "options": [
+        { "option_id": 1, "text": "Religious and superstitious", "is_correct": false },
+        { "option_id": 2, "text": "Sceptic and rationalist", "is_correct": true },
+        { "option_id": 3, "text": "Fearful and anxious", "is_correct": false },
+        { "option_id": 4, "text": "Angry and violent", "is_correct": false }
+      ],
+      "answer": "Sceptic and rationalist"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What did the father try to cure the bite?",
+      "options": [
+        { "option_id": 1, "text": "Only prayers", "is_correct": false },
+        { "option_id": 2, "text": "Only water", "is_correct": false },
+        { "option_id": 3, "text": "Powder, mixture, herb and hybrid", "is_correct": true },
+        { "option_id": 4, "text": "Ice", "is_correct": false }
+      ],
+      "answer": "Powder, mixture, herb and hybrid"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What did the father pour on the bitten toe?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Milk", "is_correct": false },
+        { "option_id": 3, "text": "Paraffin", "is_correct": true },
+        { "option_id": 4, "text": "Oil", "is_correct": false }
+      ],
+      "answer": "Paraffin"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What did the father do after pouring paraffin on the toe?",
+      "options": [
+        { "option_id": 1, "text": "Bandaged it", "is_correct": false },
+        { "option_id": 2, "text": "Washed it", "is_correct": false },
+        { "option_id": 3, "text": "Put a match to it", "is_correct": true },
+        { "option_id": 4, "text": "Cut it off", "is_correct": false }
+      ],
+      "answer": "Put a match to it"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who performed rites to tame the poison with an incantation?",
+      "options": [
+        { "option_id": 1, "text": "The father", "is_correct": false },
+        { "option_id": 2, "text": "The mother", "is_correct": false },
+        { "option_id": 3, "text": "A holy man", "is_correct": true },
+        { "option_id": 4, "text": "A doctor", "is_correct": false }
+      ],
+      "answer": "A holy man"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "How long did the mother's pain last?",
+      "options": [
+        { "option_id": 1, "text": "Ten hours", "is_correct": false },
+        { "option_id": 2, "text": "Twelve hours", "is_correct": false },
+        { "option_id": 3, "text": "Twenty hours", "is_correct": true },
+        { "option_id": 4, "text": "Twenty-four hours", "is_correct": false }
+      ],
+      "answer": "Twenty hours"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What did the mother say after the pain subsided?",
+      "options": [
+        { "option_id": 1, "text": "She cursed the scorpion", "is_correct": false },
+        { "option_id": 2, "text": "She thanked the peasants", "is_correct": false },
+        { "option_id": 3, "text": "She complained about the pain", "is_correct": false },
+        { "option_id": 4, "text": "She thanked God", "is_correct": true }
+      ],
+      "answer": "She thanked God"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Why did the mother thank God?",
+      "options": [
+        { "option_id": 1, "text": "For saving her life", "is_correct": false },
+        { "option_id": 2, "text": "For the rain stopping", "is_correct": false },
+        { "option_id": 3, "text": "The scorpion picked on her and spared her children", "is_correct": true },
+        { "option_id": 4, "text": "The holy man helped her", "is_correct": false }
+      ],
+      "answer": "The scorpion picked on her and spared her children"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What does 'diabolic' mean?",
+      "options": [
+        { "option_id": 1, "text": "Angelic", "is_correct": false },
+        { "option_id": 2, "text": "Devilishly wicked", "is_correct": true },
+        { "option_id": 3, "text": "Bright", "is_correct": false },
+        { "option_id": 4, "text": "Divine", "is_correct": false }
+      ],
+      "answer": "Devilishly wicked"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is an 'incantation'?",
+      "options": [
+        { "option_id": 1, "text": "A medical herb", "is_correct": false },
+        { "option_id": 2, "text": "A type of dance", "is_correct": false },
+        { "option_id": 3, "text": "The chanting of magical words", "is_correct": true },
+        { "option_id": 4, "text": "A loud scream", "is_correct": false }
+      ],
+      "answer": "The chanting of magical words"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The phrase 'parting with his poison' refers to ________.",
+      "options": [
+        { "option_id": 1, "text": "The scorpion dying", "is_correct": false },
+        { "option_id": 2, "text": "The scorpion stinging the mother", "is_correct": true },
+        { "option_id": 3, "text": "The scorpion running away", "is_correct": false },
+        { "option_id": 4, "text": "The scorpion hiding", "is_correct": false }
+      ],
+      "answer": "The scorpion stinging the mother"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What literary device is used in 'The peasants came like swarms of flies'?",
+      "options": [
+        { "option_id": 1, "text": "Metaphor", "is_correct": false },
+        { "option_id": 2, "text": "Simile", "is_correct": true },
+        { "option_id": 3, "text": "Personification", "is_correct": false },
+        { "option_id": 4, "text": "Alliteration", "is_correct": false }
+      ],
+      "answer": "Simile"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What literary device is used in 'giant scorpion shadows'?",
+      "options": [
+        { "option_id": 1, "text": "Simile", "is_correct": false },
+        { "option_id": 2, "text": "Metaphor", "is_correct": true },
+        { "option_id": 3, "text": "Hyperbole", "is_correct": false },
+        { "option_id": 4, "text": "Irony", "is_correct": false }
+      ],
+      "answer": "Metaphor"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The mother twisted through and through groaning on a ________.",
+      "options": [
+        { "option_id": 1, "text": "Bed", "is_correct": false },
+        { "option_id": 2, "text": "Mat", "is_correct": true },
+        { "option_id": 3, "text": "Chair", "is_correct": false },
+        { "option_id": 4, "text": "Floor", "is_correct": false }
+      ],
+      "answer": "Mat"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What emotion did the peasants show?",
+      "options": [
+        { "option_id": 1, "text": "Anger", "is_correct": false },
+        { "option_id": 2, "text": "Indifference", "is_correct": false },
+        { "option_id": 3, "text": "Sympathy and superstition", "is_correct": true },
+        { "option_id": 4, "text": "Joy", "is_correct": false }
+      ],
+      "answer": "Sympathy and superstition"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What does 'sceptic' mean?",
+      "options": [
+        { "option_id": 1, "text": "A believer", "is_correct": false },
+        { "option_id": 2, "text": "One who doubts", "is_correct": true },
+        { "option_id": 3, "text": "A doctor", "is_correct": false },
+        { "option_id": 4, "text": "A priest", "is_correct": false }
+      ],
+      "answer": "One who doubts"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What does 'rationalist' mean?",
+      "options": [
+        { "option_id": 1, "text": "A person who believes in reason and knowledge", "is_correct": true },
+        { "option_id": 2, "text": "A religious person", "is_correct": false },
+        { "option_id": 3, "text": "A person who believes in magic", "is_correct": false },
+        { "option_id": 4, "text": "A superstitious person", "is_correct": false }
+      ],
+      "answer": "A person who believes in reason and knowledge"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "The poem highlights the selfless love of a ________.",
+      "options": [
+        { "option_id": 1, "text": "Father", "is_correct": false },
+        { "option_id": 2, "text": "Mother", "is_correct": true },
+        { "option_id": 3, "text": "Holy man", "is_correct": false },
+        { "option_id": 4, "text": "Poet", "is_correct": false }
+      ],
+      "answer": "Mother"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What kind of room was the mother in?",
+      "options": [
+        { "option_id": 1, "text": "Brightly lit", "is_correct": false },
+        { "option_id": 2, "text": "Dark room", "is_correct": true },
+        { "option_id": 3, "text": "Air-conditioned", "is_correct": false },
+        { "option_id": 4, "text": "Empty", "is_correct": false }
+      ],
+      "answer": "Dark room"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What does 'flash of diabolic tail' describe?",
+      "options": [
+        { "option_id": 1, "text": "The lightning", "is_correct": false },
+        { "option_id": 2, "text": "The scorpion's sting", "is_correct": true },
+        { "option_id": 3, "text": "A snake", "is_correct": false },
+        { "option_id": 4, "text": "A candle flame", "is_correct": false }
+      ],
+      "answer": "The scorpion's sting"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who watched the flame feeding on his mother?",
+      "options": [
+        { "option_id": 1, "text": "The poet", "is_correct": true },
+        { "option_id": 2, "text": "The father", "is_correct": false },
+        { "option_id": 3, "text": "The peasants", "is_correct": false },
+        { "option_id": 4, "text": "The holy man", "is_correct": false }
+      ],
+      "answer": "The poet"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The phrase 'sum of all evil balanced' refers to a belief in ________.",
+      "options": [
+        { "option_id": 1, "text": "Science", "is_correct": false },
+        { "option_id": 2, "text": "Karma", "is_correct": true },
+        { "option_id": 3, "text": "Luck", "is_correct": false },
+        { "option_id": 4, "text": "Magic", "is_correct": false }
+      ],
+      "answer": "Karma"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What did the peasants want to 'paralyse'?",
+      "options": [
+        { "option_id": 1, "text": "The mother", "is_correct": false },
+        { "option_id": 2, "text": "The father", "is_correct": false },
+        { "option_id": 3, "text": "The Evil One (Scorpion)", "is_correct": true },
+        { "option_id": 4, "text": "The rain", "is_correct": false }
+      ],
+      "answer": "The Evil One (Scorpion)"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What type of poem is 'Night of the Scorpion'?",
+      "options": [
+        { "option_id": 1, "text": "Sonnet", "is_correct": false },
+        { "option_id": 2, "text": "Narrative poem", "is_correct": true },
+        { "option_id": 3, "text": "Haiku", "is_correct": false },
+        { "option_id": 4, "text": "Limerick", "is_correct": false }
+      ],
+      "answer": "Narrative poem"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The poem contrasts which two attitudes?",
+      "options": [
+        { "option_id": 1, "text": "Superstition and Rationalism", "is_correct": true },
+        { "option_id": 2, "text": "Love and Hate", "is_correct": false },
+        { "option_id": 3, "text": "Wealth and Poverty", "is_correct": false },
+        { "option_id": 4, "text": "Day and Night", "is_correct": false }
+      ],
+      "answer": "Superstition and Rationalism"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is the rhyme scheme of the poem?",
+      "options": [
+        { "option_id": 1, "text": "AABB", "is_correct": false },
+        { "option_id": 2, "text": "ABAB", "is_correct": false },
+        { "option_id": 3, "text": "Free verse (No fixed rhyme scheme)", "is_correct": true },
+        { "option_id": 4, "text": "ABBA", "is_correct": false }
+      ],
+      "answer": "Free verse (No fixed rhyme scheme)"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "The peasants claimed the poison would purify the mother's ________.",
+      "options": [
+        { "option_id": 1, "text": "Soul", "is_correct": false },
+        { "option_id": 2, "text": "Flesh", "is_correct": true },
+        { "option_id": 3, "text": "Mind", "is_correct": false },
+        { "option_id": 4, "text": "Thoughts", "is_correct": false }
+      ],
+      "answer": "Flesh"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What 'unreal' belief is mentioned in the warming up section?",
+      "options": [
+        { "option_id": 1, "text": "Gravity", "is_correct": false },
+        { "option_id": 2, "text": "Superstition", "is_correct": true },
+        { "option_id": 3, "text": "Science", "is_correct": false },
+        { "option_id": 4, "text": "History", "is_correct": false }
+      ],
+      "answer": "Superstition"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Smashing a mirror is said to bring ________.",
+      "options": [
+        { "option_id": 1, "text": "Good luck", "is_correct": false },
+        { "option_id": 2, "text": "Seven years of bad luck", "is_correct": true },
+        { "option_id": 3, "text": "Rain", "is_correct": false },
+        { "option_id": 4, "text": "Money", "is_correct": false }
+      ],
+      "answer": "Seven years of bad luck"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Walking under a ladder is considered ________.",
+      "options": [
+        { "option_id": 1, "text": "Safe", "is_correct": false },
+        { "option_id": 2, "text": "Lucky", "is_correct": false },
+        { "option_id": 3, "text": "Bad luck", "is_correct": true },
+        { "option_id": 4, "text": "Necessary", "is_correct": false }
+      ],
+      "answer": "Bad luck"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "The poet says 'I watched the holy man perform his ________'.",
+      "options": [
+        { "option_id": 1, "text": "Dance", "is_correct": false },
+        { "option_id": 2, "text": "Rites", "is_correct": true },
+        { "option_id": 3, "text": "Songs", "is_correct": false },
+        { "option_id": 4, "text": "Tricks", "is_correct": false }
+      ],
+      "answer": "Rites"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "The line 'More candles, more lanterns, more neighbours' creates an effect of ________.",
+      "options": [
+        { "option_id": 1, "text": "Silence", "is_correct": false },
+        { "option_id": 2, "text": "Crowd and chaos", "is_correct": true },
+        { "option_id": 3, "text": "Peace", "is_correct": false },
+        { "option_id": 4, "text": "Loneliness", "is_correct": false }
+      ],
+      "answer": "Crowd and chaos"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "The 'Evil One' in the poem refers to ________.",
+      "options": [
+        { "option_id": 1, "text": "The father", "is_correct": false },
+        { "option_id": 2, "text": "The holy man", "is_correct": false },
+        { "option_id": 3, "text": "The scorpion", "is_correct": true },
+        { "option_id": 4, "text": "The rain", "is_correct": false }
+      ],
+      "answer": "The scorpion"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What is the mood in the room where the mother lies?",
+      "options": [
+        { "option_id": 1, "text": "Joyful", "is_correct": false },
+        { "option_id": 2, "text": "Tense and agonizing", "is_correct": true },
+        { "option_id": 3, "text": "Calm", "is_correct": false },
+        { "option_id": 4, "text": "Festive", "is_correct": false }
+      ],
+      "answer": "Tense and agonizing"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Who acts as the observer in the poem?",
+      "options": [
+        { "option_id": 1, "text": "The father", "is_correct": false },
+        { "option_id": 2, "text": "The peasants", "is_correct": false },
+        { "option_id": 3, "text": "The poet (as a child)", "is_correct": true },
+        { "option_id": 4, "text": "The scorpion", "is_correct": false }
+      ],
+      "answer": "The poet (as a child)"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who is the poet of 'Night of the Scorpion'?",
+      "answer": "The poet is Nissim Ezekiel."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What drove the scorpion to hide?",
+      "answer": "Ten hours of steady rain drove the scorpion to hide."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Where did the scorpion crawl?",
+      "answer": "It crawled beneath a sack of rice."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What phrase describes the scorpion's sting in the dark?",
+      "answer": "Flash of diabolic tail in the dark room."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What did the scorpion do after stinging?",
+      "answer": "He risked the rain again (he left)."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How did the peasants arrive?",
+      "answer": "The peasants came like swarms of flies."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What did the peasants buzz?",
+      "answer": "They buzzed the name of God a hundred times."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why did they buzz the name of God?",
+      "answer": "To paralyse the Evil One (the scorpion)."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What did the peasants use to light up the room?",
+      "answer": "They used candles and lanterns."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What shadows were thrown on the walls?",
+      "answer": "Giant scorpion shadows were thrown on the walls."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Did the peasants find the scorpion?",
+      "answer": "No, they searched for him but he was not found."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What sound did the peasants make?",
+      "answer": "They clicked their tongues."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What belief did the peasants have about the scorpion's movement?",
+      "answer": "They believed that with every movement the scorpion made, his poison moved in the mother's blood."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What did the peasants say about the sins of the previous birth?",
+      "answer": "They said, 'May the sins of your previous birth be burned away tonight.'"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What did they say about the misfortunes of the next birth?",
+      "answer": "They said, 'May your suffering decrease the misfortunes of your next birth.'"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What did they say about the sum of evil?",
+      "answer": "They said, 'May the sum of all evil balanced in this unreal world... become diminished by your pain.'"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How did the mother react to the pain?",
+      "answer": "She twisted through and through, groaning on a mat."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How does the poet describe his father?",
+      "answer": "He describes him as sceptic, rationalist."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What did the father do despite his rationality?",
+      "answer": "He tried every curse and blessing, powder, mixture, herb and hybrid."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What did the father pour on the bitten toe?",
+      "answer": "He poured a little paraffin upon the bitten toe."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What did the father do after pouring paraffin?",
+      "answer": "He put a match to it."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What did the poet watch?",
+      "answer": "The poet watched the flame feeding on his mother."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What was the holy man doing?",
+      "answer": "He was performing his rites to tame the poison with an incantation."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "When did the pain lose its sting?",
+      "answer": "After twenty hours."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What were the mother's first words after the pain stopped?",
+      "answer": "She thanked God that the scorpion picked on her and spared her children."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What does 'diabolic' mean?",
+      "answer": "Diabolic means having the qualities of the devil; wicked."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is a 'sceptic'?",
+      "answer": "A sceptic is someone who questions or doubts accepted opinions."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is a 'rationalist'?",
+      "answer": "A rationalist is a person who bases their opinions and actions on reason and knowledge."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is an 'incantation'?",
+      "answer": "An incantation is a series of words said as a magic spell."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What literary device is 'like swarms of flies'?",
+      "answer": "It is a simile."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the 'Evil One' a metaphor for?",
+      "answer": "It is a metaphor for the scorpion."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Give an example of onomatopoeia from the poem.",
+      "answer": "'Buzzed' and 'clicked' are examples of onomatopoeia."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What creates visual imagery in the poem?",
+      "answer": "Descriptions like 'scorpion crawling', 'giant scorpion shadows', and 'flame feeding' create visual imagery."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What creates sound imagery in the poem?",
+      "answer": "Phrases like 'buzzed the name of God' and 'click of tongues' create sound imagery."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What creates tactile imagery in the poem?",
+      "answer": "The description of 'Father pouring paraffin on the toe' appeals to the sense of touch (heat)."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What creates internal sensations imagery?",
+      "answer": "Feelings of 'fear' and 'agony' represent internal sensations."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the theme of the poem?",
+      "answer": "The themes include superstition vs. rationalism and the selfless love of a mother."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why did the father set fire to the toe?",
+      "answer": "He hoped the heat would burn away the poison."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How did the neighbours behave?",
+      "answer": "They were sympathetic but also superstitious, offering prayers and beliefs rather than medical help."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What does 'hybrid' mean in the poem's context?",
+      "answer": "It refers to a combination of different remedies or medicines used by the father."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the tone of the poem?",
+      "answer": "The tone is observational, narrating the event from a child's perspective, ending with a poignant reflection on mother's love."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why did the peasants sit around the mother?",
+      "answer": "They sat around to offer support and pray for her recovery."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is 'superstition'?",
+      "answer": "Superstition is a belief or practice resulting from ignorance or fear of the unknown."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Give an example of a superstition mentioned in the warming up section.",
+      "answer": "Smashing a mirror brings seven years of bad luck."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What does 'paraffin' mean?",
+      "answer": "Paraffin is a flammable oil used as fuel."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What did the poet's father try 'every' of?",
+      "answer": "He tried every curse and blessing."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is the mother's reaction at the end significant?",
+      "answer": "It shows her selflessness; she cares more about her children's safety than her own suffering."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does 'groaning' indicate?",
+      "answer": "Groaning indicates intense pain and suffering."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What does the 'unreal world' refer to?",
+      "answer": "It refers to the physical, temporary world in contrast to the spiritual realm."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the rhyme scheme of 'Night of the Scorpion'?",
+      "answer": "The poem is written in free verse and does not have a fixed rhyme scheme."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Describe the rural setting depicted in the poem.",
+      "answer": "The poem vividly depicts a rural Indian setting. It is a rainy night in a village with mud-baked walls. The peasants are simple, superstitious people who rush to help their neighbour. They use candles and lanterns, lacking electricity. They have strong beliefs in spirits, sins, and karma. The reliance on home remedies, herbs, and holy men for curing a scorpion sting further highlights the traditional, pre-modern lifestyle of the village."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Contrast the reactions of the peasants and the father to the scorpion sting.",
+      "answer": "The peasants reacted with superstition and faith. They buzzed the name of God, searched for the scorpion to stop its movement, and offered prayers about sins and the next life. They believed in the spiritual connection to the pain. In contrast, the father was a sceptic and rationalist. He tried practical, albeit desperate, remedies like powders, mixtures, and herbs. He even used paraffin and fire to burn the bite, showing a more scientific or action-oriented approach compared to the passive chanting of the villagers."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Discuss the theme of superstition in the poem.",
+      "answer": "Superstition is a central theme. The peasants believe that saying God's name can paralyze the scorpion. They think the scorpion's movement controls the poison in the mother's blood. They view the suffering as a way to burn away sins of the previous birth or reduce misfortunes in the next. Even the rational father resorts to 'curses and blessings' in desperation. The poem portrays these beliefs without judgment, showing them as the villagers' way of coping with fear and pain."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Explain the significance of the mother's final words.",
+      "answer": "The mother's final words, 'Thank God the scorpion picked on me and spared my children,' are the climax of the poem. After twenty hours of excruciating pain, her only thought is of gratitude that her children were safe. This highlights the theme of selfless motherly love. It transcends the chaos of superstition and rationalism that surrounded her suffering, presenting a pure, universal emotion of maternal instinct and sacrifice."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "How does the poet use imagery to enhance the poem's effect?",
+      "answer": "Nissim Ezekiel uses various types of imagery. Visual imagery like 'giant scorpion shadows' and 'flame feeding on my mother' creates a vivid, somewhat frightening atmosphere. Sound imagery like 'buzzed the name of God' and 'click of tongues' brings the scene to life. Tactile imagery is evoked through the 'steady rain' and the burning paraffin. This sensory richness helps the reader feel the tension, the gloom, and the chaos of that rainy night."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Analyze the character of the father in the poem.",
+      "answer": "The father is described as a 'sceptic, rationalist'. He usually relies on reason and logic rather than superstition. However, seeing his wife in agony, he becomes desperate. He tries everything—'powder, mixture, herb and hybrid'. He even resorts to burning the toe with paraffin. This portrays him as a loving husband who is willing to abandon his rigid principles and try anything, even the unconventional or contradictory (curse and blessing), to save his wife."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "What is the role of the 'holy man' in the poem?",
+      "answer": "The holy man represents the traditional, religious authority in the village. He performs rites and chants incantations to 'tame the poison'. His presence highlights the coexistence of faith and ritual alongside the practical remedies tried by the father. He adds to the cacophony of efforts—prayers, folk remedies, and rituals—all aimed at curing the mother, showing the villagers' reliance on spiritual intervention in times of crisis."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Discuss the use of irony in the poem.",
+      "answer": "There is situational irony in the poem. The peasants, who want to help, might be adding to the distress with their noise and fatalistic talk about sins. The father, a rationalist, resorts to arguably irrational or extreme measures like burning the toe. The ultimate irony is that despite all the chaotic efforts of the villagers, the father's remedies, and the holy man's rites, the pain simply subsides on its own after twenty hours, and the mother's reaction is simply gratitude for her children's safety."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "How does the poem depict the Indian rural community?",
+      "answer": "The poem depicts the rural community as close-knit and supportive. When the mother is stung, neighbours swarm in immediately to help. They bring lights and sit with the family for hours. However, they are also deeply superstitious and fatalistic. Their conversation revolves around sins, karma, and the afterlife. The poem captures their collective anxiety, their shared beliefs, and their genuine, albeit somewhat intrusive, concern for one of their own."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Critically appreciate the poem 'Night of the Scorpion'.",
+      "answer": "'Night of the Scorpion' is a poignant narrative poem by Nissim Ezekiel. It vividly captures a specific incident in a rural Indian setting. Written in free verse, it uses simple yet powerful language. The poem effectively contrasts the superstitious beliefs of the villagers with the rational yet desperate actions of the father. It uses strong imagery (visual, sound) to build atmosphere. The poem concludes with a powerful testament to a mother's selfless love, shifting the focus from the chaos of the night to the enduring power of maternal instinct."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "What does the line 'Parting with his poison - flash of diabolic tail in the dark room' suggest?",
+      "answer": "This line vividly describes the moment of the sting. 'Parting with his poison' implies the scorpion giving away its venom. 'Flash of diabolic tail' suggests a quick, almost evil movement. The use of 'diabolic' (devilish) characterizes the scorpion as a malicious entity in the darkness. It sets the tone for the fear and 'evil' that the peasants associate with the scorpion throughout the poem."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Explain the peasants' belief regarding the movement of the scorpion.",
+      "answer": "The peasants held a superstitious belief that there was a direct connection between the scorpion and its victim. They believed that 'with every movement that the scorpion made his poison moved in Mother's blood.' This belief drove their frantic search for the scorpion. They wanted to find it and make it sit still, believing this would stop the poison from spreading and causing further pain to the mother."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "How does the poet describe the atmosphere in the room during the search?",
+      "answer": "The atmosphere is chaotic, tense, and shadowy. The peasants enter with candles and lanterns, throwing 'giant scorpion shadows' on the mud-baked walls, creating a spooky effect. They click their tongues and buzz like flies, creating a constant noise. The rain outside adds to the gloom. The mother is in agony, twisting and groaning, while the father frantically tries remedies. It is a scene of intense activity and anxiety."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "What philosophical views do the peasants express?",
+      "answer": "The peasants express a fatalistic and religious philosophy. They view the suffering as a result of sins from a 'previous birth' or as a purification for the 'next birth'. They believe the pain will burn away 'sins' and 'desire', and diminish the 'sum of evil'. They see the world as 'unreal'. Their views reflect a deep belief in Karma and reincarnation, trying to find a spiritual meaning or benefit in the mother's physical suffering."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Why is the poem written in free verse?",
+      "answer": "The poem is written in free verse to mimic the natural flow of storytelling and conversation. It lacks a rigid rhyme scheme or meter, which allows the poet to narrate the events realistically, capturing the chaotic speech of the peasants and the sequence of actions. This style makes the poem feel like a genuine memory or a recount of a real-life incident, enhancing its authenticity and emotional impact."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Describe the different remedies tried to cure the mother.",
+      "answer": "The poem depicts a mix of superstitious, traditional, and desperate remedies. The peasants tried to 'paralyse' the poison through chants and by finding the scorpion. The holy man performed rites and incantations. The rational father tried medicinal powders, mixtures, and herbs. He also created a 'hybrid' remedy. Finally, he poured paraffin on the toe and set it on fire to burn out the poison. This variety shows the desperation to save the mother."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "How does the poem explore the conflict between tradition and modernity?",
+      "answer": "The conflict is embodied in the contrast between the peasants/holy man and the father. The peasants represent tradition, relying on faith, superstition, and ancient beliefs about karma. The holy man uses rituals. The father represents modernity (or at least rationalism), trying medicines and physical remedies. The poem presents these two worlds clashing in the small room, united only by their concern for the mother, showing how both coexist in Indian society."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "What is the effect of the phrase 'More candles, more lanterns, more neighbours, more insects, and the endless rain'?",
+      "answer": "This repetition of 'more' creates a sense of accumulation and overwhelming claustrophobia. It emphasizes the crowding in the small room and the relentless nature of the situation. The 'endless rain' adds to the feeling of despair and entrapment. It vividly conveys the sensory overload of the night—the lights, the people, the noise, and the weather—all pressing in on the suffering mother."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "How does the poem portray the mother's suffering?",
+      "answer": "The mother's suffering is the central event but she is silent for most of the poem. She is described as 'twisting through and through', 'groaning on a mat'. The focus is on the reaction of others to her pain. Her silence and physical agony contrast with the noisy chatter of the villagers. The burning of her toe adds to the physical intensity of her pain. Her suffering is the anchor around which the night's events revolve."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "What does the scorpion represent in the poem?",
+      "answer": "The scorpion is the catalyst for the poem's events. On a literal level, it is a dangerous creature seeking shelter. Metaphorically, the villagers see it as 'The Evil One', a symbol of bad luck, sin, or the devil. Its 'diabolic tail' and poison represent suffering and evil forces. However, the poem ultimately treats it as a natural occurrence that triggers human reactions of fear, faith, rationality, and love."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "Compare the father's reaction with the holy man's reaction.",
+      "answer": "The father and the holy man represent opposite approaches to the crisis. The father, a rationalist, trusts in physical remedies. He actively tries powders, herbs, and fire to cure the bite physically. The holy man trusts in spiritual power. He performs rites and chants incantations to cure the bite metaphysically. While their methods differ completely (science vs. ritual), both are motivated by the desire to help the mother."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "What impression do you get of the villagers from the line 'They clicked their tongues'?",
+      "answer": "The clicking of tongues suggests a collective expression of sympathy, worry, and perhaps a bit of fatalism. It is a common non-verbal sound in Indian culture to show distress or pity. It reinforces the image of the villagers as a swarm, reacting in unison. It shows their helplessness in the face of the situation, where they can only offer empathy and superstitious beliefs rather than a cure."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "Explain the significance of the 20-hour duration.",
+      "answer": "The pain lasting for twenty hours emphasizes the severity and endurance of the suffering. It serves as a long, tense period during which all the drama of the villagers, the rituals, and the remedies plays out. The eventual cessation of pain after such a long time, without a clear cause (was it the herbs, the prayers, or just time?), leaves the efficacy of the remedies ambiguous and brings the focus back to the mother's relief."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "How does the poem end? Is it a happy ending?",
+      "answer": "The poem ends with the mother's pain subsiding and her expressing gratitude that her children were spared. It is a 'happy' ending in the sense that the crisis is over and the mother survives. However, it is also a poignant ending that shifts the emotional weight. The relief is not just for her own safety but for her children, highlighting the sacrificial nature of motherhood. It leaves a lasting impression of love conquering pain."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "What does the poem say about the Indian attitude towards misfortune?",
+      "answer": "The poem suggests that the traditional Indian attitude towards misfortune is often rooted in karma and spirituality. Misfortunes are seen as consequences of past sins or tests for the future. There is a tendency to accept suffering as part of a divine balance. However, it also shows a communal spirit where misfortune is shared, and the community gathers to offer support, prayers, and traditional wisdom."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "Analyze the visual imagery of 'Giant scorpion shadows'.",
+      "answer": "The phrase 'Giant scorpion shadows on the mud-baked walls' creates a powerful visual. The shadows cast by the lanterns are distorted and enlarged, making them look like scorpions. This projects the villagers' fear onto the surroundings. The room seems infested with the threat of the scorpion. It creates a spooky, oppressive atmosphere where the fear of the 'Evil One' looms larger than life."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "How does the poet use 'Hyperbole' in the poem?",
+      "answer": "The poet uses hyperbole (exaggeration) to emphasize the intensity of the scene. For example, 'buzzed the name of God a hundred times' suggests constant, repetitive chanting. The fly metaphor 'swarms of flies' for the peasants exaggerates their number and buzzing sound. These exaggerations help convey the chaotic, overwhelming nature of the night and the collective anxiety of the village."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "What is the significance of the rain in the poem?",
+      "answer": "The rain sets the scene and drives the plot. 'Ten hours of steady rain' is what forces the scorpion indoors for shelter. The rain continues throughout the poem ('endless rain'), adding to the gloom and the feeling of being trapped. It acts as a backdrop to the suffering, reflecting the relentless nature of the pain and the difficulty of the situation."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "Discuss the 'Rights and duties' aspect of the villagers shown in the poem.",
+      "answer": "The villagers perceive it as their duty to help a neighbour in distress. They arrive unbidden, bringing lights and prayers. They perform the 'duty' of searching for the scorpion and offering spiritual comfort. While their methods might be superstitious, their sense of community responsibility is strong. They fulfill their social obligation to be present and supportive during a crisis."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "Does the poem criticize superstition? Explain.",
+      "answer": "The poem presents superstition objectively without explicit criticism. However, the juxtaposition of the superstitious villagers with the rational father and the mother's simple love creates an implicit critique. The frantic, ineffective chanting and the search for the scorpion contrast with the simple reality of the pain eventually passing. The irony suggests that superstition helps the villagers cope with fear, but it doesn't necessarily solve the problem."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "What does the poem reveal about the medical facilities in rural India?",
+      "answer": "The poem reflects a time (or setting) where modern medical facilities are absent. There is no mention of a doctor or a hospital. The remedies are home-made (herbs, powders) or superstitious (chants). Even the 'rational' father uses paraffin and fire, which is a desperate home remedy. This highlights the vulnerability of rural communities and their reliance on traditional knowledge and faith in the absence of professional medical care."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "How does the poem handle the concept of 'Time'?",
+      "answer": "Time is a significant element. The rain lasts 'ten hours'. The pain lasts 'twenty hours'. The villagers' chants and the father's efforts fill this time. The poem stretches the experience of the night, making the suffering feel prolonged. The eventual passing of time brings relief. The reference to 'previous birth' and 'next birth' also brings in a cosmic, timeless perspective to the immediate event."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "What is the 'Simile' involving the peasants?",
+      "answer": "The simile is: 'The peasants came like swarms of flies'. This compares the large number of villagers arriving quickly and buzzing with talk to a swarm of flies. It suggests they were numerous, perhaps annoying or intrusive in their noise, but also natural and inevitable in that setting. It captures the chaotic, collective nature of their arrival."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "What is the 'Metaphor' involving the scorpion?",
+      "answer": "The metaphor is: 'The Evil One'. The scorpion is not just an arachnid but is metaphorically compared to the Devil or a force of evil. This elevates the incident from a physical sting to a spiritual battle between good (prayers) and evil (poison). Another metaphor is the 'diabolic tail', attributing evil intent to the creature's body part."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Describe the father's state of mind.",
+      "answer": "The father is portrayed as desperate and conflicted. He is a 'sceptic, rationalist', usually relying on logic. However, seeing his wife's agony, he abandons his usual stance. He tries 'every curse and blessing', mixing science with superstition. His action of burning the toe shows his desperation to do something—anything—to stop the pain, revealing his deep love and helplessness."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "What is the significance of the phrase 'Peace of understanding'?",
+      "answer": "The peasants sat with 'the peace of understanding on each face'. This suggests that they believed they understood the spiritual cause of the suffering (sins/karma). Their shared superstitious belief system gave them a sense of calm and acceptance, even while the mother was in pain. It contrasts their passive acceptance with the mother's active suffering and the father's frantic actions."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "How does the poem portray the 'Mother'?",
+      "answer": "The mother is the silent sufferer and the ultimate hero. She endures immense pain for twenty hours without complaint recorded in the poem. Her only spoken words are of gratitude for her children's safety. She represents endurance and the archetype of the selfless Indian mother who puts her family above herself. She is the emotional core of the poem."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "What is the symbolic meaning of 'burning the toe'?",
+      "answer": "Burning the toe with paraffin is a drastic physical measure to counteract the poison. Symbolically, it represents the clash of fire against poison, a purification by fire. It also represents the father's rationalism pushed to its extreme limit—using a harsh scientific/chemical reaction to fight the biological threat, contrasting with the villagers' spiritual approach."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "How does the poem use 'Irony' regarding the father?",
+      "answer": "The irony is that the father is introduced as a 'sceptic, rationalist', someone who shouldn't believe in magic or curses. Yet, in the crisis, he tries 'every curse and blessing'. He abandons his rational principles to try irrational cures. This irony highlights that in the face of a loved one's suffering, logic often gives way to desperation and the desire to try any possible solution."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "Why is the poem titled 'Night of the Scorpion'?",
+      "answer": "The title focuses on the specific event and time: the night the scorpion came. It sets the dark, ominous atmosphere. The scorpion is the central figure that triggers all the action. The title suggests a singular, memorable event in the poet's memory. It frames the narrative around the encounter with this creature and the chaos it unleashed."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "Discuss the 'Philosophy' of the villagers.",
+      "answer": "The villagers' philosophy is rooted in Karma and reincarnation. They believe suffering in this life cleanses sins from the past and improves the next life. They see a balance between evil and good in the universe. They believe that physical pain has a spiritual purpose and benefit. This philosophy allows them to rationalize suffering and accept it as part of a divine plan."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "What does the poem illustrate about 'Indian culture'?",
+      "answer": "The poem illustrates key aspects of Indian culture: the close-knit community life in villages, the coexistence of religion and superstition, the reverence for the mother figure, and the reliance on traditional wisdom. It shows how communities come together in crises. It also highlights the blend of the old (rituals) and the new (rationalism) in Indian society."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "What is the 'Flash of diabolic tail'?",
+      "answer": "This is a descriptive image of the scorpion's movement. 'Flash' suggests speed and suddenness. 'Diabolic' implies something evil or devilish. It describes the moment of the sting in the dark room. It personifies the scorpion as a creature of evil intent, striking quickly and then disappearing, leaving pain and chaos behind."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "How does the poem end on a note of 'Relief'?",
+      "answer": "The poem ends with the simple statement that the pain lost its sting after twenty hours. The tension that built up through the night dissipates. The mother's words provide the final release of tension. The relief is not just physical (end of pain) but emotional, knowing the children are safe. It brings the chaotic night to a calm, loving close."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "What is the impact of the first person narrative?",
+      "answer": "The first person narrative ('I remember...') makes the poem a personal memoir. It gives the perspective of a child watching the events. This adds a layer of innocence and observation. The child sees the fear, the rituals, and the pain without necessarily judging them, simply recording the memory. It makes the reader feel like a witness to the scene."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "Why did the villagers search for the scorpion with candles?",
+      "answer": "They believed that if the scorpion moved, the poison would move in the mother's blood. Therefore, they wanted to find the scorpion and make it sit still (likely by killing it or trapping it) to stop the poison's effect. The candles were their only source of light in the dark, rainy night to hunt for the small creature."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "What does 'herb and hybrid' refer to?",
+      "answer": "'Herb' refers to traditional medicinal plants used for cures. 'Hybrid' likely refers to a mixture of various things, perhaps a combination of traditional herbs and other substances, or a mix of medicinal and ritualistic elements. It emphasizes the father's scattergun approach—trying absolutely everything available to cure the bite."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "How does the poem describe the 'rain'?",
+      "answer": "The rain is described as 'steady' and lasting for 'ten hours'. Later it is called 'endless rain'. It is a persistent, driving force that causes the problem (driving the scorpion inside) and continues as a backdrop to the misery. It sets a gloomy, relentless mood for the poem."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "What is the significance of the word 'Thank God' at the end?",
+      "answer": "The mother uses 'Thank God' not to praise the divine for the pain, but to express gratitude for a specific mercy—that her children were spared. This religious expression contrasts with the superstitious chanting of the villagers. It shows her personal faith is grounded in love and protection of her family, rather than fear of karma or evil."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "Summarize the poem 'Night of the Scorpion'.",
+      "answer": "The poem recounts a rainy night when the poet's mother is stung by a scorpion. Peasants swarm the house, chanting and searching for the scorpion to stop the pain, expressing superstitious beliefs about karma and sin. The rationalist father tries various medicinal and desperate cures, including burning the bite. A holy man performs rites. After twenty hours of agony, the mother recovers and simply thanks God that she was stung instead of her children, highlighting her selfless love."
+    }
+  ]
+}

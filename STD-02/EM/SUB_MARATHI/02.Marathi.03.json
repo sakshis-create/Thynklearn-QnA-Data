@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.03",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "खेळ खेळूया"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पहिल्या चित्रात मुलगा काय करत आहे?",
+      "options": [
+        { "option_id": 1, "text": "झोपत आहे", "is_correct": false },
+        { "option_id": 2, "text": "वाकत आहे", "is_correct": true },
+        { "option_id": 3, "text": "रंगवत आहे", "is_correct": false },
+        { "option_id": 4, "text": "हसत आहे", "is_correct": false }
+      ],
+      "answer": "वाकत आहे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "दुसऱ्या चित्रात मुलगी काय करत आहे?",
+      "options": [
+        { "option_id": 1, "text": "झोपत आहे", "is_correct": false },
+        { "option_id": 2, "text": "रंगवत आहे", "is_correct": true },
+        { "option_id": 3, "text": "वाकत आहे", "is_correct": false },
+        { "option_id": 4, "text": "बोलत आहे", "is_correct": false }
+      ],
+      "answer": "रंगवत आहे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "झाडाला पाणी कोण घालत आहे?",
+      "options": [
+        { "option_id": 1, "text": "मुलगा", "is_correct": false },
+        { "option_id": 2, "text": "मुलगी", "is_correct": true },
+        { "option_id": 3, "text": "आई", "is_correct": false },
+        { "option_id": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "मुलगी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "एक मुलगा काय करत आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळत आहे", "is_correct": false },
+        { "option_id": 2, "text": "झोपत आहे", "is_correct": true },
+        { "option_id": 3, "text": "हसत आहे", "is_correct": false },
+        { "option_id": 4, "text": "धावत आहे", "is_correct": false }
+      ],
+      "answer": "झोपत आहे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मुलगी माईक घेऊन काय करत आहे?",
+      "options": [
+        { "option_id": 1, "text": "झोपत आहे", "is_correct": false },
+        { "option_id": 2, "text": "गात आहे", "is_correct": true },
+        { "option_id": 3, "text": "रडत आहे", "is_correct": false },
+        { "option_id": 4, "text": "खेळत आहे", "is_correct": false }
+      ],
+      "answer": "गात आहे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मुलं एकमेकांना काय देत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "खेळणी", "is_correct": false },
+        { "option_id": 2, "text": "वही", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "फळे", "is_correct": false }
+      ],
+      "answer": "वही"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "या धड्यातील क्रिया कशाशी संबंधित आहेत?",
+      "options": [
+        { "option_id": 1, "text": "खेळ", "is_correct": false },
+        { "option_id": 2, "text": "कृती", "is_correct": true },
+        { "option_id": 3, "text": "प्रवास", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "कृती"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "‘वाक’ हा शब्द कशाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "बसणे", "is_correct": false },
+        { "option_id": 2, "text": "वाकणे", "is_correct": true },
+        { "option_id": 3, "text": "उडणे", "is_correct": false },
+        { "option_id": 4, "text": "धावणे", "is_correct": false }
+      ],
+      "answer": "वाकणे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "चित्र पाहून काय करायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "लिहायचे", "is_correct": false },
+        { "option_id": 2, "text": "सांगायचे", "is_correct": true },
+        { "option_id": 3, "text": "गाणे म्हणायचे", "is_correct": false },
+        { "option_id": 4, "text": "नाचायचे", "is_correct": false }
+      ],
+      "answer": "सांगायचे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "‘रंगवा’ या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "रडणे", "is_correct": false },
+        { "option_id": 2, "text": "रंग भरणे", "is_correct": true },
+        { "option_id": 3, "text": "खेळणे", "is_correct": false },
+        { "option_id": 4, "text": "झोपणे", "is_correct": false }
+      ],
+      "answer": "रंग भरणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "मुलं एकमेकांना कशी मदत करतात?",
+      "options": [
+        { "option_id": 1, "text": "भांडून", "is_correct": false },
+        { "option_id": 2, "text": "वस्तू देऊन", "is_correct": true },
+        { "option_id": 3, "text": "पळून", "is_correct": false },
+        { "option_id": 4, "text": "रडून", "is_correct": false }
+      ],
+      "answer": "वस्तू देऊन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या प्रकारचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "कविता", "is_correct": false },
+        { "option_id": 2, "text": "कृती आधारित", "is_correct": true },
+        { "option_id": 3, "text": "कथा", "is_correct": false },
+        { "option_id": 4, "text": "निबंध", "is_correct": false }
+      ],
+      "answer": "कृती आधारित"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "‘झोपा’ या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "खेळणे", "is_correct": false },
+        { "option_id": 2, "text": "झोपणे", "is_correct": true },
+        { "option_id": 3, "text": "धावणे", "is_correct": false },
+        { "option_id": 4, "text": "वाचणे", "is_correct": false }
+      ],
+      "answer": "झोपणे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या धड्यात किती चित्रे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "चार", "is_correct": false },
+        { "option_id": 2, "text": "सहा", "is_correct": true },
+        { "option_id": 3, "text": "दोन", "is_correct": false },
+        { "option_id": 4, "text": "आठ", "is_correct": false }
+      ],
+      "answer": "सहा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा धडा कशासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "मनोरंजन", "is_correct": false },
+        { "option_id": 2, "text": "कृती शिकण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "परीक्षेसाठी", "is_correct": false },
+        { "option_id": 4, "text": "प्रवासासाठी", "is_correct": false }
+      ],
+      "answer": "कृती शिकण्यासाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "या धड्याचे नाव काय आहे?",
+      "answer": "या धड्याचे नाव ‘खेळ खेळूया’ आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "या धड्यात मुलं काय करताना दाखवली आहेत?",
+      "answer": "या धड्यात मुलं वेगवेगळ्या कृती करताना दाखवली आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "झाडाला पाणी का घालावे?",
+      "answer": "झाड वाढावे म्हणून पाणी घालावे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "रंगवणे म्हणजे काय?",
+      "answer": "चित्रात रंग भरणे म्हणजे रंगवणे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "मुलगी माईक घेऊन काय करते?",
+      "answer": "मुलगी माईक घेऊन गाणे गाते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मुलं एकमेकांना वह्या का देतात?",
+      "answer": "मुलं एकमेकांना मदत म्हणून वह्या देतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "या धड्यातील एक कृती सांगा.",
+      "answer": "या धड्यात रंगवणे ही एक कृती आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "झोप का आवश्यक आहे?",
+      "answer": "झोप आरोग्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "हा धडा कशातून शिकवतो?",
+      "answer": "हा धडा कृतीतून शिकवतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "चित्र पाहून काय करायचे असते?",
+      "answer": "चित्र पाहून सांगायचे असते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘वाक’ या शब्दाचा अर्थ काय?",
+      "answer": "‘वाक’ म्हणजे वाकणे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "मुलं कोणत्या कृती आनंदाने करतात?",
+      "answer": "मुलं खेळ आणि गाणे आनंदाने करतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "answer": "या धड्यातून वेगवेगळ्या कृती शिकायला मिळतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मुलांनी झाडांची काळजी का घ्यावी?",
+      "answer": "मुलांनी पर्यावरणासाठी झाडांची काळजी घ्यावी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी आहे?",
+      "answer": "हा धडा लहान मुलांसाठी आहे."
+    }
+  ]
+}

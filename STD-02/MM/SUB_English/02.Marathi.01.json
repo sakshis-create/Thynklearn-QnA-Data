@@ -1,0 +1,921 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.ENG.01",
+    "standard": "2",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Unit 1 — Bounce a Ball,"
+  },
+  "questions": [
+
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In the poem, to whom is the ball bounced first?",
+      "options": [
+        { "option_id": 1, "text": "Sagar", "is_correct": false },
+        { "option_id": 2, "text": "Teacher", "is_correct": false },
+        { "option_id": 3, "text": "Reena", "is_correct": true },
+        { "option_id": 4, "text": "Veena", "is_correct": false }
+      ],
+      "answer": "Reena"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In the poem, what does the child say after catching the ball?",
+      "options": [
+        { "option_id": 1, "text": "I missed it.", "is_correct": false },
+        { "option_id": 2, "text": "Thank you!", "is_correct": false },
+        { "option_id": 3, "text": "Yes! I got it.", "is_correct": true },
+        { "option_id": 4, "text": "Throw again.", "is_correct": false }
+      ],
+      "answer": "Yes! I got it."
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who misses the ball in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Reena", "is_correct": false },
+        { "option_id": 2, "text": "Veena", "is_correct": false },
+        { "option_id": 3, "text": "Teacher", "is_correct": true },
+        { "option_id": 4, "text": "Sagar", "is_correct": false }
+      ],
+      "answer": "Teacher"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which word is replaced with other action words in the activity?",
+      "options": [
+        { "option_id": 1, "text": "Catch", "is_correct": false },
+        { "option_id": 2, "text": "Bounce", "is_correct": true },
+        { "option_id": 3, "text": "Run", "is_correct": false },
+        { "option_id": 4, "text": "Play", "is_correct": false }
+      ],
+      "answer": "Bounce"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the instruction 'Please sit down' ask the children to do?",
+      "options": [
+        { "option_id": 1, "text": "Stand up", "is_correct": false },
+        { "option_id": 2, "text": "Run", "is_correct": false },
+        { "option_id": 3, "text": "Sit down", "is_correct": true },
+        { "option_id": 4, "text": "Jump", "is_correct": false }
+      ],
+      "answer": "Sit down"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In 'Please hop on one leg', how many legs should the child hop on?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "One", "is_correct": true },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "One"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who says 'Hello, my name is Lalit'?",
+      "options": [
+        { "option_id": 1, "text": "Farida", "is_correct": false },
+        { "option_id": 2, "text": "Manjit", "is_correct": false },
+        { "option_id": 3, "text": "Lalit", "is_correct": true },
+        { "option_id": 4, "text": "Shamal", "is_correct": false }
+      ],
+      "answer": "Lalit"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does Lalit have in his hand?",
+      "options": [
+        { "option_id": 1, "text": "A notebook", "is_correct": false },
+        { "option_id": 2, "text": "An English dictionary", "is_correct": true },
+        { "option_id": 3, "text": "A pencil", "is_correct": false },
+        { "option_id": 4, "text": "A bag", "is_correct": false }
+      ],
+      "answer": "An English dictionary"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does Shamal have in her hand?",
+      "options": [
+        { "option_id": 1, "text": "A book", "is_correct": false },
+        { "option_id": 2, "text": "A water bottle", "is_correct": true },
+        { "option_id": 3, "text": "A ruler", "is_correct": false },
+        { "option_id": 4, "text": "A bat", "is_correct": false }
+      ],
+      "answer": "A water bottle"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does the sentence 'We are friends' tell us?",
+      "options": [
+        { "option_id": 1, "text": "They are playing", "is_correct": false },
+        { "option_id": 2, "text": "They are fighting", "is_correct": false },
+        { "option_id": 3, "text": "They are friends", "is_correct": true },
+        { "option_id": 4, "text": "They are studying", "is_correct": false }
+      ],
+      "answer": "They are friends"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the word 'bat' refer to in the Word Basket?",
+      "options": [
+        { "option_id": 1, "text": "An animal", "is_correct": false },
+        { "option_id": 2, "text": "A cricket bat", "is_correct": true },
+        { "option_id": 3, "text": "A bird", "is_correct": false },
+        { "option_id": 4, "text": "A toy", "is_correct": false }
+      ],
+      "answer": "A cricket bat"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'cat'?",
+      "options": [
+        { "option_id": 1, "text": "pan", "is_correct": false },
+        { "option_id": 2, "text": "rat", "is_correct": true },
+        { "option_id": 3, "text": "jam", "is_correct": false },
+        { "option_id": 4, "text": "bag", "is_correct": false }
+      ],
+      "answer": "rat"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is Sam holding in the can?",
+      "options": [
+        { "option_id": 1, "text": "Milk", "is_correct": false },
+        { "option_id": 2, "text": "Jam", "is_correct": true },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Juice", "is_correct": false }
+      ],
+      "answer": "Jam"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does the rat have in the sentence 'A rat has a bag'?",
+      "options": [
+        { "option_id": 1, "text": "A bat", "is_correct": false },
+        { "option_id": 2, "text": "A cap", "is_correct": false },
+        { "option_id": 3, "text": "A bag", "is_correct": true },
+        { "option_id": 4, "text": "A mat", "is_correct": false }
+      ],
+      "answer": "A bag"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "In the rain conversation, what does Snehal want to do?",
+      "options": [
+        { "option_id": 1, "text": "Sleep", "is_correct": false },
+        { "option_id": 2, "text": "Play in the rain", "is_correct": true },
+        { "option_id": 3, "text": "Eat food", "is_correct": false },
+        { "option_id": 4, "text": "Go to school", "is_correct": false }
+      ],
+      "answer": "Play in the rain"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What does the mother say Snehal will get if she goes out in the rain?",
+      "options": [
+        { "option_id": 1, "text": "She will be happy", "is_correct": false },
+        { "option_id": 2, "text": "She will get wet", "is_correct": true },
+        { "option_id": 3, "text": "She will play", "is_correct": false },
+        { "option_id": 4, "text": "She will sleep", "is_correct": false }
+      ],
+      "answer": "She will get wet"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does Chintu ask his mother?",
+      "options": [
+        { "option_id": 1, "text": "Shall I sleep?", "is_correct": false },
+        { "option_id": 2, "text": "Shall I eat?", "is_correct": false },
+        { "option_id": 3, "text": "May I go?", "is_correct": true },
+        { "option_id": 4, "text": "May I sing?", "is_correct": false }
+      ],
+      "answer": "May I go?"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "In the Animal Song, what does the hen do?",
+      "options": [
+        { "option_id": 1, "text": "Run fast", "is_correct": false },
+        { "option_id": 2, "text": "Count to ten", "is_correct": true },
+        { "option_id": 3, "text": "Go to sleep", "is_correct": false },
+        { "option_id": 4, "text": "Fly away", "is_correct": false }
+      ],
+      "answer": "Count to ten"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What does the goat get in the poem?",
+      "options": [
+        { "option_id": 1, "text": "A cap", "is_correct": false },
+        { "option_id": 2, "text": "A coat", "is_correct": true },
+        { "option_id": 3, "text": "A bag", "is_correct": false },
+        { "option_id": 4, "text": "A mat", "is_correct": false }
+      ],
+      "answer": "A coat"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What does the chick do in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Build a house", "is_correct": false },
+        { "option_id": 2, "text": "Make it quick", "is_correct": true },
+        { "option_id": 3, "text": "Go upstairs", "is_correct": false },
+        { "option_id": 4, "text": "Find a hat", "is_correct": false }
+      ],
+      "answer": "Make it quick"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does the cat find in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Its bag", "is_correct": false },
+        { "option_id": 2, "text": "Its hat", "is_correct": true },
+        { "option_id": 3, "text": "Its coat", "is_correct": false },
+        { "option_id": 4, "text": "Its mat", "is_correct": false }
+      ],
+      "answer": "Its hat"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Where does the bear go in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Downstairs", "is_correct": false },
+        { "option_id": 2, "text": "Up upstairs", "is_correct": true },
+        { "option_id": 3, "text": "To school", "is_correct": false },
+        { "option_id": 4, "text": "To sleep", "is_correct": false }
+      ],
+      "answer": "Up upstairs"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What does the kite say in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Good morning", "is_correct": false },
+        { "option_id": 2, "text": "Good afternoon", "is_correct": false },
+        { "option_id": 3, "text": "Good night", "is_correct": true },
+        { "option_id": 4, "text": "Goodbye", "is_correct": false }
+      ],
+      "answer": "Good night"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What does the sheep do in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Go to school", "is_correct": false },
+        { "option_id": 2, "text": "Go to sleep", "is_correct": true },
+        { "option_id": 3, "text": "Play", "is_correct": false },
+        { "option_id": 4, "text": "Jump", "is_correct": false }
+      ],
+      "answer": "Go to sleep"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "In Reading Time, what are the friends looking at?",
+      "options": [
+        { "option_id": 1, "text": "A book", "is_correct": false },
+        { "option_id": 2, "text": "A picture", "is_correct": true },
+        { "option_id": 3, "text": "A toy", "is_correct": false },
+        { "option_id": 4, "text": "A map", "is_correct": false }
+      ],
+      "answer": "A picture"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What do the children see in the sky in Reading Time?",
+      "options": [
+        { "option_id": 1, "text": "The sun, the moon and the clouds", "is_correct": true },
+        { "option_id": 2, "text": "The rain and trees", "is_correct": false },
+        { "option_id": 3, "text": "Birds only", "is_correct": false },
+        { "option_id": 4, "text": "Stars only", "is_correct": false }
+      ],
+      "answer": "The sun, the moon and the clouds"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Where is the peacock dancing?",
+      "options": [
+        { "option_id": 1, "text": "In the sky", "is_correct": false },
+        { "option_id": 2, "text": "Near the tree", "is_correct": true },
+        { "option_id": 3, "text": "On the road", "is_correct": false },
+        { "option_id": 4, "text": "In the house", "is_correct": false }
+      ],
+      "answer": "Near the tree"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Where is the owl sitting?",
+      "options": [
+        { "option_id": 1, "text": "On the ground", "is_correct": false },
+        { "option_id": 2, "text": "On a branch of the tree", "is_correct": true },
+        { "option_id": 3, "text": "On the roof", "is_correct": false },
+        { "option_id": 4, "text": "In the water", "is_correct": false }
+      ],
+      "answer": "On a branch of the tree"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which two animals are grazing in the meadow?",
+      "options": [
+        { "option_id": 1, "text": "Dog and cat", "is_correct": false },
+        { "option_id": 2, "text": "Cow and deer", "is_correct": true },
+        { "option_id": 3, "text": "Rat and cat", "is_correct": false },
+        { "option_id": 4, "text": "Goat and sheep", "is_correct": false }
+      ],
+      "answer": "Cow and deer"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What does the instruction 'Look, listen and say' help students to do?",
+      "options": [
+        { "option_id": 1, "text": "Draw", "is_correct": false },
+        { "option_id": 2, "text": "Speak correctly", "is_correct": true },
+        { "option_id": 3, "text": "Write fast", "is_correct": false },
+        { "option_id": 4, "text": "Run", "is_correct": false }
+      ],
+      "answer": "Speak correctly"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'Please turn around'?",
+      "options": [
+        { "option_id": 1, "text": "Stand up", "is_correct": false },
+        { "option_id": 2, "text": "Turn back", "is_correct": true },
+        { "option_id": 3, "text": "Sit down", "is_correct": false },
+        { "option_id": 4, "text": "Jump", "is_correct": false }
+      ],
+      "answer": "Turn back"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which pronoun is used for a girl?",
+      "options": [
+        { "option_id": 1, "text": "He", "is_correct": false },
+        { "option_id": 2, "text": "She", "is_correct": true },
+        { "option_id": 3, "text": "It", "is_correct": false },
+        { "option_id": 4, "text": "We", "is_correct": false }
+      ],
+      "answer": "She"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which pronoun refers to the speaker?",
+      "options": [
+        { "option_id": 1, "text": "You", "is_correct": false },
+        { "option_id": 2, "text": "He", "is_correct": false },
+        { "option_id": 3, "text": "I", "is_correct": true },
+        { "option_id": 4, "text": "They", "is_correct": false }
+      ],
+      "answer": "I"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which word matches with the picture of a cap?",
+      "options": [
+        { "option_id": 1, "text": "tap", "is_correct": false },
+        { "option_id": 2, "text": "bat", "is_correct": false },
+        { "option_id": 3, "text": "cap", "is_correct": true },
+        { "option_id": 4, "text": "cat", "is_correct": false }
+      ],
+      "answer": "cap"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which word in the basket rhymes with 'jam'?",
+      "options": [
+        { "option_id": 1, "text": "rat", "is_correct": false },
+        { "option_id": 2, "text": "pan", "is_correct": false },
+        { "option_id": 3, "text": "ham", "is_correct": true },
+        { "option_id": 4, "text": "bag", "is_correct": false }
+      ],
+      "answer": "ham"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which word in the basket rhymes with 'bag'?",
+      "options": [
+        { "option_id": 1, "text": "tag", "is_correct": true },
+        { "option_id": 2, "text": "rat", "is_correct": false },
+        { "option_id": 3, "text": "jam", "is_correct": false },
+        { "option_id": 4, "text": "pan", "is_correct": false }
+      ],
+      "answer": "tag"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which instruction asks the students to follow actions only when they hear 'Please'?",
+      "options": [
+        { "option_id": 1, "text": "Listen and sing", "is_correct": false },
+        { "option_id": 2, "text": "Activity Time", "is_correct": true },
+        { "option_id": 3, "text": "Let’s Speak", "is_correct": false },
+        { "option_id": 4, "text": "Reading Time", "is_correct": false }
+      ],
+      "answer": "Activity Time"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "The phrase 'Look, listen, repeat and read' helps students to improve:",
+      "options": [
+        { "option_id": 1, "text": "Drawing skills", "is_correct": false },
+        { "option_id": 2, "text": "Reading skills", "is_correct": true },
+        { "option_id": 3, "text": "Running skills", "is_correct": false },
+        { "option_id": 4, "text": "Writing speed", "is_correct": false }
+      ],
+      "answer": "Reading skills"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which object is shown with the letter A in the Alphabet section?",
+      "options": [
+        { "option_id": 1, "text": "Ant", "is_correct": false },
+        { "option_id": 2, "text": "Apple", "is_correct": true },
+        { "option_id": 3, "text": "Arrow", "is_correct": false },
+        { "option_id": 4, "text": "Axe", "is_correct": false }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the main purpose of tracing and writing letters?",
+      "options": [
+        { "option_id": 1, "text": "To run fast", "is_correct": false },
+        { "option_id": 2, "text": "To improve handwriting", "is_correct": true },
+        { "option_id": 3, "text": "To play games", "is_correct": false },
+        { "option_id": 4, "text": "To learn songs", "is_correct": false }
+      ],
+      "answer": "To improve handwriting"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What does the mirror riddle describe?",
+      "options": [
+        { "option_id": 1, "text": "A friend", "is_correct": false },
+        { "option_id": 2, "text": "A teacher", "is_correct": false },
+        { "option_id": 3, "text": "A mirror reflection", "is_correct": true },
+        { "option_id": 4, "text": "A door", "is_correct": false }
+      ],
+      "answer": "A mirror reflection"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "In the riddle, when the boy raises his right hand, what happens to the reflection?",
+      "options": [
+        { "option_id": 1, "text": "It raises the right hand", "is_correct": false },
+        { "option_id": 2, "text": "It raises the left hand", "is_correct": true },
+        { "option_id": 3, "text": "It walks away", "is_correct": false },
+        { "option_id": 4, "text": "It disappears", "is_correct": false }
+      ],
+      "answer": "It raises the left hand"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which instruction encourages polite behaviour?",
+      "options": [
+        { "option_id": 1, "text": "Jump high", "is_correct": false },
+        { "option_id": 2, "text": "Say Please", "is_correct": true },
+        { "option_id": 3, "text": "Run fast", "is_correct": false },
+        { "option_id": 4, "text": "Clap hands", "is_correct": false }
+      ],
+      "answer": "Say Please"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which pair of words are rhyming words?",
+      "options": [
+        { "option_id": 1, "text": "bag – cap", "is_correct": false },
+        { "option_id": 2, "text": "cat – hat", "is_correct": true },
+        { "option_id": 3, "text": "bat – pan", "is_correct": false },
+        { "option_id": 4, "text": "jam – tap", "is_correct": false }
+      ],
+      "answer": "cat – hat"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What skill is developed by 'Look at the pictures and match' activity?",
+      "options": [
+        { "option_id": 1, "text": "Drawing", "is_correct": false },
+        { "option_id": 2, "text": "Word recognition", "is_correct": true },
+        { "option_id": 3, "text": "Running", "is_correct": false },
+        { "option_id": 4, "text": "Singing", "is_correct": false }
+      ],
+      "answer": "Word recognition"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which instruction means to follow actions after listening carefully?",
+      "options": [
+        { "option_id": 1, "text": "Listen carefully and act", "is_correct": true },
+        { "option_id": 2, "text": "Write slowly", "is_correct": false },
+        { "option_id": 3, "text": "Jump high", "is_correct": false },
+        { "option_id": 4, "text": "Draw lines", "is_correct": false }
+      ],
+      "answer": "Listen carefully and act"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What is the meaning of the word 'mat'?",
+      "options": [
+        { "option_id": 1, "text": "A chair", "is_correct": false },
+        { "option_id": 2, "text": "A mat or floor cloth", "is_correct": true },
+        { "option_id": 3, "text": "A table", "is_correct": false },
+        { "option_id": 4, "text": "A book", "is_correct": false }
+      ],
+      "answer": "A mat or floor cloth"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which word matches with the picture of a cat?",
+      "options": [
+        { "option_id": 1, "text": "cap", "is_correct": false },
+        { "option_id": 2, "text": "cat", "is_correct": true },
+        { "option_id": 3, "text": "bat", "is_correct": false },
+        { "option_id": 4, "text": "tap", "is_correct": false }
+      ],
+      "answer": "cat"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What does ‘Read aloud’ mainly help to improve?",
+      "options": [
+        { "option_id": 1, "text": "Clear pronunciation", "is_correct": true },
+        { "option_id": 2, "text": "Drawing", "is_correct": false },
+        { "option_id": 3, "text": "Running", "is_correct": false },
+        { "option_id": 4, "text": "Colouring", "is_correct": false }
+      ],
+      "answer": "Clear pronunciation"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the main theme of Unit 1?",
+      "options": [
+        { "option_id": 1, "text": "Sports only", "is_correct": false },
+        { "option_id": 2, "text": "Nature only", "is_correct": false },
+        { "option_id": 3, "text": "Speaking, reading and action activities", "is_correct": true },
+        { "option_id": 4, "text": "Food and animals", "is_correct": false }
+      ],
+      "answer": "Speaking, reading and action activities"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Who is the first person to whom the ball is bounced?",
+      "answer": "The ball is first bounced to Reena."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What does the child say after catching the ball?",
+      "answer": "The child says, “Yes! I got it.”"
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Who misses the ball in the poem?",
+      "answer": "The teacher misses the ball."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What does the instruction 'Please sit down' mean?",
+      "answer": "It means to sit down politely."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What does 'Please stand up' ask students to do?",
+      "answer": "It asks them to stand up."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How many legs should students hop on in the instruction 'Hop on one leg'?",
+      "answer": "They should hop on one leg."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What does Lalit have in his hand?",
+      "answer": "Lalit has an English dictionary in his hand."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What does Shamal have in her hand?",
+      "answer": "Shamal has a water bottle in her hand."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What do the children say together in the speaking activity?",
+      "answer": "They say, “We are friends.”"
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is shown in the Word Basket section?",
+      "answer": "Rhyming words and short vowel words are shown."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Name any one rhyming pair from the Word Basket.",
+      "answer": "One rhyming pair is cat – rat."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What does the cat sit on in the picture story?",
+      "answer": "The cat sits on a mat."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What does the rat have?",
+      "answer": "The rat has a bag."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What does Sam have in the can?",
+      "answer": "Sam has jam in the can."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What does Snehal want to do?",
+      "answer": "Snehal wants to play in the rain."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What does the mother say will happen if Snehal goes out?",
+      "answer": "Mother says she will get wet."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What does Chintu ask his mother?",
+      "answer": "Chintu asks, “May I go?”"
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What does the hen do in the Animal Song?",
+      "answer": "The hen counts to ten."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What does the goat get in the poem?",
+      "answer": "The goat gets a coat."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What does the cat find in the song?",
+      "answer": "The cat finds its hat."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Where does the bear go?",
+      "answer": "The bear goes upstairs."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What does the kite say?",
+      "answer": "The kite says, “Good night.”"
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What does the sheep do?",
+      "answer": "The sheep goes to sleep."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What are the friends looking at in Reading Time?",
+      "answer": "They are looking at a picture."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What do they see in the sky?",
+      "answer": "They see the sun, the moon and the clouds."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Where is the peacock dancing?",
+      "answer": "The peacock is dancing near the tree."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Which animals are grazing in the meadow?",
+      "answer": "The cow and the deer are grazing in the meadow."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Where is the owl sitting?",
+      "answer": "The owl is sitting on a branch of the tree."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the instruction 'Please turn around'?",
+      "answer": "It means to turn back."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Which pronoun refers to the speaker?",
+      "answer": "The pronoun 'I' refers to the speaker."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Which pronoun is used for a girl?",
+      "answer": "The pronoun 'she' is used for a girl."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Which pronoun is used for a boy?",
+      "answer": "The pronoun 'he' is used for a boy."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What does the instruction 'Look, listen and say' help students to do?",
+      "answer": "It helps students to speak correctly."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is the purpose of 'Read aloud'?",
+      "answer": "The purpose is to improve pronunciation."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What skill does tracing and writing letters develop?",
+      "answer": "It develops handwriting skills."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What does the mirror riddle describe?",
+      "answer": "It describes a mirror reflection."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What happens in the reflection when the boy raises his right hand?",
+      "answer": "The reflection raises its left hand."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is shown in the Alphabet section?",
+      "answer": "Pictures and letters of the alphabet are shown."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Which picture is shown with the letter A?",
+      "answer": "An apple is shown with the letter A."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What does the activity 'Look at the pictures and match' teach?",
+      "answer": "It teaches picture and word matching."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What does the instruction 'Please hop on two legs' mean?",
+      "answer": "It means to hop on both legs."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'bat' in the chapter?",
+      "answer": "It means a cricket bat."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'mat'?",
+      "answer": "Mat means a floor mat or mat cloth."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'bag'?",
+      "answer": "Bag means a school bag."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'cap'?",
+      "answer": "Cap means a head cap."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why are rhyming words given in the Word Basket?",
+      "answer": "They help students learn phonics and sounds."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the main purpose of Activity Time?",
+      "answer": "The purpose is to follow polite action instructions."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is the purpose of Let's Speak activities?",
+      "answer": "The purpose is to develop speaking and conversation skills."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is the purpose of Reading Time?",
+      "answer": "The purpose is to develop reading and observation skills."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the overall learning focus of Unit 1?",
+      "answer": "The unit focuses on speaking, reading, phonics and action-based learning."
+    }
+
+  ]
+}

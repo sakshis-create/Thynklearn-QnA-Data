@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.17",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Reading Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which instrument involves 'Vocal music'?",
+      "options": [
+        { "option_id": 1, "text": "Playing the piano", "is_correct": false },
+        { "option_id": 2, "text": "Singing", "is_correct": true },
+        { "option_id": 3, "text": "Dancing", "is_correct": false },
+        { "option_id": 4, "text": "Drumming", "is_correct": false }
+      ],
+      "answer": "Singing"
+    }
+  ]
+}

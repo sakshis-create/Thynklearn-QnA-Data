@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.19",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "संगणकाचे करामत"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "संगणक कोणत्या ठिकाणी वापरला जातो?",
+      "options": [
+        { "option_id": 1, "text": "खेळाच्या मैदानात", "is_correct": false },
+        { "option_id": 2, "text": "शाळेत", "is_correct": true },
+        { "option_id": 3, "text": "जंगलात", "is_correct": false },
+        { "option_id": 4, "text": "छपरावर", "is_correct": false }
+      ],
+      "answer": "शाळेत"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "संगणकावर मुले काय शिकतात?",
+      "options": [
+        { "option_id": 1, "text": "नाच", "is_correct": false },
+        { "option_id": 2, "text": "चित्र काढणे व शब्द लिहिणे", "is_correct": true },
+        { "option_id": 3, "text": "कसरत", "is_correct": false },
+        { "option_id": 4, "text": "खेळ खेळणे", "is_correct": false }
+      ],
+      "answer": "चित्र काढणे व शब्द लिहिणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "संगणकावर कोणते काम करता येते?",
+      "options": [
+        { "option_id": 1, "text": "झाडू मारणे", "is_correct": false },
+        { "option_id": 2, "text": "गाणी ऐकणे", "is_correct": true },
+        { "option_id": 3, "text": "स्वयंपाक करणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ खेळणे", "is_correct": false }
+      ],
+      "answer": "गाणी ऐकणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "संगणक कोणाला मदत करतो?",
+      "options": [
+        { "option_id": 1, "text": "विद्यार्थ्यांना", "is_correct": true },
+        { "option_id": 2, "text": "पक्ष्यांना", "is_correct": false },
+        { "option_id": 3, "text": "मासे", "is_correct": false },
+        { "option_id": 4, "text": "खेळणी", "is_correct": false }
+      ],
+      "answer": "विद्यार्थ्यांना"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "संगणकावरून कोणती माहिती मिळते?",
+      "options": [
+        { "option_id": 1, "text": "हवामान आणि नकाशे", "is_correct": true },
+        { "option_id": 2, "text": "खेळणी", "is_correct": false },
+        { "option_id": 3, "text": "फुले", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "हवामान आणि नकाशे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "संगणकावर काय पाहता येते?",
+      "options": [
+        { "option_id": 1, "text": "चित्रपट", "is_correct": true },
+        { "option_id": 2, "text": "खेळणी दुकान", "is_correct": false },
+        { "option_id": 3, "text": "कपडे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त पुस्तके", "is_correct": false }
+      ],
+      "answer": "चित्रपट"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "संगणकावर कोणते खेळ खेळता येतात?",
+      "options": [
+        { "option_id": 1, "text": "व्हिडिओ गेम", "is_correct": true },
+        { "option_id": 2, "text": "दोऱ्याचा खेळ", "is_correct": false },
+        { "option_id": 3, "text": "लपंडाव", "is_correct": false },
+        { "option_id": 4, "text": "कबड्डी", "is_correct": false }
+      ],
+      "answer": "व्हिडिओ गेम"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "संगणकावर काय टाइप करता येते?",
+      "options": [
+        { "option_id": 1, "text": "शब्द आणि वाक्ये", "is_correct": true },
+        { "option_id": 2, "text": "खेळणी", "is_correct": false },
+        { "option_id": 3, "text": "ध्वनी", "is_correct": false },
+        { "option_id": 4, "text": "फुले", "is_correct": false }
+      ],
+      "answer": "शब्द आणि वाक्ये"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "संगणकाचा सर्वात मोठा उपयोग कोणता?",
+      "options": [
+        { "option_id": 1, "text": "शिकण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "भटकण्यासाठी", "is_correct": false }
+      ],
+      "answer": "शिकण्यासाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "संगणकावरून कोणाशी बोलता येते?",
+      "options": [
+        { "option_id": 1, "text": "दूर राहणाऱ्या मित्रांशी", "is_correct": true },
+        { "option_id": 2, "text": "फक्त जवळच्या लोकांशी", "is_correct": false },
+        { "option_id": 3, "text": "पक्ष्यांशी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यांशी", "is_correct": false }
+      ],
+      "answer": "दूर राहणाऱ्या मित्रांशी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "संगणक आपले कोणते काम सोपे करतो?",
+      "options": [
+        { "option_id": 1, "text": "हिशोब", "is_correct": true },
+        { "option_id": 2, "text": "खेळ", "is_correct": false },
+        { "option_id": 3, "text": "चित्रफ्रेम", "is_correct": false },
+        { "option_id": 4, "text": "भांडी", "is_correct": false }
+      ],
+      "answer": "हिशोब"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "संगणक योग्यरीत्या वापरणे का महत्त्वाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "तो महाग असतो", "is_correct": false },
+        { "option_id": 2, "text": "त्यामुळे डोळ्यांवर ताण येतो", "is_correct": true },
+        { "option_id": 3, "text": "तो आवाज करतो", "is_correct": false },
+        { "option_id": 4, "text": "तो चालत नाही", "is_correct": false }
+      ],
+      "answer": "त्यामुळे डोळ्यांवर ताण येतो"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "संगणक कोणत्या विषयासाठी उपयोगी आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त खेळ", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षण आणि माहिती", "is_correct": true },
+        { "option_id": 3, "text": "खेळणी बनवणे", "is_correct": false },
+        { "option_id": 4, "text": "झाडे लावणे", "is_correct": false }
+      ],
+      "answer": "शिक्षण आणि माहिती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "संगणकावर काम करताना काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "बिनधास्त बसावे", "is_correct": false },
+        { "option_id": 2, "text": "योग्य बसा व डोळ्यांची काळजी घ्या", "is_correct": true },
+        { "option_id": 3, "text": "जोरात ओरडावे", "is_correct": false },
+        { "option_id": 4, "text": "स्क्रीनजवळ जावे", "is_correct": false }
+      ],
+      "answer": "योग्य बसा व डोळ्यांची काळजी घ्या"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या धड्यात संगणकाला कशाप्रमाणे दाखवले आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळणे", "is_correct": false },
+        { "option_id": 2, "text": "सहाय्यक मित्र", "is_correct": true },
+        { "option_id": 3, "text": "शत्रू", "is_correct": false },
+        { "option_id": 4, "text": "कथा पात्र", "is_correct": false }
+      ],
+      "answer": "सहाय्यक मित्र"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "संगणक म्हणजे काय?",
+      "answer": "माहिती साठवणारे, शिकवणारे आणि कामे सोपी करणारे यंत्र म्हणजे संगणक."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "संगणकावर कोणते काम करता येते?",
+      "answer": "चित्र काढणे, शब्द टाइप करणे, गाणी ऐकणे, व्हिडिओ पाहणे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "संगणक शिक्षणात कसा मदत करतो?",
+      "answer": "संगणकावर व्हिडिओ, चित्रे आणि धडे पाहून शिकता येते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "संगणकावर जास्त वेळ बसू नये, का?",
+      "answer": "कारण डोळ्यांवर व शरीरावर ताण येतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "संगणकावर कोणाशी बोलता येते?",
+      "answer": "दूर राहणाऱ्या मित्रांशी व नातेवाईकांशी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "संगणकाचा एक फायदा लिहा.",
+      "answer": "कामे लवकर आणि अचूक होतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "संगणकावर खेळ का खेळू नयेत?",
+      "answer": "जास्त खेळल्याने अभ्यासात लक्ष राहत नाही."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "संगणकावर बसताना कोणती काळजी घ्यावी?",
+      "answer": "सरळ बसा आणि स्क्रीनपासून योग्य अंतर ठेवा."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "संगणकावर काय पाहायला आवडते?",
+      "answer": "मला शैक्षणिक व्हिडिओ आणि चित्रे पाहायला आवडतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "संगणकावर टाइप का करतात?",
+      "answer": "माहिती लिहण्यासाठी आणि जतन करण्यासाठी."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "संगणकाला सहाय्यक मित्र का म्हणतात?",
+      "answer": "कारण तो शिकण्यात आणि कामांत मदत करतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "दोन संगणकीय उपयोग लिहा.",
+      "answer": "हिशोब करणे आणि माहिती शोधणे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "संगणकावर काय शिकता येते?",
+      "answer": "भाषा, गणित, चित्रकला आणि विज्ञान."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "या धड्यातून तुला काय समजले?",
+      "answer": "संगणक उपयोगी आहे पण योग्य प्रकारे वापरावा."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "संगणकाचा योग्य उपयोग तू कसा करशील?",
+      "answer": "शिकण्यासाठी, माहिती मिळवण्यासाठी आणि थोडेच खेळण्यासाठी."
+    }
+  ]
+}

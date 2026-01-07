@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.Science.04",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Effects of electric current"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the unit of electrical power?",
+      "options": [
+        { "option_id": 1, "text": "Joule", "is_correct": false },
+        { "option_id": 2, "text": "Watt", "is_correct": true },
+        { "option_id": 3, "text": "Ampere", "is_correct": false },
+        { "option_id": 4, "text": "Volt", "is_correct": false }
+      ],
+      "answer": "Watt"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The heating effect of electric current is known as ________.",
+      "options": [
+        { "option_id": 1, "text": "Ohm's Law", "is_correct": false },
+        { "option_id": 2, "text": "Joule's Law", "is_correct": true },
+        { "option_id": 3, "text": "Faraday's Law", "is_correct": false },
+        { "option_id": 4, "text": "Fleming's Law", "is_correct": false }
+      ],
+      "answer": "Joule's Law"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which material is used for the coil of an electric heater?",
+      "options": [
+        { "option_id": 1, "text": "Copper", "is_correct": false },
+        { "option_id": 2, "text": "Tungsten", "is_correct": false },
+        { "option_id": 3, "text": "Nichrome", "is_correct": true },
+        { "option_id": 4, "text": "Aluminium", "is_correct": false }
+      ],
+      "answer": "Nichrome"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which material is used for the filament of an electric bulb?",
+      "options": [
+        { "option_id": 1, "text": "Nichrome", "is_correct": false },
+        { "option_id": 2, "text": "Tungsten", "is_correct": true },
+        { "option_id": 3, "text": "Copper", "is_correct": false },
+        { "option_id": 4, "text": "Iron", "is_correct": false }
+      ],
+      "answer": "Tungsten"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the commercial unit of electrical energy?",
+      "options": [
+        { "option_id": 1, "text": "Watt", "is_correct": false },
+        { "option_id": 2, "text": "Joule", "is_correct": false },
+        { "option_id": 3, "text": "Kilowatt hour (kWh)", "is_correct": true },
+        { "option_id": 4, "text": "Volt", "is_correct": false }
+      ],
+      "answer": "Kilowatt hour (kWh)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "1 kWh is equal to ________ Joules.",
+      "options": [
+        { "option_id": 1, "text": "3.6 x 10^5", "is_correct": false },
+        { "option_id": 2, "text": "3.6 x 10^6", "is_correct": true },
+        { "option_id": 3, "text": "3.6 x 10^3", "is_correct": false },
+        { "option_id": 4, "text": "36 x 10^6", "is_correct": false }
+      ],
+      "answer": "3.6 x 10^6"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which device is used to protect electrical circuits from overloading?",
+      "options": [
+        { "option_id": 1, "text": "Switch", "is_correct": false },
+        { "option_id": 2, "text": "Fuse", "is_correct": true },
+        { "option_id": 3, "text": "Resistor", "is_correct": false },
+        { "option_id": 4, "text": "Voltmeter", "is_correct": false }
+      ],
+      "answer": "Fuse"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who observed the magnetic effect of electric current first?",
+      "options": [
+        { "option_id": 1, "text": "Michael Faraday", "is_correct": false },
+        { "option_id": 2, "text": "Hans Christian Oersted", "is_correct": true },
+        { "option_id": 3, "text": "Fleming", "is_correct": false },
+        { "option_id": 4, "text": "James Watt", "is_correct": false }
+      ],
+      "answer": "Hans Christian Oersted"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The Right Hand Thumb Rule is also called ________.",
+      "options": [
+        { "option_id": 1, "text": "Fleming's Rule", "is_correct": false },
+        { "option_id": 2, "text": "Maxwell's Cork-Screw Rule", "is_correct": true },
+        { "option_id": 3, "text": "Faraday's Rule", "is_correct": false },
+        { "option_id": 4, "text": "Ohm's Law", "is_correct": false }
+      ],
+      "answer": "Maxwell's Cork-Screw Rule"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Magnetic lines of force inside a solenoid are ________.",
+      "options": [
+        { "option_id": 1, "text": "Curved", "is_correct": false },
+        { "option_id": 2, "text": "Circular", "is_correct": false },
+        { "option_id": 3, "text": "Parallel to each other", "is_correct": true },
+        { "option_id": 4, "text": "Perpendicular to axis", "is_correct": false }
+      ],
+      "answer": "Parallel to each other"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "A solenoid carrying current behaves like a ________.",
+      "options": [
+        { "option_id": 1, "text": "Bar magnet", "is_correct": true },
+        { "option_id": 2, "text": "Horseshoe magnet", "is_correct": false },
+        { "option_id": 3, "text": "Electric motor", "is_correct": false },
+        { "option_id": 4, "text": "Generator", "is_correct": false }
+      ],
+      "answer": "Bar magnet"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which rule is used to find the direction of force on a current-carrying conductor in a magnetic field?",
+      "options": [
+        { "option_id": 1, "text": "Right Hand Thumb Rule", "is_correct": false },
+        { "option_id": 2, "text": "Fleming's Right Hand Rule", "is_correct": false },
+        { "option_id": 3, "text": "Fleming's Left Hand Rule", "is_correct": true },
+        { "option_id": 4, "text": "Faraday's Law", "is_correct": false }
+      ],
+      "answer": "Fleming's Left Hand Rule"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which device converts electrical energy into mechanical energy?",
+      "options": [
+        { "option_id": 1, "text": "Electric Generator", "is_correct": false },
+        { "option_id": 2, "text": "Electric Motor", "is_correct": true },
+        { "option_id": 3, "text": "Galvanometer", "is_correct": false },
+        { "option_id": 4, "text": "Voltmeter", "is_correct": false }
+      ],
+      "answer": "Electric Motor"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The split ring in an electric motor acts as a ________.",
+      "options": [
+        { "option_id": 1, "text": "Commutator", "is_correct": true },
+        { "option_id": 2, "text": "Resistor", "is_correct": false },
+        { "option_id": 3, "text": "Inductor", "is_correct": false },
+        { "option_id": 4, "text": "Capacitor", "is_correct": false }
+      ],
+      "answer": "Commutator"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who discovered the laws of electromagnetic induction?",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "Oersted", "is_correct": false },
+        { "option_id": 3, "text": "Michael Faraday", "is_correct": true },
+        { "option_id": 4, "text": "Fleming", "is_correct": false }
+      ],
+      "answer": "Michael Faraday"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "To find the direction of induced current, which rule is used?",
+      "options": [
+        { "option_id": 1, "text": "Fleming's Left Hand Rule", "is_correct": false },
+        { "option_id": 2, "text": "Fleming's Right Hand Rule", "is_correct": true },
+        { "option_id": 3, "text": "Right Hand Thumb Rule", "is_correct": false },
+        { "option_id": 4, "text": "Screw Rule", "is_correct": false }
+      ],
+      "answer": "Fleming's Right Hand Rule"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The frequency of AC supply in India is ________.",
+      "options": [
+        { "option_id": 1, "text": "50 Hz", "is_correct": true },
+        { "option_id": 2, "text": "60 Hz", "is_correct": false },
+        { "option_id": 3, "text": "100 Hz", "is_correct": false },
+        { "option_id": 4, "text": "220 Hz", "is_correct": false }
+      ],
+      "answer": "50 Hz"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which device converts mechanical energy into electrical energy?",
+      "options": [
+        { "option_id": 1, "text": "Electric Motor", "is_correct": false },
+        { "option_id": 2, "text": "Galvanometer", "is_correct": false },
+        { "option_id": 3, "text": "Electric Generator", "is_correct": true },
+        { "option_id": 4, "text": "Voltmeter", "is_correct": false }
+      ],
+      "answer": "Electric Generator"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "In an electric generator, the current is induced in the ________.",
+      "options": [
+        { "option_id": 1, "text": "Magnet", "is_correct": false },
+        { "option_id": 2, "text": "Coil", "is_correct": true },
+        { "option_id": 3, "text": "Slip rings", "is_correct": false },
+        { "option_id": 4, "text": "Brushes", "is_correct": false }
+      ],
+      "answer": "Coil"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What happens when a live wire and a neutral wire come in direct contact?",
+      "options": [
+        { "option_id": 1, "text": "Overloading", "is_correct": false },
+        { "option_id": 2, "text": "Short Circuit", "is_correct": true },
+        { "option_id": 3, "text": "Induction", "is_correct": false },
+        { "option_id": 4, "text": "Fuse melts", "is_correct": false }
+      ],
+      "answer": "Short Circuit"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the potential difference between live and neutral wires in domestic circuits in India?",
+      "options": [
+        { "option_id": 1, "text": "110 V", "is_correct": false },
+        { "option_id": 2, "text": "220 V", "is_correct": true },
+        { "option_id": 3, "text": "440 V", "is_correct": false },
+        { "option_id": 4, "text": "12 V", "is_correct": false }
+      ],
+      "answer": "220 V"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which instrument is used to detect the presence of current in a circuit?",
+      "options": [
+        { "option_id": 1, "text": "Voltmeter", "is_correct": false },
+        { "option_id": 2, "text": "Ammeter", "is_correct": false },
+        { "option_id": 3, "text": "Galvanometer", "is_correct": true },
+        { "option_id": 4, "text": "Generator", "is_correct": false }
+      ],
+      "answer": "Galvanometer"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "In Fleming's Left Hand Rule, the index finger points in the direction of ________.",
+      "options": [
+        { "option_id": 1, "text": "Force", "is_correct": false },
+        { "option_id": 2, "text": "Current", "is_correct": false },
+        { "option_id": 3, "text": "Magnetic Field", "is_correct": true },
+        { "option_id": 4, "text": "Motion", "is_correct": false }
+      ],
+      "answer": "Magnetic Field"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "In Fleming's Right Hand Rule, the thumb indicates the direction of ________.",
+      "options": [
+        { "option_id": 1, "text": "Magnetic field", "is_correct": false },
+        { "option_id": 2, "text": "Induced current", "is_correct": false },
+        { "option_id": 3, "text": "Motion of conductor", "is_correct": true },
+        { "option_id": 4, "text": "Force", "is_correct": false }
+      ],
+      "answer": "Motion of conductor"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which component ensures unidirectional current in a DC generator?",
+      "options": [
+        { "option_id": 1, "text": "Slip rings", "is_correct": false },
+        { "option_id": 2, "text": "Split ring", "is_correct": true },
+        { "option_id": 3, "text": "Brushes", "is_correct": false },
+        { "option_id": 4, "text": "Magnet", "is_correct": false }
+      ],
+      "answer": "Split ring"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "MCB stands for ________.",
+      "options": [
+        { "option_id": 1, "text": "Main Circuit Board", "is_correct": false },
+        { "option_id": 2, "text": "Miniature Circuit Breaker", "is_correct": true },
+        { "option_id": 3, "text": "Maximum Current Breaker", "is_correct": false },
+        { "option_id": 4, "text": "Magnetic Circuit Breaker", "is_correct": false }
+      ],
+      "answer": "Miniature Circuit Breaker"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The melting point of a fuse wire must be ________.",
+      "options": [
+        { "option_id": 1, "text": "High", "is_correct": false },
+        { "option_id": 2, "text": "Low", "is_correct": true },
+        { "option_id": 3, "text": "Very high", "is_correct": false },
+        { "option_id": 4, "text": "Infinite", "is_correct": false }
+      ],
+      "answer": "Low"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Heat energy produced in a resistor is given by the formula ________.",
+      "options": [
+        { "option_id": 1, "text": "H = IRt", "is_correct": false },
+        { "option_id": 2, "text": "H = I^2Rt", "is_correct": true },
+        { "option_id": 3, "text": "H = VIt^2", "is_correct": false },
+        { "option_id": 4, "text": "H = V^2/R", "is_correct": false }
+      ],
+      "answer": "H = I^2Rt"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The magnetic field produced by a straight current-carrying conductor consists of ________.",
+      "options": [
+        { "option_id": 1, "text": "Parallel lines", "is_correct": false },
+        { "option_id": 2, "text": "Concentric circles", "is_correct": true },
+        { "option_id": 3, "text": "Elliptical loops", "is_correct": false },
+        { "option_id": 4, "text": "Random curves", "is_correct": false }
+      ],
+      "answer": "Concentric circles"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What happens to the magnetic field if the current in a wire is increased?",
+      "options": [
+        { "option_id": 1, "text": "Decreases", "is_correct": false },
+        { "option_id": 2, "text": "Increases", "is_correct": true },
+        { "option_id": 3, "text": "Remains same", "is_correct": false },
+        { "option_id": 4, "text": "Becomes zero", "is_correct": false }
+      ],
+      "answer": "Increases"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which scientist discovered the heating effect of electric current?",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "Joule", "is_correct": true },
+        { "option_id": 3, "text": "Ohm", "is_correct": false },
+        { "option_id": 4, "text": "Volta", "is_correct": false }
+      ],
+      "answer": "Joule"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "The potential difference across the live and neutral wires is 220V. The potential of the earth wire is ________.",
+      "options": [
+        { "option_id": 1, "text": "220V", "is_correct": false },
+        { "option_id": 2, "text": "110V", "is_correct": false },
+        { "option_id": 3, "text": "0V", "is_correct": true },
+        { "option_id": 4, "text": "Infinite", "is_correct": false }
+      ],
+      "answer": "0V"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "An electric bulb has a filament made of ________.",
+      "options": [
+        { "option_id": 1, "text": "Copper", "is_correct": false },
+        { "option_id": 2, "text": "Platinum", "is_correct": false },
+        { "option_id": 3, "text": "Tungsten", "is_correct": true },
+        { "option_id": 4, "text": "Silver", "is_correct": false }
+      ],
+      "answer": "Tungsten"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The process of generating current in a coil due to relative motion between the coil and a magnet is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Electromagnetic Induction", "is_correct": true },
+        { "option_id": 2, "text": "Electric Motor effect", "is_correct": false },
+        { "option_id": 3, "text": "Heating effect", "is_correct": false },
+        { "option_id": 4, "text": "Chemical effect", "is_correct": false }
+      ],
+      "answer": "Electromagnetic Induction"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "A solenoid is a coil of many circular turns of ________.",
+      "options": [
+        { "option_id": 1, "text": "Insulated copper wire", "is_correct": true },
+        { "option_id": 2, "text": "Bare copper wire", "is_correct": false },
+        { "option_id": 3, "text": "Aluminum foil", "is_correct": false },
+        { "option_id": 4, "text": "Iron rod", "is_correct": false }
+      ],
+      "answer": "Insulated copper wire"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "When current passes through a solenoid, one end acts as a north pole and the other as a ________.",
+      "options": [
+        { "option_id": 1, "text": "East pole", "is_correct": false },
+        { "option_id": 2, "text": "South pole", "is_correct": true },
+        { "option_id": 3, "text": "North pole", "is_correct": false },
+        { "option_id": 4, "text": "Neutral pole", "is_correct": false }
+      ],
+      "answer": "South pole"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "If the current in a wire flows upwards, the direction of magnetic field lines is ________.",
+      "options": [
+        { "option_id": 1, "text": "Clockwise", "is_correct": false },
+        { "option_id": 2, "text": "Anticlockwise", "is_correct": true },
+        { "option_id": 3, "text": "Straight", "is_correct": false },
+        { "option_id": 4, "text": "Downwards", "is_correct": false }
+      ],
+      "answer": "Anticlockwise"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of these is not a good conductor of electricity?",
+      "options": [
+        { "option_id": 1, "text": "Copper", "is_correct": false },
+        { "option_id": 2, "text": "Iron", "is_correct": false },
+        { "option_id": 3, "text": "Plastic", "is_correct": true },
+        { "option_id": 4, "text": "Silver", "is_correct": false }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The intensity of the magnetic field is expressed in units of ________.",
+      "options": [
+        { "option_id": 1, "text": "Volt", "is_correct": false },
+        { "option_id": 2, "text": "Oersted", "is_correct": true },
+        { "option_id": 3, "text": "Ampere", "is_correct": false },
+        { "option_id": 4, "text": "Ohm", "is_correct": false }
+      ],
+      "answer": "Oersted"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Short circuit occurs when ________.",
+      "options": [
+        { "option_id": 1, "text": "Resistance is high", "is_correct": false },
+        { "option_id": 2, "text": "Live and neutral wires touch", "is_correct": true },
+        { "option_id": 3, "text": "Current is zero", "is_correct": false },
+        { "option_id": 4, "text": "Voltage is zero", "is_correct": false }
+      ],
+      "answer": "Live and neutral wires touch"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "In an electric motor, the direction of current in the coil reverses every ________.",
+      "options": [
+        { "option_id": 1, "text": "Full rotation", "is_correct": false },
+        { "option_id": 2, "text": "Half rotation", "is_correct": true },
+        { "option_id": 3, "text": "Quarter rotation", "is_correct": false },
+        { "option_id": 4, "text": "Two rotations", "is_correct": false }
+      ],
+      "answer": "Half rotation"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "AC generator uses ________ to conduct current.",
+      "options": [
+        { "option_id": 1, "text": "Split rings", "is_correct": false },
+        { "option_id": 2, "text": "Slip rings", "is_correct": true },
+        { "option_id": 3, "text": "Commutator", "is_correct": false },
+        { "option_id": 4, "text": "Fuse", "is_correct": false }
+      ],
+      "answer": "Slip rings"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "DC generator uses ________ to produce unidirectional current.",
+      "options": [
+        { "option_id": 1, "text": "Slip rings", "is_correct": false },
+        { "option_id": 2, "text": "Split ring", "is_correct": true },
+        { "option_id": 3, "text": "Galvanometer", "is_correct": false },
+        { "option_id": 4, "text": "Resistor", "is_correct": false }
+      ],
+      "answer": "Split ring"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "The direction of magnetic field around a straight conductor depends on ________.",
+      "options": [
+        { "option_id": 1, "text": "Length of wire", "is_correct": false },
+        { "option_id": 2, "text": "Thickness of wire", "is_correct": false },
+        { "option_id": 3, "text": "Direction of current", "is_correct": true },
+        { "option_id": 4, "text": "Material of wire", "is_correct": false }
+      ],
+      "answer": "Direction of current"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Overloading happens when ________.",
+      "options": [
+        { "option_id": 1, "text": "Current is low", "is_correct": false },
+        { "option_id": 2, "text": "Many appliances are used simultaneously", "is_correct": true },
+        { "option_id": 3, "text": "Fuse is used", "is_correct": false },
+        { "option_id": 4, "text": "Circuit is open", "is_correct": false }
+      ],
+      "answer": "Many appliances are used simultaneously"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "AC current is ________.",
+      "options": [
+        { "option_id": 1, "text": "Non-oscillatory", "is_correct": false },
+        { "option_id": 2, "text": "Oscillatory", "is_correct": true },
+        { "option_id": 3, "text": "Unidirectional", "is_correct": false },
+        { "option_id": 4, "text": "Static", "is_correct": false }
+      ],
+      "answer": "Oscillatory"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Direct current flows in ________.",
+      "options": [
+        { "option_id": 1, "text": "Two directions", "is_correct": false },
+        { "option_id": 2, "text": "One direction", "is_correct": true },
+        { "option_id": 3, "text": "Sinusoidal manner", "is_correct": false },
+        { "option_id": 4, "text": "Random manner", "is_correct": false }
+      ],
+      "answer": "One direction"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "If current in a solenoid is increased, the magnetic field ________.",
+      "options": [
+        { "option_id": 1, "text": "Decreases", "is_correct": false },
+        { "option_id": 2, "text": "Increases", "is_correct": true },
+        { "option_id": 3, "text": "Remains same", "is_correct": false },
+        { "option_id": 4, "text": "Vanishes", "is_correct": false }
+      ],
+      "answer": "Increases"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "A galvanometer can be used to measure ________.",
+      "options": [
+        { "option_id": 1, "text": "Voltage only", "is_correct": false },
+        { "option_id": 2, "text": "Small electrical currents", "is_correct": true },
+        { "option_id": 3, "text": "Resistance", "is_correct": false },
+        { "option_id": 4, "text": "Power", "is_correct": false }
+      ],
+      "answer": "Small electrical currents"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The inner surface of the split rings in a motor has ________ coating.",
+      "options": [
+        { "option_id": 1, "text": "Conductive", "is_correct": false },
+        { "option_id": 2, "text": "Resistive/Insulating", "is_correct": true },
+        { "option_id": 3, "text": "Magnetic", "is_correct": false },
+        { "option_id": 4, "text": "Slippery", "is_correct": false }
+      ],
+      "answer": "Resistive/Insulating"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define electrical power.",
+      "answer": "Electrical power is the rate at which electrical energy is used or consumed in an electric circuit."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the formula for electrical power in terms of V and I?",
+      "answer": "The formula for electrical power is P = V × I, where V is potential difference and I is current."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is Joule's Law of Heating?",
+      "answer": "Joule's Law of Heating states that the heat produced in a resistor is directly proportional to the square of current (I^2), resistance (R), and time (t)."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Write the formula for heat produced according to Joule's Law.",
+      "answer": "The formula is H = I^2 × R × t."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is 1 unit of electricity?",
+      "answer": "1 unit of electricity is equal to 1 kilowatt-hour (kWh), which is the energy consumed by a 1000 Watt appliance in 1 hour."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why is tungsten used in electric bulbs?",
+      "answer": "Tungsten is used because it has a very high melting point and can emit light when heated to high temperatures without melting."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the function of a fuse in a circuit?",
+      "answer": "A fuse protects the circuit and appliances by melting and breaking the circuit when excessive current flows through it."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the potential difference between live and neutral wires in India?",
+      "answer": "The potential difference is 220 Volts."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is a short circuit?",
+      "answer": "A short circuit occurs when the live and neutral wires come in direct contact, causing a very large current to flow."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is overloading?",
+      "answer": "Overloading occurs when too many electrical appliances are used simultaneously, drawing excessive current from the supply."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "State the Right Hand Thumb Rule.",
+      "answer": "If a current-carrying conductor is held in the right hand with the thumb pointing in the direction of current, the curled fingers show the direction of magnetic field lines."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is a solenoid?",
+      "answer": "A solenoid is a coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How does the magnetic field inside a solenoid look like?",
+      "answer": "The magnetic field lines inside a solenoid are parallel straight lines, indicating a uniform magnetic field."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is Fleming's Left Hand Rule?",
+      "answer": "It states that if the thumb, index, and middle fingers of the left hand are perpendicular to each other, with index pointing to magnetic field and middle to current, the thumb shows the direction of force."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the principle of an electric motor?",
+      "answer": "An electric motor works on the principle that a current-carrying conductor placed in a magnetic field experiences a force."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the function of the split ring (commutator) in a motor?",
+      "answer": "The split ring reverses the direction of current in the coil every half rotation to maintain unidirectional rotation."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is electromagnetic induction?",
+      "answer": "It is the process of inducing an electric current in a coil by changing the magnetic field around it."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "State Faraday's Law of Induction.",
+      "answer": "Whenever the number of magnetic lines of force passing through a coil changes, current is induced in the coil."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is Fleming's Right Hand Rule?",
+      "answer": "It states that if the thumb, index, and middle fingers of the right hand are perpendicular, with thumb pointing to motion and index to magnetic field, the middle finger shows induced current direction."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the difference between AC and DC?",
+      "answer": "AC (Alternating Current) changes direction periodically, while DC (Direct Current) flows in one direction only."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the frequency of AC in India?",
+      "answer": "The frequency of AC in India is 50 Hz."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is an electric generator?",
+      "answer": "An electric generator is a device that converts mechanical energy into electrical energy."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the function of carbon brushes in a motor/generator?",
+      "answer": "Carbon brushes make sliding contact with the rotating rings to transfer current to or from the external circuit."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why is nichrome used in heaters?",
+      "answer": "Nichrome is used because it has high resistivity and does not oxidize (burn) easily at high temperatures."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the earth wire?",
+      "answer": "The earth wire provides a low-resistance path for leakage current to the ground, protecting users from electric shock."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What does '1 unit' of electricity mean?",
+      "answer": "1 unit means 1 kWh of electrical energy consumed."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Calculate the power if V = 220V and I = 0.5A.",
+      "answer": "Power P = V x I = 220 x 0.5 = 110 W."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What happens to the magnetic field if the current in a straight wire is doubled?",
+      "answer": "The magnetic field strength doubles."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What happens to the magnetic field as distance from the wire increases?",
+      "answer": "The magnetic field decreases as distance increases."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Who introduced the concept of magnetic field lines?",
+      "answer": "Michael Faraday."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Can a magnetic field exist without an electric current (in context of electromagnets)?",
+      "answer": "No, for an electromagnet, the magnetic field exists only as long as current flows."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What determines the polarity of a solenoid?",
+      "answer": "The direction of current flow determines the polarity (Clockwise face is South, Anticlockwise face is North)."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "When is the force on a conductor in a magnetic field maximum?",
+      "answer": "The force is maximum when the conductor is perpendicular to the magnetic field."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "When is the force on a conductor in a magnetic field minimum?",
+      "answer": "The force is minimum (zero) when the conductor is parallel to the magnetic field."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is a galvanometer used for?",
+      "answer": "It is used to detect the presence and direction of small electric currents."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How can you induce current in a coil without a battery?",
+      "answer": "By moving a magnet inside or near the coil, or by changing current in a nearby coil."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the difference between slip rings and split rings?",
+      "answer": "Slip rings maintain continuous contact (used in AC), while split rings reverse connections every half turn (used in DC)."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why is AC preferred over DC for long-distance transmission?",
+      "answer": "AC can be transmitted with minimum power loss compared to DC."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of magnetic field strength?",
+      "answer": "Tesla (T) or Oersted (non-SI)."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is MCB?",
+      "answer": "Miniature Circuit Breaker, a switch that automatically turns off when current exceeds a limit."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why do we use an inert gas in bulbs?",
+      "answer": "Nitrogen or Argon is used to prevent the tungsten filament from oxidizing and burning out."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the relation between heat produced and resistance?",
+      "answer": "Heat produced is directly proportional to resistance (H ∝ R) if I and t are constant."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the relation between heat produced and time?",
+      "answer": "Heat produced is directly proportional to time (H ∝ t)."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Name two devices based on the heating effect of current.",
+      "answer": "Electric iron and electric toaster."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Name two devices based on the magnetic effect of current.",
+      "answer": "Electric bell and electric motor."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What does a straight line in the magnetic field of a solenoid indicate?",
+      "answer": "It indicates a uniform magnetic field."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What happens if you move a magnet faster inside a coil?",
+      "answer": "The induced current increases (deflection in galvanometer increases)."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Can a stationary magnet induce current in a stationary coil?",
+      "answer": "No, there must be relative motion or a changing magnetic field."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the function of the axle in a motor?",
+      "answer": "The axle rotates to transfer mechanical energy to the external device."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Which rule helps to find the direction of magnetic field around a wire?",
+      "answer": "Right Hand Thumb Rule."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Explain the heating effect of electric current. Derive Joule's Law.",
+      "answer": "When current flows through a resistor, work is done to overcome resistance. This work is converted into heat. Work W = V x Q. Since Q = I x t and V = I x R (Ohm's Law), W = (IR) x (It) = I^2Rt. This energy is dissipated as heat H. Thus, H = I^2Rt. This is Joule's Law, stating heat is proportional to square of current, resistance, and time."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Describe the construction and working of an electric motor.",
+      "answer": "An electric motor has a rectangular coil placed between two magnet poles. The ends are connected to a split ring commutator and brushes. When current flows, forces act on the arms (e.g., AB down, CD up) according to Fleming's Left Hand Rule, creating a torque. The coil rotates. The split ring reverses current every half turn, ensuring continuous rotation in the same direction."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Explain the construction and working of an AC electric generator.",
+      "answer": "An AC generator consists of a coil rotated in a magnetic field. The ends are connected to two full slip rings with brushes. As the coil rotates, the magnetic flux changes, inducing current (Faraday's Law). The direction changes every half rotation (Fleming's Right Hand Rule), producing Alternating Current (AC) in the external circuit."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Explain Oersted's experiment and its conclusion.",
+      "answer": "Oersted placed a magnetic needle near a current-carrying wire. When current flowed, the needle deflected. Reversing the current reversed the deflection. This proved that an electric current produces a magnetic field around it, establishing the link between electricity and magnetism."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Explain the Right Hand Thumb Rule with a diagram description.",
+      "answer": "Imagine holding a current-carrying conductor in your right hand such that the thumb points in the direction of the current. Then, the direction in which your fingers curl around the conductor gives the direction of the magnetic field lines. This rule helps determine the circular magnetic field around a straight wire."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Describe the magnetic field produced by a current-carrying solenoid.",
+      "answer": "A solenoid is a coil with many turns. When current flows, the magnetic field pattern resembles that of a bar magnet. Inside the solenoid, field lines are parallel, indicating a uniform field. One end acts as North and the other as South. The field strength depends on the current and number of turns."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Explain Fleming's Left Hand Rule.",
+      "answer": "Stretch the thumb, index finger, and middle finger of the left hand mutually perpendicular. If the index finger points to the Magnetic Field and the middle finger to the Current, then the Thumb points to the direction of the Force (Motion) on the conductor. This rule is used for electric motors."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Explain Fleming's Right Hand Rule.",
+      "answer": "Stretch the thumb, index, and middle fingers of the right hand perpendicular to each other. If the index finger points to the Magnetic Field and the thumb points to the Motion of the conductor, then the Middle finger indicates the direction of the Induced Current. This rule is used for generators."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Differentiate between AC and DC current.",
+      "answer": "AC (Alternating Current) changes its magnitude and direction periodically (oscillatory). It is used for home supply and long-distance transmission. DC (Direct Current) flows in one direction with constant or variable magnitude (non-oscillatory). It is used in batteries and electronics. AC frequency in India is 50Hz; DC frequency is 0."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Explain the concept of overloading and short-circuiting.",
+      "answer": "Overloading happens when many appliances draw more current than the circuit's capacity, potentially melting the fuse. Short-circuiting happens when live and neutral wires touch due to damaged insulation, reducing resistance to near zero and causing a massive current surge, sparks, and fire."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "Explain the working of a fuse.",
+      "answer": "A fuse is a safety device made of a wire with a low melting point (like lead-tin alloy). It is connected in series with the live wire. If current exceeds a safe limit (due to fault or overload), the heat produced (I^2Rt) melts the wire, breaking the circuit and preventing damage to appliances or fire."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Discuss Faraday's experiment on electromagnetic induction.",
+      "answer": "Faraday moved a magnet inside a coil connected to a galvanometer. He observed a deflection, indicating induced current. The deflection occurred only during motion. Reversing motion reversed the current. He also showed that changing current in one coil induces current in a nearby coil. This proved a changing magnetic field induces current."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Compare Electric Motor and Electric Generator.",
+      "answer": "A Motor converts electrical energy to mechanical energy; a Generator converts mechanical to electrical. Motors use Fleming's Left Hand Rule; Generators use Fleming's Right Hand Rule. Motors use split rings (DC) or slip rings (AC motor); Generators use split rings (DC) or slip rings (AC). Motors drive fans/mixers; Generators produce power."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "Calculate heat produced: R=9 ohms, Heat=400J/s. Find V.",
+      "answer": "Given P (Power) = Heat/time = 400 J/s = 400 W. R = 9 ohms. Formula P = V^2/R. So, 400 = V^2/9. V^2 = 3600. V = sqrt(3600) = 60 Volts."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Calculate power and heat: 6m wire, R=22 ohm, V=220V. Cut in half. Compare power.",
+      "answer": "Whole wire: P = V^2/R = 220^2/22 = 2200 W. Half wire: Length halves, so Resistance halves. New R = 11 ohm. New Power P' = 220^2/11 = 4400 W. Cutting the wire increases power and heat produced."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Explain the magnetic field due to a circular loop.",
+      "answer": "Current in a circular loop creates magnetic field lines that are concentric circles around the wire. Near the center of the loop, the lines become straighter and parallel, indicating a strong, uniform field. The direction can be found using the Right Hand Thumb Rule. The field strength depends on current and number of turns."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "What are the precautions to be taken while using electricity?",
+      "answer": "Use switches/plugs properly. Don't touch with wet hands. Use fuses/MCBs of correct rating. Ensure proper earthing. Keep connections tight. Don't overload sockets. Replace damaged wires immediately. Switch off mains during maintenance."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "Why does a solenoid act like a magnet?",
+      "answer": "When current flows in a solenoid, the magnetic fields of individual loops add up. The field lines inside run parallel along the axis, and outside they curve from one end to the other, creating North and South poles. This field pattern is identical to a bar magnet."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "Describe the force on a current-carrying conductor in a magnetic field.",
+      "answer": "When a current-carrying conductor is placed in a magnetic field, it experiences a mechanical force. This is because the magnetic field produced by the current interacts with the external magnetic field. The force is maximum when the conductor is perpendicular to the field. Its direction is given by Fleming's Left Hand Rule."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Calculate units: 100W bulb used for 10 hours.",
+      "answer": "Power P = 100 W = 0.1 kW. Time t = 10 hours. Energy = P x t = 0.1 kW x 10 h = 1 kWh. Since 1 kWh = 1 Unit, the energy consumed is 1 Unit."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "Explain the role of the commutator in a DC motor.",
+      "answer": "The commutator consists of split rings. It reverses the direction of current flowing through the coil every half rotation. When the coil passes the vertical position, the brushes cross the gap in the split rings, switching contacts. This ensures the torque continues in the same direction, allowing continuous rotation."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "How does a galvanometer work?",
+      "answer": "A galvanometer works on the principle of a motor. A coil is placed between magnetic poles. When current flows, a torque acts on it, rotating the coil. This rotation is opposed by a spring. The angle of rotation is proportional to the current. A pointer attached to the coil indicates the current on a scale."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "Explain the function of earthing.",
+      "answer": "Earthing connects the metal body of appliances to the ground via a wire. If a live wire touches the metal body due to a fault, the charge flows to the earth through this low-resistance path instead of passing through a user. This prevents severe electric shock."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "Solve: Iron 1100W/330W at 220V. Find current and resistance.",
+      "answer": "Case A (1100W): I = P/V = 1100/220 = 5A. R = V/I = 220/5 = 44 ohms. Case B (330W): I = 330/220 = 1.5A. R = 220/1.5 = 146.67 ohms."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "Why do magnetic field lines produced by a straight wire form concentric circles?",
+      "answer": "The magnetic field is symmetric around the wire. At any point equidistant from the wire, the field strength is the same. The direction is tangential. The locus of points with the same field magnitude forms a circle. Thus, the field lines are concentric circles centered on the wire."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "What is the difference between an AC generator and a DC generator?",
+      "answer": "The main structural difference is the rings. An AC generator uses full slip rings, which maintain a connection that allows the current direction to change in the external circuit. A DC generator uses a split-ring commutator, which reverses internal connections to keep the external current unidirectional."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "Why is electrical power transmitted at high voltage?",
+      "answer": "Power loss in transmission lines is due to heating (I^2R). To minimize this, current (I) must be kept low. Since P = VI, for a given power, low current requires high voltage. Thus, transmitting at high voltage reduces current and minimizes energy loss."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "Explain the energy transformation in a hydroelectric power plant.",
+      "answer": "Water stored at a height has Potential Energy. When it falls, this converts to Kinetic Energy. The flowing water hits a turbine, converting Kinetic Energy to Mechanical Energy. The turbine rotates a generator, which converts Mechanical Energy into Electrical Energy."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "Calculate cost: 1100W iron used 2 hours daily for April. Rate Rs 5/unit.",
+      "answer": "Power = 1.1 kW. Daily time = 2 hrs. Daily energy = 2.2 kWh. Days in April = 30. Total energy = 2.2 x 30 = 66 units. Cost = 66 x 5 = Rs 330."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "Explain why electric bulb filaments are spirally wound.",
+      "answer": "Winding the filament into a spiral (coiled coil) increases its length within a small space. This increases resistance (R is proportional to length). Higher resistance generates more heat and light. It also reduces heat loss by convection, improving efficiency."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "Discuss the magnetic field of earth.",
+      "answer": "The Earth behaves like a giant magnet with its magnetic South Pole near the geographic North Pole and magnetic North Pole near the geographic South Pole. This field protects earth from solar wind and is used for navigation with compasses."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "Why don't we get a shock from a battery cell?",
+      "answer": "A standard battery cell has a very low voltage (e.g., 1.5V to 9V). The human body has high resistance (thousands of ohms). According to Ohm's law, I = V/R. The resulting current is extremely small, far below the threshold to cause a shock."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "Explain the factors affecting the strength of an electromagnet.",
+      "answer": "The strength depends on: 1) Number of turns in the coil (more turns = stronger), 2) Current flowing (more current = stronger), and 3) Nature of core material (soft iron core increases strength significantly)."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "What is the function of the soft iron core in a galvanometer?",
+      "answer": "The soft iron core concentrates the magnetic field lines through the coil. It increases the magnetic field strength and makes it radial, ensuring the scale is linear and torque is constant for a given current."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Solve: Two bulbs 100W and 60W in parallel at 220V. Find total current.",
+      "answer": "Current in 100W: I1 = 100/220 = 0.45A. Current in 60W: I2 = 60/220 = 0.27A. Total current I = I1 + I2 = 0.45 + 0.27 = 0.72 A."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "Explain why connecting many appliances to one socket is dangerous.",
+      "answer": "Connecting many appliances increases the total current drawn from that single point (overloading). This excessive current heats up the wires and the socket beyond their capacity, which can melt insulation and cause a fire."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "Why is the magnetic field stronger inside a solenoid than outside?",
+      "answer": "Inside the solenoid, the field lines from all turns reinforce each other and are parallel. Outside, the field lines spread out and cancel each other to some extent, making the field much weaker."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "How can you reverse the direction of rotation of an electric motor?",
+      "answer": "You can reverse the direction by either reversing the direction of the current in the coil OR by reversing the direction of the magnetic field (swapping poles). Doing both simultaneously will keep the direction same."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "What is the significance of 50Hz frequency?",
+      "answer": "It means the alternating current completes 50 cycles per second. The polarity changes 100 times a second. This standardization allows appliances to be designed for specific timing and efficiency."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "Explain the heating element design in an electric iron.",
+      "answer": "An electric iron has a heating element made of nichrome placed between mica sheets. Mica provides electrical insulation but conducts heat. This ensures the base plate gets hot without becoming electrically live."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "Why is copper used for connecting wires?",
+      "answer": "Copper has very low resistivity (good conductor). This minimizes heat loss (I^2R) and voltage drop in the wires, ensuring efficient transmission of energy. It is also ductile and relatively affordable."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "Describe the experiment to show force on a current carrying conductor.",
+      "answer": "A wire is suspended between poles of a horseshoe magnet. When current flows, the wire swings (moves), indicating a force. Reversing current reverses the swing direction. This demonstrates that a magnetic field exerts force on a moving charge."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "Explain the term 'Solenoid type coil' in a bulb.",
+      "answer": "The filament is not a straight wire but a coiled coil (a coil wound into another coil). This structure acts like a solenoid physically but functions as a resistor. It compacts a long length of wire to increase resistance and concentrate heat for light emission."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "Solve: Who uses more energy? 500W TV for 30min or 600W heater for 20min?",
+      "answer": "TV: Energy = 500W * 30/60 h = 250 Wh. Heater: Energy = 600W * 20/60 h = 200 Wh. The TV set uses more energy."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "Why does a compass needle deflect near a current wire?",
+      "answer": "The current produces a magnetic field around the wire. This magnetic field interacts with the magnetic field of the compass needle, exerting a magnetic force (torque) that causes the needle to deflect and align with the wire's field."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "What is the role of the battery in a motor circuit?",
+      "answer": "The battery provides the potential difference required to drive the current through the coil. This electrical energy is then converted into mechanical energy by the motor."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "Explain why MCBs are preferred over fuses.",
+      "answer": "MCBs (Miniature Circuit Breakers) are switches that trip (turn off) during overload. Unlike fuses which melt and must be replaced, MCBs can simply be reset (switched on) after fixing the fault. They are more sensitive and faster-acting."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "Discuss the safety measures in household wiring.",
+      "answer": "Safety measures include: 1. Use of fuse/MCB. 2. Proper earthing of metal appliances. 3. Good quality insulation on wires. 4. Use of 3-pin plugs. 5. Keeping water away from boards. 6. Periodic checking of wiring."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "How is magnetism used in medicine (MRI)?",
+      "answer": "Magnetic Resonance Imaging (MRI) uses strong magnetic fields and radio waves to generate images of organs. It relies on the magnetic properties of hydrogen protons in the body. It is a non-invasive diagnostic tool."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "Explain the principle of a transformer (briefly).",
+      "answer": "A transformer works on mutual induction. An alternating current in the primary coil creates a changing magnetic flux, which links to the secondary coil, inducing a voltage in it. It is used to step up or step down voltage levels."
+    }
+  ]
+}

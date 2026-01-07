@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.20",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Activity Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the first activity in this chapter?",
+      "options": [
+        { "option_id": 1, "text": "Colour the rainbow", "is_correct": false },
+        { "option_id": 2, "text": "Arrange words in alphabetical order", "is_correct": true },
+        { "option_id": 3, "text": "Write a story", "is_correct": false },
+        { "option_id": 4, "text": "Sing a poem", "is_correct": false }
+      ],
+      "answer": "Arrange words in alphabetical order"
+    }
+  ]
+}

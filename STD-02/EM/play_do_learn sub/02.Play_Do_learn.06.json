@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.06",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Need Based Activities"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Why should children work in groups during classroom decoration?",
+      "options": [
+        { "option_id": 1, "text": "To create noise", "is_correct": false },
+        { "option_id": 2, "text": "To share work and cooperate", "is_correct": true },
+        { "option_id": 3, "text": "To finish late", "is_correct": false },
+        { "option_id": 4, "text": "To avoid work", "is_correct": false }
+      ],
+      "answer": "To share work and cooperate"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which material is used for Rangoli decoration?",
+      "options": [
+        { "option_id": 1, "text": "Leaves", "is_correct": true },
+        { "option_id": 2, "text": "Plastic", "is_correct": false },
+        { "option_id": 3, "text": "Metal", "is_correct": false },
+        { "option_id": 4, "text": "Glass", "is_correct": false }
+      ],
+      "answer": "Leaves"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which special day is celebrated on 5 September?",
+      "options": [
+        { "option_id": 1, "text": "Children's Day", "is_correct": false },
+        { "option_id": 2, "text": "Teacher's Day", "is_correct": true },
+        { "option_id": 3, "text": "Independence Day", "is_correct": false },
+        { "option_id": 4, "text": "Republic Day", "is_correct": false }
+      ],
+      "answer": "Teacher's Day"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which special day is celebrated on 14 November?",
+      "options": [
+        { "option_id": 1, "text": "Teacher's Day", "is_correct": false },
+        { "option_id": 2, "text": "Children's Day", "is_correct": true },
+        { "option_id": 3, "text": "Gandhi Jayanti", "is_correct": false },
+        { "option_id": 4, "text": "Phule Jayanti", "is_correct": false }
+      ],
+      "answer": "Children's Day"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What should children learn about small scale occupations?",
+      "options": [
+        { "option_id": 1, "text": "Ignore them", "is_correct": false },
+        { "option_id": 2, "text": "Respect and understand work", "is_correct": true },
+        { "option_id": 3, "text": "Avoid work", "is_correct": false },
+        { "option_id": 4, "text": "Laugh at workers", "is_correct": false }
+      ],
+      "answer": "Respect and understand work"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which occupation uses an iron?",
+      "options": [
+        { "option_id": 1, "text": "Tailor", "is_correct": true },
+        { "option_id": 2, "text": "Farmer", "is_correct": false },
+        { "option_id": 3, "text": "Carpenter", "is_correct": false },
+        { "option_id": 4, "text": "Florist", "is_correct": false }
+      ],
+      "answer": "Tailor"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What should children observe during rainfall?",
+      "options": [
+        { "option_id": 1, "text": "Clouds and rain", "is_correct": true },
+        { "option_id": 2, "text": "Books only", "is_correct": false },
+        { "option_id": 3, "text": "Television", "is_correct": false },
+        { "option_id": 4, "text": "Games", "is_correct": false }
+      ],
+      "answer": "Clouds and rain"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What happens due to heavy rains?",
+      "options": [
+        { "option_id": 1, "text": "Floods", "is_correct": true },
+        { "option_id": 2, "text": "Fire", "is_correct": false },
+        { "option_id": 3, "text": "Earthquake", "is_correct": false },
+        { "option_id": 4, "text": "Drought", "is_correct": false }
+      ],
+      "answer": "Floods"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which slogan shows the importance of water?",
+      "options": [
+        { "option_id": 1, "text": "Water is Life", "is_correct": true },
+        { "option_id": 2, "text": "Water is Fun", "is_correct": false },
+        { "option_id": 3, "text": "Water is Heavy", "is_correct": false },
+        { "option_id": 4, "text": "Water is Dirty", "is_correct": false }
+      ],
+      "answer": "Water is Life"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is rainwater harvesting?",
+      "options": [
+        { "option_id": 1, "text": "Saving rainwater", "is_correct": true },
+        { "option_id": 2, "text": "Wasting water", "is_correct": false },
+        { "option_id": 3, "text": "Throwing water", "is_correct": false },
+        { "option_id": 4, "text": "Cleaning water", "is_correct": false }
+      ],
+      "answer": "Saving rainwater"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which is the correct way to take water from a pot?",
+      "options": [
+        { "option_id": 1, "text": "Using a ladle", "is_correct": true },
+        { "option_id": 2, "text": "Using hands", "is_correct": false },
+        { "option_id": 3, "text": "Spilling water", "is_correct": false },
+        { "option_id": 4, "text": "Tilting pot", "is_correct": false }
+      ],
+      "answer": "Using a ladle"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is a natural calamity?",
+      "options": [
+        { "option_id": 1, "text": "Flood", "is_correct": true },
+        { "option_id": 2, "text": "Festival", "is_correct": false },
+        { "option_id": 3, "text": "Picnic", "is_correct": false },
+        { "option_id": 4, "text": "Game", "is_correct": false }
+      ],
+      "answer": "Flood"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which element is part of nature?",
+      "options": [
+        { "option_id": 1, "text": "Mountain", "is_correct": true },
+        { "option_id": 2, "text": "Chair", "is_correct": false },
+        { "option_id": 3, "text": "Table", "is_correct": false },
+        { "option_id": 4, "text": "Book", "is_correct": false }
+      ],
+      "answer": "Mountain"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Why should we store water carefully?",
+      "options": [
+        { "option_id": 1, "text": "To save water", "is_correct": true },
+        { "option_id": 2, "text": "To waste water", "is_correct": false },
+        { "option_id": 3, "text": "To dirty water", "is_correct": false },
+        { "option_id": 4, "text": "To spill water", "is_correct": false }
+      ],
+      "answer": "To save water"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which activity helps children learn about nature?",
+      "options": [
+        { "option_id": 1, "text": "Drawing nature pictures", "is_correct": true },
+        { "option_id": 2, "text": "Watching cartoons", "is_correct": false },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Playing video games", "is_correct": false }
+      ],
+      "answer": "Drawing nature pictures"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why is group work important?",
+      "answer": "It helps children learn cooperation."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name one material used for classroom decoration.",
+      "answer": "Leaves."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which day is celebrated as Teacher's Day?",
+      "answer": "5 September."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is World of Work?",
+      "answer": "It means learning about different occupations."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name one small scale occupation.",
+      "answer": "Tailoring."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why is water important?",
+      "answer": "Water is essential for life."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What causes floods?",
+      "answer": "Heavy rainfall."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is rainwater harvesting?",
+      "answer": "Collecting and storing rainwater."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name one correct method of storing water.",
+      "answer": "Using a clean covered pot."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is a natural calamity?",
+      "answer": "A natural disaster like flood or drought."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Name one element of nature.",
+      "answer": "Water."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why should we save water?",
+      "answer": "Water is limited and precious."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What activity helps understand rainfall?",
+      "answer": "Observing rain."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name one disaster shown in the chapter.",
+      "answer": "Flood."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What should children draw to learn about nature?",
+      "answer": "Pictures of natural elements."
+    }
+  ]
+}

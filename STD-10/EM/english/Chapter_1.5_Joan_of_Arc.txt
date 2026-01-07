@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.1.5",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Joan of Arc"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the author of the play 'Joan of Arc'?",
+      "options": [
+        { "option_id": 1, "text": "William Shakespeare", "is_correct": false },
+        { "option_id": 2, "text": "George Bernard Shaw", "is_correct": true },
+        { "option_id": 3, "text": "Ruskin Bond", "is_correct": false },
+        { "option_id": 4, "text": "Rabindranath Tagore", "is_correct": false }
+      ],
+      "answer": "George Bernard Shaw"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "George Bernard Shaw was an ________ playwright.",
+      "options": [
+        { "option_id": 1, "text": "Indian", "is_correct": false },
+        { "option_id": 2, "text": "American", "is_correct": false },
+        { "option_id": 3, "text": "Irish", "is_correct": true },
+        { "option_id": 4, "text": "English", "is_correct": false }
+      ],
+      "answer": "Irish"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "In which year did George Bernard Shaw win the Nobel Prize in Literature?",
+      "options": [
+        { "option_id": 1, "text": "1923", "is_correct": false },
+        { "option_id": 2, "text": "1925", "is_correct": true },
+        { "option_id": 3, "text": "1930", "is_correct": false },
+        { "option_id": 4, "text": "1950", "is_correct": false }
+      ],
+      "answer": "1925"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The war fought between England and France from 1337 to 1453 is known as ________.",
+      "options": [
+        { "option_id": 1, "text": "The Great War", "is_correct": false },
+        { "option_id": 2, "text": "The Hundred Years War", "is_correct": true },
+        { "option_id": 3, "text": "The Cold War", "is_correct": false },
+        { "option_id": 4, "text": "The French Revolution", "is_correct": false }
+      ],
+      "answer": "The Hundred Years War"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which French city was held by the English at the beginning of the play?",
+      "options": [
+        { "option_id": 1, "text": "Paris", "is_correct": false },
+        { "option_id": 2, "text": "Chinon", "is_correct": false },
+        { "option_id": 3, "text": "Orleans", "is_correct": true },
+        { "option_id": 4, "text": "Lorraine", "is_correct": false }
+      ],
+      "answer": "Orleans"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In which year is the play set?",
+      "options": [
+        { "option_id": 1, "text": "1337", "is_correct": false },
+        { "option_id": 2, "text": "1453", "is_correct": false },
+        { "option_id": 3, "text": "1429", "is_correct": true },
+        { "option_id": 4, "text": "1923", "is_correct": false }
+      ],
+      "answer": "1429"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who is Robert de Baudricourt?",
+      "options": [
+        { "option_id": 1, "text": "A French guard", "is_correct": false },
+        { "option_id": 2, "text": "A military officer", "is_correct": true },
+        { "option_id": 3, "text": "The King of France", "is_correct": false },
+        { "option_id": 4, "text": "Joan's father", "is_correct": false }
+      ],
+      "answer": "A military officer"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How old is Joan described to be in the play?",
+      "options": [
+        { "option_id": 1, "text": "15-16 years", "is_correct": false },
+        { "option_id": 2, "text": "17-18 years", "is_correct": true },
+        { "option_id": 3, "text": "20-21 years", "is_correct": false },
+        { "option_id": 4, "text": "25 years", "is_correct": false }
+      ],
+      "answer": "17-18 years"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does the word 'squire' mean?",
+      "options": [
+        { "option_id": 1, "text": "A low-ranking soldier", "is_correct": false },
+        { "option_id": 2, "text": "A person of high rank", "is_correct": true },
+        { "option_id": 3, "text": "A farmer", "is_correct": false },
+        { "option_id": 4, "text": "A servant", "is_correct": false }
+      ],
+      "answer": "A person of high rank"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who does Joan want to meet?",
+      "options": [
+        { "option_id": 1, "text": "The King of England", "is_correct": false },
+        { "option_id": 2, "text": "The Steward", "is_correct": false },
+        { "option_id": 3, "text": "The Dauphin", "is_correct": true },
+        { "option_id": 4, "text": "Her father", "is_correct": false }
+      ],
+      "answer": "The Dauphin"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the cost of the horse Joan wants?",
+      "options": [
+        { "option_id": 1, "text": "Ten francs", "is_correct": false },
+        { "option_id": 2, "text": "Sixteen francs", "is_correct": true },
+        { "option_id": 3, "text": "Twenty francs", "is_correct": false },
+        { "option_id": 4, "text": "Fifty francs", "is_correct": false }
+      ],
+      "answer": "Sixteen francs"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who is 'Polly' referring to in the play?",
+      "options": [
+        { "option_id": 1, "text": "The Steward", "is_correct": false },
+        { "option_id": 2, "text": "A servant", "is_correct": false },
+        { "option_id": 3, "text": "Monsieur de Poulengey", "is_correct": true },
+        { "option_id": 4, "text": "Robert de Baudricourt", "is_correct": false }
+      ],
+      "answer": "Monsieur de Poulengey"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does 'Dauphin' mean?",
+      "options": [
+        { "option_id": 1, "text": "A French general", "is_correct": false },
+        { "option_id": 2, "text": "The oldest son of the King of France", "is_correct": true },
+        { "option_id": 3, "text": "A type of weapon", "is_correct": false },
+        { "option_id": 4, "text": "A city in France", "is_correct": false }
+      ],
+      "answer": "The oldest son of the King of France"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the French word for 'Mr.' used in the text?",
+      "options": [
+        { "option_id": 1, "text": "Sir", "is_correct": false },
+        { "option_id": 2, "text": "Mister", "is_correct": false },
+        { "option_id": 3, "text": "Monsieur", "is_correct": true },
+        { "option_id": 4, "text": "Signor", "is_correct": false }
+      ],
+      "answer": "Monsieur"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does 'grimly' mean?",
+      "options": [
+        { "option_id": 1, "text": "Happily", "is_correct": false },
+        { "option_id": 2, "text": "Seriously", "is_correct": true },
+        { "option_id": 3, "text": "Loudly", "is_correct": false },
+        { "option_id": 4, "text": "Softly", "is_correct": false }
+      ],
+      "answer": "Seriously"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who calls Joan 'The Maid'?",
+      "options": [
+        { "option_id": 1, "text": "Robert", "is_correct": false },
+        { "option_id": 2, "text": "The soldiers", "is_correct": true },
+        { "option_id": 3, "text": "Her father", "is_correct": false },
+        { "option_id": 4, "text": "Poulengey", "is_correct": false }
+      ],
+      "answer": "The soldiers"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does 'plundering' mean?",
+      "options": [
+        { "option_id": 1, "text": "Playing", "is_correct": false },
+        { "option_id": 2, "text": "Farming", "is_correct": false },
+        { "option_id": 3, "text": "Looting", "is_correct": true },
+        { "option_id": 4, "text": "Building", "is_correct": false }
+      ],
+      "answer": "Looting"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "According to Joan, why are the French soldiers always beaten?",
+      "options": [
+        { "option_id": 1, "text": "They are weak", "is_correct": false },
+        { "option_id": 2, "text": "They fight to save their skins", "is_correct": true },
+        { "option_id": 3, "text": "They don't have weapons", "is_correct": false },
+        { "option_id": 4, "text": "They are outnumbered", "is_correct": false }
+      ],
+      "answer": "They fight to save their skins"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What does 'to save their skins' mean?",
+      "options": [
+        { "option_id": 1, "text": "To wear armor", "is_correct": false },
+        { "option_id": 2, "text": "To fight bravely", "is_correct": false },
+        { "option_id": 3, "text": "To save their lives", "is_correct": true },
+        { "option_id": 4, "text": "To save money", "is_correct": false }
+      ],
+      "answer": "To save their lives"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who beat the English at Montargis?",
+      "options": [
+        { "option_id": 1, "text": "Robert", "is_correct": false },
+        { "option_id": 2, "text": "The Dauphin", "is_correct": true },
+        { "option_id": 3, "text": "Joan", "is_correct": false },
+        { "option_id": 4, "text": "The Steward", "is_correct": false }
+      ],
+      "answer": "The Dauphin"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does the phrase 'wash one's hands off it' mean?",
+      "options": [
+        { "option_id": 1, "text": "To clean hands", "is_correct": false },
+        { "option_id": 2, "text": "To not take any responsibility for it", "is_correct": true },
+        { "option_id": 3, "text": "To finish a task", "is_correct": false },
+        { "option_id": 4, "text": "To start something new", "is_correct": false }
+      ],
+      "answer": "To not take any responsibility for it"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is a 'blockhead'?",
+      "options": [
+        { "option_id": 1, "text": "A wooden block", "is_correct": false },
+        { "option_id": 2, "text": "A smart person", "is_correct": false },
+        { "option_id": 3, "text": "A stupid person", "is_correct": true },
+        { "option_id": 4, "text": "A soldier", "is_correct": false }
+      ],
+      "answer": "A stupid person"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What does 'cowed' mean?",
+      "options": [
+        { "option_id": 1, "text": "Milking a cow", "is_correct": false },
+        { "option_id": 2, "text": "Brave", "is_correct": false },
+        { "option_id": 3, "text": "Frightened", "is_correct": true },
+        { "option_id": 4, "text": "Hungry", "is_correct": false }
+      ],
+      "answer": "Frightened"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is Chinon?",
+      "options": [
+        { "option_id": 1, "text": "A type of food", "is_correct": false },
+        { "option_id": 2, "text": "A city where the Royal family resided", "is_correct": true },
+        { "option_id": 3, "text": "A weapon", "is_correct": false },
+        { "option_id": 4, "text": "Joan's village", "is_correct": false }
+      ],
+      "answer": "A city where the Royal family resided"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who says 'Her words have put fire into me'?",
+      "options": [
+        { "option_id": 1, "text": "Robert", "is_correct": false },
+        { "option_id": 2, "text": "The Steward", "is_correct": false },
+        { "option_id": 3, "text": "Poulengey", "is_correct": true },
+        { "option_id": 4, "text": "Jack", "is_correct": false }
+      ],
+      "answer": "Poulengey"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What does 'obstinately' mean?",
+      "options": [
+        { "option_id": 1, "text": "In a stubborn and firm manner", "is_correct": true },
+        { "option_id": 2, "text": "Softly", "is_correct": false },
+        { "option_id": 3, "text": "Quickly", "is_correct": false },
+        { "option_id": 4, "text": "Happily", "is_correct": false }
+      ],
+      "answer": "In a stubborn and firm manner"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What dress does Joan ask for?",
+      "options": [
+        { "option_id": 1, "text": "A beautiful gown", "is_correct": false },
+        { "option_id": 2, "text": "A soldier's dress", "is_correct": true },
+        { "option_id": 3, "text": "A peasant's dress", "is_correct": false },
+        { "option_id": 4, "text": "A royal robe", "is_correct": false }
+      ],
+      "answer": "A soldier's dress"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a phrasal verb?",
+      "options": [
+        { "option_id": 1, "text": "call out", "is_correct": false },
+        { "option_id": 2, "text": "call up", "is_correct": false },
+        { "option_id": 3, "text": "call phone", "is_correct": true },
+        { "option_id": 4, "text": "call off", "is_correct": false }
+      ],
+      "answer": "call phone"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the noun form of 'succeed'?",
+      "options": [
+        { "option_id": 1, "text": "Successful", "is_correct": false },
+        { "option_id": 2, "text": "Successfully", "is_correct": false },
+        { "option_id": 3, "text": "Success", "is_correct": true },
+        { "option_id": 4, "text": "Succession", "is_correct": false }
+      ],
+      "answer": "Success"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the adjective form of 'courage'?",
+      "options": [
+        { "option_id": 1, "text": "Courageous", "is_correct": true },
+        { "option_id": 2, "text": "Encourage", "is_correct": false },
+        { "option_id": 3, "text": "Courageously", "is_correct": false },
+        { "option_id": 4, "text": "Discourage", "is_correct": false }
+      ],
+      "answer": "Courageous"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What does 'call off' mean?",
+      "options": [
+        { "option_id": 1, "text": "Announce", "is_correct": false },
+        { "option_id": 2, "text": "Visit", "is_correct": false },
+        { "option_id": 3, "text": "Cancel", "is_correct": true },
+        { "option_id": 4, "text": "Summon", "is_correct": false }
+      ],
+      "answer": "Cancel"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What does 'look into' mean?",
+      "options": [
+        { "option_id": 1, "text": "Search for", "is_correct": false },
+        { "option_id": 2, "text": "Investigate", "is_correct": true },
+        { "option_id": 3, "text": "Wait for", "is_correct": false },
+        { "option_id": 4, "text": "Ignore", "is_correct": false }
+      ],
+      "answer": "Investigate"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What does 'call for' mean?",
+      "options": [
+        { "option_id": 1, "text": "Summon or require", "is_correct": true },
+        { "option_id": 2, "text": "Visit", "is_correct": false },
+        { "option_id": 3, "text": "Cancel", "is_correct": false },
+        { "option_id": 4, "text": "Telephone", "is_correct": false }
+      ],
+      "answer": "Summon or require"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The adverb form of 'bright' is ________.",
+      "options": [
+        { "option_id": 1, "text": "Brighten", "is_correct": false },
+        { "option_id": 2, "text": "Brightly", "is_correct": true },
+        { "option_id": 3, "text": "Brightness", "is_correct": false },
+        { "option_id": 4, "text": "Brighter", "is_correct": false }
+      ],
+      "answer": "Brightly"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The verb form of 'thought' is ________.",
+      "options": [
+        { "option_id": 1, "text": "Thinking", "is_correct": false },
+        { "option_id": 2, "text": "Think", "is_correct": true },
+        { "option_id": 3, "text": "Thoughtful", "is_correct": false },
+        { "option_id": 4, "text": "Thoughtfully", "is_correct": false }
+      ],
+      "answer": "Think"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who says 'I am not so sure now'?",
+      "options": [
+        { "option_id": 1, "text": "Robert", "is_correct": false },
+        { "option_id": 2, "text": "Poulengey", "is_correct": true },
+        { "option_id": 3, "text": "Joan", "is_correct": false },
+        { "option_id": 4, "text": "The Steward", "is_correct": false }
+      ],
+      "answer": "Poulengey"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'Affirmative'?",
+      "options": [
+        { "option_id": 1, "text": "Positive", "is_correct": false },
+        { "option_id": 2, "text": "Assertive", "is_correct": false },
+        { "option_id": 3, "text": "Negative", "is_correct": true },
+        { "option_id": 4, "text": "Declarative", "is_correct": false }
+      ],
+      "answer": "Negative"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of these is a weapon used in the past?",
+      "options": [
+        { "option_id": 1, "text": "Rifle", "is_correct": false },
+        { "option_id": 2, "text": "Sword", "is_correct": true },
+        { "option_id": 3, "text": "Tank", "is_correct": false },
+        { "option_id": 4, "text": "Machine gun", "is_correct": false }
+      ],
+      "answer": "Sword"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of these is a weapon used nowadays?",
+      "options": [
+        { "option_id": 1, "text": "Bow and Arrow", "is_correct": false },
+        { "option_id": 2, "text": "Spear", "is_correct": false },
+        { "option_id": 3, "text": "Missile", "is_correct": true },
+        { "option_id": 4, "text": "Shield", "is_correct": false }
+      ],
+      "answer": "Missile"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is 'armour'?",
+      "options": [
+        { "option_id": 1, "text": "A weapon", "is_correct": false },
+        { "option_id": 2, "text": "Protective clothing of metal or leather", "is_correct": true },
+        { "option_id": 3, "text": "A type of horse", "is_correct": false },
+        { "option_id": 4, "text": "A rank in the army", "is_correct": false }
+      ],
+      "answer": "Protective clothing of metal or leather"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who says 'This girl is mad'?",
+      "options": [
+        { "option_id": 1, "text": "Robert", "is_correct": true },
+        { "option_id": 2, "text": "Poulengey", "is_correct": false },
+        { "option_id": 3, "text": "The Steward", "is_correct": false },
+        { "option_id": 4, "text": "The Dauphin", "is_correct": false }
+      ],
+      "answer": "Robert"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What does Joan say she will do to the English soldiers?",
+      "options": [
+        { "option_id": 1, "text": "Kill them all", "is_correct": false },
+        { "option_id": 2, "text": "Drive them away like sheep", "is_correct": true },
+        { "option_id": 3, "text": "Make them her friends", "is_correct": false },
+        { "option_id": 4, "text": "Join them", "is_correct": false }
+      ],
+      "answer": "Drive them away like sheep"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "How many men does Joan say are enough to go with her?",
+      "options": [
+        { "option_id": 1, "text": "Fifty", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": true },
+        { "option_id": 3, "text": "One hundred", "is_correct": false },
+        { "option_id": 4, "text": "Ten", "is_correct": false }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who is 'Jack' mentioned by Joan?",
+      "options": [
+        { "option_id": 1, "text": "John Godsave", "is_correct": false },
+        { "option_id": 2, "text": "John of Honecourt", "is_correct": true },
+        { "option_id": 3, "text": "Julian", "is_correct": false },
+        { "option_id": 4, "text": "Dick the Archer", "is_correct": false }
+      ],
+      "answer": "John of Honecourt"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What is the adjective form of 'harm'?",
+      "options": [
+        { "option_id": 1, "text": "Harmed", "is_correct": false },
+        { "option_id": 2, "text": "Harmful", "is_correct": true },
+        { "option_id": 3, "text": "Harmfully", "is_correct": false },
+        { "option_id": 4, "text": "Harming", "is_correct": false }
+      ],
+      "answer": "Harmful"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What does 'carry on' mean?",
+      "options": [
+        { "option_id": 1, "text": "Stop", "is_correct": false },
+        { "option_id": 2, "text": "Continue", "is_correct": true },
+        { "option_id": 3, "text": "Lift", "is_correct": false },
+        { "option_id": 4, "text": "Win", "is_correct": false }
+      ],
+      "answer": "Continue"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What does 'break out' mean (e.g., epidemic)?",
+      "options": [
+        { "option_id": 1, "text": "Start suddenly", "is_correct": true },
+        { "option_id": 2, "text": "Escape", "is_correct": false },
+        { "option_id": 3, "text": "End", "is_correct": false },
+        { "option_id": 4, "text": "Break into pieces", "is_correct": false }
+      ],
+      "answer": "Start suddenly"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the noun form of 'safe'?",
+      "options": [
+        { "option_id": 1, "text": "Safely", "is_correct": false },
+        { "option_id": 2, "text": "Save", "is_correct": false },
+        { "option_id": 3, "text": "Safety", "is_correct": true },
+        { "option_id": 4, "text": "Safer", "is_correct": false }
+      ],
+      "answer": "Safety"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Who is 'Dick' mentioned by Joan?",
+      "options": [
+        { "option_id": 1, "text": "Dick the Archer", "is_correct": true },
+        { "option_id": 2, "text": "Dick the Soldier", "is_correct": false },
+        { "option_id": 3, "text": "Dick the Squire", "is_correct": false },
+        { "option_id": 4, "text": "Dick the Steward", "is_correct": false }
+      ],
+      "answer": "Dick the Archer"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What does 'wavering' mean?",
+      "options": [
+        { "option_id": 1, "text": "Firm", "is_correct": false },
+        { "option_id": 2, "text": "Hesitating", "is_correct": true },
+        { "option_id": 3, "text": "Walking", "is_correct": false },
+        { "option_id": 4, "text": "Talking", "is_correct": false }
+      ],
+      "answer": "Hesitating"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who is Robert de Baudricourt?",
+      "answer": "He is a military officer seated at the table in the opening scene."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who is the Steward?",
+      "answer": "The Steward is a servant standing facing Robert."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What does Robert tell the Steward to do with the girl?",
+      "answer": "Robert tells the Steward to throw the girl out."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why are the soldiers afraid of the girl?",
+      "answer": "They are afraid of her because she puts courage in them and seems unafraid of anything."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Describe Joan's appearance.",
+      "answer": "Joan is a well-built, strong country girl of 17 to 18 years."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What does Joan ask Robert for?",
+      "answer": "Joan asks for a horse, armour, some soldiers, and to be sent to the Dauphin."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does Robert call Joan when she asks for things?",
+      "answer": "Robert calls her mad."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does Joan say about the cost of the horse?",
+      "answer": "She says the horse will cost sixteen francs."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How does Joan plan to save money on armour?",
+      "answer": "She plans to find a soldier's armour that fits her instead of getting a new one made."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Who has promised to come with Joan?",
+      "answer": "Polly (Monsieur de Poulengey) and Jack have promised to come with her."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who is Monsieur de Poulengey?",
+      "answer": "He is a French guard, also called Polly."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does Robert ask the Steward to verify?",
+      "answer": "Robert asks the Steward if it is true that Monsieur de Poulengey wants to go with Joan."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What does the Steward confirm about Monsieur de Metz?",
+      "answer": "He confirms that Monsieur de Metz also wants to go with Joan."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does Robert order Joan to do while he talks to Poulengey?",
+      "answer": "He orders her to get out and wait in the yard."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does Robert ask Poulengey about Joan's idea?",
+      "answer": "He asks if Poulengey takes her crazy idea of going to the Dauphin seriously."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does Poulengey say about the Dauphin?",
+      "answer": "He says the Dauphin is in Chinon like a rat in a corner and won't fight."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does Poulengey believe can save their side now?",
+      "answer": "He believes nothing can save their side now but a miracle."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is Robert's opinion on miracles?",
+      "answer": "Robert says miracles are alright, but they don't happen nowadays."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does Poulengey think about Joan herself?",
+      "answer": "He thinks the girl herself is a bit of a miracle."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What effect did Joan's words have on Poulengey?",
+      "answer": "Her words put fire into him."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What does 'put fire into me' mean?",
+      "answer": "It means to be inspired or motivated."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is Joan's name in Lorraine?",
+      "answer": "Her name in Lorraine is Jenny."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is Joan called in France?",
+      "answer": "In France, she is called Joan."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What do the soldiers call Joan?",
+      "answer": "The soldiers call her 'The Maid'."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How old does Joan say she is?",
+      "answer": "She says she is seventeen, or maybe nineteen; she doesn't remember."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What does Joan think about raising a siege?",
+      "answer": "She thinks it won't be difficult if God is on their side."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What does Robert say the English soldiers do?",
+      "answer": "He says they plunder, burn, and turn the countryside into a desert."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why does Joan say French soldiers are always beaten?",
+      "answer": "Because they fight only to save their skins (lives)."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What will Joan teach the soldiers?",
+      "answer": "She will teach them to fight for France."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What does Joan predict about the English soldiers?",
+      "answer": "She predicts they will be driven away like sheep and not a single one will remain in France."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is Robert's reaction to Joan's prediction?",
+      "answer": "He calls it nonsense."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why does Robert think the troops might be inspired?",
+      "answer": "He thinks they might be inspired because nothing else seems to put any fire into them."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What order does Robert finally give?",
+      "answer": "He orders that Joan is to go to Chinon under the escort of Poulengey and his friends."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How does Joan react to Robert's order?",
+      "answer": "She is radiant, clasps her hands, and thanks the squire."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What does Robert say about the consequences?",
+      "answer": "He says 'let come what may', meaning let anything happen."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What does Robert say about the dress?",
+      "answer": "He tells Joan to take what she pleases."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What phrase does Robert use to show he is not responsible?",
+      "answer": "He says, 'I wash my hands off it'."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What does Poulengey say at the end?",
+      "answer": "He agrees that there is something about her."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Define 'grimly'.",
+      "answer": "Seriously."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Define 'obstinately'.",
+      "answer": "In a stubborn and firm manner."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Define 'gravely'.",
+      "answer": "Seriously."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Define 'raising a siege'.",
+      "answer": "Surrounding from all sides and attacking/removing the forces surrounding a place."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Define 'plundering'.",
+      "answer": "Looting."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Change to affirmative: 'I am not so sure, now.'",
+      "answer": "I am doubtful now / I am uncertain now."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Change to affirmative: 'He will not be able to stop them.'",
+      "answer": "He will be unable to stop them / He will fail to stop them."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Change to affirmative: 'I don't remember.'",
+      "answer": "I forget."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Change to affirmative: 'I can do no more.'",
+      "answer": "I have done my best / This is all I can do."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Change to affirmative: 'Sir, do not anger her.'",
+      "answer": "Sir, keep her calm / Sir, please handle her gently."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Change to affirmative: 'I shall not want many soldiers.'",
+      "answer": "I shall want few soldiers."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Give the verb form of 'success'.",
+      "answer": "Succeed."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Describe the character of Joan of Arc based on the extract.",
+      "answer": "Joan of Arc is portrayed as a young, strong, and confident country girl of 17-18 years. She possesses immense faith in God and her mission to free Orleans. She is courageous, unafraid of authority figures like Robert or the fierce English soldiers. She is also practical, knowing exactly what she needs (horse, armor, men) and how to get it. Her optimism and determination are infectious, inspiring even skeptical men like Poulengey. She is patriotic and believes she can teach French soldiers to fight for their country."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Explain the contrast between Robert de Baudricourt and Bertrand de Poulengey.",
+      "answer": "Robert de Baudricourt is a military officer who is skeptical, authoritative, and dismissive of Joan initially. He calls her mad and wants to send her back to her father. He relies on conventional military logic. In contrast, Bertrand de Poulengey is more open-minded and intuitive. He sees something special in Joan and believes she might be a 'miracle'. He is willing to take a chance on her despite the seemingly crazy plan, showing faith and hope where Robert shows doubt."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "What reasons does Joan give for her confidence in lifting the siege of Orleans?",
+      "answer": "Joan's confidence stems primarily from her faith; she believes God is on her side, making the task easy. She also diagnoses the problem with the French army: they fight only to save their lives (skins) rather than fighting for France. She believes she can instill patriotism and courage in them ('put fire into them'), transforming them from sheep into soldiers who can drive the English away. She has a clear plan and the support of men like Jack, Dick, and Polly."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Why does Poulengey support Joan?",
+      "answer": "Poulengey supports Joan because he has lost faith in the current leadership, specifically the Dauphin, whom he compares to a rat in a corner. He believes the French side is desperate and nothing short of a miracle can save them. He sees something unique and inspiring in Joan—her confidence and fire—that makes him think she might be that miracle. He is willing to take a risk because the situation is dire."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Discuss the theme of patriotism in the play.",
+      "answer": "Patriotism is a central theme, embodied by Joan. She criticizes the French soldiers for fighting only to survive rather than fighting for their country. Her goal is to free French soil from English occupation. She envisions a France free of foreign soldiers. She aims to instill this love for the country in the troops, believing that fighting for a higher cause (France) rather than a personal one (saving skin) is the key to victory."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "What is the significance of the dialogue about 'miracles'?",
+      "answer": "The dialogue about miracles highlights the desperation of the French situation and the shifting beliefs of the characters. Robert represents the cynical view that miracles don't happen anymore. Poulengey represents the hope that they might still be possible, or at least that an extraordinary person like Joan can act as one. It sets the stage for Joan's rise, suggesting that her success will be seen as miraculous or divinely ordained."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "How does the playwright show Joan's determination?",
+      "answer": "Shaw shows Joan's determination through her persistence. Despite Robert's refusal to see her and his threats to send her back to her father, she remains unmoved. She speaks confidently ('I am here'), has a detailed plan (cost of horse, armor, specific men), and refuses to take 'no' for an answer. Her unwavering belief that she will go to Chinon and that the Dauphin will give her what she needs demonstrates her resolute nature."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "What is the role of the Steward in the extract?",
+      "answer": "The Steward serves as a bridge between Joan and Robert. He initially informs Robert that he cannot stop Joan, admitting that the soldiers are afraid of Robert but Joan gives them courage. He advises Robert not to anger her and to give her what she wants. His character highlights Joan's charisma and influence over the common people and soldiers even before she meets the leadership."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Compare the weapons used in the past with those used nowadays.",
+      "answer": "In the past, weapons were primarily mechanical and melee-based, such as swords, spears, bows and arrows, shields, catapults, and battering rams. They required physical strength and close combat. Nowadays, weapons are technological and often ranged, such as guns, rifles, machine guns, missiles, tanks, fighter jets, nuclear weapons, and drones. Modern weapons are far more destructive and can cause damage from great distances."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Why did Joan want a soldier's dress?",
+      "answer": "Joan wanted a soldier's dress because she intended to lead the army and fight in battles. A soldier's armor would offer protection and allow her to ride and move freely, which traditional women's clothing of that era would not. It also symbolized her taking on a role traditionally reserved for men, asserting her authority as a military leader."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "How does Joan convince Robert to change his mind?",
+      "answer": "Joan convinces Robert not through logical military strategy but through her sheer force of personality and faith. She refuses to be intimidated. She reveals that his own men (Poulengey) support her. Ultimately, her conviction that she can 'put fire' into the demoralized troops and the Dauphin makes Robert realize that her 'madness' might be the inspiration they need. He takes a chance because they have nothing left to lose."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Write a summary of the interaction between Joan and Robert regarding her plan.",
+      "answer": "Joan enters and confidently asks Robert for a horse, armor, and soldiers to go to the Dauphin. Robert tries to intimidate her and calls her mad. Joan calmly explains her plan to save money on armor and lists the men willing to join her, including Poulengey. Robert is shocked. Joan insists she doesn't need many soldiers, just a few to start. She is determined to free Orleans, dismissing Robert's skepticism with her faith in God and her plan to motivate the French troops."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Explain the phrase 'raising a siege' in the context of the play.",
+      "answer": "'Raising a siege' means to force the besieging army to withdraw. In the context of the play, the city of Orleans is surrounded (besieged) by English forces who are cutting off supplies and attacking it. Joan's mission is to lead French troops to break this blockade, defeat the English forces surrounding the city, and free Orleans from their control."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "What is the significance of the Dauphin in the story?",
+      "answer": "The Dauphin is the heir to the French throne but has not yet been crowned King. He represents the weak leadership of France at the time. He is hiding in Chinon and is described as being 'like a rat in a corner'. Joan's mission is not just to fight the English but to get the Dauphin crowned, restoring legitimate French authority. He is the figurehead she needs to empower."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Describe the historical context provided in the introduction.",
+      "answer": "The play is set during the Hundred Years War (1337-1453) between England and France. In 1429, northern France and parts of the south-west were under foreign control (English and Burgundians). The city of Orleans was one of the few remaining French strongholds but was held by the English. Joan, a peasant girl from eastern France, rose to lead the French army to victory during this critical time."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Compare Joan of Arc with the Rani of Jhansi (Laxmibai).",
+      "answer": "**Similarities:** Both were female warrior leaders who led armies in male-dominated societies. Both fought against foreign occupiers (Joan against English, Laxmibai against British). Both are national heroines and symbols of patriotism. **Contrasts:** Joan was a peasant girl; Laxmibai was a queen. Joan claimed divine guidance; Laxmibai fought for her kingdom's sovereignty. Joan was burned at the stake; Laxmibai died in battle."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "What does the play suggest about leadership?",
+      "answer": "The play suggests that true leadership comes from inspiration, courage, and faith rather than just rank or position. The Dauphin has the rank but lacks leadership. Robert has the position but lacks vision. Joan, a peasant girl, demonstrates true leadership by her ability to inspire 'fire' and courage in others. It suggests that in desperate times, unconventional leaders with strong conviction are needed."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "Identify and explain the figures of speech in 'The English will take Orleans'.",
+      "answer": "This sentence uses **Synecdoche**, where 'The English' (a whole nation) refers to the English army (a part). It implies the collective force of the enemy. It is a direct statement of the threat facing France."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "Identify and explain the figures of speech in 'She is as mad as she is'.",
+      "answer": "This sentence uses **Simile**. Robert is comparing Poulengey's madness to Joan's madness using the word 'as'. He implies that believing in Joan is as crazy as Joan's ideas themselves."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Explain the difference between 'call out' and 'call off'.",
+      "answer": "'Call out' means to shout something or announce it loudly (e.g., He called out my name). 'Call off' means to cancel an event or arrangement (e.g., The meeting was called off due to rain). They are phrasal verbs where the preposition changes the meaning of the main verb 'call'."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "Explain the difference between 'look into' and 'look for'.",
+      "answer": "'Look into' means to investigate or examine a matter (e.g., The police will look into the case). 'Look for' means to search for something lost or needed (e.g., I am looking for my keys). These are phrasal verbs derived from 'look'."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "Frame sentences using the word 'inspire' as a verb and 'inspiration' as a noun.",
+      "answer": "**Verb (inspire):** The teacher tried to inspire her students to work harder. **Noun (inspiration):** The beauty of nature was an inspiration for the poet's new work."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "Frame sentences using the word 'safe' as an adjective and 'safety' as a noun.",
+      "answer": "**Adjective (safe):** It is not safe to walk alone at night. **Noun (safety):** The safety of the passengers is the airline's priority."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "Frame sentences using the word 'succeed' as a verb and 'successful' as an adjective.",
+      "answer": "**Verb (succeed):** If you work hard, you will succeed. **Adjective (successful):** The mission was successful and everyone returned home."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "What traits of Joan make her a 'Miracle' in Poulengey's eyes?",
+      "answer": "Poulengey sees Joan as a miracle not because of magic, but because of her extraordinary human qualities. Her fearlessness in a time of fear, her unwavering belief in her mission, and her ability to inspire hope in cynical soldiers set her apart. In a time where the Dauphin is cowardly and the army defeated, her spirit is the 'miracle' France needs."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "Why does Robert say 'I feel like a fool'?",
+      "answer": "Robert says this because he, a seasoned military captain, is beginning to listen to and potentially agree with a peasant girl whom he initially dismissed as mad. He feels foolish for considering her wild plan, yet he is desperate enough and swayed enough by Poulengey's support to consider it."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "Imagine you are the captain of a Kabaddi team boosting morale. Write 5 sentences.",
+      "answer": "1. Team, we have trained harder than anyone else for this moment. 2. Their strength is nothing compared to our unity and spirit. 3. Forget the score; focus on the next raid and giving it your all. 4. We win together, we lose together, but we never give up. 5. Let's go out there and show them what true champions look like!"
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "Why did the Steward say 'She puts courage in us'?",
+      "answer": "The Steward said this to explain why they hadn't thrown Joan out as ordered. Joan's presence was empowering. Unlike the commanding officers who might instill fear, Joan's confidence and lack of fear were contagious. She gave the lower-ranking men a sense of bravery and hope that they lacked."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "Explain the phrase 'turn the countryside into a desert'.",
+      "answer": "This phrase refers to the scorched-earth tactics used in war. It means to destroy everything in an area—burning crops, houses, and villages—leaving nothing behind but wasteland. Robert uses it to describe the brutality of the English soldiers to scare Joan."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "What is the significance of the year 1429 mentioned in the play?",
+      "answer": "The year 1429 is historically significant as the turning point of the Hundred Years War. It is the year Joan of Arc appeared, lifted the siege of Orleans, and led the Dauphin to be crowned Charles VII. The play begins at this pivotal moment when French fortunes were at their lowest before Joan's intervention."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "Why does Joan want to go to Chinon?",
+      "answer": "Joan wants to go to Chinon because that is where the Dauphin (Charles) is residing. She needs to meet him to convince him to let her lead the army to Orleans and subsequently to take him to Reims to be crowned King. Chinon is the starting point of her mission to restore the French monarchy."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "What does 'I shall have her up here again' imply about Robert's intention?",
+      "answer": "This line implies that despite his outward dismissal, Robert is intrigued or at least willing to reconsider. He doesn't dismiss her permanently. He sends her away to wait, but intends to speak to her again, showing that her persistence and Poulengey's words have made an impact on him."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "Discuss the use of stage directions in the play.",
+      "answer": "Stage directions (like 'grimly', 'obstinately', 'smiling brightly') give insight into the characters' emotions and the tone of the scene. For example, Robert is often described as 'grim' or 'shocked', highlighting his skepticism. Joan is 'radiant' or 'confident', highlighting her spirit. These directions guide the actors and help the reader visualize the interactions."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "What does Joan imply by saying 'It won't happen that way'?",
+      "answer": "When Robert threatens to send her back to her father, Joan calmly asserts, 'It won't happen that way.' This implies her unwavering conviction in her destiny. She believes her path is divinely ordained and that human obstacles, even from a Captain, cannot stop what is meant to happen. It shows her absolute certainty."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Why does Joan say 'I don't need beautiful armour'?",
+      "answer": "Joan says this to show her practicality and humility. She is not interested in the vanity or showiness of being a leader. She needs armor for protection ('to fit me well enough') to do the job of fighting. It emphasizes that her focus is on the mission, not the glory or appearance."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "What qualities of a good soldier does Joan highlight?",
+      "answer": "Joan highlights bravery and patriotism. She criticizes soldiers who fight only to save their lives ('skins'). She believes a good soldier should fight for a cause (France) and not run away. She implies that morale and purpose are as important as physical skill in a soldier."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "Explain 'The soldiers call me the Maid'.",
+      "answer": "'The Maid' (La Pucelle) is a title of respect and purity. By saying the soldiers call her this, Joan establishes that she is already recognized and accepted by the troops. It distinguishes her from a regular soldier or camp follower. It signifies her unique spiritual and symbolic status among the men."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "What is the tone of Robert's dialogue with the Steward?",
+      "answer": "The tone is authoritative, frustrated, and incredulous. Robert is annoyed that his orders to throw the girl out haven't been followed. He is incredulous that his soldiers are afraid of a young girl. He tries to assert his power but is baffled by the situation."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "How does the play challenge gender roles?",
+      "answer": "The play challenges gender roles by placing a young teenage girl in the role of a military leader. Joan rejects traditional female roles (marriage, staying at home) and demands a soldier's life. She commands respect from men. The play shows that courage and leadership are not exclusive to men."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "Why is 'The Maid' a suitable title for Joan?",
+      "answer": "'The Maid' emphasizes her youth, innocence, and unmarried status. In religious and historical context, it suggests purity and divine selection. It contrasts her physical vulnerability with her spiritual strength. It became her defining identity, separating her from the political and military establishment."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "Describe the setting of the scene.",
+      "answer": "The scene is set in the year 1429. It takes place in the military office of Captain Robert de Baudricourt. He is seated at a table, suggesting a position of authority. There is a window overlooking the courtyard. The setting is formal and military, contrasting with the arrival of the peasant girl Joan."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "What does 'I have arranged it all' tell us about Joan?",
+      "answer": "This statement shows Joan's initiative and leadership. She hasn't just come to ask for permission; she has already done the groundwork. She has spoken to the men (Polly, Jack, Dick) and secured their support. It shows she is proactive, organized, and capable of rallying people before getting official approval."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "Explain the significance of the phrase 'God is on your side'.",
+      "answer": "This phrase encapsulates Joan's entire motivation and confidence. She believes her mission is not military strategy but divine will. If God supports them, human odds (like the strength of the English) don't matter. It is this absolute faith that allows her to attempt the impossible."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "What is the conflict between Robert and Poulengey?",
+      "answer": "The conflict is between skepticism and faith. Robert represents the established order and cynicism; he thinks the plan is mad. Poulengey represents hope and the willingness to take a risk. Robert wants to dismiss Joan; Poulengey wants to support her. This conflict drives the dialogue until Robert finally yields."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "Why does Robert think the Dauphin might believe Joan?",
+      "answer": "Robert thinks that if Joan can inspire ('put some fight into') a cynical man like himself, she can definitely inspire the weak and desperate Dauphin. He realizes her charisma is potent. He also knows the Dauphin is in a desperate situation and might grasp at any straw, even a 'mad' girl."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "What does the ending of the extract signify?",
+      "answer": "The ending signifies a victory for Joan. Robert gives his permission, though he washes his hands of the consequences. Joan is ecstatic ('Wildly excited'). It marks the beginning of her journey from a peasant girl to a military leader. It is the first hurdle crossed in her mission."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "Discuss the use of adjectives in the character descriptions.",
+      "answer": "Shaw uses adjectives effectively. Robert is 'grim', implying seriousness. Joan is 'strong', 'confident', 'radiant', portraying her energy. The Steward is 'eager', showing his support. Poulengey is 'unmoved' and 'obstinate', showing his resolve. These adjectives help define the characters instantly."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "What does the comparison 'like a rat in a corner' imply about the Dauphin?",
+      "answer": "This simile implies that the Dauphin is trapped, frightened, and helpless. A rat in a corner has no escape and usually lashes out or cowers. It paints a picture of a leader who has lost all power and dignity, highlighting the desperate need for a savior like Joan."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "Why is the mention of 'Polly and Jack' important?",
+      "answer": "It shows that Joan has won over respect from men of higher status (Squire Jack, Monsieur de Poulengey). 'Polly' and 'Jack' are familiar nicknames, suggesting a level of trust and camaraderie. Their support validates Joan's claims to Robert, proving she isn't just a lone madwoman."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "Explain the phrase 'send me to the Dauphin'.",
+      "answer": "This is Joan's primary request. She needs official sanction to lead the army, which only the Dauphin (Crown Prince) can give. Getting to the Dauphin is the necessary first step to fulfilling her mission of lifting the siege of Orleans and crowning him King. It represents her entry into the highest level of French politics."
+    }
+  ]
+}

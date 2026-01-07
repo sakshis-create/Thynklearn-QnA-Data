@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.29",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "उद्दिष्टे व शिक्षक सूचना"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "विद्यार्थ्यांनी किमान किती शब्दांची श्रवण शब्दसंपत्ती विकसित करणे अपेक्षित आहे?",
+      "options": [
+        { "option_id": 1, "text": "१००", "is_correct": false },
+        { "option_id": 2, "text": "२००", "is_correct": false },
+        { "option_id": 3, "text": "६००", "is_correct": true },
+        { "option_id": 4, "text": "१०००", "is_correct": false }
+      ],
+      "answer": "६००"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भाषण शब्दसंपत्ती किती शब्दांची विकसित करायची आहे?",
+      "options": [
+        { "option_id": 1, "text": "५०", "is_correct": false },
+        { "option_id": 2, "text": "२००", "is_correct": true },
+        { "option_id": 3, "text": "३००", "is_correct": false },
+        { "option_id": 4, "text": "४००", "is_correct": false }
+      ],
+      "answer": "२००"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "किती दृक्-शब्दांची वाचन शब्दसंपत्ती विकसित करणे हे उद्दिष्ट आहे?",
+      "options": [
+        { "option_id": 1, "text": "१०", "is_correct": false },
+        { "option_id": 2, "text": "२५", "is_correct": false },
+        { "option_id": 3, "text": "५०", "is_correct": true },
+        { "option_id": 4, "text": "१००", "is_correct": false }
+      ],
+      "answer": "५०"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "'पाऊस' या गाण्यासाठी शिक्षकांनी काय करून घ्यावे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ वाचून दाखवावे", "is_correct": false },
+        { "option_id": 2, "text": "गाणे तालासुरात साभिनय म्हणून घ्यावे", "is_correct": true },
+        { "option_id": 3, "text": "लिहायला सांगावे", "is_correct": false },
+        { "option_id": 4, "text": "काहीही करू नये", "is_correct": false }
+      ],
+      "answer": "गाणे तालासुरात साभिनय म्हणून घ्यावे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'मांजराची गंमत' या पाठासाठी शिक्षकांनी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "चित्रे क्रमाने दाखवून गोष्ट सांगावी", "is_correct": true },
+        { "option_id": 2, "text": "फक्त वाचन घ्यावे", "is_correct": false },
+        { "option_id": 3, "text": "गाणे म्हणावे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ घ्यावा", "is_correct": false }
+      ],
+      "answer": "चित्रे क्रमाने दाखवून गोष्ट सांगावी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "'खेळ खेळूया' या पाठात कोणता खेळ घेण्यास सुचवले आहे?",
+      "options": [
+        { "option_id": 1, "text": "राजा म्हणतो", "is_correct": true },
+        { "option_id": 2, "text": "लपाछपी", "is_correct": false },
+        { "option_id": 3, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 4, "text": "खो-खो", "is_correct": false }
+      ],
+      "answer": "राजा म्हणतो"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'फळांचा राजा' या पाठासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "फळांची चित्रे व नामपट्ट्या तयार कराव्या", "is_correct": true },
+        { "option_id": 2, "text": "केवळ गाणे म्हणावे", "is_correct": false },
+        { "option_id": 3, "text": "फळे खावीत", "is_correct": false },
+        { "option_id": 4, "text": "झोपायला सांगावे", "is_correct": false }
+      ],
+      "answer": "फळांची चित्रे व नामपट्ट्या तयार कराव्या"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'आपला परिसर' या पाठासाठी विद्यार्थ्यांना कोठे भेटी दयायला सांगावे?",
+      "options": [
+        { "option_id": 1, "text": "जंगलात", "is_correct": false },
+        { "option_id": 2, "text": "दुकानात, बसस्थानकावर", "is_correct": true },
+        { "option_id": 3, "text": "परदेशात", "is_correct": false },
+        { "option_id": 4, "text": "समुद्रावर", "is_correct": false }
+      ],
+      "answer": "दुकानात, बसस्थानकावर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "'नक्कल करूया' या पाठात काय अपेक्षित आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्राण्यांची/पक्ष्यांची नक्कल करणे", "is_correct": true },
+        { "option_id": 2, "text": "चित्र काढणे", "is_correct": false },
+        { "option_id": 3, "text": "गाणे म्हणणे", "is_correct": false },
+        { "option_id": 4, "text": "पाठांतर करणे", "is_correct": false }
+      ],
+      "answer": "प्राण्यांची/पक्ष्यांची नक्कल करणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'माझी शब्दबाग' या पाठात कोणता खेळ घ्यावा?",
+      "options": [
+        { "option_id": 1, "text": "शब्दखेळ (फासा टाकून)", "is_correct": true },
+        { "option_id": 2, "text": "धावण्याची शर्यत", "is_correct": false },
+        { "option_id": 3, "text": "पोहणे", "is_correct": false },
+        { "option_id": 4, "text": "गाणे", "is_correct": false }
+      ],
+      "answer": "शब्दखेळ (फासा टाकून)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "विद्यार्थ्यांनी सूचना वाचून काय करावे अशी अपेक्षा आहे?",
+      "options": [
+        { "option_id": 1, "text": "दुर्लक्ष करावे", "is_correct": false },
+        { "option_id": 2, "text": "सूचनांनुसार कृती करावी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त वाचावे", "is_correct": false },
+        { "option_id": 4, "text": "लिहून काढावे", "is_correct": false }
+      ],
+      "answer": "सूचनांनुसार कृती करावी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'सारखे काय?' या पाठासाठी काय तयार करावे?",
+      "options": [
+        { "option_id": 1, "text": "खेळणी", "is_correct": false },
+        { "option_id": 2, "text": "समान अक्षरांच्या नामपट्ट्या", "is_correct": true },
+        { "option_id": 3, "text": "चित्रे", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तके", "is_correct": false }
+      ],
+      "answer": "समान अक्षरांच्या नामपट्ट्या"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "विद्यार्थ्यांनी गप्पा कोणाशी माराव्या असे उद्दिष्ट आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त शिक्षकांशी", "is_correct": false },
+        { "option_id": 2, "text": "मित्रांशी आणि विविध लोकांशी", "is_correct": true },
+        { "option_id": 3, "text": "स्वतःशी", "is_correct": false },
+        { "option_id": 4, "text": "प्राण्यांशी", "is_correct": false }
+      ],
+      "answer": "मित्रांशी आणि विविध लोकांशी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'माझे पान' या पाठात कशाचा सराव घ्यावा?",
+      "options": [
+        { "option_id": 1, "text": "गाळलेल्या जागा भरून वाक्य वाचनाचा", "is_correct": true },
+        { "option_id": 2, "text": "चित्रकलेचा", "is_correct": false },
+        { "option_id": 3, "text": "नृत्याचा", "is_correct": false },
+        { "option_id": 4, "text": "खेळाचा", "is_correct": false }
+      ],
+      "answer": "गाळलेल्या जागा भरून वाक्य वाचनाचा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या पुस्तकाचे मुख्य उद्दिष्ट काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ लेखन शिकवणे", "is_correct": false },
+        { "option_id": 2, "text": "भाषिक कौशल्ये विकसित करणे", "is_correct": true },
+        { "option_id": 3, "text": "खेळ शिकवणे", "is_correct": false },
+        { "option_id": 4, "text": "चित्र काढणे", "is_correct": false }
+      ],
+      "answer": "भाषिक कौशल्ये विकसित करणे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "श्रवण शब्दसंपत्ती किती शब्दांची असावी?",
+      "answer": "श्रवण शब्दसंपत्ती किमान ६०० शब्दांची असावी."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "विद्यार्थ्यांनी गाणी कशी म्हणावीत?",
+      "answer": "विद्यार्थ्यांनी गाणी समूहात व एकट्याने तालासुरात म्हणावीत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "'योग्य काय?' या पाठातून काय शिकवावे?",
+      "answer": "'योग्य काय?' या पाठातून योग्य आणि अयोग्य सवयींबद्दल शिकवावे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कोणत्या पाठात फासा टाकून शब्द वाचायचा खेळ आहे?",
+      "answer": "'माझी शब्दबाग' या पाठात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "विद्यार्थ्यांनी कोणत्या विषयांवर माहिती सांगावी?",
+      "answer": "वस्तू, पशू, पक्षी, शाळा आणि गावातील ठिकाणांबद्दल माहिती सांगावी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "चित्रमालिकेच्या साहाय्याने विद्यार्थ्यांनी काय करावे?",
+      "answer": "चित्रमालिकेच्या साहाय्याने विद्यार्थ्यांनी गोष्ट सांगण्याचा प्रयत्न करावा."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "'को को कोंबडा' या पाठासाठी काय घ्यावे?",
+      "answer": "गाण्यातील प्रत्येक कडव्याची योग्य कृती/अभिनय करून गाणे म्हणून घ्यावे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "'माझे घर' पाठात काय विचारावे?",
+      "answer": "विद्यार्थ्यांना त्यांच्या घरातील वस्तूंची नावे विचारावी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "'ओळख खेळांची' पाठात काय करावे?",
+      "answer": "चित्रातील खेळांची माहिती द्यावी आणि मुलांकडून वदवून घ्यावी."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "शिक्षकांनी विद्यार्थ्यांना प्रश्न कशासाठी विचारावे?",
+      "answer": "विद्यार्थ्यांना बोलते करण्यासाठी शिक्षकांनी प्रश्न विचारावे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "'कोण कोठे?' या पाठात कशाचा सराव घ्यावा?",
+      "answer": "वस्तूंचे स्थान (वर, खाली, आत, बाहेर) सांगण्याचा सराव घ्यावा."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "विद्यार्थ्यांनी संवाद कसा साधावा?",
+      "answer": "विद्यार्थ्यांनी विविध लोकांशी योग्य प्रकारे संवाद साधावा."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "दृक्-शब्दांची (Sight Words) संख्या किती अपेक्षित आहे?",
+      "answer": "सुमारे ५० दृक्-शब्दांची संख्या अपेक्षित आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "'वाहने ओळखू' या पाठासाठी काय उपक्रम घ्यावा?",
+      "answer": "वाहनांच्या चित्रांचा संग्रह करून घ्यावा."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या मार्गदर्शिकेचा उपयोग कोणासाठी आहे?",
+      "answer": "या मार्गदर्शिकेचा उपयोग शिक्षकांसाठी आहे."
+    }
+  ]
+}

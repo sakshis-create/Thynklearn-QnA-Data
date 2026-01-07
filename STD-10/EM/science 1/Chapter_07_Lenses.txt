@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.Science.07",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Lenses"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A lens is a ________ medium bound by two surfaces.",
+      "options": [
+        { "option_id": 1, "text": "Opaque", "is_correct": false },
+        { "option_id": 2, "text": "Transparent", "is_correct": true },
+        { "option_id": 3, "text": "Translucent", "is_correct": false },
+        { "option_id": 4, "text": "Reflective", "is_correct": false }
+      ],
+      "answer": "Transparent"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "A convex lens is ________ at the centre than at the edges.",
+      "options": [
+        { "option_id": 1, "text": "Thinner", "is_correct": false },
+        { "option_id": 2, "text": "Thicker", "is_correct": true },
+        { "option_id": 3, "text": "Same thickness", "is_correct": false },
+        { "option_id": 4, "text": "Curved", "is_correct": false }
+      ],
+      "answer": "Thicker"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "A concave lens is ________ at the centre than at the edges.",
+      "options": [
+        { "option_id": 1, "text": "Thicker", "is_correct": false },
+        { "option_id": 2, "text": "Thinner", "is_correct": true },
+        { "option_id": 3, "text": "Same thickness", "is_correct": false },
+        { "option_id": 4, "text": "Flat", "is_correct": false }
+      ],
+      "answer": "Thinner"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Light rays get refracted ________ while passing through a lens.",
+      "options": [
+        { "option_id": 1, "text": "Once", "is_correct": false },
+        { "option_id": 2, "text": "Twice", "is_correct": true },
+        { "option_id": 3, "text": "Thrice", "is_correct": false },
+        { "option_id": 4, "text": "Four times", "is_correct": false }
+      ],
+      "answer": "Twice"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The centre of sphere whose part forms the surface of the lens is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Optical Centre", "is_correct": false },
+        { "option_id": 2, "text": "Principal Focus", "is_correct": false },
+        { "option_id": 3, "text": "Centre of Curvature", "is_correct": true },
+        { "option_id": 4, "text": "Aperture", "is_correct": false }
+      ],
+      "answer": "Centre of Curvature"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The imaginary line passing through both centres of curvature is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Radius of Curvature", "is_correct": false },
+        { "option_id": 2, "text": "Principal Axis", "is_correct": true },
+        { "option_id": 3, "text": "Focal Length", "is_correct": false },
+        { "option_id": 4, "text": "Optical Axis", "is_correct": false }
+      ],
+      "answer": "Principal Axis"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Light rays passing through the ________ do not change their path.",
+      "options": [
+        { "option_id": 1, "text": "Principal Focus", "is_correct": false },
+        { "option_id": 2, "text": "Optical Centre", "is_correct": true },
+        { "option_id": 3, "text": "Centre of Curvature", "is_correct": false },
+        { "option_id": 4, "text": "Edge of lens", "is_correct": false }
+      ],
+      "answer": "Optical Centre"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "A convex lens is also called a ________ lens.",
+      "options": [
+        { "option_id": 1, "text": "Diverging", "is_correct": false },
+        { "option_id": 2, "text": "Converging", "is_correct": true },
+        { "option_id": 3, "text": "Plane", "is_correct": false },
+        { "option_id": 4, "text": "Bifocal", "is_correct": false }
+      ],
+      "answer": "Converging"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "A concave lens is also called a ________ lens.",
+      "options": [
+        { "option_id": 1, "text": "Converging", "is_correct": false },
+        { "option_id": 2, "text": "Diverging", "is_correct": true },
+        { "option_id": 3, "text": "Spherical", "is_correct": false },
+        { "option_id": 4, "text": "Cylindrical", "is_correct": false }
+      ],
+      "answer": "Diverging"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The distance between the optical centre and principal focus is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Radius of Curvature", "is_correct": false },
+        { "option_id": 2, "text": "Focal Length", "is_correct": true },
+        { "option_id": 3, "text": "Object Distance", "is_correct": false },
+        { "option_id": 4, "text": "Image Distance", "is_correct": false }
+      ],
+      "answer": "Focal Length"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "When incident ray is parallel to the principal axis, the refracted ray passes through the ________.",
+      "options": [
+        { "option_id": 1, "text": "Optical Centre", "is_correct": false },
+        { "option_id": 2, "text": "Centre of Curvature", "is_correct": false },
+        { "option_id": 3, "text": "Principal Focus", "is_correct": true },
+        { "option_id": 4, "text": "Infinity", "is_correct": false }
+      ],
+      "answer": "Principal Focus"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "An image formed by a convex lens is real and inverted when the object is placed ________.",
+      "options": [
+        { "option_id": 1, "text": "Between F1 and O", "is_correct": false },
+        { "option_id": 2, "text": "At infinity", "is_correct": true },
+        { "option_id": 3, "text": "Inside the lens", "is_correct": false },
+        { "option_id": 4, "text": "None of these", "is_correct": false }
+      ],
+      "answer": "At infinity"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "When an object is placed between F1 and O of a convex lens, the image formed is ________.",
+      "options": [
+        { "option_id": 1, "text": "Real and inverted", "is_correct": false },
+        { "option_id": 2, "text": "Virtual and erect", "is_correct": true },
+        { "option_id": 3, "text": "Real and erect", "is_correct": false },
+        { "option_id": 4, "text": "Virtual and inverted", "is_correct": false }
+      ],
+      "answer": "Virtual and erect"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The image formed by a concave lens is always ________.",
+      "options": [
+        { "option_id": 1, "text": "Real and inverted", "is_correct": false },
+        { "option_id": 2, "text": "Real and erect", "is_correct": false },
+        { "option_id": 3, "text": "Virtual and erect", "is_correct": true },
+        { "option_id": 4, "text": "Virtual and inverted", "is_correct": false }
+      ],
+      "answer": "Virtual and erect"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "According to Cartesian sign convention, the optical centre (O) is taken as ________.",
+      "options": [
+        { "option_id": 1, "text": "Focus", "is_correct": false },
+        { "option_id": 2, "text": "Origin", "is_correct": true },
+        { "option_id": 3, "text": "Pole", "is_correct": false },
+        { "option_id": 4, "text": "X-axis", "is_correct": false }
+      ],
+      "answer": "Origin"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The focal length of a convex lens is ________.",
+      "options": [
+        { "option_id": 1, "text": "Positive", "is_correct": true },
+        { "option_id": 2, "text": "Negative", "is_correct": false },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Infinite", "is_correct": false }
+      ],
+      "answer": "Positive"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The focal length of a concave lens is ________.",
+      "options": [
+        { "option_id": 1, "text": "Positive", "is_correct": false },
+        { "option_id": 2, "text": "Negative", "is_correct": true },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Infinite", "is_correct": false }
+      ],
+      "answer": "Negative"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the lens formula?",
+      "options": [
+        { "option_id": 1, "text": "1/v + 1/u = 1/f", "is_correct": false },
+        { "option_id": 2, "text": "1/v - 1/u = 1/f", "is_correct": true },
+        { "option_id": 3, "text": "1/u - 1/v = 1/f", "is_correct": false },
+        { "option_id": 4, "text": "v - u = f", "is_correct": false }
+      ],
+      "answer": "1/v - 1/u = 1/f"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The magnification (M) produced by a lens is given by ________.",
+      "options": [
+        { "option_id": 1, "text": "v/u", "is_correct": true },
+        { "option_id": 2, "text": "u/v", "is_correct": false },
+        { "option_id": 3, "text": "v * u", "is_correct": false },
+        { "option_id": 4, "text": "1/v", "is_correct": false }
+      ],
+      "answer": "v/u"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The capacity of a lens to converge or diverge incident rays is called its ________.",
+      "options": [
+        { "option_id": 1, "text": "Magnification", "is_correct": false },
+        { "option_id": 2, "text": "Power", "is_correct": true },
+        { "option_id": 3, "text": "Focal length", "is_correct": false },
+        { "option_id": 4, "text": "Resolution", "is_correct": false }
+      ],
+      "answer": "Power"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The unit of power of a lens is ________.",
+      "options": [
+        { "option_id": 1, "text": "Meter", "is_correct": false },
+        { "option_id": 2, "text": "Centimeter", "is_correct": false },
+        { "option_id": 3, "text": "Dioptre", "is_correct": true },
+        { "option_id": 4, "text": "Watt", "is_correct": false }
+      ],
+      "answer": "Dioptre"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "1 Dioptre is equal to ________.",
+      "options": [
+        { "option_id": 1, "text": "1 m", "is_correct": false },
+        { "option_id": 2, "text": "1/1 m", "is_correct": true },
+        { "option_id": 3, "text": "1 cm", "is_correct": false },
+        { "option_id": 4, "text": "10 m", "is_correct": false }
+      ],
+      "answer": "1/1 m"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The thin transparent membrane on the human eye is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Iris", "is_correct": false },
+        { "option_id": 2, "text": "Pupil", "is_correct": false },
+        { "option_id": 3, "text": "Cornea", "is_correct": true },
+        { "option_id": 4, "text": "Retina", "is_correct": false }
+      ],
+      "answer": "Cornea"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The screen made of light-sensitive cells inside the eye is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Cornea", "is_correct": false },
+        { "option_id": 2, "text": "Retina", "is_correct": true },
+        { "option_id": 3, "text": "Iris", "is_correct": false },
+        { "option_id": 4, "text": "Lens", "is_correct": false }
+      ],
+      "answer": "Retina"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The capacity of the eye lens to change its focal length is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Persistence of vision", "is_correct": false },
+        { "option_id": 2, "text": "Power of accommodation", "is_correct": true },
+        { "option_id": 3, "text": "Magnification", "is_correct": false },
+        { "option_id": 4, "text": "Dispersion", "is_correct": false }
+      ],
+      "answer": "Power of accommodation"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The near point of a normal human eye is at ________.",
+      "options": [
+        { "option_id": 1, "text": "25 cm", "is_correct": true },
+        { "option_id": 2, "text": "50 cm", "is_correct": false },
+        { "option_id": 3, "text": "10 cm", "is_correct": false },
+        { "option_id": 4, "text": "Infinity", "is_correct": false }
+      ],
+      "answer": "25 cm"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The far point of a normal human eye is at ________.",
+      "options": [
+        { "option_id": 1, "text": "25 cm", "is_correct": false },
+        { "option_id": 2, "text": "25 m", "is_correct": false },
+        { "option_id": 3, "text": "Infinity", "is_correct": true },
+        { "option_id": 4, "text": "1 km", "is_correct": false }
+      ],
+      "answer": "Infinity"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Nearsightedness is also known as ________.",
+      "options": [
+        { "option_id": 1, "text": "Hypermetropia", "is_correct": false },
+        { "option_id": 2, "text": "Myopia", "is_correct": true },
+        { "option_id": 3, "text": "Presbyopia", "is_correct": false },
+        { "option_id": 4, "text": "Cataract", "is_correct": false }
+      ],
+      "answer": "Myopia"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Farsightedness is also known as ________.",
+      "options": [
+        { "option_id": 1, "text": "Myopia", "is_correct": false },
+        { "option_id": 2, "text": "Hypermetropia", "is_correct": true },
+        { "option_id": 3, "text": "Presbyopia", "is_correct": false },
+        { "option_id": 4, "text": "Astigmatism", "is_correct": false }
+      ],
+      "answer": "Hypermetropia"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Nearsightedness can be corrected using a ________ lens.",
+      "options": [
+        { "option_id": 1, "text": "Convex", "is_correct": false },
+        { "option_id": 2, "text": "Concave", "is_correct": true },
+        { "option_id": 3, "text": "Bifocal", "is_correct": false },
+        { "option_id": 4, "text": "Cylindrical", "is_correct": false }
+      ],
+      "answer": "Concave"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Farsightedness can be corrected using a ________ lens.",
+      "options": [
+        { "option_id": 1, "text": "Concave", "is_correct": false },
+        { "option_id": 2, "text": "Convex", "is_correct": true },
+        { "option_id": 3, "text": "Bifocal", "is_correct": false },
+        { "option_id": 4, "text": "Plane", "is_correct": false }
+      ],
+      "answer": "Convex"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Presbyopia is a defect of vision usually occurring in ________.",
+      "options": [
+        { "option_id": 1, "text": "Children", "is_correct": false },
+        { "option_id": 2, "text": "Old age", "is_correct": true },
+        { "option_id": 3, "text": "Young adults", "is_correct": false },
+        { "option_id": 4, "text": "Infants", "is_correct": false }
+      ],
+      "answer": "Old age"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Bifocal lenses are used to correct ________.",
+      "options": [
+        { "option_id": 1, "text": "Myopia only", "is_correct": false },
+        { "option_id": 2, "text": "Hypermetropia only", "is_correct": false },
+        { "option_id": 3, "text": "Presbyopia", "is_correct": true },
+        { "option_id": 4, "text": "Color blindness", "is_correct": false }
+      ],
+      "answer": "Presbyopia"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "A simple microscope uses a ________ lens.",
+      "options": [
+        { "option_id": 1, "text": "Concave", "is_correct": false },
+        { "option_id": 2, "text": "Convex", "is_correct": true },
+        { "option_id": 3, "text": "Plano-concave", "is_correct": false },
+        { "option_id": 4, "text": "Cylindrical", "is_correct": false }
+      ],
+      "answer": "Convex"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The maximum magnification obtained by a simple microscope is ________ times.",
+      "options": [
+        { "option_id": 1, "text": "10", "is_correct": false },
+        { "option_id": 2, "text": "20", "is_correct": true },
+        { "option_id": 3, "text": "50", "is_correct": false },
+        { "option_id": 4, "text": "100", "is_correct": false }
+      ],
+      "answer": "20"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "A compound microscope consists of ________ convex lenses.",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": true },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "In a compound microscope, the lens near the object is called the ________.",
+      "options": [
+        { "option_id": 1, "text": "Eyepiece", "is_correct": false },
+        { "option_id": 2, "text": "Objective", "is_correct": true },
+        { "option_id": 3, "text": "Focus", "is_correct": false },
+        { "option_id": 4, "text": "Projector", "is_correct": false }
+      ],
+      "answer": "Objective"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "An astronomical telescope is used to observe ________.",
+      "options": [
+        { "option_id": 1, "text": "Microorganisms", "is_correct": false },
+        { "option_id": 2, "text": "Distant objects like stars", "is_correct": true },
+        { "option_id": 3, "text": "Nearby objects", "is_correct": false },
+        { "option_id": 4, "text": "Inside of the body", "is_correct": false }
+      ],
+      "answer": "Distant objects like stars"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The sensation on the retina persists for ________ of a second.",
+      "options": [
+        { "option_id": 1, "text": "1/10", "is_correct": false },
+        { "option_id": 2, "text": "1/16", "is_correct": true },
+        { "option_id": 3, "text": "1/5", "is_correct": false },
+        { "option_id": 4, "text": "1/20", "is_correct": false }
+      ],
+      "answer": "1/16"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which cells in the retina respond to the intensity of light?",
+      "options": [
+        { "option_id": 1, "text": "Conical cells", "is_correct": false },
+        { "option_id": 2, "text": "Rod-like cells", "is_correct": true },
+        { "option_id": 3, "text": "Spherical cells", "is_correct": false },
+        { "option_id": 4, "text": "Nerve cells", "is_correct": false }
+      ],
+      "answer": "Rod-like cells"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which cells in the retina respond to colour?",
+      "options": [
+        { "option_id": 1, "text": "Rod-like cells", "is_correct": false },
+        { "option_id": 2, "text": "Conical cells", "is_correct": true },
+        { "option_id": 3, "text": "Optic cells", "is_correct": false },
+        { "option_id": 4, "text": "Pigment cells", "is_correct": false }
+      ],
+      "answer": "Conical cells"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "People who cannot distinguish between colours are said to be ________.",
+      "options": [
+        { "option_id": 1, "text": "Night blind", "is_correct": false },
+        { "option_id": 2, "text": "Colour blind", "is_correct": true },
+        { "option_id": 3, "text": "Short sighted", "is_correct": false },
+        { "option_id": 4, "text": "Long sighted", "is_correct": false }
+      ],
+      "answer": "Colour blind"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "In myopia, the image of a distant object is formed ________ the retina.",
+      "options": [
+        { "option_id": 1, "text": "Behind", "is_correct": false },
+        { "option_id": 2, "text": "In front of", "is_correct": true },
+        { "option_id": 3, "text": "On", "is_correct": false },
+        { "option_id": 4, "text": "Above", "is_correct": false }
+      ],
+      "answer": "In front of"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "In hypermetropia, the image of a nearby object is formed ________ the retina.",
+      "options": [
+        { "option_id": 1, "text": "In front of", "is_correct": false },
+        { "option_id": 2, "text": "Behind", "is_correct": true },
+        { "option_id": 3, "text": "On", "is_correct": false },
+        { "option_id": 4, "text": "Below", "is_correct": false }
+      ],
+      "answer": "Behind"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Concave lenses are used in ________.",
+      "options": [
+        { "option_id": 1, "text": "Simple microscope", "is_correct": false },
+        { "option_id": 2, "text": "Peephole in door", "is_correct": true },
+        { "option_id": 3, "text": "Projector", "is_correct": false },
+        { "option_id": 4, "text": "Compound microscope", "is_correct": false }
+      ],
+      "answer": "Peephole in door"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "The apparent size of an object depends on the ________ subtended by the object at the eye.",
+      "options": [
+        { "option_id": 1, "text": "Distance", "is_correct": false },
+        { "option_id": 2, "text": "Angle", "is_correct": true },
+        { "option_id": 3, "text": "Height", "is_correct": false },
+        { "option_id": 4, "text": "Width", "is_correct": false }
+      ],
+      "answer": "Angle"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "If the power of a lens is +2D, its focal length is ________.",
+      "options": [
+        { "option_id": 1, "text": "0.5 m", "is_correct": true },
+        { "option_id": 2, "text": "2 m", "is_correct": false },
+        { "option_id": 3, "text": "50 m", "is_correct": false },
+        { "option_id": 4, "text": "0.2 m", "is_correct": false }
+      ],
+      "answer": "0.5 m"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "When two lenses are kept in contact, the effective power is the ________ of their individual powers.",
+      "options": [
+        { "option_id": 1, "text": "Product", "is_correct": false },
+        { "option_id": 2, "text": "Difference", "is_correct": false },
+        { "option_id": 3, "text": "Sum", "is_correct": true },
+        { "option_id": 4, "text": "Ratio", "is_correct": false }
+      ],
+      "answer": "Sum"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The human eye has a ________ lens.",
+      "options": [
+        { "option_id": 1, "text": "Concave", "is_correct": false },
+        { "option_id": 2, "text": "Double convex", "is_correct": true },
+        { "option_id": 3, "text": "Plane", "is_correct": false },
+        { "option_id": 4, "text": "Cylindrical", "is_correct": false }
+      ],
+      "answer": "Double convex"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The pupil controls the amount of ________ entering the eye.",
+      "options": [
+        { "option_id": 1, "text": "Air", "is_correct": false },
+        { "option_id": 2, "text": "Dust", "is_correct": false },
+        { "option_id": 3, "text": "Light", "is_correct": true },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Light"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a lens?",
+      "answer": "A lens is a transparent medium bound by two surfaces."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Define convex lens.",
+      "answer": "A lens with two spherical surfaces puffed up outwards, thicker at the centre than the edges, is a convex lens."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Define concave lens.",
+      "answer": "A lens with both surfaces spherical on the inside, thinner at the centre than the edges, is a concave lens."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the centre of curvature of a lens?",
+      "answer": "The centres of spheres whose parts form the surfaces of the lenses are called centres of curvature."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the radius of curvature?",
+      "answer": "The radii of the spheres whose parts form surfaces of the lenses are called radii of curvature."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Define principal axis.",
+      "answer": "The imaginary line passing through both centres of curvature is called the principal axis of the lens."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the optical centre of a lens?",
+      "answer": "It is a point inside the lens on the principal axis through which light rays pass without changing their path."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the principal focus of a convex lens?",
+      "answer": "It is the point on the principal axis where light rays parallel to the axis converge after refraction."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the principal focus of a concave lens?",
+      "answer": "It is the point on the principal axis where light rays parallel to the axis appear to diverge from after refraction."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Define focal length.",
+      "answer": "The distance between the optical centre and the principal focus of a lens is called its focal length."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why is a convex lens called a converging lens?",
+      "answer": "Because it converges light rays parallel to the principal axis to a single point."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is a concave lens called a diverging lens?",
+      "answer": "Because it diverges light rays parallel to the principal axis away from one another."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the image nature when an object is at 2F1 for a convex lens?",
+      "answer": "The image is real, inverted, and of the same size as the object, formed at 2F2."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the image nature when an object is at focus F1 for a convex lens?",
+      "answer": "The image is real, inverted, very large, and formed at infinity."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the nature of the image formed by a concave lens?",
+      "answer": "The image is always virtual, erect, and smaller than the object."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "State the lens formula.",
+      "answer": "The lens formula is 1/v - 1/u = 1/f."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is magnification?",
+      "answer": "Magnification is the ratio of the height of the image to the height of the object."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the power of a lens?",
+      "answer": "The capacity of a lens to converge or diverge incident rays is called its power."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the unit of power of a lens?",
+      "answer": "The unit is Dioptre (D)."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the formula for power of a lens?",
+      "answer": "P = 1/f, where f is the focal length in meters."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the cornea?",
+      "answer": "It is a thin transparent membrane on the eye through which light enters."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the iris?",
+      "answer": "The iris is a dark, fleshy screen behind the cornea that controls the pupil size."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the pupil?",
+      "answer": "It is a small hole at the centre of the iris that regulates light entry."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the function of the eye lens?",
+      "answer": "It adjusts focal length to focus images on the retina."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the retina?",
+      "answer": "It is a screen inside the eye made of light-sensitive cells where images are formed."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Define power of accommodation.",
+      "answer": "It is the capacity of the eye lens to change its focal length as needed."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the near point of a normal eye?",
+      "answer": "The near point is 25 cm."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the far point of a normal eye?",
+      "answer": "The far point is infinity."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is Myopia?",
+      "answer": "Myopia or nearsightedness is a defect where nearby objects are clear but distant ones are indistinct."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What causes Myopia?",
+      "answer": "It is caused by increased curvature of the cornea/lens or elongation of the eyeball."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How is Myopia corrected?",
+      "answer": "It is corrected using spectacles with a concave lens of proper focal length."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is Hypermetropia?",
+      "answer": "Hypermetropia or farsightedness is a defect where distant objects are clear but nearby ones are indistinct."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What causes Hypermetropia?",
+      "answer": "It is caused by decreased curvature of the cornea/lens or flattening of the eyeball."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How is Hypermetropia corrected?",
+      "answer": "It is corrected using spectacles with a convex lens."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is Presbyopia?",
+      "answer": "It is an old-age vision defect where focusing power decreases, making nearby objects unclear."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How is Presbyopia corrected?",
+      "answer": "It is corrected using bifocal lenses."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is apparent size?",
+      "answer": "Apparent size depends on the angle subtended by the object at the eye."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "List two uses of concave lenses.",
+      "answer": "Used in peepholes, spectacles for myopia, torches, and cameras."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "List two uses of convex lenses.",
+      "answer": "Used in simple microscopes, compound microscopes, telescopes, and spectacles for hypermetropia."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is a simple microscope?",
+      "answer": "It is a convex lens with a small focal length that produces a magnified virtual image."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is a compound microscope?",
+      "answer": "It is an instrument with two convex lenses (objective and eyepiece) used to observe minute objects."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the function of the objective lens in a telescope?",
+      "answer": "It collects maximum light from a distant object and forms an image."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is persistence of vision?",
+      "answer": "It is the phenomenon where an image remains on the retina for 1/16th of a second after the object is removed."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What do rod-like cells in the retina do?",
+      "answer": "They respond to light intensity and provide information about brightness."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What do conical cells in the retina do?",
+      "answer": "They respond to colour and provide information about the colour of the object."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why can't we see colours in dim light?",
+      "answer": "Because conical cells, which perceive colour, respond only to bright light."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is colour blindness?",
+      "answer": "It is the inability to distinguish between certain colours due to a lack of specific conical cells."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why does a watchmaker use a convex lens?",
+      "answer": "To get a magnified view of tiny watch parts."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What happens when light enters the eye?",
+      "answer": "It is refracted by the cornea and lens to form an image on the retina."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What signals are generated by retina cells?",
+      "answer": "Electric signals are generated and sent to the brain via the optic nerve."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Where does the image form in a myopic eye?",
+      "answer": "The image forms in front of the retina."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Where does the image form in a hypermetropic eye?",
+      "answer": "The image forms behind the retina."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is the sign of focal length for a convex lens?",
+      "answer": "It is positive (+)."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is the sign of focal length for a concave lens?",
+      "answer": "It is negative (-)."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is the effective power of two lenses in contact?",
+      "answer": "P = P1 + P2."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is the focal length of a healthy eye in a relaxed state?",
+      "answer": "It is about 2 cm."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What determines the apparent size of an object?",
+      "answer": "The angle subtended by the object at the eye."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why do we use concave lenses in torches?",
+      "answer": "To spread the light widely."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What are the two types of telescopes?",
+      "answer": "Refracting telescope (lenses) and Reflecting telescope (mirrors and lenses)."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What happens if a lens is covered half?",
+      "answer": "The full image is formed but with reduced brightness."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Can a virtual image be obtained on a screen?",
+      "answer": "No, a virtual image cannot be obtained on a screen."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is the nature of the image formed by the eye lens?",
+      "answer": "It is real and inverted."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is the function of the optic nerve?",
+      "answer": "It carries electric signals from the retina to the brain."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why do old people need bifocal lenses?",
+      "answer": "To correct both nearsightedness and farsightedness caused by aging."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What happens to the focal length when the lens becomes flat?",
+      "answer": "The focal length increases."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What happens to the focal length when the lens becomes rounded?",
+      "answer": "The focal length decreases."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is the use of a scanner?",
+      "answer": "It reads text or pictures, using concave lenses in its mechanism."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is a biconvex lens?",
+      "answer": "A lens with both surfaces convex."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is a planoconcave lens?",
+      "answer": "A lens with one plane surface and one concave surface."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Calculate power if focal length is 20 cm.",
+      "answer": "P = 1/0.2 = 5 Dioptres."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Calculate focal length if power is 2 D.",
+      "answer": "f = 1/2 = 0.5 meters."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "If image distance v is positive, where is the image formed?",
+      "answer": "The image is formed on the right side of the lens (real image)."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "If magnification is negative, what is the nature of the image?",
+      "answer": "The image is inverted and real."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why does the pupil contract?",
+      "answer": "To reduce the amount of light entering the eye in bright conditions."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why does the pupil widen?",
+      "answer": "To allow more light to enter the eye in dim conditions."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is the diameter of the human eyeball?",
+      "answer": "It is approximately 2.4 cm."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Which defect requires a positive power lens?",
+      "answer": "Farsightedness or Hypermetropia."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Which defect requires a negative power lens?",
+      "answer": "Nearsightedness or Myopia."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is the role of ciliary muscles?",
+      "answer": "They adjust the curvature and focal length of the eye lens."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Does a colour blind person have normal eyesight?",
+      "answer": "Yes, apart from colour distinction, their vision is usually normal."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What happens if you bring an object closer than 25cm?",
+      "answer": "The image becomes blurred and causes eye strain."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is the sign of object distance 'u'?",
+      "answer": "It is always negative according to Cartesian sign convention."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What determines the colour of the eye?",
+      "answer": "The colour of the Iris determines the eye colour."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Can a concave lens form a real image?",
+      "answer": "No, it always forms a virtual image."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is the relationship between R and f for spherical mirrors?",
+      "answer": "R = 2f."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How many foci does a lens have?",
+      "answer": "A lens has two principal foci, F1 and F2."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Which part of a bifocal lens corrects myopia?",
+      "answer": "The upper part, which is a concave lens."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Which part of a bifocal lens corrects hypermetropia?",
+      "answer": "The lower part, which is a convex lens."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is the use of a laser in CD players?",
+      "answer": "It reads data, using concave lenses for focus."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why do we perceive red colour?",
+      "answer": "Because red light excites specific conical cells more than others."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Can rod cells distinguish colour?",
+      "answer": "No, they only respond to intensity."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is 1 dioptre equivalent to?",
+      "answer": "1 m^-1."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "How is the image formed by a simple microscope?",
+      "answer": "It is virtual, erect, and magnified."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What kind of lens is the crystalline lens in the eye?",
+      "answer": "It is a double convex transparent lens."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What covers the human eye?",
+      "answer": "A thin transparent membrane called the cornea."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Where does maximum refraction occur in the eye?",
+      "answer": "At the outer surface of the cornea."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What happens if the eyeball elongates?",
+      "answer": "It leads to Nearsightedness or Myopia."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What happens if the eyeball flattens?",
+      "answer": "It leads to Farsightedness or Hypermetropia."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is the sign of height above the principal axis?",
+      "answer": "Positive (+)."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the sign of height below the principal axis?",
+      "answer": "Negative (-)."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the working of the human eye.",
+      "answer": "Light enters through the cornea and passes through the pupil, controlled by the iris. It is then focused by the crystalline lens onto the retina. The lens adjusts its focal length (accommodation) to focus on objects at varying distances. The retina's light-sensitive cells generate electric signals, which are sent to the brain via the optic nerve, creating the visual perception."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe Myopia (Nearsightedness), its causes, and correction.",
+      "answer": "In Myopia, a person can see nearby objects clearly but distant objects appear blurry because the image forms in front of the retina. Causes include increased curvature of the cornea/lens or elongation of the eyeball. It is corrected using a concave lens of appropriate focal length, which diverges light rays so they focus on the retina."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Describe Hypermetropia (Farsightedness), its causes, and correction.",
+      "answer": "In Hypermetropia, a person can see distant objects clearly but nearby objects appear blurry because the image forms behind the retina. Causes include decreased curvature of the cornea/lens or flattening of the eyeball. It is corrected using a convex lens, which converges light rays to focus them on the retina."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain Presbyopia and its correction.",
+      "answer": "Presbyopia is an age-related condition where the eye's power of accommodation decreases due to weakening ciliary muscles or hardening lens. The near point recedes, making reading difficult. It is corrected using reading glasses with convex lenses. If a person has both myopia and hypermetropia, bifocal lenses (upper concave, lower convex) are used."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Explain the construction and working of a simple microscope.",
+      "answer": "A simple microscope consists of a convex lens with a small focal length. When an object is placed within its focal length, a virtual, erect, and magnified image is formed. It provides magnification up to 20 times. It is used by watchmakers and jewellers to view tiny parts."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Explain the construction and working of a compound microscope.",
+      "answer": "A compound microscope uses two convex lenses: an objective (small aperture/focal length) and an eyepiece (large aperture/focal length). The objective forms a real, magnified image of the object. This image acts as an object for the eyepiece, which forms a final highly magnified, virtual image. It is used to observe minute objects like cells."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain the construction and working of a telescope.",
+      "answer": "A refracting telescope uses two convex lenses: an objective (large aperture/focal length) to collect light from distant objects, and an eyepiece (small aperture/focal length) to magnify the image. The objective forms a real image, which the eyepiece magnifies. It is used to view celestial bodies."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Describe the Cartesian sign convention for lenses.",
+      "answer": "1. Optical centre (O) is the origin. Principal axis is the X-axis. 2. Object is placed on the left. 3. Distances to the right of O are positive; to the left are negative. 4. Heights above the axis are positive; below are negative. 5. Convex lens focal length is positive; concave is negative."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain the concept of Persistence of Vision with an example.",
+      "answer": "Persistence of vision is the retention of a visual image on the retina for about 1/16th of a second after the source is removed. This creates an illusion of continuity. For example, if a cardboard with a bird on one side and a cage on the other is spun rapidly, the bird appears to be inside the cage."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Explain how we perceive colours.",
+      "answer": "The retina contains cone cells that respond to specific colours (red, green, blue) in bright light. When light strikes them, they send signals to the brain, which processes the colour information. Rod cells detect intensity but not colour. Colour blindness occurs if specific cone cells are missing."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Differentiate between convex and concave lenses.",
+      "answer": "Convex lens: Thicker at centre, converging, positive focal length, forms real/virtual images, used for hypermetropia. Concave lens: Thinner at centre, diverging, negative focal length, forms only virtual/diminished images, used for myopia."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain the three rules for drawing ray diagrams for a convex lens.",
+      "answer": "1. Incident ray parallel to principal axis refracts through the focus. 2. Incident ray passing through focus refracts parallel to the axis. 3. Incident ray passing through the optical centre goes undeviated."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Describe the image formation by a convex lens when the object is beyond 2F1.",
+      "answer": "When an object is placed beyond 2F1, the incident rays refract to form an image between F2 and 2F2 on the other side. The image is real, inverted, and smaller in size than the object."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Why does a piece of paper burn when placed at the focus of a convex lens in sunlight?",
+      "answer": "A convex lens converges parallel sunrays to its principal focus. This concentration of light energy at a single point generates intense heat. If paper is placed at this focus, the heat is sufficient to ignite it."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Explain Power of Accommodation.",
+      "answer": "It is the ability of the eye lens to adjust its focal length to see objects at various distances. For distant objects, ciliary muscles relax, flattening the lens (increasing focal length). For nearby objects, muscles contract, rounding the lens (decreasing focal length). There is a limit to this adjustment."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Discuss the uses of concave lenses.",
+      "answer": "Concave lenses are used in medical equipment (lasers), peepholes in doors (for wide view), spectacles (correcting myopia), torches (to spread light), and in cameras/telescopes (to correct aberrations)."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Discuss the uses of convex lenses.",
+      "answer": "Convex lenses are used in simple microscopes (magnifiers), compound microscopes, telescopes, cameras, projectors, spectacles (correcting hypermetropia), and by watchmakers."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Solve: An object is at 20 cm from a convex lens of focal length 10 cm. Find image position and nature.",
+      "answer": "u = -20, f = +10. 1/v - 1/u = 1/f => 1/v = 1/10 + 1/-20 = 1/20. So v = +20 cm. Image is at 20 cm on the other side. Magnification M = v/u = 20/-20 = -1. Image is real, inverted, and same size."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Solve: Doctor prescribed lens +1.5 D. Find focal length and defect type.",
+      "answer": "P = +1.5 D. f = 1/P = 1/1.5 = 0.67 m. Since power is positive, it is a convex lens used to correct Farsightedness (Hypermetropia)."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Solve: Object 5cm high at 25cm from converging lens f=10cm. Find image size and type.",
+      "answer": "u=-25, f=10, h1=5. 1/v = 1/10 - 1/25 = 3/50. v = 16.7 cm. M = v/u = 16.7/-25 = -0.67. h2 = M*h1 = -3.3 cm. Image is real, inverted, diminished."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Solve: Lenses of power 2, 2.5, 1.7 D are combined. Find total power.",
+      "answer": "Total Power P = P1 + P2 + P3 = 2 + 2.5 + 1.7 = 6.2 Dioptres."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Solve: Object at 60cm gives virtual image at 20cm. Find f.",
+      "answer": "u=-60, v=-20 (virtual). 1/f = 1/-20 - 1/-60 = -3/60 + 1/60 = -2/60. f = -30 cm. Since f is negative, it is a concave (diverging) lens."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Explain Apparent Size of an object.",
+      "answer": "The apparent size depends on the angle subtended by the object at the eye. An object closer to the eye subtends a larger angle and appears bigger than the same object further away. This is why small objects are brought closer to see details, but not closer than 25cm to avoid strain."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Why is the image formed by a concave lens always virtual?",
+      "answer": "A concave lens diverges light rays. The refracted rays never meet actually on the other side. They appear to diverge from a point on the same side as the object (focus). Since the rays only appear to meet, the image is always virtual and erect."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Explain the ray diagram for an object at infinity for a convex lens.",
+      "answer": "Rays coming from infinity are parallel to the principal axis. After refraction through the convex lens, they all converge at the principal focus (F2). The image formed is real, inverted, and point-sized."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain the ray diagram for an object between F1 and O for a convex lens.",
+      "answer": "Rays from the object refract and diverge on the other side. When extended backwards, they appear to meet on the same side as the object. The image formed is virtual, erect, and magnified. This is the principle of a simple microscope."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Why can't we see clearly at distances less than 25 cm?",
+      "answer": "The eye lens has a limit to how much it can curve (accommodate). At distances less than 25 cm, the ciliary muscles cannot contract enough to focus the image on the retina. The image forms behind the retina, causing blurriness and strain."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "What is the function of the iris and ciliary muscles?",
+      "answer": "The iris controls the size of the pupil, regulating light entry. Ciliary muscles hold the lens and adjust its curvature (focal length) to focus on objects at different distances. Together, they ensure clear vision in varying light and distances."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Describe the nature of the image formed by the human eye.",
+      "answer": "The eye lens is a convex lens. It forms a real and inverted image of the object on the retina. The light-sensitive cells convert this into electrical signals. The brain interprets these signals and erects the image perception, allowing us to see objects upright."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "What are the differences between a simple and compound microscope?",
+      "answer": "Simple: One lens, low magnification (20x), virtual image. Compound: Two lenses (objective, eyepiece), high magnification (1000x), uses real intermediate image to form final virtual magnified image. Simple used for watches; compound for cells."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain the image formation in a telescope.",
+      "answer": "The objective lens captures light from a distant object and forms a real, inverted image at its focus. This image lies within the focal length of the eyepiece. The eyepiece then acts as a simple magnifier, forming a final, highly magnified, virtual image for the observer."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Why is the focal length of the objective in a telescope large?",
+      "answer": "A large focal length allows for high magnification (M = fo/fe). It also helps in collecting more light from faint distant objects, resulting in a brighter and clearer image."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Why does a concave lens always diminish the image?",
+      "answer": "A concave lens diverges light. The geometric construction of rays shows that for any object position, the refracted rays appear to come from a point between the optical center and focus. This always results in an image height smaller than the object height."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "How does a camera lens work?",
+      "answer": "A camera uses a convex lens to focus light onto a film or sensor. It forms a real and inverted image. The distance between the lens and sensor is adjusted to focus objects at different distances, similar to the eye but by moving the lens rather than changing shape."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Explain the term 'Distance of distinct vision'.",
+      "answer": "It is the minimum distance from the eye at which an object can be seen clearly without strain. For a normal adult eye, this is 25 cm. If objects are closer, the eye cannot focus properly. This distance increases with age (presbyopia)."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "What are the signs of u, v, f for a magnifying glass usage?",
+      "answer": "Object distance u is negative. Image distance v is negative (virtual, same side). Focal length f is positive (convex lens). The object is placed such that |u| < f."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Why is the objective lens of a microscope small?",
+      "answer": "A small aperture and focal length allow the objective to be brought very close to the small object. This ensures that the light from the object enters the lens at a wide angle, allowing for greater resolution and initial magnification."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "How do we detect defects of vision?",
+      "answer": "Defects are detected by checking the ability to read charts at a distance (Snellen chart) or reading text close up. An optometrist measures the refractive error to determine if the focus is in front of (myopia) or behind (hypermetropia) the retina."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "What is the relation between the curvature of the lens and its power?",
+      "answer": "Higher curvature means a smaller radius of curvature, which leads to a shorter focal length. Since Power P = 1/f, a lens with high curvature (thick) has high power. A flat lens has low power."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Can a convex lens act as a diverging lens?",
+      "answer": "Generally, no, in air. However, if a convex lens is placed in a medium with a refractive index higher than the lens material, it will act as a diverging lens."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Explain how colour blindness affects a person's life.",
+      "answer": "A colour blind person cannot distinguish between certain colours, typically red and green. This can affect daily tasks like traffic signals, reading maps, or choosing clothes. However, their visual acuity (sharpness) is normal. It is a genetic condition."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Why is the image in the eye inverted but we see it erect?",
+      "answer": "The optics of the eye lens create an inverted image on the retina. However, vision is a process of the brain, not just the eye. The brain processes the inverted signals from the optic nerve and reorients the perception so we 'see' the world upright."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "What is the purpose of the 'screen' in the lens experiment?",
+      "answer": "The screen is used to capture the real image formed by the convex lens. Since real images are formed by actual convergence of light, they can be projected. The screen allows us to measure the image distance and observe its clarity."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Why do stars twinkle?",
+      "answer": "(Context from previous standards mentioned in lens chapter) Stars are point sources. Atmospheric refraction causes the light path to fluctuate due to changing air density. This variation in light intensity reaching the eye is perceived as twinkling."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "How does the eye adjust to different light intensities?",
+      "answer": "The iris muscles expand or contract the pupil. In bright light, the pupil contracts to limit light and prevent damage. In dim light, the pupil dilates to allow maximum light for visibility. This is a reflex action."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "What is the difference between a real and virtual image formed by lenses?",
+      "answer": "Real: Light rays actually meet, can be on screen, inverted, formed by convex lens. Virtual: Light rays appear to meet, cannot be on screen, erect, formed by concave lens (or convex when object is close)."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Why are astronomical telescopes reflecting type sometimes?",
+      "answer": "Reflecting telescopes use mirrors instead of large lenses. Mirrors are lighter, easier to manufacture, and do not suffer from chromatic aberration (colour defects) like lenses. This allows for much larger apertures to view fainter objects."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "How to determine the focal length of a convex lens experimentally?",
+      "answer": "Focus a distant object (like a tree) on a screen using the lens. The distance from the lens to the screen is the approximate focal length. For more accuracy, place an object at 2F; the image will form at 2F. Measure image distance."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "What happens if a person wears convex glasses for myopia?",
+      "answer": "It would worsen the condition. Myopia causes light to focus too early. A convex lens converges light further, making the focus point move even more in front of the retina, blurring the vision further."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Explain the role of sensors in digital cameras compared to the retina.",
+      "answer": "Digital sensors (CCD/CMOS) act like the retina. They have millions of light-sensitive pixels (like rods/cones). They convert light into digital electric signals, which are processed by a processor (like the brain) to create an image file."
+    }
+  ]
+}

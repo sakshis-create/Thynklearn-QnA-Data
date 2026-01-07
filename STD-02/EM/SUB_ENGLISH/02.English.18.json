@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.18",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Writing Skills"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the main character looking for friends?",
+      "options": [
+        { "option_id": 1, "text": "A Tiger", "is_correct": false },
+        { "option_id": 2, "text": "A Lone Elephant", "is_correct": true },
+        { "option_id": 3, "text": "A Monkey", "is_correct": false },
+        { "option_id": 4, "text": "A Rabbit", "is_correct": false }
+      ],
+      "answer": "A Lone Elephant"
+    }
+  ]
+}

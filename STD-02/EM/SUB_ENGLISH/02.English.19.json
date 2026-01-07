@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.19",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Mice"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "According to the poet, mice are...",
+      "options": [
+        { "option_id": 1, "text": "Very bad", "is_correct": false },
+        { "option_id": 2, "text": "Rather nice", "is_correct": true },
+        { "option_id": 3, "text": "Scary", "is_correct": false },
+        { "option_id": 4, "text": "Ugly", "is_correct": false }
+      ],
+      "answer": "Rather nice"
+    }
+  ]
+}

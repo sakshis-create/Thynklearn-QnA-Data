@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.4.4",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Height of the Ridiculous"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'The Height of the Ridiculous'?",
+      "options": [
+        { "option_id": 1, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 2, "text": "Oliver Wendell Holmes", "is_correct": true },
+        { "option_id": 3, "text": "John Keats", "is_correct": false },
+        { "option_id": 4, "text": "Robert Frost", "is_correct": false }
+      ],
+      "answer": "Oliver Wendell Holmes"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In what mood did the poet write the lines?",
+      "options": [
+        { "option_id": 1, "text": "Sad mood", "is_correct": false },
+        { "option_id": 2, "text": "Angry mood", "is_correct": false },
+        { "option_id": 3, "text": "Wondrous merry mood", "is_correct": true },
+        { "option_id": 4, "text": "Serious mood", "is_correct": false }
+      ],
+      "answer": "Wondrous merry mood"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What did the poet think men would say about his lines?",
+      "options": [
+        { "option_id": 1, "text": "They were bad", "is_correct": false },
+        { "option_id": 2, "text": "They were exceeding good", "is_correct": true },
+        { "option_id": 3, "text": "They were boring", "is_correct": false },
+        { "option_id": 4, "text": "They were confusing", "is_correct": false }
+      ],
+      "answer": "They were exceeding good"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How does the poet describe the lines he wrote?",
+      "options": [
+        { "option_id": 1, "text": "Simple", "is_correct": false },
+        { "option_id": 2, "text": "So queer, so very queer", "is_correct": true },
+        { "option_id": 3, "text": "Tragic", "is_correct": false },
+        { "option_id": 4, "text": "Long", "is_correct": false }
+      ],
+      "answer": "So queer, so very queer"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What describes the poet's general nature?",
+      "options": [
+        { "option_id": 1, "text": "A jolly man", "is_correct": false },
+        { "option_id": 2, "text": "A sober man", "is_correct": true },
+        { "option_id": 3, "text": "A cruel man", "is_correct": false },
+        { "option_id": 4, "text": "A lazy man", "is_correct": false }
+      ],
+      "answer": "A sober man"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who did the poet call to take the paper?",
+      "options": [
+        { "option_id": 1, "text": "His wife", "is_correct": false },
+        { "option_id": 2, "text": "His friend", "is_correct": false },
+        { "option_id": 3, "text": "His servant", "is_correct": true },
+        { "option_id": 4, "text": "The postman", "is_correct": false }
+      ],
+      "answer": "His servant"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How does the poet describe himself physically?",
+      "options": [
+        { "option_id": 1, "text": "A mighty man", "is_correct": false },
+        { "option_id": 2, "text": "A slender man", "is_correct": true },
+        { "option_id": 3, "text": "A short man", "is_correct": false },
+        { "option_id": 4, "text": "A fat man", "is_correct": false }
+      ],
+      "answer": "A slender man"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How does the poet describe the servant?",
+      "options": [
+        { "option_id": 1, "text": "He of the slender limb", "is_correct": false },
+        { "option_id": 2, "text": "He of the mighty limb", "is_correct": true },
+        { "option_id": 3, "text": "A sober man", "is_correct": false },
+        { "option_id": 4, "text": "A weak man", "is_correct": false }
+      ],
+      "answer": "He of the mighty limb"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where did the poet send the lines?",
+      "options": [
+        { "option_id": 1, "text": "To the bin", "is_correct": false },
+        { "option_id": 2, "text": "To his friend", "is_correct": false },
+        { "option_id": 3, "text": "To the printer", "is_correct": true },
+        { "option_id": 4, "text": "To the library", "is_correct": false }
+      ],
+      "answer": "To the printer"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does 'trifling jest' mean?",
+      "options": [
+        { "option_id": 1, "text": "A serious matter", "is_correct": false },
+        { "option_id": 2, "text": "A big joke", "is_correct": false },
+        { "option_id": 3, "text": "A small simple joke", "is_correct": true },
+        { "option_id": 4, "text": "A confusing riddle", "is_correct": false }
+      ],
+      "answer": "A small simple joke"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What happened when the servant read the first line?",
+      "options": [
+        { "option_id": 1, "text": "He cried", "is_correct": false },
+        { "option_id": 2, "text": "His face was all upon the grin", "is_correct": true },
+        { "option_id": 3, "text": "He roared", "is_correct": false },
+        { "option_id": 4, "text": "He fell down", "is_correct": false }
+      ],
+      "answer": "His face was all upon the grin"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What happened at the third line?",
+      "options": [
+        { "option_id": 1, "text": "A chuckling noise was heard", "is_correct": true },
+        { "option_id": 2, "text": "He stopped reading", "is_correct": false },
+        { "option_id": 3, "text": "He grinned broadly", "is_correct": false },
+        { "option_id": 4, "text": "His buttons burst", "is_correct": false }
+      ],
+      "answer": "A chuckling noise was heard"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "At which line did the servant break into a roar?",
+      "options": [
+        { "option_id": 1, "text": "The first", "is_correct": false },
+        { "option_id": 2, "text": "The third", "is_correct": false },
+        { "option_id": 3, "text": "The fourth", "is_correct": true },
+        { "option_id": 4, "text": "The sixth", "is_correct": false }
+      ],
+      "answer": "The fourth"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What happened at the fifth line?",
+      "options": [
+        { "option_id": 1, "text": "He tumbled in a fit", "is_correct": false },
+        { "option_id": 2, "text": "His waistband split", "is_correct": true },
+        { "option_id": 3, "text": "He grinned", "is_correct": false },
+        { "option_id": 4, "text": "He ran away", "is_correct": false }
+      ],
+      "answer": "His waistband split"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "How many buttons burst off the servant?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Five", "is_correct": true },
+        { "option_id": 4, "text": "Six", "is_correct": false }
+      ],
+      "answer": "Five"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What happened at the sixth line?",
+      "options": [
+        { "option_id": 1, "text": "He burst five buttons and tumbled in a fit", "is_correct": true },
+        { "option_id": 2, "text": "He laughed softly", "is_correct": false },
+        { "option_id": 3, "text": "He tore the paper", "is_correct": false },
+        { "option_id": 4, "text": "He left the room", "is_correct": false }
+      ],
+      "answer": "He burst five buttons and tumbled in a fit"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "How long did the poet watch the servant afterwards?",
+      "options": [
+        { "option_id": 1, "text": "One day", "is_correct": false },
+        { "option_id": 2, "text": "Two nights", "is_correct": false },
+        { "option_id": 3, "text": "Ten days and nights", "is_correct": true },
+        { "option_id": 4, "text": "A week", "is_correct": false }
+      ],
+      "answer": "Ten days and nights"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What word is used to describe the servant's condition at the end?",
+      "options": [
+        { "option_id": 1, "text": "Happy", "is_correct": false },
+        { "option_id": 2, "text": "Wretched", "is_correct": true },
+        { "option_id": 3, "text": "Healthy", "is_correct": false },
+        { "option_id": 4, "text": "Angry", "is_correct": false }
+      ],
+      "answer": "Wretched"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What did the poet decide at the end?",
+      "options": [
+        { "option_id": 1, "text": "To write more funny poems", "is_correct": false },
+        { "option_id": 2, "text": "To stop writing", "is_correct": false },
+        { "option_id": 3, "text": "Never to write as funny as he can", "is_correct": true },
+        { "option_id": 4, "text": "To become a comedian", "is_correct": false }
+      ],
+      "answer": "Never to write as funny as he can"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is a syllable?",
+      "options": [
+        { "option_id": 1, "text": "A full sentence", "is_correct": false },
+        { "option_id": 2, "text": "A unit of spoken language with a single sound", "is_correct": true },
+        { "option_id": 3, "text": "A punctuation mark", "is_correct": false },
+        { "option_id": 4, "text": "A type of rhyme", "is_correct": false }
+      ],
+      "answer": "A unit of spoken language with a single sound"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "How many syllables are in the word 'ant'?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": true },
+        { "option_id": 2, "text": "Two", "is_correct": false },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "One"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How many syllables are in the word 'water'?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": true },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "How many syllables are in the word 'Inferno'?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": false },
+        { "option_id": 3, "text": "Three", "is_correct": true },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of these words has one syllable?",
+      "options": [
+        { "option_id": 1, "text": "Narrow", "is_correct": false },
+        { "option_id": 2, "text": "Jump", "is_correct": true },
+        { "option_id": 3, "text": "Cable", "is_correct": false },
+        { "option_id": 4, "text": "Paper", "is_correct": false }
+      ],
+      "answer": "Jump"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of these words has two syllables?",
+      "options": [
+        { "option_id": 1, "text": "Tree", "is_correct": false },
+        { "option_id": 2, "text": "Star", "is_correct": false },
+        { "option_id": 3, "text": "Kitten", "is_correct": true },
+        { "option_id": 4, "text": "Cloud", "is_correct": false }
+      ],
+      "answer": "Kitten"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Identify the figure of speech: 'They were so queer, so very queer'.",
+      "options": [
+        { "option_id": 1, "text": "Repetition", "is_correct": true },
+        { "option_id": 2, "text": "Simile", "is_correct": false },
+        { "option_id": 3, "text": "Metaphor", "is_correct": false },
+        { "option_id": 4, "text": "Personification", "is_correct": false }
+      ],
+      "answer": "Repetition"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Identify the figure of speech: 'I laughed as I would die'.",
+      "options": [
+        { "option_id": 1, "text": "Hyperbole", "is_correct": true },
+        { "option_id": 2, "text": "Tautology", "is_correct": false },
+        { "option_id": 3, "text": "Onomatopoeia", "is_correct": false },
+        { "option_id": 4, "text": "Inversion", "is_correct": false }
+      ],
+      "answer": "Hyperbole"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Identify the figure of speech: 'And saw him peep within'.",
+      "options": [
+        { "option_id": 1, "text": "Tautology", "is_correct": true },
+        { "option_id": 2, "text": "Hyperbole", "is_correct": false },
+        { "option_id": 3, "text": "Personification", "is_correct": false },
+        { "option_id": 4, "text": "Antithesis", "is_correct": false }
+      ],
+      "answer": "Tautology"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Identify the figure of speech: 'The grin grew broad'.",
+      "options": [
+        { "option_id": 1, "text": "Alliteration", "is_correct": true },
+        { "option_id": 2, "text": "Simile", "is_correct": false },
+        { "option_id": 3, "text": "Metaphor", "is_correct": false },
+        { "option_id": 4, "text": "Apostrophe", "is_correct": false }
+      ],
+      "answer": "Alliteration"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Identify the figure of speech: 'And shot from ear to ear'.",
+      "options": [
+        { "option_id": 1, "text": "Hyperbole", "is_correct": true },
+        { "option_id": 2, "text": "Onomatopoeia", "is_correct": false },
+        { "option_id": 3, "text": "Euphemism", "is_correct": false },
+        { "option_id": 4, "text": "Synecdoche", "is_correct": false }
+      ],
+      "answer": "Hyperbole"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Identify the figure of speech: 'He broke into a roar'.",
+      "options": [
+        { "option_id": 1, "text": "Onomatopoeia", "is_correct": true },
+        { "option_id": 2, "text": "Tautology", "is_correct": false },
+        { "option_id": 3, "text": "Inversion", "is_correct": false },
+        { "option_id": 4, "text": "Antithesis", "is_correct": false }
+      ],
+      "answer": "Onomatopoeia"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Identify the figure of speech: 'Ten days and nights with sleepless eye'.",
+      "options": [
+        { "option_id": 1, "text": "Transferred Epithet", "is_correct": true },
+        { "option_id": 2, "text": "Simile", "is_correct": false },
+        { "option_id": 3, "text": "Personification", "is_correct": false },
+        { "option_id": 4, "text": "Irony", "is_correct": false }
+      ],
+      "answer": "Transferred Epithet"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What does 'Albeit' mean?",
+      "options": [
+        { "option_id": 1, "text": "Although", "is_correct": true },
+        { "option_id": 2, "text": "Always", "is_correct": false },
+        { "option_id": 3, "text": "Already", "is_correct": false },
+        { "option_id": 4, "text": "Almost", "is_correct": false }
+      ],
+      "answer": "Although"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What does 'Ridiculous' mean in the poem's context?",
+      "options": [
+        { "option_id": 1, "text": "Stupid", "is_correct": false },
+        { "option_id": 2, "text": "Too funny to believe", "is_correct": true },
+        { "option_id": 3, "text": "Scary", "is_correct": false },
+        { "option_id": 4, "text": "Boring", "is_correct": false }
+      ],
+      "answer": "Too funny to believe"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What does 'sober' mean?",
+      "options": [
+        { "option_id": 1, "text": "Drunk", "is_correct": false },
+        { "option_id": 2, "text": "Clear headed, serious", "is_correct": true },
+        { "option_id": 3, "text": "Sad", "is_correct": false },
+        { "option_id": 4, "text": "Angry", "is_correct": false }
+      ],
+      "answer": "Clear headed, serious"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What rhyme scheme is used in the poem?",
+      "options": [
+        { "option_id": 1, "text": "abab", "is_correct": false },
+        { "option_id": 2, "text": "abcb", "is_correct": true },
+        { "option_id": 3, "text": "aabb", "is_correct": false },
+        { "option_id": 4, "text": "abba", "is_correct": false }
+      ],
+      "answer": "abcb"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'mood' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Good", "is_correct": true },
+        { "option_id": 2, "text": "Food", "is_correct": false },
+        { "option_id": 3, "text": "Wood", "is_correct": false },
+        { "option_id": 4, "text": "Rude", "is_correct": false }
+      ],
+      "answer": "Good"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'him' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Dim", "is_correct": false },
+        { "option_id": 2, "text": "Limb", "is_correct": true },
+        { "option_id": 3, "text": "Rim", "is_correct": false },
+        { "option_id": 4, "text": "Sim", "is_correct": false }
+      ],
+      "answer": "Limb"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'way' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Say", "is_correct": false },
+        { "option_id": 2, "text": "Pay", "is_correct": true },
+        { "option_id": 3, "text": "May", "is_correct": false },
+        { "option_id": 4, "text": "Day", "is_correct": false }
+      ],
+      "answer": "Pay"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'within' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Sin", "is_correct": false },
+        { "option_id": 2, "text": "Grin", "is_correct": true },
+        { "option_id": 3, "text": "Pin", "is_correct": false },
+        { "option_id": 4, "text": "Thin", "is_correct": false }
+      ],
+      "answer": "Grin"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'ear' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Fear", "is_correct": false },
+        { "option_id": 2, "text": "Hear", "is_correct": true },
+        { "option_id": 3, "text": "Dear", "is_correct": false },
+        { "option_id": 4, "text": "Near", "is_correct": false }
+      ],
+      "answer": "Hear"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'split' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Sit", "is_correct": false },
+        { "option_id": 2, "text": "Fit", "is_correct": true },
+        { "option_id": 3, "text": "Hit", "is_correct": false },
+        { "option_id": 4, "text": "Lit", "is_correct": false }
+      ],
+      "answer": "Fit"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'man' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Can", "is_correct": true },
+        { "option_id": 2, "text": "Ran", "is_correct": false },
+        { "option_id": 3, "text": "Fan", "is_correct": false },
+        { "option_id": 4, "text": "Pan", "is_correct": false }
+      ],
+      "answer": "Can"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What expression did the poet use to warn the printer?",
+      "options": [
+        { "option_id": 1, "text": "Handle with care", "is_correct": false },
+        { "option_id": 2, "text": "There'll be the devil to pay", "is_correct": true },
+        { "option_id": 3, "text": "Do not read", "is_correct": false },
+        { "option_id": 4, "text": "It is dangerous", "is_correct": false }
+      ],
+      "answer": "There'll be the devil to pay"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "How many days and nights did the poet watch the servant?",
+      "options": [
+        { "option_id": 1, "text": "Five", "is_correct": false },
+        { "option_id": 2, "text": "Seven", "is_correct": false },
+        { "option_id": 3, "text": "Ten", "is_correct": true },
+        { "option_id": 4, "text": "Twelve", "is_correct": false }
+      ],
+      "answer": "Ten"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which word has 3 syllables?",
+      "options": [
+        { "option_id": 1, "text": "Rough", "is_correct": false },
+        { "option_id": 2, "text": "Mirror", "is_correct": false },
+        { "option_id": 3, "text": "Elephant", "is_correct": true },
+        { "option_id": 4, "text": "Bus", "is_correct": false }
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which word has 1 syllable?",
+      "options": [
+        { "option_id": 1, "text": "Insect", "is_correct": false },
+        { "option_id": 2, "text": "Rough", "is_correct": true },
+        { "option_id": 3, "text": "Kangaroo", "is_correct": false },
+        { "option_id": 4, "text": "Bucket", "is_correct": false }
+      ],
+      "answer": "Rough"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which word has 2 syllables?",
+      "options": [
+        { "option_id": 1, "text": "Bus", "is_correct": false },
+        { "option_id": 2, "text": "Telephone", "is_correct": false },
+        { "option_id": 3, "text": "Mirror", "is_correct": true },
+        { "option_id": 4, "text": "Began", "is_correct": true }
+      ],
+      "answer": "Mirror"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The poem is about an experience that is:",
+      "options": [
+        { "option_id": 1, "text": "Scary", "is_correct": false },
+        { "option_id": 2, "text": "Humorous", "is_correct": true },
+        { "option_id": 3, "text": "Sad", "is_correct": false },
+        { "option_id": 4, "text": "Adventurous", "is_correct": false }
+      ],
+      "answer": "Humorous"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'slender'?",
+      "options": [
+        { "option_id": 1, "text": "Thin", "is_correct": false },
+        { "option_id": 2, "text": "Mighty/Stout", "is_correct": true },
+        { "option_id": 3, "text": "Tall", "is_correct": false },
+        { "option_id": 4, "text": "Weak", "is_correct": false }
+      ],
+      "answer": "Mighty/Stout"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What did the poet write 'once on a time'?",
+      "answer": "The poet wrote some lines in a wondrous merry mood."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How did the poet feel while writing the lines?",
+      "answer": "The poet was in a wondrous merry mood."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What did the poet expect men to say about his lines?",
+      "answer": "He expected men to say they were exceeding good."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why did the poet laugh as if he would die?",
+      "answer": "Because the lines he wrote were so queer, so very queer."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Describe the contrast between the poet and the servant physically.",
+      "answer": "The poet was a slender man, while the servant was a man of the mighty limb (strong/muscular)."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What instruction did the poet give his servant?",
+      "answer": "The poet told his servant to take the lines to the printer."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What did the poet add as a 'trifling jest'?",
+      "answer": "He added the line: 'There'll be the devil to pay'."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What did the servant do when he took the paper?",
+      "answer": "He peeped within the paper to read it."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What was the servant's reaction to the first line?",
+      "answer": "His face was all upon the grin."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What happened to the grin at the second line?",
+      "answer": "The grin grew broad and shot from ear to ear."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What sound did the poet hear at the third line?",
+      "answer": "The poet heard a chuckling noise."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What happened to the servant at the fourth line?",
+      "answer": "He broke into a roar of laughter."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What physical damage happened to the servant's clothes?",
+      "answer": "His waistband split and he burst five buttons."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What was the servant's final reaction after the sixth line?",
+      "answer": "He tumbled in a fit."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How did the poet care for the servant afterwards?",
+      "answer": "The poet watched him for ten days and nights with sleepless eye."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the condition of the servant described as at the end?",
+      "answer": "He is described as a 'wretched man'."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What resolution did the poet make at the end?",
+      "answer": "He resolved never to write as funny as he can again."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Define 'Ridiculous' in the context of the poem.",
+      "answer": "It means something too funny to believe or absurd."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does 'wondrous' mean?",
+      "answer": "It means delightful or wonderful."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What does 'Albeit' mean?",
+      "answer": "Albeit means 'though' or 'although'."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What does 'sober' mean?",
+      "answer": "Sober means clear-headed or serious."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What does 'trifling jest' mean?",
+      "answer": "It means a small, simple joke of no great importance."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What does 'wretched' mean?",
+      "answer": "It means in a helpless or miserable condition."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the rhyme scheme of the poem?",
+      "answer": "The rhyme scheme is abcb."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Give a rhyming pair from the first stanza.",
+      "answer": "mood - good."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Give a rhyming pair from the second stanza.",
+      "answer": "die - I."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Give a rhyming pair from the third stanza.",
+      "answer": "him - limb."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Give a rhyming pair from the fourth stanza.",
+      "answer": "way - pay."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Give a rhyming pair from the fifth stanza.",
+      "answer": "within - grin."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Give a rhyming pair from the sixth stanza.",
+      "answer": "ear - hear."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Give a rhyming pair from the seventh stanza.",
+      "answer": "split - fit."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Give a rhyming pair from the last stanza.",
+      "answer": "man - can."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'In wondrous merry mood'.",
+      "answer": "Tautology (wondrous and merry indicate similar meaning)."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'They were so queer, so very queer'.",
+      "answer": "Repetition (the word 'queer' is repeated)."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'And saw him peep within'.",
+      "answer": "Tautology ('peep' and 'within' imply looking inside)."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'The grin grew broad'.",
+      "answer": "Alliteration (Repetition of 'g' sound)."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'And shot from ear to ear'.",
+      "answer": "Hyperbole (Exaggeration of the grin's width)."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'He broke into a roar'.",
+      "answer": "Onomatopoeia (The word 'roar' indicates sound)."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'Ten days and nights with sleepless eye'.",
+      "answer": "Transferred Epithet (The adjective 'sleepless' is transferred from the poet to his eye)."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is a syllable?",
+      "answer": "A syllable is a unit of spoken language made up of a single uninterrupted sound formed by a vowel and consonants."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "How many syllables are in the word 'butter'?",
+      "answer": "Two syllables."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "How many syllables are in the word 'tree'?",
+      "answer": "One syllable."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How many syllables are in the word 'yellow'?",
+      "answer": "Two syllables."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How many syllables are in the word 'kangaroo'?",
+      "answer": "Three syllables."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How many syllables are in the word 'telephone'?",
+      "answer": "Three syllables."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "List two words with one syllable from the provided box.",
+      "answer": "Jump, Live, Tree, Van, Dale, Night, Star, Pearl, Cloud."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "List two words with two syllables from the provided box.",
+      "answer": "Narrow, Cable, Butter, Kitten, Yellow, Happy, Printer, Sober, Paper, Within, Began, Slender."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Complete the line: 'We returned home late, one _____'.",
+      "answer": "night."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Complete the line: 'In the window, there glowed a _____'.",
+      "answer": "light."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Complete the line: 'Burglars !! was our very first _____'.",
+      "answer": "thought."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Summarize the poem 'The Height of the Ridiculous'.",
+      "answer": "The poem describes a time when the poet wrote some lines in a very happy mood. He found them incredibly funny, even though he is usually a serious man. He asked his strong servant to deliver the poem to the printer. As the servant read the lines, his reaction escalated from a grin to a broad smile, then chuckling, roaring laughter, and finally bursting buttons and splitting his waistband. He fell into a fit of laughter. The poet had to nurse him for ten days and nights. Due to this incident, the poet decided never to write anything that funny again."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Explain the progression of the servant's reaction to the poem.",
+      "answer": "The servant's reaction progresses in intensity as he reads more lines. At the first line, he simply grins. By the second line, the grin widens from ear to ear. The third line causes him to chuckle. At the fourth line, he starts roaring with laughter. The fifth line is so funny his waistband splits. By the sixth line, the humor is physically overwhelming, causing five buttons to burst off and him to tumble into a fit. This gradation emphasizes the increasing hilarity of the poem."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Why is the title 'The Height of the Ridiculous' appropriate?",
+      "answer": "The title is appropriate because the poem describes a situation that is absurdly funny or 'ridiculous' to the extreme degree ('height'). The poem itself is about lines so funny they are dangerous. The servant's exaggerated physical reaction—bursting buttons and splitting clothes—is ridiculous. The poet's resolve never to be that funny again because of the consequences highlights the absurdity. The entire scenario represents the peak of humorous exaggeration."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Describe the contrast between the poet and the servant and its effect.",
+      "answer": "The poet describes himself as a 'slender man' and usually 'sober' (serious). In contrast, the servant is described as 'he of the mighty limb', implying he is big and strong. This physical contrast adds to the humor. A strong, mighty man is completely overcome and physically disabled by mere words written by a slender man. It highlights the power of the humor that could knock down such a strong person."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Explain the figure of speech 'Transferred Epithet' with reference to the poem.",
+      "answer": "In the line 'Ten days and nights, with sleepless eye', the figure of speech is Transferred Epithet. An epithet is an adjective. Here, the adjective 'sleepless' describes the 'eye'. However, logically, an eye cannot be sleepless; it is the person (the poet) who is sleepless. The quality of the person is transferred to his body part (eye) for poetic effect, emphasizing his constant vigil and worry."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Discuss the use of Hyperbole in the poem.",
+      "answer": "Hyperbole, or exaggeration, is central to this poem's humor. Examples include 'I laughed as I would die', suggesting laughter could be fatal. The servant's grin shooting 'from ear to ear' is an exaggeration of width. The lines about the waistband splitting, five buttons bursting off, and the servant tumbling in a fit are all hyperbolic descriptions of laughter's physical effects. These exaggerations create the comic tone."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "What is the central theme of the poem?",
+      "answer": "The central theme is the power of humor and the physical effects of uncontrolled laughter. It explores the idea that something can be 'too funny' to endure. It humorously suggests that writing extremely funny content can have dangerous consequences, as seen in the servant's 'wretched' state and the poet's subsequent decision to limit his humor. It celebrates the joy of writing and the impact of comedy."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "How does the poet create humor in the poem?",
+      "answer": "The poet creates humor through various techniques. 1. **Contrast:** Between the sober, slender poet and the strong servant. 2. **Exaggeration (Hyperbole):** Describing laughter as life-threatening and causing clothes to burst. 3. **Gradation:** The step-by-step escalation of the servant's laughter. 4. **Irony:** The poet thinks the lines are good, but they turn out to be dangerously funny. 5. **Situation:** The idea of a servant being incapacitated by reading a poem is inherently funny."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Write an appreciation of the poem 'The Height of the Ridiculous'.",
+      "answer": "The poem 'The Height of the Ridiculous' by Oliver Wendell Holmes is a humorous narrative poem. The rhyme scheme is abcb, which gives it a light, rhythmic feel. The central idea is the exaggerated effect of a funny poem on a servant. The poet uses figures of speech like Hyperbole ('burst five buttons'), Onomatopoeia ('roar', 'chuckling'), and Transferred Epithet ('sleepless eye') effectively. I like the poem because of its visual humor and the funny twist at the end where the poet decides to stop being so funny."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Explain the line 'There'll be the devil to pay'.",
+      "answer": "The line 'There'll be the devil to pay' is an idiom meaning there will be trouble or serious consequences. The poet adds this to the note for the printer as a 'trifling jest' (small joke). Ironically, it becomes true, not for the printer, but for the servant who reads it. The 'trouble' manifests as the fit of laughter that incapacitates the servant, leading to 'trouble' for the poet who has to nurse him."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "Why did the poet decide never to write as funny as he can?",
+      "answer": "The poet decided never to write as funny as he can because of the traumatic experience with his servant. The servant laughed so hard at the poet's lines that he burst his clothes and fell into a fit, becoming 'wretched'. The poet had to care for him for ten days and nights without sleep. To avoid causing such physical harm or 'danger' to anyone else again, he vowed to limit his humor."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "What is the role of the servant in the poem?",
+      "answer": "The servant acts as the audience and the victim of the poet's humor. He serves as a measuring device for how funny the poem is. His strong physical build contrasts with his total collapse from laughter, emphasizing the power of the written word. His reaction drives the narrative forward and leads to the poet's final resolution. Without him, the poem would just be the poet claiming he is funny; the servant provides the 'proof'."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Discuss the structure and style of the poem.",
+      "answer": "The poem consists of eight stanzas, each with four lines (quatrains). The rhyme scheme is consistently abcb, typical of a ballad or light verse. The language is simple but descriptive ('mighty limb', 'wondrous merry mood'). The tone is lighthearted and narrative. The pacing increases with the servant's reading, building up to the climax of the fit, and ends with a reflective resolution. This structure makes it easy to read and enjoy."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "Explain the meaning of 'Tautology' with an example from the poem.",
+      "answer": "Tautology is a figure of speech where words with similar meanings are used together for emphasis. In the poem, the line 'In wondrous merry mood' uses 'wondrous' and 'merry', which both convey happiness and delight. Another example is 'And saw him peep within', where 'peep' implies looking inside and 'within' also means inside. This repetition reinforces the meaning."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "What do you understand by 'Onomatopoeia'? Give examples from the poem.",
+      "answer": "Onomatopoeia is a figure of speech where a word mimics the sound it represents. In the poem, 'chuckling' mimics the sound of suppressed laughter. 'Roar' mimics the loud, booming sound of uncontrolled laughter. These words help the reader 'hear' the servant's reaction, making the scene more vivid and humorous."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Differentiate between a 'sober' man and the poet's mood in the poem.",
+      "answer": "A 'sober' man is typically serious, calm, and self-controlled. The poet describes himself as generally being a sober man. However, in the specific instance described in the poem, he was in a 'wondrous merry mood', writing lines that were 'queer' and laughing until he thought he would die. This contrast highlights that the humor was an exceptional outburst, distinct from his usual personality."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "How does the poet describe the act of writing the poem?",
+      "answer": "The poet describes the act as happening 'once on a time'. He was in a 'wondrous merry mood', suggesting inspiration struck him. He wrote 'some lines'. He anticipated they would be 'exceeding good'. He found them 'so queer' that he laughed intensely himself ('as I would die'). This establishes that the content was genuinely and dangerously funny from the moment of creation."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "What does the line 'He of the mighty limb' suggest about the servant?",
+      "answer": "The phrase 'He of the mighty limb' suggests that the servant is physically very strong, robust, and perhaps large. It implies he is capable of heavy labor. This description is crucial for the humor because it sets up the irony: a man strong enough to handle physical burdens is completely defeated and broken by something as insubstantial as a few lines of poetry."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "Explain the significance of counting syllables in poetry.",
+      "answer": "Counting syllables helps in understanding the rhythm and meter of a poem. A syllable is a single unit of sound. By counting them, we can identify patterns like iambic pentameter or other meters. In the workshop activity, students count syllables (e.g., 'el-e-phant' has 3) to become aware of the musicality of language, which is essential for reading and writing poetry effectively."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Based on the poem, write a character sketch of the poet.",
+      "answer": "The poet is a slender man who considers himself generally serious ('sober'). However, he has a hidden capacity for extreme humor. He is confident in his writing ('thought... men would say / They were exceeding good'). He is observant, watching his servant closely. He is also compassionate and responsible, as he nurses his servant for ten days after the incident. Finally, he is cautious, deciding to suppress his humor to prevent future harm."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "What is the importance of the 'Warming Up' activity about sentence completion?",
+      "answer": "The 'Warming Up' activity asks students to complete sentences about happiness, laughter, and cheerfulness (e.g., 'I want to laugh because...'). This prepares the students mentally for the theme of the poem, which is humor. It engages them by making them think about their own experiences with laughter, making the poem's exaggerated humor more relatable and enjoyable."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "Interpret the line 'And saw him peep within'.",
+      "answer": "The line 'And saw him peep within' literally means the poet watched the servant look inside the folded paper to read the lines. Figuratively, it marks the beginning of the 'danger'. 'Peep' suggests a casual or curious look, implying the servant didn't expect what was coming. It is the moment before the chaos ensues."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "Why is the rhyme scheme 'abcb' effective for this poem?",
+      "answer": "The 'abcb' rhyme scheme is simple and rhythmic. It is often used in ballads and nursery rhymes. This simplicity suits the humorous and light-hearted tone of the poem. It allows the narrative to flow smoothly without the rhyme feeling forced or overly complex. It makes the poem easy to recite and remember, enhancing its comic effect."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "Explain the irony in the poet's final decision.",
+      "answer": "The irony lies in the fact that a poet's goal is usually to write as well as possible. However, the poet here decides *not* to write 'as funny as I can'. His success (writing something extremely funny) led to a disaster (servant's illness). Therefore, to be safe, he must intentionally hold back his talent. It's ironic that his greatest skill is treated as a dangerous weapon."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "Create a short humorous poem based on the workshop activity instructions.",
+      "answer": "My cat sat on a mat, / Wearing a fancy hat. / A dog came by and said 'Hi', / The cat jumped up and touched the sky! / Down she came with a splat, / And that was the end of the hat."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "Analyze the visual imagery in the poem.",
+      "answer": "The poem is full of visual imagery. We can visualize the 'slender' poet and the 'mighty' servant. We see the servant 'peep within'. The progression of his facial expressions—from a 'grin' to a 'broad' smile shooting 'ear to ear'—is vivid. The physical action of buttons bursting and the waistband splitting paints a clear, cartoonish picture of the scene."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "How does the poem illustrate the phrase 'Laughter is the best medicine' but with a twist?",
+      "answer": "The poem initially supports the idea that laughter is good ('wondrous merry mood'). However, it twists the proverb by showing that *too much* laughter can be physically harmful ('laughed as I would die', 'tumbled in a fit'). Instead of healing, this extreme laughter caused a 'wretched' condition requiring ten days of nursing. It suggests that even the best medicine can be an overdose."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "What is the significance of the servant 'bursting five buttons'?",
+      "answer": "This detail is a specific example of hyperbole. It quantifies the force of the laughter. Laughter causes the body to expand and shake; here, it is exaggerated to the point where clothes can't contain it. The number 'five' adds specificity to the absurdity, making the image of buttons flying off comical and memorable."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "Discuss the use of direct speech in the poem.",
+      "answer": "The poem uses direct speech in the lines: \"These to the printer,\" I exclaimed, and \"There'll be the devil to pay.\" This brings the scene to life. It shows the poet's interaction with the servant. The warning 'devil to pay' in direct speech acts as a foreshadowing of the chaos that follows, adding dramatic irony."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "Identify the Rhyme Scheme of the last stanza.",
+      "answer": "The last stanza is:\nTen days and nights, with sleepless eye, (a)\nI watched that wretched man, (b)\nand since, I never dare to write (c)\nAs funny as I can. (b)\nThe words 'man' and 'can' rhyme. So the scheme is **abcb**."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "What is the relationship between the poet and the servant?",
+      "answer": "The relationship seems formal yet caring. The poet calls the servant 'my servant', indicating a master-servant dynamic. However, the poet is observant of him. When the servant falls ill due to the laughter, the poet nurses him for 'ten days and nights'. This shows a sense of responsibility and humanity beyond a simple employment contract."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "Explain the phrase 'He took the paper, and I watched'.",
+      "answer": "This line sets up the observation scene. The poet hands over the dangerous object (the poem) and then steps back to observe the effect. 'I watched' implies anticipation. The poet is eager to see the reaction to his work. It creates a sense of suspense for the reader, waiting to see what happens next."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "Why is the phrase 'trifling jest' ironic?",
+      "answer": "'Trifling jest' means a small, insignificant joke. The poet calls his warning ('devil to pay') a trifling jest. This is ironic because the consequences were not trifling at all—they were severe (the servant's fit). Also, the poem itself was not a 'trifling' funny thing but powerfully, dangerously funny. The understatement contrasts with the massive reaction."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "What makes the poem 'The Height of the Ridiculous' a narrative poem?",
+      "answer": "It is a narrative poem because it tells a story with a sequence of events. It has a beginning (writing the poem), a middle (servant reading and reacting), and an end (consequences and resolution). It has characters (poet, servant), a setting, and a plot. It narrates a specific incident rather than just expressing an emotion."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Explain the meaning of 'sleepless eye' in the context of the poem.",
+      "answer": "'Sleepless eye' refers to the poet staying awake to care for his servant. It signifies his worry, guilt, and dedication. He feels responsible for the servant's condition because his poem caused it. The phrase emphasizes the severity of the situation—it wasn't just a moment of laughter; it led to a long period of distress for the poet."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "How does the poet describe the intensity of his own laughter?",
+      "answer": "The poet says, 'I laughed as I would die.' This is a hyperbolic expression meaning he laughed so hard he felt he might stop breathing or die from the physical exertion of laughing. It establishes the extreme funniness of the lines before the servant even reads them, validating the servant's later reaction."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "Discuss the 'Order of Sequence' activity from the workshop.",
+      "answer": "The workshop asks to order the reactions: (d) Was all upon the grin -> (b) The grin grew broad -> (e) He broke into a roar -> (a) His waistband split -> (f) He burst five buttons off -> (c) Sleepless eye (Poet's reaction). This activity checks understanding of the plot progression and the cause-and-effect relationship in the narrative."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "What is the tone of the ending of the poem?",
+      "answer": "The ending tone is one of humorous regret and caution. The poet is 'sober' again. He describes the servant as 'wretched', showing pity. His vow never to write 'as funny as I can' is a humorous resolution, treating humor as a dangerous force that must be contained. It ends the poem on a reflective but still comic note."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "What if the servant hadn't laughed? How would the poem change?",
+      "answer": "If the servant hadn't laughed, the poem would be a story of disappointment. The poet's belief that the lines were 'exceeding good' would be shattered. The central humor—the physical destruction caused by laughter—would be missing. The title 'The Height of the Ridiculous' would apply to the poet's delusion rather than the situation. It would be a sad poem about a failed joke."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "Explain the line 'And, in my humorous way'.",
+      "answer": "This line characterizes the poet. He admits he has a 'humorous way', implying he likes to joke or be witty. He uses this nature to add a note to the printer. This self-description sets the expectation for the reader that the events to follow are driven by his humorous nature, even if he claims to be 'sober' generally."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "What is the effect of the repetition 'so queer, so very queer'?",
+      "answer": "The repetition of 'so queer' emphasizes the unusual and extraordinary nature of the lines. It suggests they were not just funny in a normal way, but strangely, uniquely funny. It builds curiosity in the reader about what could possibly be written that is *that* queer. It intensifies the description."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "Describe the servant's physical reaction using the text.",
+      "answer": "The text describes the servant's physical reaction vividly. His face first shows a grin. This grin widens 'from ear to ear'. Then comes a 'chuckling noise'. This escalates to a 'roar'. Physically, his body expands or shakes so much that his 'waistband split' and 'five buttons' burst off. Finally, he loses physical control and 'tumbled in a fit'."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "Why is 'The Height of the Ridiculous' a good example of light verse?",
+      "answer": "Light verse is poetry that attempts to be humorous. This poem fits perfectly because its primary aim is to entertain and make the reader laugh. It uses simple language, strong rhythm, and rhyme. It relies on exaggeration and a funny narrative. It doesn't tackle deep philosophical themes but focuses on a comic incident, making it a classic example of light verse."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "What does the word 'fit' imply in 'tumbled in a fit'?",
+      "answer": "In this context, 'fit' implies a seizure-like state caused by uncontrollable laughter. It suggests the servant lost control of his body and motor functions because the laughter was so intense. It adds to the hyperbole, presenting the laughter as a physical condition that incapacitates the person."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "Explain the workshop activity regarding rhyming words completion.",
+      "answer": "The workshop asks to complete lines like 'We returned home late, one... night'. This activity tests the student's ability to identify rhymes (night/light) and context. It encourages creative thinking within a structure. It helps students understand how rhyme schemes (aabb or abcb) work to create a cohesive poem."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "How does the poem use 'Inversion'?",
+      "answer": "Inversion is changing the normal grammatical order of words for poetic effect. Though not the most prominent figure here, lines like 'A sober man am I' (Normal: I am a sober man) use inversion to maintain the rhyme scheme (die/I) and rhythm. It gives the poem a formal, literary feel that contrasts with the silly subject matter."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "What does 'wondrous merry mood' tell us about creativity?",
+      "answer": "It suggests that creativity often flows best when one is in a positive, happy state. The poet wrote these 'exceeding good' lines when he was joyous. It implies that humor comes from a place of joy. The mood of the creator is reflected in the creation, which then transfers that mood to the receiver (the servant)."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "Why does the poet call the servant 'kind'?",
+      "answer": "The poet says, 'How kind it was of him / To mind a slender man like me'. This is likely said with a touch of irony or genuine appreciation for the servant's obedience. Despite being strong ('mighty limb'), the servant listens to the 'slender' poet. It establishes the dynamic where the poet has authority, which makes the servant's later loss of control more humorous."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "Interpret 'And thought, as usual, men would say'.",
+      "answer": "The phrase 'as usual' implies that the poet is confident in his writing abilities. He is used to people praising his work ('men would say / They were exceeding good'). This establishes his reputation or at least his self-perception as a good writer, setting the stage for the exceptional quality of this particular poem."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "What is the overall message of the poem?",
+      "answer": "The overall message is about the sheer power of humor. It suggests that humor can be overwhelming and physically affecting. While presented comically, the 'danger' of the poem implies that art can have tangible, real-world consequences. It creates a world where words are so powerful they can physically break buttons, celebrating the impact of writing."
+    }
+  ]
+}

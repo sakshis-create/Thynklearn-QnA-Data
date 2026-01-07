@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.Science.02",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Life Processes in Living Organisms Part - 1"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "The process of glycolysis occurs in the ________.",
+      "options": [
+        { "option_id": 1, "text": "Mitochondria", "is_correct": false },
+        { "option_id": 2, "text": "Cytoplasm", "is_correct": true },
+        { "option_id": 3, "text": "Nucleus", "is_correct": false },
+        { "option_id": 4, "text": "Cell membrane", "is_correct": false }
+      ],
+      "answer": "Cytoplasm"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "We get ________ energy per gram of carbohydrates.",
+      "options": [
+        { "option_id": 1, "text": "9 Kcal", "is_correct": false },
+        { "option_id": 2, "text": "4 Kcal", "is_correct": true },
+        { "option_id": 3, "text": "7 Kcal", "is_correct": false },
+        { "option_id": 4, "text": "2 Kcal", "is_correct": false }
+      ],
+      "answer": "4 Kcal"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "ATP is called the ________ of the cell.",
+      "options": [
+        { "option_id": 1, "text": "Power house", "is_correct": false },
+        { "option_id": 2, "text": "Energy currency", "is_correct": true },
+        { "option_id": 3, "text": "Protein factory", "is_correct": false },
+        { "option_id": 4, "text": "Control center", "is_correct": false }
+      ],
+      "answer": "Energy currency"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In glycolysis, a molecule of glucose is oxidized to form two molecules of ________.",
+      "options": [
+        { "option_id": 1, "text": "Lactic acid", "is_correct": false },
+        { "option_id": 2, "text": "Pyruvic acid", "is_correct": true },
+        { "option_id": 3, "text": "Ethanol", "is_correct": false },
+        { "option_id": 4, "text": "Citric acid", "is_correct": false }
+      ],
+      "answer": "Pyruvic acid"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Tricarboxylic acid cycle is also known as ________.",
+      "options": [
+        { "option_id": 1, "text": "EMP pathway", "is_correct": false },
+        { "option_id": 2, "text": "Calvin cycle", "is_correct": false },
+        { "option_id": 3, "text": "Krebs cycle", "is_correct": true },
+        { "option_id": 4, "text": "Glycolysis", "is_correct": false }
+      ],
+      "answer": "Krebs cycle"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a step in aerobic respiration?",
+      "options": [
+        { "option_id": 1, "text": "Glycolysis", "is_correct": false },
+        { "option_id": 2, "text": "Fermentation", "is_correct": true },
+        { "option_id": 3, "text": "Krebs Cycle", "is_correct": false },
+        { "option_id": 4, "text": "Electron Transfer Chain Reaction", "is_correct": false }
+      ],
+      "answer": "Fermentation"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "We get ________ energy per gram of lipids.",
+      "options": [
+        { "option_id": 1, "text": "4 Kcal", "is_correct": false },
+        { "option_id": 2, "text": "9 Kcal", "is_correct": true },
+        { "option_id": 3, "text": "7 Kcal", "is_correct": false },
+        { "option_id": 4, "text": "6 Kcal", "is_correct": false }
+      ],
+      "answer": "9 Kcal"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Somatic and stem cells undergo ________ type of division.",
+      "options": [
+        { "option_id": 1, "text": "Meiosis", "is_correct": false },
+        { "option_id": 2, "text": "Mitosis", "is_correct": true },
+        { "option_id": 3, "text": "Budding", "is_correct": false },
+        { "option_id": 4, "text": "Binary fission", "is_correct": false }
+      ],
+      "answer": "Mitosis"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The electron transfer chain reaction is operated in ________.",
+      "options": [
+        { "option_id": 1, "text": "Cytoplasm", "is_correct": false },
+        { "option_id": 2, "text": "Mitochondria", "is_correct": true },
+        { "option_id": 3, "text": "Ribosome", "is_correct": false },
+        { "option_id": 4, "text": "Nucleus", "is_correct": false }
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "During which phase of mitosis do chromosomes arrange parallel to the equatorial plane?",
+      "options": [
+        { "option_id": 1, "text": "Prophase", "is_correct": false },
+        { "option_id": 2, "text": "Anaphase", "is_correct": false },
+        { "option_id": 3, "text": "Telophase", "is_correct": false },
+        { "option_id": 4, "text": "Metaphase", "is_correct": true }
+      ],
+      "answer": "Metaphase"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Proteins of animal origin are called ________ proteins.",
+      "options": [
+        { "option_id": 1, "text": "Second class", "is_correct": false },
+        { "option_id": 2, "text": "First class", "is_correct": true },
+        { "option_id": 3, "text": "Third class", "is_correct": false },
+        { "option_id": 4, "text": "Essential", "is_correct": false }
+      ],
+      "answer": "First class"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Excess carbohydrates are stored in the liver and muscles in the form of ________.",
+      "options": [
+        { "option_id": 1, "text": "Glucose", "is_correct": false },
+        { "option_id": 2, "text": "Galactose", "is_correct": false },
+        { "option_id": 3, "text": "Glycogen", "is_correct": true },
+        { "option_id": 4, "text": "Starch", "is_correct": false }
+      ],
+      "answer": "Glycogen"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of the following is a fat-soluble vitamin?",
+      "options": [
+        { "option_id": 1, "text": "Vitamin B", "is_correct": false },
+        { "option_id": 2, "text": "Vitamin C", "is_correct": false },
+        { "option_id": 3, "text": "Vitamin D", "is_correct": true },
+        { "option_id": 4, "text": "Vitamin B2", "is_correct": false }
+      ],
+      "answer": "Vitamin D"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How many molecules of ATP are obtained from each NADH2 molecule?",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": false },
+        { "option_id": 2, "text": "2", "is_correct": false },
+        { "option_id": 3, "text": "3", "is_correct": true },
+        { "option_id": 4, "text": "4", "is_correct": false }
+      ],
+      "answer": "3"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Glycolysis is also called the ________ pathway.",
+      "options": [
+        { "option_id": 1, "text": "EMP", "is_correct": true },
+        { "option_id": 2, "text": "TCA", "is_correct": false },
+        { "option_id": 3, "text": "ETC", "is_correct": false },
+        { "option_id": 4, "text": "ATP", "is_correct": false }
+      ],
+      "answer": "EMP"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Meiosis occurs in ________ cells.",
+      "options": [
+        { "option_id": 1, "text": "Somatic", "is_correct": false },
+        { "option_id": 2, "text": "Stem", "is_correct": false },
+        { "option_id": 3, "text": "Germ", "is_correct": true },
+        { "option_id": 4, "text": "Muscle", "is_correct": false }
+      ],
+      "answer": "Germ"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which enzyme is the most abundant protein found in nature?",
+      "options": [
+        { "option_id": 1, "text": "Trypsin", "is_correct": false },
+        { "option_id": 2, "text": "Insulin", "is_correct": false },
+        { "option_id": 3, "text": "RUBISCO", "is_correct": true },
+        { "option_id": 4, "text": "Amylase", "is_correct": false }
+      ],
+      "answer": "RUBISCO"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The nuclear membrane completely disappears in ________.",
+      "options": [
+        { "option_id": 1, "text": "Prophase", "is_correct": false },
+        { "option_id": 2, "text": "Metaphase", "is_correct": true },
+        { "option_id": 3, "text": "Anaphase", "is_correct": false },
+        { "option_id": 4, "text": "Telophase", "is_correct": false }
+      ],
+      "answer": "Metaphase"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "In anaerobic respiration, pyruvic acid is converted into other products by ________.",
+      "options": [
+        { "option_id": 1, "text": "Oxidation", "is_correct": false },
+        { "option_id": 2, "text": "Fermentation", "is_correct": true },
+        { "option_id": 3, "text": "Reduction", "is_correct": false },
+        { "option_id": 4, "text": "Glycolysis", "is_correct": false }
+      ],
+      "answer": "Fermentation"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of these is a water-soluble vitamin?",
+      "options": [
+        { "option_id": 1, "text": "Vitamin A", "is_correct": false },
+        { "option_id": 2, "text": "Vitamin D", "is_correct": false },
+        { "option_id": 3, "text": "Vitamin K", "is_correct": false },
+        { "option_id": 4, "text": "Vitamin C", "is_correct": true }
+      ],
+      "answer": "Vitamin C"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Approximately ________ of water is present in the human body.",
+      "options": [
+        { "option_id": 1, "text": "50-55%", "is_correct": false },
+        { "option_id": 2, "text": "65-70%", "is_correct": true },
+        { "option_id": 3, "text": "80-85%", "is_correct": false },
+        { "option_id": 4, "text": "40-45%", "is_correct": false }
+      ],
+      "answer": "65-70%"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How many haploid daughter cells are formed at the end of meiosis?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Four", "is_correct": true },
+        { "option_id": 3, "text": "Six", "is_correct": false },
+        { "option_id": 4, "text": "Eight", "is_correct": false }
+      ],
+      "answer": "Four"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Sister chromatids are pulled apart in opposite directions during ________.",
+      "options": [
+        { "option_id": 1, "text": "Prophase", "is_correct": false },
+        { "option_id": 2, "text": "Metaphase", "is_correct": false },
+        { "option_id": 3, "text": "Anaphase", "is_correct": true },
+        { "option_id": 4, "text": "Telophase", "is_correct": false }
+      ],
+      "answer": "Anaphase"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Excess lipids are stored in ________ connective tissue.",
+      "options": [
+        { "option_id": 1, "text": "Areolar", "is_correct": false },
+        { "option_id": 2, "text": "Adipose", "is_correct": true },
+        { "option_id": 3, "text": "Fibrous", "is_correct": false },
+        { "option_id": 4, "text": "Fluid", "is_correct": false }
+      ],
+      "answer": "Adipose"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which protein is present in bones?",
+      "options": [
+        { "option_id": 1, "text": "Melanin", "is_correct": false },
+        { "option_id": 2, "text": "Ossein", "is_correct": true },
+        { "option_id": 3, "text": "Keratin", "is_correct": false },
+        { "option_id": 4, "text": "Hemoglobin", "is_correct": false }
+      ],
+      "answer": "Ossein"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of the following is formed from fatty acids?",
+      "options": [
+        { "option_id": 1, "text": "Insulin", "is_correct": false },
+        { "option_id": 2, "text": "Progesterone", "is_correct": true },
+        { "option_id": 3, "text": "Trypsin", "is_correct": false },
+        { "option_id": 4, "text": "Melanin", "is_correct": false }
+      ],
+      "answer": "Progesterone"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Spindle fibers are formed from ________.",
+      "options": [
+        { "option_id": 1, "text": "Proteins", "is_correct": true },
+        { "option_id": 2, "text": "Lipids", "is_correct": false },
+        { "option_id": 3, "text": "Carbohydrates", "is_correct": false },
+        { "option_id": 4, "text": "Vitamins", "is_correct": false }
+      ],
+      "answer": "Proteins"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Division of cytoplasm is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Karyokinesis", "is_correct": false },
+        { "option_id": 2, "text": "Cytokinesis", "is_correct": true },
+        { "option_id": 3, "text": "Diakinesis", "is_correct": false },
+        { "option_id": 4, "text": "Interkinesis", "is_correct": false }
+      ],
+      "answer": "Cytokinesis"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which phase is the first phase of Karyokinesis?",
+      "options": [
+        { "option_id": 1, "text": "Metaphase", "is_correct": false },
+        { "option_id": 2, "text": "Telophase", "is_correct": false },
+        { "option_id": 3, "text": "Prophase", "is_correct": true },
+        { "option_id": 4, "text": "Anaphase", "is_correct": false }
+      ],
+      "answer": "Prophase"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a stage of Prophase-I in Meiosis?",
+      "options": [
+        { "option_id": 1, "text": "Leptotene", "is_correct": false },
+        { "option_id": 2, "text": "Zygotene", "is_correct": false },
+        { "option_id": 3, "text": "Pachytene", "is_correct": false },
+        { "option_id": 4, "text": "Telophase", "is_correct": true }
+      ],
+      "answer": "Telophase"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "In which type of respiration is glucose incompletely oxidized?",
+      "options": [
+        { "option_id": 1, "text": "Aerobic", "is_correct": false },
+        { "option_id": 2, "text": "Anaerobic", "is_correct": true },
+        { "option_id": 3, "text": "Both", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Anaerobic"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Genetic recombination occurs during ________.",
+      "options": [
+        { "option_id": 1, "text": "Mitosis", "is_correct": false },
+        { "option_id": 2, "text": "Meiosis-I", "is_correct": true },
+        { "option_id": 3, "text": "Meiosis-II", "is_correct": false },
+        { "option_id": 4, "text": "Cytokinesis", "is_correct": false }
+      ],
+      "answer": "Meiosis-I"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which vitamin is Nicotinamide?",
+      "options": [
+        { "option_id": 1, "text": "Vitamin B2", "is_correct": false },
+        { "option_id": 2, "text": "Vitamin B3", "is_correct": true },
+        { "option_id": 3, "text": "Vitamin B12", "is_correct": false },
+        { "option_id": 4, "text": "Vitamin C", "is_correct": false }
+      ],
+      "answer": "Vitamin B3"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which molecule is used as a continuous source of energy in organisms?",
+      "options": [
+        { "option_id": 1, "text": "Glucose", "is_correct": true },
+        { "option_id": 2, "text": "Proteins", "is_correct": false },
+        { "option_id": 3, "text": "Vitamins", "is_correct": false },
+        { "option_id": 4, "text": "Fiber", "is_correct": false }
+      ],
+      "answer": "Glucose"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What is the full form of FAD?",
+      "options": [
+        { "option_id": 1, "text": "Flavin Adenine Dinucleotide", "is_correct": true },
+        { "option_id": 2, "text": "Fatty Acid Derivative", "is_correct": false },
+        { "option_id": 3, "text": "Fermented Acid Decomposition", "is_correct": false },
+        { "option_id": 4, "text": "Functional Adenine Dioxide", "is_correct": false }
+      ],
+      "answer": "Flavin Adenine Dinucleotide"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which acid accumulates in muscles during anaerobic respiration, causing fatigue?",
+      "options": [
+        { "option_id": 1, "text": "Acetic acid", "is_correct": false },
+        { "option_id": 2, "text": "Citric acid", "is_correct": false },
+        { "option_id": 3, "text": "Lactic acid", "is_correct": true },
+        { "option_id": 4, "text": "Hydrochloric acid", "is_correct": false }
+      ],
+      "answer": "Lactic acid"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "In which part of the cell does the Krebs cycle occur?",
+      "options": [
+        { "option_id": 1, "text": "Nucleus", "is_correct": false },
+        { "option_id": 2, "text": "Cytoplasm", "is_correct": false },
+        { "option_id": 3, "text": "Mitochondria", "is_correct": true },
+        { "option_id": 4, "text": "Ribosome", "is_correct": false }
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of these are essential nutrients that we cannot digest?",
+      "options": [
+        { "option_id": 1, "text": "Carbohydrates", "is_correct": false },
+        { "option_id": 2, "text": "Proteins", "is_correct": false },
+        { "option_id": 3, "text": "Fibers", "is_correct": true },
+        { "option_id": 4, "text": "Fats", "is_correct": false }
+      ],
+      "answer": "Fibers"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Amino acids are obtained after digestion of ________.",
+      "options": [
+        { "option_id": 1, "text": "Carbohydrates", "is_correct": false },
+        { "option_id": 2, "text": "Lipids", "is_correct": false },
+        { "option_id": 3, "text": "Proteins", "is_correct": true },
+        { "option_id": 4, "text": "Vitamins", "is_correct": false }
+      ],
+      "answer": "Proteins"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which process converts excess proteins into glucose?",
+      "options": [
+        { "option_id": 1, "text": "Glycolysis", "is_correct": false },
+        { "option_id": 2, "text": "Gluconeogenesis", "is_correct": true },
+        { "option_id": 3, "text": "Fermentation", "is_correct": false },
+        { "option_id": 4, "text": "Translation", "is_correct": false }
+      ],
+      "answer": "Gluconeogenesis"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "How many molecules of ATP are obtained from each FADH2 molecule?",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": false },
+        { "option_id": 2, "text": "2", "is_correct": true },
+        { "option_id": 3, "text": "3", "is_correct": false },
+        { "option_id": 4, "text": "4", "is_correct": false }
+      ],
+      "answer": "2"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which protein is found in skin?",
+      "options": [
+        { "option_id": 1, "text": "Keratin", "is_correct": true },
+        { "option_id": 2, "text": "Ossein", "is_correct": false },
+        { "option_id": 3, "text": "Hemoglobin", "is_correct": false },
+        { "option_id": 4, "text": "Insulin", "is_correct": false }
+      ],
+      "answer": "Keratin"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What is the chromosome number in a diploid cell?",
+      "options": [
+        { "option_id": 1, "text": "n", "is_correct": false },
+        { "option_id": 2, "text": "2n", "is_correct": true },
+        { "option_id": 3, "text": "3n", "is_correct": false },
+        { "option_id": 4, "text": "4n", "is_correct": false }
+      ],
+      "answer": "2n"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Chromosomes appear like a bunch of bananas during ________.",
+      "options": [
+        { "option_id": 1, "text": "Prophase", "is_correct": false },
+        { "option_id": 2, "text": "Metaphase", "is_correct": false },
+        { "option_id": 3, "text": "Anaphase", "is_correct": true },
+        { "option_id": 4, "text": "Telophase", "is_correct": false }
+      ],
+      "answer": "Anaphase"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "In plant cells, cytokinesis involves the formation of a ________.",
+      "options": [
+        { "option_id": 1, "text": "Notch", "is_correct": false },
+        { "option_id": 2, "text": "Cell plate", "is_correct": true },
+        { "option_id": 3, "text": "Spindle fiber", "is_correct": false },
+        { "option_id": 4, "text": "Centriole", "is_correct": false }
+      ],
+      "answer": "Cell plate"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What happens to the nuclear membrane in Telophase?",
+      "options": [
+        { "option_id": 1, "text": "It disappears", "is_correct": false },
+        { "option_id": 2, "text": "It is formed", "is_correct": true },
+        { "option_id": 3, "text": "It duplicates", "is_correct": false },
+        { "option_id": 4, "text": "It breaks down", "is_correct": false }
+      ],
+      "answer": "It is formed"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which of these organisms performs anaerobic respiration?",
+      "options": [
+        { "option_id": 1, "text": "Humans (normally)", "is_correct": false },
+        { "option_id": 2, "text": "Yeast", "is_correct": true },
+        { "option_id": 3, "text": "Fish", "is_correct": false },
+        { "option_id": 4, "text": "Birds", "is_correct": false }
+      ],
+      "answer": "Yeast"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the full form of NAD?",
+      "options": [
+        { "option_id": 1, "text": "Nicotinamide Adenine Dinucleotide", "is_correct": true },
+        { "option_id": 2, "text": "Nitrogen Adenine Dioxide", "is_correct": false },
+        { "option_id": 3, "text": "Natural Acid Derivative", "is_correct": false },
+        { "option_id": 4, "text": "Nucleus Acid Division", "is_correct": false }
+      ],
+      "answer": "Nicotinamide Adenine Dinucleotide"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The energy obtained from glucose is stored in the form of ________.",
+      "options": [
+        { "option_id": 1, "text": "ADP", "is_correct": false },
+        { "option_id": 2, "text": "DNA", "is_correct": false },
+        { "option_id": 3, "text": "ATP", "is_correct": true },
+        { "option_id": 4, "text": "RNA", "is_correct": false }
+      ],
+      "answer": "ATP"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which coenzyme is riboflavin?",
+      "options": [
+        { "option_id": 1, "text": "Vitamin B1", "is_correct": false },
+        { "option_id": 2, "text": "Vitamin B2", "is_correct": true },
+        { "option_id": 3, "text": "Vitamin B3", "is_correct": false },
+        { "option_id": 4, "text": "Vitamin B6", "is_correct": false }
+      ],
+      "answer": "Vitamin B2"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is respiration at the cellular level?",
+      "answer": "Respiration at the cellular level is the process where foodstuffs are oxidized either with or without the help of oxygen to release energy."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Define Aerobic Respiration.",
+      "answer": "Aerobic respiration is the process of producing energy by oxidizing glucose in the presence of oxygen."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Define Anaerobic Respiration.",
+      "answer": "Anaerobic respiration is the process of producing energy by oxidizing glucose in the absence of oxygen."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is Glycolysis?",
+      "answer": "Glycolysis is a process occurring in the cytoplasm where a glucose molecule is oxidized to form two molecules each of pyruvic acid, ATP, NADH2, and water."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the EMP pathway?",
+      "answer": "Glycolysis is called the EMP pathway because it was discovered by Gustav Embden, Otto Meyerhof, and Jacob Parnas."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What happens to pyruvic acid formed in glycolysis?",
+      "answer": "Pyruvic acid molecules are converted into molecules of Acetyl-Coenzyme-A."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What are the products of the Krebs Cycle?",
+      "answer": "The products are CO2, H2O, NADH2, FADH2, and ATP."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is ATP called the energy currency of the cell?",
+      "answer": "ATP is called energy currency because energy is stored in its phosphate bonds and released when needed by breaking these bonds."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the full form of ATP?",
+      "answer": "Adenosine Triphosphate."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What happens if there is an insufficient amount of carbohydrates in the body?",
+      "answer": "If carbohydrates are insufficient, lipids and proteins are used for energy production."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How are fatty acids used in energy production?",
+      "answer": "Fatty acids are converted into Acetyl-CoA, which is then oxidized through the Krebs cycle to produce energy."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What are proteins?",
+      "answer": "Proteins are macromolecules formed by bonding together many amino acids."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What happens to excess amino acids in the body?",
+      "answer": "Excess amino acids are broken down into ammonia and eliminated from the body, or converted into glucose."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is gluconeogenesis?",
+      "answer": "Gluconeogenesis is the process of converting excess proteins into useful substances like glucose."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are lipids?",
+      "answer": "Lipids are substances formed by specific chemical bonds between fatty acids and alcohol."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What are vitamins?",
+      "answer": "Vitamins are a group of heterogeneous compounds essential for the proper operation of various life processes."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name the water-soluble vitamins.",
+      "answer": "Vitamin B and Vitamin C are water-soluble vitamins."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name the fat-soluble vitamins.",
+      "answer": "Vitamins A, D, E, and K are fat-soluble vitamins."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the importance of water in the human body?",
+      "answer": "Water makes up 65-70% of the body and is essential for the functioning of cells and the whole body."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why are fibers considered essential nutrients?",
+      "answer": "Fibers help in the digestion of other substances and the egestion of undigested substances."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is cell division?",
+      "answer": "Cell division is a process where a new organism is formed from an existing one, or a multicellular organism grows."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What are the two types of cell division?",
+      "answer": "The two types of cell division are Mitosis and Meiosis."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Where does Mitosis occur?",
+      "answer": "Mitosis occurs in somatic cells and stem cells."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Where does Meiosis occur?",
+      "answer": "Meiosis occurs in germ cells."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is Karyokinesis?",
+      "answer": "Karyokinesis is the division of the nucleus."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is Cytokinesis?",
+      "answer": "Cytokinesis is the division of the cytoplasm."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What happens in Prophase of Mitosis?",
+      "answer": "Chromosomes condense, centrioles duplicate and move to poles, and the nuclear membrane starts disappearing."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What characterizes Metaphase in Mitosis?",
+      "answer": "Chromosomes align parallel to the equatorial plane, and spindle fibers form."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What happens during Anaphase?",
+      "answer": "Centromeres split, sister chromatids separate and are pulled to opposite poles."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What occurs during Telophase?",
+      "answer": "Chromosomes decondense, nuclear membranes reform around daughter nuclei, and spindle fibers disappear."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How does cytokinesis occur in animal cells?",
+      "answer": "A notch forms at the equatorial plane and deepens, dividing the cell into two."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How does cytokinesis occur in plant cells?",
+      "answer": "A cell plate forms along the midline of the cell, dividing the cytoplasm."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is the importance of Mitosis?",
+      "answer": "Mitosis is essential for growth, restoration of the body, wound healing, and blood cell formation."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What are the two stages of Meiosis?",
+      "answer": "The two stages are Meiosis-I and Meiosis-II."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What happens in Meiosis-I?",
+      "answer": "Genetic recombination occurs, and homologous chromosomes divide to form two haploid cells."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What happens in Meiosis-II?",
+      "answer": "Two haploid cells divide to form four haploid daughter cells, similar to mitosis."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is crossing over?",
+      "answer": "Crossing over is the exchange of genetic material between homologous chromosomes during Meiosis-I."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why are daughter cells in meiosis genetically different?",
+      "answer": "Due to crossing over and genetic recombination, daughter cells differ from the parent and each other."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is Fermentation?",
+      "answer": "Fermentation is the anaerobic conversion of pyruvic acid into organic acids or alcohol."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why do our muscles feel tired after heavy exercise?",
+      "answer": "Due to anaerobic respiration, lactic acid accumulates in muscles, causing tiredness."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Which amino acid is used in the skin?",
+      "answer": "Melanin and keratin are produced from amino acids in the skin."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Which protein is found in blood?",
+      "answer": "Hemoglobin and antibodies are found in the blood."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What proteins are in muscles?",
+      "answer": "Actin and myosin are flexible proteins in muscles."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What hormones are produced by the pituitary gland?",
+      "answer": "The pituitary gland produces various hormones from amino acids."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What proteins does the pancreas produce?",
+      "answer": "The pancreas produces insulin and trypsin."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What are phospholipids?",
+      "answer": "Phospholipids are molecules essential for producing plasma membrane, formed from fatty acids."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Which hormone is produced from fatty acids?",
+      "answer": "Hormones like progesterone, estrogen, and testosterone are produced from fatty acids."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Where is the excess lipid stored?",
+      "answer": "Excess lipid is stored in the adipose connective tissue."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the function of NADH2?",
+      "answer": "NADH2 transports electrons in the electron transfer chain to produce ATP."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the function of FADH2?",
+      "answer": "FADH2 is a coenzyme that helps in energy production by donating electrons in the electron transfer chain."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Explain the process of Glycolysis in detail.",
+      "answer": "Glycolysis occurs in the cytoplasm. A molecule of glucose is oxidized step-by-step to form two molecules each of pyruvic acid, ATP, NADH2, and water. The pyruvic acid molecules are then converted into Acetyl-Coenzyme-A, releasing two molecules of NADH2 and two molecules of CO2. It is the first step of both aerobic and anaerobic respiration."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Describe the Tricarboxylic Acid Cycle (Krebs Cycle).",
+      "answer": "The acetyl-CoA formed in glycolysis enters the mitochondria. A cyclic chain of reactions called the Krebs cycle operates on it. The acetyl part is completely oxidized to release CO2, H2O, NADH2, FADH2, and ATP. This cycle was discovered by Sir Hans Krebs and is crucial for aerobic respiration."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Explain the Electron Transfer Chain Reaction.",
+      "answer": "This reaction occurs in the mitochondria. NADH2 and FADH2 molecules formed in earlier steps participate. Each NADH2 yields 3 ATP molecules, and each FADH2 yields 2 ATP molecules. Water is also formed. This step produces the majority of ATP in aerobic respiration."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "How is energy produced from proteins and lipids?",
+      "answer": "When carbohydrates are insufficient, lipids are converted to fatty acids and proteins to amino acids. These are then converted into Acetyl-CoA. The Acetyl-CoA enters the mitochondria and is oxidized via the Krebs cycle to produce energy. This serves as an alternative pathway for energy production during fasting or hunger."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Describe the phase of Prophase in Mitosis.",
+      "answer": "In Prophase, thin chromosomes condense to become thick and visible with sister chromatids. Centrioles duplicate and move to opposite poles. The nuclear membrane and nucleolus start to disappear. This prepares the genetic material for separation."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Describe the phase of Metaphase in Mitosis.",
+      "answer": "In Metaphase, the nuclear membrane completely disappears. Chromosomes are clearly visible and arrange themselves parallel to the equatorial plane of the cell. Spindle fibers form between the centromere of each chromosome and the centrioles, preparing for separation."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Describe the phase of Anaphase in Mitosis.",
+      "answer": "In Anaphase, centromeres split, separating sister chromatids. These chromatids, now daughter chromosomes, are pulled apart to opposite poles by spindle fibers. They appear like a bunch of bananas. This ensures each new cell gets an identical set of chromosomes."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Describe the phase of Telophase in Mitosis.",
+      "answer": "In Telophase, chromosomes at the poles decondense and become invisible again. A nuclear membrane forms around each set of chromosomes, creating two daughter nuclei. The nucleolus reappears, and spindle fibers disappear, completing karyokinesis."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Explain the process of Meiosis.",
+      "answer": "Meiosis involves two stages: Meiosis-I and Meiosis-II. In Meiosis-I, homologous chromosomes undergo crossing over (genetic recombination) and then separate into two haploid cells. In Meiosis-II, these two cells divide again similarly to mitosis, separating sister chromatids. The result is four haploid daughter cells, genetically distinct from the parent."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Distinguish between Mitosis and Meiosis.",
+      "answer": "Mitosis occurs in somatic/stem cells, maintains chromosome number (2n -> 2n), and produces two identical daughter cells. It's for growth. Meiosis occurs in germ cells, halves chromosome number (2n -> n), involves crossing over, and produces four genetically different gametes. It's for reproduction."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "Explain Anaerobic Respiration.",
+      "answer": "Anaerobic respiration occurs without oxygen. It involves Glycolysis and Fermentation. Glucose is incompletely oxidized, yielding less energy. Pyruvic acid from glycolysis is converted to organic acids or alcohol (e.g., lactic acid in muscles, ethanol in yeast). It is used by some bacteria, yeast, and muscle cells during heavy exercise."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Discuss the importance of cell division.",
+      "answer": "Cell division is vital for life. Mitosis enables growth (from zygote to adult), tissue repair (healing wounds), and restoration of the body. Meiosis produces gametes for sexual reproduction, ensuring genetic diversity through recombination. Without division, life cannot propagate or sustain itself."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "What is the role of vitamins in the body?",
+      "answer": "Vitamins are essential for various life processes. B2 (Riboflavin) and B3 (Nicotinamide) are needed to produce FADH2 and NADH2 for respiration. Deficiency causes diseases. Fat-soluble vitamins (A, D, E, K) and water-soluble (B, C) have specific roles in vision, bone health, clotting, and immunity."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "How do living organisms get energy?",
+      "answer": "Organisms get energy mainly from carbohydrates. Glucose is oxidized in cells via aerobic respiration (Glycolysis, Krebs cycle, ETC) to produce ATP, CO2, and H2O. If oxygen is low, anaerobic respiration is used. Proteins and lipids can also be used as alternative energy sources."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Explain the structure of ATP.",
+      "answer": "ATP (Adenosine Triphosphate) is a molecule with a nitrogenous base (adenine), a pentose sugar (ribose), and three phosphate groups. Energy is stored in the bonds between phosphates. When a bond breaks, energy is released, converting ATP to ADP (Adenosine Diphosphate). It acts as the energy currency."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "What are the uses of fatty acids in the body?",
+      "answer": "Fatty acids from lipids are used to produce energy (9 Kcal/g). They form phospholipids for plasma membranes. They are used to synthesize hormones like progesterone, estrogen, and testosterone. They also form the protective covering around axons of nerve cells."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "Describe the role of proteins and amino acids.",
+      "answer": "Proteins are broken down into amino acids, which are transported to cells. Cells use them to synthesize vital proteins: skin (melanin), bones (ossein), cells (enzymes), pancreas (insulin), pituitary (hormones), muscles (actin/myosin), and blood (hemoglobin). Excess amino acids are eliminated or converted to glucose."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "Why is the Krebs cycle also called the Citric Acid Cycle?",
+      "answer": "In the first step of the cycle, Acetyl-CoA combines with oxaloacetic acid to form citric acid. Since citric acid is the first stable product formed in this cyclic chain of reactions, it is commonly referred to as the Citric Acid Cycle."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Energy Currency' with respect to ATP.",
+      "answer": "Just as money facilitates transactions, ATP facilitates energy transactions in the cell. Cells store energy in ATP bonds and release it when needed for processes like movement, transport, or synthesis. Because it holds and releases energy on demand, it is termed the 'energy currency'."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "What happens during exercise to our muscle cells?",
+      "answer": "During heavy exercise, oxygen demand exceeds supply. Muscle cells switch to anaerobic respiration. Glucose is converted to lactic acid instead of CO2 and H2O, producing less energy. The accumulation of lactic acid causes muscle fatigue and pain."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "Explain the formation of gametes.",
+      "answer": "Gametes are formed by Meiosis. Diploid germ cells undergo two rounds of division. Meiosis-I reduces chromosome number by half (2n -> n) and introduces variation via crossing over. Meiosis-II separates sister chromatids. This results in four haploid gametes (sperm or egg)."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "What is the significance of crossing over in Meiosis?",
+      "answer": "Crossing over occurs in Prophase-I of meiosis. Homologous chromosomes exchange genetic segments. This creates new combinations of genes (recombination). It ensures that offspring are genetically unique and different from parents, driving evolution and diversity."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "Describe the digestion of lipids.",
+      "answer": "Dietary lipids are digested into fatty acids and glycerol (alcohol). These are absorbed into the bloodstream and distributed to cells. Cells then use them to build structures (membranes), make hormones, or oxidize them for high energy yield (9 Kcal/g)."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "How does the body handle excess nutrients?",
+      "answer": "Excess carbohydrates are stored as glycogen in the liver/muscles. Excess lipids are stored in adipose tissue. Excess proteins are not stored but broken down to ammonia (excreted) or converted to glucose via gluconeogenesis. This regulation maintains balance."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "What are the main steps of Aerobic Respiration?",
+      "answer": "1. Glycolysis: Glucose -> Pyruvate (Cytoplasm). 2. Pyruvate oxidation: Pyruvate -> Acetyl-CoA. 3. Krebs Cycle: Acetyl-CoA oxidized -> NADH2, FADH2 (Mitochondria). 4. Electron Transfer Chain: NADH2, FADH2 -> ATP + H2O (Mitochondria inner membrane)."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "Why is oxygen necessary for complete oxidation of glucose?",
+      "answer": "Oxygen acts as the final electron acceptor in the Electron Transfer Chain. Without it, the chain halts, NADH2/FADH2 cannot be recycled, and the Krebs cycle stops. Only glycolysis can proceed (anaerobically), which doesn't completely oxidize glucose."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "Compare aerobic and anaerobic respiration in terms of energy yield.",
+      "answer": "Aerobic respiration completely oxidizes glucose, producing a large amount of energy (38 ATP). Anaerobic respiration incompletely oxidizes glucose (fermentation), producing very little energy (2 ATP) and byproducts like alcohol or lactic acid."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "What is the role of the circulatory system in energy production?",
+      "answer": "The circulatory system transports glucose and oxygen (from digestive/respiratory systems) to every cell. It also removes CO2 and waste products. Without this transport, cells wouldn't receive the raw materials needed for respiration and energy production."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "Explain the term 'diplod' and 'haploid'.",
+      "answer": "Diploid (2n) cells have two sets of chromosomes (one from each parent), typical of somatic cells. Haploid (n) cells have one set of chromosomes, typical of gametes. Meiosis converts diploid to haploid to maintain species chromosome number during fertilization."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "How are seeds able to respire under water?",
+      "answer": "When soil is submerged, oxygen availability drops. Seeds switch to anaerobic respiration to generate energy for germination. This allows them to survive temporarily until oxygen becomes available, though it produces less energy."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "What is the function of the enzyme RUBISCO?",
+      "answer": "RUBISCO is found in plant chloroplasts and is the most abundant protein in nature. It is an enzyme that catalyzes the first step of carbon fixation in photosynthesis, helping plants produce food."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "Why is water an essential nutrient?",
+      "answer": "Water is the medium for all cellular reactions. It maintains blood volume and transports nutrients/waste. Loss of water disrupts cellular function. Since the body is ~70% water, maintaining hydration is critical for life processes."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "Describe the process of Cytokinesis in detail.",
+      "answer": "Cytokinesis divides the cytoplasm after the nucleus divides. In animals, a cleavage furrow forms and deepens, pinching the cell in two. In plants, vesicles fuse at the center to form a cell plate, which grows outward to become the new cell wall, separating the cells."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "What is the significance of stem cells in cell division?",
+      "answer": "Stem cells are undifferentiated cells capable of dividing by mitosis to produce more stem cells or differentiate into specialized cells. They are crucial for growth, repair, and maintaining tissue populations throughout an organism's life."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Why do we consume food?",
+      "answer": "We consume food to obtain nutrients (carbohydrates, proteins, fats, vitamins, minerals). These nutrients provide energy for life processes, raw materials for growth and repair, and regulation of metabolic functions."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "How does the body coordinate various life processes?",
+      "answer": "The body uses the nervous system (electrical signals) and endocrine system (hormonal signals) to coordinate functions like digestion, respiration, and circulation. This ensures they work together efficiently to maintain homeostasis and produce energy."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "Explain the role of NADH2 and FADH2.",
+      "answer": "They are electron carriers derived from vitamins B3 and B2. They trap energy released during Glycolysis and Krebs cycle. In the Electron Transfer Chain, they donate electrons, leading to the production of ATP. They are vital for maximizing energy yield."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "What are the different products of fermentation?",
+      "answer": "Fermentation of pyruvic acid can produce alcohol (in yeast), lactic acid (in muscles/bacteria), or other organic acids like acetic acid or vitamins (in microbes). The product depends on the organism and enzymes present."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "Why is cell division considered a life process?",
+      "answer": "Because it is fundamental to the continuity of life. It allows growth, tissue repair, and reproduction. Without it, organisms couldn't develop from a single cell, heal injuries, or produce offspring. It is as essential as respiration or digestion."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "Explain the structure of a chromosome.",
+      "answer": "A chromosome consists of DNA and proteins (histones). Before division, it has two sister chromatids joined at a centromere. It carries genetic information (genes) determining traits. In 2n cells, they exist in homologous pairs."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "What are homologous chromosomes?",
+      "answer": "Homologous chromosomes are pairs of chromosomes (one from each parent) that are similar in shape, size, and gene arrangement. They pair up during meiosis to allow crossing over. They determine the same traits but may have different alleles."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "How does energy production contribute to body maintenance?",
+      "answer": "Energy (ATP) powers all cellular activities, including synthesis of proteins for repair, active transport of molecules, muscle contraction for movement, and nerve impulse transmission. Constant energy supply is needed to maintain order and prevent death."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "Discuss the interrelationship between respiration and photosynthesis (contextual).",
+      "answer": "Plants (autotrophs) create glucose via photosynthesis using light. They store it. Animals (heterotrophs) consume plants. Both use respiration to break down that glucose for energy. The products of one (O2, glucose) are reactants for the other (CO2, H2O) in a global cycle."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "Why are vitamins called heterogeneous compounds?",
+      "answer": "Because they are a chemically diverse group of organic compounds. They don't belong to a single chemical class but share the feature of being essential in small amounts for metabolic processes. Each has a unique structure and function."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "What happens in the 'reduction' step of redox reactions in respiration?",
+      "answer": "In respiration, reduction often involves gaining electrons or hydrogen. For example, NAD+ is reduced to NADH2 by gaining electrons/hydrogen during glycolysis/Krebs cycle. This stores energy temporarily before it's used to make ATP."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'sister chromatids'.",
+      "answer": "Sister chromatids are identical copies of a chromosome connected by a centromere. They are formed during DNA replication before division. During mitosis/anaphase II, they separate to become individual chromosomes in daughter cells."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "How does the spindle apparatus function?",
+      "answer": "The spindle apparatus is made of protein fibers (microtubules) extending from centrioles. They attach to chromosome centromeres (kinetochores). They physically pull chromosomes to align them (metaphase) and separate them (anaphase) to poles."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "What is the importance of the centromere?",
+      "answer": "The centromere holds sister chromatids together. It is the attachment point for spindle fibers. Its splitting in Anaphase is the key event that allows genetic material to be equally divided between daughter cells."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "Why is Meiosis called reductional division?",
+      "answer": "Because it reduces the chromosome number from diploid (2n) to haploid (n). This is crucial so that when gametes fuse during fertilization, the diploid number is restored, maintaining chromosome stability across generations."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "Why is Mitosis called equational division?",
+      "answer": "Because the chromosome number remains the same in the daughter cells as in the parent cell (2n -> 2n). The genetic material is replicated and equally distributed, creating identical clones."
+    }
+  ]
+}

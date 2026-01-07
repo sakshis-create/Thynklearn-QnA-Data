@@ -1,0 +1,2009 @@
+{
+" Chapter 15": " Fun with Magnets ",
+"lessons": [
+"Fun with Magnets"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "Why do pins in a pin holder not fall even when it is held upside down?",
+"options": [
+{
+"option_id": 1,
+"text": "Due to glue",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Due to a magnet fitted in the cap",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Due to strong adhesive tape",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Due to vacuum suction",
+"is_correct": false
+}
+],
+"answer": "Due to a magnet fitted in the cap"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "What causes the fridge door to close automatically from a certain distance?",
+"options": [
+{
+"option_id": 1,
+"text": "Spring mechanism",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "A magnet in the door",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Air pressure",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Gravity",
+"is_correct": false
+}
+],
+"answer": "A magnet in the door"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "Which objects stick to a magnet?",
+"options": [
+{
+"option_id": 1,
+"text": "Objects made from plastic",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Iron objects",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Wooden objects",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Glass objects",
+"is_correct": false
+}
+],
+"answer": "Iron objects"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "The material to which objects made from iron, nickel, cobalt get attracted is called?",
+"options": [
+{
+"option_id": 1,
+"text": "Electromagnet",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Magnet",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Lodestone",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Alnico",
+"is_correct": false
+}
+],
+"answer": "Magnet"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "This property of a material attracting iron, nickel, cobalt is called?",
+"options": [
+{
+"option_id": 1,
+"text": "Attraction",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Magnetism",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Polarity",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Induction",
+"is_correct": false
+}
+],
+"answer": "Magnetism"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "Materials that stick to a magnet are called?",
+"options": [
+{
+"option_id": 1,
+"text": "Non-magnetic materials",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Magnetic materials",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Neutral materials",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Permanent materials",
+"is_correct": false
+}
+],
+"answer": "Magnetic materials"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "Which of these metals are magnetic materials?",
+"options": [
+{
+"option_id": 1,
+"text": "Copper, silver, gold",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Iron, cobalt, nickel",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Aluminium, zinc, lead",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Tin, mercury, platinum",
+"is_correct": false
+}
+],
+"answer": "Iron, cobalt, nickel"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "What is magnetite?",
+"options": [
+{
+"option_id": 1,
+"text": "Man-made magnet",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Natural magnet",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Electromagnet",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Permanent magnet",
+"is_correct": false
+}
+],
+"answer": "Natural magnet"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "According to legend, who discovered magnets?",
+"options": [
+{
+"option_id": 1,
+"text": "Michael Faraday",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Shepherd named Magnes",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Chinese traveller",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "European sailor",
+"is_correct": false
+}
+],
+"answer": "Shepherd named Magnes"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Why did Magnes' staff and shoes stick to the rock?",
+"options": [
+{
+"option_id": 1,
+"text": "Due to mud",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Iron ferrule and nails attracted by magnetite",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Rock was sticky",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Sheep wool",
+"is_correct": false
+}
+],
+"answer": "Iron ferrule and nails attracted by magnetite"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "Lodestones are also called?",
+"options": [
+{
+"option_id": 1,
+"text": "Leading stones",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Heavy stones",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Black stones",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Magnetic rocks",
+"is_correct": false
+}
+],
+"answer": "Leading stones"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "What direction does a freely hung magnetite piece settle in?",
+"options": [
+{
+"option_id": 1,
+"text": "East-west",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "North-south",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Random",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Vertical",
+"is_correct": false
+}
+],
+"answer": "North-south"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "Lodestones led to the invention of?",
+"options": [
+{
+"option_id": 1,
+"text": "Crane",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Mariner's compass",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Electromagnet",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Maglev train",
+"is_correct": false
+}
+],
+"answer": "Mariner's compass"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "Magnets used in machines and gadgets today are?",
+"options": [
+{
+"option_id": 1,
+"text": "Natural magnets",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Man-made magnets",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Lodestones",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Magnetite only",
+"is_correct": false
+}
+],
+"answer": "Man-made magnets"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Which is not a shape of everyday magnet?",
+"options": [
+{
+"option_id": 1,
+"text": "Bar magnets",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Disc magnets",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Triangular magnets",
+"is_correct": true
+},
+{
+"option_id": 4,
+"text": "Horseshoe magnets",
+"is_correct": false
+}
+],
+"answer": "Triangular magnets"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "Magnetism is a kind of what?",
+"options": [
+{
+"option_id": 1,
+"text": "Force only",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Energy",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Heat",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Light",
+"is_correct": false
+}
+],
+"answer": "Energy"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "Where are cranes with magnets used?",
+"options": [
+{
+"option_id": 1,
+"text": "Schools",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Factories, ports, garbage depots",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Homes",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Parks",
+"is_correct": false
+}
+],
+"answer": "Factories, ports, garbage depots"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "The end of a magnet pointing to north is called?",
+"options": [
+{
+"option_id": 1,
+"text": "South pole",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "North pole",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "East pole",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "West pole",
+"is_correct": false
+}
+],
+"answer": "North pole"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "North pole of magnet is indicated by?",
+"options": [
+{
+"option_id": 1,
+"text": "S",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "N",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "E",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "W",
+"is_correct": false
+}
+],
+"answer": "N"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "Where is magnetic force concentrated in a magnet?",
+"options": [
+{
+"option_id": 1,
+"text": "Center",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Two ends or poles",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Middle third",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Entire length equally",
+"is_correct": false
+}
+],
+"answer": "Two ends or poles"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "What happens if a bar magnet is cut into two pieces?",
+"options": [
+{
+"option_id": 1,
+"text": "One piece loses magnetism",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Two independent magnets are formed",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Poles separate",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Magnetism vanishes",
+"is_correct": false
+}
+],
+"answer": "Two independent magnets are formed"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "Can the two poles of a magnet be separated?",
+"options": [
+{
+"option_id": 1,
+"text": "Yes, by cutting",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "No",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Yes, by heating",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Yes, by rubbing",
+"is_correct": false
+}
+],
+"answer": "No"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "What is induced magnetism?",
+"options": [
+{
+"option_id": 1,
+"text": "Permanent magnetism in iron",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Magnetism acquired by magnetic material near a magnet",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Natural magnetism",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Electromagnetism",
+"is_correct": false
+}
+],
+"answer": "Magnetism acquired by magnetic material near a magnet"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "What happens between like poles of magnets?",
+"options": [
+{
+"option_id": 1,
+"text": "Attraction",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Repulsion",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "No effect",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Neutral",
+"is_correct": false
+}
+],
+"answer": "Repulsion"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "What is between opposite poles of magnets?",
+"options": [
+{
+"option_id": 1,
+"text": "Repulsion",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Attraction",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Ignition",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Fusion",
+"is_correct": false
+}
+],
+"answer": "Attraction"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "How is temporary magnetism induced in a needle?",
+"options": [
+{
+"option_id": 1,
+"text": "By heating",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "By rubbing with a magnet 7-8 times",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "By dipping in water",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "By exposing to sun",
+"is_correct": false
+}
+],
+"answer": "By rubbing with a magnet 7-8 times"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "What is needed to make an electromagnet?",
+"options": [
+{
+"option_id": 1,
+"text": "Iron nail, copper wire, battery cell",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Plastic rod, aluminium wire, dry cell",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Wooden stick, silver wire, solar cell",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Glass tube, gold wire, lemon battery",
+"is_correct": false
+}
+],
+"answer": "Iron nail, copper wire, battery cell"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "What happens to pins when electric current to electromagnet is stopped?",
+"options": [
+{
+"option_id": 1,
+"text": "They stick permanently",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "They fall off",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "They heat up",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "They multiply",
+"is_correct": false
+}
+],
+"answer": "They fall off"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "Electromagnet magnetism is due to?",
+"options": [
+{
+"option_id": 1,
+"text": "Permanent coils",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Electric current",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Chemical reaction",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Mechanical rubbing",
+"is_correct": false
+}
+],
+"answer": "Electric current"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "Which is an example of permanent magnet use?",
+"options": [
+{
+"option_id": 1,
+"text": "Crane",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Pin holder door",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Doorbell",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Maglev train",
+"is_correct": false
+}
+],
+"answer": "Pin holder door"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "Permanent magnets are made from mixture of?",
+"options": [
+{
+"option_id": 1,
+"text": "Copper, zinc, tin",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Nickel, cobalt, iron",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Aluminium, magnesium, silicon",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Lead, mercury, silver",
+"is_correct": false
+}
+],
+"answer": "Nickel, cobalt, iron"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Alnico is a mixture of?",
+"options": [
+{
+"option_id": 1,
+"text": "Iron, nickel, cobalt",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Aluminium, nickel, cobalt",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Gold, nickel, cobalt",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Antimony, nickel, cobalt",
+"is_correct": false
+}
+],
+"answer": "Aluminium, nickel, cobalt"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Who developed technique of producing electricity with magnet?",
+"options": [
+{
+"option_id": 1,
+"text": "Magnes",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Michael Faraday",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Einstein",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Newton",
+"is_correct": false
+}
+],
+"answer": "Michael Faraday"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Where did Michael Faraday do research?",
+"options": [
+{
+"option_id": 1,
+"text": "Greece",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Royal Institution in London",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "China",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "India",
+"is_correct": false
+}
+],
+"answer": "Royal Institution in London"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "How is magnetism destroyed in a magnet?",
+"options": [
+{
+"option_id": 1,
+"text": "By cooling",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "By heating, throwing, knocking, breaking",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "By washing",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "By painting",
+"is_correct": false
+}
+],
+"answer": "By heating, throwing, knocking, breaking"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "What protects a magnet during storage?",
+"options": [
+{
+"option_id": 1,
+"text": "Plastic cover",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Magnet keeper (soft iron bar)",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Wooden box",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Rubber sheet",
+"is_correct": false
+}
+],
+"answer": "Magnet keeper (soft iron bar)"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "In maglev train, what allows high speed?",
+"options": [
+{
+"option_id": 1,
+"text": "Friction",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Repulsion between train and rail magnets",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Wheels",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Engines only",
+"is_correct": false
+}
+],
+"answer": "Repulsion between train and rail magnets"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Electromagnets are used in?",
+"options": [
+{
+"option_id": 1,
+"text": "Doorbell and crane",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Pin holder only",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Compass",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "ATM card",
+"is_correct": false
+}
+],
+"answer": "Doorbell and crane"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Magnetic materials store data in?",
+"options": [
+{
+"option_id": 1,
+"text": "Paper",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Computer hard disk, audio/video tape",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Cloud only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "USB flash without magnet",
+"is_correct": false
+}
+],
+"answer": "Computer hard disk, audio/video tape"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "What is a magnet keeper?",
+"options": [
+{
+"option_id": 1,
+"text": "A box",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Bar of soft iron",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Thread",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Stand",
+"is_correct": false
+}
+],
+"answer": "Bar of soft iron"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "If bar magnet hung by thread at center, north pole points to?",
+"options": [
+{
+"option_id": 1,
+"text": "South pole of earth",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "North pole of earth",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "East",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "West",
+"is_correct": false
+}
+],
+"answer": "South pole of earth"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "Iron filings stick most to which part of magnet?",
+"options": [
+{
+"option_id": 1,
+"text": "Center",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Poles",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Middle",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Ends equally",
+"is_correct": false
+}
+],
+"answer": "Poles"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "To separate iron from mixture of sand, paper, sawdust, pins?",
+"options": [
+{
+"option_id": 1,
+"text": "Use sieve",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Pass a magnet",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Water",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Wind",
+"is_correct": false
+}
+],
+"answer": "Pass a magnet"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "In experiment, iron bar acquires magnetism when?",
+"options": [
+{
+"option_id": 1,
+"text": "Far from magnet",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Powerful magnet fixed above it",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Alone",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Heated",
+"is_correct": false
+}
+],
+"answer": "Powerful magnet fixed above it"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "For finding direction in forest, use?",
+"options": [
+{
+"option_id": 1,
+"text": "Electromagnet",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Freely suspended bar magnet",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Permanent magnet only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Crane magnet",
+"is_correct": false
+}
+],
+"answer": "Freely suspended bar magnet"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "For window shutter that opens/shuts in wind, use?",
+"options": [
+{
+"option_id": 1,
+"text": "Electromagnet",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Magnet to attract shutter",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Lodestone",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Compass",
+"is_correct": false
+}
+],
+"answer": "Magnet to attract shutter"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "If magnet cut at two places perpendicular to axis, how many magnets formed?",
+"options": [
+{
+"option_id": 1,
+"text": "1",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "3",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "2",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "4",
+"is_correct": false
+}
+],
+"answer": "3"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Total poles formed when bar magnet cut at two places?",
+"options": [
+{
+"option_id": 1,
+"text": "2",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "6",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "4",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "3",
+"is_correct": false
+}
+],
+"answer": "6"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "When magnetic material near magnet, it acquires?",
+"options": [
+{
+"option_id": 1,
+"text": "Permanent magnetism",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Induced magnetism",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Natural magnetism",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Repulsive magnetism",
+"is_correct": false
+}
+],
+"answer": "Induced magnetism"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "A magnet remains steady in which direction?",
+"options": [
+{
+"option_id": 1,
+"text": "East-west",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "North-south",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Up-down",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Diagonal",
+"is_correct": false
+}
+],
+"answer": "North-south"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "Define a magnet.",
+"answer": "The material to which objects made from iron, nickel, cobalt, etc. get attracted is called a magnet."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "What is magnetism?",
+"answer": "This property of a material attracting iron, nickel, cobalt objects is called magnetism."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "Name magnetic materials.",
+"answer": "Iron, cobalt, nickel."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "Name non-magnetic materials.",
+"answer": "Sand, pieces of paper, sawdust."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "What is magnetite?",
+"answer": "Magnetite is a natural magnet."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Who is Magnes?",
+"answer": "A shepherd named Magnes from Greece in the legend of magnet discovery."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Why did Magnes' shoes and staff stick to the rock?",
+"answer": "Because of the iron nails in his shoes and iron ferrule on his staff attracted by magnetite."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "What are lodestones?",
+"answer": "Magnetite rocks used for finding directions, also called leading stones."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "What did lodestones lead to?",
+"answer": "Invention of the mariner's compass."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "List shapes of everyday magnets.",
+"answer": "Bar magnets, disc magnets, horseshoe magnets, ring-shaped magnets, cylindrical magnets, button magnets."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Why is magnetism a kind of energy?",
+"answer": "When a magnet attracts an object, the object is displaced due to magnetic force; work is done by magnetic force."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "Where are magnetic cranes used?",
+"answer": "Factories, ports, garbage depots to shift large objects."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "Define north pole of a magnet.",
+"answer": "The end that points to the north, indicated by N."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Define south pole of a magnet.",
+"answer": "The end that points to the south, indicated by S."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "How does a suspended magnet behave?",
+"answer": "A magnet always settles in the north-south direction."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Where do most iron filings stick on a magnet?",
+"answer": "To the poles."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "What happens when magnet is cut into two?",
+"answer": "Two independent magnets are formed."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "What is induced magnetism?",
+"answer": "A magnetic material acquires magnetism when placed near a magnet."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "Describe like poles interaction.",
+"answer": "There is repulsion between like poles of a magnet."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Describe opposite poles interaction.",
+"answer": "There is attraction between opposite poles."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "How to make temporary magnet?",
+"answer": "Rub a needle or nail with a magnet from one end to the other 7-8 times."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Apparatus for electromagnet.",
+"answer": "Iron nail 10 cm, 1-metre insulated copper wire, battery cell."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "How to assemble electromagnet?",
+"answer": "Wind copper wire around nail, join ends to cell."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "What is an electromagnet?",
+"answer": "Magnetism produced in nail due to electric current; temporary."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "Uses of electromagnet.",
+"answer": "Doorbell, crane."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "What is maglev train?",
+"answer": "Train using repulsion between magnets on train and rail for high speed without friction."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Permanent magnets example.",
+"answer": "Magnets in pin holder or cupboard door."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Composition of alnico.",
+"answer": "Mixture of aluminium, nickel, cobalt."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "Michael Faraday's contribution.",
+"answer": "Developed technique of producing electricity with help of a magnet."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "How magnetism is destroyed.",
+"answer": "When magnet is heated, thrown, knocked about or broken into pieces."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "What is magnet keeper?",
+"answer": "A bar of soft or pure iron placed in the box to protect the magnet."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Data storage using magnets.",
+"answer": "Strip of magnetic material in ATM cards, credit cards; hard disk of computer, audio/video tape."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "How to determine if material is magnetic.",
+"answer": "Bring a magnet near it; if it sticks, magnetic."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Why use magnet for iron from trash.",
+"answer": "Iron sticks to magnet, can be separated."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "North pole steady direction.",
+"answer": "North pole becomes steady in the direction of the south pole of the earth."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Repulsion between which poles.",
+"answer": "Like poles."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Attraction between which poles.",
+"answer": "Opposite poles."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "If magnet attracts metal, what is metal?",
+"answer": "Magnetic material or iron."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Temporary magnetism lasts.",
+"answer": "For a short while."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Electromagnet magnetism vanishes when.",
+"answer": "Electric current is put off."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Maglev train magnets help.",
+"answer": "Magnets fixed on two sides of train help it move forward."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "Faraday's early life.",
+"answer": "Born in poor family, worked with bookseller, read many books, developed interest in science."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Significance of Faraday's research.",
+"answer": "We can use electricity and electromagnetism in innumerable instruments today."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Why store magnets carefully.",
+"answer": "Magnetism gets destroyed if heated, thrown, knocked or broken."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Iron filings behavior in induced magnetism.",
+"answer": "Stick to iron bar when magnet near, fall off when magnet taken away."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "What we have learnt: magnetic metals.",
+"answer": "Iron, nickel, cobalt are magnetic metals."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "Magnets settle how when suspended.",
+"answer": "Along north-south direction."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Magnetism concentrated where.",
+"answer": "Near the poles."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Poles of magnet.",
+"answer": "Cannot be separated."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Electromagnetic energy use.",
+"answer": "Used in day-to-day life."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Explain pin holder mechanism.",
+"answer": "Magnet fitted in cap; iron pins stick to it."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Fridge door magnet role.",
+"answer": "Closes automatically; does not open unless pulled."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Classify objects using magnet.",
+"answer": "Those which stick: magnetic; do not: non-magnetic."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Mixture separation with magnet.",
+"answer": "Iron filings and pins stick to magnet."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Origin of name magnet.",
+"answer": "From shepherd Magnes or Magnesia in Greece."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Early use of magnets.",
+"answer": "In China and Europe for finding directions."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Magnetic power example.",
+"answer": "Cranes shift large objects using magnetic force."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Suspended magnet experiment.",
+"answer": "Tie thread to center, hangs from stand, settles north-south."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Iron filings experiment conclusion.",
+"answer": "Fewer filings in center; most at poles."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Cutting magnet experiment.",
+"answer": "Each piece has two poles; independent magnets."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Induced magnetism experiment.",
+"answer": "Iron bar below magnet gets filings; vanish when magnet removed."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Poles interaction experiment.",
+"answer": "Like poles repel; unlike attract."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Temporary magnet making.",
+"answer": "Pins stick to rubbed needle/nail."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Electromagnet fun activity.",
+"answer": "Pins stick to nail head when current on."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Why pins fall off in electromagnet.",
+"answer": "Magnetism vanishes when current off."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Maglev train principle.",
+"answer": "Repulsion eliminates friction; slides fast."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Permanent vs temporary magnets.",
+"answer": "Pin holder permanent; crane electromagnet temporary."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Faraday's background.",
+"answer": "Poor family, bookseller job led to science interest."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Storing magnets precaution.",
+"answer": "Use keeper to prevent destruction of magnetism."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Magnetic storage devices.",
+"answer": "ATM/credit cards, computer hard disk, tapes."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "To find north pole of magnet.",
+"answer": "Suspend freely; end pointing north is N."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Separate iron from trash using.",
+"answer": "Electromagnet on crane."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Lost in forest, direction tool.",
+"answer": "Suspend bar magnet."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Windy shutter fix.",
+"answer": "Attach magnet to frame."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "How electromagnet made.",
+"answer": "Wind insulated copper wire on iron nail, connect to battery."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Properties of magnet.",
+"answer": "Settles N-S, poles attract iron filings, poles inseparable, like repel unlike attract."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "Practical uses of magnet.",
+"answer": "Pin holder, fridge, crane, doorbell, compass, data storage."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Natural vs man-made magnets.",
+"answer": "Magnetite natural; bar, horseshoe etc. man-made."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Role of magnets in compass.",
+"answer": "Settles in N-S direction."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Why induced magnetism temporary.",
+"answer": "Vanishes when magnet removed."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Rubbing method significance.",
+"answer": "Makes magnetic objects acquire temporary magnetism."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Electromagnet advantage.",
+"answer": "Magnetism can be turned on/off."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Maglev speed reason.",
+"answer": "No friction due to repulsion."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Alnico use.",
+"answer": "Permanent magnets."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "Keeper function.",
+"answer": "Protects magnetism."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Earth pole relation.",
+"answer": "Magnet N points to earth geographic S."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Pole separation impossibility reason.",
+"answer": "Each piece forms complete magnet with two poles."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Experiment to show magnetic field.",
+"answer": "Iron filings pattern on paper over magnet."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Why pins don't fall in pin holder.",
+"answer": "Stick to magnet even upside down."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Fridge auto close reason.",
+"answer": "Attraction from distance."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Legend origin of magnets.",
+"answer": "Magnes sat on magnetite rock."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Historical compass development.",
+"answer": "From lodestones in unknown travel."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Work by magnetic force.",
+"answer": "Displacement of objects."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Filings fewer where.",
+"answer": "Center of magnet."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Artificial magnet by rubbing.",
+"answer": "Temporary."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Electromagnet in daily life.",
+"answer": "Many places."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Precautions with devices.",
+"answer": "Under elders' guidance."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "To become scientist.",
+"answer": "Read stories, try activities, ponder experiences."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Card data storage.",
+"answer": "Magnetic strip."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "What we learnt summary.",
+"answer": "Magnets align N-S, poles key, inseparable, used daily via electromagnetism."
+}
+]
+}

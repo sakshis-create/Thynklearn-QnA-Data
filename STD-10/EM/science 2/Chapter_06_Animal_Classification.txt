@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.06",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Animal Classification"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was the first Greek philosopher to perform animal classification?",
+      "options": [
+        { "option_id": 1, "text": "Theophrastus", "is_correct": false },
+        { "option_id": 2, "text": "Aristotle", "is_correct": true },
+        { "option_id": 3, "text": "Linnaeus", "is_correct": false },
+        { "option_id": 4, "text": "John Ray", "is_correct": false }
+      ],
+      "answer": "Aristotle"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which method of classification was proposed by Aristotle?",
+      "options": [
+        { "option_id": 1, "text": "Natural method", "is_correct": false },
+        { "option_id": 2, "text": "Evolutionary method", "is_correct": false },
+        { "option_id": 3, "text": "Artificial method", "is_correct": true },
+        { "option_id": 4, "text": "Traditional method", "is_correct": false }
+      ],
+      "answer": "Artificial method"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How many estimated animal species are there on earth according to recent studies?",
+      "options": [
+        { "option_id": 1, "text": "5 million", "is_correct": false },
+        { "option_id": 2, "text": "7 million", "is_correct": true },
+        { "option_id": 3, "text": "10 million", "is_correct": false },
+        { "option_id": 4, "text": "2 million", "is_correct": false }
+      ],
+      "answer": "7 million"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which system of classification was used by Dobzhansky and Meyer?",
+      "options": [
+        { "option_id": 1, "text": "Artificial method", "is_correct": false },
+        { "option_id": 2, "text": "Natural system", "is_correct": false },
+        { "option_id": 3, "text": "Evolution-based system", "is_correct": true },
+        { "option_id": 4, "text": "Traditional system", "is_correct": false }
+      ],
+      "answer": "Evolution-based system"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In the traditional method, animals are divided into Non-chordates and Chordates based on the presence of __________.",
+      "options": [
+        { "option_id": 1, "text": "Vertebral column", "is_correct": false },
+        { "option_id": 2, "text": "Notochord", "is_correct": true },
+        { "option_id": 3, "text": "Lungs", "is_correct": false },
+        { "option_id": 4, "text": "Heart", "is_correct": false }
+      ],
+      "answer": "Notochord"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a character of Non-chordates?",
+      "options": [
+        { "option_id": 1, "text": "Body not supported by notochord", "is_correct": false },
+        { "option_id": 2, "text": "Pharyngeal gill-slits are absent", "is_correct": false },
+        { "option_id": 3, "text": "Nerve cord is on the dorsal side", "is_correct": true },
+        { "option_id": 4, "text": "Heart is on the dorsal side", "is_correct": false }
+      ],
+      "answer": "Nerve cord is on the dorsal side"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How many phyla are Non-chordates divided into?",
+      "options": [
+        { "option_id": 1, "text": "5", "is_correct": false },
+        { "option_id": 2, "text": "8", "is_correct": false },
+        { "option_id": 3, "text": "10", "is_correct": true },
+        { "option_id": 4, "text": "12", "is_correct": false }
+      ],
+      "answer": "10"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which scientist proposed the five kingdom classification system?",
+      "options": [
+        { "option_id": 1, "text": "Carl Woese", "is_correct": false },
+        { "option_id": 2, "text": "Robert Whittaker", "is_correct": true },
+        { "option_id": 3, "text": "Aristotle", "is_correct": false },
+        { "option_id": 4, "text": "Linnaeus", "is_correct": false }
+      ],
+      "answer": "Robert Whittaker"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What type of body organization is seen in Phylum Porifera?",
+      "options": [
+        { "option_id": 1, "text": "Protoplasmic grade", "is_correct": false },
+        { "option_id": 2, "text": "Cellular grade", "is_correct": true },
+        { "option_id": 3, "text": "Cell-tissue grade", "is_correct": false },
+        { "option_id": 4, "text": "Tissue-organ grade", "is_correct": false }
+      ],
+      "answer": "Cellular grade"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Animals from Phylum Cnidaria show which grade of organization?",
+      "options": [
+        { "option_id": 1, "text": "Cellular grade", "is_correct": false },
+        { "option_id": 2, "text": "Cell-tissue grade", "is_correct": true },
+        { "option_id": 3, "text": "Tissue-organ grade", "is_correct": false },
+        { "option_id": 4, "text": "Organ-system grade", "is_correct": false }
+      ],
+      "answer": "Cell-tissue grade"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following animals shows 'Tissue-Organ grade' organization?",
+      "options": [
+        { "option_id": 1, "text": "Sponge", "is_correct": false },
+        { "option_id": 2, "text": "Jellyfish", "is_correct": false },
+        { "option_id": 3, "text": "Flat worms", "is_correct": true },
+        { "option_id": 4, "text": "Human", "is_correct": false }
+      ],
+      "answer": "Flat worms"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which type of body symmetry is seen in Star fish?",
+      "options": [
+        { "option_id": 1, "text": "Asymmetrical", "is_correct": false },
+        { "option_id": 2, "text": "Radial symmetry", "is_correct": true },
+        { "option_id": 3, "text": "Bilateral symmetry", "is_correct": false },
+        { "option_id": 4, "text": "None of these", "is_correct": false }
+      ],
+      "answer": "Radial symmetry"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Animals with three germ layers are called __________.",
+      "options": [
+        { "option_id": 1, "text": "Diploblastic", "is_correct": false },
+        { "option_id": 2, "text": "Triploblastic", "is_correct": true },
+        { "option_id": 3, "text": "Monoblastic", "is_correct": false },
+        { "option_id": 4, "text": "Polyblastic", "is_correct": false }
+      ],
+      "answer": "Triploblastic"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which phylum consists of animals that are 'Acoelomate'?",
+      "options": [
+        { "option_id": 1, "text": "Annelida", "is_correct": false },
+        { "option_id": 2, "text": "Arthropoda", "is_correct": false },
+        { "option_id": 3, "text": "Porifera", "is_correct": true },
+        { "option_id": 4, "text": "Aschelminthes", "is_correct": false }
+      ],
+      "answer": "Porifera"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Animals from Phylum Aschelminthes are __________.",
+      "options": [
+        { "option_id": 1, "text": "Eucoelomate", "is_correct": false },
+        { "option_id": 2, "text": "Acoelomate", "is_correct": false },
+        { "option_id": 3, "text": "Pseudocoelomate", "is_correct": true },
+        { "option_id": 4, "text": "Hemicoelomate", "is_correct": false }
+      ],
+      "answer": "Pseudocoelomate"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which special cells are present in the body of sponges?",
+      "options": [
+        { "option_id": 1, "text": "Cnidoblasts", "is_correct": false },
+        { "option_id": 2, "text": "Collar cells", "is_correct": true },
+        { "option_id": 3, "text": "Flame cells", "is_correct": false },
+        { "option_id": 4, "text": "Neurons", "is_correct": false }
+      ],
+      "answer": "Collar cells"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the function of 'Ostia' in sponges?",
+      "options": [
+        { "option_id": 1, "text": "To give out water", "is_correct": false },
+        { "option_id": 2, "text": "To take in water", "is_correct": true },
+        { "option_id": 3, "text": "To capture prey", "is_correct": false },
+        { "option_id": 4, "text": "For reproduction", "is_correct": false }
+      ],
+      "answer": "To take in water"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which animal is popularly known as 'Bath sponge'?",
+      "options": [
+        { "option_id": 1, "text": "Sycon", "is_correct": false },
+        { "option_id": 2, "text": "Hyalonema", "is_correct": false },
+        { "option_id": 3, "text": "Euspongia", "is_correct": true },
+        { "option_id": 4, "text": "Euplectella", "is_correct": false }
+      ],
+      "answer": "Euspongia"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "In Cnidarians, the umbrella-like body shape is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Polyp", "is_correct": false },
+        { "option_id": 2, "text": "Medusa", "is_correct": true },
+        { "option_id": 3, "text": "Osculum", "is_correct": false },
+        { "option_id": 4, "text": "Tentacle", "is_correct": false }
+      ],
+      "answer": "Medusa"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Cnidoblasts are used for __________.",
+      "options": [
+        { "option_id": 1, "text": "Locomotion", "is_correct": false },
+        { "option_id": 2, "text": "Digestion", "is_correct": false },
+        { "option_id": 3, "text": "Capturing prey and protection", "is_correct": true },
+        { "option_id": 4, "text": "Reproduction", "is_correct": false }
+      ],
+      "answer": "Capturing prey and protection"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which phylum includes animals called 'flatworms'?",
+      "options": [
+        { "option_id": 1, "text": "Aschelminthes", "is_correct": false },
+        { "option_id": 2, "text": "Annelida", "is_correct": false },
+        { "option_id": 3, "text": "Platyhelminthes", "is_correct": true },
+        { "option_id": 4, "text": "Cnidaria", "is_correct": false }
+      ],
+      "answer": "Platyhelminthes"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Animals that are hermaphrodite have __________.",
+      "options": [
+        { "option_id": 1, "text": "Only male reproductive system", "is_correct": false },
+        { "option_id": 2, "text": "Only female reproductive system", "is_correct": false },
+        { "option_id": 3, "text": "Both male and female reproductive systems", "is_correct": true },
+        { "option_id": 4, "text": "No reproductive system", "is_correct": false }
+      ],
+      "answer": "Both male and female reproductive systems"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which of these animals is an example of Phylum Aschelminthes?",
+      "options": [
+        { "option_id": 1, "text": "Earthworm", "is_correct": false },
+        { "option_id": 2, "text": "Tapeworm", "is_correct": false },
+        { "option_id": 3, "text": "Ascaris", "is_correct": true },
+        { "option_id": 4, "text": "Planaria", "is_correct": false }
+      ],
+      "answer": "Ascaris"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which animal is called 'Friend of farmers'?",
+      "options": [
+        { "option_id": 1, "text": "Leech", "is_correct": false },
+        { "option_id": 2, "text": "Earthworm", "is_correct": true },
+        { "option_id": 3, "text": "Nereis", "is_correct": false },
+        { "option_id": 4, "text": "Cockroach", "is_correct": false }
+      ],
+      "answer": "Earthworm"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which is the largest phylum in the animal kingdom?",
+      "options": [
+        { "option_id": 1, "text": "Mollusca", "is_correct": false },
+        { "option_id": 2, "text": "Arthropoda", "is_correct": true },
+        { "option_id": 3, "text": "Chordata", "is_correct": false },
+        { "option_id": 4, "text": "Annelida", "is_correct": false }
+      ],
+      "answer": "Arthropoda"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The exoskeleton of Arthropods is made up of __________.",
+      "options": [
+        { "option_id": 1, "text": "Calcium Carbonate", "is_correct": false },
+        { "option_id": 2, "text": "Chitin", "is_correct": true },
+        { "option_id": 3, "text": "Bone", "is_correct": false },
+        { "option_id": 4, "text": "Silica", "is_correct": false }
+      ],
+      "answer": "Chitin"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which is the second largest phylum in the animal kingdom?",
+      "options": [
+        { "option_id": 1, "text": "Arthropoda", "is_correct": false },
+        { "option_id": 2, "text": "Mollusca", "is_correct": true },
+        { "option_id": 3, "text": "Echinodermata", "is_correct": false },
+        { "option_id": 4, "text": "Annelida", "is_correct": false }
+      ],
+      "answer": "Mollusca"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which animal can change its color and is considered most clever among non-chordates?",
+      "options": [
+        { "option_id": 1, "text": "Snail", "is_correct": false },
+        { "option_id": 2, "text": "Octopus", "is_correct": true },
+        { "option_id": 3, "text": "Bivalve", "is_correct": false },
+        { "option_id": 4, "text": "Pearl oyster", "is_correct": false }
+      ],
+      "answer": "Octopus"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Echinoderms perform locomotion with the help of __________.",
+      "options": [
+        { "option_id": 1, "text": "Tube-feet", "is_correct": true },
+        { "option_id": 2, "text": "Parapodia", "is_correct": false },
+        { "option_id": 3, "text": "Setae", "is_correct": false },
+        { "option_id": 4, "text": "Muscular foot", "is_correct": false }
+      ],
+      "answer": "Tube-feet"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of the following animals is an Echinoderm?",
+      "options": [
+        { "option_id": 1, "text": "Sea anemone", "is_correct": false },
+        { "option_id": 2, "text": "Sea-cucumber", "is_correct": true },
+        { "option_id": 3, "text": "Sea horse", "is_correct": false },
+        { "option_id": 4, "text": "Sea hare", "is_correct": false }
+      ],
+      "answer": "Sea-cucumber"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Hemichordates are also called __________.",
+      "options": [
+        { "option_id": 1, "text": "Round worms", "is_correct": false },
+        { "option_id": 2, "text": "Flat worms", "is_correct": false },
+        { "option_id": 3, "text": "Acorn worms", "is_correct": true },
+        { "option_id": 4, "text": "Tape worms", "is_correct": false }
+      ],
+      "answer": "Acorn worms"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which animal is considered a connecting link between non-chordates and chordates?",
+      "options": [
+        { "option_id": 1, "text": "Amphioxus", "is_correct": false },
+        { "option_id": 2, "text": "Balanoglossus", "is_correct": true },
+        { "option_id": 3, "text": "Herdmania", "is_correct": false },
+        { "option_id": 4, "text": "Petromyzon", "is_correct": false }
+      ],
+      "answer": "Balanoglossus"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "In Urochordata, the notochord is present in __________.",
+      "options": [
+        { "option_id": 1, "text": "Whole body", "is_correct": false },
+        { "option_id": 2, "text": "Head region", "is_correct": false },
+        { "option_id": 3, "text": "Tail region of larvae", "is_correct": true },
+        { "option_id": 4, "text": "Proboscis only", "is_correct": false }
+      ],
+      "answer": "Tail region of larvae"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which of the following belongs to Subphylum Cephalochordata?",
+      "options": [
+        { "option_id": 1, "text": "Herdmania", "is_correct": false },
+        { "option_id": 2, "text": "Amphioxus", "is_correct": true },
+        { "option_id": 3, "text": "Petromyzon", "is_correct": false },
+        { "option_id": 4, "text": "Doliolum", "is_correct": false }
+      ],
+      "answer": "Amphioxus"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which class includes animals that are jaw-less (Agnatha)?",
+      "options": [
+        { "option_id": 1, "text": "Pisces", "is_correct": false },
+        { "option_id": 2, "text": "Amphibia", "is_correct": false },
+        { "option_id": 3, "text": "Cyclostomata", "is_correct": true },
+        { "option_id": 4, "text": "Reptilia", "is_correct": false }
+      ],
+      "answer": "Cyclostomata"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which class of animals are cold-blooded (Poikilotherms)?",
+      "options": [
+        { "option_id": 1, "text": "Aves", "is_correct": false },
+        { "option_id": 2, "text": "Mammalia", "is_correct": false },
+        { "option_id": 3, "text": "Reptilia", "is_correct": true },
+        { "option_id": 4, "text": "None of these", "is_correct": false }
+      ],
+      "answer": "Reptilia"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which of the following is a warm-blooded animal (Homeotherm)?",
+      "options": [
+        { "option_id": 1, "text": "Shark", "is_correct": false },
+        { "option_id": 2, "text": "Frog", "is_correct": false },
+        { "option_id": 3, "text": "Pigeon", "is_correct": true },
+        { "option_id": 4, "text": "Lizard", "is_correct": false }
+      ],
+      "answer": "Pigeon"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "In Class Amphibia, respiration in adults can occur through __________.",
+      "options": [
+        { "option_id": 1, "text": "Gills only", "is_correct": false },
+        { "option_id": 2, "text": "Skin and Lungs", "is_correct": true },
+        { "option_id": 3, "text": "Lungs only", "is_correct": false },
+        { "option_id": 4, "text": "Skin only", "is_correct": false }
+      ],
+      "answer": "Skin and Lungs"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of these is a characteristic of Class Mammalia?",
+      "options": [
+        { "option_id": 1, "text": "Presence of Mammary glands", "is_correct": true },
+        { "option_id": 2, "text": "Cold blooded", "is_correct": false },
+        { "option_id": 3, "text": "Presence of feathers", "is_correct": false },
+        { "option_id": 4, "text": "External fertilization", "is_correct": false }
+      ],
+      "answer": "Presence of Mammary glands"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Bat is included in which class?",
+      "options": [
+        { "option_id": 1, "text": "Aves", "is_correct": false },
+        { "option_id": 2, "text": "Mammalia", "is_correct": true },
+        { "option_id": 3, "text": "Reptilia", "is_correct": false },
+        { "option_id": 4, "text": "Amphibia", "is_correct": false }
+      ],
+      "answer": "Mammalia"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which of the following animals has a chitinous exoskeleton?",
+      "options": [
+        { "option_id": 1, "text": "Earthworm", "is_correct": false },
+        { "option_id": 2, "text": "Cockroach", "is_correct": true },
+        { "option_id": 3, "text": "Star fish", "is_correct": false },
+        { "option_id": 4, "text": "Frog", "is_correct": false }
+      ],
+      "answer": "Cockroach"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Identify the animal with bilateral symmetry.",
+      "options": [
+        { "option_id": 1, "text": "Star fish", "is_correct": false },
+        { "option_id": 2, "text": "Jellyfish", "is_correct": false },
+        { "option_id": 3, "text": "Earthworm", "is_correct": true },
+        { "option_id": 4, "text": "Sponge", "is_correct": false }
+      ],
+      "answer": "Earthworm"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which animal can regenerate its broken body part?",
+      "options": [
+        { "option_id": 1, "text": "Cockroach", "is_correct": false },
+        { "option_id": 2, "text": "Frog", "is_correct": false },
+        { "option_id": 3, "text": "Sparrow", "is_correct": false },
+        { "option_id": 4, "text": "Star fish", "is_correct": true }
+      ],
+      "answer": "Star fish"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "In Cephalochordata, where is the notochord present?",
+      "options": [
+        { "option_id": 1, "text": "Only in tail", "is_correct": false },
+        { "option_id": 2, "text": "Throughout the body length", "is_correct": true },
+        { "option_id": 3, "text": "Only in head", "is_correct": false },
+        { "option_id": 4, "text": "Absent", "is_correct": false }
+      ],
+      "answer": "Throughout the body length"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which phylum contains animals with 'Protoplasmic grade' organization?",
+      "options": [
+        { "option_id": 1, "text": "Porifera", "is_correct": false },
+        { "option_id": 2, "text": "Cnidaria", "is_correct": false },
+        { "option_id": 3, "text": "Protozoa", "is_correct": true },
+        { "option_id": 4, "text": "Platyhelminthes", "is_correct": false }
+      ],
+      "answer": "Protozoa"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which of the following is a characteristic of Aves?",
+      "options": [
+        { "option_id": 1, "text": "Exoskeleton of scales", "is_correct": false },
+        { "option_id": 2, "text": "Forelimbs modified into wings", "is_correct": true },
+        { "option_id": 3, "text": "Cold blooded", "is_correct": false },
+        { "option_id": 4, "text": "Mammary glands present", "is_correct": false }
+      ],
+      "answer": "Forelimbs modified into wings"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Body of molluscs is covered with __________.",
+      "options": [
+        { "option_id": 1, "text": "Scales", "is_correct": false },
+        { "option_id": 2, "text": "Chitin", "is_correct": false },
+        { "option_id": 3, "text": "Mantle", "is_correct": true },
+        { "option_id": 4, "text": "Cuticle", "is_correct": false }
+      ],
+      "answer": "Mantle"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the body cavity condition in Platyhelminthes?",
+      "options": [
+        { "option_id": 1, "text": "Eucoelomate", "is_correct": false },
+        { "option_id": 2, "text": "Pseudocoelomate", "is_correct": false },
+        { "option_id": 3, "text": "Acoelomate", "is_correct": true },
+        { "option_id": 4, "text": "Hemicoelomate", "is_correct": false }
+      ],
+      "answer": "Acoelomate"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which of these animals are diploblastic?",
+      "options": [
+        { "option_id": 1, "text": "Cnidarians", "is_correct": true },
+        { "option_id": 2, "text": "Platyhelminthes", "is_correct": false },
+        { "option_id": 3, "text": "Annelida", "is_correct": false },
+        { "option_id": 4, "text": "Arthropoda", "is_correct": false }
+      ],
+      "answer": "Cnidarians"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of Phylum Hemichordata?",
+      "options": [
+        { "option_id": 1, "text": "Herdmania", "is_correct": false },
+        { "option_id": 2, "text": "Saccoglossus", "is_correct": true },
+        { "option_id": 3, "text": "Sepia", "is_correct": false },
+        { "option_id": 4, "text": "Sycon", "is_correct": false }
+      ],
+      "answer": "Saccoglossus"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who proposed the 'Artificial method' of animal classification?",
+      "answer": "Greek philosopher Aristotle proposed the 'Artificial method' of animal classification."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the estimated number of animal species on earth?",
+      "answer": "The estimated number of animal species on earth is approximately 7 million."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Define 'Animal Classification'.",
+      "answer": "Formation of groups and sub-groups of animals depending upon similarities and differences among animals is called animal classification."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "State one benefit of animal classification.",
+      "answer": "One benefit is that the study of animals becomes convenient and accurate."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What criteria did Aristotle use for classification?",
+      "answer": "Aristotle used criteria like body size, habits, and habitats for classification."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name two scientists other than Aristotle who followed the artificial method.",
+      "answer": "Theophrastus and Pliny followed the artificial method of classification."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the 'Natural system of classification' based on?",
+      "answer": "It is based on criteria like body organization, types of cells, chromosomes, and biochemical properties."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Into which two groups was the animal kingdom traditionally divided?",
+      "answer": "Traditionally, the animal kingdom was divided into Non-chordates and Chordates."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Define Notochord.",
+      "answer": "Notochord is a long rod-like supporting structure present on the dorsal side of the animal body."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the function of the Notochord?",
+      "answer": "It keeps the nerve tissue isolated from the remaining body."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "State one characteristic of Chordates regarding the heart.",
+      "answer": "In chordates, the heart is present on the ventral side of the body."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name the three subphyla of Phylum Chordata.",
+      "answer": "The three subphyla are Urochordata, Cephalochordata, and Vertebrata."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is 'Cellular grade organization'?",
+      "answer": "It is a body organization where tissues are not formed, even though the animal is multicellular (e.g., Porifera)."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is 'Protoplasmic grade' organization?",
+      "answer": "In unicellular organisms, all life functions are performed by the same cell, which is called Protoplasmic grade organization."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Give an example of an animal with 'Cell-Tissue grade' organization.",
+      "answer": "Animals from Phylum Cnidaria (e.g., Jellyfish) show Cell-Tissue grade organization."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is Asymmetrical Body symmetry?",
+      "answer": "It is a body type where there is no imaginary axis through which two equal halves can be obtained (e.g., Amoeba, some sponges)."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Define Radial Symmetry.",
+      "answer": "If an imaginary cut passes through the central axis of any plane of the body giving two equal halves, it is called radial symmetry."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Give an example of an animal with Radial Symmetry.",
+      "answer": "Star fish is an example of an animal with radial symmetry."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Define Bilateral Symmetry.",
+      "answer": "If there is only one imaginary axis through which two equal halves can be obtained, it is called bilateral symmetry."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What are the three germ layers?",
+      "answer": "The three germ layers are Endoderm, Ectoderm, and Mesoderm."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are Diploblastic animals?",
+      "answer": "Animals in which only two germ layers (Endoderm and Ectoderm) are formed are called diploblastic animals."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What are Triploblastic animals?",
+      "answer": "Animals in which three germ layers (Endoderm, Ectoderm, and Mesoderm) are formed are called triploblastic animals."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Define Coelom.",
+      "answer": "Cavity between the body wall and internal organs is called body cavity or coelom."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What are Eucoelomates?",
+      "answer": "Animals having a true body cavity formed from mesoderm are called eucoelomates."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What are Acoelomates?",
+      "answer": "Animals in which the body cavity is absent are called acoelomates."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What are Pseudocoelomates?",
+      "answer": "Animals that have a body cavity not formed from mesoderm (e.g., Aschelminthes) are called pseudocoelomates."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is body segmentation?",
+      "answer": "If the body of animals is divided into small, similar units called segments, it is called body segmentation."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What are 'Sponges'?",
+      "answer": "Animals from Phylum Porifera with the simplest body plan and numerous pores are called Sponges."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What are Ostia and Oscula?",
+      "answer": "Ostia are pores through which water enters the sponge body, and Oscula are pores through which water exits."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What are collar cells?",
+      "answer": "Collar cells are special types of cells present in sponges (Porifera)."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why are sponges called sedentary animals?",
+      "answer": "Sponges are attached to a substratum and do not show locomotion, hence they are called sedentary animals."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What supports the body of sponges?",
+      "answer": "Their body is supported by spicules (calcium carbonate/silica) or spongin fibers."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is a 'Polyp'?",
+      "answer": "In Cnidaria, if the body is cylindrical, it is called a Polyp."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is a 'Medusa'?",
+      "answer": "In Cnidaria, if the body is umbrella-like, it is called a Medusa."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the function of tentacles in Cnidarians?",
+      "answer": "Tentacles are useful for capturing prey."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why are animals in Phylum Platyhelminthes called 'flatworms'?",
+      "answer": "Their body is slender and flat like a leaf or strip, hence they are called flatworms."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What are hermaphrodite animals?",
+      "answer": "Hermaphrodite animals have both male and female reproductive systems in the same body."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why are animals in Phylum Aschelminthes called 'round worms'?",
+      "answer": "Their body is long, thread-like, or cylindrical, hence they are called round worms."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Give two examples of Phylum Aschelminthes.",
+      "answer": "Examples include Ascaris (Intestinal worm) and Filarial worm."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is distinctive about the body of Annelids?",
+      "answer": "The body of Annelids is long, cylindrical, and metamerically segmented."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What organs do Annelids use for locomotion?",
+      "answer": "Annelids use setae, parapodia, or suckers for locomotion."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is Phylum Arthropoda called so?",
+      "answer": "Animals in this phylum have jointed appendages, hence they are called Arthropods."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What covers the body of Arthropods?",
+      "answer": "A chitinous exoskeleton covers the body of Arthropods."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why are animals in Phylum Mollusca called molluscs?",
+      "answer": "Their body is soft and slimy, hence they are referred to as molluscs."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What are the three divisions of a mollusc's body?",
+      "answer": "Their body is divided into head, foot, and visceral mass."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is the 'Mantle' in molluscs?",
+      "answer": "The mantle is a covering over the visceral mass that secretes a hard, calcareous shell."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why are animals in Phylum Echinodermata called echinoderms?",
+      "answer": "Calcareous spines are present on their body, hence they are called echinoderms."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the function of tube-feet in Echinoderms?",
+      "answer": "Tube-feet are useful for locomotion and capturing prey."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why are Hemichordates called so?",
+      "answer": "Notochord is present only in the proboscis region, hence they are called Hemichordates."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What are the three body parts of Hemichordates?",
+      "answer": "Their body is divided into proboscis, collar, and trunk."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why is Balanoglossus considered a connecting link?",
+      "answer": "It shows characters of both non-chordates and chordates."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What defines Phylum Chordata?",
+      "answer": "Animals in this phylum have a supporting notochord in their body."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why are Urochordates named so?",
+      "answer": "The notochord is present only in the tail region of their larvae."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What covers the body of Urochordates?",
+      "answer": "Their body is covered by a skin-like test or tunic."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "State a characteristic of Subphylum Vertebrata.",
+      "answer": "In vertebrates, the notochord is replaced by a vertebral column."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What are 'Agnatha'?",
+      "answer": "Agnatha are chordates that are jaw-less."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What are 'Gnathostomata'?",
+      "answer": "Gnathostomata are chordates that possess jaws."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Give two characteristics of Class Cyclostomata.",
+      "answer": "They have a jaw-less mouth provided with a sucker, and their skin is soft without scales."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What are Poikilotherms?",
+      "answer": "Poikilotherms are cold-blooded animals whose body temperature changes with the environment."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is the function of the lateral line in Pisces?",
+      "answer": "The lateral line helps in sensing vibrations and pressure in water (implied from diagram context, specifically labeled)."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "How do Pisces respire?",
+      "answer": "Pisces respire with gills."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why is the body of Pisces spindle-shaped?",
+      "answer": "The body is spindle-shaped to minimize water resistance."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why are Amphibians called so?",
+      "answer": "They live in water during larval life and can live on land as well as water during adult life."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is the exoskeleton of Reptiles like?",
+      "answer": "Their skin is dry and scaly, forming the exoskeleton."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What are Homeotherms?",
+      "answer": "Homeotherms are warm-blooded animals that can maintain a constant body temperature."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How are the forelimbs of Aves modified?",
+      "answer": "Forelimbs of Aves are modified into wings."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is the exoskeleton of Aves?",
+      "answer": "The exoskeleton of Aves is in the form of feathers."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is the typical character of Mammalia?",
+      "answer": "The presence of mammary glands is the typical character of Mammalia."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is the exoskeleton of Mammals?",
+      "answer": "The exoskeleton of mammals is in the form of hairs or fur."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Name an aquatic mammal.",
+      "answer": "Dolphin (or Whale) is an aquatic mammal."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Identify the phylum of the Earthworm.",
+      "answer": "Earthworm belongs to Phylum Annelida."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Identify the phylum of the Cockroach.",
+      "answer": "Cockroach belongs to Phylum Arthropoda."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Identify the phylum of the Octopus.",
+      "answer": "Octopus belongs to Phylum Mollusca."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Identify the phylum of the Starfish.",
+      "answer": "Starfish belongs to Phylum Echinodermata."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Identify the phylum of the Planaria.",
+      "answer": "Planaria belongs to Phylum Platyhelminthes."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Identify the phylum of the Sycon.",
+      "answer": "Sycon belongs to Phylum Porifera."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Identify the phylum of the Hydra.",
+      "answer": "Hydra belongs to Phylum Cnidaria (Coelenterata)."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Identify the class of the Frog.",
+      "answer": "Frog belongs to Class Amphibia."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Identify the class of the Lizard.",
+      "answer": "Lizard belongs to Class Reptilia."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Identify the class of the Pigeon.",
+      "answer": "Pigeon belongs to Class Aves."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Identify the class of the Bat.",
+      "answer": "Bat belongs to Class Mammalia."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is the difference between Chordates and Non-chordates regarding the nerve cord?",
+      "answer": "In Chordates, the nerve cord is dorsal and hollow; in Non-chordates, it is ventral, solid, and paired."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is special about the regeneration of Starfish?",
+      "answer": "Starfish can break apart body parts and regenerate them later."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why are Hemichordates called 'acorn worms'?",
+      "answer": "They are called acorn worms due to their shape (proboscis, collar, trunk resemblance)."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What happens to the larvae of Urochordates after they settle down?",
+      "answer": "They metamorphose into adults after settling down at the bottom of the sea."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What covers the gill slits in bony fishes?",
+      "answer": "Operculum (implied, though text says 'Exoskeleton is scales', standard knowledge in this context often complements, but sticking to text: text doesn't explicitly mention operculum for all, but mentions scales/cartilage/bone)."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Do reptiles have external ears?",
+      "answer": "No, external ears are absent in reptiles."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What are the jaws of Aves modified into?",
+      "answer": "Jaws of Aves are modified into a beak."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Where is the heart located in Chordates?",
+      "answer": "The heart is located on the ventral side of the body."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Where is the heart located in Non-chordates (if present)?",
+      "answer": "If present, the heart is located on the dorsal side of the body."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is the locomotory organ of the Bat?",
+      "answer": "Patagium (wing-like structure formed by skin) allows flight."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is special about the mouth of Cyclostomata?",
+      "answer": "The mouth is jaw-less and provided with a sucker."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What kind of fertilization do Amphibians have?",
+      "answer": "External fertilization (implied by aquatic nature of eggs/larvae, though text emphasizes aquatic larval life)."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How do reptiles creep?",
+      "answer": "They creep on land as their body cannot be lifted up."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is the function of the tail fin in Pisces?",
+      "answer": "The tail fin acts as a steering organ during swimming."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is the habitat of Echinoderms?",
+      "answer": "They are found only in the ocean (marine)."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the symmetry of Echinoderm larvae vs adults?",
+      "answer": "Larvae are bilaterally symmetrical, while adults are radially symmetrical."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What are 'spicules' made of?",
+      "answer": "Spicules are made of calcium carbonate or silica."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is the body cavity type of Annelida?",
+      "answer": "Annelida are Eucoelomate."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the body cavity type of Aschelminthes?",
+      "answer": "Aschelminthes are Pseudocoelomate."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the characteristics of Phylum Porifera.",
+      "answer": "Animals in Phylum Porifera are the simplest, known as Sponges. They have a cellular grade of organization and are mostly asymmetrical. Their body bears numerous pores called Ostia (for water entry) and Oscula (for water exit). They are aquatic, mostly marine, and sedentary (attached to substratum). Their body is supported by spicules or spongin fibers, and they have special collar cells."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe the characteristics of Phylum Cnidaria.",
+      "answer": "Cnidarians have a radially symmetrical and diploblastic body. Their body form is either a cylindrical Polyp or an umbrella-like Medusa. They have tentacles around the mouth equipped with Cnidoblasts for capturing prey and protection. They show a Cell-Tissue grade of organization. Most are marine."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Write a note on Phylum Platyhelminthes.",
+      "answer": "Platyhelminthes are called flatworms because their body is slender and leaf-like. They are acoelomate, bilaterally symmetrical, and triploblastic. Most are endoparasites, though some are free-living. They are hermaphrodites, meaning both male and female reproductive systems are present in the same animal."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain the features of Phylum Aschelminthes.",
+      "answer": "Aschelminthes are called roundworms due to their cylindrical, thread-like body. They are triploblastic and pseudocoelomate. Their body is non-segmented and covered with a tough cuticle. They can be free-living (aquatic/terrestrial) or endoparasites. They are unisexual."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Describe Phylum Annelida with examples.",
+      "answer": "Annelids have a long, cylindrical, and metamerically segmented body. They are triploblastic, bilaterally symmetrical, and eucoelomate. They use setae, parapodia, or suckers for locomotion. Their body is covered with a special cuticle. Examples include Earthworm, Leech, and Nereis."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Why is Phylum Arthropoda considered the largest phylum?",
+      "answer": "Phylum Arthropoda has the highest number of animals on Earth. They are found in all habitats, from deep oceans to high mountains. Their body is segmented, eucoelomate, and bilaterally symmetrical with a chitinous exoskeleton and jointed appendages, making them highly successful."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain the characteristics of Phylum Mollusca.",
+      "answer": "Mollusca is the second largest phylum. Animals have a soft, slimy body, often divided into head, foot, and visceral mass. The visceral mass is covered by a mantle which secretes a calcareous shell. They are eucoelomate and mostly bilaterally symmetrical. Examples include Snail and Octopus."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Describe Phylum Echinodermata.",
+      "answer": "Echinoderms are marine animals with calcareous spines on their body. Adults are radially symmetrical, while larvae are bilaterally symmetrical. They use tube-feet for locomotion and capturing prey. They have a good ability of regeneration. Examples include Starfish and Sea urchin."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Write a note on Phylum Hemichordata.",
+      "answer": "Hemichordates are called acorn worms. Their body is divided into proboscis, collar, and trunk. Notochord is present only in the proboscis. They are marine and live in burrows. Balanoglossus is a connecting link between non-chordates and chordates."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Distinguish between Non-Chordates and Chordates.",
+      "answer": "Non-chordates do not have a notochord, their nerve cord is ventral, solid, and paired, and pharyngeal gill slits are absent. Chordates have a notochord (at some stage), their nerve cord is dorsal, hollow, and single, and they possess pharyngeal gill slits. Heart is dorsal in non-chordates (if present) and ventral in chordates."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain the characteristics of Subphylum Urochordata.",
+      "answer": "Urochordates are marine animals with a body covered by a tunic. Their larvae are free-swimming and have a notochord only in the tail region. Adults are sedentary. They are generally hermaphrodites. Examples include Herdmania and Doliolum."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Describe Subphylum Cephalochordata.",
+      "answer": "These are small, fish-like marine animals. The notochord extends throughout the length of the body. They have a large pharynx with gill slits. They are unisexual. Amphioxus is an example."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Describe Class Cyclostomata.",
+      "answer": "Cyclostomes have a jaw-less mouth with a sucker. Their skin is soft and scaleless. They lack paired appendages. Their endoskeleton is cartilaginous. Most are ectoparasites on other fishes. Petromyzon is an example."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Explain the characteristics of Class Pisces.",
+      "answer": "Pisces are cold-blooded aquatic animals. Their body is spindle-shaped. They have paired and unpaired fins for swimming, with the tail fin acting as a steering organ. They respire via gills. The exoskeleton consists of scales, and the endoskeleton can be bony or cartilaginous."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Describe Class Amphibia.",
+      "answer": "Amphibians live in water as larvae and on land/water as adults. They perform aquatic respiration (larvae) and aerial/skin respiration (adults). They have two pairs of appendages with digits lacking claws. They lack an exoskeleton and external ears but have a tympanum. Examples include Frogs and Toads."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Explain the characteristics of Class Reptilia.",
+      "answer": "Reptiles are the first true terrestrial animals with creeping movement. They are cold-blooded. Their skin is dry and scaly. A neck is present, and external ears are absent. Digits possess claws. Examples include Lizards, Snakes, and Tortoises."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Describe Class Aves.",
+      "answer": "Aves are warm-blooded vertebrates adapted for aerial life. Their body is spindle-shaped. Forelimbs are modified into wings. They have an exoskeleton of feathers. Jaws are modified into a beak. They respire via lungs. Examples include Pigeon and Peacock."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Explain the characteristics of Class Mammalia.",
+      "answer": "Mammals are warm-blooded animals characterized by the presence of mammary glands. Their body is divided into head, neck, trunk, and tail. Digits have nails, claws, or hooves. The exoskeleton consists of hair or fur. Examples include Humans, Whales, and Bats."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Explain the new system of animal classification criteria: Body Organization.",
+      "answer": "Animals are classified based on body organization grades: Protoplasmic (unicellular), Cellular (cells but no tissues, e.g., Porifera), Cell-Tissue (tissues formed, e.g., Cnidaria), Tissue-Organ (organs formed but no systems, e.g., Platyhelminthes), and Organ-System (complete systems, e.g., Arthropoda to Mammalia)."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Explain the criteria of Body Symmetry in classification.",
+      "answer": "Body symmetry is a key criterion. Asymmetrical bodies (e.g., Amoeba) have no axis for equal halves. Radial symmetry (e.g., Starfish) allows equal halves through any plane passing through the central axis. Bilateral symmetry (e.g., Humans) allows equal halves through only one imaginary axis."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain the criteria of Germ Layers in classification.",
+      "answer": "Germ layers form during embryonic development. Diploblastic animals (e.g., Cnidaria) develop from two layers: Endoderm and Ectoderm. Triploblastic animals (e.g., Platyhelminthes to Chordata) develop from three layers: Endoderm, Mesoderm, and Ectoderm."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Explain the criteria of Body Cavity (Coelom) in classification.",
+      "answer": "The coelom is the cavity between the body wall and internal organs. Eucoelomates (e.g., Annelida) have a true cavity from mesoderm. Pseudocoelomates (e.g., Aschelminthes) have a cavity not from mesoderm. Acoelomates (e.g., Porifera, Platyhelminthes) lack a body cavity."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Why is the earthworm beneficial for agriculture?",
+      "answer": "Earthworms burrow into the soil, loosening it and allowing aeration. They feed on organic matter and produce vermicompost, which is rich in nutrients. This improves soil fertility and water retention, aiding crop growth. Hence, they are called friends of farmers."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Why is the Bat classified as a Mammal and not a Bird?",
+      "answer": "Although bats can fly like birds, they possess mammary glands to feed their young, which is a defining characteristic of mammals. They also have hair on their body and pinnae (external ears), unlike birds which have feathers. Therefore, they are classified as Mammals."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Describe the adaptation of reptiles for terrestrial life.",
+      "answer": "Reptiles have dry, scaly skin to prevent water loss. They have claws for locomotion on land. They perform creeping movements. Their eggs have hard shells to survive on land without drying out, unlike amphibian eggs. These features make them the first true terrestrial vertebrates."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain why Balanoglossus is called a connecting link.",
+      "answer": "Balanoglossus belongs to Phylum Hemichordata. It shares characteristics with Non-chordates (like worm-like body) and Chordates (presence of notochord, though restricted to the proboscis, and pharyngeal gill slits). This mix of traits suggests it is an evolutionary link between the two groups."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "How are Chordates classified?",
+      "answer": "Phylum Chordata is divided into three subphyla: Urochordata (notochord in larval tail), Cephalochordata (notochord throughout body), and Vertebrata (notochord replaced by vertebral column). Vertebrata is further divided into classes: Cyclostomata, Pisces, Amphibia, Reptilia, Aves, and Mammalia."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Compare the circulatory system of Cockroach and Earthworm.",
+      "answer": "Cockroaches (Arthropods) have an open circulatory system where blood flows through open spaces (haemocoel). Earthworms (Annelids) have a closed circulatory system where blood flows through confined blood vessels. (Note: Specifics of 'closed' for earthworm inferred from general Annelid traits often taught, text mentions 'Eucoelomate' and general classification context)."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Body Segmentation' with examples.",
+      "answer": "Body segmentation is the division of the animal body into small, similar units called segments. This is a characteristic feature of Phylum Annelida (e.g., Earthworm), where the body is metamerically segmented. Arthropods also show segmentation (e.g., Centipede)."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Why are Jellyfish dangerous to touch?",
+      "answer": "Jellyfish belong to Phylum Cnidaria. Their tentacles contain Cnidoblasts, which are stinging cells. These cells inject toxins into the body of prey or predators for protection. Contact with these toxins causes irritation and pain to human skin."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Describe the regeneration ability in the animal kingdom.",
+      "answer": "Regeneration is the ability to regrow lost or damaged body parts. It is prominently seen in Phylum Porifera (Sponges) and Phylum Echinodermata (e.g., Starfish). For example, a Starfish can break off an arm and grow a new one. Planaria (Platyhelminthes) also has high regeneration capacity."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain the respiratory system differences between Pisces and Amphibia.",
+      "answer": "Pisces (fishes) live entirely in water and respire exclusively using gills. Amphibians have a dual life. Larvae (tadpoles) live in water and breathe with gills. Adults live on land and water; they breathe using lungs and moist skin (cutaneous respiration)."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "What are the benefits of the new system of classification over the traditional one?",
+      "answer": "The new system uses specific criteria like body organization, symmetry, germ layers, and coelom. This provides a more scientific and evolutionary basis for grouping animals. It helps in understanding relationships, evolutionary history, and precise identification compared to the broad 'presence of notochord' criteria of the traditional method."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Why are Whales and Dolphins not classified as Pisces?",
+      "answer": "Although they are aquatic and swim like fish, Whales and Dolphins are mammals. They are warm-blooded, breathe air through lungs (not gills), give birth to live young (viviparous), and suckle them with mammary glands, which are characteristics of Class Mammalia, not Pisces."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Describe the locomotion of an Octopus.",
+      "answer": "The Octopus, a mollusc, is a versatile swimmer. It can perform three types of locomotion: swimming using jet propulsion by expelling water from its siphon, creeping, and walking on the ocean floor using its arms (tentacles) and suckers."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Explain the structure of a Tapeworm.",
+      "answer": "Tapeworms (Platyhelminthes) have a long, flat, ribbon-like body. They are endoparasites found in the intestine. Their body consists of segments (proglottids). They have hooks and suckers on the head (scolex) for attachment to the host. They are acoelomate and hermaphrodites."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "What is the economic importance of Porifera (Sponges)?",
+      "answer": "Historically, dried bodies of sponges (like Euspongia, the bath sponge) were used for bathing due to their water-holding capacity. They were also used for making pillows, cushions, and as wetting material for counting currency or sticking stamps."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Describe the external features of a Frog.",
+      "answer": "A Frog (Amphibia) has a body divided into head and trunk (no neck). It has moist skin without scales. It has two pairs of legs; hind legs are long for jumping. Eyes are prominent. External ears are absent, but a tympanum is present."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "How do Reptiles regulate their body temperature?",
+      "answer": "Reptiles are poikilotherms, meaning they are cold-blooded. They cannot maintain a constant internal body temperature. Their temperature changes with the surroundings. They rely on external heat sources, like sunbathing, to warm up."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Explain the term 'sedentary' in the context of animal classification.",
+      "answer": "Sedentary animals are those that are permanently attached to a substratum (like a rock or ocean floor) and do not show locomotion. This is a characteristic feature of adult Sponges (Porifera) and some Echinoderms and Urochordates."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Describe the shell of Molluscs.",
+      "answer": "Molluscs have a mantle that secretes a calcareous shell. This shell protects their soft body. It can be external (as in Snails and Bivalves), internal (as in some squids/cuttlefish), or absent (as in Octopus)."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain the feeding mechanism of Sponges.",
+      "answer": "Sponges feed on small organisms and organic matter suspended in water. Water enters their body through pores called Ostia. Collar cells capture food particles. The filtered water then exits through the large opening called the Osculum."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Compare the skin of Amphibians and Reptiles.",
+      "answer": "Amphibian skin is moist, glandular, and without scales, allowing for cutaneous respiration. Reptilian skin is dry, non-glandular, and covered with scales or scutes to prevent water loss and provide protection."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Explain the reproduction in Hydra.",
+      "answer": "Hydra (Cnidaria) reproduces asexually by budding. A small outgrowth (bud) forms on the parent body. It grows, develops tentacles and a mouth, and eventually detaches to lead an independent life. It also has the capacity for regeneration."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Describe the characteristics of the Sea Horse.",
+      "answer": "The Sea Horse belongs to Class Pisces (Bony fish). It has a unique upright posture and a prehensile tail. It swims using fins. It breathes via gills. Males have a brood pouch where females deposit eggs."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Explain the difference between warm-blooded and cold-blooded animals.",
+      "answer": "Cold-blooded animals (Poikilotherms like Reptiles, Amphibians, Pisces) cannot regulate their internal body temperature; it fluctuates with the environment. Warm-blooded animals (Homeotherms like Aves, Mammals) maintain a constant internal body temperature regardless of external changes."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Why are some animals called 'Endoparasites'?",
+      "answer": "Endoparasites live inside the body of a host organism to obtain nourishment. Examples include Tapeworms and Ascaris (Roundworms) living in the intestines of humans or animals. They often have adaptations like suckers or hooks to stay attached."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Describe the 'Pearl production' from bivalves.",
+      "answer": "Pearls are produced by bivalve molluscs like Oysters. When a foreign particle (sand/parasite) enters the shell and irritates the mantle, the mollusc secretes layers of calcium carbonate (nacre) around it as a defense mechanism. Over time, these layers form a pearl."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "What is the function of the proboscis in Hemichordates?",
+      "answer": "In Hemichordates like Balanoglossus, the proboscis is the anterior part of the body. It contains the notochord-like structure. It is used for burrowing in the sand and collecting food particles."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Explain the evolutionary significance of the Archaeopteryx (connecting link concept).",
+      "answer": "While not explicitly detailed in the text snippet provided, usually in this chapter, connecting links like Peripatus or Duck-billed Platypus are discussed. If referring to connecting links generally: Connecting links possess characters of two different groups, showing the path of evolution. For example, Peripatus links Annelida and Arthropoda."
+    }
+  ]
+}

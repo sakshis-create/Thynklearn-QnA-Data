@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.09",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Lion, the Man and the Statue"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What were men and animals able to do long ago?",
+      "options": [
+        { "option_id": 1, "text": "Fly together", "is_correct": false },
+        { "option_id": 2, "text": "Talk to each other", "is_correct": true },
+        { "option_id": 3, "text": "Hunt together", "is_correct": false },
+        { "option_id": 4, "text": "Build houses", "is_correct": false }
+      ],
+      "answer": "Talk to each other"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What was the lion proud of?",
+      "options": [
+        { "option_id": 1, "text": "His mane", "is_correct": false },
+        { "option_id": 2, "text": "His speed", "is_correct": false },
+        { "option_id": 3, "text": "His strength", "is_correct": true },
+        { "option_id": 4, "text": "His roar", "is_correct": false }
+      ],
+      "answer": "His strength"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What title did the lion give himself?",
+      "options": [
+        { "option_id": 1, "text": "The Master of Jungle", "is_correct": false },
+        { "option_id": 2, "text": "The King of Beasts", "is_correct": true },
+        { "option_id": 3, "text": "The Lord of Nature", "is_correct": false },
+        { "option_id": 4, "text": "The Strongest Hunter", "is_correct": false }
+      ],
+      "answer": "King of beasts"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was the man proud of?",
+      "options": [
+        { "option_id": 1, "text": "His intelligence", "is_correct": true },
+        { "option_id": 2, "text": "His muscles", "is_correct": false },
+        { "option_id": 3, "text": "His garden", "is_correct": false },
+        { "option_id": 4, "text": "His clothes", "is_correct": false }
+      ],
+      "answer": "His intelligence"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "According to the man, why can men capture lions?",
+      "options": [
+        { "option_id": 1, "text": "Because they are faster", "is_correct": false },
+        { "option_id": 2, "text": "Because they are more intelligent", "is_correct": true },
+        { "option_id": 3, "text": "Because they have statues", "is_correct": false },
+        { "option_id": 4, "text": "Because they are taller", "is_correct": false }
+      ],
+      "answer": "Because men are more intelligent"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where did the man take the lion to prove his point?",
+      "options": [
+        { "option_id": 1, "text": "To a forest", "is_correct": false },
+        { "option_id": 2, "text": "To a big garden", "is_correct": true },
+        { "option_id": 3, "text": "To a palace", "is_correct": false },
+        { "option_id": 4, "text": "To a zoo", "is_correct": false }
+      ],
+      "answer": "To a big garden"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who was the hero shown in the statue?",
+      "options": [
+        { "option_id": 1, "text": "Achilles", "is_correct": false },
+        { "option_id": 2, "text": "Hercules", "is_correct": true },
+        { "option_id": 3, "text": "Odysseus", "is_correct": false },
+        { "option_id": 4, "text": "Perseus", "is_correct": false }
+      ],
+      "answer": "Hercules"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What was the lion doing in the statue?",
+      "options": [
+        { "option_id": 1, "text": "Eating a man", "is_correct": false },
+        { "option_id": 2, "text": "Running away", "is_correct": false },
+        { "option_id": 3, "text": "Lying dead at the hero's feet", "is_correct": true },
+        { "option_id": 4, "text": "Roaring at the hero", "is_correct": false }
+      ],
+      "answer": "Lying dead at the hero's feet"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did the man claim the statue proved?",
+      "options": [
+        { "option_id": 1, "text": "That lions are lazy", "is_correct": false },
+        { "option_id": 2, "text": "That men are greater", "is_correct": true },
+        { "option_id": 3, "text": "That gardens are beautiful", "is_correct": false },
+        { "option_id": 4, "text": "That Hercules was a king", "is_correct": false }
+      ],
+      "answer": "That men are greater"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "According to the lion, why did the statue look like that?",
+      "options": [
+        { "option_id": 1, "text": "Because it was the truth", "is_correct": false },
+        { "option_id": 2, "text": "Because it was made by a man", "is_correct": true },
+        { "option_id": 3, "text": "Because lions cannot stand", "is_correct": false },
+        { "option_id": 4, "text": "Because Hercules was real", "is_correct": false }
+      ],
+      "answer": "Because it was made by a man"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "If lions made statues, what would they show?",
+      "options": [
+        { "option_id": 1, "text": "A man hunting a lion", "is_correct": false },
+        { "option_id": 2, "text": "A lion and man as friends", "is_correct": false },
+        { "option_id": 3, "text": "A man lying dead under a lion's paws", "is_correct": true },
+        { "option_id": 4, "text": "Only trees and forests", "is_correct": false }
+      ],
+      "answer": "A man lying dead under a lion's paws"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the main lesson of the story?",
+      "options": [
+        { "option_id": 1, "text": "Lions are stronger than men", "is_correct": false },
+        { "option_id": 2, "text": "Men should not build statues", "is_correct": false },
+        { "option_id": 3, "text": "A story depends on the storyteller", "is_correct": true },
+        { "option_id": 4, "text": "Intelligence is better than strength", "is_correct": false }
+      ],
+      "answer": "The story depends on the storyteller"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which 'pr-' word from the story means feeling self-satisfaction?",
+      "options": [
+        { "option_id": 1, "text": "Prove", "is_correct": false },
+        { "option_id": 2, "text": "Proud", "is_correct": true },
+        { "option_id": 3, "text": "Private", "is_correct": false },
+        { "option_id": 4, "text": "Pray", "is_correct": false }
+      ],
+      "answer": "Proud"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which 'pr-' word means to show something is true?",
+      "options": [
+        { "option_id": 1, "text": "Proud", "is_correct": false },
+        { "option_id": 2, "text": "Price", "is_correct": false },
+        { "option_id": 3, "text": "Prove", "is_correct": true },
+        { "option_id": 4, "text": "Praise", "is_correct": false }
+      ],
+      "answer": "Prove"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does the story tell us about men and animals today?",
+      "options": [
+        { "option_id": 1, "text": "They are still talking", "is_correct": false },
+        { "option_id": 2, "text": "They cannot talk to each other now", "is_correct": true },
+        { "option_id": 3, "text": "They live in the same houses", "is_correct": false },
+        { "option_id": 4, "text": "Animals have their own statues", "is_correct": false }
+      ],
+      "answer": "They cannot talk to each other now"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the plural form of 'glass'?",
+      "options": [
+        { "option_id": 1, "text": "Glasss", "is_correct": false },
+        { "option_id": 2, "text": "Glasses", "is_correct": true },
+        { "option_id": 3, "text": "Glassies", "is_correct": false },
+        { "option_id": 4, "text": "Glases", "is_correct": false }
+      ],
+      "answer": "Glasses"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the plural form of 'fox'?",
+      "options": [
+        { "option_id": 1, "text": "Foxes", "is_correct": true },
+        { "option_id": 2, "text": "Foxs", "is_correct": false },
+        { "option_id": 3, "text": "Foxies", "is_correct": false },
+        { "option_id": 4, "text": "Foxen", "is_correct": false }
+      ],
+      "answer": "Foxes"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Complete the comparison: 'A sun is ______ than the moon.'",
+      "options": [
+        { "option_id": 1, "text": "bright", "is_correct": false },
+        { "option_id": 2, "text": "brightly", "is_correct": false },
+        { "option_id": 3, "text": "brighter", "is_correct": true },
+        { "option_id": 4, "text": "brightest", "is_correct": false }
+      ],
+      "answer": "Brighter"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Why did Raju pull his puppy's tail?",
+      "options": [
+        { "option_id": 1, "text": "The puppy was bad", "is_correct": false },
+        { "option_id": 2, "text": "He thought it was fun", "is_correct": true },
+        { "option_id": 3, "text": "To help the puppy", "is_correct": false },
+        { "option_id": 4, "text": "The puppy asked him to", "is_correct": false }
+      ],
+      "answer": "He thinks it's fun"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why did the leopard wander into the city?",
+      "options": [
+        { "option_id": 1, "text": "To find a statue", "is_correct": false },
+        { "option_id": 2, "text": "The forest had been cut down", "is_correct": true },
+        { "option_id": 3, "text": "To visit friends", "is_correct": false },
+        { "option_id": 4, "text": "To see the garden", "is_correct": false }
+      ],
+      "answer": "A big part of a forest near the city had been cut down"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the plural of 'paw'?",
+      "options": [
+        { "option_id": 1, "text": "Pawes", "is_correct": false },
+        { "option_id": 2, "text": "Paws", "is_correct": true },
+        { "option_id": 3, "text": "Pawies", "is_correct": false },
+        { "option_id": 4, "text": "Paw", "is_correct": false }
+      ],
+      "answer": "Paws"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "In the story, what did the man use to argue his point?",
+      "options": [
+        { "option_id": 1, "text": "A book", "is_correct": false },
+        { "option_id": 2, "text": "A statue", "is_correct": true },
+        { "option_id": 3, "text": "A spear", "is_correct": false },
+        { "option_id": 4, "text": "A net", "is_correct": false }
+      ],
+      "answer": "A statue"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What word is the opposite of 'stronger' in the context of the trees exercise?",
+      "options": [
+        { "option_id": 1, "text": "Harder", "is_correct": false },
+        { "option_id": 2, "text": "Taller", "is_correct": false },
+        { "option_id": 3, "text": "Shorter", "is_correct": true },
+        { "option_id": 4, "text": "Smaller", "is_correct": false }
+      ],
+      "answer": "Shorter"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who does Mia fear in the exercise section?",
+      "options": [
+        { "option_id": 1, "text": "Lions", "is_correct": false },
+        { "option_id": 2, "text": "Dogs", "is_correct": true },
+        { "option_id": 3, "text": "Cats", "is_correct": false },
+        { "option_id": 4, "text": "Spiders", "is_correct": false }
+      ],
+      "answer": "Dogs"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What should Roma wear for festivals according to her Granny?",
+      "options": [
+        { "option_id": 1, "text": "A dress", "is_correct": false },
+        { "option_id": 2, "text": "A sari", "is_correct": true },
+        { "option_id": 3, "text": "A uniform", "is_correct": false },
+        { "option_id": 4, "text": "A bag", "is_correct": false }
+      ],
+      "answer": "A sari"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who speaks first in the story?",
+      "answer": "The lion speaks first in the story."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What did the man show to the lion?",
+      "answer": "The man showed the lion a statue in a big garden."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What was the lion proud of?",
+      "answer": "The lion was proud of his strength."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Who speaks last in the story?",
+      "answer": "The lion speaks last in the story."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What was the man proud of?",
+      "answer": "The man was proud of his intelligence."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "The moral is that the point of view of a story depends on who the storyteller is."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Find two words beginning with 'pr-' from the story.",
+      "answer": "The two words are 'proud' and 'proves'."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'proud'?",
+      "answer": "Feeling deep pleasure or satisfaction as a result of one's own achievements or qualities."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'prove'?",
+      "answer": "To demonstrate the truth or existence of something by evidence or argument."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Write a sentence from the story that shows men and animals cannot talk now.",
+      "answer": "Long ago, men and animals could talk to each other."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Write a sentence from the story that shows lions do not make statues.",
+      "answer": "If lions made statues, they would show the lion standing and the man lying dead under his paws."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What would a lion's statue show?",
+      "answer": "It would show the lion standing and the man lying dead under his paws."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Where was the statue located?",
+      "answer": "The statue was in a big garden."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Who was Hercules?",
+      "answer": "Hercules was a great hero shown in the statue."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What did the hero have at his feet in the statue?",
+      "answer": "He had a dead lion at his feet."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Underline the nouns in: 'Once a man and a lion got talking.'",
+      "answer": "The nouns are 'man' and 'lion'."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Underline the nouns in: 'I am the king of beasts.'",
+      "answer": "The nouns are 'king' and 'beasts'."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Underline the nouns in: 'At last, the man took the lion to a statue in a big garden.'",
+      "answer": "The nouns are 'man', 'lion', 'statue', and 'garden'."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'bus'?",
+      "answer": "The plural of bus is buses."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'tree'?",
+      "answer": "The plural of tree is trees."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'brush'?",
+      "answer": "The plural of brush is brushes."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'box'?",
+      "answer": "The plural of box is boxes."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'match'?",
+      "answer": "The plural of match is matches."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Change into a comparison: 'Stone is hard. Brick is hard.'",
+      "answer": "A stone is harder than a brick."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Change into a comparison: 'Butterflies are colourful.'",
+      "answer": "Butterflies are more colourful than other insects."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why didn't the person eat the mango in the exercise?",
+      "answer": "The mango was sour; that is why I didn't eat the mango."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why did the farmer beat the camel?",
+      "answer": "The camel was eating the crops; that is why the farmer beat the camel."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why did Nu-Jo visit the earth?",
+      "answer": "Nu-Jo wanted to learn about humans; that is why Nu-Jo visited the earth."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why did the monkey jump into the lake?",
+      "answer": "A tiger was chasing him; that is why the monkey jumped into the lake."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What plural sound is at the end of 'dogs'?",
+      "answer": "The 's' sound is at the end of 'dogs'."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What plural sound is at the end of 'buses'?",
+      "answer": "The 'es' sound (iz) is at the end of 'buses'."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Make a phrase using the noun 'garden'.",
+      "answer": "A big garden."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Make a sentence using the noun 'statue'.",
+      "answer": "The statue was made of white marble."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Complete the sentence: 'Lions are ________ than men.' (Strength)",
+      "answer": "Lions are stronger than men."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Complete the sentence: 'Men are ________ than lions.' (Intelligence)",
+      "answer": "Men are more intelligent than lions."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why did some students find the test difficult?",
+      "answer": "It was a surprise test; that is why some students found it difficult."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the QR code text on Page 1?",
+      "answer": "X24NVP."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What did the man claim the statue proves?",
+      "answer": "He claimed it proves that men are greater than lions."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How did the lion reply to the man's claim?",
+      "answer": "He replied quickly that it only shows the statue was made by a man."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'branch'?",
+      "answer": "The plural of branch is branches."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'eyelash'?",
+      "answer": "The plural of eyelash is eyelashes."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Complete the comparison: 'Mouse is ______ than the lion.'",
+      "answer": "The mouse is smaller than the lion."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Complete the comparison: 'Books are ______.' (Interest)",
+      "answer": "These books are more interesting than those."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What happened to the forest near the city?",
+      "answer": "A big part of the forest had been cut down to build the city."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why does Mia not play with dogs?",
+      "answer": "Mia is afraid of dogs; that is why she doesn't play with them."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why did the narrator not play with dogs in the exercise?",
+      "answer": "The dogs are dull; that is why I don't play with dogs."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What does 'king of beasts' refer to?",
+      "answer": "It refers to the lion's belief that he is the ruler of all animals."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'dish'?",
+      "answer": "The plural of dish is dishes."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'class'?",
+      "answer": "The plural of class is classes."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Who made the statue in the story?",
+      "answer": "The statue was made by a man."
+    }
+  ]
+}

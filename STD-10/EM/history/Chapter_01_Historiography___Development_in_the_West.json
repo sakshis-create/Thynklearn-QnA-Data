@@ -1,0 +1,1331 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.History.01",
+    "standard": "10",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Historiography - Development in the West"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which method is used in physical and natural sciences to verify available knowledge?",
+      "options": [
+        { "option_id": 1, "text": "Historical Method", "is_correct": false },
+        { "option_id": 2, "text": "Empirical Method", "is_correct": true },
+        { "option_id": 3, "text": "Philosophical Method", "is_correct": false },
+        { "option_id": 4, "text": "Theological Method", "is_correct": false }
+      ],
+      "answer": "Empirical Method"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who is considered the founder of modern historiography?",
+      "options": [
+        { "option_id": 1, "text": "René Descartes", "is_correct": false },
+        { "option_id": 2, "text": "Voltaire", "is_correct": true },
+        { "option_id": 3, "text": "Karl Marx", "is_correct": false },
+        { "option_id": 4, "text": "Leopold von Ranké", "is_correct": false }
+      ],
+      "answer": "Voltaire"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which book was written by René Descartes?",
+      "options": [
+        { "option_id": 1, "text": "The Histories", "is_correct": false },
+        { "option_id": 2, "text": "Das Kapital", "is_correct": false },
+        { "option_id": 3, "text": "Discourse on the Method", "is_correct": true },
+        { "option_id": 4, "text": "Reason in History", "is_correct": false }
+      ],
+      "answer": "Discourse on the Method"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The earliest inscription in the Louvre Museum dates back to which civilization?",
+      "options": [
+        { "option_id": 1, "text": "Egyptian", "is_correct": false },
+        { "option_id": 2, "text": "Sumer", "is_correct": true },
+        { "option_id": 3, "text": "Harappan", "is_correct": false },
+        { "option_id": 4, "text": "Greek", "is_correct": false }
+      ],
+      "answer": "Sumer"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Michel Foucault wrote which of the following books?",
+      "options": [
+        { "option_id": 1, "text": "Archaeology of Knowledge", "is_correct": true },
+        { "option_id": 2, "text": "The Secret of World History", "is_correct": false },
+        { "option_id": 3, "text": "The Theory and Practice of History", "is_correct": false },
+        { "option_id": 4, "text": "Reason in History", "is_correct": false }
+      ],
+      "answer": "Archaeology of Knowledge"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who wrote the book 'Das Kapital'?",
+      "options": [
+        { "option_id": 1, "text": "Hegel", "is_correct": false },
+        { "option_id": 2, "text": "Karl Marx", "is_correct": true },
+        { "option_id": 3, "text": "Michel Foucault", "is_correct": false },
+        { "option_id": 4, "text": "Leopold von Ranké", "is_correct": false }
+      ],
+      "answer": "Karl Marx"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The Annales School was started by historians from which country?",
+      "options": [
+        { "option_id": 1, "text": "Germany", "is_correct": false },
+        { "option_id": 2, "text": "England", "is_correct": false },
+        { "option_id": 3, "text": "France", "is_correct": true },
+        { "option_id": 4, "text": "Italy", "is_correct": false }
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Herodotus was a historian from which ancient civilization?",
+      "options": [
+        { "option_id": 1, "text": "Rome", "is_correct": false },
+        { "option_id": 2, "text": "Greece", "is_correct": true },
+        { "option_id": 3, "text": "Egypt", "is_correct": false },
+        { "option_id": 4, "text": "China", "is_correct": false }
+      ],
+      "answer": "Greece"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which university in Germany founded an independent department of history in 1737 C.E.?",
+      "options": [
+        { "option_id": 1, "text": "Berlin University", "is_correct": false },
+        { "option_id": 2, "text": "Gottingen University", "is_correct": true },
+        { "option_id": 3, "text": "Heidelberg University", "is_correct": false },
+        { "option_id": 4, "text": "Munich University", "is_correct": false }
+      ],
+      "answer": "Gottingen University"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "According to Hegel, a theory proposed at the beginning is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Synthesis", "is_correct": false },
+        { "option_id": 2, "text": "Antithesis", "is_correct": false },
+        { "option_id": 3, "text": "Thesis", "is_correct": true },
+        { "option_id": 4, "text": "Hypothesis", "is_correct": false }
+      ],
+      "answer": "Thesis"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who helped in establishing the fundamentals of feminism?",
+      "options": [
+        { "option_id": 1, "text": "Simone de Beauvoir", "is_correct": true },
+        { "option_id": 2, "text": "Michel Foucault", "is_correct": false },
+        { "option_id": 3, "text": "Voltaire", "is_correct": false },
+        { "option_id": 4, "text": "Ranké", "is_correct": false }
+      ],
+      "answer": "Simone de Beauvoir"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The method of analysis based on opposites proposed by Hegel is known as ________.",
+      "options": [
+        { "option_id": 1, "text": "Archaeology", "is_correct": false },
+        { "option_id": 2, "text": "Dialectics", "is_correct": true },
+        { "option_id": 3, "text": "Empiricism", "is_correct": false },
+        { "option_id": 4, "text": "Positivism", "is_correct": false }
+      ],
+      "answer": "Dialectics"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Leopold von Ranké was associated with which university?",
+      "options": [
+        { "option_id": 1, "text": "Gottingen University", "is_correct": false },
+        { "option_id": 2, "text": "Berlin University", "is_correct": true },
+        { "option_id": 3, "text": "Paris University", "is_correct": false },
+        { "option_id": 4, "text": "Oxford University", "is_correct": false }
+      ],
+      "answer": "Berlin University"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which scholar insisted on verifying the reliability of historical documents by critically examining them?",
+      "options": [
+        { "option_id": 1, "text": "René Descartes", "is_correct": true },
+        { "option_id": 2, "text": "Voltaire", "is_correct": false },
+        { "option_id": 3, "text": "Karl Marx", "is_correct": false },
+        { "option_id": 4, "text": "Hegel", "is_correct": false }
+      ],
+      "answer": "René Descartes"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the original name of Voltaire?",
+      "options": [
+        { "option_id": 1, "text": "Georg Wilhelm", "is_correct": false },
+        { "option_id": 2, "text": "François-Marie Arouet", "is_correct": true },
+        { "option_id": 3, "text": "Michel Foucault", "is_correct": false },
+        { "option_id": 4, "text": "Simone de Beauvoir", "is_correct": false }
+      ],
+      "answer": "François-Marie Arouet"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who stated that human history is the history of class struggle?",
+      "options": [
+        { "option_id": 1, "text": "Karl Marx", "is_correct": true },
+        { "option_id": 2, "text": "Hegel", "is_correct": false },
+        { "option_id": 3, "text": "Voltaire", "is_correct": false },
+        { "option_id": 4, "text": "Ranké", "is_correct": false }
+      ],
+      "answer": "Karl Marx"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "In which century did the Annales School arise?",
+      "options": [
+        { "option_id": 1, "text": "18th Century", "is_correct": false },
+        { "option_id": 2, "text": "19th Century", "is_correct": false },
+        { "option_id": 3, "text": "20th Century", "is_correct": true },
+        { "option_id": 4, "text": "17th Century", "is_correct": false }
+      ],
+      "answer": "20th Century"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which discipline is NOT useful in historical research?",
+      "options": [
+        { "option_id": 1, "text": "Archaeology", "is_correct": false },
+        { "option_id": 2, "text": "Numismatics", "is_correct": false },
+        { "option_id": 3, "text": "Genealogy", "is_correct": false },
+        { "option_id": 4, "text": "Astrology", "is_correct": true }
+      ],
+      "answer": "Astrology"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What does 'Epigraphy' mean?",
+      "options": [
+        { "option_id": 1, "text": "Study of coins", "is_correct": false },
+        { "option_id": 2, "text": "Study of inscriptions", "is_correct": true },
+        { "option_id": 3, "text": "Study of manuscripts", "is_correct": false },
+        { "option_id": 4, "text": "Study of lineage", "is_correct": false }
+      ],
+      "answer": "Study of inscriptions"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who wrote 'The Secret of World History'?",
+      "options": [
+        { "option_id": 1, "text": "Leopold von Ranké", "is_correct": true },
+        { "option_id": 2, "text": "Karl Marx", "is_correct": false },
+        { "option_id": 3, "text": "Hegel", "is_correct": false },
+        { "option_id": 4, "text": "Voltaire", "is_correct": false }
+      ],
+      "answer": "Leopold von Ranké"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Historiography of the 19th century was greatly influenced by whose thoughts?",
+      "options": [
+        { "option_id": 1, "text": "René Descartes", "is_correct": false },
+        { "option_id": 2, "text": "Leopold von Ranké", "is_correct": true },
+        { "option_id": 3, "text": "Michel Foucault", "is_correct": false },
+        { "option_id": 4, "text": "Voltaire", "is_correct": false }
+      ],
+      "answer": "Leopold von Ranké"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is the study of coins called?",
+      "options": [
+        { "option_id": 1, "text": "Epigraphy", "is_correct": false },
+        { "option_id": 2, "text": "Genealogy", "is_correct": false },
+        { "option_id": 3, "text": "Numismatics", "is_correct": true },
+        { "option_id": 4, "text": "Linguistics", "is_correct": false }
+      ],
+      "answer": "Numismatics"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who criticised the imaginative narration of history?",
+      "options": [
+        { "option_id": 1, "text": "Leopold von Ranké", "is_correct": true },
+        { "option_id": 2, "text": "Karl Marx", "is_correct": false },
+        { "option_id": 3, "text": "Voltaire", "is_correct": false },
+        { "option_id": 4, "text": "Hegel", "is_correct": false }
+      ],
+      "answer": "Leopold von Ranké"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which scholar argued that the prevailing practice of arranging historical events in a chronological order is not right?",
+      "options": [
+        { "option_id": 1, "text": "Michel Foucault", "is_correct": true },
+        { "option_id": 2, "text": "René Descartes", "is_correct": false },
+        { "option_id": 3, "text": "Karl Marx", "is_correct": false },
+        { "option_id": 4, "text": "Voltaire", "is_correct": false }
+      ],
+      "answer": "Michel Foucault"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The earliest inscription shown in the textbook dates back to which year?",
+      "options": [
+        { "option_id": 1, "text": "4500 B.C.E.", "is_correct": true },
+        { "option_id": 2, "text": "2500 B.C.E.", "is_correct": false },
+        { "option_id": 3, "text": "1000 C.E.", "is_correct": false },
+        { "option_id": 4, "text": "500 B.C.E.", "is_correct": false }
+      ],
+      "answer": "4500 B.C.E."
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Reason in History'?",
+      "options": [
+        { "option_id": 1, "text": "René Descartes", "is_correct": false },
+        { "option_id": 2, "text": "Georg Wilhelm Friedrich Hegel", "is_correct": true },
+        { "option_id": 3, "text": "Voltaire", "is_correct": false },
+        { "option_id": 4, "text": "Karl Marx", "is_correct": false }
+      ],
+      "answer": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who suggested that history is not about abstract ideas but about living people?",
+      "options": [
+        { "option_id": 1, "text": "Hegel", "is_correct": false },
+        { "option_id": 2, "text": "Karl Marx", "is_correct": true },
+        { "option_id": 3, "text": "Ranké", "is_correct": false },
+        { "option_id": 4, "text": "Foucault", "is_correct": false }
+      ],
+      "answer": "Karl Marx"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Where is the earliest inscription displayed now?",
+      "options": [
+        { "option_id": 1, "text": "British Museum, London", "is_correct": false },
+        { "option_id": 2, "text": "Louvre Museum, France", "is_correct": true },
+        { "option_id": 3, "text": "National Museum, Delhi", "is_correct": false },
+        { "option_id": 4, "text": "Smithsonian, USA", "is_correct": false }
+      ],
+      "answer": "Louvre Museum, France"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The term 'History' was first used by Herodotus for his book entitled ________.",
+      "options": [
+        { "option_id": 1, "text": "The Past", "is_correct": false },
+        { "option_id": 2, "text": "The Histories", "is_correct": true },
+        { "option_id": 3, "text": "The Story of Mankind", "is_correct": false },
+        { "option_id": 4, "text": "Ancient Times", "is_correct": false }
+      ],
+      "answer": "The Histories"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which philosopher proposed the method of 'Dialectics'?",
+      "options": [
+        { "option_id": 1, "text": "Descartes", "is_correct": false },
+        { "option_id": 2, "text": "Hegel", "is_correct": true },
+        { "option_id": 3, "text": "Marx", "is_correct": false },
+        { "option_id": 4, "text": "Voltaire", "is_correct": false }
+      ],
+      "answer": "Hegel"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "In the Dialectics method, the proposed theory at the beginning is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Antithesis", "is_correct": false },
+        { "option_id": 2, "text": "Synthesis", "is_correct": false },
+        { "option_id": 3, "text": "Thesis", "is_correct": true },
+        { "option_id": 4, "text": "Hypothesis", "is_correct": false }
+      ],
+      "answer": "Thesis"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "The unified theory that includes the gist of both Thesis and Antithesis is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Synthesis", "is_correct": true },
+        { "option_id": 2, "text": "Analysis", "is_correct": false },
+        { "option_id": 3, "text": "Conclusion", "is_correct": false },
+        { "option_id": 4, "text": "Summary", "is_correct": false }
+      ],
+      "answer": "Synthesis"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who said 'Never to accept anything for true till all grounds of doubt are excluded'?",
+      "options": [
+        { "option_id": 1, "text": "Voltaire", "is_correct": false },
+        { "option_id": 2, "text": "René Descartes", "is_correct": true },
+        { "option_id": 3, "text": "Hegel", "is_correct": false },
+        { "option_id": 4, "text": "Karl Marx", "is_correct": false }
+      ],
+      "answer": "René Descartes"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Feminist historiography emphasised the rethinking of the ________ perspective of history.",
+      "options": [
+        { "option_id": 1, "text": "Female dominated", "is_correct": false },
+        { "option_id": 2, "text": "Male dominated", "is_correct": true },
+        { "option_id": 3, "text": "Class dominated", "is_correct": false },
+        { "option_id": 4, "text": "Religious", "is_correct": false }
+      ],
+      "answer": "Male dominated"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which historian brought forth the concept of 'Archaeology of Knowledge'?",
+      "options": [
+        { "option_id": 1, "text": "Michel Foucault", "is_correct": true },
+        { "option_id": 2, "text": "Karl Marx", "is_correct": false },
+        { "option_id": 3, "text": "Leopold von Ranké", "is_correct": false },
+        { "option_id": 4, "text": "Voltaire", "is_correct": false }
+      ],
+      "answer": "Michel Foucault"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Prior to the 18th century, European universities focused on ________.",
+      "options": [
+        { "option_id": 1, "text": "Scientific experiments", "is_correct": false },
+        { "option_id": 2, "text": "Divine phenomena", "is_correct": true },
+        { "option_id": 3, "text": "Human history", "is_correct": false },
+        { "option_id": 4, "text": "Political science", "is_correct": false }
+      ],
+      "answer": "Divine phenomena"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which country was Georg Wilhelm Friedrich Hegel from?",
+      "options": [
+        { "option_id": 1, "text": "France", "is_correct": false },
+        { "option_id": 2, "text": "Germany", "is_correct": true },
+        { "option_id": 3, "text": "England", "is_correct": false },
+        { "option_id": 4, "text": "Greece", "is_correct": false }
+      ],
+      "answer": "Germany"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Voltaire was of which nationality?",
+      "options": [
+        { "option_id": 1, "text": "German", "is_correct": false },
+        { "option_id": 2, "text": "French", "is_correct": true },
+        { "option_id": 3, "text": "British", "is_correct": false },
+        { "option_id": 4, "text": "Italian", "is_correct": false }
+      ],
+      "answer": "French"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The method of laboratory experiments and observation is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Empirical method", "is_correct": true },
+        { "option_id": 2, "text": "Historical method", "is_correct": false },
+        { "option_id": 3, "text": "Dialectical method", "is_correct": false },
+        { "option_id": 4, "text": "Theoretical method", "is_correct": false }
+      ],
+      "answer": "Empirical method"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is 'Manuscriptology'?",
+      "options": [
+        { "option_id": 1, "text": "Study of coins", "is_correct": false },
+        { "option_id": 2, "text": "Study of manuscripts", "is_correct": true },
+        { "option_id": 3, "text": "Study of inscriptions", "is_correct": false },
+        { "option_id": 4, "text": "Study of lineage", "is_correct": false }
+      ],
+      "answer": "Study of manuscripts"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who put emphasis on information gathered through original documents?",
+      "options": [
+        { "option_id": 1, "text": "Leopold von Ranké", "is_correct": true },
+        { "option_id": 2, "text": "Hegel", "is_correct": false },
+        { "option_id": 3, "text": "Marx", "is_correct": false },
+        { "option_id": 4, "text": "Foucault", "is_correct": false }
+      ],
+      "answer": "Leopold von Ranké"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Foucault subjected which area to historical analysis?",
+      "options": [
+        { "option_id": 1, "text": "Agriculture", "is_correct": false },
+        { "option_id": 2, "text": "Psychological disorders", "is_correct": true },
+        { "option_id": 3, "text": "Trade", "is_correct": false },
+        { "option_id": 4, "text": "War", "is_correct": false }
+      ],
+      "answer": "Psychological disorders"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a characteristic of modern historiography?",
+      "options": [
+        { "option_id": 1, "text": "It is based on scientific principles.", "is_correct": false },
+        { "option_id": 2, "text": "It is anthropocentric.", "is_correct": false },
+        { "option_id": 3, "text": "It focuses on Divine deeds.", "is_correct": true },
+        { "option_id": 4, "text": "It relies on evidence.", "is_correct": false }
+      ],
+      "answer": "It focuses on Divine deeds."
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "The tradition of recording historical events can be traced back to which civilization?",
+      "options": [
+        { "option_id": 1, "text": "Sumer", "is_correct": true },
+        { "option_id": 2, "text": "Indus Valley", "is_correct": false },
+        { "option_id": 3, "text": "Mayan", "is_correct": false },
+        { "option_id": 4, "text": "Roman", "is_correct": false }
+      ],
+      "answer": "Sumer"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What does 'Genealogy' study?",
+      "options": [
+        { "option_id": 1, "text": "Coins", "is_correct": false },
+        { "option_id": 2, "text": "Lineage", "is_correct": true },
+        { "option_id": 3, "text": "Language", "is_correct": false },
+        { "option_id": 4, "text": "Inscriptions", "is_correct": false }
+      ],
+      "answer": "Lineage"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who wrote 'The Theory and Practice of History'?",
+      "options": [
+        { "option_id": 1, "text": "Leopold von Ranké", "is_correct": true },
+        { "option_id": 2, "text": "Hegel", "is_correct": false },
+        { "option_id": 3, "text": "Marx", "is_correct": false },
+        { "option_id": 4, "text": "Descartes", "is_correct": false }
+      ],
+      "answer": "Leopold von Ranké"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "After 1990, women were portrayed as an independent ________ in historical writings.",
+      "options": [
+        { "option_id": 1, "text": "Political group", "is_correct": false },
+        { "option_id": 2, "text": "Social class", "is_correct": true },
+        { "option_id": 3, "text": "Religious sect", "is_correct": false },
+        { "option_id": 4, "text": "Economic unit", "is_correct": false }
+      ],
+      "answer": "Social class"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which scholar is associated with the statement that 'history is a graph of mankind's journey'?",
+      "options": [
+        { "option_id": 1, "text": "Modern Historiography (general concept)", "is_correct": true },
+        { "option_id": 2, "text": "Voltaire", "is_correct": false },
+        { "option_id": 3, "text": "Hegel", "is_correct": false },
+        { "option_id": 4, "text": "Ranké", "is_correct": false }
+      ],
+      "answer": "Modern Historiography (general concept)"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Hegel's book is entitled ________.",
+      "options": [
+        { "option_id": 1, "text": "The Histories", "is_correct": false },
+        { "option_id": 2, "text": "Reason in History", "is_correct": true },
+        { "option_id": 3, "text": "The Capital", "is_correct": false },
+        { "option_id": 4, "text": "Discourse on Method", "is_correct": false }
+      ],
+      "answer": "Reason in History"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The earliest inscription shown in the book records a battle between two ________.",
+      "options": [
+        { "option_id": 1, "text": "Empires", "is_correct": false },
+        { "option_id": 2, "text": "Kingdoms", "is_correct": true },
+        { "option_id": 3, "text": "Tribes", "is_correct": false },
+        { "option_id": 4, "text": "Generals", "is_correct": false }
+      ],
+      "answer": "Kingdoms"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the objective of historical research and writing?",
+      "answer": "The objective is to understand the chronology of past events and their interconnections."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is 'Historiography'?",
+      "answer": "The writing of critical historical narrative is known as 'Historiography'."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who is a historian?",
+      "answer": "A scholar who writes a critical historical narrative is known as a historian."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why can't the laboratory method be used in history?",
+      "answer": "Because historical events occurred in the past and cannot be recreated, and we were not present in that time and space."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What determines the historian's style of writing?",
+      "answer": "The historian's style of writing is determined by the conceptual framework adopted by him."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How did ancient communities pass on stories?",
+      "answer": "They passed on stories through cave paintings, story-telling, singing songs, and ballads."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the first characteristic of modern historiography?",
+      "answer": "Its method is based on scientific principles and begins with the formation of relevant questions."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does 'anthropocentric' mean in the context of history questions?",
+      "answer": "It means the questions are about the deeds of members of ancient human societies, not about divine intervention."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What support do answers to historical questions need?",
+      "answer": "Answers to historical questions need to be supported by reliable evidence."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What does history present according to modern historiography?",
+      "answer": "History presents a graph of mankind's journey with the help of past human deeds."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Where does modern historiography have its roots?",
+      "answer": "It has its roots in the ancient Greek historical writings."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Who was the first to use the term 'History'?",
+      "answer": "The Greek historian Herodotus was the first to use the term 'History'."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What happened in Europe till the 18th century regarding scholarship?",
+      "answer": "Europe achieved remarkable progress in Philosophy and Science."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What did scholars begin to believe by the 18th century?",
+      "answer": "They believed in the possibility of studying social and historical truths using scientific methods."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "When was Gottingen University founded?",
+      "answer": "Gottingen University was founded in 1737 C.E. in Germany."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What was unique about Gottingen University?",
+      "answer": "It had an independent department of history for the first time."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What rule did René Descartes propose in his book?",
+      "answer": "He proposed never to accept anything as true until all grounds of doubt are excluded."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What did Voltaire opine about historiography?",
+      "answer": "He opined that considering social traditions, economy, and agriculture was also important, not just political events."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What thought did Voltaire give rise to?",
+      "answer": "He gave rise to the thought that understanding all aspects of human life is important for history writing."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Who is called the founder of modern historiography?",
+      "answer": "Voltaire is said to be the founder of modern historiography."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What did Hegel consist on regarding historical reality?",
+      "answer": "He insisted that historical reality should be presented in a logical manner."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What did Hegel think about the timeline of historical events?",
+      "answer": "He thought it was indicative of progress."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why did scholars accept Hegel's philosophy?",
+      "answer": "They were convinced that historical methods were not of lesser quality just because they differed from scientific methods."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Name Hegel's book on philosophy.",
+      "answer": "His lectures are published in 'Encyclopaedia of Philosophical Sciences' and 'Reason in History'."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is 'Dialectics'?",
+      "answer": "Dialectics is a method of analysis based on understanding the meaning of an event in terms of two direct opposites."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is 'Thesis' in Dialectics?",
+      "answer": "The theory proposed at the beginning of the dialectical method is called 'Thesis'."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is 'Antithesis'?",
+      "answer": "The theory proposed contrary to the thesis is called 'Antithesis'."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is 'Synthesis'?",
+      "answer": "Synthesis is the new thesis proposed after a logical discussion of the thesis and antithesis."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Who influenced 19th-century historiography?",
+      "answer": "Leopold von Ranké of Berlin University greatly influenced it."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What did Ranké emphasize?",
+      "answer": "He emphasized the utmost importance of information gathered through original documents."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What did Ranké criticize?",
+      "answer": "He criticized the imaginative narration of history."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Name two books by Leopold von Ranké.",
+      "answer": "'The Theory and Practice of History' and 'The Secret of World History'."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What was Karl Marx's view on history?",
+      "answer": "He believed history was not about abstract ideas but about living people."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What shapes human relationships according to Marx?",
+      "answer": "Fundamental needs and the ownership of means of production shape human relationships."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What causes class struggle according to Marx?",
+      "answer": "Inequality in the accessibility of means of production causes class division and struggle."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which class exploits the others according to Marx?",
+      "answer": "The class that owns the means of production exploits the rest of the classes."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the name of Karl Marx's famous treatise?",
+      "answer": "His famous treatise is 'Das Kapital'."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the 'Annales School'?",
+      "answer": "It is a new school of historiography that arose in France at the onset of the 20th century."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What new direction did Annales School give to history?",
+      "answer": "It recognized that history is about climate, local people, agriculture, trade, etc., not just political events."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who started the Annales School?",
+      "answer": "French historians started the Annales School."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is 'Feminist Historiography'?",
+      "answer": "It means the restructuring of history from the perspective of women."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What did feminist historiography emphasize?",
+      "answer": "It emphasized the inclusion of women in history and rethinking the male-dominated perspective."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What aspects of women's life became the focus of research?",
+      "answer": "Employment, role in trade unions, institutions working for them, and family life became the focus."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "How were women portrayed in historical writings after 1990?",
+      "answer": "They were portrayed as an independent social class."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Who was Michel Foucault?",
+      "answer": "He was a French historian of the 20th century."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What did Foucault argue in his book?",
+      "answer": "He argued that arranging historical events in chronological order is not right."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What was Foucault's view on archaeology?",
+      "answer": "He said archaeology does not strive for the ultimate historical truth but attempts to explain transitions."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What did Foucault call his method?",
+      "answer": "He called his method 'the archaeology of knowledge'."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What new areas did Foucault subject to historical analysis?",
+      "answer": "He analyzed areas like psychological disorders, science of medicine, and prison administration."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How did the scope of historiography expand?",
+      "answer": "It expanded to include subjects like literature, architecture, sculpture, music, dance, etc."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the purpose of historical research?",
+      "answer": "To understand the chronology of past events and their interconnections."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What method is used in physical sciences to verify knowledge?",
+      "answer": "The empirical method (laboratory experiments and observation) is used."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why can't laws be formulated in history like in science?",
+      "answer": "Because we cannot recreate historical events and cannot formulate laws that remain true irrespective of time and space."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What expertise is needed to read a historical document?",
+      "answer": "Knowledge of the language and script of the document is needed."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "How can experts examine the authenticity of a document?",
+      "answer": "By using criteria like lettering style, writing style, paper type, and stamps of authority."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is the Louvre Museum?",
+      "answer": "It is a famous museum in France where the earliest inscription is displayed."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What does the Sumerian inscription record?",
+      "answer": "It records a battle fought between two kingdoms."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is shown in the picture of the earliest inscription?",
+      "answer": "It shows a forward marching file of soldiers holding shields and spears with a General in front."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "When did the Sumer civilization exist?",
+      "answer": "The Sumer civilization existed in Mesopotamia, and the inscription dates back to 4500 B.C.E."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What does 'anthropocentric' mean?",
+      "answer": "It means centered on humans and their deeds."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is a 'historical narrative'?",
+      "answer": "It is the writing of a critical account of history by a historian."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why can't a historian include every past event?",
+      "answer": "Because the inclusion depends on the conceptual framework and the vastness of history."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is 'Epigraphy'?",
+      "answer": "Epigraphy is the study of inscriptions."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is 'Numismatics'?",
+      "answer": "Numismatics is the study of coins."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Who was Simone de Beauvoir?",
+      "answer": "She was a French scholar who helped establish the fundamentals of feminism."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is the 'Class Theory'?",
+      "answer": "It is Karl Marx's theory that history is a struggle between classes."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What did the Annales School focus on besides politics?",
+      "answer": "It focused on climate, local people, agriculture, trade, and social divisions."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Who started the Annales School?",
+      "answer": "French historians started the Annales School."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What did Foucault say about historical truth?",
+      "answer": "He said archaeology does not strive for the ultimate historical truth."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What did Foucault emphasize in his method?",
+      "answer": "He emphasized explaining various transitions in the past."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Dialectics' proposed by Hegel.",
+      "answer": "According to Hegel, grasping the meaning of any event happens in terms of two direct opposites, such as True-False or Good-Bad. Human mind cannot understand the true nature of an event without understanding these opposites. In this method, a theory called 'Thesis' is proposed, followed by a contrary theory called 'Antithesis'. After a logical discussion of both, a new thesis called 'Synthesis' is arrived at, which includes the gist of both. This method is known as Dialectics."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "What are the four main characteristics of modern historiography?",
+      "answer": "The four main characteristics are: 1) Its method is based on scientific principles, starting with forming relevant questions. 2) These questions are anthropocentric, meaning they are about the deeds of ancient human societies, not divine intervention. 3) Answers to these questions are supported by reliable evidence. 4) History presents a graph of mankind's journey based on past human deeds."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Explain Karl Marx's 'Class Theory'.",
+      "answer": "Karl Marx believed that history is not about abstract ideas but about living people. Human relationships are shaped by fundamental needs and the ownership of the means of production. Since the accessibility of these means is unequal, society is divided into classes, leading to class struggle. History is essentially the history of this struggle, where the class owning the means of production exploits the others. His treatise 'Das Kapital' explains this theory."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "What is the contribution of the Annales School to historiography?",
+      "answer": "The Annales School, which arose in France in the 20th century, gave a new direction to history writing. It shifted the focus from merely political events, kings, and wars to broader aspects of life. It emphasized studying climate, local people, agriculture, trade, technology, means of communication, and social divisions. This school expanded the scope of history to include the lives of common people and social structures."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "What is Feminist Historiography?",
+      "answer": "Feminist historiography refers to the restructuring of history from the perspective of women. It was helped by the writings of Simone de Beauvoir. It emphasized including women in history and rethinking the male-dominated perspective. It drove research into various aspects of women's lives, such as employment, trade unions, and family life. After 1990, women were portrayed as an independent social class in historical writings."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Explain Leopold von Ranké's perspective on history.",
+      "answer": "Leopold von Ranké emphasized the critical method of historical research. He believed in the utmost importance of information gathered through original documents. He stated that all documents associated with a historical event should be examined with great care to reach the historical truth. He criticized the imaginative narration of history. His thoughts greatly influenced 19th-century historiography."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Discuss René Descartes' contribution to the scientific perspective in historiography.",
+      "answer": "René Descartes was a French philosopher who insisted on verifying the reliability of historical documents. In his book 'Discourse on the Method', he laid down a rule that became fundamental to the scientific method of research. He stated that one should never accept anything as true until all grounds of doubt are excluded. This emphasis on critical examination had a great impact on historiography."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Why is Voltaire considered the founder of modern historiography?",
+      "answer": "Voltaire opined that history writing should not just focus on objective truth and chronology of events. He believed it was equally important to consider social traditions, trade, economy, and agriculture. This broadened the scope of history to include all aspects of human life. Because of this comprehensive approach, he is considered the founder of modern historiography."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain Michel Foucault's 'Archaeology of Knowledge'.",
+      "answer": "Michel Foucault argued against the practice of arranging historical events in chronological order. He believed that archaeology does not strive to find the ultimate historical truth but attempts to explain transitions in the past. He felt that explaining these transitions was more important. He also subjected unacknowledged areas like psychological disorders and prison administration to historical analysis. He called this method 'the archaeology of knowledge'."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "How does the historical research method differ from the empirical method?",
+      "answer": "The empirical method, used in physical and natural sciences, involves laboratory experiments and observation to verify knowledge and formulate laws. In contrast, historical research cannot use these methods because historical events occurred in the past and cannot be recreated. We were not present in that time and space. Therefore, history cannot formulate laws that remain true irrespective of time and space, relying instead on document analysis."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "What are the steps involved in the historical research method?",
+      "answer": "The steps include: 1) Critically examining various sources of history. 2) Examining relevant references of available historical information. 3) Collecting historical information and highlighting processes leading to transitions. 4) Understanding references regarding time and space and conceptual frameworks. 5) Formulating relevant questions. 6) Formulating hypotheses. All these steps help in writing a historical narrative."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Describe the tradition of historiography in ancient societies.",
+      "answer": "Ancient societies did not have the modern tradition of historiography, but they were aware of the past. They felt the need to pass on stories of their ancestors' life and valour to the next generation. They used various means for this purpose, such as cave paintings, story-telling, singing songs, and ballads. These traditional means are now considered sources of history in modern historiography."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Discuss the development of the scientific perspective in Europe regarding historiography.",
+      "answer": "Until the 18th century, European universities focused on divine phenomena. However, this began to change as scholars believed in studying social and historical truths using scientific methods. Philosophical discussions shifted towards objectivity in history. The founding of Gottingen University in 1737, with an independent history department, marked a significant step. This led to other German universities becoming centers of historical studies."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "What is the significance of the earliest inscription in the Louvre Museum?",
+      "answer": "The earliest inscription, dating back to 4500 B.C.E., originates from the Sumer civilization in Mesopotamia. It depicts a file of soldiers led by a General, recording a battle between two kingdoms. This shows that the tradition of recording historical events existed in ancient times. It is significant evidence of early historiography and is currently preserved in the Louvre Museum, France."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "How does Georg Wilhelm Friedrich Hegel view historical reality?",
+      "answer": "Hegel, a German philosopher, insisted that historical reality should be presented logically. He viewed the timeline of historical events as indicative of progress. He believed that the presentation of history changes over time as new evidence emerges. His philosophy convinced scholars that historical methods, though different from scientific ones, were not inferior. His ideas are compiled in 'Reason in History'."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Why is the role of an expert important in historical research?",
+      "answer": "An expert is needed to read and understand the language and script of historical documents. They can examine the authenticity of the document using criteria like lettering style, author's writing style, manufacturing date, paper type, and stamps of authority. This critical examination ensures that the sources used for history are reliable and accurate, which is essential for valid historiography."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "What disciplines contribute to historical research?",
+      "answer": "Various disciplines aid historical research. Archaeology helps in studying material remains. Archival Science preserves documents. Manuscriptology studies manuscripts. Epigraphy is the study of inscriptions. Analysis of lettering style helps date documents. Linguistics helps understand languages. Numismatics is the study of coins. Genealogy studies lineage. All these methods help in critically analyzing historical sources."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Explain the transition from divine to human-centric history in Europe.",
+      "answer": "Before the 18th century, European thought was dominated by theological and divine explanations for events. However, with the scientific revolution and the Enlightenment, scholars began to focus on human actions and social truths. Modern historiography formalized this by asking anthropocentric questions, focusing on human deeds rather than divine intervention. This shift laid the foundation for secular and scientific history writing."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "What did the Annales School change about the subject matter of history?",
+      "answer": "The Annales School moved history away from being solely about political history, great leaders, wars, and diplomacy. It expanded the subject matter to include the everyday lives of people. It emphasized the study of climate, local people, agriculture, trade, technology, and social psychology. This holistic approach provided a more complete picture of the past, integrating social and economic factors."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Discuss the impact of feminist historiography on historical research.",
+      "answer": "Feminist historiography challenged the male-dominated narrative of history. It did not just add women to history but rethought the entire perspective. It drove research into neglected areas like women's employment, family life, and their role in institutions. This movement led to the recognition of women as an independent social class in historical writings, broadening the understanding of social history."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "How did Michel Foucault expand the scope of historiography?",
+      "answer": "Foucault expanded the scope of historiography by applying historical analysis to areas previously ignored by historians. He studied the history of psychological disorders, the science of medicine, and prison administration. By doing so, he showed that history is not just about political events but also about the evolution of knowledge, institutions, and societal norms. This opened up new fields for historical inquiry."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "What is the importance of 'The Histories' by Herodotus?",
+      "answer": "'The Histories' by Herodotus is significant because it is one of the earliest works to use the term 'History' in the 5th century B.C.E. Herodotus is often called the 'Father of History' for his systematic collection of materials and critical approach. His work established the tradition of writing historical narratives in the Western world, linking modern historiography to ancient Greek roots."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Explain the role of 'doubt' in René Descartes' philosophy.",
+      "answer": "In his book 'Discourse on the Method', René Descartes established 'doubt' as a fundamental tool for scientific and historical inquiry. He proposed the rule: 'Never to accept anything for true till all grounds of doubt are excluded.' This meant that scholars should not blindly accept traditional beliefs or documents but must critically verify them. This skepticism is the basis of the critical method in modern historiography."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "How did Karl Marx's view of history differ from the 'Great Man' theory?",
+      "answer": "Traditional history often focused on kings and great leaders (Great Man theory). Karl Marx shifted this focus to the common people and the economic structures of society. He argued that history is driven by the struggle between classes—those who own the means of production and those who do not. Instead of the deeds of a few individuals, Marx saw history as a collective struggle for survival and economic power."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "What defines 'Modern Historiography'?",
+      "answer": "Modern Historiography is defined by four key characteristics: 1) It follows a scientific method starting with relevant questions. 2) It is anthropocentric, focusing on human deeds rather than divine acts. 3) It relies on reliable evidence to support its answers. 4) It views history as a graph of mankind's journey. This approach distinguishes it from the mythological or theological narratives of the past."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Discuss the significance of the Gottingen University in the development of historiography.",
+      "answer": "Founded in 1737 C.E. in Germany, Gottingen University was pivotal because it established the first independent department of history. Before this, history was often part of philosophy or theology. This institutionalization of history as a distinct academic discipline encouraged specialized research and training. It set a precedent for other German universities, making Germany a center for historical studies in the 19th century."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "How did Voltaire's view on history broaden its scope?",
+      "answer": "Voltaire moved beyond the traditional focus on political and military history. He argued that to truly understand history, one must consider the social context—traditions, trade, economy, and agriculture. By including these aspects, he championed a more holistic view of the past. This approach laid the groundwork for cultural and social history, earning him the title of the founder of modern historiography."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "What is the relationship between 'Thesis', 'Antithesis', and 'Synthesis' in Hegel's philosophy?",
+      "answer": "In Hegel's dialectics, a 'Thesis' is an initial proposition or theory. It is naturally opposed by a contradictory theory called 'Antithesis'. The conflict or logical discussion between these two opposites leads to a new, higher level of understanding called 'Synthesis'. This synthesis resolves the conflict by integrating the truths of both the thesis and antithesis. Hegel believed this process drives historical progress."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Why did Leopold von Ranké criticize imaginative narration of history?",
+      "answer": "Ranké believed that history should be based strictly on facts and evidence gathered from original documents. He felt that imaginative narration distorted the truth and made history unreliable. He emphasized objectivity and the rigorous examination of sources. For him, the historian's duty was to show 'how it essentially was', without adding fictional elements or personal bias."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "How did the scope of historiography continue to expand in modern times?",
+      "answer": "Building on the foundations laid by scholars like Voltaire, Marx, and the Annales School, historiography continued to diversify. It moved beyond political history to include the histories of various specific subjects. Today, scholars write histories of literature, architecture, sculpture, painting, music, dance, drama, films, and television. This expansion reflects the recognition that every aspect of human culture has a history worth studying."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "What is the role of 'Time' and 'Space' in historical research?",
+      "answer": "Historical research is fundamentally about understanding events in their specific time and space. Unlike science, where laws are true irrespective of time and space, historical events are unique to their context. Historians must understand the references regarding time and space to accurately interpret events. We cannot recreate the time and space of the past, which is why the historical method differs from the experimental method."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain the significance of the 20th century for historiography.",
+      "answer": "The 20th century was a period of significant transformation in historiography. It saw the rise of the Annales School in France, which broadened history's scope to social and economic factors. It also witnessed the emergence of feminist historiography, which challenged male-centric narratives. Additionally, scholars like Michel Foucault introduced new methodologies like the 'archaeology of knowledge', questioning traditional chronological approaches. These developments made history more inclusive and analytical."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "What does the statement 'History does not suggest any interrelation between the Divine and human deeds' mean?",
+      "answer": "This statement reflects the secular and anthropocentric nature of modern historiography. It means that historical events are explained as the result of human actions, choices, and societal forces, not as the will of God or divine intervention. This separates history from mythology and theology, treating it as a study of human agency and cause-and-effect relationships in the material world."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "How does 'Das Kapital' influence the understanding of history?",
+      "answer": "'Das Kapital' by Karl Marx provides a theoretical framework for understanding history through the lens of economy and class struggle. It analyzes the capitalist system and argues that economic forces drive historical change. It suggests that the exploitation of the working class by the ruling class is the central dynamic of history. This perspective has influenced historians to examine economic structures and inequality as key factors in historical development."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "What is the contribution of Simone de Beauvoir to historiography?",
+      "answer": "Simone de Beauvoir, a French scholar, played a crucial role in establishing the fundamentals of feminism. Her writings challenged the traditional, male-centric view of history and society. By articulating the distinct experiences and oppression of women, she provided the intellectual basis for feminist historiography. Her work encouraged historians to re-examine the past with a focus on women's roles, leading to a more inclusive understanding of history."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Why is 'objectivity' important in history?",
+      "answer": "Objectivity is crucial in history to ensure that the narrative is a truthful representation of the past, free from the historian's personal biases or prejudices. Scholars like Ranké and Descartes emphasized critical examination of sources to achieve this. Objectivity allows for a reliable understanding of events, separating fact from fiction. However, later scholars like Hegel also noted that interpretations might change as new evidence emerges, but the pursuit of truth remains central."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Describe the transition from 'narrating stories of ancestors' to 'modern historiography'.",
+      "answer": "In ancient times, history was preserved through oral traditions like storytelling and songs to honour ancestors. This was subjective and often mixed with mythology. The transition to modern historiography involved the adoption of scientific principles. It began with critical analysis of documents, asking anthropocentric questions, and seeking reliable evidence. This shift moved history from a form of cultural memory to a rigorous academic discipline focused on factual accuracy."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "What is the significance of the phrase 'History presents a graph of mankind's journey'?",
+      "answer": "This phrase encapsulates the scope of modern historiography. It implies that history is not just a collection of isolated events but a continuous record of human development. It charts the progress, struggles, and changes in human society over time. By studying this 'graph', we can understand how current societies evolved from past ones. It emphasizes the continuity and connectedness of human experience."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "How does the 'Analysis of lettering style' help in history?",
+      "answer": "The analysis of lettering style is a tool used by experts to determine the authenticity and date of historical documents. Writing styles change over time and vary by region. By examining the specific characteristics of the script, experts can estimate when a document was written and if it matches the claimed period. This helps in verifying sources and preventing the use of forgeries in historical research."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Why is 'Foucault’s method' called the 'Archaeology of Knowledge'?",
+      "answer": "Foucault called his method the 'Archaeology of Knowledge' because, like archaeology, it digs into the past to uncover the layers of history. However, instead of physical artifacts, he excavated the history of ideas and knowledge systems. He focused on how 'truths' are constructed and how they change over time (transitions). He was interested in the underlying structures of thought that define what is considered knowledge in different eras."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "What is the importance of 'Genealogy' in historical research?",
+      "answer": "Genealogy, the study of lineage and family history, is an important tool for historians. It helps in tracing the succession of kings, noble families, and the transmission of power. It provides context for political alliances, conflicts, and inheritance claims. In ancient historiography, verifying lineage was often a key motivation for keeping records. In modern research, it helps construct accurate timelines and understand social structures."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "How did the focus on 'agricultural history' emerge?",
+      "answer": "The focus on agricultural history emerged with the broadening of historiography by scholars like Voltaire and the Annales School. They realized that political events are underpinned by the economy, which in pre-modern societies was largely agrarian. Understanding farming practices, crop cycles, and land ownership became essential to understanding the daily life of people and the economic basis of empires. This shifted attention from the court to the countryside."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "What is the relevance of 'Linguistics' to history?",
+      "answer": "Linguistics is vital for deciphering ancient scripts and understanding historical texts. Language evolves, and analyzing these changes helps date documents. It also reveals cultural interactions, migrations, and the spread of ideas. For example, studying the roots of words can show connections between different civilizations. Historians rely on linguists to interpret the meaning of primary sources accurately."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Why is the study of 'coins' (Numismatics) crucial for historians?",
+      "answer": "Coins are valuable primary sources. They contain information about the ruler, the date of issue, and the extent of the empire (where coins are found). The metal content reveals the economic condition of the period. Symbols and images on coins provide insights into religion and culture. Numismatics allows historians to corroborate literary sources and construct economic and political histories."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'historical transition' emphasized by Foucault.",
+      "answer": "Foucault emphasized that history is not just a linear progression of events but a series of transitions or ruptures. He focused on how systems of thought and power change from one period to another. Instead of seeking a single, ultimate truth, he looked at how knowledge is produced and transformed. Understanding these transitions helps reveal the underlying structures of society and how they evolve."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "What is the role of 'hypothesis' in historical research?",
+      "answer": "In historical research, a hypothesis serves as a tentative explanation or a starting point for investigation. Historians formulate hypotheses based on initial evidence. They then test these hypotheses by examining more sources and critically analyzing data. While history cannot prove laws like science, hypotheses guide the research direction and help in constructing a coherent narrative from fragmented evidence."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "How did the 'scientific perspective' change the study of history in Europe?",
+      "answer": "The scientific perspective transformed history from a branch of literature or theology into a disciplined academic pursuit. It introduced critical methods for verifying sources, emphasized objectivity, and sought rational explanations for events. It moved away from accepting legends as fact. This shift led to the establishment of history departments in universities and the professionalization of the historian's craft."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Why is 'critical examination' of sources necessary?",
+      "answer": "Critical examination is necessary because historical sources can be biased, forged, or inaccurate. Authors may have political agendas or limited information. By critically analyzing the document's origin, authorship, and content (internal and external criticism), historians can determine its reliability. This process ensures that the history written is based on factual evidence rather than misinformation."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "What is the connection between 'social division' and the Annales School?",
+      "answer": "The Annales School explicitly included 'social divisions' as a subject of historical study. They recognized that society is not uniform and that divisions based on class, caste, or profession affect historical outcomes. By studying these divisions, they provided a more nuanced understanding of how different groups experienced history. This moved history towards a social history approach."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize the contribution of Western scholars to the development of historiography.",
+      "answer": "Western scholars played a pivotal role in shaping modern historiography. Descartes introduced critical doubt. Voltaire broadened the scope to include social and economic factors. Hegel introduced dialectics to understand historical logic. Ranké established the critical method of source analysis. Marx introduced the economic class struggle perspective. The Annales School and feminist historians further expanded the field to include common people and women. Together, they transformed history into a rigorous, scientific, and inclusive discipline."
+    }
+  ]
+}

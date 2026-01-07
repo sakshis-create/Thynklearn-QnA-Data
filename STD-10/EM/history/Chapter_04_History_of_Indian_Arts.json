@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.History.04",
+    "standard": "10",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "History of Indian Arts"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the Sanskrit term for Visual Arts?",
+      "options": [
+        { "option_id": 1, "text": "Lalit Kala", "is_correct": false },
+        { "option_id": 2, "text": "Drik Kala", "is_correct": true },
+        { "option_id": 3, "text": "Aangik Kala", "is_correct": false },
+        { "option_id": 4, "text": "Natya Kala", "is_correct": false }
+      ],
+      "answer": "Drik Kala"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an example of Visual Arts?",
+      "options": [
+        { "option_id": 1, "text": "Painting", "is_correct": false },
+        { "option_id": 2, "text": "Sculpting", "is_correct": false },
+        { "option_id": 3, "text": "Dance", "is_correct": true },
+        { "option_id": 4, "text": "Architecture", "is_correct": false }
+      ],
+      "answer": "Dance"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The Maratha style of painting developed in the latter half of the ________ century C.E.",
+      "options": [
+        { "option_id": 1, "text": "16th", "is_correct": false },
+        { "option_id": 2, "text": "17th", "is_correct": true },
+        { "option_id": 3, "text": "18th", "is_correct": false },
+        { "option_id": 4, "text": "19th", "is_correct": false }
+      ],
+      "answer": "17th"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where can we see murals of Maratha style?",
+      "options": [
+        { "option_id": 1, "text": "Ajanta Caves", "is_correct": false },
+        { "option_id": 2, "text": "Ellora Caves", "is_correct": false },
+        { "option_id": 3, "text": "Old wadas at Wai and Satara", "is_correct": true },
+        { "option_id": 4, "text": "Elephanta Caves", "is_correct": false }
+      ],
+      "answer": "Old wadas at Wai and Satara"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which world heritage site is famous for its rock paintings in Madhya Pradesh?",
+      "options": [
+        { "option_id": 1, "text": "Sanchi", "is_correct": false },
+        { "option_id": 2, "text": "Bhimbetka", "is_correct": true },
+        { "option_id": 3, "text": "Khajuraho", "is_correct": false },
+        { "option_id": 4, "text": "Hampi", "is_correct": false }
+      ],
+      "answer": "Bhimbetka"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The tradition of Warli painting is a fine example of ________ style of paintings.",
+      "options": [
+        { "option_id": 1, "text": "Classical", "is_correct": false },
+        { "option_id": 2, "text": "Folk", "is_correct": true },
+        { "option_id": 3, "text": "Western", "is_correct": false },
+        { "option_id": 4, "text": "Persian", "is_correct": false }
+      ],
+      "answer": "Folk"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which artist is renowned for making the Warli style of paintings popular?",
+      "options": [
+        { "option_id": 1, "text": "Raja Ravi Varma", "is_correct": false },
+        { "option_id": 2, "text": "Jivya Somya Mashe", "is_correct": true },
+        { "option_id": 3, "text": "Gangaram Tambat", "is_correct": false },
+        { "option_id": 4, "text": "James Wales", "is_correct": false }
+      ],
+      "answer": "Jivya Somya Mashe"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The Chalukya king Someshvara mentioned the tradition of Chitrakathi in which book?",
+      "options": [
+        { "option_id": 1, "text": "Natyashastra", "is_correct": false },
+        { "option_id": 2, "text": "Manasollas", "is_correct": true },
+        { "option_id": 3, "text": "Vishnudharmottara", "is_correct": false },
+        { "option_id": 4, "text": "Abhijnana Shakuntalam", "is_correct": false }
+      ],
+      "answer": "Manasollas"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How many main aspects (Shadange) does the art of painting have according to ancient Indian texts?",
+      "options": [
+        { "option_id": 1, "text": "Four", "is_correct": false },
+        { "option_id": 2, "text": "Five", "is_correct": false },
+        { "option_id": 3, "text": "Six", "is_correct": true },
+        { "option_id": 4, "text": "Seven", "is_correct": false }
+      ],
+      "answer": "Six"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The Mughal miniature style shows a blend of Indian and ________ styles.",
+      "options": [
+        { "option_id": 1, "text": "European", "is_correct": false },
+        { "option_id": 2, "text": "Persian", "is_correct": true },
+        { "option_id": 3, "text": "Chinese", "is_correct": false },
+        { "option_id": 4, "text": "Greek", "is_correct": false }
+      ],
+      "answer": "Persian"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who established an art school in Pune during the Peshwa period?",
+      "options": [
+        { "option_id": 1, "text": "James Wales", "is_correct": true },
+        { "option_id": 2, "text": "Gangaram Tambat", "is_correct": false },
+        { "option_id": 3, "text": "Raja Ravi Varma", "is_correct": false },
+        { "option_id": 4, "text": "Pestonji Bomanji", "is_correct": false }
+      ],
+      "answer": "James Wales"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "When was the J.J. School of Art and Industry established?",
+      "options": [
+        { "option_id": 1, "text": "1850 C.E.", "is_correct": false },
+        { "option_id": 2, "text": "1857 C.E.", "is_correct": true },
+        { "option_id": 3, "text": "1947 C.E.", "is_correct": false },
+        { "option_id": 4, "text": "1900 C.E.", "is_correct": false }
+      ],
+      "answer": "1857 C.E."
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The Ashokstambh at Sarnath is the national ________ of India.",
+      "options": [
+        { "option_id": 1, "text": "Animal", "is_correct": false },
+        { "option_id": 2, "text": "Flower", "is_correct": false },
+        { "option_id": 3, "text": "Emblem", "is_correct": true },
+        { "option_id": 4, "text": "Anthem", "is_correct": false }
+      ],
+      "answer": "Emblem"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which stupa was erected during Emperor Ashoka's time?",
+      "options": [
+        { "option_id": 1, "text": "Borobudur", "is_correct": false },
+        { "option_id": 2, "text": "Sanchi", "is_correct": true },
+        { "option_id": 3, "text": "Amaravati", "is_correct": false },
+        { "option_id": 4, "text": "Nagarjunakonda", "is_correct": false }
+      ],
+      "answer": "Sanchi"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The largest stupa in the world is located at ________.",
+      "options": [
+        { "option_id": 1, "text": "Sanchi, India", "is_correct": false },
+        { "option_id": 2, "text": "Borobudur, Indonesia", "is_correct": true },
+        { "option_id": 3, "text": "Anuradhapura, Sri Lanka", "is_correct": false },
+        { "option_id": 4, "text": "Bagan, Myanmar", "is_correct": false }
+      ],
+      "answer": "Borobudur, Indonesia"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The Gandhara school of art had influence from which styles?",
+      "options": [
+        { "option_id": 1, "text": "Greek and Persian", "is_correct": true },
+        { "option_id": 2, "text": "Chinese and Japanese", "is_correct": false },
+        { "option_id": 3, "text": "Indian and European", "is_correct": false },
+        { "option_id": 4, "text": "Roman and Egyptian", "is_correct": false }
+      ],
+      "answer": "Greek and Persian"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which school laid the foundation of Indian iconography?",
+      "options": [
+        { "option_id": 1, "text": "Gandhara school", "is_correct": false },
+        { "option_id": 2, "text": "Mathura school", "is_correct": true },
+        { "option_id": 3, "text": "Amaravati school", "is_correct": false },
+        { "option_id": 4, "text": "Dravida school", "is_correct": false }
+      ],
+      "answer": "Mathura school"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The art of making bronze images was developed under the patronage of ________ kings.",
+      "options": [
+        { "option_id": 1, "text": "Gupta", "is_correct": false },
+        { "option_id": 2, "text": "Maurya", "is_correct": false },
+        { "option_id": 3, "text": "Chola", "is_correct": true },
+        { "option_id": 4, "text": "Pallava", "is_correct": false }
+      ],
+      "answer": "Chola"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The rock-cut caves at Ajanta and Verul were declared World Heritage in ________.",
+      "options": [
+        { "option_id": 1, "text": "1983", "is_correct": true },
+        { "option_id": 2, "text": "1991", "is_correct": false },
+        { "option_id": 3, "text": "2000", "is_correct": false },
+        { "option_id": 4, "text": "1950", "is_correct": false }
+      ],
+      "answer": "1983"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The Nagara style of temple architecture belongs to ________ India.",
+      "options": [
+        { "option_id": 1, "text": "South", "is_correct": false },
+        { "option_id": 2, "text": "North", "is_correct": true },
+        { "option_id": 3, "text": "East", "is_correct": false },
+        { "option_id": 4, "text": "West", "is_correct": false }
+      ],
+      "answer": "North"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "A blend of Nagara and Dravida styles is known as ________ style.",
+      "options": [
+        { "option_id": 1, "text": "Bhoomija", "is_correct": false },
+        { "option_id": 2, "text": "Vesara", "is_correct": true },
+        { "option_id": 3, "text": "Hemadpanti", "is_correct": false },
+        { "option_id": 4, "text": "Indo-Gothic", "is_correct": false }
+      ],
+      "answer": "Vesara"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The outer walls of Hemadpanti temples are built in a ________ shape.",
+      "options": [
+        { "option_id": 1, "text": "Circle", "is_correct": false },
+        { "option_id": 2, "text": "Square", "is_correct": false },
+        { "option_id": 3, "text": "Star", "is_correct": true },
+        { "option_id": 4, "text": "Triangle", "is_correct": false }
+      ],
+      "answer": "Star"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The Ambreshwar temple is located at ________.",
+      "options": [
+        { "option_id": 1, "text": "Sinnar", "is_correct": false },
+        { "option_id": 2, "text": "Ambarnath", "is_correct": true },
+        { "option_id": 3, "text": "Hingoli", "is_correct": false },
+        { "option_id": 4, "text": "Verul", "is_correct": false }
+      ],
+      "answer": "Ambarnath"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Qutub Minar is the highest minaret in the world with a height of ________ meters.",
+      "options": [
+        { "option_id": 1, "text": "50", "is_correct": false },
+        { "option_id": 2, "text": "65", "is_correct": false },
+        { "option_id": 3, "text": "73", "is_correct": true },
+        { "option_id": 4, "text": "100", "is_correct": false }
+      ],
+      "answer": "73"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who built the Taj Mahal?",
+      "options": [
+        { "option_id": 1, "text": "Akbar", "is_correct": false },
+        { "option_id": 2, "text": "Jahangir", "is_correct": false },
+        { "option_id": 3, "text": "Shah Jahan", "is_correct": true },
+        { "option_id": 4, "text": "Aurangzeb", "is_correct": false }
+      ],
+      "answer": "Shah Jahan"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The Gol Gumbaz is located at ________.",
+      "options": [
+        { "option_id": 1, "text": "Agra", "is_correct": false },
+        { "option_id": 2, "text": "Delhi", "is_correct": false },
+        { "option_id": 3, "text": "Bijapur", "is_correct": true },
+        { "option_id": 4, "text": "Hyderabad", "is_correct": false }
+      ],
+      "answer": "Bijapur"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The Chhatrapati Shivaji Maharaj Railway Terminus is an example of ________ architectural style.",
+      "options": [
+        { "option_id": 1, "text": "Indo-Islamic", "is_correct": false },
+        { "option_id": 2, "text": "Indo-Gothic", "is_correct": true },
+        { "option_id": 3, "text": "Dravida", "is_correct": false },
+        { "option_id": 4, "text": "Nagara", "is_correct": false }
+      ],
+      "answer": "Indo-Gothic"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which of these is a folk dance of Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Kathak", "is_correct": false },
+        { "option_id": 2, "text": "Lavani", "is_correct": true },
+        { "option_id": 3, "text": "Bharatnatyam", "is_correct": false },
+        { "option_id": 4, "text": "Odissi", "is_correct": false }
+      ],
+      "answer": "Lavani"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The text 'Natyashastra' was written by ________.",
+      "options": [
+        { "option_id": 1, "text": "Kalidas", "is_correct": false },
+        { "option_id": 2, "text": "Bharatmuni", "is_correct": true },
+        { "option_id": 3, "text": "Someshvara", "is_correct": false },
+        { "option_id": 4, "text": "Valmiki", "is_correct": false }
+      ],
+      "answer": "Bharatmuni"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "How many 'Rasas' (moods) are there in Indian performing arts?",
+      "options": [
+        { "option_id": 1, "text": "Seven", "is_correct": false },
+        { "option_id": 2, "text": "Eight", "is_correct": false },
+        { "option_id": 3, "text": "Nine", "is_correct": true },
+        { "option_id": 4, "text": "Ten", "is_correct": false }
+      ],
+      "answer": "Nine"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Kathak is a classical dance form of ________ India.",
+      "options": [
+        { "option_id": 1, "text": "North", "is_correct": true },
+        { "option_id": 2, "text": "South", "is_correct": false },
+        { "option_id": 3, "text": "East", "is_correct": false },
+        { "option_id": 4, "text": "West", "is_correct": false }
+      ],
+      "answer": "North"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Bharatnatyam is a classical dance form of ________.",
+      "options": [
+        { "option_id": 1, "text": "Kerala", "is_correct": false },
+        { "option_id": 2, "text": "Tamil Nadu", "is_correct": true },
+        { "option_id": 3, "text": "Andhra Pradesh", "is_correct": false },
+        { "option_id": 4, "text": "Odisha", "is_correct": false }
+      ],
+      "answer": "Tamil Nadu"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Kathakali and Mohiniattam are dance forms of ________.",
+      "options": [
+        { "option_id": 1, "text": "Tamil Nadu", "is_correct": false },
+        { "option_id": 2, "text": "Kerala", "is_correct": true },
+        { "option_id": 3, "text": "Karnataka", "is_correct": false },
+        { "option_id": 4, "text": "Andhra Pradesh", "is_correct": false }
+      ],
+      "answer": "Kerala"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who wrote the text 'Kitab-e-Navras'?",
+      "options": [
+        { "option_id": 1, "text": "Akbar", "is_correct": false },
+        { "option_id": 2, "text": "Ibrahim Adilshah II", "is_correct": true },
+        { "option_id": 3, "text": "Shah Jahan", "is_correct": false },
+        { "option_id": 4, "text": "Aurangzeb", "is_correct": false }
+      ],
+      "answer": "Ibrahim Adilshah II"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which artist created a fusion of Indian classical dance and European opera?",
+      "options": [
+        { "option_id": 1, "text": "Ravi Shankar", "is_correct": false },
+        { "option_id": 2, "text": "Uday Shankar", "is_correct": true },
+        { "option_id": 3, "text": "Bismillah Khan", "is_correct": false },
+        { "option_id": 4, "text": "Zakir Hussain", "is_correct": false }
+      ],
+      "answer": "Uday Shankar"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which field calls for special expertise to assess the value of an art object?",
+      "options": [
+        { "option_id": 1, "text": "Journalism", "is_correct": false },
+        { "option_id": 2, "text": "Art Market", "is_correct": true },
+        { "option_id": 3, "text": "Library Science", "is_correct": false },
+        { "option_id": 4, "text": "Applied Art", "is_correct": false }
+      ],
+      "answer": "Art Market"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "An artistic creation with a utilitarian purpose is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Fine Art", "is_correct": false },
+        { "option_id": 2, "text": "Visual Art", "is_correct": false },
+        { "option_id": 3, "text": "Applied Art", "is_correct": true },
+        { "option_id": 4, "text": "Performing Art", "is_correct": false }
+      ],
+      "answer": "Applied Art"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which institute in Ahmedabad is world-renowned for design training?",
+      "options": [
+        { "option_id": 1, "text": "IIT", "is_correct": false },
+        { "option_id": 2, "text": "NIFT", "is_correct": false },
+        { "option_id": 3, "text": "National Institute of Design (NID)", "is_correct": true },
+        { "option_id": 4, "text": "JJ School of Art", "is_correct": false }
+      ],
+      "answer": "National Institute of Design (NID)"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The 'Savai Gandharva' festival is held in which city?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Pune", "is_correct": true },
+        { "option_id": 3, "text": "Nagpur", "is_correct": false },
+        { "option_id": 4, "text": "Nashik", "is_correct": false }
+      ],
+      "answer": "Pune"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the characteristic of the Hemadpanti style masonry?",
+      "options": [
+        { "option_id": 1, "text": "Use of cement", "is_correct": false },
+        { "option_id": 2, "text": "Use of lime mortar", "is_correct": false },
+        { "option_id": 3, "text": "Tenon and mortise joints without mortar", "is_correct": true },
+        { "option_id": 4, "text": "Use of bricks", "is_correct": false }
+      ],
+      "answer": "Tenon and mortise joints without mortar"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "The 'Bhoomija' style of temple architecture is seen in Madhya Pradesh and ________.",
+      "options": [
+        { "option_id": 1, "text": "Gujarat", "is_correct": false },
+        { "option_id": 2, "text": "Maharashtra", "is_correct": true },
+        { "option_id": 3, "text": "Karnataka", "is_correct": false },
+        { "option_id": 4, "text": "Odisha", "is_correct": false }
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of Applied Art?",
+      "options": [
+        { "option_id": 1, "text": "Classical Singing", "is_correct": false },
+        { "option_id": 2, "text": "Interior Design", "is_correct": true },
+        { "option_id": 3, "text": "Writing Poetry", "is_correct": false },
+        { "option_id": 4, "text": "Philosophy", "is_correct": false }
+      ],
+      "answer": "Interior Design"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "The tradition of Chitrakathi is mentioned in which book?",
+      "options": [
+        { "option_id": 1, "text": "Manasollas", "is_correct": true },
+        { "option_id": 2, "text": "Ramayana", "is_correct": false },
+        { "option_id": 3, "text": "Mahabharata", "is_correct": false },
+        { "option_id": 4, "text": "Vedas", "is_correct": false }
+      ],
+      "answer": "Manasollas"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which colors were primarily used in rock paintings?",
+      "options": [
+        { "option_id": 1, "text": "Blue and Green", "is_correct": false },
+        { "option_id": 2, "text": "Black, Red, and White", "is_correct": true },
+        { "option_id": 3, "text": "Yellow and Purple", "is_correct": false },
+        { "option_id": 4, "text": "Oil paints", "is_correct": false }
+      ],
+      "answer": "Black, Red, and White"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which dynasty patronized the bronze idol making art?",
+      "options": [
+        { "option_id": 1, "text": "Mughals", "is_correct": false },
+        { "option_id": 2, "text": "Cholas", "is_correct": true },
+        { "option_id": 3, "text": "Marathas", "is_correct": false },
+        { "option_id": 4, "text": "British", "is_correct": false }
+      ],
+      "answer": "Cholas"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "The temple architecture in India began to develop during which period?",
+      "options": [
+        { "option_id": 1, "text": "Gupta period", "is_correct": true },
+        { "option_id": 2, "text": "British period", "is_correct": false },
+        { "option_id": 3, "text": "Mughal period", "is_correct": false },
+        { "option_id": 4, "text": "Vedic period", "is_correct": false }
+      ],
+      "answer": "Gupta period"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Where is the Sun Temple located?",
+      "options": [
+        { "option_id": 1, "text": "Konark", "is_correct": true },
+        { "option_id": 2, "text": "Mumbai", "is_correct": false },
+        { "option_id": 3, "text": "Pune", "is_correct": false },
+        { "option_id": 4, "text": "Delhi", "is_correct": false }
+      ],
+      "answer": "Konark"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which temple is a unique monolithic sculpture?",
+      "options": [
+        { "option_id": 1, "text": "Ambreshwar temple", "is_correct": false },
+        { "option_id": 2, "text": "Kailas temple at Verul", "is_correct": true },
+        { "option_id": 3, "text": "Gondeshwar temple", "is_correct": false },
+        { "option_id": 4, "text": "Sun Temple", "is_correct": false }
+      ],
+      "answer": "Kailas temple at Verul"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Who was the Scottish artist who established an art school in Pune?",
+      "options": [
+        { "option_id": 1, "text": "James Wales", "is_correct": true },
+        { "option_id": 2, "text": "John Smith", "is_correct": false },
+        { "option_id": 3, "text": "William Jones", "is_correct": false },
+        { "option_id": 4, "text": "Robert Clive", "is_correct": false }
+      ],
+      "answer": "James Wales"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Pestonji Bomanji made replicas of which paintings?",
+      "options": [
+        { "option_id": 1, "text": "Warli paintings", "is_correct": false },
+        { "option_id": 2, "text": "Ajanta paintings", "is_correct": true },
+        { "option_id": 3, "text": "Mughal paintings", "is_correct": false },
+        { "option_id": 4, "text": "Maratha paintings", "is_correct": false }
+      ],
+      "answer": "Ajanta paintings"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is 'Art'?",
+      "answer": "Art is a beautiful creation resulting from the natural human instinct to share experiences, wisdom, and emotions."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are the two types of artistic creations?",
+      "answer": "The two types of artistic creations are 'Visual Arts' (Drik Kala) and 'Performing Arts' (Lalit or Aangik Kala)."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What does the Sanskrit term 'Drik Kala' mean?",
+      "answer": "The Sanskrit term 'Drik Kala' means Visual Arts."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How old is the origin of visual arts?",
+      "answer": "The origin of visual arts is as old as the stone-age man, proven by prehistoric rock art."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is Folk Art?",
+      "answer": "Folk art is a tradition that has continued from prehistoric times and is a spontaneous expression of people's way of living."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is Classical Art?",
+      "answer": "Classical art is expressed within an established frame of consistent rules and requires prolonged training to master."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is 'Style in Art'?",
+      "answer": "When a method of working adopted by many artists over a prolonged period becomes a tradition, it is known as an 'art style'."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "When did the Maratha style of painting begin to develop?",
+      "answer": "The Maratha style of painting began to develop in the latter half of the 17th century C.E."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are the forms of Maratha paintings?",
+      "answer": "Maratha paintings occur as murals and also as miniatures used in manuscripts."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which styles influenced the Maratha style of painting?",
+      "answer": "The Maratha style was influenced by the Rajput and European styles of painting."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Where can we find rock paintings in India?",
+      "answer": "Rock paintings are found in Madhya Pradesh, Uttar Pradesh, Bihar, Uttarakhand, Karnataka, Andhra Pradesh, and Telangana."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What do rock paintings usually depict?",
+      "answer": "Rock paintings usually depict human, animal, and geometric figures."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is Bhimbetka famous?",
+      "answer": "Bhimbetka is famous for its rock paintings and is a World Heritage site."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name two folk styles of paintings in Maharashtra.",
+      "answer": "Warli painting and Pingul or Chitrakathi are two folk styles of paintings in Maharashtra."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Who made the Warli style of paintings popular?",
+      "answer": "Jivya Somya Mashe made the Warli style of paintings popular."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the Chitrakathi tradition?",
+      "answer": "It is the tradition of narrating stories from Ramayana or Mahabharata with the help of wooden puppets and paintings."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What are the six main aspects of painting known as?",
+      "answer": "The six main aspects of painting are known as Shadange."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "List two aspects included in Shadange.",
+      "answer": "Roopbheda (shapes and forms) and Bhava (Expressions) are two aspects of Shadange."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which style of painting developed under the Deccan Sultanates?",
+      "answer": "The Deccan miniature style was developed under the patronage of the Deccan Sultanates."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What characterizes the Mughal miniature style?",
+      "answer": "The Mughal miniature style shows a blend of Indian and Persian styles."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who was Gangaram Tambat?",
+      "answer": "Gangaram Tambat was a Marathi artist who worked with James Wales and made drawings of Verul and Karle caves."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is characteristic of the European style of painting?",
+      "answer": "Exact portrayal of the object is a characteristic of the European style of painting."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What materials are used for creating sculptures?",
+      "answer": "Rock, metal, or clay are used for creating sculptures."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the national emblem of India?",
+      "answer": "The lion capital of the Asokan pillar found at Sarnath is the national emblem of India."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What are Veergals?",
+      "answer": "Veergals are memorial stones representing a folk style of sculptural art."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "When did the carving of stone sculptures begin in India?",
+      "answer": "It began in the Mauryan period with the Asokan pillars, around 5000 years ago."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Where is the largest stupa in the world located?",
+      "answer": "The largest stupa in the world is located at Borobudur in Indonesia."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is Indian Iconography?",
+      "answer": "Indian Iconography is a branch of knowledge that includes everything about making images of gods and goddesses."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which school of art laid the foundation of Indian iconography?",
+      "answer": "The Mathura school of art laid the foundation of Indian iconography."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What did the Gandhara school of art reflect?",
+      "answer": "The Gandhara school of art reflected Greek and Persian influence."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What bronze idols were made during the Chola period?",
+      "answer": "Bronze idols of Siva-Parvati, Nataraj, Lakshmi, and Vishnu were made during the Chola period."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "When did the tradition of rock-cut caves originate in India?",
+      "answer": "The tradition of rock-cut caves originated in India in the 3rd century B.C.E."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Which rock-cut caves in Maharashtra are World Heritage sites?",
+      "answer": "The caves at Ajanta and Verul (Ellora) are World Heritage sites."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "When did temple architecture in India begin to develop?",
+      "answer": "Temple architecture began to develop around the 4th century C.E. during the Gupta period."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How are styles of temple architecture identified?",
+      "answer": "Styles of temple architecture are identified by the style of the tower (Shikhara)."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the Vesara style?",
+      "answer": "The Vesara style is a blend of the Nagara and Dravida styles of temple architecture."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the Bhoomija style?",
+      "answer": "It is a style seen in Madhya Pradesh and Maharashtra where miniature towers are arranged to create the main tower."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is a characteristic of Hemadpanti temples?",
+      "answer": "A characteristic is the star-shaped plan and zigzag design of outer walls."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How is the masonry of Hemadpanti temples done?",
+      "answer": "The walls are built without mortar by locking stones using tenon and mortise joints."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is Islamic architecture in India?",
+      "answer": "It is a blend of Persian, Central Asian, Arabic, and pre-Islamic Indian styles created under Muslim sultanates."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who started the construction of Qutub Minar?",
+      "answer": "Kutubuddin Aibak started the construction of Qutub Minar."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why was the Taj Mahal built?",
+      "answer": "Shah Jahan built the Taj Mahal in memory of his queen Mumtaz Mahal."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the unique feature of Gol Gumbaz?",
+      "answer": "It has a round gallery where even a slight whisper can be heard everywhere."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the Indo-Gothic architectural style?",
+      "answer": "It is a style that arose during the British period, blending Indian and Gothic elements."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Name one example of Indo-Gothic architecture.",
+      "answer": "Chhatrapati Shivaji Maharaj Railway Terminus in Mumbai is a fine example."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What are the two main branches of Indian classical music?",
+      "answer": "The two main branches are 'Hindustani music' and 'Carnatic music'."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Name two Indian classical dance forms.",
+      "answer": "Kathak and Bharatnatyam are two Indian classical dance forms."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is 'Kitab-e-Navras'?",
+      "answer": "It is a book on Indian classical music written by Ibrahim Adilshah II."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Who created a fusion of Indian classical dance and European opera?",
+      "answer": "Pandit Uday Shankar created this fusion."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is Applied Art?",
+      "answer": "Applied Art refers to artistic creations made with a utilitarian purpose to be economically viable."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What fields are included in Applied Art?",
+      "answer": "Fields like Industry and Advertisement, Interior Design, and Art Direction for films are included."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is art history important for the art market?",
+      "answer": "It helps in assessing the exact value of an art object and ensuring its authenticity."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What professional opportunities are available in Heritage Management?",
+      "answer": "Opportunities include Museums and Archives Management, Archaeological Research, and Indology."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which institute in Ahmedabad offers training in art design?",
+      "answer": "The National Institute of Design (NID) in Ahmedabad offers such training."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is the Sanskrit term for Performing Arts?",
+      "answer": "The Sanskrit term for Performing Arts is 'Lalit' or 'Aangik Kala'."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is 'Lavanyayojana' in painting?",
+      "answer": "Lavanyayojana refers to Aesthetics."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is 'Sadrushyata' in painting?",
+      "answer": "Sadrushyata means a resemblance to reality."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is the 'Savai Gandharva' festival?",
+      "answer": "It is a famous music festival held in Pune."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is 'Nepathya'?",
+      "answer": "Nepathya refers to the Art Design of stage Backdrops."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What does the text of 'Natyashastra' discuss?",
+      "answer": "It discusses music and theatre and is written by Bharatmuni."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Name two moods (Rasas) in Indian performing arts.",
+      "answer": "Shringar (love) and Hasya (humour) are two moods."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is the 'Kutub Minar' complex declared as?",
+      "answer": "It has been declared as a World Heritage site."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Who was Jivya Somya Mashe?",
+      "answer": "He was a renowned Warli artist who received the Padmashree award."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is the characteristic of folk art expression?",
+      "answer": "Its expression is spontaneous and is a natural part of people's way of living."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What helps to develop regional styles of folk paintings?",
+      "answer": "Customs like decorating houses and narrating stories with paintings helped develop regional styles."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What are the colours used in rock paintings made from?",
+      "answer": "They are made from natural substances."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What can we understand from rock paintings?",
+      "answer": "We can understand ancient people's knowledge of their surroundings and use of natural resources."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Where is the Gondeshwar temple located?",
+      "answer": "The Gondeshwar temple is located at Sinnar near Nashik."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is a 'monolithic sculpture'?",
+      "answer": "It is a sculpture carved out of a single rock, like the Kailas temple."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is calligraphy?",
+      "answer": "Calligraphy is the art of decorative handwriting, often used in books and magazines."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What did the Kushana kings use on their coins?",
+      "answer": "They made use of images of various deities on their coins."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Where are the rock-cut caves of Karle located?",
+      "answer": "They are located in Maharashtra, and were drawn by Gangaram Tambat."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is the 'Dhrupad' style?",
+      "answer": "It is a style of singing verses in Indian classical music."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Where is the Sun Temple of Konark?",
+      "answer": "The Sun Temple is located in Konark, Odisha."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is the height of Qutub Minar?",
+      "answer": "Qutub Minar is 73 meters (240 ft.) in height."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Who completed the construction of Qutub Minar?",
+      "answer": "The construction was completed in the reign of Phiroz Tughluq."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What is 'Varnikabhang'?",
+      "answer": "Varnikabhang refers to Colour composition in painting."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What is 'Pramana' in painting?",
+      "answer": "Pramana means the proportionate depiction of various features of an image."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What are 'Agama' texts?",
+      "answer": "They are religious texts that explain arts of painting and sculpting in temple architecture context."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is the 'Dravida' style?",
+      "answer": "The Dravida style is a style of temple architecture prevalent in South India."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is the 'Nagara' style?",
+      "answer": "The Nagara style is a style of temple architecture prevalent in North India."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is 'Powada'?",
+      "answer": "Powada is a performing folk art tradition in Maharashtra."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is 'Dashavatar'?",
+      "answer": "Dashavatar is a folk theatre form of Konkan."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is 'Koli Dance'?",
+      "answer": "Koli Dance is a folk dance form of Maharashtra."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Where is 'Kuchipudi' from?",
+      "answer": "Kuchipudi is a classical dance form of Andhra Pradesh."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Where is 'Odissi' from?",
+      "answer": "Odissi is a classical dance form of Odisha."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is 'Adbhut' rasa?",
+      "answer": "Adbhut rasa means wondrous mood."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is 'Bhayanak' rasa?",
+      "answer": "Bhayanak rasa means fearful mood."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is 'Veer' rasa?",
+      "answer": "Veer rasa means heroic mood."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is 'Karuna' rasa?",
+      "answer": "Karuna rasa means sad mood."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is 'Raudra' rasa?",
+      "answer": "Raudra rasa means terrible mood."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is 'Beebhatsa' rasa?",
+      "answer": "Beebhatsa rasa means repulsion."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is 'Hasya' rasa?",
+      "answer": "Hasya rasa means humour."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is 'Shringar' rasa?",
+      "answer": "Shringar rasa means love."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is 'Shant' rasa?",
+      "answer": "Shant rasa means peaceful."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is required for 'Applied Art' production?",
+      "answer": "Detailed planning and meticulous management are required at every stage of production."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is photography part of applied arts?",
+      "answer": "Because it involves artistic creation for utility or commercial purposes."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What does the syllabus of art design courses include?",
+      "answer": "It includes the history of various industrial and cultural traditions."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is the purpose of art festivals?",
+      "answer": "To make art accessible to common people."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is 'Chitrakathi'?",
+      "answer": "It is a folk style of painting and storytelling using puppets."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the Maratha style of painting.",
+      "answer": "The Maratha style of painting began to develop in the latter half of the 17th century C.E. It consists of coloured paintings found as murals and miniatures in manuscripts. This style was influenced by the Rajput and European styles of painting. Murals of this style can be seen in old wadas at Wai, Menavali, and Satara. These paintings help us understand the lifestyle, attires, and customs of that period."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe the tradition of Chitrakathi or Pinguli.",
+      "answer": "Chitrakathi or Pinguli is a folk tradition of narrating stories from Ramayana or Mahabharata using wooden puppets and paintings. It is mentioned in the 12th-century book 'Manasollas'. The pictures are drawn on paper and painted with natural colours. It takes 30-50 pictures to narrate a single story. These pictures are preserved carefully and passed down generations, though the tradition is now on the verge of extinction."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "What are the six main aspects (Shadange) of the art of painting?",
+      "answer": "The six main aspects of painting, known as Shadange, are Roopbheda (different shapes and forms), Pramana (proportionate depiction of features), Bhava (expressions), Lavanyayojana (aesthetics), Sadrushyata (resemblance to reality), and Varnikabhang (colour composition). Ancient Indian scholars studied these aspects minutely. They form the basis of classical Indian painting standards."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Discuss the development of miniature paintings in manuscripts.",
+      "answer": "Miniature paintings in early manuscripts show an influence of Persian style. The Deccan miniature style developed under the Deccan Sultanates. During Akbar's reign, the Mughal miniature style emerged, blending Indian and Persian styles. These paintings are detailed and small, often illustrating religious or historical texts. They are significant for their artistic and historical value."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Explain the characteristics of the Hemadpanti style of architecture.",
+      "answer": "The Hemadpanti style flourished in Maharashtra in the 12th-13th centuries. A key characteristic is the use of tenon and mortise joints to lock stones without lime or mortar. The outer walls are often built in a star shape with a zigzag design, creating an effect of alternating light and shadow. Examples include the Ambreshwar temple at Ambarnath and Gondeshwar temple at Sinnar."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Describe the Islamic architecture in India with examples.",
+      "answer": "Islamic architecture in India developed under Muslim sultanates, blending Persian, Central Asian, Arabic, and Indian styles. Key examples include the Qutub Minar in Delhi, the highest minaret in the world. The Taj Mahal in Agra, built by Shah Jahan, is a paramount example of beauty. The Gol Gumbaz in Bijapur is famous for its massive dome and acoustic gallery. These structures feature domes, minarets, and intricate carvings."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Write about the Indo-Gothic architectural style.",
+      "answer": "The Indo-Gothic style emerged during the British period in India. It blends Indian architectural elements with the European Gothic style. Buildings like churches, government offices, and railway stations were constructed in this style. A prime example is the Chhatrapati Shivaji Maharaj Railway Terminus in Mumbai, which is a World Heritage Site. This style is characterized by high arches, stained glass, and spires."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "What are the professional opportunities in the field of Art?",
+      "answer": "There are various professional opportunities in the field of Art. Art historians can work in journalism or the art market assessing the value of art objects. Heritage Management and Cultural Tourism offer careers in museums, archives, and libraries. Applied arts provide opportunities in industry, advertisement, interior design, art direction for films, and production of ornamental objects. Research in art history and archaeology is also a significant field."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain the difference between Folk Art and Classical Art.",
+      "answer": "Folk Art is a tradition that has continued from prehistoric times; its expression is spontaneous and part of everyday life. It is created by the collective participation of a social group. Classical Art, on the other hand, is expressed within an established frame of consistent rules. It requires prolonged training to master. While folk art is more informal, classical art follows strict discipline and technique."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Describe the Warli painting tradition.",
+      "answer": "The Warli painting tradition is a folk art form from Maharashtra. It uses simple geometric shapes like circles, triangles, and squares to depict human figures and nature. Jivya Somya Mashe popularised this style globally. The paintings depict daily life, nature, and occupations. They are traditionally drawn on walls using simple materials like rice paste."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "What is the contribution of the Mathura School of Art?",
+      "answer": "The Mathura School of Art rose during the Kushana period (1st-3rd century C.E.). It laid the foundation of Indian iconography, which is the study of making images of deities. This school produced sculptures of various gods and goddesses. It played a crucial role in standardizing the depiction of divine figures in Indian art."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Chola period for bronze sculptures.",
+      "answer": "The Chola period (9th-13th century) is renowned for the development of bronze image making. Under Chola patronage, beautiful bronze idols of gods and goddesses like Siva-Parvati, Nataraj, Lakshmi, and Vishnu were created. These sculptures are celebrated for their grace and artistic excellence. They represent a high point in Indian metal sculpture tradition."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Describe the rock-cut caves tradition in India.",
+      "answer": "The tradition of rock-cut caves in India originated in the 3rd century B.C.E. These caves combine architecture and sculptural art. Famous examples include the caves at Ajanta and Verul (Ellora) in Maharashtra, which are World Heritage sites. They feature intricate carvings, columns, and paintings on walls and ceilings. The Kailas temple at Verul is a unique monolithic sculpture carved from a single rock."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "What are the two principal styles of Indian temple architecture?",
+      "answer": "The two principal styles are the Nagara style and the Dravida style. The Nagara style is prevalent in North India, while the Dravida style is found in South India. These styles are identified by the design of their towers (Shikharas). A blend of these two styles is called the Vesara style. Each has distinct structural and decorative features."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "What is Applied Art and list some of its fields?",
+      "answer": "Applied Art refers to artistic creations that have a utilitarian purpose, making them economically viable. Unlike pure art meant for entertainment, applied art serves practical needs. Fields include Industry and Advertisement, Interior Design, Art Direction for films, production of greeting cards, and gift objects. Architecture and photography are also considered parts of applied arts. It combines aesthetics with utility."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Discuss the 'Western Style of Painting' in India.",
+      "answer": "During the British period, Indian artists were influenced by the European style of painting, characterized by exact portrayal of objects. James Wales established an art school in Pune, where artists like Gangaram Tambat worked. The J.J. School of Art in Mumbai, established in 1857, offered courses in this style. Artists like Pestonji Bomanji trained there and made replicas of Ajanta paintings. This period marked a shift towards realism in Indian art."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Style' in Art.",
+      "answer": "In art, 'style' refers to the specific method of working adopted by an artist. When a particular method is used by many artists over a long period, it becomes a tradition or an 'art style'. These styles are characteristic of certain periods and regions. Studying these styles helps in understanding art history. Examples include the Maratha style of painting or the Nagara style of architecture."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "What information do we get from the text 'Kitab-e-Navras'?",
+      "answer": " 'Kitab-e-Navras' was written by Ibrahim Adilshah II, the ruler of Bijapur, in Dakhani Urdu. It is a text about Indian classical music. It contains verses meant to be sung in the Dhrupad style. The book allows readers to experience excellent poetry and provides insights into the musical traditions of that time. It exemplifies the cultural blending in medieval India."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Describe the Bhoomija style of temple architecture.",
+      "answer": "The Bhoomija style is seen in Madhya Pradesh and Maharashtra. It has a close resemblance to the Nagara style structurally. In this style, a series of miniature towers are arranged on the main tower, becoming smaller towards the top. This creates an effect of the tower continuously rising from the base. It is a distinct variation of the northern temple style."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "What is the importance of 'Heritage Management'?",
+      "answer": "Heritage Management is a recently developed field that offers professional opportunities. It involves the preservation and conservation of historical sites, monuments, museums, and archives. It requires expertise in history, archaeology, and administration. Proper management ensures that cultural heritage is protected for future generations. It also supports cultural tourism, creating economic value."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Qutub Minar.",
+      "answer": "The Qutub Minar is a world-famous example of Islamic architecture in India. Situated in Mehrauli near Delhi, it is the highest minaret in the world (73 meters). Its construction started under Kutubuddin Aibak and was completed by Altmash and Phiroz Tughluq. It is part of a complex declared as a World Heritage site. It represents the grandeur of the Delhi Sultanate architecture."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "What are the 'nine moods' (rasas) in Indian performing arts?",
+      "answer": "The nine moods or rasas are fundamental to Indian performing arts presentations. They are Shringar (love), Hasya (humour), Beebhatsa (repulsion), Raudra (terrible), Karuna (sad), Veer (heroic), Bhayanak (fearful), Adbhut (wondrous), and Shant (peaceful). These rasas evoke specific emotions in the audience. They are central to dance, music, and theatre."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Describe the Gol Gumbaz at Bijapur.",
+      "answer": "The Gol Gumbaz is a grand building housing the burial of Mohammed Adil Shah of Bijapur. Built in the 17th century, it is famous for its massive dome. Inside the dome is a round gallery with unique acoustic properties. Even a slight whisper can be heard across the gallery, and a clap echoes many times. It is a marvel of medieval engineering and architecture."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "How did Indian classical music evolve?",
+      "answer": "Indian classical music evolved through the blending of various traditions. Ancient texts like Natyashastra laid the foundation. Over time, contact with other cultures enriched it, creating various styles of vocal and instrumental music. It has two main branches: Hindustani and Carnatic. It also has semi-classical forms that include folk styles. Modern artists continue to experiment and create fusions."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "What is the role of the National Institute of Design (NID)?",
+      "answer": "The National Institute of Design (NID) in Ahmedabad is a world-renowned institute. It offers technical and occupational training in various fields of applied art like industrial design, communication design, etc. Since 2015, it has introduced online courses. NID plays a crucial role in producing trained professionals for the art and design industry in India."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Describe the Taj Mahal as an architectural marvel.",
+      "answer": "The Taj Mahal in Agra was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is considered the paramount example of Islamic architecture in India's beauty. The white marble structure features a massive dome, minarets, and intricate inlay work. It is a UNESCO World Heritage site and attracts tourists from all over the world. It symbolizes love and artistic perfection."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "What is 'Rock Painting' and what does it depict?",
+      "answer": "Rock paintings are ancient artworks found on rock shelters, dating back to the stone age. In India, sites like Bhimbetka are famous for them. They usually depict human, animal, and geometric figures. The style and subjects change over time, reflecting cultural shifts from hunting to agriculture. They provide insights into the knowledge and lifestyle of ancient people."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Discuss the 'Folk Styles of Sculptural Art'.",
+      "answer": "Folk styles of sculptural art date back to the stone ages. It began with carving stone tools. The custom of making clay images for rituals has been prevalent since Harappan times. It continues today in regions like Bengal and Maharashtra, seen in Ganesha idols, Gauri masks, and wooden memorials (Veergals). These sculptures are created for religious festivals and reflect local traditions."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Explain the contribution of Pandit Uday Shankar to Indian dance.",
+      "answer": "Pandit Uday Shankar was a prominent artist who created a new style of Indian dance. He successfully fused Indian classical dance with European opera. He also incorporated various folk dance forms into his style. His work expanded the scope of Indian performing arts and popularized them globally. He represents the modern evolution of Indian dance traditions."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "What are the opportunities for art historians in journalism?",
+      "answer": "Art historians can work in journalism by writing about art exhibitions, cultural events, and heritage. They can critique art, write columns, or produce content for art magazines. Their deep understanding allows them to educate the public and provide expert commentary. Media outlets often require specialists to cover cultural news accurately."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "What is the 'Gandhara School of Art'?",
+      "answer": "The Gandhara School of Art developed in the 2nd century B.C.E. in Afghanistan and neighboring regions. It was heavily influenced by Greek and Persian art styles. This school produced the earliest images of the Buddha. It represents a synthesis of Indian subjects with Hellenistic artistic techniques. It is a key phase in the history of Indian sculpture."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Describe the 'Borobudur Stupa'.",
+      "answer": "The Borobudur Stupa is located in Indonesia. It was built during the 8th-9th century C.E. It is the largest Buddhist stupa in the world. The stupa is a massive structure with intricate carvings and statues of Buddha. It was declared a World Heritage site in 1991. It testifies to the spread of Buddhism and Indian artistic influence in Southeast Asia."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "What is the significance of the Asokan pillars?",
+      "answer": "The Asokan pillars, erected during the Mauryan period, mark the beginning of stone sculpture carving in India. The lion capital from the Sarnath pillar is particularly significant as it has been adopted as India's national emblem. These pillars feature polished surfaces and intricate animal carvings. They also bear inscriptions that provide historical information."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "How did the temple architecture change from the Gupta period to medieval times?",
+      "answer": "In the early Gupta period, temples were simple, consisting of a sanctum sanctorum and a veranda with four columns. By the 8th century, architecture became more complex, as seen in the Kailas temple. By the medieval period, distinct styles like Nagara, Dravida, and Vesara had developed. Temples became grander with elaborate towers (shikharas) and extensive sculptural embellishments."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "What is 'Design' in the context of Applied Art?",
+      "answer": "In Applied Art, design refers to the planning and creation of objects that are both functional and aesthetic. It includes industrial design, interior design, and graphic design. The aim is to make objects attractive to consumers while serving a utility. Training courses in design include the history of cultural traditions to inform modern creations. Institutes like NID specialize in this field."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "What are the characteristics of 'Folk styles of Painting'?",
+      "answer": "Folk styles of painting resemble prehistoric rock paintings. They are created by common people rather than professional artists. They depict daily life, nature, and religious beliefs. Styles vary by region, such as Warli or Madhubani. They often use natural colours and simple forms. They are kept alive through traditions like decorating houses (Rangawali) and narrating stories."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Discuss the 'Indo-Islamic' architecture.",
+      "answer": "Indo-Islamic architecture is a fusion style that developed under Muslim rule in India. It combines elements of Persian, Central Asian, Arabic, and indigenous Indian styles. Key features include domes, arches, minarets, and the use of mortar. It avoided human figures in decoration, focusing on geometric patterns and calligraphy. Famous examples include the Taj Mahal and Qutub Minar."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "What role do 'festivals' play in Indian performing arts?",
+      "answer": "Festivals provide a platform for showcasing performing arts. Folk arts like dances and songs developed as integral parts of religious festivals and social life. In modern times, specific music and dance festivals, like the Savai Gandharva festival, are organized to present classical arts to the public. These events help preserve traditions and encourage artists."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Explain the term 'Iconography' with respect to Indian art.",
+      "answer": "Iconography is the study and interpretation of images and symbols in art. In the Indian context, it specifically refers to the branch of knowledge dealing with the making of deity images. It involves strict rules regarding proportions, attributes, and poses of gods and goddesses. The Mathura school laid its foundation, and texts like Agamas codified these rules."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "How did the 'British Period' influence Indian art?",
+      "answer": "The British period introduced the Western style of painting, emphasizing realism and oil painting techniques. Art schools were established to teach these methods. A new architectural style, Indo-Gothic, emerged, blending Indian and Gothic elements. This period saw a shift in patronage and the introduction of new materials and techniques in both painting and architecture."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "What is the importance of 'Sanchi Stupa'?",
+      "answer": "The Sanchi Stupa is a key Buddhist monument originally commissioned by Emperor Ashoka. It is significant for its massive size and the later addition of beautiful sculptural gates (toranas). These sculptures depict scenes from the life of Buddha and Jataka tales. It serves as a testimony to the continuous development of sculptural art in ancient India."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Describe the 'Kailas Temple' at Verul.",
+      "answer": "The Kailas Temple at Verul (Ellora) is a magnificent monolithic structure carved out of a single rock. It was built during the Rashtrakuta period. It is designed to resemble Mount Kailash, the abode of Lord Shiva. The temple features intricate carvings, a Dravidian shikhara, and a large courtyard. It is considered one of the most remarkable cave temples in the world."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "What are the 'Performing Folk Arts' of Maharashtra?",
+      "answer": "Maharashtra has rich traditions of performing folk arts. These include Koli Dance (fisherfolk dance), Tarapa Dance (tribal dance), and Dashavatar (folk theatre of Konkan). Other forms include Powada (ballad singing), Keertan (devotional singing), and Jagar-Gondhal (ritual performance). These arts are deeply rooted in the religious and social life of the region."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Varnikabhang'.",
+      "answer": "Varnikabhang is one of the six main aspects (Shadange) of Indian painting. It refers to the knowledge and use of colour composition. It involves the mixing of colours and the application of brush strokes to create artistic effects. Mastery of Varnikabhang is essential for a painter to bring life and depth to their creation."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "What is the significance of the 'Lion Capital' at Sarnath?",
+      "answer": "The Lion Capital at Sarnath is an ancient sculpture from the Mauryan period. It features four lions standing back to back. It symbolizes power, courage, and confidence. It has been adopted as the National Emblem of India. The wheel (Ashoka Chakra) from its base appears on the Indian national flag."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "How did 'Gangaram Tambat' contribute to art?",
+      "answer": "Gangaram Tambat was a Marathi artist who worked during the Peshwa period. He was an assistant to the Scottish artist James Wales. He is known for his detailed drawings of the rock-cut caves at Verul and Karle. His works are preserved in the Yale Centre of British Art, showcasing the talent of Indian artists adapting to Western techniques."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "What are the features of 'Chhatrapati Shivaji Maharaj Railway Terminus'?",
+      "answer": "CSMT is a prime example of Indo-Gothic architecture. It was built during the British period. It features a blend of Victorian Gothic and traditional Indian architectural elements. The building has turrets, pointed arches, and a high dome. It is a UNESCO World Heritage Site and a bustling railway station in Mumbai."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Why is 'Visual Arts' called 'Drik Kala'?",
+      "answer": "Visual Arts are called 'Drik Kala' in Sanskrit because they appeal to the sense of sight ('Drik' means eye/sight). This category includes art forms like painting and sculpture that are static and visual in nature. Unlike performing arts which are dynamic and temporal, visual arts result in tangible objects that can be seen and appreciated over time."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Discuss the 'Deccan Miniature Style'.",
+      "answer": "The Deccan Miniature Style developed in the Deccan region of India under the patronage of the various Sultanates (like Bijapur, Golconda). It was influenced by the Persian style but developed its own distinct characteristics. It is known for its vibrant colours and unique composition. It bridges the gap between the earlier manuscript paintings and the later Mughal style."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "What is the relevance of 'Agama texts' in Indian art?",
+      "answer": "Agama texts are ancient religious scriptures of various sects (Shaiva, Vaishnava, etc.). They are relevant to Indian art because they provide detailed guidelines on temple architecture and sculpture. They explain the rituals and the making of idols. They served as manuals for artisans, ensuring that religious art conformed to theological requirements."
+    }
+  ]
+}

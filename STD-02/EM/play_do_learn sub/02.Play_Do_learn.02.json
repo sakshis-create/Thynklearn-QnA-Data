@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.02",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Different Kinds of Movements and Appropriate Body Postures"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which movement means bending the body forward?",
+      "options": [
+        { "option_id": 1, "text": "Backward bending", "is_correct": false },
+        { "option_id": 2, "text": "Sideways bending", "is_correct": false },
+        { "option_id": 3, "text": "Forward bending", "is_correct": true },
+        { "option_id": 4, "text": "Twirl on toes", "is_correct": false }
+      ],
+      "answer": "Forward bending"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which movement is done by turning on the toes?",
+      "options": [
+        { "option_id": 1, "text": "Zigzag walk", "is_correct": false },
+        { "option_id": 2, "text": "Twirl on the toes", "is_correct": true },
+        { "option_id": 3, "text": "Forward bending", "is_correct": false },
+        { "option_id": 4, "text": "Sideways bending", "is_correct": false }
+      ],
+      "answer": "Twirl on the toes"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which walk is shown by moving left and right?",
+      "options": [
+        { "option_id": 1, "text": "Straight walk", "is_correct": false },
+        { "option_id": 2, "text": "Zigzag walk", "is_correct": true },
+        { "option_id": 3, "text": "Duck walk", "is_correct": false },
+        { "option_id": 4, "text": "Crab walk", "is_correct": false }
+      ],
+      "answer": "Zigzag walk"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which animal movement is called Rabbit Jump?",
+      "options": [
+        { "option_id": 1, "text": "Walking slowly", "is_correct": false },
+        { "option_id": 2, "text": "Jumping like a rabbit", "is_correct": true },
+        { "option_id": 3, "text": "Crawling", "is_correct": false },
+        { "option_id": 4, "text": "Standing still", "is_correct": false }
+      ],
+      "answer": "Jumping like a rabbit"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which movement copies the walk of a duck?",
+      "options": [
+        { "option_id": 1, "text": "Crab walk", "is_correct": false },
+        { "option_id": 2, "text": "Duck walk", "is_correct": true },
+        { "option_id": 3, "text": "Monkey jump", "is_correct": false },
+        { "option_id": 4, "text": "Kangaroo jump", "is_correct": false }
+      ],
+      "answer": "Duck walk"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which movement uses hands and legs together like a crab?",
+      "options": [
+        { "option_id": 1, "text": "Rabbit jump", "is_correct": false },
+        { "option_id": 2, "text": "Crab walk", "is_correct": true },
+        { "option_id": 3, "text": "Duck walk", "is_correct": false },
+        { "option_id": 4, "text": "Zigzag walk", "is_correct": false }
+      ],
+      "answer": "Crab walk"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which equipment is used to bounce and kick?",
+      "options": [
+        { "option_id": 1, "text": "Book", "is_correct": false },
+        { "option_id": 2, "text": "Ball", "is_correct": true },
+        { "option_id": 3, "text": "Chair", "is_correct": false },
+        { "option_id": 4, "text": "Table", "is_correct": false }
+      ],
+      "answer": "Ball"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What should children learn while playing with partners?",
+      "options": [
+        { "option_id": 1, "text": "Fighting", "is_correct": false },
+        { "option_id": 2, "text": "Co-operation", "is_correct": true },
+        { "option_id": 3, "text": "Shouting", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Co-operation"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which posture is correct while writing?",
+      "options": [
+        { "option_id": 1, "text": "Bending too much", "is_correct": false },
+        { "option_id": 2, "text": "Sitting straight", "is_correct": true },
+        { "option_id": 3, "text": "Standing", "is_correct": false },
+        { "option_id": 4, "text": "Lying down", "is_correct": false }
+      ],
+      "answer": "Sitting straight"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which posture should we maintain while reading?",
+      "options": [
+        { "option_id": 1, "text": "Correct posture", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping posture", "is_correct": false },
+        { "option_id": 3, "text": "Bending posture", "is_correct": false },
+        { "option_id": 4, "text": "Lying posture", "is_correct": false }
+      ],
+      "answer": "Correct posture"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which posture is followed in March Past?",
+      "options": [
+        { "option_id": 1, "text": "Sleeping posture", "is_correct": false },
+        { "option_id": 2, "text": "Attention posture", "is_correct": true },
+        { "option_id": 3, "text": "Sitting posture", "is_correct": false },
+        { "option_id": 4, "text": "Lying posture", "is_correct": false }
+      ],
+      "answer": "Attention posture"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does 'Stand at ease' posture mean?",
+      "options": [
+        { "option_id": 1, "text": "Body tight", "is_correct": false },
+        { "option_id": 2, "text": "Body relaxed", "is_correct": true },
+        { "option_id": 3, "text": "Running posture", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping posture", "is_correct": false }
+      ],
+      "answer": "Body relaxed"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which movement helps children stay active?",
+      "options": [
+        { "option_id": 1, "text": "Sitting all day", "is_correct": false },
+        { "option_id": 2, "text": "Different body movements", "is_correct": true },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Watching TV", "is_correct": false }
+      ],
+      "answer": "Different body movements"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which movement involves kicking the ball forward?",
+      "options": [
+        { "option_id": 1, "text": "Passing the ball", "is_correct": false },
+        { "option_id": 2, "text": "Kicking the ball", "is_correct": true },
+        { "option_id": 3, "text": "Bouncing on wall", "is_correct": false },
+        { "option_id": 4, "text": "Twirl on heels", "is_correct": false }
+      ],
+      "answer": "Kicking the ball"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why should children follow correct body posture?",
+      "options": [
+        { "option_id": 1, "text": "To look funny", "is_correct": false },
+        { "option_id": 2, "text": "To stay healthy", "is_correct": true },
+        { "option_id": 3, "text": "To feel tired", "is_correct": false },
+        { "option_id": 4, "text": "To sleep more", "is_correct": false }
+      ],
+      "answer": "To stay healthy"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is forward bending?",
+      "answer": "Forward bending means bending the body towards the front."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name any two types of movements.",
+      "answer": "Forward bending and sideways bending."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is zigzag walk?",
+      "answer": "Zigzag walk is walking by moving left and right."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is Rabbit Jump?",
+      "answer": "Rabbit jump is jumping like a rabbit."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why are animal walks taught to children?",
+      "answer": "They help children exercise and enjoy movement."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name one movement using a ball.",
+      "answer": "Bouncing the ball."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why should children co-operate while playing?",
+      "answer": "Co-operation helps in teamwork and sharing."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is correct sitting posture?",
+      "answer": "Sitting straight with proper balance."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why is correct posture important while writing?",
+      "answer": "It keeps our body healthy."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is Attention posture?",
+      "answer": "Attention posture is standing straight and alert."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does Stand at ease posture mean?",
+      "answer": "It means standing in a relaxed position."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name one benefit of body movements.",
+      "answer": "They keep our body active."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which movement copies a duck?",
+      "answer": "Duck walk."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why should children practice movements safely?",
+      "answer": "To avoid injuries."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What should children learn from March Past?",
+      "answer": "Discipline and leadership."
+    }
+  ]
+}

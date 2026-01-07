@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.21",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "कोऽ कोऽ कोंबडा !"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कोंबडा कसा आवाज करतो?",
+      "options": [
+        { "option_id": 1, "text": "काव काव", "is_correct": false },
+        { "option_id": 2, "text": "कोऽ कोऽ", "is_correct": true },
+        { "option_id": 3, "text": "चिव चिव", "is_correct": false },
+        { "option_id": 4, "text": "मिठू मिठू", "is_correct": false }
+      ],
+      "answer": "कोऽ कोऽ"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कोंबड्याचा रंग कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "काळा आणि निळा", "is_correct": false },
+        { "option_id": 2, "text": "पांढरा नि तांबडा", "is_correct": true },
+        { "option_id": 3, "text": "हिरवा", "is_correct": false },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "पांढरा नि तांबडा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "छपरावर गेल्यावर कोंबड्याचे काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "पाय लंगडा झाला", "is_correct": true },
+        { "option_id": 2, "text": "पंख तुटले", "is_correct": false },
+        { "option_id": 3, "text": "तो उडून गेला", "is_correct": false },
+        { "option_id": 4, "text": "तो झोपला", "is_correct": false }
+      ],
+      "answer": "पाय लंगडा झाला"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "चिमणी काय खाते?",
+      "options": [
+        { "option_id": 1, "text": "खडे", "is_correct": false },
+        { "option_id": 2, "text": "दाणे", "is_correct": true },
+        { "option_id": 3, "text": "मासे", "is_correct": false },
+        { "option_id": 4, "text": "मांस", "is_correct": false }
+      ],
+      "answer": "दाणे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "घरट्यात कोण झुलते?",
+      "options": [
+        { "option_id": 1, "text": "कावळा", "is_correct": false },
+        { "option_id": 2, "text": "कोंबडा", "is_correct": false },
+        { "option_id": 3, "text": "चिऊताई राणी", "is_correct": true },
+        { "option_id": 4, "text": "पोपट", "is_correct": false }
+      ],
+      "answer": "चिऊताई राणी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कावळा कसा दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "काळा नि सावळा", "is_correct": true },
+        { "option_id": 2, "text": "गोरा", "is_correct": false },
+        { "option_id": 3, "text": "लाल", "is_correct": false },
+        { "option_id": 4, "text": "हिरवा", "is_correct": false }
+      ],
+      "answer": "काळा नि सावळा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "स्वतःला भोळा कोण म्हणतो?",
+      "options": [
+        { "option_id": 1, "text": "कोंबडा", "is_correct": false },
+        { "option_id": 2, "text": "पोपट", "is_correct": false },
+        { "option_id": 3, "text": "कावळा", "is_correct": true },
+        { "option_id": 4, "text": "चिमणी", "is_correct": false }
+      ],
+      "answer": "कावळा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कावळ्याचा डोळा कशावर असतो?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यावर", "is_correct": false },
+        { "option_id": 2, "text": "खाऊवर", "is_correct": true },
+        { "option_id": 3, "text": "घरट्यावर", "is_correct": false },
+        { "option_id": 4, "text": "झाडावर", "is_correct": false }
+      ],
+      "answer": "खाऊवर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मिठू मिठू कोण बोलतो?",
+      "options": [
+        { "option_id": 1, "text": "पोपट", "is_correct": true },
+        { "option_id": 2, "text": "कावळा", "is_correct": false },
+        { "option_id": 3, "text": "चिमणी", "is_correct": false },
+        { "option_id": 4, "text": "मोर", "is_correct": false }
+      ],
+      "answer": "पोपट"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पोपट काय खातो?",
+      "options": [
+        { "option_id": 1, "text": "मासे", "is_correct": false },
+        { "option_id": 2, "text": "कैरी", "is_correct": true },
+        { "option_id": 3, "text": "कीटक", "is_correct": false },
+        { "option_id": 4, "text": "गवत", "is_correct": false }
+      ],
+      "answer": "कैरी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पोपट कोठे लपतो?",
+      "options": [
+        { "option_id": 1, "text": "घरात", "is_correct": false },
+        { "option_id": 2, "text": "पानात", "is_correct": true },
+        { "option_id": 3, "text": "गुहेत", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यात", "is_correct": false }
+      ],
+      "answer": "पानात"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "चिमणीच्या कंठात काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "मणी", "is_correct": true },
+        { "option_id": 3, "text": "काटा", "is_correct": false },
+        { "option_id": 4, "text": "फूल", "is_correct": false }
+      ],
+      "answer": "मणी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पोपट कसा आवाज करतो?",
+      "options": [
+        { "option_id": 1, "text": "वटवट", "is_correct": true },
+        { "option_id": 2, "text": "कावकाव", "is_correct": false },
+        { "option_id": 3, "text": "चिवचिव", "is_correct": false },
+        { "option_id": 4, "text": "कुहूकुहू", "is_correct": false }
+      ],
+      "answer": "वटवट"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवितेत 'तांबडा' या शब्दाला यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "कोंबडा", "is_correct": true },
+        { "option_id": 2, "text": "चिमणी", "is_correct": false },
+        { "option_id": 3, "text": "पोपट", "is_correct": false },
+        { "option_id": 4, "text": "कावळा", "is_correct": false }
+      ],
+      "answer": "कोंबडा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "साने गुरुजी", "is_correct": false },
+        { "option_id": 2, "text": "रमेश चिल्ले", "is_correct": true },
+        { "option_id": 3, "text": "कुसुमाग्रज", "is_correct": false },
+        { "option_id": 4, "text": "बहिणाबाई", "is_correct": false }
+      ],
+      "answer": "रमेश चिल्ले"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कोंबडा कोठे गेला होता?",
+      "answer": "कोंबडा छपरावर गेला होता."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "चिमणी काय पिते?",
+      "answer": "चिमणी पाणी पिते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "चिमणीच्या चोचीत काय आहे?",
+      "answer": "चिमणीच्या चोचीत गाणी आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कावळा स्वतःला काय म्हणतो?",
+      "answer": "कावळा स्वतःला 'भोळा' म्हणतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पोपट कसा बोलतो?",
+      "answer": "पोपट 'मिठू मिठू' बोलतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कावळ्याचा रंग कोणता असतो?",
+      "answer": "कावळ्याचा रंग काळा असतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "चिमणी कसा आवाज करते?",
+      "answer": "चिमणी 'चिव चिव' असा आवाज करते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "'पाणी' या शब्दाला यमक जुळणारा शब्द कवितेतून शोधा.",
+      "answer": "पाणी - गाणी/राणी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कोंबडा कोणत्या रंगाचा आहे?",
+      "answer": "कोंबडा पांढरा आणि तांबडा रंगाचा आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पोपट काय करतो?",
+      "answer": "पोपट वटवट करतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "घरट्यात कोण झुलते?",
+      "answer": "घरट्यात चिऊताई राणी झुलते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कावळा कोणावर लक्ष ठेवून असतो?",
+      "answer": "कावळा खाऊवर लक्ष ठेवून असतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "'लंगडा' या शब्दाचा यमक जुळणारा शब्द कोणता?",
+      "answer": "लंगडा - कोंबडा/तांबडा."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पोपट कशात लपतो?",
+      "answer": "पोपट झाडाच्या पानात लपतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या कवितेत किती पक्ष्यांची नावे आली आहेत?",
+      "answer": "या कवितेत कोंबडा, चिमणी, कावळा आणि पोपट अशा ४ पक्ष्यांची नावे आली आहेत."
+    }
+  ]
+}

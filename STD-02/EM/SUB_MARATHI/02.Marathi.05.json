@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.05",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "फळांचा राजा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "नाशिकची द्राक्षे कशी आहेत?",
+      "options": [
+        { "option_id": 1, "text": "आंबट", "is_correct": false },
+        { "option_id": 2, "text": "गोड गोड", "is_correct": true },
+        { "option_id": 3, "text": "कडू", "is_correct": false },
+        { "option_id": 4, "text": "आंबूस", "is_correct": false }
+      ],
+      "answer": "गोड गोड"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "नागपूरच्या संत्र्याची चव कशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "आंबट", "is_correct": false },
+        { "option_id": 2, "text": "छानदार", "is_correct": true },
+        { "option_id": 3, "text": "कडू", "is_correct": false },
+        { "option_id": 4, "text": "फिकी", "is_correct": false }
+      ],
+      "answer": "छानदार"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वसईच्या केळ्यांचा मान कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "मोठा", "is_correct": true },
+        { "option_id": 3, "text": "कमी", "is_correct": false },
+        { "option_id": 4, "text": "थोडा", "is_correct": false }
+      ],
+      "answer": "मोठा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पनवेलचे कर्बुज कसे आहे?",
+      "options": [
+        { "option_id": 1, "text": "फिकट", "is_correct": false },
+        { "option_id": 2, "text": "लालबुंद", "is_correct": true },
+        { "option_id": 3, "text": "पिवळे", "is_correct": false },
+        { "option_id": 4, "text": "हिरवे", "is_correct": false }
+      ],
+      "answer": "लालबुंद"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अहमदाबादची बोरं कशी आहेत?",
+      "options": [
+        { "option_id": 1, "text": "कोरडी", "is_correct": false },
+        { "option_id": 2, "text": "हिरवीगार", "is_correct": true },
+        { "option_id": 3, "text": "पिकलेली", "is_correct": false },
+        { "option_id": 4, "text": "कडू", "is_correct": false }
+      ],
+      "answer": "हिरवीगार"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "‘फळांचा राजा’ कोणाला म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सफरचंद", "is_correct": false },
+        { "option_id": 2, "text": "आंबा", "is_correct": true },
+        { "option_id": 3, "text": "केळी", "is_correct": false },
+        { "option_id": 4, "text": "संत्रे", "is_correct": false }
+      ],
+      "answer": "आंबा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "या धड्यात काय वर्णन केले आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "फळे", "is_correct": true },
+        { "option_id": 3, "text": "खेळ", "is_correct": false },
+        { "option_id": 4, "text": "ऋतू", "is_correct": false }
+      ],
+      "answer": "फळे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवितेत फळांची नावे कशासाठी सांगितली आहेत?",
+      "options": [
+        { "option_id": 1, "text": "लिहिण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "ओळखण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "मोजण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "विकण्यासाठी", "is_correct": false }
+      ],
+      "answer": "ओळखण्यासाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        { "option_id": 1, "text": "कथा", "is_correct": false },
+        { "option_id": 2, "text": "कविता", "is_correct": true },
+        { "option_id": 3, "text": "निबंध", "is_correct": false },
+        { "option_id": 4, "text": "संवाद", "is_correct": false }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "फळे खाल्ल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "आजारी पडतो", "is_correct": false },
+        { "option_id": 2, "text": "आरोग्य चांगले राहते", "is_correct": true },
+        { "option_id": 3, "text": "थकवा येतो", "is_correct": false },
+        { "option_id": 4, "text": "आळस येतो", "is_correct": false }
+      ],
+      "answer": "आरोग्य चांगले राहते"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कवितेत किती ठिकाणांची नावे आली आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "चार", "is_correct": false },
+        { "option_id": 3, "text": "पाच", "is_correct": true },
+        { "option_id": 4, "text": "सहा", "is_correct": false }
+      ],
+      "answer": "पाच"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "फळांची नावे ऐकून काय वाटते?",
+      "options": [
+        { "option_id": 1, "text": "भीती", "is_correct": false },
+        { "option_id": 2, "text": "भूक", "is_correct": true },
+        { "option_id": 3, "text": "दुःख", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "भूक"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या धड्यातील फळे कशी आहेत?",
+      "options": [
+        { "option_id": 1, "text": "चविष्ट", "is_correct": true },
+        { "option_id": 2, "text": "कडू", "is_correct": false },
+        { "option_id": 3, "text": "कोरडी", "is_correct": false },
+        { "option_id": 4, "text": "कच्ची", "is_correct": false }
+      ],
+      "answer": "चविष्ट"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या धड्यातील मुख्य फळ कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "सफरचंद", "is_correct": false },
+        { "option_id": 2, "text": "आंबा", "is_correct": true },
+        { "option_id": 3, "text": "केळी", "is_correct": false },
+        { "option_id": 4, "text": "द्राक्षे", "is_correct": false }
+      ],
+      "answer": "आंबा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्यांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "लहान मुलांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "शेतकऱ्यांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "व्यापाऱ्यांसाठी", "is_correct": false }
+      ],
+      "answer": "लहान मुलांसाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "या धड्याचे नाव काय आहे?",
+      "answer": "या धड्याचे नाव ‘फळांचा राजा’ आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "नाशिक कोणत्या फळासाठी प्रसिद्ध आहे?",
+      "answer": "नाशिक द्राक्षांसाठी प्रसिद्ध आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "नागपूरचे कोणते फळ सांगितले आहे?",
+      "answer": "नागपूरची संत्री सांगितली आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "फळांचा राजा कोण आहे?",
+      "answer": "आंबा हा फळांचा राजा आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वसई कोणत्या फळासाठी ओळखले जाते?",
+      "answer": "वसई केळ्यांसाठी ओळखले जाते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "फळे खाणे का चांगले आहे?",
+      "answer": "फळे खाल्ल्याने शरीर निरोगी राहते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणकोणती फळे आली आहेत?",
+      "answer": "द्राक्षे, संत्री, केळी, कर्बुज आणि आंबा आली आहेत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पनवेलचे कोणते फळ सांगितले आहे?",
+      "answer": "पनवेलचे कर्बुज सांगितले आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "अहमदाबादची बोरं कशी आहेत?",
+      "answer": "अहमदाबादची बोरं हिरवीगार आहेत."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता विविध फळांबद्दल आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "फळांची नावे का सांगितली आहेत?",
+      "answer": "फळांची ओळख व्हावी म्हणून नावे सांगितली आहेत."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "फळे कोणासाठी उपयुक्त आहेत?",
+      "answer": "फळे सर्वांसाठी उपयुक्त आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "answer": "या धड्यातून फळांची नावे व महत्त्व शिकायला मिळते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मुलांनी फळे का खावी?",
+      "answer": "मुलांनी आरोग्यासाठी फळे खावी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या वर्गासाठी आहे?",
+      "answer": "हा धडा दुसरीच्या विद्यार्थ्यांसाठी आहे."
+    }
+  ]
+}

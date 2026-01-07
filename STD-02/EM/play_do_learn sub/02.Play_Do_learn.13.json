@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.13",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Singing"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In the rhyme, who were buddies together?",
+      "options": [
+        { "option_id": 1, "text": "Dogs and Cats", "is_correct": false },
+        { "option_id": 2, "text": "Cats and Rats", "is_correct": true },
+        { "option_id": 3, "text": "Birds and Bees", "is_correct": false },
+        { "option_id": 4, "text": "Lions and Tigers", "is_correct": false }
+      ],
+      "answer": "Cats and Rats"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What did the cat and rat bring back from their walk?",
+      "options": [
+        { "option_id": 1, "text": "Toys", "is_correct": false },
+        { "option_id": 2, "text": "Loads of fresh fruit", "is_correct": true },
+        { "option_id": 3, "text": "Books", "is_correct": false },
+        { "option_id": 4, "text": "Flowers", "is_correct": false }
+      ],
+      "answer": "Loads of fresh fruit"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who joined the cat and rat later?",
+      "options": [
+        { "option_id": 1, "text": "Sparrow and squirrel", "is_correct": true },
+        { "option_id": 2, "text": "Dog and Cow", "is_correct": false },
+        { "option_id": 3, "text": "Fish and Frog", "is_correct": false },
+        { "option_id": 4, "text": "Horse and Donkey", "is_correct": false }
+      ],
+      "answer": "Sparrow and squirrel"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which large fruit did everyone choose to eat?",
+      "options": [
+        { "option_id": 1, "text": "Apple", "is_correct": false },
+        { "option_id": 2, "text": "Banana", "is_correct": false },
+        { "option_id": 3, "text": "Water melon", "is_correct": true },
+        { "option_id": 4, "text": "Grape", "is_correct": false }
+      ],
+      "answer": "Water melon"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the message of the chorus song 'Each one plant one'?",
+      "options": [
+        { "option_id": 1, "text": "To cut trees", "is_correct": false },
+        { "option_id": 2, "text": "To make our planet green", "is_correct": true },
+        { "option_id": 3, "text": "To waste water", "is_correct": false },
+        { "option_id": 4, "text": "To sleep all day", "is_correct": false }
+      ],
+      "answer": "To make our planet green"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What helps to stop soil erosion according to the song?",
+      "options": [
+        { "option_id": 1, "text": "Building roads", "is_correct": false },
+        { "option_id": 2, "text": "Planting trees", "is_correct": true },
+        { "option_id": 3, "text": "Throwing garbage", "is_correct": false },
+        { "option_id": 4, "text": "Burning wood", "is_correct": false }
+      ],
+      "answer": "Planting trees"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How should garbage be managed?",
+      "options": [
+        { "option_id": 1, "text": "Throw it on the road", "is_correct": false },
+        { "option_id": 2, "text": "Burn it", "is_correct": false },
+        { "option_id": 3, "text": "Separate wet and dry waste", "is_correct": true },
+        { "option_id": 4, "text": "Keep it in the house", "is_correct": false }
+      ],
+      "answer": "Separate wet and dry waste"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What tune should the 'Each one plant one' song be sung to?",
+      "options": [
+        { "option_id": 1, "text": "Bits of Paper", "is_correct": true },
+        { "option_id": 2, "text": "Happy Birthday", "is_correct": false },
+        { "option_id": 3, "text": "Jingle Bells", "is_correct": false },
+        { "option_id": 4, "text": "Twinkle Twinkle", "is_correct": false }
+      ],
+      "answer": "Bits of Paper"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which musical note comes first?",
+      "options": [
+        { "option_id": 1, "text": "Re", "is_correct": false },
+        { "option_id": 2, "text": "Ga", "is_correct": false },
+        { "option_id": 3, "text": "Sa", "is_correct": true },
+        { "option_id": 4, "text": "Ma", "is_correct": false }
+      ],
+      "answer": "Sa"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which fruit is NOT mentioned in the rhyme 'Cats and Rats'?",
+      "options": [
+        { "option_id": 1, "text": "Berries", "is_correct": false },
+        { "option_id": 2, "text": "Mango", "is_correct": true },
+        { "option_id": 3, "text": "Oranges", "is_correct": false },
+        { "option_id": 4, "text": "Apples", "is_correct": false }
+      ],
+      "answer": "Mango"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How did the animals feel at the party?",
+      "options": [
+        { "option_id": 1, "text": "Sad", "is_correct": false },
+        { "option_id": 2, "text": "Merry", "is_correct": true },
+        { "option_id": 3, "text": "Angry", "is_correct": false },
+        { "option_id": 4, "text": "Tired", "is_correct": false }
+      ],
+      "answer": "Merry"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What makes our planet clean according to the song?",
+      "options": [
+        { "option_id": 1, "text": "Managing garbage", "is_correct": true },
+        { "option_id": 2, "text": "Cutting trees", "is_correct": false },
+        { "option_id": 3, "text": "Driving cars", "is_correct": false },
+        { "option_id": 4, "text": "Wasting food", "is_correct": false }
+      ],
+      "answer": "Managing garbage"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The sequence of musical notes starts with 'Sa re ga' and continues with ________.",
+      "options": [
+        { "option_id": 1, "text": "ma pa dha ni sa", "is_correct": true },
+        { "option_id": 2, "text": "pa dha ni sa ma", "is_correct": false },
+        { "option_id": 3, "text": "ni sa ga re ma", "is_correct": false },
+        { "option_id": 4, "text": "ma ni dha pa sa", "is_correct": false }
+      ],
+      "answer": "ma pa dha ni sa"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What should we use for wet waste?",
+      "options": [
+        { "option_id": 1, "text": "One bin", "is_correct": true },
+        { "option_id": 2, "text": "The floor", "is_correct": false },
+        { "option_id": 3, "text": "The river", "is_correct": false },
+        { "option_id": 4, "text": "The street", "is_correct": false }
+      ],
+      "answer": "One bin"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why did the animals rush home?",
+      "options": [
+        { "option_id": 1, "text": "Because it was raining", "is_correct": false },
+        { "option_id": 2, "text": "Because the party was over", "is_correct": true },
+        { "option_id": 3, "text": "Because they were scared", "is_correct": false },
+        { "option_id": 4, "text": "Because they were hungry", "is_correct": false }
+      ],
+      "answer": "Because the party was over"
+    }
+  ],
+  "questions_short": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What did the cats and rats wish for?",
+      "answer": "They wished their friendship lasted forever."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name three fruits mentioned in the rhyme.",
+      "answer": "Berries, oranges, and apples."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who joined the cat and rat to make it a get-together?",
+      "answer": "Sparrow and the squirrel."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the title of the Chorus Song?",
+      "answer": "Each one plant one."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the purpose of managing garbage?",
+      "answer": "To make our planet clean."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How should dry waste be handled?",
+      "answer": "It should be put in another bin (separate from wet waste)."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Write the first four musical notes.",
+      "answer": "Sa re ga ma."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What will make us happy to see in the city?",
+      "answer": "A clean city and a green city."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What did the animals do after the party was over?",
+      "answer": "They rushed home in a hurry."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What type of lemon is mentioned in the rhyme?",
+      "answer": "Sweet lemon."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What should we do to build every nation according to the song?",
+      "answer": "Fully stop soil erosion."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What are the children asked to do with the notes?",
+      "answer": "Make the children sing all the notes together."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the reverse sequence of 'Sa re ga ma pa dha ni sa'?",
+      "answer": "sa ni dha pa ma ga re sa."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What two things define a good city in the song?",
+      "answer": "Clean City and Green City."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Who went for a walk in the rhyme?",
+      "answer": "The cat and the rat went for a walk."
+    }
+  ]
+}

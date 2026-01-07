@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.2.2",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Three Questions"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the author of the story 'The Three Questions'?",
+      "options": [
+        { "option_id": 1, "text": "William Shakespeare", "is_correct": false },
+        { "option_id": 2, "text": "Leo Tolstoy", "is_correct": true },
+        { "option_id": 3, "text": "Charles Dickens", "is_correct": false },
+        { "option_id": 4, "text": "Ruskin Bond", "is_correct": false }
+      ],
+      "answer": "Leo Tolstoy"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is a parable?",
+      "options": [
+        { "option_id": 1, "text": "A long novel", "is_correct": false },
+        { "option_id": 2, "text": "A short story with a moral lesson", "is_correct": true },
+        { "option_id": 3, "text": "A poem about nature", "is_correct": false },
+        { "option_id": 4, "text": "A history book", "is_correct": false }
+      ],
+      "answer": "A short story with a moral lesson"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How many questions did the king want answers to?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": false },
+        { "option_id": 3, "text": "Three", "is_correct": true },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was the first question of the king?",
+      "options": [
+        { "option_id": 1, "text": "Who are the right people to listen to?", "is_correct": false },
+        { "option_id": 2, "text": "What is the right time to begin everything?", "is_correct": true },
+        { "option_id": 3, "text": "What is the most important thing to do?", "is_correct": false },
+        { "option_id": 4, "text": "Where is the hidden treasure?", "is_correct": false }
+      ],
+      "answer": "What is the right time to begin everything?"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What was the second question of the king?",
+      "options": [
+        { "option_id": 1, "text": "What is the most important occupation?", "is_correct": false },
+        { "option_id": 2, "text": "Who are the right people to listen to?", "is_correct": true },
+        { "option_id": 3, "text": "When should he go to war?", "is_correct": false },
+        { "option_id": 4, "text": "How to become rich?", "is_correct": false }
+      ],
+      "answer": "Who are the right people to listen to?"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What was the third question of the king?",
+      "options": [
+        { "option_id": 1, "text": "What is the most important thing to do?", "is_correct": true },
+        { "option_id": 2, "text": "Who is the wisest man?", "is_correct": false },
+        { "option_id": 3, "text": "Where to build a palace?", "is_correct": false },
+        { "option_id": 4, "text": "How to rule the kingdom?", "is_correct": false }
+      ],
+      "answer": "What is the most important thing to do?"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Whom did the king decide to visit for answers?",
+      "options": [
+        { "option_id": 1, "text": "A priest", "is_correct": false },
+        { "option_id": 2, "text": "A hermit", "is_correct": true },
+        { "option_id": 3, "text": "A magician", "is_correct": false },
+        { "option_id": 4, "text": "Another king", "is_correct": false }
+      ],
+      "answer": "A hermit"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where did the hermit live?",
+      "options": [
+        { "option_id": 1, "text": "In a palace", "is_correct": false },
+        { "option_id": 2, "text": "In a village", "is_correct": false },
+        { "option_id": 3, "text": "In a forest", "is_correct": true },
+        { "option_id": 4, "text": "On a mountain", "is_correct": false }
+      ],
+      "answer": "In a forest"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What was the hermit doing when the king arrived?",
+      "options": [
+        { "option_id": 1, "text": "Sleeping", "is_correct": false },
+        { "option_id": 2, "text": "Praying", "is_correct": false },
+        { "option_id": 3, "text": "Digging the ground", "is_correct": true },
+        { "option_id": 4, "text": "Eating", "is_correct": false }
+      ],
+      "answer": "Digging the ground"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How did the king dress when he went to see the hermit?",
+      "options": [
+        { "option_id": 1, "text": "In royal robes", "is_correct": false },
+        { "option_id": 2, "text": "In simple clothes", "is_correct": true },
+        { "option_id": 3, "text": "In armor", "is_correct": false },
+        { "option_id": 4, "text": "Like a soldier", "is_correct": false }
+      ],
+      "answer": "In simple clothes"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who came running out of the forest?",
+      "options": [
+        { "option_id": 1, "text": "A soldier", "is_correct": false },
+        { "option_id": 2, "text": "A bearded man", "is_correct": true },
+        { "option_id": 3, "text": "A lion", "is_correct": false },
+        { "option_id": 4, "text": "A messenger", "is_correct": false }
+      ],
+      "answer": "A bearded man"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where was the bearded man wounded?",
+      "options": [
+        { "option_id": 1, "text": "In his leg", "is_correct": false },
+        { "option_id": 2, "text": "In his arm", "is_correct": false },
+        { "option_id": 3, "text": "In his stomach", "is_correct": true },
+        { "option_id": 4, "text": "In his head", "is_correct": false }
+      ],
+      "answer": "In his stomach"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who wounded the bearded man?",
+      "options": [
+        { "option_id": 1, "text": "The hermit", "is_correct": false },
+        { "option_id": 2, "text": "The king's bodyguards", "is_correct": true },
+        { "option_id": 3, "text": "Robbers", "is_correct": false },
+        { "option_id": 4, "text": "A wild animal", "is_correct": false }
+      ],
+      "answer": "The king's bodyguards"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Why did the bearded man want to kill the king?",
+      "options": [
+        { "option_id": 1, "text": "To steal his money", "is_correct": false },
+        { "option_id": 2, "text": "For revenge", "is_correct": true },
+        { "option_id": 3, "text": "To become king", "is_correct": false },
+        { "option_id": 4, "text": "He was mad", "is_correct": false }
+      ],
+      "answer": "For revenge"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What had the king done to the bearded man's brother?",
+      "options": [
+        { "option_id": 1, "text": "Imprisoned him", "is_correct": false },
+        { "option_id": 2, "text": "Exiled him", "is_correct": false },
+        { "option_id": 3, "text": "Executed him", "is_correct": true },
+        { "option_id": 4, "text": "Rewarded him", "is_correct": false }
+      ],
+      "answer": "Executed him"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What did the king do for the wounded man?",
+      "options": [
+        { "option_id": 1, "text": "ignored him", "is_correct": false },
+        { "option_id": 2, "text": "Washed and bandaged his wound", "is_correct": true },
+        { "option_id": 3, "text": "Called a doctor", "is_correct": false },
+        { "option_id": 4, "text": "Killed him", "is_correct": false }
+      ],
+      "answer": "Washed and bandaged his wound"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What did the bearded man promise the king?",
+      "options": [
+        { "option_id": 1, "text": "To give him gold", "is_correct": false },
+        { "option_id": 2, "text": "To serve him as a slave", "is_correct": true },
+        { "option_id": 3, "text": "To leave the kingdom", "is_correct": false },
+        { "option_id": 4, "text": "To never fight again", "is_correct": false }
+      ],
+      "answer": "To serve him as a slave"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What was the answer to 'What is the most important time'?",
+      "options": [
+        { "option_id": 1, "text": "Tomorrow", "is_correct": false },
+        { "option_id": 2, "text": "Yesterday", "is_correct": false },
+        { "option_id": 3, "text": "Now", "is_correct": true },
+        { "option_id": 4, "text": "Next week", "is_correct": false }
+      ],
+      "answer": "Now"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who is the most important person according to the hermit?",
+      "options": [
+        { "option_id": 1, "text": "The King", "is_correct": false },
+        { "option_id": 2, "text": "The one you are with", "is_correct": true },
+        { "option_id": 3, "text": "Your parents", "is_correct": false },
+        { "option_id": 4, "text": "Your teacher", "is_correct": false }
+      ],
+      "answer": "The one you are with"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the most important thing to do?",
+      "options": [
+        { "option_id": 1, "text": "To make money", "is_correct": false },
+        { "option_id": 2, "text": "To do good to the person you are with", "is_correct": true },
+        { "option_id": 3, "text": "To win wars", "is_correct": false },
+        { "option_id": 4, "text": "To sleep", "is_correct": false }
+      ],
+      "answer": "To do good to the person you are with"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The synonym of 'convinced' is ________.",
+      "options": [
+        { "option_id": 1, "text": "Happy", "is_correct": false },
+        { "option_id": 2, "text": "Persuaded", "is_correct": true },
+        { "option_id": 3, "text": "Unhappy", "is_correct": false },
+        { "option_id": 4, "text": "Angry", "is_correct": false }
+      ],
+      "answer": "Persuaded"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The word 'varied' means ________.",
+      "options": [
+        { "option_id": 1, "text": "Different", "is_correct": true },
+        { "option_id": 2, "text": "Unnecessary", "is_correct": false },
+        { "option_id": 3, "text": "Unequal", "is_correct": false },
+        { "option_id": 4, "text": "Unimportant", "is_correct": false }
+      ],
+      "answer": "Different"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "An adverb that collocates with 'breathed' is ________.",
+      "options": [
+        { "option_id": 1, "text": "Hurriedly", "is_correct": false },
+        { "option_id": 2, "text": "Heavily", "is_correct": true },
+        { "option_id": 3, "text": "Hardly", "is_correct": false },
+        { "option_id": 4, "text": "Calmly", "is_correct": false }
+      ],
+      "answer": "Heavily"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is a 'Principle'?",
+      "options": [
+        { "option_id": 1, "text": "A short witty remark", "is_correct": false },
+        { "option_id": 2, "text": "A rule to govern one's behaviour", "is_correct": true },
+        { "option_id": 3, "text": "A popular truth", "is_correct": false },
+        { "option_id": 4, "text": "A slogan", "is_correct": false }
+      ],
+      "answer": "A rule to govern one's behaviour"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is a 'Proverb'?",
+      "options": [
+        { "option_id": 1, "text": "A popular, well-known truth", "is_correct": true },
+        { "option_id": 2, "text": "A quote", "is_correct": false },
+        { "option_id": 3, "text": "A rule", "is_correct": false },
+        { "option_id": 4, "text": "A story", "is_correct": false }
+      ],
+      "answer": "A popular, well-known truth"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The hermit was known for his ________.",
+      "options": [
+        { "option_id": 1, "text": "Wealth", "is_correct": false },
+        { "option_id": 2, "text": "Wisdom", "is_correct": true },
+        { "option_id": 3, "text": "Strength", "is_correct": false },
+        { "option_id": 4, "text": "Cruelty", "is_correct": false }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What did the king promise to anyone who answered his questions?",
+      "options": [
+        { "option_id": 1, "text": "A palace", "is_correct": false },
+        { "option_id": 2, "text": "A great reward", "is_correct": true },
+        { "option_id": 3, "text": "A horse", "is_correct": false },
+        { "option_id": 4, "text": "Marriage to his daughter", "is_correct": false }
+      ],
+      "answer": "A great reward"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What does 'ambush' mean?",
+      "options": [
+        { "option_id": 1, "text": "A bush in the forest", "is_correct": false },
+        { "option_id": 2, "text": "A place of hiding before attack", "is_correct": true },
+        { "option_id": 3, "text": "A type of weapon", "is_correct": false },
+        { "option_id": 4, "text": "A medical kit", "is_correct": false }
+      ],
+      "answer": "A place of hiding before attack"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What does 'frail' mean?",
+      "options": [
+        { "option_id": 1, "text": "Strong", "is_correct": false },
+        { "option_id": 2, "text": "Delicate/Weak", "is_correct": true },
+        { "option_id": 3, "text": "Smart", "is_correct": false },
+        { "option_id": 4, "text": "Tall", "is_correct": false }
+      ],
+      "answer": "Delicate/Weak"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What does 'proclamation' mean?",
+      "options": [
+        { "option_id": 1, "text": "A secret", "is_correct": false },
+        { "option_id": 2, "text": "An official announcement", "is_correct": true },
+        { "option_id": 3, "text": "A whisper", "is_correct": false },
+        { "option_id": 4, "text": "A lie", "is_correct": false }
+      ],
+      "answer": "An official announcement"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who did the hermit speak to?",
+      "options": [
+        { "option_id": 1, "text": "Only kings", "is_correct": false },
+        { "option_id": 2, "text": "Only common folk", "is_correct": true },
+        { "option_id": 3, "text": "Everyone", "is_correct": false },
+        { "option_id": 4, "text": "No one", "is_correct": false }
+      ],
+      "answer": "Only common folk"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why did the king help the hermit dig?",
+      "options": [
+        { "option_id": 1, "text": "He was bored", "is_correct": false },
+        { "option_id": 2, "text": "He felt sorry for the frail hermit", "is_correct": true },
+        { "option_id": 3, "text": "The hermit paid him", "is_correct": false },
+        { "option_id": 4, "text": "He wanted to learn farming", "is_correct": false }
+      ],
+      "answer": "He felt sorry for the frail hermit"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What did the king use to bandage the wound?",
+      "options": [
+        { "option_id": 1, "text": "His handkerchief and a towel", "is_correct": true },
+        { "option_id": 2, "text": "Leaves", "is_correct": false },
+        { "option_id": 3, "text": "A piece of his robe", "is_correct": false },
+        { "option_id": 4, "text": "Paper", "is_correct": false }
+      ],
+      "answer": "His handkerchief and a towel"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "When did the wounded man ask for forgiveness?",
+      "options": [
+        { "option_id": 1, "text": "Immediately", "is_correct": false },
+        { "option_id": 2, "text": "When he saw the king awake", "is_correct": true },
+        { "option_id": 3, "text": "Before dying", "is_correct": false },
+        { "option_id": 4, "text": "He never asked", "is_correct": false }
+      ],
+      "answer": "When he saw the king awake"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Did the king give the reward to the learned men?",
+      "options": [
+        { "option_id": 1, "text": "Yes, to all", "is_correct": false },
+        { "option_id": 2, "text": "No, to none", "is_correct": true },
+        { "option_id": 3, "text": "Only to one", "is_correct": false },
+        { "option_id": 4, "text": "He gave half reward", "is_correct": false }
+      ],
+      "answer": "No, to none"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What was the hermit doing when the king left?",
+      "options": [
+        { "option_id": 1, "text": "Sleeping", "is_correct": false },
+        { "option_id": 2, "text": "Sowing seeds", "is_correct": true },
+        { "option_id": 3, "text": "Eating", "is_correct": false },
+        { "option_id": 4, "text": "Praying", "is_correct": false }
+      ],
+      "answer": "Sowing seeds"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What does 'intently' mean?",
+      "options": [
+        { "option_id": 1, "text": "Lazily", "is_correct": false },
+        { "option_id": 2, "text": "Attentively/Eagerly", "is_correct": true },
+        { "option_id": 3, "text": "Sadly", "is_correct": false },
+        { "option_id": 4, "text": "Angrily", "is_correct": false }
+      ],
+      "answer": "Attentively/Eagerly"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is the synonym for 'fainted' used in the text?",
+      "options": [
+        { "option_id": 1, "text": "Slept", "is_correct": false },
+        { "option_id": 2, "text": "Lost consciousness", "is_correct": true },
+        { "option_id": 3, "text": "Died", "is_correct": false },
+        { "option_id": 4, "text": "Fell", "is_correct": false }
+      ],
+      "answer": "Lost consciousness"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The king made peace with his ________.",
+      "options": [
+        { "option_id": 1, "text": "Brother", "is_correct": false },
+        { "option_id": 2, "text": "Enemy", "is_correct": true },
+        { "option_id": 3, "text": "Wife", "is_correct": false },
+        { "option_id": 4, "text": "Son", "is_correct": false }
+      ],
+      "answer": "Enemy"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The king promised to send his own ________ to attend the wounded man.",
+      "options": [
+        { "option_id": 1, "text": "Soldiers", "is_correct": false },
+        { "option_id": 2, "text": "Physician", "is_correct": true },
+        { "option_id": 3, "text": "Servants", "is_correct": false },
+        { "option_id": 4, "text": "Cooks", "is_correct": false }
+      ],
+      "answer": "Physician"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What does 'crouching' mean?",
+      "options": [
+        { "option_id": 1, "text": "Standing straight", "is_correct": false },
+        { "option_id": 2, "text": "Bending", "is_correct": true },
+        { "option_id": 3, "text": "Running", "is_correct": false },
+        { "option_id": 4, "text": "Jumping", "is_correct": false }
+      ],
+      "answer": "Bending"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Why is 'now' the most important time?",
+      "options": [
+        { "option_id": 1, "text": "It is fun", "is_correct": false },
+        { "option_id": 2, "text": "It is the only time we have any power", "is_correct": true },
+        { "option_id": 3, "text": "It is short", "is_correct": false },
+        { "option_id": 4, "text": "It is easy", "is_correct": false }
+      ],
+      "answer": "It is the only time we have any power"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "The most necessary person is ________.",
+      "options": [
+        { "option_id": 1, "text": "The king", "is_correct": false },
+        { "option_id": 2, "text": "The one with whom you are", "is_correct": true },
+        { "option_id": 3, "text": "The wisest man", "is_correct": false },
+        { "option_id": 4, "text": "Your enemy", "is_correct": false }
+      ],
+      "answer": "The one with whom you are"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "For what purpose alone were we sent into this life?",
+      "options": [
+        { "option_id": 1, "text": "To make money", "is_correct": false },
+        { "option_id": 2, "text": "To do good to others", "is_correct": true },
+        { "option_id": 3, "text": "To travel", "is_correct": false },
+        { "option_id": 4, "text": "To sleep", "is_correct": false }
+      ],
+      "answer": "To do good to others"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Leo Tolstoy is a ________ writer.",
+      "options": [
+        { "option_id": 1, "text": "Russian", "is_correct": true },
+        { "option_id": 2, "text": "English", "is_correct": false },
+        { "option_id": 3, "text": "French", "is_correct": false },
+        { "option_id": 4, "text": "American", "is_correct": false }
+      ],
+      "answer": "Russian"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What type of narration is used in the story?",
+      "options": [
+        { "option_id": 1, "text": "First person", "is_correct": false },
+        { "option_id": 2, "text": "Third person", "is_correct": true },
+        { "option_id": 3, "text": "Second person", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Third person"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "The king left his ________ behind before meeting the hermit.",
+      "options": [
+        { "option_id": 1, "text": "Crown", "is_correct": false },
+        { "option_id": 2, "text": "Bodyguard", "is_correct": true },
+        { "option_id": 3, "text": "Horse only", "is_correct": false },
+        { "option_id": 4, "text": "Sword", "is_correct": false }
+      ],
+      "answer": "Bodyguard"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What did the king do when the hermit breathed heavily?",
+      "options": [
+        { "option_id": 1, "text": "Laughed", "is_correct": false },
+        { "option_id": 2, "text": "Took the spade to dig", "is_correct": true },
+        { "option_id": 3, "text": "Left", "is_correct": false },
+        { "option_id": 4, "text": "Ordered servants to help", "is_correct": false }
+      ],
+      "answer": "Took the spade to dig"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The wounded man revived and asked for ________.",
+      "options": [
+        { "option_id": 1, "text": "Food", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": true },
+        { "option_id": 3, "text": "Help", "is_correct": false },
+        { "option_id": 4, "text": "Money", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The moral of the story is about ________.",
+      "options": [
+        { "option_id": 1, "text": "Living in the present and kindness", "is_correct": true },
+        { "option_id": 2, "text": "How to fight wars", "is_correct": false },
+        { "option_id": 3, "text": "Becoming rich", "is_correct": false },
+        { "option_id": 4, "text": "Traveling", "is_correct": false }
+      ],
+      "answer": "Living in the present and kindness"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why did the king want to know the answers to the three questions?",
+      "answer": "The king believed that if he knew the answers, he would never fail in anything he undertook."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What was the king's first question?",
+      "answer": "What is the right time to begin everything?"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What was the king's second question?",
+      "answer": "Who were the right people to listen to and whom to avoid?"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What was the king's third question?",
+      "answer": "What was the most important thing to undertake?"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How did the king try to find the answers initially?",
+      "answer": "He made a proclamation offering a great reward to anyone who could answer his questions."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What answers did the learned men give for the first question regarding time?",
+      "answer": "Some suggested a timetable, others said one should attend to everything, and some suggested a council of wise men."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What answers were given for the second question regarding necessary people?",
+      "answer": "Some said councillors, others priests, doctors, or warriors were the most necessary."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What were the answers for the third question regarding important occupation?",
+      "answer": "Science, skill in warfare, and religious worship were suggested as the most important things."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Did the king accept any of the answers from the learned men?",
+      "answer": "No, the king was not convinced by any of the answers."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why did the king decide to visit the hermit?",
+      "answer": "Because the hermit was widely renowned for his wisdom."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why did the king wear simple clothes to visit the hermit?",
+      "answer": "Because the hermit spoke only to common folk."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What was the hermit doing when the king approached him?",
+      "answer": "The hermit was digging the ground in front of his hut."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Describe the physical condition of the hermit.",
+      "answer": "The hermit was frail and weak, breathing heavily as he worked."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How did the hermit react to the king's questions initially?",
+      "answer": "He listened but said nothing and continued digging."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What did the king do when he saw the hermit tired?",
+      "answer": "The king took the spade from the hermit and started digging for him."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Who interrupted the king and the hermit?",
+      "answer": "A bearded man running out of the forest interrupted them."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What was wrong with the bearded man?",
+      "answer": "He had a large wound in his stomach and was bleeding profusely."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How did the king treat the wounded man?",
+      "answer": "The king washed and bandaged the wound repeatedly until the bleeding stopped."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Where did the king and hermit take the wounded man?",
+      "answer": "They carried him into the hut."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why was the king tired?",
+      "answer": "The king was tired from his walk and the work of digging the beds."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What did the bearded man say when he saw the king awake?",
+      "answer": "He asked for the king's forgiveness."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why did the bearded man want revenge on the king?",
+      "answer": "Because the king had executed his brother and seized his property."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What was the bearded man's plan?",
+      "answer": "To ambush and kill the king on his way back from the hermit."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How was the bearded man wounded?",
+      "answer": "He was recognized and wounded by the king's bodyguards."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why did the bearded man vow to serve the king?",
+      "answer": "Because the king saved his life despite him being an enemy."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How did the king respond to the man's confession?",
+      "answer": "The king forgave him, promised to return his property, and send a physician."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What was the hermit doing when the king went to leave?",
+      "answer": "He was sowing seeds in the beds dug the day before."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "According to the hermit, what was the most important time?",
+      "answer": "The most important time was when the king was digging the beds."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Who was the most important man when the king was digging?",
+      "answer": "The hermit was the most important man."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What was the most important business when the king was digging?",
+      "answer": "To do the hermit good was the most important business."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What would have happened if the king hadn't stayed?",
+      "answer": "The enemy would have attacked him on his way back."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What was the most important time regarding the wounded man?",
+      "answer": "When the king was attending to him."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Who was the most important person regarding the wounded man?",
+      "answer": "The wounded man was the most important person."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What was the most important business regarding the wounded man?",
+      "answer": "To save his life (what the king did for him)."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the general answer to 'the right time'?",
+      "answer": "The only important time is 'Now'."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is 'Now' the most important time?",
+      "answer": "Because it is the only time when we have any power."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the general answer to 'the most necessary person'?",
+      "answer": "The person you are with at the moment."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is the general answer to 'the most important thing'?",
+      "answer": "To do good to the person you are with."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the purpose of being sent into this life?",
+      "answer": "To do good to others."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Identify the character trait: The king dug beds for the hermit.",
+      "answer": "Helpful / Kind."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Identify the character trait: The hermit did not answer immediately.",
+      "answer": "Wise / Patient."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Identify the character trait: The enemy asked for forgiveness.",
+      "answer": "Repentant."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is a 'Principles'?",
+      "answer": "A rule to govern one's behaviour."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is a 'Quotation'?",
+      "answer": "Words cited from a speech/text of a famous person."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is a 'Moral'?",
+      "answer": "A lesson derived from a story or experience."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is an 'Idiom'?",
+      "answer": "Established expressions which do not convey exactly the same as individual words."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What are 'Slogans'?",
+      "answer": "Short striking messages for the public."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What are 'One-liners'?",
+      "answer": "A short witty remark stating truth."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What are 'Maxims'?",
+      "answer": "A generally accepted, evident truth."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What does 'unfastened' mean?",
+      "answer": "Opened or undid (clothing/buttons)."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Explain why the king wanted to know the answers to the three questions and how he initially tried to find them.",
+      "answer": "The king believed that if he knew the right time for every action, the right people to listen to, and the most important thing to do, he would never fail in any undertaking. To find these answers, he made a proclamation throughout his kingdom, promising a large reward to anyone who could teach him these things. Many learned men came and offered various conflicting answers, none of which satisfied the king."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Describe the different answers the learned men gave to the king's first question about the right time.",
+      "answer": "For the first question regarding the right time for every action, the answers were varied. Some suggested drawing up a strict table of days, months, and years. Others argued it was impossible to decide beforehand and one should just attend to current events. Some believed the king needed a council of wise men to help fix the proper time, while others pointed out that some things require immediate decisions and one would need to know the future, perhaps through magicians."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "What were the various answers given to the second and third questions by the learned men?",
+      "answer": "For the second question about the most necessary people, opinions differed greatly; some said councillors, others said priests, doctors, or warriors were the most important. For the third question about the most important occupation, the answers were equally varied, with suggestions ranging from science and skill in warfare to religious worship. The diversity of these answers left the king unconvinced."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Why did the king decide to go to the hermit, and how did he approach him?",
+      "answer": "Since the king was dissatisfied with the answers from the learned men, he decided to consult a hermit known for his wisdom. The hermit lived in a forest and only met common people. Therefore, the king disguised himself in simple clothes, left his horse and bodyguards behind, and walked alone to the hermit's hut to seek his advice as a common man."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Describe the scene when the king first met the hermit.",
+      "answer": "When the king arrived, the hermit was digging the ground in front of his hut. The hermit was frail and weak, breathing heavily with each spade stroke. He greeted the king but continued his work. The king asked his three questions, but the hermit listened silently and resumed digging, ignoring the questions for the time being."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "How did the king help the hermit, and what happened during that time?",
+      "answer": "Seeing the hermit tired, the king offered to dig for him. The hermit accepted and sat down. The king dug for a long time, repeating his questions after digging two beds. The hermit still didn't answer but asked for the spade back. The king refused and continued digging until sunset. This delay kept the king at the hut, preventing him from returning home where his enemy was waiting."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Describe the arrival and condition of the wounded man.",
+      "answer": "Just as the king was about to leave, a bearded man came running from the forest. He was holding his hands against his stomach, from which blood was flowing profusely. He reached the king and fainted, moaning feebly. He had a large wound in his stomach, inflicted by the king's bodyguards."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "How did the king and hermit treat the wounded man?",
+      "answer": "The king and the hermit unfastened the man's clothing to reveal the wound. The king washed it as best as he could and bandaged it with his handkerchief and the hermit's towel. When the blood soaked through, he re-washed and re-bandaged it until the bleeding stopped. They then gave him water and carried him inside the hut to rest."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "What was the bearded man's intention, and why did he change his mind?",
+      "answer": "The bearded man intended to kill the king as revenge for the king executing his brother and seizing his property. He ambushed the king's path but was wounded by the bodyguards. He escaped but would have died if the king hadn't treated his wound. The king's act of saving his life transformed his hatred into gratitude, leading him to pledge servitude to the king."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Explain the reconciliation between the king and the bearded man.",
+      "answer": "The next morning, the bearded man confessed his identity and intent to the king, asking for forgiveness. The king was moved that he had made peace with an enemy so easily. He forgave the man, promised to restore his property, and offered his own physician and servants to attend to him. This marked a complete reconciliation."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "How did the hermit finally answer the king's questions based on the events?",
+      "answer": "The hermit explained that the answers were in the events themselves. The most important time is 'Now' because it's the only time we have power. The most necessary person is the one you are with at the moment. The most important act is to do that person good. He illustrated this with the king digging (saving him from the ambush) and helping the wounded man (making peace)."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Elaborate on the hermit's explanation regarding the first scenario (digging the beds).",
+      "answer": "The hermit pointed out that if the king hadn't pitied his weakness and stayed to dig, he would have returned early and been killed by the enemy. Therefore, the most important time was when he was digging. The hermit was the most important person at that moment, and doing him good (helping him dig) was the king's most important business."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Elaborate on the hermit's explanation regarding the second scenario (the wounded man).",
+      "answer": "The hermit explained that later, the most important time was when the king was attending to the wounded man. If he hadn't, the man would have died without making peace. Thus, the wounded man was the most important person, and saving his life was the most important business. This reinforced the lesson of attending to the present need."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "Discuss the moral of the story 'The Three Questions'.",
+      "answer": "The story teaches that we should focus on the present moment ('Now'), as it is the only time we can act. We should prioritize the person we are currently with, as the future is uncertain. Our primary purpose in life is to do good to others. This philosophy promotes kindness, mindfulness, and practical wisdom over abstract planning."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Compare the king's character at the beginning and the end of the story.",
+      "answer": "At the beginning, the king is anxious about failure and seeks absolute answers to control his future success. He relies on external wisdom. By the end, he demonstrates humility (working for the hermit) and compassion (saving the enemy). He learns that true wisdom lies in action and kindness in the present moment, evolving into a wiser and more peaceful ruler."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Why do you think the hermit didn't answer the king immediately?",
+      "answer": "The hermit likely wanted the king to learn the answers through experience rather than just words. By staying silent, he allowed the events to unfold—the king digging and the arrival of the wounded man. These events provided a practical demonstration of the answers, making the lesson profound and unforgettable for the king."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "What role does forgiveness play in the story?",
+      "answer": "Forgiveness is central to the subplot of the enemy. The king unknowingly saves his enemy, and upon learning the truth, forgives him without hesitation. This act turns an enemy into a loyal servant and brings peace. It highlights that compassion and forgiveness can resolve conflicts better than violence, reinforcing the theme of doing good."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "How does the setting of the story contribute to its theme?",
+      "answer": "The setting is a simple hut in a forest, away from the palace's luxury. This stripping away of royal trappings allows the king to be just a man. It emphasizes simplicity and basic human connection. The quiet forest allows for the unfolding of significant events like the digging and the ambush, creating a space for learning life's essential truths."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "Analyze the character of the hermit.",
+      "answer": "The hermit is portrayed as frail but wise. He is a man of few words but deep understanding. He lives simply and interacts only with commoners, showing humility. His method of teaching is practical and experiential. He is observant and patient, guiding the king to self-realization rather than giving direct lectures."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Discuss the irony in the king's interaction with the bearded man.",
+      "answer": "The irony lies in the fact that the king saves the life of the very man who came to kill him. The king acts out of pure humanity, unaware of the man's identity. The man, intending murder, ends up owing his life to his target. This twist of fate, driven by the king's delay at the hermit's, turns a potential tragedy into a reconciliation."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "What is the significance of the spade in the story?",
+      "answer": "The spade serves as a tool that connects the king and the hermit. By taking the spade, the king shows humility and kindness. The act of digging keeps him at the hut, saving him from the ambush. Thus, the spade becomes an instrument of fate, facilitating the events that lead to the answers the king sought."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "How does the story illustrate the proverb 'Patience is bitter, but its fruit is sweet'?",
+      "answer": "The king had to wait patiently for the hermit to answer, enduring hard labour and the passage of time. This waiting (patience) felt fruitless initially. However, because he waited, his life was saved, and he gained a friend and the wisdom he sought. The 'sweet fruit' was his survival, peace, and enlightenment."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "What does the story suggest about planning for the future vs living in the present?",
+      "answer": "The learned men suggested complex planning for the future (timetables, councils). The story refutes this, showing that the future is unpredictable (the ambush). Instead, it champions living in the present ('Now'). Attending to the immediate task (digging) and the person at hand (hermit, wounded man) proved to be the correct path."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "Write a character sketch of the bearded man.",
+      "answer": "The bearded man is vengeful and determined, plotting to kill the king for his brother's execution. He is patient, waiting in ambush. However, he is also capable of change. When the king saves him, he is honest in his confession and grateful. He possesses a sense of honor, pledging his loyalty and life to the man who saved him."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "Explain the title 'Three Questions' and its relevance.",
+      "answer": "The title directly refers to the three philosophical queries that drive the plot: the right time, the right people, and the right action. The entire narrative is structured around finding the answers to these. The resolution provides the answers, making the title a concise summary of the story's core theme and purpose."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "How does the story emphasize the value of kindness?",
+      "answer": "Kindness is the catalyst for all positive outcomes in the story. The king's kindness to the hermit keeps him safe. His kindness to the wounded man turns an enemy into a friend. The hermit explicitly states that we are sent into life 'for that purpose alone'—to do good. Kindness is portrayed as the ultimate wisdom."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "Analyze the role of 'Fate' or 'Destiny' in the story.",
+      "answer": "Fate plays a subtle role. It was fate that the king stayed to dig, avoiding the ambush. It was fate that the wounded man ran to the hermitage. However, the story emphasizes that while we cannot control fate (the future), we can control our actions in the present (doing good), which ultimately shapes a positive destiny."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "Contrast the advice of the learned men with the wisdom of the hermit.",
+      "answer": "The learned men offered theoretical, rigid, and conflicting advice based on rules, schedules, and defined roles (priests, warriors). It was impractical. The hermit offered practical, flexible wisdom based on the immediate reality and human connection. His advice was universal and applicable to any situation, unlike the specific but flawed advice of the scholars."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "What might have happened if the king had followed the advice of the learned men?",
+      "answer": "If he followed a strict timetable, he might have left the hermit early and been killed. If he relied on a council, they wouldn't have been there to advise him on the wounded man. Following the learned men's advice would have likely led to his death or a failure to resolve the immediate crisis with humanity."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "Why is the hermit's answer considered 'reward winning'?",
+      "answer": "The answers are 'reward winning' because they are profound, timeless, and universally true. They provide a practical guide for living a good and successful life. Unlike the specific answers of the scholars, the hermit's wisdom brings peace, safety, and moral clarity, which is more valuable than any material reward the king could offer."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "Describe the king's transformation from a ruler to a caretaker.",
+      "answer": "The king starts as a ruler seeking knowledge for success. At the hermitage, he sheds his royal status to become a labourer (digging). When the wounded man arrives, he becomes a healer and caretaker, washing blood and giving water. This shift from demanding answers to serving others demonstrates his growth into a truly noble human being."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "What is the significance of the sun setting in the story?",
+      "answer": "The setting sun marks the passage of time, emphasizing the king's patience. It also signals the end of the day's labour and the transition to the dramatic event of the wounded man's arrival. It creates a sense of urgency for the king to get his answers before leaving, pushing the narrative towards its climax."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "How does the story define 'Wisdom'?",
+      "answer": "Wisdom is defined not as bookish knowledge or predicting the future, but as the ability to respond correctly to the present moment. It involves mindfulness, compassion, and adaptability. True wisdom is understanding that the present is the only reality and that kindness is the highest duty."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "Why did the king agree to the hermit's request 'Now rest a while and let me work a bit'?",
+      "answer": "The text says the king *did not* give him the spade and continued to dig. This shows the king's persistence and perhaps his desire to help the frail hermit further. It also reflects his desperation to get an answer, hoping that by staying longer and helping, he would oblige the hermit to speak."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Discuss the theme of 'Universal Brotherhood' in the story.",
+      "answer": "The story promotes universal brotherhood by showing the king caring for a stranger who turns out to be an enemy. The distinction between friend and foe dissolves in the face of suffering. The hermit treats the king like a common man. The narrative suggests that at a fundamental level, we are all connected and responsible for each other's well-being."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "How does the story challenge the concept of 'Enemies'?",
+      "answer": "The story challenges the permanence of enmity. The 'enemy' is just a man with a grievance. When treated with kindness, his hatred evaporates. It suggests that enmity is often situational and can be overcome by acts of humanity. The king's 'enemy' becomes his most loyal 'friend', showing that relationships are fluid and transformable."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "What does the story imply about the nature of Power?",
+      "answer": "The story implies that true power lies in the present moment ('the only time when we have any power'). Political power (being a king) couldn't save him from the ambush or give him answers. The real power he exercised was the power to act compassionately in the 'now', which saved his life and won him a friend."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "Why did the hermit speak only to common folk?",
+      "answer": "This suggests the hermit valued simplicity and humility. He likely found the pomp and pretense of the court distracting or superficial. Dealing with common people kept him grounded in the realities of daily life, which is the source of his practical wisdom. It forced the king to shed his ego to approach him."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "Identify the climax of the story and explain why.",
+      "answer": "The climax is the arrival of the wounded man. This event interrupts the king's quest and forces him into immediate action. It creates the life-or-death situation that becomes the practical lesson for the king's questions. It brings the hidden threat (the enemy) into the open and resolves the tension through the king's actions."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "How is the medical treatment described in the story?",
+      "answer": "The medical treatment is basic and immediate. The king uses water to wash the wound and simple cloth (handkerchief, towel) to bandage it. It emphasizes care and persistence ('washed and rebandaged') over medical expertise. It shows that immediate, attentive care is the essence of saving a life."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "What is the significance of the king sleeping on the threshold?",
+      "answer": "The king sleeping on the threshold (or floor) signifies his complete humility and exhaustion. He has let go of his royal comfort. It physically places him on the same level as the hermit and the common man. It marks a moment of vulnerability and equality."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "Interpret the hermit's statement: 'You have already been answered!'",
+      "answer": "This statement is a revelation. It means the answers were not theoretical concepts to be spoken, but practical truths already lived by the king in the last few hours. The hermit points out that the king's actions—waiting, digging, helping—were the answers in practice. Experience was the teacher."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "How does the story advocate for 'Selflessness'?",
+      "answer": "Selflessness is advocated through the king's actions. He digs for the hermit not for himself, but to help. He tends to the wounded man without knowing him. These selfless acts result in the best outcomes (safety, peace). The story concludes that our purpose is to do good to others, placing selflessness as the highest virtue."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "What is the narrative style of the story?",
+      "answer": "The story is a parable narrated in the third person. It has a simple, fable-like quality with a clear moral structure. The language is straightforward. It uses a question-and-answer format to drive the plot. The pacing is slow and deliberate, mirroring the patience required of the king."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "Why is the hermit described as 'frail and weak'?",
+      "answer": "Describing the hermit as frail highlights his physical vulnerability contrasting with his mental strength (wisdom). It also serves a plot function: his weakness prompts the king to take the spade and dig, which keeps the king at the hut. It evokes empathy in the king, setting the stage for his acts of kindness."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "How does the story explore the concept of 'Duty'?",
+      "answer": "The story shifts the concept of duty from grand political strategies to immediate human interactions. The king's 'duty' was not to follow a timetable or council, but to help the tired hermit and the dying man. Duty is defined as responding compassionately to the needs of the present moment."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "What is the lesson on 'Attention' in the story?",
+      "answer": "The story teaches that we must pay full attention to the present. The hermit says the most necessary person is the one you are with. This implies giving full focus and care to the current interaction. Distraction or worrying about the future (or other people) detracts from the most important business at hand."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "How does the story relate to real life?",
+      "answer": "The story is highly relatable. We often worry about the future ('right time') or whose advice to take ('right people'). The story reassures us that we don't need complex plans. By being present, kind, and responsive to the people around us right now, we can navigate life's challenges effectively and meaningfully."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "What if the king hadn't helped the hermit?",
+      "answer": "If the king hadn't helped, he would have left earlier. He would have run into the ambush laid by the bearded man. Without his bodyguards (whom he left behind), he likely would have been killed. His act of kindness towards the hermit was, unknowingly, an act of self-preservation."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "Summarize the hermit's philosophy.",
+      "answer": "The hermit's philosophy is centred on mindfulness and compassion. He believes that the only reality is the present moment ('Now'). Our relationships in the present are the most important ties. Our purpose is altruistic—to do good to the person with us. It is a philosophy of living consciously and kindly."
+    }
+  ]
+}

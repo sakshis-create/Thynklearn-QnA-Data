@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.13",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "एक तंबडी बापळी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कथेत तंबडी बापळी कुठे होती?",
+      "options": [
+        { "option_id": 1, "text": "स्वयंपाकघरात", "is_correct": false },
+        { "option_id": 2, "text": "शेतात", "is_correct": false },
+        { "option_id": 3, "text": "बाजारात", "is_correct": false },
+        { "option_id": 4, "text": "बागेतल्या झाडावर", "is_correct": true }
+      ],
+      "answer": "बागेतल्या झाडावर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "बापळीचा रंग कसा होता?",
+      "options": [
+        { "option_id": 1, "text": "पिवळा", "is_correct": false },
+        { "option_id": 2, "text": "हिरवा", "is_correct": false },
+        { "option_id": 3, "text": "तपकिरी", "is_correct": false },
+        { "option_id": 4, "text": "तांबडा", "is_correct": true }
+      ],
+      "answer": "तांबडा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "बापळी कोणावर उभी होती?",
+      "options": [
+        { "option_id": 1, "text": "फांदीवर", "is_correct": true },
+        { "option_id": 2, "text": "जमिनीवर", "is_correct": false },
+        { "option_id": 3, "text": "भांड्यात", "is_correct": false },
+        { "option_id": 4, "text": "खिडकीत", "is_correct": false }
+      ],
+      "answer": "फांदीवर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "बापळीला स्वतःबद्दल काय वाटत होते?",
+      "options": [
+        { "option_id": 1, "text": "मी कुरूप आहे", "is_correct": false },
+        { "option_id": 2, "text": "मी सगळ्यात सुंदर आहे", "is_correct": true },
+        { "option_id": 3, "text": "मी खूप लहान आहे", "is_correct": false },
+        { "option_id": 4, "text": "मी वाळलेली आहे", "is_correct": false }
+      ],
+      "answer": "मी सगळ्यात सुंदर आहे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "बागेत आणखी कोणकोणती भाजी होती?",
+      "options": [
+        { "option_id": 1, "text": "भेंडी, वांगी", "is_correct": true },
+        { "option_id": 2, "text": "कांदे, बटाटे", "is_correct": false },
+        { "option_id": 3, "text": "गाजर, बीट", "is_correct": false },
+        { "option_id": 4, "text": "मुळा, कोबी", "is_correct": false }
+      ],
+      "answer": "भेंडी, वांगी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "बापळी इतर भाज्यांना कशी वागायची?",
+      "options": [
+        { "option_id": 1, "text": "प्रेमाने", "is_correct": false },
+        { "option_id": 2, "text": "मदत करायची", "is_correct": false },
+        { "option_id": 3, "text": "त्यांची टिंगल करायची", "is_correct": true },
+        { "option_id": 4, "text": "घाबरायची", "is_correct": false }
+      ],
+      "answer": "त्यांची टिंगल करायची"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "एकदा बागेत कोण आले?",
+      "options": [
+        { "option_id": 1, "text": "शेतकरी काका", "is_correct": true },
+        { "option_id": 2, "text": "मित्रांचा गट", "is_correct": false },
+        { "option_id": 3, "text": "पक्षी", "is_correct": false },
+        { "option_id": 4, "text": "मुलं", "is_correct": false }
+      ],
+      "answer": "शेतकरी काका"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शेतकरी काकांनी कोणती भाजी तोडली?",
+      "options": [
+        { "option_id": 1, "text": "तंबडी बापळी", "is_correct": true },
+        { "option_id": 2, "text": "भेंडी", "is_correct": false },
+        { "option_id": 3, "text": "वांगे", "is_correct": false },
+        { "option_id": 4, "text": "कारले", "is_correct": false }
+      ],
+      "answer": "तंबडी बापळी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "बापळीला तोडल्यावर तिला कसे वाटले?",
+      "options": [
+        { "option_id": 1, "text": "आनंद झाला", "is_correct": false },
+        { "option_id": 2, "text": "राग आला", "is_correct": false },
+        { "option_id": 3, "text": "भय वाटले", "is_correct": true },
+        { "option_id": 4, "text": "झोप आली", "is_correct": false }
+      ],
+      "answer": "भय वाटले"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "बापळी कुठे नेली गेली?",
+      "options": [
+        { "option_id": 1, "text": "शाळेत", "is_correct": false },
+        { "option_id": 2, "text": "घरात स्वयंपाकघरात", "is_correct": true },
+        { "option_id": 3, "text": "बाजारात", "is_correct": false },
+        { "option_id": 4, "text": "दुकानात", "is_correct": false }
+      ],
+      "answer": "घरात स्वयंपाकघरात"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "स्वयंपाक करताना आईने काय सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "भाजी निरुपयोगी आहे", "is_correct": false },
+        { "option_id": 2, "text": "भाजी सर्वांना उपयोगी असते", "is_correct": true },
+        { "option_id": 3, "text": "भाजी फेकून द्या", "is_correct": false },
+        { "option_id": 4, "text": "भाजी वाईट आहे", "is_correct": false }
+      ],
+      "answer": "भाजी सर्वांना उपयोगी असते"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "बापळीला शेवटी काय समजले?",
+      "options": [
+        { "option_id": 1, "text": "सुंदर असणे महत्वाचे", "is_correct": false },
+        { "option_id": 2, "text": "वरचढ राहणे महत्वाचे", "is_correct": false },
+        { "option_id": 3, "text": "विनय व साधेपणा महत्वाचे", "is_correct": true },
+        { "option_id": 4,  "text": "एकटी राहणे चांगले", "is_correct": false }
+      ],
+      "answer": "विनय व साधेपणा महत्वाचे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या कथेतून कोणती शिकवण मिळते?",
+      "options": [
+        { "option_id": 1, "text": "इतरांची टिंगल करावी", "is_correct": false },
+        { "option_id": 2, "text": "सर्वांशी नम्रतेने वागावे", "is_correct": true },
+        { "option_id": 3, "text": "स्वतःचे कौतुक करावे", "is_correct": false },
+        { "option_id": 4, "text": "कोणाशी बोलू नये", "is_correct": false }
+      ],
+      "answer": "सर्वांशी नम्रतेने वागावे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "‘तंबडी’ या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "पांढरी", "is_correct": false },
+        { "option_id": 2, "text": "निळी", "is_correct": false },
+        { "option_id": 3, "text": "लालसर / तांबट", "is_correct": true },
+        { "option_id": 4, "text": "हिरवी", "is_correct": false }
+      ],
+      "answer": "लालसर / तांबट"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कथा कोणत्या विषयाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्रवास", "is_correct": false },
+        { "option_id": 2, "text": "निसर्ग व भाजीपाला", "is_correct": true },
+        { "option_id": 3, "text": "शाळा", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "निसर्ग व भाजीपाला"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "तंबडी बापळी कुठे वाढत होती?",
+      "answer": "ती बागेतल्या झाडाच्या फांदीवर वाढत होती."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "बापळी इतर भाज्यांशी कशी वागत होती?",
+      "answer": "ती त्यांची टिंगल व चेष्टा करीत होती."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "शेतकरी काका बागेत का आले?",
+      "answer": "भाजी तोडण्यासाठी ते बागेत आले."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "बापळीला तोडल्यावर तिला कसे वाटले?",
+      "answer": "तिला भीती वाटली आणि ती घाबरली."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कथेतली दोन भाज्या लिहा.",
+      "answer": "भेंडी आणि वांगे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "स्वयंपाकघरात बापळीचा कसा उपयोग झाला?",
+      "answer": "तिच्यापासून भाजी बनवली गेली."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "आईने कोणती शिकवण दिली?",
+      "answer": "सर्व भाज्यांचा उपयोग होतो आणि त्यांची किंमत आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "बापळीने शेवटी काय समजून घेतले?",
+      "answer": "अहंकार व गर्व करणे चुकीचे आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "या कथेतून मुलांनी काय शिकावे?",
+      "answer": "नम्र राहावे आणि इतरांची टिंगल करू नये."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कथेतील आवडलेली एक ओळ लिहा.",
+      "answer": "मी सगळ्यांत सुंदर आहे — असे बापळी म्हणते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "भाजीपाला आपल्यासाठी का महत्त्वाचा आहे?",
+      "answer": "तो पौष्टिक अन्न देतो आणि आरोग्यास उपयुक्त असतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "तुला कोणती भाजी आवडते? का?",
+      "answer": "मला भेंडी आवडते कारण ती चविष्ट असते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "‘बाग’ या शब्दावर वाक्य लिहा.",
+      "answer": "आमच्या घराजवळ सुंदर भाजींची बाग आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "अहंकार का टाळावा?",
+      "answer": "कारण अहंकारामुळे इतरांना वाईट वाटते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कथा तुला का आवडली?",
+      "answer": "कारण ती साधेपणा आणि नम्रतेची शिकवण देते."
+    }
+  ]
+}

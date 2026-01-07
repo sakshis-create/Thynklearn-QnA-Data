@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.20",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "ऐकूया, बोलूया"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या धड्यात मुख्यतः कशाबद्दल माहिती दिली आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "घरगुती उपकरणे", "is_correct": true },
+        { "option_id": 3, "text": "फळे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "घरगुती उपकरणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "फ्रिजमध्ये काय ठेवतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळणी", "is_correct": false },
+        { "option_id": 2, "text": "दूध", "is_correct": true },
+        { "option_id": 3, "text": "कपडे", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तके", "is_correct": false }
+      ],
+      "answer": "दूध"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वॉशिंग मशीनचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "स्वयंपाकासाठी", "is_correct": false },
+        { "option_id": 2, "text": "कपडे धुण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पाणी पिण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "कपडे धुण्यासाठी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "संगणकावर काय काढले जाते?",
+      "options": [
+        { "option_id": 1, "text": "भाजी", "is_correct": false },
+        { "option_id": 2, "text": "चित्रे", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "खेळणी", "is_correct": false }
+      ],
+      "answer": "चित्रे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "टीव्हीवर काय पाहिले जाते?",
+      "options": [
+        { "option_id": 1, "text": "कपडे", "is_correct": false },
+        { "option_id": 2, "text": "चित्रपट", "is_correct": true },
+        { "option_id": 3, "text": "भाजी", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तके", "is_correct": false }
+      ],
+      "answer": "चित्रपट"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मोबाईलचा वापर कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "स्वयंपाकासाठी", "is_correct": false },
+        { "option_id": 2, "text": "बोलण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "कपडे धुण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "पाणी साठवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "बोलण्यासाठी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सौरऊर्जेचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "अंधारासाठी", "is_correct": false },
+        { "option_id": 2, "text": "वीज निर्मितीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "वीज निर्मितीसाठी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पंखा कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाशासाठी", "is_correct": false },
+        { "option_id": 2, "text": "हवा मिळण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पाणी पिण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "हवा मिळण्यासाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "फ्रिज कशामुळे थंड ठेवतो?",
+      "options": [
+        { "option_id": 1, "text": "आग", "is_correct": false },
+        { "option_id": 2, "text": "वीज", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "वारा", "is_correct": false }
+      ],
+      "answer": "वीज"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "घरातील उपकरणे कशासाठी उपयोगी आहेत?",
+      "options": [
+        { "option_id": 1, "text": "काम सोपे करण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "नाचण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "रडण्यासाठी", "is_correct": false }
+      ],
+      "answer": "काम सोपे करण्यासाठी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी एक घरगुती उपकरण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "फुल", "is_correct": false },
+        { "option_id": 2, "text": "फ्रिज", "is_correct": true },
+        { "option_id": 3, "text": "झाड", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "फ्रिज"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "संगणकाचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "खेळ आणि अभ्यासासाठी", "is_correct": true },
+        { "option_id": 2, "text": "स्वयंपाकासाठी", "is_correct": false },
+        { "option_id": 3, "text": "पाणी भरण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "खेळ आणि अभ्यासासाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "टीव्ही कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "कपडे धुण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "मनोरंजनासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पाणी साठवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "अन्न शिजवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "मनोरंजनासाठी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "घरगुती उपकरणांचा वापर कसा करावा?",
+      "options": [
+        { "option_id": 1, "text": "नियम पाळून", "is_correct": true },
+        { "option_id": 2, "text": "अडाणीपणे", "is_correct": false },
+        { "option_id": 3, "text": "रागाने", "is_correct": false },
+        { "option_id": 4, "text": "तोडफोड करून", "is_correct": false }
+      ],
+      "answer": "नियम पाळून"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्यांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "लहान मुलांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "व्यापाऱ्यांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "कामगारांसाठी", "is_correct": false }
+      ],
+      "answer": "लहान मुलांसाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "या धड्याचे नाव काय आहे?",
+      "answer": "या धड्याचे नाव ‘ऐकूया, बोलूया’ आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "फ्रिजमध्ये काय ठेवतात?",
+      "answer": "फ्रिजमध्ये दूध व अन्नपदार्थ ठेवतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वॉशिंग मशीन कशासाठी वापरतात?",
+      "answer": "वॉशिंग मशीन कपडे धुण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "संगणकावर काय करता येते?",
+      "answer": "संगणकावर चित्रे काढता येतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "टीव्हीचा उपयोग काय?",
+      "answer": "टीव्हीचा उपयोग मनोरंजनासाठी होतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मोबाईल कशासाठी वापरतात?",
+      "answer": "मोबाईल बोलण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सौरऊर्जेचा उपयोग कशासाठी होतो?",
+      "answer": "सौरऊर्जेचा उपयोग वीज निर्मितीसाठी होतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पंखा कशासाठी वापरतात?",
+      "answer": "पंखा हवा मिळण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "घरगुती उपकरणे का उपयोगी आहेत?",
+      "answer": "घरगुती उपकरणे काम सोपे करतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "एक घरगुती उपकरण सांगा.",
+      "answer": "फ्रिज."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "संगणकाचा उपयोग कशासाठी होतो?",
+      "answer": "संगणकाचा उपयोग अभ्यासासाठी होतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "टीव्ही कशासाठी वापरतात?",
+      "answer": "टीव्ही मनोरंजनासाठी वापरतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "घरगुती उपकरणे कशी वापरावीत?",
+      "answer": "घरगुती उपकरणे काळजीपूर्वक वापरावीत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "हा धडा कसा आहे?",
+      "answer": "हा धडा उपयुक्त आणि सोपा आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या वर्गासाठी आहे?",
+      "answer": "हा धडा दुसरीच्या विद्यार्थ्यांसाठी आहे."
+    }
+  ]
+}
+

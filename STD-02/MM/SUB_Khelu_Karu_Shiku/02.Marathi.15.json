@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.KKS.13",
+    "standard": "2",
+    "subject": "Khelu_Karu_Shiku",
+    "medium": "Marathi",
+    "chapter_name": "गायन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "गायन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "नाचणे", "is_correct": false },
+        { "option_id": 2, "text": "गाणे म्हणणे", "is_correct": true },
+        { "option_id": 3, "text": "चित्र काढणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ खेळणे", "is_correct": false }
+      ],
+      "answer": "गाणे म्हणणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "गायन करताना सर्वात आधी काय जपावे?",
+      "options": [
+        { "option_id": 1, "text": "वेषभूषा", "is_correct": false },
+        { "option_id": 2, "text": "स्वर आणि ताल", "is_correct": true },
+        { "option_id": 3, "text": "वेग", "is_correct": false },
+        { "option_id": 4, "text": "उंच आवाज", "is_correct": false }
+      ],
+      "answer": "स्वर आणि ताल"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "गायन करताना मुख कसे ठेवावे?",
+      "options": [
+        { "option_id": 1, "text": "घट्ट बंद", "is_correct": false },
+        { "option_id": 2, "text": "सैल आणि स्वाभाविक", "is_correct": true },
+        { "option_id": 3, "text": "रागाने", "is_correct": false },
+        { "option_id": 4, "text": "हसत नाही", "is_correct": false }
+      ],
+      "answer": "सैल आणि स्वाभाविक"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "गाणे म्हणताना कशी बसावे?",
+      "options": [
+        { "option_id": 1, "text": "वाकून", "is_correct": false },
+        { "option_id": 2, "text": "सरळ आणि सावध", "is_correct": true },
+        { "option_id": 3, "text": "आडवे", "is_correct": false },
+        { "option_id": 4, "text": "उभे धावत", "is_correct": false }
+      ],
+      "answer": "सरळ आणि सावध"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "गायन करताना श्वास कसा घ्यावा?",
+      "options": [
+        { "option_id": 1, "text": "घाईघाईने", "is_correct": false },
+        { "option_id": 2, "text": "हळू आणि नियमित", "is_correct": true },
+        { "option_id": 3, "text": "जोरात", "is_correct": false },
+        { "option_id": 4, "text": "थांबून", "is_correct": false }
+      ],
+      "answer": "हळू आणि नियमित"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "समूहगायन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "एकट्याने गाणे", "is_correct": false },
+        { "option_id": 2, "text": "गटाने एकत्र गाणे", "is_correct": true },
+        { "option_id": 3, "text": "जोरात ओरडणे", "is_correct": false },
+        { "option_id": 4, "text": "बोलणे", "is_correct": false }
+      ],
+      "answer": "गटाने एकत्र गाणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गायन करताना काय टाळावे?",
+      "options": [
+        { "option_id": 1, "text": "आरडाओरडा", "is_correct": true },
+        { "option_id": 2, "text": "ताल पाळणे", "is_correct": false },
+        { "option_id": 3, "text": "शांत बसणे", "is_correct": false },
+        { "option_id": 4, "text": "नीट उच्चार", "is_correct": false }
+      ],
+      "answer": "आरडाओरडा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "गायनातून कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "राग", "is_correct": false },
+        { "option_id": 2, "text": "आत्मविश्वास", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "मत्सर", "is_correct": false }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "स्वर चुकू नये यासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "घाई", "is_correct": false },
+        { "option_id": 2, "text": "सराव", "is_correct": true },
+        { "option_id": 3, "text": "आरडा ओरडा", "is_correct": false },
+        { "option_id": 4, "text": "मोठा आवाज", "is_correct": false }
+      ],
+      "answer": "सराव"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "देशभक्तीपर गाणी कधी म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळताना", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रीय सणांमध्ये", "is_correct": true },
+        { "option_id": 3, "text": "झोपताना", "is_correct": false },
+        { "option_id": 4, "text": "भांडताना", "is_correct": false }
+      ],
+      "answer": "राष्ट्रीय सणांमध्ये"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "लय आणि ताल कोणासाठी महत्त्वाचे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "खेळासाठी", "is_correct": false },
+        { "option_id": 2, "text": "गायनासाठी", "is_correct": true },
+        { "option_id": 3, "text": "चित्रकलेसाठी", "is_correct": false },
+        { "option_id": 4, "text": "शिल्पकलेसाठी", "is_correct": false }
+      ],
+      "answer": "गायनासाठी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "गायन करताना शिक्षकांचे काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "सूचना पाळाव्यात", "is_correct": true },
+        { "option_id": 2, "text": "दुर्लक्ष करावे", "is_correct": false },
+        { "option_id": 3, "text": "आरडाओरडा करावा", "is_correct": false },
+        { "option_id": 4, "text": "इतरांशी बोलावे", "is_correct": false }
+      ],
+      "answer": "सूचना पाळाव्यात"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "गायनामुळे काय सुधारते?",
+      "options": [
+        { "option_id": 1, "text": "श्रवणशक्ती", "is_correct": true },
+        { "option_id": 2, "text": "धावण्याची गती", "is_correct": false },
+        { "option_id": 3, "text": "लेखन", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "श्रवणशक्ती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "समूहगायनातून कोणता गुण विकसित होतो?",
+      "options": [
+        { "option_id": 1, "text": "मत्सर", "is_correct": false },
+        { "option_id": 2, "text": "सहकार्य", "is_correct": true },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "सहकार्य"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गायनाचा मुख्य फायदा कोणता?",
+      "options": [
+        { "option_id": 1, "text": "आत्मविश्वास आणि आनंद वाढतो", "is_correct": true },
+        { "option_id": 2, "text": "आळस वाढतो", "is_correct": false },
+        { "option_id": 3, "text": "भांडण वाढते", "is_correct": false },
+        { "option_id": 4, "text": "आरडाओरडा वाढतो", "is_correct": false }
+      ],
+      "answer": "आत्मविश्वास आणि आनंद वाढतो"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "गायन म्हणजे काय?",
+      "answer": "स्वर, ताल आणि लय यांचा वापर करून गाणे म्हणणे म्हणजे गायन."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "समूहगायनाचा एक फायदा लिहा.",
+      "answer": "समूहगायनामुळे सहकार्य आणि एकजूट वाढते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "गायन करताना नीट बसणे का आवश्यक आहे?",
+      "answer": "नीट बसल्याने श्वास आणि आवाज योग्य नियंत्रित राहतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "ताल म्हणजे काय?",
+      "answer": "गाण्यातील ठराविक लयबद्ध गती म्हणजे ताल."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "गायन करताना घाई का करू नये?",
+      "answer": "घाई केल्यास स्वर आणि ताल चुकू शकतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "गायनामुळे आत्मविश्वास कसा वाढतो?",
+      "answer": "स्टेजवर आणि गटात गाताना बोलण्याची व व्यक्त होण्याची सवय होते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "गायन करताना काय पाळावे?",
+      "answer": "शिस्त, शांतता आणि शिक्षकांच्या सूचना."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "लय म्हणजे काय?",
+      "answer": "गाण्याची नियमित चढ-उताराची गती म्हणजे लय."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "श्रवणशक्ती म्हणजे काय?",
+      "answer": "आवाज आणि स्वर ओळखण्याची क्षमता म्हणजे श्रवणशक्ती."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "देशभक्तीपर गाणी का म्हणतात?",
+      "answer": "देशप्रेम आणि राष्ट्रीय भावना वाढवण्यासाठी."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "गायन करताना आवाज का ताणू नये?",
+      "answer": "जोराने गायल्यानं घसा दुखू शकतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "गायनातून सामाजिक गुण कसे वाढतात?",
+      "answer": "गटात गायल्याने सहकार्य आणि सौहार्द वाढते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "तुला कोणते गाणे गाणे आवडते? का?",
+      "answer": "मला बालगीते गाणे आवडते कारण ती आनंददायक असतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "नियमित सराव का महत्त्वाचा आहे?",
+      "answer": "सराव केल्याने स्वर, ताल आणि उच्चार सुधारतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्याची मुख्य शिकवण काय?",
+      "answer": "गायनात लय, ताल, शिस्त, सहकार्य आणि आत्मविश्वास महत्त्वाचे आहेत."
+    }
+  ]
+}

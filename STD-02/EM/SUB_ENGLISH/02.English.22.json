@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.22",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Nina's Dream"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where did Nina live?",
+      "options": [
+        { "option_id": 1, "text": "In a big city", "is_correct": false },
+        { "option_id": 2, "text": "In a small village", "is_correct": true },
+        { "option_id": 3, "text": "In a forest", "is_correct": false },
+        { "option_id": 4, "text": "On a boat", "is_correct": false }
+      ],
+      "answer": "In a small village"
+    }
+  ]
+}

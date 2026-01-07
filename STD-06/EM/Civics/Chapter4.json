@@ -1,0 +1,1213 @@
+{
+  "voyage": "Urban Local Government Bodies",
+  "lessons": [
+    "The Nagar Panchayat",
+    "The Municipal Council",
+    "The Municipal Corporation"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which local government bodies function in urban areas?",
+      "options": [
+        { "option_id": 1, "text": "Gram Panchayat, Panchayat Samiti, Zilla Parishad", "is_correct": false },
+        { "option_id": 2, "text": "Nagar Panchayat, Municipal Council, Municipal Corporation", "is_correct": true },
+        { "option_id": 3, "text": "Village Council, Taluka Council, District Council", "is_correct": false },
+        { "option_id": 4, "text": "Corporation Committee, State Council, City Board", "is_correct": false }
+      ],
+      "answer": "Nagar Panchayat, Municipal Council, Municipal Corporation"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which transformation trend is highlighted in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Cities turning into villages", "is_correct": false },
+        { "option_id": 2, "text": "Villages growing into towns and cities", "is_correct": true },
+        { "option_id": 3, "text": "Cities becoming agricultural centres", "is_correct": false },
+        { "option_id": 4, "text": "Towns shrinking in population", "is_correct": false }
+      ],
+      "answer": "Villages growing into towns and cities"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which is NOT mentioned as an opportunity available in cities?",
+      "options": [
+        { "option_id": 1, "text": "Opportunities for industry and business", "is_correct": false },
+        { "option_id": 2, "text": "Expanding service sector", "is_correct": false },
+        { "option_id": 3, "text": "Large-scale employment opportunities", "is_correct": false },
+        { "option_id": 4, "text": "Abundant agricultural land", "is_correct": true }
+      ],
+      "answer": "Abundant agricultural land"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is identified as a major problem in cities?",
+      "options": [
+        { "option_id": 1, "text": "Lack of schools", "is_correct": false },
+        { "option_id": 2, "text": "Shortage of housing", "is_correct": true },
+        { "option_id": 3, "text": "Absence of transport", "is_correct": false },
+        { "option_id": 4, "text": "Low population density", "is_correct": false }
+      ],
+      "answer": "Shortage of housing"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which urban problem is directly related to road usage?",
+      "options": [
+        { "option_id": 1, "text": "Insufficient space", "is_correct": false },
+        { "option_id": 2, "text": "Traffic congestion", "is_correct": true },
+        { "option_id": 3, "text": "Increasing crime", "is_correct": false },
+        { "option_id": 4, "text": "Waste disposal", "is_correct": false }
+      ],
+      "answer": "Traffic congestion"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which issue results from inadequate waste management in cities?",
+      "options": [
+        { "option_id": 1, "text": "Improved hygiene", "is_correct": false },
+        { "option_id": 2, "text": "Problem of disposal of waste", "is_correct": true },
+        { "option_id": 3, "text": "Increase in green spaces", "is_correct": false },
+        { "option_id": 4, "text": "Reduction in population", "is_correct": false }
+      ],
+      "answer": "Problem of disposal of waste"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which local body governs areas that are neither fully rural nor fully urban?",
+      "options": [
+        { "option_id": 1, "text": "Municipal Corporation", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Council", "is_correct": false },
+        { "option_id": 3, "text": "Nagar Panchayat", "is_correct": true },
+        { "option_id": 4, "text": "Zilla Parishad", "is_correct": false }
+      ],
+      "answer": "Nagar Panchayat"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How frequently are elections held for a Nagar Panchayat?",
+      "options": [
+        { "option_id": 1, "text": "Every three years", "is_correct": false },
+        { "option_id": 2, "text": "Every four years", "is_correct": false },
+        { "option_id": 3, "text": "Every five years", "is_correct": true },
+        { "option_id": 4, "text": "Every six years", "is_correct": false }
+      ],
+      "answer": "Every five years"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who is selected from among the elected members of a Nagar Panchayat?",
+      "options": [
+        { "option_id": 1, "text": "Mayor and Deputy Mayor", "is_correct": false },
+        { "option_id": 2, "text": "President and Vice-President", "is_correct": true },
+        { "option_id": 3, "text": "Commissioner and Mayor", "is_correct": false },
+        { "option_id": 4, "text": "Chief Officer and Commissioner", "is_correct": false }
+      ],
+      "answer": "President and Vice-President"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which local government body functions in small cities?",
+      "options": [
+        { "option_id": 1, "text": "Nagar Panchayat", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Council", "is_correct": true },
+        { "option_id": 3, "text": "Municipal Corporation", "is_correct": false },
+        { "option_id": 4, "text": "Taluka Panchayat", "is_correct": false }
+      ],
+      "answer": "Municipal Council"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the term used for elected representatives of the Municipal Council?",
+      "options": [
+        { "option_id": 1, "text": "Corporators", "is_correct": false },
+        { "option_id": 2, "text": "Councillors", "is_correct": true },
+        { "option_id": 3, "text": "Members of Parliament", "is_correct": false },
+        { "option_id": 4, "text": "Ward Officers", "is_correct": false }
+      ],
+      "answer": "Councillors"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who presides over the meetings of the Municipal Council?",
+      "options": [
+        { "option_id": 1, "text": "Chief Officer", "is_correct": false },
+        { "option_id": 2, "text": "Vice-President", "is_correct": false },
+        { "option_id": 3, "text": "President", "is_correct": true },
+        { "option_id": 4, "text": "Commissioner", "is_correct": false }
+      ],
+      "answer": "President"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which function is compulsory for the Municipal Council?",
+      "options": [
+        { "option_id": 1, "text": "Creating public gardens", "is_correct": false },
+        { "option_id": 2, "text": "Improving slum conditions", "is_correct": false },
+        { "option_id": 3, "text": "Providing drinking water", "is_correct": true },
+        { "option_id": 4, "text": "Acquiring land for roads", "is_correct": false }
+      ],
+      "answer": "Providing drinking water"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of the following is a discretionary function of the Municipal Council?",
+      "options": [
+        { "option_id": 1, "text": "Registration of births", "is_correct": false },
+        { "option_id": 2, "text": "Sewage disposal", "is_correct": false },
+        { "option_id": 3, "text": "Public hygiene", "is_correct": false },
+        { "option_id": 4, "text": "Creating public parks", "is_correct": true }
+      ],
+      "answer": "Creating public parks"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who is responsible for implementing decisions of the Municipal Council?",
+      "options": [
+        { "option_id": 1, "text": "President", "is_correct": false },
+        { "option_id": 2, "text": "Vice-President", "is_correct": false },
+        { "option_id": 3, "text": "Chief Officer", "is_correct": true },
+        { "option_id": 4, "text": "Mayor", "is_correct": false }
+      ],
+      "answer": "Chief Officer"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which local body provides services in big cities?",
+      "options": [
+        { "option_id": 1, "text": "Nagar Panchayat", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Council", "is_correct": false },
+        { "option_id": 3, "text": "Municipal Corporation", "is_correct": true },
+        { "option_id": 4, "text": "Gram Panchayat", "is_correct": false }
+      ],
+      "answer": "Municipal Corporation"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Where was the first Municipal Corporation in Maharashtra established?",
+      "options": [
+        { "option_id": 1, "text": "Nagpur", "is_correct": false },
+        { "option_id": 2, "text": "Pune", "is_correct": false },
+        { "option_id": 3, "text": "Mumbai", "is_correct": true },
+        { "option_id": 4, "text": "Nashik", "is_correct": false }
+      ],
+      "answer": "Mumbai"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who is the administrative head of a Municipal Corporation?",
+      "options": [
+        { "option_id": 1, "text": "Mayor", "is_correct": false },
+        { "option_id": 2, "text": "Deputy Mayor", "is_correct": false },
+        { "option_id": 3, "text": "Municipal Commissioner", "is_correct": true },
+        { "option_id": 4, "text": "Corporator", "is_correct": false }
+      ],
+      "answer": "Municipal Commissioner"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who prepares the annual budget of the Municipal Corporation?",
+      "options": [
+        { "option_id": 1, "text": "Mayor", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Commissioner", "is_correct": true },
+        { "option_id": 3, "text": "Deputy Mayor", "is_correct": false },
+        { "option_id": 4, "text": "Chief Officer", "is_correct": false }
+      ],
+      "answer": "Municipal Commissioner"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who are the elected members of the Municipal Corporation called?",
+      "options": [
+        { "option_id": 1, "text": "Councillors", "is_correct": false },
+        { "option_id": 2, "text": "Corporators", "is_correct": true },
+        { "option_id": 3, "text": "Representatives", "is_correct": false },
+        { "option_id": 4, "text": "Officers", "is_correct": false }
+      ],
+      "answer": "Corporators"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who is known as the first citizen of the city?",
+      "options": [
+        { "option_id": 1, "text": "Municipal Commissioner", "is_correct": false },
+        { "option_id": 2, "text": "Mayor", "is_correct": true },
+        { "option_id": 3, "text": "Deputy Mayor", "is_correct": false },
+        { "option_id": 4, "text": "Chief Officer", "is_correct": false }
+      ],
+      "answer": "Mayor"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Where are major decisions regarding city development taken?",
+      "options": [
+        { "option_id": 1, "text": "Mayor’s office", "is_correct": false },
+        { "option_id": 2, "text": "Commissioner’s office", "is_correct": false },
+        { "option_id": 3, "text": "General Body meeting of the Corporation", "is_correct": true },
+        { "option_id": 4, "text": "State Assembly", "is_correct": false }
+      ],
+      "answer": "General Body meeting of the Corporation"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which committee deals with matters related to education?",
+      "options": [
+        { "option_id": 1, "text": "Transport Committee", "is_correct": false },
+        { "option_id": 2, "text": "Health Committee", "is_correct": false },
+        { "option_id": 3, "text": "Education Committee", "is_correct": true },
+        { "option_id": 4, "text": "Finance Committee", "is_correct": false }
+      ],
+      "answer": "Education Committee"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which service is directly related to emergency response?",
+      "options": [
+        { "option_id": 1, "text": "Elementary education", "is_correct": false },
+        { "option_id": 2, "text": "Fire Brigade", "is_correct": true },
+        { "option_id": 3, "text": "Property registration", "is_correct": false },
+        { "option_id": 4, "text": "Garden maintenance", "is_correct": false }
+      ],
+      "answer": "Fire Brigade"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which function involves issuing construction permissions?",
+      "options": [
+        { "option_id": 1, "text": "Public transport", "is_correct": false },
+        { "option_id": 2, "text": "Fire services", "is_correct": false },
+        { "option_id": 3, "text": "Permission for construction", "is_correct": true },
+        { "option_id": 4, "text": "Education", "is_correct": false }
+      ],
+      "answer": "Permission for construction"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which function involves action against illegal buildings?",
+      "options": [
+        { "option_id": 1, "text": "Registration of births", "is_correct": false },
+        { "option_id": 2, "text": "Demolition of unauthorized construction", "is_correct": true },
+        { "option_id": 3, "text": "Water supply", "is_correct": false },
+        { "option_id": 4, "text": "Public transport", "is_correct": false }
+      ],
+      "answer": "Demolition of unauthorized construction"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which tax is levied on property owners by urban local bodies?",
+      "options": [
+        { "option_id": 1, "text": "Entertainment Tax", "is_correct": false },
+        { "option_id": 2, "text": "Property Tax", "is_correct": true },
+        { "option_id": 3, "text": "Education Tax", "is_correct": false },
+        { "option_id": 4, "text": "Profession Tax", "is_correct": false }
+      ],
+      "answer": "Property Tax"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which source adds revenue through public amusement activities?",
+      "options": [
+        { "option_id": 1, "text": "House Tax", "is_correct": false },
+        { "option_id": 2, "text": "Entertainment Tax", "is_correct": true },
+        { "option_id": 3, "text": "Water Tax", "is_correct": false },
+        { "option_id": 4, "text": "Profession Tax", "is_correct": false }
+      ],
+      "answer": "Entertainment Tax"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which tax is collected for water-related services?",
+      "options": [
+        { "option_id": 1, "text": "Property Tax", "is_correct": false },
+        { "option_id": 2, "text": "Water Tax", "is_correct": true },
+        { "option_id": 3, "text": "House Tax", "is_correct": false },
+        { "option_id": 4, "text": "Profession Tax", "is_correct": false }
+      ],
+      "answer": "Water Tax"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which revenue source involves borrowing funds?",
+      "options": [
+        { "option_id": 1, "text": "Grants", "is_correct": false },
+        { "option_id": 2, "text": "Raising loans", "is_correct": true },
+        { "option_id": 3, "text": "Taxes", "is_correct": false },
+        { "option_id": 4, "text": "Fines", "is_correct": false }
+      ],
+      "answer": "Raising loans"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which authority inspects weighing scales in markets?",
+      "options": [
+        { "option_id": 1, "text": "Police", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Corporation", "is_correct": true },
+        { "option_id": 3, "text": "State Government", "is_correct": false },
+        { "option_id": 4, "text": "Judiciary", "is_correct": false }
+      ],
+      "answer": "Municipal Corporation"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which body modernises fire brigade services?",
+      "options": [
+        { "option_id": 1, "text": "Police Department", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Corporation", "is_correct": true },
+        { "option_id": 3, "text": "Health Department", "is_correct": false },
+        { "option_id": 4, "text": "Transport Authority", "is_correct": false }
+      ],
+      "answer": "Municipal Corporation"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which programme aims to control diseases like dengue?",
+      "options": [
+        { "option_id": 1, "text": "Education programmes", "is_correct": false },
+        { "option_id": 2, "text": "Health programmes of the Corporation", "is_correct": true },
+        { "option_id": 3, "text": "Transport schemes", "is_correct": false },
+        { "option_id": 4, "text": "Revenue schemes", "is_correct": false }
+      ],
+      "answer": "Health programmes of the Corporation"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which local body takes decisions to protect the environment in cities?",
+      "options": [
+        { "option_id": 1, "text": "Municipal Corporation", "is_correct": true },
+        { "option_id": 2, "text": "State Legislature", "is_correct": false },
+        { "option_id": 3, "text": "Parliament", "is_correct": false },
+        { "option_id": 4, "text": "Judiciary", "is_correct": false }
+      ],
+      "answer": "Municipal Corporation"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which factor determines the number of members in a Municipal Corporation?",
+      "options": [
+        { "option_id": 1, "text": "Area of the city", "is_correct": false },
+        { "option_id": 2, "text": "Population of the city", "is_correct": true },
+        { "option_id": 3, "text": "Revenue generated", "is_correct": false },
+        { "option_id": 4, "text": "Number of wards", "is_correct": false }
+      ],
+      "answer": "Population of the city"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "How often are Municipal Corporation elections held?",
+      "options": [
+        { "option_id": 1, "text": "Every four years", "is_correct": false },
+        { "option_id": 2, "text": "Every five years", "is_correct": true },
+        { "option_id": 3, "text": "Every six years", "is_correct": false },
+        { "option_id": 4, "text": "Every ten years", "is_correct": false }
+      ],
+      "answer": "Every five years"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which officer assists in implementing city development decisions?",
+      "options": [
+        { "option_id": 1, "text": "Mayor", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Commissioner", "is_correct": true },
+        { "option_id": 3, "text": "Deputy Mayor", "is_correct": false },
+        { "option_id": 4, "text": "Corporator", "is_correct": false }
+      ],
+      "answer": "Municipal Commissioner"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which body is responsible for public transport in cities?",
+      "options": [
+        { "option_id": 1, "text": "Municipal Corporation", "is_correct": true },
+        { "option_id": 2, "text": "Railway Board", "is_correct": false },
+        { "option_id": 3, "text": "State Transport Office", "is_correct": false },
+        { "option_id": 4, "text": "Police Department", "is_correct": false }
+      ],
+      "answer": "Municipal Corporation"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which function includes providing information about dangerous buildings?",
+      "options": [
+        { "option_id": 1, "text": "Education", "is_correct": false },
+        { "option_id": 2, "text": "Urban safety management", "is_correct": false },
+        { "option_id": 3, "text": "Municipal Corporation services", "is_correct": true },
+        { "option_id": 4, "text": "Judicial services", "is_correct": false }
+      ],
+      "answer": "Municipal Corporation services"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which service involves registering births and deaths?",
+      "options": [
+        { "option_id": 1, "text": "Police Department", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Corporation", "is_correct": true },
+        { "option_id": 3, "text": "Health Department", "is_correct": false },
+        { "option_id": 4, "text": "Education Board", "is_correct": false }
+      ],
+      "answer": "Municipal Corporation"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which body levies profession tax?",
+      "options": [
+        { "option_id": 1, "text": "Central Government", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Corporation", "is_correct": true },
+        { "option_id": 3, "text": "Judiciary", "is_correct": false },
+        { "option_id": 4, "text": "Educational Institutions", "is_correct": false }
+      ],
+      "answer": "Municipal Corporation"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which of the following is a source of revenue from the State Government?",
+      "options": [
+        { "option_id": 1, "text": "House Tax", "is_correct": false },
+        { "option_id": 2, "text": "Grants", "is_correct": true },
+        { "option_id": 3, "text": "Entertainment Tax", "is_correct": false },
+        { "option_id": 4, "text": "Profession Tax", "is_correct": false }
+      ],
+      "answer": "Grants"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which local body has a Mayor as its head?",
+      "options": [
+        { "option_id": 1, "text": "Nagar Panchayat", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Council", "is_correct": false },
+        { "option_id": 3, "text": "Municipal Corporation", "is_correct": true },
+        { "option_id": 4, "text": "Gram Panchayat", "is_correct": false }
+      ],
+      "answer": "Municipal Corporation"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which official is equivalent to the executive head in a Nagar Panchayat?",
+      "options": [
+        { "option_id": 1, "text": "Chief Officer", "is_correct": false },
+        { "option_id": 2, "text": "Executive Officer", "is_correct": true },
+        { "option_id": 3, "text": "Commissioner", "is_correct": false },
+        { "option_id": 4, "text": "Mayor", "is_correct": false }
+      ],
+      "answer": "Executive Officer"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which local body has a minimum of 17 members?",
+      "options": [
+        { "option_id": 1, "text": "Nagar Panchayat", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Council", "is_correct": true },
+        { "option_id": 3, "text": "Municipal Corporation", "is_correct": false },
+        { "option_id": 4, "text": "Gram Panchayat", "is_correct": false }
+      ],
+      "answer": "Municipal Council"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which local body has members proportional to city population?",
+      "options": [
+        { "option_id": 1, "text": "Nagar Panchayat", "is_correct": false },
+        { "option_id": 2, "text": "Municipal Council", "is_correct": false },
+        { "option_id": 3, "text": "Municipal Corporation", "is_correct": true },
+        { "option_id": 4, "text": "Taluka Panchayat", "is_correct": false }
+      ],
+      "answer": "Municipal Corporation"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which post exists in all three urban local bodies?",
+      "options": [
+        { "option_id": 1, "text": "Mayor", "is_correct": false },
+        { "option_id": 2, "text": "President", "is_correct": false },
+        { "option_id": 3, "text": "Vice-President", "is_correct": true },
+        { "option_id": 4, "text": "Commissioner", "is_correct": false }
+      ],
+      "answer": "Vice-President"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Why is reservation of seats necessary in urban local bodies?",
+      "options": [
+        { "option_id": 1, "text": "To increase tax collection", "is_correct": false },
+        { "option_id": 2, "text": "To allow participation of deprived sections and women", "is_correct": true },
+        { "option_id": 3, "text": "To reduce election costs", "is_correct": false },
+        { "option_id": 4, "text": "To limit political competition", "is_correct": false }
+      ],
+      "answer": "To allow participation of deprived sections and women"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What proportion of seats are reserved for women?",
+      "options": [
+        { "option_id": 1, "text": "One-third", "is_correct": false },
+        { "option_id": 2, "text": "One-fourth", "is_correct": false },
+        { "option_id": 3, "text": "Half of the seats", "is_correct": true },
+        { "option_id": 4, "text": "Two-thirds", "is_correct": false }
+      ],
+      "answer": "Half of the seats"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the main purpose of reservation in a democracy?",
+      "options": [
+        { "option_id": 1, "text": "To favour specific groups permanently", "is_correct": false },
+        { "option_id": 2, "text": "To ensure participation of all sections in decision-making", "is_correct": true },
+        { "option_id": 3, "text": "To reduce administrative burden", "is_correct": false },
+        { "option_id": 4, "text": "To limit public involvement", "is_correct": false }
+      ],
+      "answer": "To ensure participation of all sections in decision-making"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What change is observed in the pattern of settlements in India?",
+      "answer": "Villages are growing into towns, towns into cities, and cities into metropolises."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why are urban local government bodies becoming increasingly important?",
+      "answer": "They are important because towns and cities are growing rapidly and need organized administration."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name any two opportunities available in cities.",
+      "answer": "Opportunities for industry and business and large-scale employment opportunities."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Mention any two problems commonly faced in cities.",
+      "answer": "Shortage of housing and traffic congestion."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why does traffic congestion become a serious problem in cities?",
+      "answer": "Traffic congestion increases due to limited road space and a large number of vehicles."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is meant by urban local government bodies?",
+      "answer": "Urban local government bodies are institutions that manage administration and services in urban areas."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which local body governs areas in transition from villages to towns?",
+      "answer": "The Nagar Panchayat governs areas that are in transition from villages to towns."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How often are elections held for a Nagar Panchayat?",
+      "answer": "Elections to a Nagar Panchayat are held every five years."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who are elected as office bearers of a Nagar Panchayat?",
+      "answer": "The elected members choose a President and a Vice-President."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which local government body functions in small cities?",
+      "answer": "The Municipal Council functions in small cities."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are the elected members of a Municipal Council called?",
+      "answer": "The elected members of a Municipal Council are called Councillors."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Who presides over the meetings of the Municipal Council?",
+      "answer": "The President presides over the meetings of the Municipal Council."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the role of the Vice-President of the Municipal Council?",
+      "answer": "The Vice-President looks after the work of the Council in the absence of the President."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What are obligatory functions of the Municipal Council?",
+      "answer": "They are functions that the Council must perform, such as providing drinking water and street lighting."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Give one example of an obligatory function of the Municipal Council.",
+      "answer": "Registration of births, deaths and marriages."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What are discretionary functions of the Municipal Council?",
+      "answer": "These are additional functions performed to provide extra facilities to citizens."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Mention any one discretionary function of the Municipal Council.",
+      "answer": "Creating public gardens and parks."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Who is the administrative head of the Municipal Council?",
+      "answer": "The Chief Officer is the administrative head of the Municipal Council."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the main duty of the Chief Officer?",
+      "answer": "He implements the decisions taken by the Municipal Council."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Which local body provides services in big cities?",
+      "answer": "The Municipal Corporation provides services in big cities."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Where was the first Municipal Corporation in Maharashtra established?",
+      "answer": "The first Municipal Corporation in Maharashtra was established in Mumbai."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Who is the administrative head of the Municipal Corporation?",
+      "answer": "The Municipal Commissioner is the administrative head of the Municipal Corporation."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the responsibility of the Municipal Commissioner?",
+      "answer": "He implements the decisions of the Corporation and prepares the annual budget."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who are the elected members of the Municipal Corporation?",
+      "answer": "The elected members of the Municipal Corporation are called Corporators."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Who is considered the first citizen of the city?",
+      "answer": "The Mayor is considered the first citizen of the city."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the role of the Mayor in the Municipal Corporation?",
+      "answer": "The Mayor presides over meetings and represents the city."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Where are important city development decisions discussed?",
+      "answer": "They are discussed in the General Body meeting of the Corporation."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why are committees formed in the Municipal Corporation?",
+      "answer": "Committees are formed to carry out specific functions efficiently."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Name any one committee of the Municipal Corporation.",
+      "answer": "Education Committee."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Mention any one service provided by the Municipal Corporation.",
+      "answer": "Water supply."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why is waste disposal an important urban function?",
+      "answer": "Proper waste disposal is essential to maintain cleanliness and public health."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What role does the Municipal Corporation play in public health?",
+      "answer": "It implements programmes to control the spread of diseases."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is fire brigade service important in cities?",
+      "answer": "It provides emergency response during fires and disasters."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How does the Municipal Corporation regulate construction activities?",
+      "answer": "By granting permissions and demolishing unauthorized constructions."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why does the Municipal Corporation protect the environment?",
+      "answer": "To ensure sustainable development and a healthy living environment."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the main source of income for urban local bodies?",
+      "answer": "Taxes collected from citizens are a major source of income."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Name any one tax collected by the Municipal Corporation.",
+      "answer": "Property tax."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is meant by grants as a source of revenue?",
+      "answer": "Grants are funds provided by the State Government to local bodies."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why are loans raised by urban local bodies?",
+      "answer": "Loans are raised to fund large development projects."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is meant by reservation of seats?",
+      "answer": "Reservation of seats means allocating seats for specific social groups."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Which groups are given reserved seats in urban local bodies?",
+      "answer": "Scheduled Castes, Scheduled Tribes, Backward Classes and women."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What proportion of seats are reserved for women?",
+      "answer": "Half of the total seats are reserved for women."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why is reservation necessary in a democracy?",
+      "answer": "It ensures participation of deprived sections in decision-making."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How does reservation empower women?",
+      "answer": "It provides women opportunities to participate in governance."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What role do urban local bodies play in democracy?",
+      "answer": "They allow citizens to participate directly in local governance."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why is citizen participation important in urban governance?",
+      "answer": "It helps in better decision-making and accountability."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How do urban local bodies improve quality of life?",
+      "answer": "By providing essential civic services and facilities."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the significance of elections in urban local bodies?",
+      "answer": "Elections ensure democratic representation of citizens."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is local self-government important in cities?",
+      "answer": "It enables local issues to be addressed efficiently."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What overall role do urban local government bodies play?",
+      "answer": "They manage urban administration, services and development."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why is urban local self-government essential in rapidly growing cities?",
+      "answer": "Urban local self-government is essential because it enables timely management of civic services and addresses local urban problems effectively."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does urbanisation increase the responsibilities of local government bodies?",
+      "answer": "Urbanisation increases population density and demands for services, thereby expanding the responsibilities of urban local bodies."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why are Nagar Panchayats important in transitional areas?",
+      "answer": "They help manage areas changing from rural to urban by providing basic urban facilities and governance."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How does the five-year election cycle strengthen democracy at the urban level?",
+      "answer": "It ensures regular public participation and accountability of elected representatives."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is the division between small cities and big cities necessary for administration?",
+      "answer": "Different sizes of cities require different administrative structures to manage services efficiently."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How do obligatory functions reflect the core duties of Municipal Councils?",
+      "answer": "They ensure essential services like water supply and sanitation are provided to all citizens."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why are discretionary functions important despite not being compulsory?",
+      "answer": "They improve the quality of urban life by providing additional amenities and facilities."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How does the Chief Officer contribute to effective municipal administration?",
+      "answer": "By implementing decisions and ensuring smooth daily functioning of the Municipal Council."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why is the Municipal Corporation suitable for large cities?",
+      "answer": "Large cities require a stronger administrative system to manage complex urban services."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How does the role of the Municipal Commissioner differ from that of the Mayor?",
+      "answer": "The Commissioner handles administration, while the Mayor performs ceremonial and leadership functions."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why is the Mayor called the first citizen of the city?",
+      "answer": "Because the Mayor represents the city and presides over important civic functions."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How do General Body meetings influence city development?",
+      "answer": "They serve as platforms for discussion and decision-making on major urban issues."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why are specialised committees formed within Municipal Corporations?",
+      "answer": "To handle specific sectors such as education, health and transport efficiently."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How do fire brigade services contribute to urban safety?",
+      "answer": "They provide rapid response during fires and emergencies, protecting life and property."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is regulation of construction activities necessary in cities?",
+      "answer": "It prevents illegal buildings and ensures safety and planned urban development."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How does urban waste management affect public health?",
+      "answer": "Proper waste management prevents the spread of diseases and maintains cleanliness."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why is public transport an important responsibility of urban local bodies?",
+      "answer": "It reduces traffic congestion and ensures safe and affordable mobility for citizens."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How do health programmes of Municipal Corporations help citizens?",
+      "answer": "They control diseases and promote preventive healthcare in urban areas."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why is environmental protection a municipal responsibility?",
+      "answer": "Urban activities impact the environment, requiring local action for sustainable living."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How do taxes support the functioning of urban local bodies?",
+      "answer": "Taxes provide financial resources needed to deliver civic services."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why is property tax considered a stable source of revenue?",
+      "answer": "It is regularly collected from property owners and supports continuous funding."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How do State Government grants support urban development?",
+      "answer": "They provide additional funds for infrastructure and welfare projects."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why do urban local bodies raise loans despite having tax income?",
+      "answer": "Loans help finance large-scale development projects beyond regular income."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How does reservation of seats promote inclusive governance?",
+      "answer": "It ensures representation of women and disadvantaged groups in decision-making."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is women’s reservation significant in urban governance?",
+      "answer": "It empowers women and brings diverse perspectives to local administration."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "How does local governance encourage citizen participation?",
+      "answer": "By allowing citizens to elect representatives and raise local issues."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why is accountability important in urban local bodies?",
+      "answer": "Accountability ensures responsible use of public funds and efficient service delivery."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How does decentralisation improve urban administration?",
+      "answer": "It brings decision-making closer to citizens, improving responsiveness."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why is planning essential for solving urban problems?",
+      "answer": "Planned development helps manage housing, transport and sanitation issues."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How do urban local bodies contribute to economic growth?",
+      "answer": "They support infrastructure and services needed for business and employment."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why are rules and regulations important for city life?",
+      "answer": "They ensure order, safety and proper use of urban resources."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How does coordination between officials and elected representatives help governance?",
+      "answer": "It balances administrative efficiency with democratic decision-making."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is transparency necessary in urban administration?",
+      "answer": "Transparency builds public trust and prevents misuse of power."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How do civic services affect the quality of urban life?",
+      "answer": "Efficient services ensure health, safety and comfort for residents."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is citizen awareness important for effective urban governance?",
+      "answer": "Informed citizens can participate actively and hold authorities accountable."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How does urban governance differ from rural governance?",
+      "answer": "Urban governance manages complex services due to higher population density."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why is regular maintenance of infrastructure necessary in cities?",
+      "answer": "Continuous use causes wear, requiring maintenance to ensure safety and efficiency."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How do local laws help control urban growth?",
+      "answer": "They regulate construction, land use and public safety."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is public health a priority for urban local bodies?",
+      "answer": "Dense populations increase health risks, requiring strong preventive measures."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "How does efficient governance reduce urban problems?",
+      "answer": "It ensures timely solutions to housing, traffic and sanitation issues."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why is coordination with the State Government necessary for urban bodies?",
+      "answer": "State support provides legal authority and financial assistance."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "How does urban governance support social welfare?",
+      "answer": "By implementing schemes for health, education and vulnerable groups."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is local leadership important in cities?",
+      "answer": "Local leaders understand city-specific issues and citizen needs."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How do urban local bodies contribute to disaster management?",
+      "answer": "They provide emergency services and coordinate relief efforts."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is long-term urban planning necessary?",
+      "answer": "It prepares cities for future population growth and challenges."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How does citizen feedback improve urban administration?",
+      "answer": "It helps authorities identify problems and improve services."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is efficient financial management important for urban bodies?",
+      "answer": "It ensures optimal use of resources and sustainable development."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How does urban governance reflect democratic values?",
+      "answer": "Through elected representation, participation and accountability."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why are urban local government bodies vital for daily civic life?",
+      "answer": "They manage essential services that affect citizens’ everyday lives."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What overall role do urban local government bodies play in city development?",
+      "answer": "They ensure planned growth, service delivery and democratic participation."
+    }
+  ]
+}
+
+

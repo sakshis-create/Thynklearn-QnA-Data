@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.10",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Area of Technology"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which part of the computer looks like a TV screen?",
+      "options": [
+        { "option_id": 1, "text": "Mouse", "is_correct": false },
+        { "option_id": 2, "text": "Monitor", "is_correct": true },
+        { "option_id": 3, "text": "Printer", "is_correct": false },
+        { "option_id": 4, "text": "Speaker", "is_correct": false }
+      ],
+      "answer": "Monitor"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which part of the computer is used to click and select items?",
+      "options": [
+        { "option_id": 1, "text": "Keyboard", "is_correct": false },
+        { "option_id": 2, "text": "Mouse", "is_correct": true },
+        { "option_id": 3, "text": "C.P.U.", "is_correct": false },
+        { "option_id": 4, "text": "Monitor", "is_correct": false }
+      ],
+      "answer": "Mouse"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which device is used to type letters and numbers?",
+      "options": [
+        { "option_id": 1, "text": "Speaker", "is_correct": false },
+        { "option_id": 2, "text": "Key Board", "is_correct": true },
+        { "option_id": 3, "text": "Mouse", "is_correct": false },
+        { "option_id": 4, "text": "Printer", "is_correct": false }
+      ],
+      "answer": "Key Board"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which part of the computer is known as the C.P.U.?",
+      "options": [
+        { "option_id": 1, "text": "The screen", "is_correct": false },
+        { "option_id": 2, "text": "The vertical box unit", "is_correct": true },
+        { "option_id": 3, "text": "The typing pad", "is_correct": false },
+        { "option_id": 4, "text": "The sound box", "is_correct": false }
+      ],
+      "answer": "The vertical box unit"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which device is used to listen to sound from a computer?",
+      "options": [
+        { "option_id": 1, "text": "Monitor", "is_correct": false },
+        { "option_id": 2, "text": "Speaker", "is_correct": true },
+        { "option_id": 3, "text": "Mouse", "is_correct": false },
+        { "option_id": 4, "text": "Keyboard", "is_correct": false }
+      ],
+      "answer": "Speaker"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which device puts computer work onto paper?",
+      "options": [
+        { "option_id": 1, "text": "Printer", "is_correct": true },
+        { "option_id": 2, "text": "Mouse", "is_correct": false },
+        { "option_id": 3, "text": "Monitor", "is_correct": false },
+        { "option_id": 4, "text": "Speaker", "is_correct": false }
+      ],
+      "answer": "Printer"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the safe place to cross the road called?",
+      "options": [
+        { "option_id": 1, "text": "Lion Crossing", "is_correct": false },
+        { "option_id": 2, "text": "Zebra Crossing", "is_correct": true },
+        { "option_id": 3, "text": "Tiger Crossing", "is_correct": false },
+        { "option_id": 4, "text": "Bird Crossing", "is_correct": false }
+      ],
+      "answer": "Zebra Crossing"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What should you use while crossing the road?",
+      "options": [
+        { "option_id": 1, "text": "Mobile phone", "is_correct": false },
+        { "option_id": 2, "text": "Zebra Crossing", "is_correct": true },
+        { "option_id": 3, "text": "Running shoes", "is_correct": false },
+        { "option_id": 4, "text": "Headphones", "is_correct": false }
+      ],
+      "answer": "Zebra Crossing"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The C.P.U. is an important part of the ________.",
+      "options": [
+        { "option_id": 1, "text": "Car", "is_correct": false },
+        { "option_id": 2, "text": "Computer", "is_correct": true },
+        { "option_id": 3, "text": "Bicycle", "is_correct": false },
+        { "option_id": 4, "text": "Television", "is_correct": false }
+      ],
+      "answer": "Computer"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What color are the stripes on a Zebra Crossing?",
+      "options": [
+        { "option_id": 1, "text": "Red and Blue", "is_correct": false },
+        { "option_id": 2, "text": "Black and White", "is_correct": true },
+        { "option_id": 3, "text": "Green and Yellow", "is_correct": false },
+        { "option_id": 4, "text": "Pink and Purple", "is_correct": false }
+      ],
+      "answer": "Black and White"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why is Road Safety important?",
+      "options": [
+        { "option_id": 1, "text": "To prevent accidents", "is_correct": true },
+        { "option_id": 2, "text": "To run fast", "is_correct": false },
+        { "option_id": 3, "text": "To play games", "is_correct": false },
+        { "option_id": 4, "text": "To sleep", "is_correct": false }
+      ],
+      "answer": "To prevent accidents"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Information and Communication Technology (ICT) includes the study of ________.",
+      "options": [
+        { "option_id": 1, "text": "Plants", "is_correct": false },
+        { "option_id": 2, "text": "Computers", "is_correct": true },
+        { "option_id": 3, "text": "Cooking", "is_correct": false },
+        { "option_id": 4, "text": "Swimming", "is_correct": false }
+      ],
+      "answer": "Computers"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which computer part is used to point at things on the screen?",
+      "options": [
+        { "option_id": 1, "text": "Speaker", "is_correct": false },
+        { "option_id": 2, "text": "Mouse", "is_correct": true },
+        { "option_id": 3, "text": "Printer", "is_correct": false },
+        { "option_id": 4, "text": "CPU", "is_correct": false }
+      ],
+      "answer": "Mouse"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a part of a computer?",
+      "options": [
+        { "option_id": 1, "text": "Monitor", "is_correct": false },
+        { "option_id": 2, "text": "Bicycle wheel", "is_correct": true },
+        { "option_id": 3, "text": "Keyboard", "is_correct": false },
+        { "option_id": 4, "text": "Mouse", "is_correct": false }
+      ],
+      "answer": "Bicycle wheel"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What activity is suggested regarding computers?",
+      "options": [
+        { "option_id": 1, "text": "Break the computer", "is_correct": false },
+        { "option_id": 2, "text": "Collect pictures of computer parts", "is_correct": true },
+        { "option_id": 3, "text": "Paint the screen black", "is_correct": false },
+        { "option_id": 4, "text": "Throw the mouse", "is_correct": false }
+      ],
+      "answer": "Collect pictures of computer parts"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "List four main parts of a computer.",
+      "answer": "Monitor, C.P.U., Key Board, and Mouse."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the function of a Monitor?",
+      "answer": "The monitor displays information and images on its screen."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the use of a Zebra Crossing?",
+      "answer": "It is used to cross the road safely."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does C.P.U. stand for (conceptually in this lesson)?",
+      "answer": "It is the main processing unit of the computer, often called its brain."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is a Key Board used for?",
+      "answer": "A Key Board is used for typing letters, numbers, and commands."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What do Speakers do?",
+      "answer": "Speakers allow us to hear sound from the computer."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the function of a Printer?",
+      "answer": "A Printer prints documents or images from the computer onto paper."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why should we follow road safety rules?",
+      "answer": "To stay safe and avoid accidents while travelling."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Describe the Mouse of a computer.",
+      "answer": "It is a small device used to move the cursor and click on items on the screen."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What activity should children do related to road safety?",
+      "answer": "Demonstrate the use of a zebra crossing."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the full name of the subject area involving computers?",
+      "answer": "Information and Communication Technology (ICT)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Where should you look for a Zebra Crossing?",
+      "answer": "On the road, marked with black and white stripes."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Can a computer work without a C.P.U.?",
+      "answer": "No, the C.P.U. is essential for the computer to work."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does a computer Monitor look like?",
+      "answer": "It looks like a television screen."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What should you do before crossing the road?",
+      "answer": "Look left and right to ensure no vehicles are coming, and use the Zebra Crossing."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.01",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "पाऊस"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कवितेत आकाशात काय दाटून येते?",
+      "options": [
+        { "option_id": 1, "text": "सूर्य", "is_correct": false },
+        { "option_id": 2, "text": "ढग", "is_correct": true },
+        { "option_id": 3, "text": "चंद्र", "is_correct": false },
+        { "option_id": 4, "text": "तारे", "is_correct": false }
+      ],
+      "answer": "ढग"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वारा कसा सुटतो असे कवितेत सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "हळू", "is_correct": false },
+        { "option_id": 2, "text": "जोरात", "is_correct": true },
+        { "option_id": 3, "text": "थंड", "is_correct": false },
+        { "option_id": 4, "text": "गरम", "is_correct": false }
+      ],
+      "answer": "जोरात"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "बीज कसे चमकते?",
+      "options": [
+        { "option_id": 1, "text": "हळू हळू", "is_correct": false },
+        { "option_id": 2, "text": "चमचम", "is_correct": true },
+        { "option_id": 3, "text": "मंद", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर", "is_correct": false }
+      ],
+      "answer": "चमचम"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पाऊस आल्यावर पाणी काय करते?",
+      "options": [
+        { "option_id": 1, "text": "आटते", "is_correct": false },
+        { "option_id": 2, "text": "वाढते", "is_correct": true },
+        { "option_id": 3, "text": "थांबते", "is_correct": false },
+        { "option_id": 4, "text": "कोरडे होते", "is_correct": false }
+      ],
+      "answer": "वाढते"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पाण्यात काय सोडले जाते?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "कागदी बोट", "is_correct": true },
+        { "option_id": 3, "text": "फूल", "is_correct": false },
+        { "option_id": 4, "text": "पाने", "is_correct": false }
+      ],
+      "answer": "कागदी बोट"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "हातभर जाऊन काय बुडते?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "बोट", "is_correct": true },
+        { "option_id": 3, "text": "पान", "is_correct": false },
+        { "option_id": 4, "text": "फूल", "is_correct": false }
+      ],
+      "answer": "बोट"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "बोटीवर कोण बसले आहे?",
+      "options": [
+        { "option_id": 1, "text": "मासे", "is_correct": false },
+        { "option_id": 2, "text": "बेडूक", "is_correct": true },
+        { "option_id": 3, "text": "पक्षी", "is_correct": false },
+        { "option_id": 4, "text": "मांजर", "is_correct": false }
+      ],
+      "answer": "बेडूक"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "बेडूक कसा ओरडतो?",
+      "options": [
+        { "option_id": 1, "text": "हळू", "is_correct": false },
+        { "option_id": 2, "text": "ड्रांव ड्रांव", "is_correct": true },
+        { "option_id": 3, "text": "गोड", "is_correct": false },
+        { "option_id": 4, "text": "शांत", "is_correct": false }
+      ],
+      "answer": "ड्रांव ड्रांव"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "ही कविता कशाबद्दल आहे?",
+      "options": [
+        { "option_id": 1, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 2, "text": "उन्हाळा", "is_correct": false },
+        { "option_id": 3, "text": "पाऊस", "is_correct": true },
+        { "option_id": 4, "text": "शरद ऋतू", "is_correct": false }
+      ],
+      "answer": "पाऊस"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पाऊस आल्यावर वातावरण कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "कोरडे", "is_correct": false },
+        { "option_id": 2, "text": "ओले", "is_correct": true },
+        { "option_id": 3, "text": "उष्ण", "is_correct": false },
+        { "option_id": 4, "text": "धुरकट", "is_correct": false }
+      ],
+      "answer": "ओले"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणता प्राणी आहे?",
+      "options": [
+        { "option_id": 1, "text": "हत्ती", "is_correct": false },
+        { "option_id": 2, "text": "बेडूक", "is_correct": true },
+        { "option_id": 3, "text": "घोडा", "is_correct": false },
+        { "option_id": 4, "text": "कुत्रा", "is_correct": false }
+      ],
+      "answer": "बेडूक"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाण्यात बोट कशी जाते?",
+      "options": [
+        { "option_id": 1, "text": "थांबून", "is_correct": false },
+        { "option_id": 2, "text": "वाहत", "is_correct": true },
+        { "option_id": 3, "text": "उडत", "is_correct": false },
+        { "option_id": 4, "text": "चालत", "is_correct": false }
+      ],
+      "answer": "वाहत"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पाऊस आल्यावर मुलं काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळतात", "is_correct": true },
+        { "option_id": 2, "text": "झोपतात", "is_correct": false },
+        { "option_id": 3, "text": "रडतात", "is_correct": false },
+        { "option_id": 4, "text": "लपतात", "is_correct": false }
+      ],
+      "answer": "खेळतात"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवितेचा प्रकार कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "कविता", "is_correct": true },
+        { "option_id": 2, "text": "कथा", "is_correct": false },
+        { "option_id": 3, "text": "निबंध", "is_correct": false },
+        { "option_id": 4, "text": "नाटक", "is_correct": false }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पावसामुळे निसर्ग कसा दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "सुंदर", "is_correct": true },
+        { "option_id": 2, "text": "कोरडा", "is_correct": false },
+        { "option_id": 3, "text": "धुळीचा", "is_correct": false },
+        { "option_id": 4, "text": "उदास", "is_correct": false }
+      ],
+      "answer": "सुंदर"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "या कवितेचे नाव काय आहे?",
+      "answer": "या कवितेचे नाव ‘पाऊस’ आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणता ऋतू वर्णन केला आहे?",
+      "answer": "कवितेत पावसाळी ऋतू वर्णन केला आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पाऊस आल्यावर आकाशात काय दिसते?",
+      "answer": "पाऊस आल्यावर आकाशात ढग दाटून येतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाण्यात काय सोडले जाते?",
+      "answer": "पाण्यात कागदी बोट सोडली जाते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "बोटीवर कोण बसते?",
+      "answer": "बोटीवर बेडूक बसतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "बेडूक कसा आवाज करतो?",
+      "answer": "बेडूक ड्रांव ड्रांव असा आवाज करतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पाऊस आल्यावर वातावरण कसे होते?",
+      "answer": "पाऊस आल्यावर वातावरण ओले होते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेत मुलं काय करतात?",
+      "answer": "कवितेत मुलं खेळताना दिसतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "पावसामुळे निसर्गावर काय परिणाम होतो?",
+      "answer": "पावसामुळे निसर्ग हिरवा आणि सुंदर दिसतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणत्या विषयावर आहे?",
+      "answer": "ही कविता पावसावर आधारित आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पाण्यात बोट कशी जाते?",
+      "answer": "पाण्यात बोट वाहत जाते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणता प्राणी आहे?",
+      "answer": "कवितेत बेडूक हा प्राणी आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पाऊस आल्यावर पाणी काय करते?",
+      "answer": "पाऊस आल्यावर पाणी वाढते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कविता वाचताना कसे वाटते?",
+      "answer": "कविता वाचताना आनंद वाटतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणासाठी आहे?",
+      "answer": "ही कविता लहान मुलांसाठी आहे."
+    }
+  ]
+}

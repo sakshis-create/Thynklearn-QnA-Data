@@ -1,0 +1,1031 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.04",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Environmental Management"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the basic functional unit used to study ecology?",
+      "options": [
+        { "option_id": 1, "text": "Environment", "is_correct": false },
+        { "option_id": 2, "text": "Ecosystem", "is_correct": true },
+        { "option_id": 3, "text": "Food chain", "is_correct": false },
+        { "option_id": 4, "text": "Population", "is_correct": false }
+      ],
+      "answer": "Ecosystem"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is an abiotic component of an ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "Plants", "is_correct": false },
+        { "option_id": 2, "text": "Microbes", "is_correct": false },
+        { "option_id": 3, "text": "Air", "is_correct": true },
+        { "option_id": 4, "text": "Animals", "is_correct": false }
+      ],
+      "answer": "Air"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The science that deals with the study of interactions between biotic and abiotic factors is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Biology", "is_correct": false },
+        { "option_id": 2, "text": "Ecology", "is_correct": true },
+        { "option_id": 3, "text": "Zoology", "is_correct": false },
+        { "option_id": 4, "text": "Geology", "is_correct": false }
+      ],
+      "answer": "Ecology"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "When was the United Nations Environment Program (UNEP) established?",
+      "options": [
+        { "option_id": 1, "text": "1972", "is_correct": true },
+        { "option_id": 2, "text": "1980", "is_correct": false },
+        { "option_id": 3, "text": "1986", "is_correct": false },
+        { "option_id": 4, "text": "1990", "is_correct": false }
+      ],
+      "answer": "1972"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which act prohibits the use of forest land for purposes other than forest conservation?",
+      "options": [
+        { "option_id": 1, "text": "Environmental Protection Act, 1986", "is_correct": false },
+        { "option_id": 2, "text": "Forest Conservation Act, 1980", "is_correct": true },
+        { "option_id": 3, "text": "Wildlife Protection Act, 1972", "is_correct": false },
+        { "option_id": 4, "text": "Sound Pollution Rule, 2000", "is_correct": false }
+      ],
+      "answer": "Forest Conservation Act, 1980"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which award was given to Jadav Molai Payeng by the Government of India?",
+      "options": [
+        { "option_id": 1, "text": "Bharat Ratna", "is_correct": false },
+        { "option_id": 2, "text": "Padma Bhushan", "is_correct": false },
+        { "option_id": 3, "text": "Padmashree", "is_correct": true },
+        { "option_id": 4, "text": "Arjuna Award", "is_correct": false }
+      ],
+      "answer": "Padmashree"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How many biodiversity hotspots are reported all over the world?",
+      "options": [
+        { "option_id": 1, "text": "25", "is_correct": false },
+        { "option_id": 2, "text": "34", "is_correct": true },
+        { "option_id": 3, "text": "50", "is_correct": false },
+        { "option_id": 4, "text": "100", "is_correct": false }
+      ],
+      "answer": "34"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is a 'Rare Species'?",
+      "options": [
+        { "option_id": 1, "text": "Lion", "is_correct": false },
+        { "option_id": 2, "text": "Red Panda", "is_correct": true },
+        { "option_id": 3, "text": "Giant Squirrel", "is_correct": false },
+        { "option_id": 4, "text": "Tiger", "is_correct": false }
+      ],
+      "answer": "Red Panda"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which animal is an example of an 'Indeterminate Species'?",
+      "options": [
+        { "option_id": 1, "text": "Lion-tailed monkey", "is_correct": false },
+        { "option_id": 2, "text": "Musk deer", "is_correct": false },
+        { "option_id": 3, "text": "Giant squirrel (Shekru)", "is_correct": true },
+        { "option_id": 4, "text": "Lesser florican", "is_correct": false }
+      ],
+      "answer": "Giant squirrel (Shekru)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What percentage of the Earth's area is currently left with sensitive biodiversity spots?",
+      "options": [
+        { "option_id": 1, "text": "15.7%", "is_correct": false },
+        { "option_id": 2, "text": "86%", "is_correct": false },
+        { "option_id": 3, "text": "2.3%", "is_correct": true },
+        { "option_id": 4, "text": "50%", "is_correct": false }
+      ],
+      "answer": "2.3%"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The forest conserved in the name of god is called __________.",
+      "options": [
+        { "option_id": 1, "text": "National Park", "is_correct": false },
+        { "option_id": 2, "text": "Sanctuary", "is_correct": false },
+        { "option_id": 3, "text": "Sacred Grove", "is_correct": true },
+        { "option_id": 4, "text": "Reserve Forest", "is_correct": false }
+      ],
+      "answer": "Sacred Grove"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which day is celebrated as World Biodiversity Day?",
+      "options": [
+        { "option_id": 1, "text": "5th June", "is_correct": false },
+        { "option_id": 2, "text": "22nd May", "is_correct": true },
+        { "option_id": 3, "text": "16th September", "is_correct": false },
+        { "option_id": 4, "text": "1st December", "is_correct": false }
+      ],
+      "answer": "22nd May"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which radiations are natural radioactive radiations?",
+      "options": [
+        { "option_id": 1, "text": "X-rays", "is_correct": false },
+        { "option_id": 2, "text": "UV and IR radiations", "is_correct": true },
+        { "option_id": 3, "text": "Atomic energy plant radiation", "is_correct": false },
+        { "option_id": 4, "text": "Gamma rays from reactors", "is_correct": false }
+      ],
+      "answer": "UV and IR radiations"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The 'Red List' of endangered species is prepared by __________.",
+      "options": [
+        { "option_id": 1, "text": "WHO", "is_correct": false },
+        { "option_id": 2, "text": "UNEP", "is_correct": false },
+        { "option_id": 3, "text": "IUCN", "is_correct": true },
+        { "option_id": 4, "text": "WWF", "is_correct": false }
+      ],
+      "answer": "IUCN"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Under the Wildlife Protection Act, 1972, which clause bans the trading of rare animals?",
+      "options": [
+        { "option_id": 1, "text": "Clause 49 A", "is_correct": true },
+        { "option_id": 2, "text": "Clause 49 B", "is_correct": false },
+        { "option_id": 3, "text": "Clause 49 C", "is_correct": false },
+        { "option_id": 4, "text": "Clause 50", "is_correct": false }
+      ],
+      "answer": "Clause 49 A"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Manas National Park is located in which state?",
+      "options": [
+        { "option_id": 1, "text": "West Bengal", "is_correct": false },
+        { "option_id": 2, "text": "Assam", "is_correct": true },
+        { "option_id": 3, "text": "Gujarat", "is_correct": false },
+        { "option_id": 4, "text": "Kerala", "is_correct": false }
+      ],
+      "answer": "Assam"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Sunderban National Park is reserved for which animal?",
+      "options": [
+        { "option_id": 1, "text": "Asiatic Lion", "is_correct": false },
+        { "option_id": 2, "text": "Rhino", "is_correct": false },
+        { "option_id": 3, "text": "Tiger", "is_correct": true },
+        { "option_id": 4, "text": "Wild Bison", "is_correct": false }
+      ],
+      "answer": "Tiger"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the penalty for breaching the Environmental Protection Act, 1986?",
+      "options": [
+        { "option_id": 1, "text": "Imprisonment for 15 days", "is_correct": false },
+        { "option_id": 2, "text": "Fine up to Rs. 1 lakh or 5 years jail", "is_correct": true },
+        { "option_id": 3, "text": "Fine up to Rs. 5000", "is_correct": false },
+        { "option_id": 4, "text": "No penalty", "is_correct": false }
+      ],
+      "answer": "Fine up to Rs. 1 lakh or 5 years jail"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which of these is a manmade factor affecting the environment?",
+      "options": [
+        { "option_id": 1, "text": "Earthquake", "is_correct": false },
+        { "option_id": 2, "text": "Deforestation", "is_correct": true },
+        { "option_id": 3, "text": "Volcano", "is_correct": false },
+        { "option_id": 4, "text": "Flood", "is_correct": false }
+      ],
+      "answer": "Deforestation"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "In the 'Red List', which pages contain names of endangered species?",
+      "options": [
+        { "option_id": 1, "text": "Green pages", "is_correct": false },
+        { "option_id": 2, "text": "Pink pages", "is_correct": true },
+        { "option_id": 3, "text": "White pages", "is_correct": false },
+        { "option_id": 4, "text": "Yellow pages", "is_correct": false }
+      ],
+      "answer": "Pink pages"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Diversity occurring among organisms of the same species is called __________.",
+      "options": [
+        { "option_id": 1, "text": "Species Diversity", "is_correct": false },
+        { "option_id": 2, "text": "Ecosystem Diversity", "is_correct": false },
+        { "option_id": 3, "text": "Genetic Diversity", "is_correct": true },
+        { "option_id": 4, "text": "Population Diversity", "is_correct": false }
+      ],
+      "answer": "Genetic Diversity"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The 'Molai Jungle' is located in which district of Assam?",
+      "options": [
+        { "option_id": 1, "text": "Guwahati", "is_correct": false },
+        { "option_id": 2, "text": "Jorhat", "is_correct": true },
+        { "option_id": 3, "text": "Tezpur", "is_correct": false },
+        { "option_id": 4, "text": "Dibrugarh", "is_correct": false }
+      ],
+      "answer": "Jorhat"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which movement was led by the Bishnoi community?",
+      "options": [
+        { "option_id": 1, "text": "Chipko Movement", "is_correct": true },
+        { "option_id": 2, "text": "Narmada Bachao", "is_correct": false },
+        { "option_id": 3, "text": "Silent Valley", "is_correct": false },
+        { "option_id": 4, "text": "Green Peace", "is_correct": false }
+      ],
+      "answer": "Chipko Movement"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who established the National Green Tribunal?",
+      "options": [
+        { "option_id": 1, "text": "UNEP", "is_correct": false },
+        { "option_id": 2, "text": "Indian Government (in 2010)", "is_correct": true },
+        { "option_id": 3, "text": "IUCN", "is_correct": false },
+        { "option_id": 4, "text": "WWF", "is_correct": false }
+      ],
+      "answer": "Indian Government (in 2010)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the primary role of decomposers in an ecosystem?",
+      "options": [
+        { "option_id": 1, "text": "Production of food", "is_correct": false },
+        { "option_id": 2, "text": "Consuming herbivores", "is_correct": false },
+        { "option_id": 3, "text": "Cleaning the environment", "is_correct": true },
+        { "option_id": 4, "text": "Controlling population", "is_correct": false }
+      ],
+      "answer": "Cleaning the environment"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of these is a biotic factor?",
+      "options": [
+        { "option_id": 1, "text": "Sunlight", "is_correct": false },
+        { "option_id": 2, "text": "Soil", "is_correct": false },
+        { "option_id": 3, "text": "Plants", "is_correct": true },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Plants"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What happens if the population of frogs declines in a paddy field?",
+      "options": [
+        { "option_id": 1, "text": "Paddy production increases", "is_correct": false },
+        { "option_id": 2, "text": "Snake population increases", "is_correct": false },
+        { "option_id": 3, "text": "Grasshopper population increases", "is_correct": true },
+        { "option_id": 4, "text": "No effect", "is_correct": false }
+      ],
+      "answer": "Grasshopper population increases"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Lion and Tiger are examples of which type of species in the context of threat?",
+      "options": [
+        { "option_id": 1, "text": "Endangered", "is_correct": false },
+        { "option_id": 2, "text": "Rare", "is_correct": false },
+        { "option_id": 3, "text": "Vulnerable", "is_correct": true },
+        { "option_id": 4, "text": "Indeterminate", "is_correct": false }
+      ],
+      "answer": "Vulnerable"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which organization published a survey stating 30% animal species extinction over 35 years?",
+      "options": [
+        { "option_id": 1, "text": "UNEP", "is_correct": false },
+        { "option_id": 2, "text": "IUCN", "is_correct": false },
+        { "option_id": 3, "text": "WWF", "is_correct": true },
+        { "option_id": 4, "text": "Green Peace", "is_correct": false }
+      ],
+      "answer": "WWF"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which ecosystem is the largest?",
+      "options": [
+        { "option_id": 1, "text": "A small pond", "is_correct": false },
+        { "option_id": 2, "text": "A forest", "is_correct": false },
+        { "option_id": 3, "text": "The Earth", "is_correct": true },
+        { "option_id": 4, "text": "A river", "is_correct": false }
+      ],
+      "answer": "The Earth"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which of these is a major nuclear mishap mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Bhopal Gas Tragedy", "is_correct": false },
+        { "option_id": 2, "text": "Chernobyl", "is_correct": true },
+        { "option_id": 3, "text": "Exxon Valdez", "is_correct": false },
+        { "option_id": 4, "text": "Amazon Fire", "is_correct": false }
+      ],
+      "answer": "Chernobyl"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Indiscriminate use of natural resources is a cause of __________.",
+      "options": [
+        { "option_id": 1, "text": "Environmental conservation", "is_correct": false },
+        { "option_id": 2, "text": "Environmental pollution", "is_correct": true },
+        { "option_id": 3, "text": "Sustainable development", "is_correct": false },
+        { "option_id": 4, "text": "Afforestation", "is_correct": false }
+      ],
+      "answer": "Environmental pollution"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "The Ministry of Environment and Forests has been involved in planning programs since __________.",
+      "options": [
+        { "option_id": 1, "text": "1972", "is_correct": false },
+        { "option_id": 2, "text": "1980", "is_correct": false },
+        { "option_id": 3, "text": "1985", "is_correct": true },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1985"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which clause of the Wildlife Protection Act bans the use of articles made from wild animal organs?",
+      "options": [
+        { "option_id": 1, "text": "Clause 49 A", "is_correct": false },
+        { "option_id": 2, "text": "Clause 49 B", "is_correct": true },
+        { "option_id": 3, "text": "Clause 49 C", "is_correct": false },
+        { "option_id": 4, "text": "Clause 48", "is_correct": false }
+      ],
+      "answer": "Clause 49 B"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "About how many endemic plant species are found in the Western Ghats?",
+      "options": [
+        { "option_id": 1, "text": "500", "is_correct": false },
+        { "option_id": 2, "text": "1,000", "is_correct": false },
+        { "option_id": 3, "text": "1,500", "is_correct": true },
+        { "option_id": 4, "text": "5,000", "is_correct": false }
+      ],
+      "answer": "1,500"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Green Peace is the world's largest organization engaged in __________.",
+      "options": [
+        { "option_id": 1, "text": "Space exploration", "is_correct": false },
+        { "option_id": 2, "text": "Environmental activities", "is_correct": true },
+        { "option_id": 3, "text": "Banking", "is_correct": false },
+        { "option_id": 4, "text": "Health care", "is_correct": false }
+      ],
+      "answer": "Environmental activities"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What helps to make future generations aware of environmental conservation?",
+      "options": [
+        { "option_id": 1, "text": "Education and awareness", "is_correct": true },
+        { "option_id": 2, "text": "Industrialization", "is_correct": false },
+        { "option_id": 3, "text": "Deforestation", "is_correct": false },
+        { "option_id": 4, "text": "Mining", "is_correct": false }
+      ],
+      "answer": "Education and awareness"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a role in environmental conservation discussed in the text?",
+      "options": [
+        { "option_id": 1, "text": "Prevention", "is_correct": false },
+        { "option_id": 2, "text": "Control", "is_correct": false },
+        { "option_id": 3, "text": "Production", "is_correct": false },
+        { "option_id": 4, "text": "Destruction", "is_correct": true }
+      ],
+      "answer": "Destruction"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The Western Ghats are spread over how many states?",
+      "options": [
+        { "option_id": 1, "text": "4", "is_correct": false },
+        { "option_id": 2, "text": "5", "is_correct": false },
+        { "option_id": 3, "text": "6", "is_correct": true },
+        { "option_id": 4, "text": "7", "is_correct": false }
+      ],
+      "answer": "6"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Musk deer is an example of which type of species?",
+      "options": [
+        { "option_id": 1, "text": "Endangered", "is_correct": false },
+        { "option_id": 2, "text": "Rare", "is_correct": true },
+        { "option_id": 3, "text": "Vulnerable", "is_correct": false },
+        { "option_id": 4, "text": "Indeterminate", "is_correct": false }
+      ],
+      "answer": "Rare"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Lesser florican is an example of which type of species?",
+      "options": [
+        { "option_id": 1, "text": "Endangered", "is_correct": true },
+        { "option_id": 2, "text": "Rare", "is_correct": false },
+        { "option_id": 3, "text": "Vulnerable", "is_correct": false },
+        { "option_id": 4, "text": "Indeterminate", "is_correct": false }
+      ],
+      "answer": "Endangered"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which factor creates an artificial environment?",
+      "options": [
+        { "option_id": 1, "text": "Forests", "is_correct": false },
+        { "option_id": 2, "text": "Mountains", "is_correct": false },
+        { "option_id": 3, "text": "Rivers", "is_correct": false },
+        { "option_id": 4, "text": "Industry", "is_correct": true }
+      ],
+      "answer": "Industry"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What is the result of incomplete combustion of fuels?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen release", "is_correct": false },
+        { "option_id": 2, "text": "Carbon monoxide formation", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen fixation", "is_correct": false },
+        { "option_id": 4, "text": "Ozone layer healing", "is_correct": false }
+      ],
+      "answer": "Carbon monoxide formation"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which of these is a way to conserve biodiversity?",
+      "options": [
+        { "option_id": 1, "text": "Hunting rare species", "is_correct": false },
+        { "option_id": 2, "text": "Establishing national parks", "is_correct": true },
+        { "option_id": 3, "text": "Cutting forests", "is_correct": false },
+        { "option_id": 4, "text": "Polluting rivers", "is_correct": false }
+      ],
+      "answer": "Establishing national parks"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "The Asiatic Lion's habitat in Western Ghats is under threat due to __________.",
+      "options": [
+        { "option_id": 1, "text": "Tourism", "is_correct": false },
+        { "option_id": 2, "text": "Mining industry", "is_correct": true },
+        { "option_id": 3, "text": "Climate change", "is_correct": false },
+        { "option_id": 4, "text": "Disease", "is_correct": false }
+      ],
+      "answer": "Mining industry"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "How many sacred groves have been reported in India?",
+      "options": [
+        { "option_id": 1, "text": "More than 13,000", "is_correct": true },
+        { "option_id": 2, "text": "Less than 1,000", "is_correct": false },
+        { "option_id": 3, "text": "Exactly 5,000", "is_correct": false },
+        { "option_id": 4, "text": "Around 20,000", "is_correct": false }
+      ],
+      "answer": "More than 13,000"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What is the main reason for the decline of Tiger population in Sunderbans?",
+      "options": [
+        { "option_id": 1, "text": "Excessive fishing and deforestation", "is_correct": true },
+        { "option_id": 2, "text": "Earthquakes", "is_correct": false },
+        { "option_id": 3, "text": "Lack of food", "is_correct": false },
+        { "option_id": 4, "text": "Tourism", "is_correct": false }
+      ],
+      "answer": "Excessive fishing and deforestation"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "The interactions between biotic and abiotic factors constitute __________.",
+      "options": [
+        { "option_id": 1, "text": "A population", "is_correct": false },
+        { "option_id": 2, "text": "An ecosystem", "is_correct": true },
+        { "option_id": 3, "text": "A biome", "is_correct": false },
+        { "option_id": 4, "text": "A community", "is_correct": false }
+      ],
+      "answer": "An ecosystem"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which cycle helps maintain environmental balance?",
+      "options": [
+        { "option_id": 1, "text": "Water cycle", "is_correct": true },
+        { "option_id": 2, "text": "Plastic cycle", "is_correct": false },
+        { "option_id": 3, "text": "Traffic cycle", "is_correct": false },
+        { "option_id": 4, "text": "Industrial cycle", "is_correct": false }
+      ],
+      "answer": "Water cycle"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Jadav Molai Payeng planted bamboo plantlets as a preventive measure against __________.",
+      "options": [
+        { "option_id": 1, "text": "Soil erosion", "is_correct": false },
+        { "option_id": 2, "text": "Snake deaths in flood", "is_correct": true },
+        { "option_id": 3, "text": "Deforestation", "is_correct": false },
+        { "option_id": 4, "text": "Wind", "is_correct": false }
+      ],
+      "answer": "Snake deaths in flood"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define Environment.",
+      "answer": "Environment is the condition in the surrounding that includes physical, chemical, biological, biotic, abiotic, natural, and artificial factors affecting living organisms."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Define Ecology.",
+      "answer": "Ecology is the science that deals with the study of interactions between biotic and abiotic factors of the environment."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is an Ecosystem?",
+      "answer": "An ecosystem is formed by biotic and abiotic factors and their interactions with each other in a definite geographical area."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name two natural factors affecting the environment.",
+      "answer": "Earthquakes and volcanoes (or floods/droughts) are natural factors affecting the environment."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name two manmade factors affecting the environment.",
+      "answer": "Deforestation and industrialization are manmade factors affecting the environment."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is Environmental Pollution?",
+      "answer": "Unnecessary and unacceptable change in the surrounding environment due to natural events or human activities that is harmful to living beings."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "List two reasons for environmental pollution.",
+      "answer": "Population explosion and fast industrialization are reasons for environmental pollution."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What are the two types of radioactive pollution?",
+      "answer": "Natural (UV, IR radiations) and Artificial (X-rays, atomic energy plant radiations)."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "State one effect of radiation on the human body.",
+      "answer": "Cancerous ulceration occurs due to higher radiations of X-rays."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the Environmental (Protection) Act, 1986?",
+      "answer": "Its purpose is to control pollution and punish persons or institutes harming the environment."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does Clause 49 A of the Wildlife Protection Act ban?",
+      "answer": "It completely bans the trading of rare animals."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does Clause 49 B of the Wildlife Protection Act ban?",
+      "answer": "It bans the use of articles prepared from the skin or organs of wild animals."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What does Clause 49 C of the Wildlife Protection Act mandate?",
+      "answer": "It mandates the disclosure of stock of artefacts made from rare wild animals."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Who is Jadav Molai Payeng?",
+      "answer": "He is a forest worker from Assam who single-handedly planted a forest over 1360 acres, known as 'Molai Jungle'."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is Biodiversity?",
+      "answer": "Biodiversity is the richness of living organisms in nature due to the presence of varieties of organisms, ecosystems, and genetic variations."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is Genetic Diversity?",
+      "answer": "It is the occurrence of diversity among the organisms of the same species (e.g., each human being is different)."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is Species Diversity?",
+      "answer": "It refers to the innumerable species of organisms (plants, animals, microbes) occurring in nature."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is Ecosystem Diversity?",
+      "answer": "It refers to the variety of ecosystems (natural and artificial) present in each region."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is a 'Sacred Grove'?",
+      "answer": "A forest conserved in the name of god and considered sacred, often protected by society rather than the government."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Where are Asiatic lions and wild bison habitats threatened?",
+      "answer": "Their habitats in the Western Ghats are under threat due to mining and natural gas search."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why is the Manas National Park under threat?",
+      "answer": "It is under threat due to dams and indiscriminate use of water."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What defines an Endangered Species?",
+      "answer": "Species whose numbers have declined or habitat shrunk so much that they could become extinct soon if not conserved."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What defines a Rare Species?",
+      "answer": "Species with considerably declined numbers, often endemic, which may become extinct very fast."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What defines a Vulnerable Species?",
+      "answer": "Species whose numbers are extremely less and continue to decline."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What defines an Indeterminate Species?",
+      "answer": "Species that appear endangered but lack definite information due to behavioral habits like shyness."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the 'Red List'?",
+      "answer": "A list prepared by IUCN containing names of endangered species from different countries."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Who prepares the 'Red List'?",
+      "answer": "The International Union for Conservation of Nature (IUCN) prepares the Red List."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What do pink pages in the Red List signify?",
+      "answer": "Pink pages contain the names of endangered species."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What do green pages in the Red List signify?",
+      "answer": "Green pages contain the names of previously endangered but presently safe species."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the World Wildlife Fund (WWF) 2008 survey finding?",
+      "answer": "It found that about 30% of animal species became extinct between 1975 and 2005."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why are caterpillars and termites important despite being 'dirty'?",
+      "answer": "They are responsible for cleaning the environment."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the main role of predators like lion and tiger?",
+      "answer": "They prevent the overpopulation of herbivores."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What creates an imbalance in the environment?",
+      "answer": "Natural factors and artificial pollution harm the environment, creating an imbalance between various factors."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is the role of the Forest (Conservation) Act, 1980?",
+      "answer": "It prohibits the use of land reserved for forest conservation for any other purpose without central government permission."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What happens if frogs in paddy fields decline?",
+      "answer": "Grasshopper numbers increase, damaging the paddy crop."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is environmental conservation the need of the hour?",
+      "answer": "Because pollution and other factors are threatening the existence of all living organisms."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How can one be a 'Conservator' in environment?",
+      "answer": "By conserving available resources."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "How can one be an 'Organizer' in environment?",
+      "answer": "By organizing awareness and participation activities."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the significance of the 22nd of May?",
+      "answer": "It is observed as World Biodiversity Day."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Give an example of an Endangered Species.",
+      "answer": "Lion-tailed monkey or Lesser florican."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Give an example of a Rare Species.",
+      "answer": "Red panda or Musk deer."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Give an example of a Vulnerable Species.",
+      "answer": "Tiger or Lion."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Give an example of an Indeterminate Species.",
+      "answer": "Giant squirrel (Shekru)."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is 'Jivo Jivasya Jivanam'?",
+      "answer": "It is a concept implying that one living organism serves as food for another (life depends on life)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why did snakes die in the Brahmaputra flood mentioned in the story?",
+      "answer": "They died due to heat and lack of shelter/shade."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What did Molai do to prevent snake deaths?",
+      "answer": "He planted 20 bamboo plantlets."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How long did Jadav Payeng work to create the forest?",
+      "answer": "He worked for 30 years."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the Chipko Movement associated with?",
+      "answer": "It is associated with forest conservation and protection of trees."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the role of the National Green Tribunal?",
+      "answer": "To effectively implement environment-related laws."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the effect of environmental balance disturbance?",
+      "answer": "It ultimately affects the existence of biotic factors and human life."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Explain the concept of Ecosystem with examples.",
+      "answer": "An ecosystem is formed by biotic (living) and abiotic (non-living) factors and their interactions. Each factor, such as producers (plants), herbivores (deer), predators (lion), and decomposers (termites), plays a crucial role. For example, in a forest ecosystem, plants produce food, herbivores eat plants, and predators eat herbivores. Even decomposers are vital for cleaning the environment."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Describe the effects of radioactive pollution.",
+      "answer": "Radioactive pollution, caused by natural sources like UV rays or artificial sources like X-rays and atomic plants, has severe effects. It can cause cancerous ulceration due to high X-ray exposure. It destroys body tissues, causes genetic changes, and adversely affects vision. Major mishaps like Chernobyl have affected thousands of people long-term."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Explain the need for environmental conservation.",
+      "answer": "Environmental conservation is necessary because pollution and habitat destruction threaten the existence of all living organisms. To maintain the balance of nature and solve natural and artificial problems, conservation is vital. Public participation and awareness through education are key to making conservation a movement. It is our responsibility to preserve the Earth for future generations."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Discuss the laws enacted for environmental conservation in India.",
+      "answer": "India has enacted several laws: 1. Forest Conservation Act (1980) prohibits non-forest use of forest land. 2. Environmental Protection Act (1986) controls pollution and punishes offenders. 3. Wildlife Protection Act (1972) bans trading rare animals and using their parts. These laws aim to protect forests, control pollution, and safeguard wildlife."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Narrate the story of Jadav Molai Payeng.",
+      "answer": "Jadav Molai Payeng, a forest worker from Assam, started planting bamboo in 1979 to protect snakes from heat. He continued planting trees single-handedly for 30 years, turning a barren area into a 1360-acre forest known as 'Molai Jungle'. For his unparalleled contribution, the Government of India awarded him the 'Padmashree'."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Explain the three levels of biodiversity.",
+      "answer": "Biodiversity occurs at three levels: 1. Genetic Diversity: Diversity within the same species (e.g., humans). 2. Species Diversity: Variety of different species of plants, animals, and microbes in nature. 3. Ecosystem Diversity: Variety of ecosystems (e.g., forest, aquatic) in a region, each with unique factors and interactions."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Describe 'Sacred Groves' and their importance.",
+      "answer": "Sacred Groves are forests conserved in the name of god and considered sacred. They act as sanctuaries protected by society rather than the government. Because of their religious significance, they offer special protection to flora and fauna. There are over 13,000 such groves in India, preserving biodiversity."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Explain the classification of threatened species with examples.",
+      "answer": "Threatened species are classified into: 1. Endangered: Numbers declined significantly (e.g., Lion-tailed monkey). 2. Rare: Numbers declined, often endemic (e.g., Red Panda). 3. Vulnerable: Extremely low numbers, continuing to decline (e.g., Tiger). 4. Indeterminate: Endangered but lack data due to habits (e.g., Giant squirrel)."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Discuss the 'Biodiversity Hotspots' and their status.",
+      "answer": "There are 34 biodiversity hotspots worldwide, which are highly sensitive areas. Originally covering 15.7% of Earth, now only 2.3% remains as sensitive spots; 86% have been destroyed. These spots host 50% of the world's plant species. In India, hotspots include the Western Ghats, where many endemic species are found."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "What is the role of human beings in environmental balance?",
+      "answer": "Humans have a crucial role. Their superiority in intelligence enabled them to dominate nature and use resources extensively, causing imbalance. However, humans also have the capability to conserve and improve nature. By changing their mindset from exploitation to conservation, protection, and awareness, humans can restore environmental balance."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "Explain the impact of the Forest Conservation Act, 1980.",
+      "answer": "The Forest Conservation Act, 1980, restricts the use of forest land for non-forest purposes. It requires central government permission for activities like mining. Disobedience entails imprisonment for 15 days. This act is crucial for preventing deforestation and preserving forest cover."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "How can biodiversity be conserved?",
+      "answer": "Biodiversity can be conserved by: 1. Protecting rare species. 2. Establishing national parks and sanctuaries. 3. Declaring bio-reserves. 4. Implementing conservation projects for special species. 5. Conserving all plants and animals. 6. Observing rules. 7. Recording traditional knowledge."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Describe the environmental role of the 'Consumer' in a food chain.",
+      "answer": "Consumers play a vital role in regulating the population of other organisms. Herbivores control plant growth, while predators (carnivores) control herbivore populations, preventing overgrazing. This balance ensures the stability of the ecosystem. If consumers decline, it disrupts the food chain and affects other levels."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "Explain the threats to the Western Ghats, Manas, and Sunderbans.",
+      "answer": "Western Ghats are threatened by mining and natural gas exploration, affecting Asiatic lions and bison. Manas National Park faces threats from dams and indiscriminate water use, impacting tigers and rhinos. Sunderbans is challenged by dams, deforestation, and fishing, endangering its tiger population."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "What is the 'Green Peace' organization?",
+      "answer": "Green Peace is the world's largest environmental organization. It has members from 26 countries, totaling over 25 lakh people. It engages in environmental activities and campaigns to protect nature, promoting sustainable practices globally."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Explain the difference between natural and artificial pollution.",
+      "answer": "Natural pollution is caused by natural events like earthquakes or volcanic eruptions, which release materials into the environment. Artificial pollution is caused by human activities like industrialization, deforestation, and urbanization, leading to air, water, and soil contamination."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "Describe the flow of energy in an ecosystem context (briefly).",
+      "answer": "In an ecosystem, energy flows from the sun to producers (plants), then to primary consumers (herbivores), secondary consumers (carnivores), and finally to tertiary consumers. Decomposers recycle nutrients. This flow is often depicted as a food chain or food web, where each level depends on the previous one for energy."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "What lessons can we learn from the story of Jadav Molai Payeng?",
+      "answer": "We learn that a single determined person can make a massive difference. His dedication shows that humans can create forests and restore nature, not just destroy it. It teaches us the value of persistence and individual responsibility in environmental conservation."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "Why is the frog population important in paddy fields?",
+      "answer": "Frogs in paddy fields feed on grasshoppers, which are pests that attack the crop. By controlling the grasshopper population, frogs protect the paddy. If frogs decline, grasshoppers increase, damaging crops, and the predator (snake) population also gets affected."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Justify the statement: 'The Earth is sufficient to satisfy everyone's need but not the greed.'",
+      "answer": "This quote by Mahatma Gandhi highlights that nature provides enough resources for survival if used wisely. However, human greed leads to over-exploitation, wastage, and destruction of resources, causing scarcity and environmental imbalance. Sustainable use is key to survival."
+    }
+  ]
+}

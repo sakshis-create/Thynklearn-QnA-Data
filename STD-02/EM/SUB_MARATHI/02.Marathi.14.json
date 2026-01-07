@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.14",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "शोधूया"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी 'पक्षी' कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "घोडा", "is_correct": false },
+        { "option_id": 2, "text": "चिमणी", "is_correct": true },
+        { "option_id": 3, "text": "म्हैस", "is_correct": false },
+        { "option_id": 4, "text": "बेडूक", "is_correct": false }
+      ],
+      "answer": "चिमणी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वाळवंटातील जहाज कोणाला म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "हत्ती", "is_correct": false },
+        { "option_id": 2, "text": "उंट", "is_correct": true },
+        { "option_id": 3, "text": "घोडा", "is_correct": false },
+        { "option_id": 4, "text": "बगळा", "is_correct": false }
+      ],
+      "answer": "उंट"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पावसात 'डरांव-डरांव' कोण ओरडते?",
+      "options": [
+        { "option_id": 1, "text": "बेडूक", "is_correct": true },
+        { "option_id": 2, "text": "कावळा", "is_correct": false },
+        { "option_id": 3, "text": "घोडा", "is_correct": false },
+        { "option_id": 4, "text": "उंट", "is_correct": false }
+      ],
+      "answer": "बेडूक"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कोणत्या प्राण्याला लांब सोंड असते?",
+      "options": [
+        { "option_id": 1, "text": "हत्ती", "is_correct": true },
+        { "option_id": 2, "text": "घोडा", "is_correct": false },
+        { "option_id": 3, "text": "म्हैस", "is_correct": false },
+        { "option_id": 4, "text": "मोर", "is_correct": false }
+      ],
+      "answer": "हत्ती"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पावसात थुईथुई नाचणारा पक्षी कोणता?",
+      "options": [
+        { "option_id": 1, "text": "कावळा", "is_correct": false },
+        { "option_id": 2, "text": "मोर", "is_correct": true },
+        { "option_id": 3, "text": "पोपट", "is_correct": false },
+        { "option_id": 4, "text": "बगळा", "is_correct": false }
+      ],
+      "answer": "मोर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पोपटाचा रंग कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "काळा", "is_correct": false },
+        { "option_id": 2, "text": "पांढरा", "is_correct": false },
+        { "option_id": 3, "text": "हिरवा", "is_correct": true },
+        { "option_id": 4, "text": "लाल", "is_correct": false }
+      ],
+      "answer": "हिरवा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "काळ्या रंगाचा पक्षी कोणता?",
+      "options": [
+        { "option_id": 1, "text": "मोर", "is_correct": false },
+        { "option_id": 2, "text": "कावळा", "is_correct": true },
+        { "option_id": 3, "text": "बगळा", "is_correct": false },
+        { "option_id": 4, "text": "पोपट", "is_correct": false }
+      ],
+      "answer": "कावळा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पाण्यात उभा राहणारा पांढरा पक्षी कोणता?",
+      "options": [
+        { "option_id": 1, "text": "चिमणी", "is_correct": false },
+        { "option_id": 2, "text": "बगळा", "is_correct": true },
+        { "option_id": 3, "text": "कावळा", "is_correct": false },
+        { "option_id": 4, "text": "मोर", "is_correct": false }
+      ],
+      "answer": "बगळा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वेगाने धावणारा प्राणी कोणता?",
+      "options": [
+        { "option_id": 1, "text": "घोडा", "is_correct": true },
+        { "option_id": 2, "text": "कासव", "is_correct": false },
+        { "option_id": 3, "text": "हत्ती", "is_correct": false },
+        { "option_id": 4, "text": "बेडूक", "is_correct": false }
+      ],
+      "answer": "घोडा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "दूध देणारा काळ्या रंगाचा प्राणी कोणता?",
+      "options": [
+        { "option_id": 1, "text": "म्हैस", "is_correct": true },
+        { "option_id": 2, "text": "हत्ती", "is_correct": false },
+        { "option_id": 3, "text": "घोडा", "is_correct": false },
+        { "option_id": 4, "text": "बेडूक", "is_correct": false }
+      ],
+      "answer": "म्हैस"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कोणाच्या डोक्यावर शिंगे असतात?",
+      "options": [
+        { "option_id": 1, "text": "घोडा", "is_correct": false },
+        { "option_id": 2, "text": "म्हैस", "is_correct": true },
+        { "option_id": 3, "text": "हत्ती", "is_correct": false },
+        { "option_id": 4, "text": "बेडूक", "is_correct": false }
+      ],
+      "answer": "म्हैस"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "चिमणी काय खाते?",
+      "options": [
+        { "option_id": 1, "text": "गवत", "is_correct": false },
+        { "option_id": 2, "text": "दाणे", "is_correct": true },
+        { "option_id": 3, "text": "मासे", "is_correct": false },
+        { "option_id": 4, "text": "मांस", "is_correct": false }
+      ],
+      "answer": "दाणे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या पाठात आपण काय शोधले?",
+      "options": [
+        { "option_id": 1, "text": "प्राणी आणि पक्षी", "is_correct": true },
+        { "option_id": 2, "text": "फुले", "is_correct": false },
+        { "option_id": 3, "text": "फळे", "is_correct": false },
+        { "option_id": 4, "text": "वाहने", "is_correct": false }
+      ],
+      "answer": "प्राणी आणि पक्षी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'मोर' या शब्दाचा शेवटचा वर्ण कोणता?",
+      "options": [
+        { "option_id": 1, "text": "म", "is_correct": false },
+        { "option_id": 2, "text": "र", "is_correct": true },
+        { "option_id": 3, "text": "ओ", "is_correct": false },
+        { "option_id": 4, "text": "प", "is_correct": false }
+      ],
+      "answer": "र"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "लाल चोच असलेला पक्षी कोणता?",
+      "options": [
+        { "option_id": 1, "text": "कावळा", "is_correct": false },
+        { "option_id": 2, "text": "पोपट", "is_correct": true },
+        { "option_id": 3, "text": "चिमणी", "is_correct": false },
+        { "option_id": 4, "text": "बगळा", "is_correct": false }
+      ],
+      "answer": "पोपट"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "दोन पाळीव प्राण्यांची नावे लिहा.",
+      "answer": "म्हैस आणि घोडा (किंवा गाय, बैल)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "आकाशात उडणाऱ्या दोन पक्ष्यांची नावे सांगा.",
+      "answer": "चिमणी आणि कावळा."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "हत्तीचे शरीर कसे असते?",
+      "answer": "हत्तीचे शरीर खूप मोठे आणि धिप्पाड असते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "बेडूक कोठे राहतो?",
+      "answer": "बेडूक पाण्यात आणि जमिनीवर राहतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "'कावळा' कसा आवाज करतो?",
+      "answer": "'कावळा' 'काव-काव' असा आवाज करतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "उंटाचा उपयोग कोठे होतो?",
+      "answer": "उंटाचा उपयोग वाळवंटात प्रवासासाठी होतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "घोड्याचा आवाज कसा असतो?",
+      "answer": "घोडा 'खिंकाळतो'."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "मोराचे पंख कसे असतात?",
+      "answer": "मोराचे पंख रंगीबेरंगी आणि सुंदर असतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "म्हैस कोणत्या रंगाची असते?",
+      "answer": "म्हैस काळ्या रंगाची असते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "बगळ्याचा रंग कोणता असतो?",
+      "answer": "बगळ्याचा रंग पांढरा असतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कोणता प्राणी शेतीसाठी उपयोगी पडतो?",
+      "answer": "बैल (किंवा म्हैस) शेतीसाठी उपयोगी पडतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "'चिमणी' या शब्दाचे अनेकवचन काय?",
+      "answer": "'चिमण्या'."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पोपटाला खायला काय आवडते?",
+      "answer": "पोपटाला मिरची किंवा पेरू खायला आवडते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "चार पाय असलेल्या दोन प्राण्यांची नावे सांगा.",
+      "answer": "हत्ती, घोडा (किंवा म्हैस, उंट)."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या पाठात किती पक्ष्यांची नावे आली आहेत?",
+      "answer": "या पाठात चिमणी, पोपट, मोर, बगळा आणि कावळा अशा ५ पक्ष्यांची नावे आली आहेत."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.10",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Chameleons"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "How often are chameleons seen according to the poem?",
+      "options": [
+        { "option_id": 1, "text": "Always", "is_correct": false },
+        { "option_id": 2, "text": "Seldom", "is_correct": true },
+        { "option_id": 3, "text": "Daily", "is_correct": false },
+        { "option_id": 4, "text": "Never", "is_correct": false }
+      ],
+      "answer": "Seldom"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following colors is NOT mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Red", "is_correct": false },
+        { "option_id": 2, "text": "Orange", "is_correct": false },
+        { "option_id": 3, "text": "Blue", "is_correct": true },
+        { "option_id": 4, "text": "Green", "is_correct": false }
+      ],
+      "answer": "Blue"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What are chameleons compared to in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Rainbows", "is_correct": false },
+        { "option_id": 2, "text": "Traffic lights", "is_correct": true },
+        { "option_id": 3, "text": "Butterflies", "is_correct": false },
+        { "option_id": 4, "text": "Stars", "is_correct": false }
+      ],
+      "answer": "Traffic lights"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'Chameleons'?",
+      "options": [
+        { "option_id": 1, "text": "Ruskin Bond", "is_correct": false },
+        { "option_id": 2, "text": "Colin West", "is_correct": true },
+        { "option_id": 3, "text": "Aesop", "is_correct": false },
+        { "option_id": 4, "text": "Shakespeare", "is_correct": false }
+      ],
+      "answer": "Colin West"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Chameleons are described as one of nature's _________ sights.",
+      "options": [
+        { "option_id": 1, "text": "Best", "is_correct": false },
+        { "option_id": 2, "text": "Worst", "is_correct": false },
+        { "option_id": 3, "text": "Strangest", "is_correct": true },
+        { "option_id": 4, "text": "Biggest", "is_correct": false }
+      ],
+      "answer": "Strangest"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the rhyme scheme for 'seen' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Red", "is_correct": false },
+        { "option_id": 2, "text": "Orange", "is_correct": false },
+        { "option_id": 3, "text": "Green", "is_correct": true },
+        { "option_id": 4, "text": "Lights", "is_correct": false }
+      ],
+      "answer": "Green"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What part of the chameleon changes?",
+      "options": [
+        { "option_id": 1, "text": "Shape", "is_correct": false },
+        { "option_id": 2, "text": "Size", "is_correct": false },
+        { "option_id": 3, "text": "Colors", "is_correct": true },
+        { "option_id": 4, "text": "Tail", "is_correct": false }
+      ],
+      "answer": "Colors"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'sights'?",
+      "options": [
+        { "option_id": 1, "text": "Traffic", "is_correct": false },
+        { "option_id": 2, "text": "Lights", "is_correct": true },
+        { "option_id": 3, "text": "Seen", "is_correct": false },
+        { "option_id": 4, "text": "Nature", "is_correct": false }
+      ],
+      "answer": "Lights"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How many colors are specifically named in the poem?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": false },
+        { "option_id": 3, "text": "Three", "is_correct": true },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which Unit does this chapter belong to?",
+      "options": [
+        { "option_id": 1, "text": "Unit One", "is_correct": false },
+        { "option_id": 2, "text": "Unit Two", "is_correct": true },
+        { "option_id": 3, "text": "Unit Three", "is_correct": false },
+        { "option_id": 4, "text": "Unit Four", "is_correct": false }
+      ],
+      "answer": "Unit Two"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What activity is asked for in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Sing a song", "is_correct": false },
+        { "option_id": 2, "text": "Colour the picture", "is_correct": true },
+        { "option_id": 3, "text": "Dance", "is_correct": false },
+        { "option_id": 4, "text": "Write a story", "is_correct": false }
+      ],
+      "answer": "Colour the picture"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the correct spelling of the animal in the title?",
+      "options": [
+        { "option_id": 1, "text": "Cameleons", "is_correct": false },
+        { "option_id": 2, "text": "Chameleons", "is_correct": true },
+        { "option_id": 3, "text": "Chemeleons", "is_correct": false },
+        { "option_id": 4, "text": "Chamellions", "is_correct": false }
+      ],
+      "answer": "Chameleons"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "In the picture, where is the chameleon sitting?",
+      "options": [
+        { "option_id": 1, "text": "On a rock", "is_correct": false },
+        { "option_id": 2, "text": "On a branch", "is_correct": true },
+        { "option_id": 3, "text": "In the water", "is_correct": false },
+        { "option_id": 4, "text": "On a car", "is_correct": false }
+      ],
+      "answer": "On a branch"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does the word 'seldom' mean?",
+      "options": [
+        { "option_id": 1, "text": "Often", "is_correct": false },
+        { "option_id": 2, "text": "Rarely / Not often", "is_correct": true },
+        { "option_id": 3, "text": "Everyday", "is_correct": false },
+        { "option_id": 4, "text": "Quickly", "is_correct": false }
+      ],
+      "answer": "Rarely / Not often"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a color of a traffic light?",
+      "options": [
+        { "option_id": 1, "text": "Red", "is_correct": false },
+        { "option_id": 2, "text": "Green", "is_correct": false },
+        { "option_id": 3, "text": "Purple", "is_correct": true },
+        { "option_id": 4, "text": "Orange", "is_correct": false }
+      ],
+      "answer": "Purple"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Name the three colors mentioned in the poem.",
+      "answer": "Red, orange, and green."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who is the poet of the poem 'Chameleons'?",
+      "answer": "Colin West."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are chameleons said to change like?",
+      "answer": "They change like traffic lights."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Write the rhyming word for 'seen'.",
+      "answer": "Green."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Write the rhyming word for 'lights'.",
+      "answer": "Sights."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Are chameleons seen often?",
+      "answer": "No, they are seldom seen."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does the poem call chameleons in nature?",
+      "answer": "It calls them one of nature's strangest sights."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What activity should you do with the picture in the book?",
+      "answer": "Colour the picture."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How many rhyming pairs are given in the 'Say the rhyming words' section?",
+      "answer": "Two pairs (Seen-Green, Sights-Lights)."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which unit is this chapter a part of?",
+      "answer": "Unit Two."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Spell the word that means 'strange' or 'unusual' from the poem.",
+      "answer": "Strangest."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What feature of the chameleon makes it special?",
+      "answer": "Its ability to change colors."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "List two words from the 'Look and say' section.",
+      "answer": "Chameleons, seldom, strangest, sights (any two)."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "In the line 'then they're green', who is 'they' referring to?",
+      "answer": "They refers to chameleons."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does the poet compare the changing colors to?",
+      "answer": "To traffic lights."
+    }
+  ]
+}

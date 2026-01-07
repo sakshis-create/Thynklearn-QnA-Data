@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.11",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Drawing"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the first activity mentioned in the Drawing chapter?",
+      "options": [
+        { "option_id": 1, "text": "Painting", "is_correct": false },
+        { "option_id": 2, "text": "Scribbling", "is_correct": true },
+        { "option_id": 3, "text": "Dancing", "is_correct": false },
+        { "option_id": 4, "text": "Singing", "is_correct": false }
+      ],
+      "answer": "Scribbling"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which shapes are suggested to be drawn while scribbling?",
+      "options": [
+        { "option_id": 1, "text": "Stars and Moons", "is_correct": false },
+        { "option_id": 2, "text": "Circles, Triangles and Squares", "is_correct": true },
+        { "option_id": 3, "text": "Cars and Buses", "is_correct": false },
+        { "option_id": 4, "text": "Trees and Birds", "is_correct": false }
+      ],
+      "answer": "Circles, Triangles and Squares"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What tools can be used for scribbling according to the text?",
+      "options": [
+        { "option_id": 1, "text": "Only pencils", "is_correct": false },
+        { "option_id": 2, "text": "Coloured pencils, crayons, and sketch pens", "is_correct": true },
+        { "option_id": 3, "text": "Paint brushes only", "is_correct": false },
+        { "option_id": 4, "text": "Chalk only", "is_correct": false }
+      ],
+      "answer": "Coloured pencils, crayons, and sketch pens"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In the 'Fun with dots' activity, what do you join to form pictures?",
+      "options": [
+        { "option_id": 1, "text": "Letters", "is_correct": false },
+        { "option_id": 2, "text": "Dots with sequence of numbers", "is_correct": true },
+        { "option_id": 3, "text": "Colours", "is_correct": false },
+        { "option_id": 4, "text": "Lines", "is_correct": false }
+      ],
+      "answer": "Dots with sequence of numbers"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What should be used as a base to draw different objects?",
+      "options": [
+        { "option_id": 1, "text": "Complex shapes", "is_correct": false },
+        { "option_id": 2, "text": "Circle, triangle and square", "is_correct": true },
+        { "option_id": 3, "text": "Photographs", "is_correct": false },
+        { "option_id": 4, "text": "Maps", "is_correct": false }
+      ],
+      "answer": "Circle, triangle and square"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where can children find shapes like leaves and flowers to draw?",
+      "options": [
+        { "option_id": 1, "text": "In Nature", "is_correct": true },
+        { "option_id": 2, "text": "In the sky", "is_correct": false },
+        { "option_id": 3, "text": "In a box", "is_correct": false },
+        { "option_id": 4, "text": "Under water", "is_correct": false }
+      ],
+      "answer": "In Nature"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these is a colour mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Transparent", "is_correct": false },
+        { "option_id": 2, "text": "Purple", "is_correct": true },
+        { "option_id": 3, "text": "Wind", "is_correct": false },
+        { "option_id": 4, "text": "Sound", "is_correct": false }
+      ],
+      "answer": "Purple"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What are children asked to match colours with?",
+      "options": [
+        { "option_id": 1, "text": "Cars and trucks", "is_correct": false },
+        { "option_id": 2, "text": "Flowers and fruits", "is_correct": true },
+        { "option_id": 3, "text": "Books and pens", "is_correct": false },
+        { "option_id": 4, "text": "Shoes and socks", "is_correct": false }
+      ],
+      "answer": "Flowers and fruits"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What helps to develop good handwriting according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Scribbling only", "is_correct": false },
+        { "option_id": 2, "text": "Copywriting and practicing lines", "is_correct": true },
+        { "option_id": 3, "text": "Reading books", "is_correct": false },
+        { "option_id": 4, "text": "Running", "is_correct": false }
+      ],
+      "answer": "Copywriting and practicing lines"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What should children do after scribbling to create shapes?",
+      "options": [
+        { "option_id": 1, "text": "Place dots at appropriate places", "is_correct": true },
+        { "option_id": 2, "text": "Erase everything", "is_correct": false },
+        { "option_id": 3, "text": "Tear the paper", "is_correct": false },
+        { "option_id": 4, "text": "Fold the paper", "is_correct": false }
+      ],
+      "answer": "Place dots at appropriate places"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which colour is NOT listed in the 'Introduction to some colours' section?",
+      "options": [
+        { "option_id": 1, "text": "Red", "is_correct": false },
+        { "option_id": 2, "text": "Gold", "is_correct": true },
+        { "option_id": 3, "text": "Yellow", "is_correct": false },
+        { "option_id": 4, "text": "Blue", "is_correct": false }
+      ],
+      "answer": "Gold"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the section 'My Pictures' for?",
+      "options": [
+        { "option_id": 1, "text": "To paste photos", "is_correct": false },
+        { "option_id": 2, "text": "To write a story", "is_correct": false },
+        { "option_id": 3, "text": "To draw pictures of their own choice", "is_correct": true },
+        { "option_id": 4, "text": "To solve math problems", "is_correct": false }
+      ],
+      "answer": "To draw pictures of their own choice"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Nature is described as being blessed with a variety of ________.",
+      "options": [
+        { "option_id": 1, "text": "Noises", "is_correct": false },
+        { "option_id": 2, "text": "Colours", "is_correct": true },
+        { "option_id": 3, "text": "Cars", "is_correct": false },
+        { "option_id": 4, "text": "Buildings", "is_correct": false }
+      ],
+      "answer": "Colours"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which activity involves joining dots?",
+      "options": [
+        { "option_id": 1, "text": "Fun with dots", "is_correct": true },
+        { "option_id": 2, "text": "Copywriting", "is_correct": false },
+        { "option_id": 3, "text": "Scribbling", "is_correct": false },
+        { "option_id": 4, "text": "Singing", "is_correct": false }
+      ],
+      "answer": "Fun with dots"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why should we not get annoyed while children scribble?",
+      "options": [
+        { "option_id": 1, "text": "Because they are sleeping", "is_correct": false },
+        { "option_id": 2, "text": "Because they are learning", "is_correct": true },
+        { "option_id": 3, "text": "Because they are playing", "is_correct": false },
+        { "option_id": 4, "text": "Because they are crying", "is_correct": false }
+      ],
+      "answer": "Because they are learning"
+    }
+  ],
+  "questions_short": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What helps children learn to draw lovely shapes?",
+      "answer": "Scribbling helps children learn to draw lovely shapes."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name three tools mentioned for scribbling.",
+      "answer": "Coloured pencils, coloured crayons, and sketch pens."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the instruction for the 'Fun with dots' activity?",
+      "answer": "Join the dots with the sequence of numbers."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which three shapes are used as a base for drawing objects?",
+      "answer": "Circle, triangle, and square."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Where should children look for shapes to draw?",
+      "answer": "Children should observe and draw shapes found in nature."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name four colours mentioned in the chapter.",
+      "answer": "Red, Yellow, Blue, and Green."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What should be done to cultivate good handwriting?",
+      "answer": "Children should practice different types of lines and copywriting at a young age."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What can children relate colours to?",
+      "answer": "Children can relate colours to things of similar colours in nature."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the poem in the Scribbling section about?",
+      "answer": "The poem is about learning to draw through scribbling."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What follows the 'Fun with dots' activity in the text?",
+      "answer": "Drawing simple shapes of familiar objects."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Copywriting' section?",
+      "answer": "To help children practice lines and develop good handwriting."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What are children expected to do in 'My Pictures'?",
+      "answer": "Draw pictures of their own choice."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "List two colours mentioned besides Red and Blue.",
+      "answer": "Orange and Purple."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the teacher's role during the shape activity?",
+      "answer": "To instruct children to practice drawing simple shapes."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the motto mentioned in the poem?",
+      "answer": "Together we Play, we Do and Learn."
+    }
+  ]
+}

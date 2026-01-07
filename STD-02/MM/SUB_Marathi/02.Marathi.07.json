@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.07",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "वडेश बहरला"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "वडेश कोणत्या गावाजवळ होते?",
+      "options": [
+        { "option_id": 1, "text": "चिंचपूर", "is_correct": true },
+        { "option_id": 2, "text": "नागपूर", "is_correct": false },
+        { "option_id": 3, "text": "पुणे", "is_correct": false },
+        { "option_id": 4, "text": "सातारा", "is_correct": false }
+      ],
+      "answer": "चिंचपूर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वडेशच्या झाडावर काय असायचे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त फुले", "is_correct": false },
+        { "option_id": 2, "text": "फक्त पाने", "is_correct": false },
+        { "option_id": 3, "text": "फांदीफांदीवर पानेच पाने", "is_correct": true },
+        { "option_id": 4, "text": "फक्त फळे", "is_correct": false }
+      ],
+      "answer": "फांदीफांदीवर पानेच पाने"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वडेशवर कोणकोणती पाखरे येत असत?",
+      "options": [
+        { "option_id": 1, "text": "चिमणी, कावळा, खारुताई, मैना, राघू", "is_correct": true },
+        { "option_id": 2, "text": "फक्त चिमणी", "is_correct": false },
+        { "option_id": 3, "text": "फक्त कावळा", "is_correct": false },
+        { "option_id": 4, "text": "फक्त खारुताई", "is_correct": false }
+      ],
+      "answer": "चिमणी, कावळा, खारुताई, मैना, राघू"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "चिमणीच्या पिलाचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "कानू", "is_correct": false },
+        { "option_id": 2, "text": "चिनू", "is_correct": true },
+        { "option_id": 3, "text": "पिनू", "is_correct": false },
+        { "option_id": 4, "text": "राघू", "is_correct": false }
+      ],
+      "answer": "चिनू"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वडेश पिलांना रागावून काय म्हणायचा?",
+      "options": [
+        { "option_id": 1, "text": "इथेच बसा", "is_correct": false },
+        { "option_id": 2, "text": "नाचत राहा", "is_correct": false },
+        { "option_id": 3, "text": "उडा उंच भूर भूर", "is_correct": true },
+        { "option_id": 4, "text": "घरी जा", "is_correct": false }
+      ],
+      "answer": "उडा उंच भूर भूर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाखरे दूर का निघून गेली?",
+      "options": [
+        { "option_id": 1, "text": "त्यांना झाड आवडत नव्हते", "is_correct": false },
+        { "option_id": 2, "text": "वडेश नेहमी रागवत होता", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस पडत होता", "is_correct": false },
+        { "option_id": 4, "text": "तिथे घर नव्हते", "is_correct": false }
+      ],
+      "answer": "वडेश नेहमी रागवत होता"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "वडेशला कधी एकटे वाटू लागले?",
+      "options": [
+        { "option_id": 1, "text": "पाखरे गेल्यावर", "is_correct": true },
+        { "option_id": 2, "text": "पाऊस आल्यावर", "is_correct": false },
+        { "option_id": 3, "text": "हिवाळा आल्यावर", "is_correct": false },
+        { "option_id": 4, "text": "रात्र झाली तेव्हा", "is_correct": false }
+      ],
+      "answer": "पाखरे गेल्यावर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वसंत ऋतूत झाडावर काय दिसू लागले?",
+      "options": [
+        { "option_id": 1, "text": "हिरवीगार पाने", "is_correct": true },
+        { "option_id": 2, "text": "कोरडी फांदी", "is_correct": false },
+        { "option_id": 3, "text": "काटे", "is_correct": false },
+        { "option_id": 4, "text": "कोणीच नाही", "is_correct": false }
+      ],
+      "answer": "हिरवीगार पाने"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "फळे शेवटी कशी झाली?",
+      "options": [
+        { "option_id": 1, "text": "हिरवी", "is_correct": false },
+        { "option_id": 2, "text": "पांढरी", "is_correct": false },
+        { "option_id": 3, "text": "लालचुटुक", "is_correct": true },
+        { "option_id": 4, "text": "निळी", "is_correct": false }
+      ],
+      "answer": "लालचुटुक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पाखरांना परत येण्यासाठी वडेश काय म्हणाला?",
+      "options": [
+        { "option_id": 1, "text": "जा दूर", "is_correct": false },
+        { "option_id": 2, "text": "यारे या, सारे या", "is_correct": true },
+        { "option_id": 3, "text": "खेळू नका", "is_correct": false },
+        { "option_id": 4, "text": "बोलू नका", "is_correct": false }
+      ],
+      "answer": "यारे या, सारे या"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पाखरांनी परत का यायचे ठरवले?",
+      "options": [
+        { "option_id": 1, "text": "कारण त्यांना फळे दिसली", "is_correct": true },
+        { "option_id": 2, "text": "कारण त्यांना कंटाळा आला", "is_correct": false },
+        { "option_id": 3, "text": "कारण पाऊस पडला", "is_correct": false },
+        { "option_id": 4, "text": "कारण त्यांना झोप येत होती", "is_correct": false }
+      ],
+      "answer": "कारण त्यांना फळे दिसली"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "शेवटी पाखरांनी काय केले?",
+      "options": [
+        { "option_id": 1, "text": "दूर गेली", "is_correct": false },
+        { "option_id": 2, "text": "वडेशवर घरटी बांधली", "is_correct": true },
+        { "option_id": 3, "text": "रागावली", "is_correct": false },
+        { "option_id": 4, "text": "गप्प बसली", "is_correct": false }
+      ],
+      "answer": "वडेशवर घरटी बांधली"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "वडेश शेवटी कसा झाला?",
+      "options": [
+        { "option_id": 1, "text": "वैतागलेला", "is_correct": false },
+        { "option_id": 2, "text": "रागीट", "is_correct": false },
+        { "option_id": 3, "text": "बहरून आला", "is_correct": true },
+        { "option_id": 4, "text": "घाबरलेला", "is_correct": false }
+      ],
+      "answer": "बहरून आला"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या कथेतून काय शिकायला मिळते?",
+      "options": [
+        { "option_id": 1, "text": "नेहमी रागावावे", "is_correct": false },
+        { "option_id": 2, "text": "एकटेच राहावे", "is_correct": false },
+        { "option_id": 3, "text": "आपण प्रेमाने बोलावे", "is_correct": true },
+        { "option_id": 4, "text": "मित्रांना दूर ठेवावे", "is_correct": false }
+      ],
+      "answer": "आपण प्रेमाने बोलावे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘भूर भूर’ हा कोणत्या प्रकारचा शब्द आहे?",
+      "options": [
+        { "option_id": 1, "text": "क्रियापद", "is_correct": false },
+        { "option_id": 2, "text": "नाम", "is_correct": false },
+        { "option_id": 3, "text": "अनुकरणीय शब्द", "is_correct": true },
+        { "option_id": 4, "text": "सर्वनाम", "is_correct": false }
+      ],
+      "answer": "अनुकरणीय शब्द"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वडेशवर कोणकोणती पाखरे राहायची?",
+      "answer": "चिमणी, कावळा, खारुताई, मैना आणि राघू वडेशवर राहायची."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पाखरांची पिले काय करायची?",
+      "answer": "ती लपाछपी खेळायची आणि पारंबी पकडून झोके घ्यायची."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वडेश पिलांवर का रागवत होता?",
+      "answer": "कारण पिले खूप दंगा करायची आणि त्याची झोप मोडायची."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाखरे दूर का गेली?",
+      "answer": "कारण वडेश त्यांच्यावर सतत रागावत होता."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वसंत ऋतूत झाडावर काय बदल झाले?",
+      "answer": "अंकुर फुटले, पाने आली आणि फळे लागली."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पाखरांनी वडेशला परत का भेटले?",
+      "answer": "कारण झाडावर लालचुटुक फळे लागली होती."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "वडेशने पाखरांना काय सांगितले?",
+      "answer": "यारे या, सारे या, लाल लाल फळे खाऊन जा असे सांगितले."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "वडेशला शेवटी कसे वाटले?",
+      "answer": "पाखरे परत आल्याने त्याला खूप आनंद झाला."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "या कथेतून मुलांनी कोणता धडा घ्यावा?",
+      "answer": "राग न करता प्रेमाने बोलावे व मित्रांना जपावे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "वडेश एकटा का पडला?",
+      "answer": "कारण त्याने पाखरांवर वारंवार रागावले."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "फळे लागल्यानंतर पाखरे काय करू लागली?",
+      "answer": "ती शीळ घालून वडेशला हाका मारू लागली."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पाखरे परत आल्यावर काय झाले?",
+      "answer": "पाखरांनी नवी घरटी बांधली आणि झाड पुन्हा बहरले."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कथेचे ठिकाण कोणते आहे?",
+      "answer": "चिंचपूर गावाजवळील वडाचे झाड."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पाखरांना वडेश का आवडायचा?",
+      "answer": "कारण तिथे सुंदर सावली, फांद्या आणि सुरक्षित घरटी होती."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "‘वडेश बहरला’ या शीर्षकाचा अर्थ लिहा.",
+      "answer": "शेवटी वडेशच्या झाडावर पुन्हा पाखरे, घरटी आणि आनंद परतला."
+    }
+  ]
+}

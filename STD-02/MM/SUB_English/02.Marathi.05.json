@@ -1,0 +1,918 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.ENG.05",
+    "standard": "2",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Unit Four — The Squirrel, Calendar, Let’s Speak, Who is Better?, Word Basket, Learning Letters, Crossing the Road, Activity Time, My Family, Word Building, Reading Time",
+    "source": ":contentReference[oaicite:0]{index=0}"
+  },
+  "questions": [
+
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In the poem The Squirrel, how does the squirrel move?",
+      "options": [
+        { "option_id": 1, "text": "Slowly", "is_correct": false },
+        { "option_id": 2, "text": "Frisky and twirly", "is_correct": true },
+        { "option_id": 3, "text": "Silently", "is_correct": false },
+        { "option_id": 4, "text": "Sleepily", "is_correct": false }
+      ],
+      "answer": "Frisky and twirly"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where does the squirrel go in the poem?",
+      "options": [
+        { "option_id": 1, "text": "To the ground", "is_correct": false },
+        { "option_id": 2, "text": "To the tree-top", "is_correct": true },
+        { "option_id": 3, "text": "To the nest", "is_correct": false },
+        { "option_id": 4, "text": "To the cave", "is_correct": false }
+      ],
+      "answer": "To the tree-top"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the squirrel’s tail compared to?",
+      "options": [
+        { "option_id": 1, "text": "A feather", "is_correct": true },
+        { "option_id": 2, "text": "A rope", "is_correct": false },
+        { "option_id": 3, "text": "A stick", "is_correct": false },
+        { "option_id": 4, "text": "A leaf", "is_correct": false }
+      ],
+      "answer": "A feather"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where is the squirrel’s supper kept?",
+      "options": [
+        { "option_id": 1, "text": "On the tree", "is_correct": false },
+        { "option_id": 2, "text": "In the shell", "is_correct": true },
+        { "option_id": 3, "text": "In the nest", "is_correct": false },
+        { "option_id": 4, "text": "On the ground", "is_correct": false }
+      ],
+      "answer": "In the shell"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word from the poem rhymes with tail?",
+      "options": [
+        { "option_id": 1, "text": "snail", "is_correct": true },
+        { "option_id": 2, "text": "top", "is_correct": false },
+        { "option_id": 3, "text": "hop", "is_correct": false },
+        { "option_id": 4, "text": "shell", "is_correct": false }
+      ],
+      "answer": "snail"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The poem describes the squirrel as —",
+      "options": [
+        { "option_id": 1, "text": "slow and lazy", "is_correct": false },
+        { "option_id": 2, "text": "frisky and curly", "is_correct": true },
+        { "option_id": 3, "text": "sad and weak", "is_correct": false },
+        { "option_id": 4, "text": "quiet and still", "is_correct": false }
+      ],
+      "answer": "frisky and curly"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the Calendar page teach?",
+      "options": [
+        { "option_id": 1, "text": "Days and colours", "is_correct": false },
+        { "option_id": 2, "text": "Months of the year", "is_correct": true },
+        { "option_id": 3, "text": "Animals and birds", "is_correct": false },
+        { "option_id": 4, "text": "Food items", "is_correct": false }
+      ],
+      "answer": "Months of the year"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How many months are there in a year?",
+      "options": [
+        { "option_id": 1, "text": "10", "is_correct": false },
+        { "option_id": 2, "text": "11", "is_correct": false },
+        { "option_id": 3, "text": "12", "is_correct": true },
+        { "option_id": 4, "text": "9", "is_correct": false }
+      ],
+      "answer": "12"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which month is shown in the calendar activity page?",
+      "options": [
+        { "option_id": 1, "text": "January 2020", "is_correct": false },
+        { "option_id": 2, "text": "December 2020", "is_correct": true },
+        { "option_id": 3, "text": "March 2020", "is_correct": false },
+        { "option_id": 4, "text": "June 2020", "is_correct": false }
+      ],
+      "answer": "December 2020"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "In Let’s Speak, where is the little girl sitting?",
+      "options": [
+        { "option_id": 1, "text": "Near her mother", "is_correct": false },
+        { "option_id": 2, "text": "Between her mother and father", "is_correct": true },
+        { "option_id": 3, "text": "Behind her father", "is_correct": false },
+        { "option_id": 4, "text": "By the tree", "is_correct": false }
+      ],
+      "answer": "Between her mother and father"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The birds are flying — the trees.",
+      "options": [
+        { "option_id": 1, "text": "under", "is_correct": false },
+        { "option_id": 2, "text": "over", "is_correct": true },
+        { "option_id": 3, "text": "near", "is_correct": false },
+        { "option_id": 4, "text": "by", "is_correct": false }
+      ],
+      "answer": "over"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The butterflies are fluttering — the flowers.",
+      "options": [
+        { "option_id": 1, "text": "around", "is_correct": true },
+        { "option_id": 2, "text": "under", "is_correct": false },
+        { "option_id": 3, "text": "between", "is_correct": false },
+        { "option_id": 4, "text": "over", "is_correct": false }
+      ],
+      "answer": "around"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The car is parked — the tree.",
+      "options": [
+        { "option_id": 1, "text": "near", "is_correct": false },
+        { "option_id": 2, "text": "under", "is_correct": true },
+        { "option_id": 3, "text": "over", "is_correct": false },
+        { "option_id": 4, "text": "by", "is_correct": false }
+      ],
+      "answer": "under"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "In the story Who is Better?, which two animals are fighting?",
+      "options": [
+        { "option_id": 1, "text": "Lion and deer", "is_correct": false },
+        { "option_id": 2, "text": "Monkey and elephant", "is_correct": true },
+        { "option_id": 3, "text": "Dog and cat", "is_correct": false },
+        { "option_id": 4, "text": "Tiger and cow", "is_correct": false }
+      ],
+      "answer": "Monkey and elephant"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the elephant good at?",
+      "options": [
+        { "option_id": 1, "text": "Jumping", "is_correct": false },
+        { "option_id": 2, "text": "Carrying heavy logs", "is_correct": true },
+        { "option_id": 3, "text": "Climbing trees", "is_correct": false },
+        { "option_id": 4, "text": "Running fast", "is_correct": false }
+      ],
+      "answer": "Carrying heavy logs"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the monkey good at?",
+      "options": [
+        { "option_id": 1, "text": "Swimming", "is_correct": false },
+        { "option_id": 2, "text": "Jumping from one tree to another", "is_correct": true },
+        { "option_id": 3, "text": "Carrying water", "is_correct": false },
+        { "option_id": 4, "text": "Flying", "is_correct": false }
+      ],
+      "answer": "Jumping from one tree to another"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who helps to decide who is better?",
+      "options": [
+        { "option_id": 1, "text": "A fox", "is_correct": false },
+        { "option_id": 2, "text": "An owl", "is_correct": true },
+        { "option_id": 3, "text": "A deer", "is_correct": false },
+        { "option_id": 4, "text": "A rabbit", "is_correct": false }
+      ],
+      "answer": "An owl"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "How do they cross the deep river?",
+      "options": [
+        { "option_id": 1, "text": "By boat", "is_correct": false },
+        { "option_id": 2, "text": "Monkey jumps across", "is_correct": false },
+        { "option_id": 3, "text": "Monkey rides on elephant’s back", "is_correct": true },
+        { "option_id": 4, "text": "They swim", "is_correct": false }
+      ],
+      "answer": "Monkey rides on elephant’s back"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who finally plucks the mango?",
+      "options": [
+        { "option_id": 1, "text": "Elephant", "is_correct": false },
+        { "option_id": 2, "text": "Owl", "is_correct": false },
+        { "option_id": 3, "text": "Monkey", "is_correct": true },
+        { "option_id": 4, "text": "Birds", "is_correct": false }
+      ],
+      "answer": "Monkey"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        { "option_id": 1, "text": "Only strong people are best", "is_correct": false },
+        { "option_id": 2, "text": "Everyone is good at something", "is_correct": true },
+        { "option_id": 3, "text": "Fighting is good", "is_correct": false },
+        { "option_id": 4, "text": "Only speed matters", "is_correct": false }
+      ],
+      "answer": "Everyone is good at something"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which word is from the Word Basket list?",
+      "options": [
+        { "option_id": 1, "text": "bus", "is_correct": true },
+        { "option_id": 2, "text": "tree", "is_correct": false },
+        { "option_id": 3, "text": "river", "is_correct": false },
+        { "option_id": 4, "text": "bench", "is_correct": false }
+      ],
+      "answer": "bus"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with sun?",
+      "options": [
+        { "option_id": 1, "text": "bun", "is_correct": true },
+        { "option_id": 2, "text": "cup", "is_correct": false },
+        { "option_id": 3, "text": "bus", "is_correct": false },
+        { "option_id": 4, "text": "rug", "is_correct": false }
+      ],
+      "answer": "bun"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which sentence is from reading practice?",
+      "options": [
+        { "option_id": 1, "text": "I can hop. I can run.", "is_correct": true },
+        { "option_id": 2, "text": "I can swim fast.", "is_correct": false },
+        { "option_id": 3, "text": "The bird can fly.", "is_correct": false },
+        { "option_id": 4, "text": "The cow eats grass.", "is_correct": false }
+      ],
+      "answer": "I can hop. I can run."
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "In Learning Letters, which letter is matched with umbrella?",
+      "options": [
+        { "option_id": 1, "text": "Uu", "is_correct": true },
+        { "option_id": 2, "text": "Vv", "is_correct": false },
+        { "option_id": 3, "text": "Ww", "is_correct": false },
+        { "option_id": 4, "text": "Zz", "is_correct": false }
+      ],
+      "answer": "Uu"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which letter is matched with watch?",
+      "options": [
+        { "option_id": 1, "text": "Ww", "is_correct": true },
+        { "option_id": 2, "text": "Vv", "is_correct": false },
+        { "option_id": 3, "text": "Xx", "is_correct": false },
+        { "option_id": 4, "text": "Yy", "is_correct": false }
+      ],
+      "answer": "Ww"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "In the poem Crossing the Road, what should we wait for?",
+      "options": [
+        { "option_id": 1, "text": "Cars to stop", "is_correct": true },
+        { "option_id": 2, "text": "Friends", "is_correct": false },
+        { "option_id": 3, "text": "Shops to open", "is_correct": false },
+        { "option_id": 4, "text": "Bus driver", "is_correct": false }
+      ],
+      "answer": "Cars to stop"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which road safety rule is taught?",
+      "options": [
+        { "option_id": 1, "text": "Run across the road", "is_correct": false },
+        { "option_id": 2, "text": "Look left and right", "is_correct": true },
+        { "option_id": 3, "text": "Walk in traffic", "is_correct": false },
+        { "option_id": 4, "text": "Jump from bus", "is_correct": false }
+      ],
+      "answer": "Look left and right"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Where should we always walk?",
+      "options": [
+        { "option_id": 1, "text": "On the road", "is_correct": false },
+        { "option_id": 2, "text": "On the footpath", "is_correct": true },
+        { "option_id": 3, "text": "Near traffic", "is_correct": false },
+        { "option_id": 4, "text": "Between vehicles", "is_correct": false }
+      ],
+      "answer": "On the footpath"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What should we never do?",
+      "options": [
+        { "option_id": 1, "text": "Board a running bus", "is_correct": true },
+        { "option_id": 2, "text": "Stand in a queue", "is_correct": false },
+        { "option_id": 3, "text": "Use zebra crossing", "is_correct": false },
+        { "option_id": 4, "text": "Follow traffic rules", "is_correct": false }
+      ],
+      "answer": "Board a running bus"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What activity is done in Activity Time?",
+      "options": [
+        { "option_id": 1, "text": "Make a hat/cap", "is_correct": true },
+        { "option_id": 2, "text": "Make a boat", "is_correct": false },
+        { "option_id": 3, "text": "Make a house", "is_correct": false },
+        { "option_id": 4, "text": "Make a box", "is_correct": false }
+      ],
+      "answer": "Make a hat/cap"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who is father in the My Family page?",
+      "options": [
+        { "option_id": 1, "text": "Jayesh", "is_correct": true },
+        { "option_id": 2, "text": "Ravi", "is_correct": false },
+        { "option_id": 3, "text": "Amit", "is_correct": false },
+        { "option_id": 4, "text": "Rohan", "is_correct": false }
+      ],
+      "answer": "Jayesh"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who is the child of uncle and aunt?",
+      "options": [
+        { "option_id": 1, "text": "Cousin", "is_correct": true },
+        { "option_id": 2, "text": "Grandson", "is_correct": false },
+        { "option_id": 3, "text": "Brother", "is_correct": false },
+        { "option_id": 4, "text": "Niece", "is_correct": false }
+      ],
+      "answer": "Cousin"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "In Word Building, which word can be made from b-a-n?",
+      "options": [
+        { "option_id": 1, "text": "ban", "is_correct": true },
+        { "option_id": 2, "text": "ben", "is_correct": false },
+        { "option_id": 3, "text": "bin", "is_correct": false },
+        { "option_id": 4, "text": "bun", "is_correct": false }
+      ],
+      "answer": "ban"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which word is odd in the list: sun, fun, run, pen?",
+      "options": [
+        { "option_id": 1, "text": "pen", "is_correct": true },
+        { "option_id": 2, "text": "sun", "is_correct": false },
+        { "option_id": 3, "text": "run", "is_correct": false },
+        { "option_id": 4, "text": "fun", "is_correct": false }
+      ],
+      "answer": "pen"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which reading time word is an animal?",
+      "options": [
+        { "option_id": 1, "text": "cat", "is_correct": true },
+        { "option_id": 2, "text": "egg", "is_correct": false },
+        { "option_id": 3, "text": "ball", "is_correct": false },
+        { "option_id": 4, "text": "bus", "is_correct": false }
+      ],
+      "answer": "cat"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which word from Reading Time is a vehicle?",
+      "options": [
+        { "option_id": 1, "text": "bus", "is_correct": true },
+        { "option_id": 2, "text": "bat", "is_correct": false },
+        { "option_id": 3, "text": "tree", "is_correct": false },
+        { "option_id": 4, "text": "ball", "is_correct": false }
+      ],
+      "answer": "bus"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which preposition is used in: The boy is sitting — the stream?",
+      "options": [
+        { "option_id": 1, "text": "by", "is_correct": true },
+        { "option_id": 2, "text": "under", "is_correct": false },
+        { "option_id": 3, "text": "between", "is_correct": false },
+        { "option_id": 4, "text": "among", "is_correct": false }
+      ],
+      "answer": "by"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "The girl was the only girl — the boys.",
+      "options": [
+        { "option_id": 1, "text": "among", "is_correct": true },
+        { "option_id": 2, "text": "under", "is_correct": false },
+        { "option_id": 3, "text": "over", "is_correct": false },
+        { "option_id": 4, "text": "near", "is_correct": false }
+      ],
+      "answer": "among"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which ‘u’ sound word is in the poem section?",
+      "options": [
+        { "option_id": 1, "text": "rug", "is_correct": true },
+        { "option_id": 2, "text": "rat", "is_correct": false },
+        { "option_id": 3, "text": "red", "is_correct": false },
+        { "option_id": 4, "text": "ram", "is_correct": false }
+      ],
+      "answer": "rug"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which sentence shows action ability?",
+      "options": [
+        { "option_id": 1, "text": "I can run.", "is_correct": true },
+        { "option_id": 2, "text": "This is a rug.", "is_correct": false },
+        { "option_id": 3, "text": "The sun is hot.", "is_correct": false },
+        { "option_id": 4, "text": "This is a cup.", "is_correct": false }
+      ],
+      "answer": "I can run."
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which letter pair is traced for zebra?",
+      "options": [
+        { "option_id": 1, "text": "Zz", "is_correct": true },
+        { "option_id": 2, "text": "Yy", "is_correct": false },
+        { "option_id": 3, "text": "Xx", "is_correct": false },
+        { "option_id": 4, "text": "Vv", "is_correct": false }
+      ],
+      "answer": "Zz"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which Reading Time word is a place to live?",
+      "options": [
+        { "option_id": 1, "text": "nest", "is_correct": true },
+        { "option_id": 2, "text": "egg", "is_correct": false },
+        { "option_id": 3, "text": "bat", "is_correct": false },
+        { "option_id": 4, "text": "sun", "is_correct": false }
+      ],
+      "answer": "nest"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which of these is a safety rule?",
+      "options": [
+        { "option_id": 1, "text": "Run on the road", "is_correct": false },
+        { "option_id": 2, "text": "Follow traffic signals", "is_correct": true },
+        { "option_id": 3, "text": "Jump from the bus", "is_correct": false },
+        { "option_id": 4, "text": "Walk in traffic", "is_correct": false }
+      ],
+      "answer": "Follow traffic signals"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What does the owl say at the end of the story?",
+      "options": [
+        { "option_id": 1, "text": "Elephant is better", "is_correct": false },
+        { "option_id": 2, "text": "Monkey is better", "is_correct": false },
+        { "option_id": 3, "text": "All are good at something", "is_correct": true },
+        { "option_id": 4, "text": "Nobody is good", "is_correct": false }
+      ],
+      "answer": "All are good at something"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which word belongs to the ‘u’ sound family?",
+      "options": [
+        { "option_id": 1, "text": "cup", "is_correct": true },
+        { "option_id": 2, "text": "cap", "is_correct": false },
+        { "option_id": 3, "text": "cop", "is_correct": false },
+        { "option_id": 4, "text": "cat", "is_correct": false }
+      ],
+      "answer": "cup"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which road safety picture is shown?",
+      "options": [
+        { "option_id": 1, "text": "Walking on zebra crossing", "is_correct": true },
+        { "option_id": 2, "text": "Running on road", "is_correct": false },
+        { "option_id": 3, "text": "Jumping traffic", "is_correct": false },
+        { "option_id": 4, "text": "Crossing anywhere", "is_correct": false }
+      ],
+      "answer": "Walking on zebra crossing"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which relation is sister’s brother?",
+      "options": [
+        { "option_id": 1, "text": "Brother", "is_correct": true },
+        { "option_id": 2, "text": "Uncle", "is_correct": false },
+        { "option_id": 3, "text": "Cousin", "is_correct": false },
+        { "option_id": 4, "text": "Nephew", "is_correct": false }
+      ],
+      "answer": "Brother"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which Reading Time word is a toy?",
+      "options": [
+        { "option_id": 1, "text": "ball", "is_correct": true },
+        { "option_id": 2, "text": "nest", "is_correct": false },
+        { "option_id": 3, "text": "egg", "is_correct": false },
+        { "option_id": 4, "text": "cat", "is_correct": false }
+      ],
+      "answer": "ball"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which sentence describes the sun?",
+      "options": [
+        { "option_id": 1, "text": "The sun is hot.", "is_correct": true },
+        { "option_id": 2, "text": "The sun can run.", "is_correct": false },
+        { "option_id": 3, "text": "The sun hops.", "is_correct": false },
+        { "option_id": 4, "text": "The sun sleeps.", "is_correct": false }
+      ],
+      "answer": "The sun is hot."
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the main learning theme of this unit?",
+      "options": [
+        { "option_id": 1, "text": "Sports only", "is_correct": false },
+        { "option_id": 2, "text": "Animals, actions, safety and reading", "is_correct": true },
+        { "option_id": 3, "text": "Maths only", "is_correct": false },
+        { "option_id": 4, "text": "Science only", "is_correct": false }
+      ],
+      "answer": "Animals, actions, safety and reading"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "How is the squirrel’s tail described in the poem?",
+      "answer": "The squirrel’s tail is curly and tall as a feather."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Where does the squirrel twirl and whirl?",
+      "answer": "The squirrel twirls and whirls up the tree and to the ground."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Where is the squirrel’s supper kept?",
+      "answer": "The squirrel’s supper is kept in the shell."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How many months are there in a year?",
+      "answer": "There are twelve months in a year."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which month comes after November?",
+      "answer": "December comes after November."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What are the birds doing in Let’s Speak?",
+      "answer": "The birds are flying over the trees."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Where is the car parked?",
+      "answer": "The car is parked under the tree."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Who were fighting in the forest?",
+      "answer": "A monkey and an elephant were fighting in the forest."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is the elephant good at?",
+      "answer": "The elephant is good at carrying heavy logs."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is the monkey good at?",
+      "answer": "The monkey is good at jumping from one tree to another."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Who helps to solve the fight?",
+      "answer": "The wise old owl helps to solve the fight."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How do they cross the river?",
+      "answer": "The monkey sits on the elephant’s back and they cross the river."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Who plucks the mango from the tree?",
+      "answer": "The monkey plucks the mango from the tree."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What does the owl say at the end?",
+      "answer": "The owl says that all are good at something."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Write any two ‘u’ sound words.",
+      "answer": "sun, cup"
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Write one sentence from the reading practice.",
+      "answer": "I can hop. I can run."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Write one sentence about the sun.",
+      "answer": "The sun is hot."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Which letter stands for umbrella?",
+      "answer": "The letter Uu stands for umbrella."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Which letter stands for zebra?",
+      "answer": "The letter Zz stands for zebra."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What should we do before crossing the road?",
+      "answer": "We should look left and right before crossing the road."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Where should we walk?",
+      "answer": "We should walk on the footpath."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What should we never do on a bus?",
+      "answer": "We should never board a running bus."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What should we always use while crossing?",
+      "answer": "We should always use the zebra crossing."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What object is made in Activity Time?",
+      "answer": "A paper cap is made in Activity Time."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Name any two family members.",
+      "answer": "Mother and father."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Who is your father’s father?",
+      "answer": "My father’s father is my grandfather."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Who is your uncle’s child?",
+      "answer": "My uncle’s child is my cousin."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Make a word using b-a-n.",
+      "answer": "ban"
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Make a word using p-i-n.",
+      "answer": "pin"
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Make a word using c-o-t.",
+      "answer": "cot"
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Write any two Reading Time words.",
+      "answer": "sun, tree"
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Write one sentence about the squirrel.",
+      "answer": "The squirrel is frisky and curly."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Write one action sentence using can.",
+      "answer": "I can run."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Write one preposition sentence from the lesson.",
+      "answer": "The man is standing near the car."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Write one value taught in the story.",
+      "answer": "Everyone is good at something."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why was the monkey afraid of the river?",
+      "answer": "The monkey was afraid because the water was very deep."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Who helped the monkey to cross the river?",
+      "answer": "The elephant helped the monkey to cross the river."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What colour were the mangoes?",
+      "answer": "The mangoes were sweet and yellow."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What did they give to the owl?",
+      "answer": "They gave a ripe mango to the owl."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What lesson do we learn from road safety?",
+      "answer": "We must follow traffic rules to stay safe."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Write any two ‘u’ sound rhyming words.",
+      "answer": "sun – run"
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Write a sentence about family.",
+      "answer": "My family loves me."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Write one Reading Time sentence about your picture.",
+      "answer": "This is my bus."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is the central idea of Unit Four?",
+      "answer": "The unit teaches nature, actions, safety, reading and values."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Write one sentence about the sun from the poem.",
+      "answer": "The sun is hot."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Who forgot their fight in the story?",
+      "answer": "The elephant and the monkey forgot their fight."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What does the owl ask at the end?",
+      "answer": "The owl asks, What are you good at?"
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Write one short sentence about safety.",
+      "answer": "We should follow traffic signals."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Write one short sentence about friendship.",
+      "answer": "Friends help one another."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Write one short sentence about kindness from the story.",
+      "answer": "Helping others makes us better."
+    }
+
+  ]
+}

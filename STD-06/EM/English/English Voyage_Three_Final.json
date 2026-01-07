@@ -1,0 +1,1215 @@
+{
+"voyage": "Voyage Three",
+"lessons": [
+"It Can Be Done",
+"Seven Sisters",
+"Stone Soup",
+"Sushruta",
+"The Donkey",
+"The Merchant of Venice",
+"At the Science Fair"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "According to the poem 'It Can Be Done', what is the attitude of the man who 'misses all the fun'?",
+"options": [
+{ "option_id": 1, "text": "He eagerly accepts every new idea", "is_correct": false },
+{ "option_id": 2, "text": "He proudly declares that nothing is possible", "is_correct": false },
+{ "option_id": 3, "text": "He stands apart and says 'It can't be done'", "is_correct": true },
+{ "option_id": 4, "text": "He silently helps others to succeed", "is_correct": false }
+],
+"answer": "He stands apart and says 'It can't be done'"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "In 'It Can Be Done', how does the man greet each venture?",
+"options": [
+{ "option_id": 1, "text": "With praise and encouragement", "is_correct": false },
+{ "option_id": 2, "text": "With reproof and criticism", "is_correct": true },
+{ "option_id": 3, "text": "With silence and indifference", "is_correct": false },
+{ "option_id": 4, "text": "With careful assistance", "is_correct": false }
+],
+"answer": "With reproof and criticism"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "According to the poem, what would happen to the world if it were run by men who say 'It can't be done'?",
+"options": [
+{ "option_id": 1, "text": "The world would progress very quickly", "is_correct": false },
+{ "option_id": 2, "text": "The world would sleep and remain backward", "is_correct": true },
+{ "option_id": 3, "text": "The world would become more creative", "is_correct": false },
+{ "option_id": 4, "text": "The world would be filled with happiness", "is_correct": false }
+],
+"answer": "The world would sleep and remain backward"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "Which of the following inventions is mentioned in 'It Can Be Done' as something that would not exist without daring ventures?",
+"options": [
+{ "option_id": 1, "text": "Television and computers", "is_correct": false },
+{ "option_id": 2, "text": "Radio and motor cars", "is_correct": true },
+{ "option_id": 3, "text": "Airplanes and rockets", "is_correct": false },
+{ "option_id": 4, "text": "Satellites and submarines", "is_correct": false }
+],
+"answer": "Radio and motor cars"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "In the poem, what age would people still be living in if men always said 'It can't be done'?",
+"options": [
+{ "option_id": 1, "text": "The Industrial Age", "is_correct": false },
+{ "option_id": 2, "text": "The Information Age", "is_correct": false },
+{ "option_id": 3, "text": "The Age of Stone", "is_correct": true },
+{ "option_id": 4, "text": "The Space Age", "is_correct": false }
+],
+"answer": "The Age of Stone"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "In 'It Can Be Done', what does the poet suggest about 'solemn pride'?",
+"options": [
+{ "option_id": 1, "text": "It helps people to attempt new tasks", "is_correct": false },
+{ "option_id": 2, "text": "It makes people joyful and friendly", "is_correct": false },
+{ "option_id": 3, "text": "It keeps a man aloof from new ventures", "is_correct": true },
+{ "option_id": 4, "text": "It encourages people to work together", "is_correct": false }
+],
+"answer": "It keeps a man aloof from new ventures"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "What does the poet say would be 'effaced' by a person who always says 'It can't be done'?",
+"options": [
+{ "option_id": 1, "text": "The beauty of nature", "is_correct": false },
+{ "option_id": 2, "text": "The history of the human race", "is_correct": true },
+{ "option_id": 3, "text": "The arts and literature", "is_correct": false },
+{ "option_id": 4, "text": "The traditions of society", "is_correct": false }
+],
+"answer": "The history of the human race"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "Which modern means of communication is mentioned in 'It Can Be Done'?",
+"options": [
+{ "option_id": 1, "text": "Email", "is_correct": false },
+{ "option_id": 2, "text": "Telegraph", "is_correct": true },
+{ "option_id": 3, "text": "Satellite phone", "is_correct": false },
+{ "option_id": 4, "text": "Internet", "is_correct": false }
+],
+"answer": "Telegraph"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "In the poem 'It Can Be Done', what are 'electric stars'?",
+"options": [
+{ "option_id": 1, "text": "Stars shining brightly in the sky", "is_correct": false },
+{ "option_id": 2, "text": "Street lights lit by electricity", "is_correct": true },
+{ "option_id": 3, "text": "Fireworks in the night sky", "is_correct": false },
+{ "option_id": 4, "text": "Lights used on ships at sea", "is_correct": false }
+],
+"answer": "Street lights lit by electricity"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "What overall message does the poem 'It Can Be Done' convey?",
+"options": [
+{ "option_id": 1, "text": "Doubt leads to careful planning", "is_correct": false },
+{ "option_id": 2, "text": "Caution is more important than effort", "is_correct": false },
+{ "option_id": 3, "text": "Progress depends on those who dare to act", "is_correct": true },
+{ "option_id": 4, "text": "Fun should be avoided for serious work", "is_correct": false }
+],
+"answer": "Progress depends on those who dare to act"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "How do the Seven Sisters of Northeast India describe themselves at the beginning of the lesson?",
+"options": [
+{ "option_id": 1, "text": "As crowded and overdeveloped regions", "is_correct": false },
+{ "option_id": 2, "text": "As unexplored and isolated territories", "is_correct": true },
+{ "option_id": 3, "text": "As industrial centres of the country", "is_correct": false },
+{ "option_id": 4, "text": "As desert lands with little vegetation", "is_correct": false }
+],
+"answer": "As unexplored and isolated territories"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "Which sister State calls itself the 'Land of the Rising Sun'?",
+"options": [
+{ "option_id": 1, "text": "Assam", "is_correct": false },
+{ "option_id": 2, "text": "Nagaland", "is_correct": false },
+{ "option_id": 3, "text": "Arunachal Pradesh", "is_correct": true },
+{ "option_id": 4, "text": "Tripura", "is_correct": false }
+],
+"answer": "Arunachal Pradesh"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "What popular dish is mentioned as part of the diet in Arunachal Pradesh?",
+"options": [
+{ "option_id": 1, "text": "Idli and sambhar", "is_correct": false },
+{ "option_id": 2, "text": "Momos with meat or vegetable stuffing", "is_correct": true },
+{ "option_id": 3, "text": "Dhokla and khandvi", "is_correct": false },
+{ "option_id": 4, "text": "Puran poli", "is_correct": false }
+],
+"answer": "Momos with meat or vegetable stuffing"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "What is special about the region of the Seven Sisters in terms of biodiversity?",
+"options": [
+{ "option_id": 1, "text": "It is a cold desert", "is_correct": false },
+{ "option_id": 2, "text": "It is an industrial hub", "is_correct": false },
+{ "option_id": 3, "text": "It is designated as a biodiversity hotspot", "is_correct": true },
+{ "option_id": 4, "text": "It is a coral reef region", "is_correct": false }
+],
+"answer": "It is designated as a biodiversity hotspot"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "What is Sikkim's relation to the Seven Sisters in the lesson?",
+"options": [
+{ "option_id": 1, "text": "It is one of the Seven Sisters", "is_correct": false },
+{ "option_id": 2, "text": "It lies to the north of the Seven Sisters", "is_correct": true },
+{ "option_id": 3, "text": "It forms the western border of the Seven Sisters", "is_correct": false },
+{ "option_id": 4, "text": "It is described as a desert region", "is_correct": false }
+],
+"answer": "It lies to the north of the Seven Sisters"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "What kind of forests are mentioned in connection with the Seven Sisters region?",
+"options": [
+{ "option_id": 1, "text": "Mangrove forests", "is_correct": false },
+{ "option_id": 2, "text": "Sub-tropical rain forests", "is_correct": true },
+{ "option_id": 3, "text": "Coniferous forests", "is_correct": false },
+{ "option_id": 4, "text": "Temperate deciduous forests", "is_correct": false }
+],
+"answer": "Sub-tropical rain forests"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "In the description of Nagaland, what aspect of Naga life is highlighted?",
+"options": [
+{ "option_id": 1, "text": "Their love of silence and solitude", "is_correct": false },
+{ "option_id": 2, "text": "Their strict avoidance of festivals", "is_correct": false },
+{ "option_id": 3, "text": "Their love of fun, dance and songs", "is_correct": true },
+{ "option_id": 4, "text": "Their preference for city life", "is_correct": false }
+],
+"answer": "Their love of fun, dance and songs"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "Which bird is mentioned as one of the most famous in Nagaland?",
+"options": [
+{ "option_id": 1, "text": "Peacock", "is_correct": false },
+{ "option_id": 2, "text": "Great Indian hornbill", "is_correct": true },
+{ "option_id": 3, "text": "Siberian crane", "is_correct": false },
+{ "option_id": 4, "text": "Forest owlet", "is_correct": false }
+],
+"answer": "Great Indian hornbill"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "What does the name 'Tripura' also suggest in the lesson?",
+"options": [
+{ "option_id": 1, "text": "Land of eternal snow", "is_correct": false },
+{ "option_id": 2, "text": "Near water", "is_correct": true },
+{ "option_id": 3, "text": "Land of many islands", "is_correct": false },
+{ "option_id": 4, "text": "Land of golden sands", "is_correct": false }
+],
+"answer": "Near water"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "Which of the following is NOT mentioned as a crop grown in Tripura?",
+"options": [
+{ "option_id": 1, "text": "Rice", "is_correct": false },
+{ "option_id": 2, "text": "Tea", "is_correct": false },
+{ "option_id": 3, "text": "Tobacco", "is_correct": false },
+{ "option_id": 4, "text": "Apples", "is_correct": true }
+],
+"answer": "Apples"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "In the play 'Stone Soup', what is Motiram's attitude towards guests?",
+"options": [
+{ "option_id": 1, "text": "He warmly welcomes all visitors", "is_correct": false },
+{ "option_id": 2, "text": "He thinks guests are a nuisance", "is_correct": true },
+{ "option_id": 3, "text": "He enjoys feeding travellers", "is_correct": false },
+{ "option_id": 4, "text": "He is afraid of strangers", "is_correct": false }
+],
+"answer": "He thinks guests are a nuisance"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "How does Sonabai avoid giving food to the traveller in 'Stone Soup'?",
+"options": [
+{ "option_id": 1, "text": "She pretends not to know the language", "is_correct": false },
+{ "option_id": 2, "text": "She pretends to be hard of hearing", "is_correct": true },
+{ "option_id": 3, "text": "She claims to be very poor", "is_correct": false },
+{ "option_id": 4, "text": "She says she is ill", "is_correct": false }
+],
+"answer": "She pretends to be hard of hearing"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "What trick does Hirabai use to turn the traveller away?",
+"options": [
+{ "option_id": 1, "text": "She speaks very softly", "is_correct": false },
+{ "option_id": 2, "text": "She pretends to be asleep", "is_correct": false },
+{ "option_id": 3, "text": "She talks gibberish that makes no sense", "is_correct": true },
+{ "option_id": 4, "text": "She sends her neighbour instead", "is_correct": false }
+],
+"answer": "She talks gibberish that makes no sense"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "At the beginning of 'Stone Soup', what is the traveller's main problem?",
+"options": [
+{ "option_id": 1, "text": "He is lost in the forest", "is_correct": false },
+{ "option_id": 2, "text": "He is hungry and tired", "is_correct": true },
+{ "option_id": 3, "text": "He has lost his luggage", "is_correct": false },
+{ "option_id": 4, "text": "He is searching for his friend", "is_correct": false }
+],
+"answer": "He is hungry and tired"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "What does the traveller ask Rupabai for in order to make the 'magic' soup?",
+"options": [
+{ "option_id": 1, "text": "Some rice and dal", "is_correct": false },
+{ "option_id": 2, "text": "A cooking pot, a spoon and water", "is_correct": true },
+{ "option_id": 3, "text": "Milk and spices", "is_correct": false },
+{ "option_id": 4, "text": "Bread and salt", "is_correct": false }
+],
+"answer": "A cooking pot, a spoon and water"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Which ingredient does the traveller first suggest would make the stone soup 'heavenly'?",
+"options": [
+{ "option_id": 1, "text": "Carrots", "is_correct": false },
+{ "option_id": 2, "text": "Tomatoes", "is_correct": false },
+{ "option_id": 3, "text": "Potatoes", "is_correct": true },
+{ "option_id": 4, "text": "Beans", "is_correct": false }
+],
+"answer": "Potatoes"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "What does the traveller finally reveal about the magic stone?",
+"options": [
+{ "option_id": 1, "text": "It melts completely in the soup", "is_correct": false },
+{ "option_id": 2, "text": "It is made of precious metal", "is_correct": false },
+{ "option_id": 3, "text": "It remains the same and the soup can be made even without it", "is_correct": true },
+{ "option_id": 4, "text": "It makes the soup poisonous", "is_correct": false }
+],
+"answer": "It remains the same and the soup can be made even without it"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "What quality of the traveller helps him get food in 'Stone Soup'?",
+"options": [
+{ "option_id": 1, "text": "His wealth", "is_correct": false },
+{ "option_id": 2, "text": "His magic powers", "is_correct": false },
+{ "option_id": 3, "text": "His cleverness and tact", "is_correct": true },
+{ "option_id": 4, "text": "His ability to threaten the villagers", "is_correct": false }
+],
+"answer": "His cleverness and tact"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "In 'Sushruta – A Peep into the Past', who was Sushruta?",
+"options": [
+{ "option_id": 1, "text": "A folk dancer", "is_correct": false },
+{ "option_id": 2, "text": "An ancient Indian surgeon", "is_correct": true },
+{ "option_id": 3, "text": "A famous musician", "is_correct": false },
+{ "option_id": 4, "text": "A king of North India", "is_correct": false }
+],
+"answer": "An ancient Indian surgeon"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "What is Sushruta mainly remembered for in the lesson?",
+"options": [
+{ "option_id": 1, "text": "Writing plays and poems", "is_correct": false },
+{ "option_id": 2, "text": "Performing early forms of plastic surgery", "is_correct": true },
+{ "option_id": 3, "text": "Composing religious hymns", "is_correct": false },
+{ "option_id": 4, "text": "Inventing a new language", "is_correct": false }
+],
+"answer": "Performing early forms of plastic surgery"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "What kind of text is 'Sushruta – A Peep into the Past'?",
+"options": [
+{ "option_id": 1, "text": "A play", "is_correct": false },
+{ "option_id": 2, "text": "A poem", "is_correct": false },
+{ "option_id": 3, "text": "An informative passage about ancient medicine", "is_correct": true },
+{ "option_id": 4, "text": "A fairy tale", "is_correct": false }
+],
+"answer": "An informative passage about ancient medicine"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "In 'The Donkey', what is striking about the donkey's appearance on the first day?",
+"options": [
+{ "option_id": 1, "text": "He is fully grown and strong", "is_correct": false },
+{ "option_id": 2, "text": "His head is too big for his neck to hold", "is_correct": true },
+{ "option_id": 3, "text": "His coat is dark and rough", "is_correct": false },
+{ "option_id": 4, "text": "His legs are short and sturdy", "is_correct": false }
+],
+"answer": "His head is too big for his neck to hold"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Which words in 'The Donkey' describe how the young donkey moves?",
+"options": [
+{ "option_id": 1, "text": "Walked gracefully and smoothly", "is_correct": false },
+{ "option_id": 2, "text": "Rocketed and staggered", "is_correct": true },
+{ "option_id": 3, "text": "Ran swiftly and silently", "is_correct": false },
+{ "option_id": 4, "text": "Glided and floated", "is_correct": false }
+],
+"answer": "Rocketed and staggered"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "In the poem 'The Donkey', what does the speaker pray for?",
+"options": [
+{ "option_id": 1, "text": "That the donkey should become strong quickly", "is_correct": false },
+{ "option_id": 2, "text": "That the world might be good to the donkey", "is_correct": true },
+{ "option_id": 3, "text": "That the donkey should learn tricks", "is_correct": false },
+{ "option_id": 4, "text": "That the donkey should be sold to a kind owner", "is_correct": false }
+],
+"answer": "That the world might be good to the donkey"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "What does the expression 'venturesome quest' in 'The Donkey' suggest about the young animal?",
+"options": [
+{ "option_id": 1, "text": "He is lazy and sleepy", "is_correct": false },
+{ "option_id": 2, "text": "He is daring and explores his surroundings", "is_correct": true },
+{ "option_id": 3, "text": "He is afraid of everything", "is_correct": false },
+{ "option_id": 4, "text": "He refuses to move at all", "is_correct": false }
+],
+"answer": "He is daring and explores his surroundings"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "In 'The Merchant of Venice', where does Antonio live?",
+"options": [
+{ "option_id": 1, "text": "Belmont", "is_correct": false },
+{ "option_id": 2, "text": "Rome", "is_correct": false },
+{ "option_id": 3, "text": "Venice", "is_correct": true },
+{ "option_id": 4, "text": "Paris", "is_correct": false }
+],
+"answer": "Venice"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "At the beginning of 'The Merchant of Venice', what is Antonio waiting for?",
+"options": [
+{ "option_id": 1, "text": "His ships to return with merchandise", "is_correct": true },
+{ "option_id": 2, "text": "An invitation from the Duke", "is_correct": false },
+{ "option_id": 3, "text": "News of a war", "is_correct": false },
+{ "option_id": 4, "text": "A letter from Bassanio", "is_correct": false }
+],
+"answer": "His ships to return with merchandise"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Why does Bassanio need money in 'The Merchant of Venice'?",
+"options": [
+{ "option_id": 1, "text": "To build a ship", "is_correct": false },
+{ "option_id": 2, "text": "To travel to Belmont to try his luck with the caskets", "is_correct": true },
+{ "option_id": 3, "text": "To pay his debts to Shylock", "is_correct": false },
+{ "option_id": 4, "text": "To buy jewels for Portia", "is_correct": false }
+],
+"answer": "To travel to Belmont to try his luck with the caskets"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "What condition does Shylock put in the bond with Antonio?",
+"options": [
+{ "option_id": 1, "text": "Antonio must work for him for three years", "is_correct": false },
+{ "option_id": 2, "text": "Antonio must pay double the money in a month", "is_correct": false },
+{ "option_id": 3, "text": "Shylock will cut off a pound of Antonio's flesh if the money is not repaid in time", "is_correct": true },
+{ "option_id": 4, "text": "Antonio must give him one of his ships", "is_correct": false }
+],
+"answer": "Shylock will cut off a pound of Antonio's flesh if the money is not repaid in time"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "Which casket does Bassanio choose in order to win Portia?",
+"options": [
+{ "option_id": 1, "text": "Gold", "is_correct": false },
+{ "option_id": 2, "text": "Silver", "is_correct": false },
+{ "option_id": 3, "text": "Lead", "is_correct": true },
+{ "option_id": 4, "text": "Bronze", "is_correct": false }
+],
+"answer": "Lead"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "What does the inscription on the lead casket say in 'The Merchant of Venice'?",
+"options": [
+{ "option_id": 1, "text": "Whoever chooses me shall gain what many men desire", "is_correct": false },
+{ "option_id": 2, "text": "Whoever chooses me shall get as much as he deserves", "is_correct": false },
+{ "option_id": 3, "text": "Whoever chooses me must give and hazard all he has", "is_correct": true },
+{ "option_id": 4, "text": "Whoever chooses me shall receive honour and fame", "is_correct": false }
+],
+"answer": "Whoever chooses me must give and hazard all he has"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "Who comes to the court as a 'young lawyer' to defend Antonio?",
+"options": [
+{ "option_id": 1, "text": "The Duke", "is_correct": false },
+{ "option_id": 2, "text": "Bassanio", "is_correct": false },
+{ "option_id": 3, "text": "Portia in disguise", "is_correct": true },
+{ "option_id": 4, "text": "Shylock's servant", "is_correct": false }
+],
+"answer": "Portia in disguise"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "In the court scene, what important warning does the young lawyer give to Shylock?",
+"options": [
+{ "option_id": 1, "text": "He must not charge interest on the loan", "is_correct": false },
+{ "option_id": 2, "text": "He must accept the money and free Antonio", "is_correct": false },
+{ "option_id": 3, "text": "He may take a pound of flesh but not shed a single drop of blood", "is_correct": true },
+{ "option_id": 4, "text": "He will be imprisoned if he insists on the bond", "is_correct": false }
+],
+"answer": "He may take a pound of flesh but not shed a single drop of blood"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "Which word best describes Shylock's attitude when he demands his pound of flesh?",
+"options": [
+{ "option_id": 1, "text": "Merciful", "is_correct": false },
+{ "option_id": 2, "text": "Adamant", "is_correct": true },
+{ "option_id": 3, "text": "Confused", "is_correct": false },
+{ "option_id": 4, "text": "Joyful", "is_correct": false }
+],
+"answer": "Adamant"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "How does the story of 'The Merchant of Venice' end in this lesson?",
+"options": [
+{ "option_id": 1, "text": "Antonio is killed by Shylock", "is_correct": false },
+{ "option_id": 2, "text": "Antonio loses all his ships and remains poor", "is_correct": false },
+{ "option_id": 3, "text": "Antonio's life is saved and his ships are found to be safe", "is_correct": true },
+{ "option_id": 4, "text": "Portia refuses to marry Bassanio", "is_correct": false }
+],
+"answer": "Antonio's life is saved and his ships are found to be safe"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "In 'At the Science Fair', where are the students going?",
+"options": [
+{ "option_id": 1, "text": "To a music concert", "is_correct": false },
+{ "option_id": 2, "text": "To a sports meet", "is_correct": false },
+{ "option_id": 3, "text": "To a science fair", "is_correct": true },
+{ "option_id": 4, "text": "To a library", "is_correct": false }
+],
+"answer": "To a science fair"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "In 'At the Science Fair', what is the main purpose of the fair?",
+"options": [
+{ "option_id": 1, "text": "To sell scientific equipment", "is_correct": false },
+{ "option_id": 2, "text": "To exhibit and explain various science projects", "is_correct": true },
+{ "option_id": 3, "text": "To organize sports competitions", "is_correct": false },
+{ "option_id": 4, "text": "To teach only language skills", "is_correct": false }
+],
+"answer": "To exhibit and explain various science projects"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "What skill do the students mainly practise while explaining their exhibits in 'At the Science Fair'?",
+"options": [
+{ "option_id": 1, "text": "Silent reading", "is_correct": false },
+{ "option_id": 2, "text": "Listening to lectures", "is_correct": false },
+{ "option_id": 3, "text": "Speaking clearly and confidently", "is_correct": true },
+{ "option_id": 4, "text": "Drawing pictures", "is_correct": false }
+],
+"answer": "Speaking clearly and confidently"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "What kind of projects are displayed in 'At the Science Fair'?",
+"options": [
+{ "option_id": 1, "text": "Only historical models", "is_correct": false },
+{ "option_id": 2, "text": "Only language charts", "is_correct": false },
+{ "option_id": 3, "text": "Science models and experiments", "is_correct": true },
+{ "option_id": 4, "text": "Sports trophies and medals", "is_correct": false }
+],
+"answer": "Science models and experiments"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "What overall learning outcome is supported by the lesson 'At the Science Fair'?",
+"options": [
+{ "option_id": 1, "text": "Memorizing poems word for word", "is_correct": false },
+{ "option_id": 2, "text": "Developing study skills and oral presentation", "is_correct": true },
+{ "option_id": 3, "text": "Practising handwriting only", "is_correct": false },
+{ "option_id": 4, "text": "Learning only grammar rules", "is_correct": false }
+],
+"answer": "Developing study skills and oral presentation"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "In the poem 'It Can Be Done', who is described as missing all the fun, and why?",
+"answer": "The man who always says 'It can't be done' is described as missing all the fun because he stands aloof and criticizes every new venture instead of taking part in it."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "Explain the meaning of 'In solemn pride he stands aloof' from the poem 'It Can Be Done'.",
+"answer": "The line means that the man, full of serious pride, keeps himself separate from others and does not get involved in any adventurous or progressive work."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "What does the poet suggest would have happened to human progress without daring people?",
+"answer": "The poet suggests that without daring people, there would be no radio, motor cars, telegraph or telephone, and people would still be lingering in the Age of Stone."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "What is the effect of men who keep saying 'It can't be done', according to the poet?",
+"answer": "According to the poet, if things were run by men who keep saying 'It can't be done', the world would sleep and there would be no real progress or achievement."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "How does the poem 'It Can Be Done' show the importance of a positive attitude toward new ventures?",
+"answer": "The poem contrasts negative, discouraging people with the great inventions that exist because some people dared to act, showing that a positive attitude leads to human advancement."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Who are the 'Seven Sisters' referred to in the lesson of the same name?",
+"answer": "The 'Seven Sisters' are the seven States of Northeast India that are contiguous to each other and are known for their natural beauty and cultural richness."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Why do the Seven Sisters call their region a 'biodiversity hotspot'?",
+"answer": "They call it a biodiversity hotspot because the region is rich in forests, wildlife, rare animals, birds and plants, and is recognized by nature lovers for its great variety of life."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "Describe two features of Arunachal Pradesh mentioned in the lesson 'Seven Sisters'.",
+"answer": "Arunachal Pradesh is described as the 'Land of the Dawn Lit Sun', with simple, hospitable people, many tribes and a landscape of monasteries, lush forests, lakes, waterfalls and deep river valleys."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "What kind of food habits are described for the people of Arunachal Pradesh?",
+"answer": "Their diet largely consists of rice with fish, meat and many green vegetables, and a popular dish is momos, which are steamed buns with meat or vegetable stuffing."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "What is special about the orchid sanctuary mentioned in connection with Arunachal Pradesh?",
+"answer": "The lesson mentions that Arunachal Pradesh is home to India's first orchid sanctuary, showing the State's rich variety of beautiful orchids."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "What does the lesson tell you about the festivals and lifestyle of the Nagas?",
+"answer": "The Nagas are described as lovers of fun and frolic for whom life is one long festival, with robust dances, songs and colourful ethnic customs forming a vital part of their culture."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "Explain why Nagaland is called the 'Falcon capital of the world' in the lesson.",
+"answer": "Nagaland is called the 'Falcon capital of the world' because large numbers of falcons visit the region, making it famous for these birds."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "What do you learn about the geographical zones of Tripura from the lesson?",
+"answer": "Tripura has three geographical zones: hill ranges running from north to south, undulating plateau land and low-lying alluvial plains, all nourished by rivers."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Name any three crops grown in Tripura as mentioned in 'Seven Sisters'.",
+"answer": "The lesson mentions that rice, cotton, jute, tea, tobacco and oilseeds are grown in Tripura."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "How does the lesson describe the coexistence of different people in Tripura?",
+"answer": "It states that the Kokborok-speaking Tripuri people are the major group, and Bengali and Manipuri people have co-existed peacefully with them for generations."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "In the play 'Stone Soup', why does the traveller hesitate to approach the villagers at first?",
+"answer": "He overhears the villagers calling uninvited guests pests and a nuisance, so he realises that they are unwilling to offer food or shelter."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "What excuse does Motiram give for not helping the traveller?",
+"answer": "Motiram says that dinner is over and there is nothing left, and he shuts the door, clearly not wanting to help the traveller."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "How does Sonabai pretend to misunderstand the traveller's request in 'Stone Soup'?",
+"answer": "When the traveller asks for food, she pretends to hear 'wood' and tells him to go to the forest and chop wood, thus avoiding giving him anything."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "What trick does Hirabai use to send the traveller away?",
+"answer": "Hirabai speaks in gibberish, saying sentences that make no sense, so that the traveller cannot communicate with her and is forced to leave."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Why is Rupabai unable to offer food to the traveller at first?",
+"answer": "Rupabai genuinely has an empty larder and is herself hungry, so she tells the traveller that she has nothing in the house to give him."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "How does the traveller describe his 'magic stone' to Rupabai?",
+"answer": "He tells her that if the stone is boiled in water, it makes a delicious, nourishing soup, and that he only needs a big pot of water to make it."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Name any four ingredients that are added to the stone soup besides water and the stone.",
+"answer": "The villagers add potatoes, tomatoes, carrots, beans, onions, ginger, salt and pepper to the stone soup."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "What change do you see in Motiram as the soup is being made?",
+"answer": "Motiram, who disliked guests, finally brings vegetables and proudly declares that he does not lag behind when help is needed, showing a more generous side."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "What 'secret' about the soup does the traveller share with the audience at the end of the play?",
+"answer": "He reveals that the stone does nothing special and that they can make the same soup even without the stone, hinting that the real magic lies in sharing."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "What picture of early Indian medicine does the lesson 'Sushruta – A Peep into the Past' present?",
+"answer": "The lesson presents early Indian medicine as advanced and systematic, with Sushruta performing surgeries and writing about surgical instruments and procedures."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "What kind of operations is Sushruta shown to have carried out in the lesson?",
+"answer": "He is shown to have carried out operations like plastic surgery on the nose, other surgical procedures and treatment of wounds."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Why is the lesson on Sushruta titled 'A Peep into the Past'?",
+"answer": "It is titled so because it gives readers a brief glimpse into the achievements of ancient Indian surgery and medical knowledge."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "In the poem 'The Donkey', how are the young donkey's legs described?",
+"answer": "His legs are described as shaky, long and loose, which rocketed and staggered and were not of much use at first."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "What is meant by the words 'gambol and frisk' in the context of the donkey?",
+"answer": "They mean to leap, move and play about in a lively way, which the donkey tries to do but is not yet sure of the trick."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "How does the poet describe the donkey's coat and face?",
+"answer": "The donkey has a queer little grey coat that curls at his neck, and a wistful face that shows he feels life needs some thinking about."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Why does the donkey 'blunder round in venturesome quest'?",
+"answer": "He is small, weak and inexperienced, yet he bravely wanders around exploring the world, though he does it clumsily."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "How does the poet's attitude towards the donkey become clear in the last line of the poem?",
+"answer": "The poet prays that the world might be good to the little donkey, showing sympathy and affection for the helpless young animal."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "What type of business does Antonio have in 'The Merchant of Venice'?",
+"answer": "Antonio is a merchant who invests in ships that carry merchandise like spices and treasures from faraway countries."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "How is Bassanio described in the lesson, and what is his main problem?",
+"answer": "Bassanio is a young, handsome nobleman who is unfortunately poor and needs money to go to Belmont to seek Portia's hand."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "What instructions does Portia's father leave about the choice of her husband?",
+"answer": "He states in his will that her suitors must choose between three caskets of gold, silver and lead, and only the one who chooses the right casket will marry her."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "What was written on the gold casket in the story?",
+"answer": "The gold casket bore the inscription, 'Whoever chooses me shall gain what many men desire.'"
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Which two suitors choose wrongly, and what caskets do they select?",
+"answer": "The Prince of Morocco chooses the gold casket, and the Prince of Arragon chooses the silver casket, and both turn out to be wrong."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "How does the lesson 'The Merchant of Venice' explain the saying 'All that glitters is not gold'?",
+"answer": "It explains the saying through the Prince of Morocco's wrong choice of the glittering gold casket, which does not contain Portia's portrait."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Why does Shylock dislike Antonio, according to the lesson?",
+"answer": "Shylock dislikes Antonio because Antonio sometimes lends money without charging interest, which goes against Shylock's moneylending practices."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "What does Portia ask Bassanio to do to save Antonio when she hears about the bond?",
+"answer": "Portia asks Bassanio to offer Shylock twice the amount of money to save Antonio, showing her wish to rescue him."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "What argument about mercy does the young lawyer present in the court?",
+"answer": "The lawyer says that mercy is a quality of God himself, that it blesses both the giver and the receiver, and that it is more valuable than a king's crown."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "How does the condition about blood help to save Antonio's life?",
+"answer": "Since Shylock cannot take a pound of flesh without shedding blood and cannot measure exactly one pound, he is unable to fulfil the bond and loses his case."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Why does Shylock finally accept defeat in the court?",
+"answer": "He realises that he cannot cut off Antonio's flesh without breaking the strict conditions about blood and exact weight, so the law turns against him and he accepts defeat."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "How does the lesson describe the outcome of Antonio's business at the end?",
+"answer": "It explains that Antonio's ships are found to be safe, so he has not really lost his money and the story ends happily instead of tragically."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "In 'It Can Be Done', what is meant by the line 'We'd linger in the Age of Stone'?",
+"answer": "It means that without people who dare to do what seems impossible, human beings would still live with primitive tools and no modern inventions."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "How does the poem 'It Can Be Done' encourage students to approach difficulties?",
+"answer": "The poem suggests that difficulties should be faced with courage and belief instead of saying 'It can't be done', because such belief leads to progress."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "What is the tone of the Seven Sisters when they introduce themselves?",
+"answer": "Their tone is friendly and proud, as they invite readers to know their natural beauty, cultures, dances and festivals."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "How does the description of the Naga Heritage Village help you understand Naga culture?",
+"answer": "It shows that the village displays traditional houses, costumes, songs, dances and festivals, helping visitors experience and appreciate Naga heritage."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "What role do rivers play in the life of Tripura as described in the lesson?",
+"answer": "Rivers like the Gumti, Muhuri and Feni nourish the land, support agriculture and sustain the activities of the people of Tripura."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "In 'Stone Soup', how do the villagers' attitudes change from the beginning to the end?",
+"answer": "At first they are selfish and make excuses to avoid helping, but by the end they willingly share vegetables and enjoy the soup together."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "What does the play 'Stone Soup' suggest about the value of sharing?",
+"answer": "The play suggests that sharing resources, even when everyone has a little, can create abundance and a sense of community among people."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Why is the traveller described as 'poor' and 'footsore'?",
+"answer": "He is poor because he has no food or money, and 'footsore' because he has walked a long distance and his feet are tired and sore."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "How does the use of dialogue in 'Stone Soup' make the lesson more effective?",
+"answer": "Dialogue reveals each character's attitude in a lively way and helps students practise speaking and expressing feelings while understanding the theme."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "What do you understand by the word 'venturesome' in the poem 'The Donkey'?",
+"answer": "It means daring or adventurous, showing that the donkey has the courage to explore even though it is small and weak."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "How does the description of the donkey's movements create humour in the poem?",
+"answer": "Words like 'rocketed', 'staggered', 'gambol' and 'frisk' show clumsy yet energetic movements, making the picture of the young donkey amusing."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Why does the poet say that the donkey felt 'life needed some thinking about'?",
+"answer": "The donkey's wistful face makes it seem as if he is seriously considering how difficult and strange life feels on his first day."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "How is mercy described in the court speech in 'The Merchant of Venice'?",
+"answer": "Mercy is described as a divine quality belonging to God, which blesses the giver and the receiver and is nobler than earthly power."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Why is Shylock's demand called 'inhuman' in the lesson?",
+"answer": "It is called inhuman because insisting on cutting a pound of flesh from a living man without mercy ignores human life and feelings."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "What does the lesson 'The Merchant of Venice' teach about the relationship between law and justice?",
+"answer": "It shows that strict law alone can be cruel, and that true justice needs to be balanced with mercy and humanity."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "How do the learning activities given after 'Seven Sisters' help you as a student?",
+"answer": "They ask students to answer questions, describe States, use maps and discuss culture, which develop comprehension, speaking and writing skills."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "What does the phrase 'unimaginably verdant' suggest about the Seven Sisters region?",
+"answer": "It suggests that the region is covered with very rich, green vegetation beyond what many people can easily imagine."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Why is the Science Fair an important event in the lesson 'At the Science Fair'?",
+"answer": "It gives students a chance to display projects, explain scientific ideas, and practise communication and study skills in a real setting."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "How does 'At the Science Fair' connect to the textbook’s aim of using English for learning other subjects?",
+"answer": "The lesson shows students using English to describe science exhibits, thus using the language as a medium to understand and present science."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "What do the Seven Sisters say about their costumes and jewellery?",
+"answer": "They mention that they are famous for colourful costumes and traditional jewellery, which express their unique cultures."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "How does the style of addressing the reader in 'Seven Sisters' make the text engaging?",
+"answer": "The States speak directly as 'we', asking 'Have you guessed who we are?', which creates interest and makes the description lively."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "In 'Stone Soup', how do the stage directions contribute to understanding the play?",
+"answer": "Stage directions like 'Traveller becomes nervous' and 'Other neighbours peep out' help readers imagine actions and feelings beyond spoken words."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "What lesson about hospitality can be drawn from the play 'Stone Soup'?",
+"answer": "It suggests that true hospitality means sharing and caring for strangers, and that generosity creates joy for everyone."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "What is meant by 'aloof' in the expression 'stands aloof' in 'It Can Be Done'?",
+"answer": "It means standing apart or keeping oneself separate without getting involved in what others are doing."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Why does the poem 'It Can Be Done' list concrete inventions like radio and motor cars?",
+"answer": "By listing inventions, the poem shows practical examples of what has been achieved because people believed things could be done."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "How does the poet use contrast in 'It Can Be Done' to strengthen the message?",
+"answer": "The poet contrasts a negative man who blocks progress with the great advances of humanity, emphasising the value of a can-do spirit."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "What does the word 'robust' suggest about the dances mentioned in Nagaland’s description?",
+"answer": "It suggests that the dances are strong, energetic and full of lively rhythm."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "How do cultural festivals like the Great Hornbill Festival promote understanding of Nagaland?",
+"answer": "They showcase traditional music, dance, dress and customs, helping visitors learn about and respect Naga culture."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Why do you think the textbook personifies the Seven Sisters rather than just listing facts?",
+"answer": "Personification makes the States sound like living characters, which makes the information more memorable and interesting for students."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "In 'Stone Soup', why does the traveller repeatedly mention extra ingredients after each is added?",
+"answer": "He cleverly tempts the villagers to contribute more by suggesting how each extra item would improve the soup."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "How is humour created through Sonabai’s misunderstanding of 'food' as 'wood'?",
+"answer": "The similarity in sound and her deliberate mishearing create a playful confusion that makes the scene amusing."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "What do you think the stone symbolises in the play 'Stone Soup'?",
+"answer": "Within the context of the lesson, the stone symbolises a clever idea that brings people together to share what they have."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "How does the poem 'The Donkey' make the reader feel sympathetic towards the animal?",
+"answer": "The donkey’s awkward body, shy attempts to play and the poet’s prayer that the world be good to him all evoke sympathy."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "What is the main conflict in 'The Merchant of Venice' as presented in this abridged lesson?",
+"answer": "The main conflict is between Shylock’s demand for a pound of Antonio’s flesh under the bond and the efforts to save Antonio’s life."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "How does Portia show both intelligence and courage in the court scene?",
+"answer": "Disguised as a lawyer, she argues cleverly about mercy and the exact wording of the bond, turning the case in Antonio’s favour."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "What does the textbook ask you to do after reading 'The Merchant of Venice' to deepen your understanding?",
+"answer": "It asks you to say whether statements are true or false, describe characters, summarise events and work with word formation and prefixes."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "In what way does 'Seven Sisters' help students appreciate the diversity of India?",
+"answer": "It highlights different languages, foods, festivals, landscapes and customs of the northeastern States, showing India’s cultural and natural variety."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Why is the phrase 'fun and frolic' apt for describing Naga life?",
+"answer": "It captures their enjoyment of lively festivals, music, dance and celebrations that form an important part of their lifestyle."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "How does the play 'Stone Soup' encourage creative speaking activities in class?",
+"answer": "It invites students to read aloud, enact roles, use expressions showing feelings and even write recipes and dialogues based on the play."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "What is the emotional effect of the final image of the donkey lying flat on the ground?",
+"answer": "It shows his tiredness and smallness, making the reader hope that the world will treat the helpless animal kindly."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "How does the ending of 'The Merchant of Venice' in this lesson differ from a tragic ending?",
+"answer": "Instead of death or loss, Antonio survives, his ships are safe, and Portia and Bassanio are united, giving a happy resolution."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Why do you think the poet in 'It Can Be Done' uses simple, strong rhymes?",
+"answer": "The simple rhymes make the message catchy and easy to remember, reinforcing the idea that positive effort leads to success."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "What does the textbook expect you to do with other Shakespeare tales after reading 'The Merchant of Venice'?",
+"answer": "It suggests visiting a library and reading other tales from Shakespeare, such as 'Julius Caesar', 'As You Like It', 'Macbeth' and 'The Tempest'."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "How are the aims of listening, speaking, reading and writing supported by the lessons in Voyage Three?",
+"answer": "Poems, plays and stories with activities for reading aloud, enacting, answering questions and writing summaries together support all four language skills."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "What do the instructions after 'Seven Sisters' suggest about using maps and other sources?",
+"answer": "They encourage students to consult maps and extra information to locate the States and learn more about their features and people."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Why is the traveller’s final question 'Have you guessed the secret of the stone soup?' effective as a closing line?",
+"answer": "It invites the audience to think for themselves and realise that cooperation, not magic, created the delicious soup."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "What specific learning does 'At the Science Fair' promote regarding study skills?",
+"answer": "It promotes observing exhibits, noting details, asking questions, and explaining processes clearly, which are important study skills."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "How could a student use the ideas in 'It Can Be Done' when working on a difficult project?",
+"answer": "A student could refuse to say 'It can't be done', keep trying different ways and remember that great achievements began as difficult tasks."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "What does the cooperation of different neighbours in 'Stone Soup' tell us about community life?",
+"answer": "It shows that when individuals contribute small things, a community can enjoy shared benefits and happiness."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "How does the gentle description of the donkey's coat add to the mood of the poem?",
+"answer": "The soft, grey, curling coat gives a tender, affectionate feel, matching the poet’s sympathy for the young animal."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "In 'The Merchant of Venice', what does the law finally protect: the literal bond or human life?",
+"answer": "Through Portia’s argument, the law ultimately protects human life by making it impossible for Shylock to take the flesh legally."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "How does 'Seven Sisters' balance factual information with imaginative presentation?",
+"answer": "Each State gives factual details about geography and culture but speaks in the first person, making the presentation vivid and engaging."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Why is the traveller’s politeness important to the outcome in 'Stone Soup'?",
+"answer": "His polite words and respectful tone gradually soften the villagers, making them willing to share their food."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "What kind of courage is praised in the poem 'It Can Be Done'?",
+"answer": "The poem praises the quiet courage to attempt new ventures instead of dismissing them as impossible."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "How can reading 'The Donkey' help students develop empathy?",
+"answer": "By imagining the tiny donkey’s struggles and seeing the poet’s concern, students learn to feel for helpless living creatures."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "What common idea about human effort links 'It Can Be Done', 'Stone Soup' and 'The Merchant of Venice'?",
+"answer": "All three show that determination, courage and wise use of intelligence can change situations that first seem difficult or hopeless."
+}
+]
+} 

@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.16",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Let’s Speak"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the main focus of this chapter?",
+      "options": [
+        { "option_id": 1, "text": "Writing sentences", "is_correct": false },
+        { "option_id": 2, "text": "Speaking politely", "is_correct": true },
+        { "option_id": 3, "text": "Drawing pictures", "is_correct": false },
+        { "option_id": 4, "text": "Reading silently", "is_correct": false }
+      ],
+      "answer": "Speaking politely"
+    }
+  ]
+}

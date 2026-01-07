@@ -1,0 +1,915 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.ENG.04",
+    "standard": "2",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Unit Three — Action Song, Activity Time, Let’s Speak, Word Basket, Know the Occupations, Zoom Zoom Zoom, Learning Letters, Fun with Letters, Reading Time",
+    "source": ":contentReference[oaicite:0]{index=0}"
+  },
+  "questions": [
+
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "In the Action Song, which body part is put in first?",
+      "options": [
+        { "option_id": 1, "text": "Left hand", "is_correct": false },
+        { "option_id": 2, "text": "Right hand", "is_correct": true },
+        { "option_id": 3, "text": "Left foot", "is_correct": false },
+        { "option_id": 4, "text": "Whole self", "is_correct": false }
+      ],
+      "answer": "Right hand"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What action is repeated in the Action Song?",
+      "options": [
+        { "option_id": 1, "text": "Jump up", "is_correct": false },
+        { "option_id": 2, "text": "Shake it all about", "is_correct": true },
+        { "option_id": 3, "text": "Run fast", "is_correct": false },
+        { "option_id": 4, "text": "Clap loudly", "is_correct": false }
+      ],
+      "answer": "Shake it all about"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which phrase is repeated in the Action Song?",
+      "options": [
+        { "option_id": 1, "text": "Do the boogie woogie", "is_correct": true },
+        { "option_id": 2, "text": "Let’s run", "is_correct": false },
+        { "option_id": 3, "text": "Hop along", "is_correct": false },
+        { "option_id": 4, "text": "Sing aloud", "is_correct": false }
+      ],
+      "answer": "Do the boogie woogie"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which classroom object does Amit place near the window?",
+      "options": [
+        { "option_id": 1, "text": "Ruler", "is_correct": false },
+        { "option_id": 2, "text": "Card", "is_correct": true },
+        { "option_id": 3, "text": "Book", "is_correct": false },
+        { "option_id": 4, "text": "Pencil", "is_correct": false }
+      ],
+      "answer": "Card"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Where does Roshan keep the card?",
+      "options": [
+        { "option_id": 1, "text": "On the desk", "is_correct": false },
+        { "option_id": 2, "text": "Near the board", "is_correct": true },
+        { "option_id": 3, "text": "On the bench", "is_correct": false },
+        { "option_id": 4, "text": "Near the door", "is_correct": false }
+      ],
+      "answer": "Near the board"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In the stationery shop conversation, what does Ahmed ask for?",
+      "options": [
+        { "option_id": 1, "text": "A ruler", "is_correct": false },
+        { "option_id": 2, "text": "A set of crayons", "is_correct": true },
+        { "option_id": 3, "text": "A notebook", "is_correct": false },
+        { "option_id": 4, "text": "A pen", "is_correct": false }
+      ],
+      "answer": "A set of crayons"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How many colours are there in the set of crayons?",
+      "options": [
+        { "option_id": 1, "text": "Ten", "is_correct": false },
+        { "option_id": 2, "text": "Twelve", "is_correct": true },
+        { "option_id": 3, "text": "Eight", "is_correct": false },
+        { "option_id": 4, "text": "Six", "is_correct": false }
+      ],
+      "answer": "Twelve"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How much does one crayon set cost?",
+      "options": [
+        { "option_id": 1, "text": "Ten rupees", "is_correct": false },
+        { "option_id": 2, "text": "Twenty rupees", "is_correct": true },
+        { "option_id": 3, "text": "Thirty rupees", "is_correct": false },
+        { "option_id": 4, "text": "Five rupees", "is_correct": false }
+      ],
+      "answer": "Twenty rupees"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word belongs to the Word Basket list?",
+      "options": [
+        { "option_id": 1, "text": "pin", "is_correct": true },
+        { "option_id": 2, "text": "dog", "is_correct": false },
+        { "option_id": 3, "text": "tree", "is_correct": false },
+        { "option_id": 4, "text": "book", "is_correct": false }
+      ],
+      "answer": "pin"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'six'?",
+      "options": [
+        { "option_id": 1, "text": "tin", "is_correct": true },
+        { "option_id": 2, "text": "dog", "is_correct": false },
+        { "option_id": 3, "text": "boy", "is_correct": false },
+        { "option_id": 4, "text": "mat", "is_correct": false }
+      ],
+      "answer": "tin"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is a nib a part of?",
+      "options": [
+        { "option_id": 1, "text": "A book", "is_correct": false },
+        { "option_id": 2, "text": "A pen", "is_correct": true },
+        { "option_id": 3, "text": "A bag", "is_correct": false },
+        { "option_id": 4, "text": "A ruler", "is_correct": false }
+      ],
+      "answer": "A pen"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which mat sentence is read aloud in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "We sit on a mat.", "is_correct": false },
+        { "option_id": 2, "text": "Let us sit on a big mat.", "is_correct": true },
+        { "option_id": 3, "text": "This is a mat.", "is_correct": false },
+        { "option_id": 4, "text": "Mat is blue.", "is_correct": false }
+      ],
+      "answer": "Let us sit on a big mat."
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who is Siddhesh?",
+      "options": [
+        { "option_id": 1, "text": "A Chef", "is_correct": false },
+        { "option_id": 2, "text": "A Mechanic", "is_correct": true },
+        { "option_id": 3, "text": "A Singer", "is_correct": false },
+        { "option_id": 4, "text": "A Carpenter", "is_correct": false }
+      ],
+      "answer": "A Mechanic"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who is Abdul?",
+      "options": [
+        { "option_id": 1, "text": "A Carpenter", "is_correct": true },
+        { "option_id": 2, "text": "A Manager", "is_correct": false },
+        { "option_id": 3, "text": "A Traffic-police", "is_correct": false },
+        { "option_id": 4, "text": "A Singer", "is_correct": false }
+      ],
+      "answer": "A Carpenter"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who directs traffic?",
+      "options": [
+        { "option_id": 1, "text": "Siddhesh", "is_correct": false },
+        { "option_id": 2, "text": "Kishor", "is_correct": true },
+        { "option_id": 3, "text": "Abdul", "is_correct": false },
+        { "option_id": 4, "text": "Varsha", "is_correct": false }
+      ],
+      "answer": "Kishor"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who uses a computer in her office?",
+      "options": [
+        { "option_id": 1, "text": "Siya", "is_correct": false },
+        { "option_id": 2, "text": "Pranali", "is_correct": true },
+        { "option_id": 3, "text": "Varsha", "is_correct": false },
+        { "option_id": 4, "text": "Abdul", "is_correct": false }
+      ],
+      "answer": "Pranali"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who cooks tasty food?",
+      "options": [
+        { "option_id": 1, "text": "Varsha", "is_correct": false },
+        { "option_id": 2, "text": "Siya", "is_correct": true },
+        { "option_id": 3, "text": "Pranali", "is_correct": false },
+        { "option_id": 4, "text": "Kishor", "is_correct": false }
+      ],
+      "answer": "Siya"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who sings sweet songs?",
+      "options": [
+        { "option_id": 1, "text": "Varsha", "is_correct": true },
+        { "option_id": 2, "text": "Siya", "is_correct": false },
+        { "option_id": 3, "text": "Pranali", "is_correct": false },
+        { "option_id": 4, "text": "Abdul", "is_correct": false }
+      ],
+      "answer": "Varsha"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "In the poem Zoom Zoom Zoom, where are we going?",
+      "options": [
+        { "option_id": 1, "text": "To the city", "is_correct": false },
+        { "option_id": 2, "text": "To the moon", "is_correct": true },
+        { "option_id": 3, "text": "To the park", "is_correct": false },
+        { "option_id": 4, "text": "To the school", "is_correct": false }
+      ],
+      "answer": "To the moon"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What vehicle is used in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Rocket ship", "is_correct": true },
+        { "option_id": 2, "text": "Bus", "is_correct": false },
+        { "option_id": 3, "text": "Car", "is_correct": false },
+        { "option_id": 4, "text": "Train", "is_correct": false }
+      ],
+      "answer": "Rocket ship"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is counted down before blast-off?",
+      "options": [
+        { "option_id": 1, "text": "Letters", "is_correct": false },
+        { "option_id": 2, "text": "Numbers", "is_correct": true },
+        { "option_id": 3, "text": "Shapes", "is_correct": false },
+        { "option_id": 4, "text": "Words", "is_correct": false }
+      ],
+      "answer": "Numbers"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "In Let’s Speak, what is first found by John?",
+      "options": [
+        { "option_id": 1, "text": "A ruler", "is_correct": false },
+        { "option_id": 2, "text": "A pencil", "is_correct": true },
+        { "option_id": 3, "text": "An eraser", "is_correct": false },
+        { "option_id": 4, "text": "A bag", "is_correct": false }
+      ],
+      "answer": "A pencil"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Where does Anand say the ruler was found?",
+      "options": [
+        { "option_id": 1, "text": "In the bag", "is_correct": false },
+        { "option_id": 2, "text": "Under the bench", "is_correct": true },
+        { "option_id": 3, "text": "On the table", "is_correct": false },
+        { "option_id": 4, "text": "Near the door", "is_correct": false }
+      ],
+      "answer": "Under the bench"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What does Sheldon forget at home?",
+      "options": [
+        { "option_id": 1, "text": "His ruler", "is_correct": false },
+        { "option_id": 2, "text": "His pen", "is_correct": true },
+        { "option_id": 3, "text": "His eraser", "is_correct": false },
+        { "option_id": 4, "text": "His book", "is_correct": false }
+      ],
+      "answer": "His pen"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which word belongs to the ‘ox’ sound family?",
+      "options": [
+        { "option_id": 1, "text": "fox", "is_correct": true },
+        { "option_id": 2, "text": "pin", "is_correct": false },
+        { "option_id": 3, "text": "lip", "is_correct": false },
+        { "option_id": 4, "text": "six", "is_correct": false }
+      ],
+      "answer": "fox"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with ‘toy’?",
+      "options": [
+        { "option_id": 1, "text": "boy", "is_correct": true },
+        { "option_id": 2, "text": "tin", "is_correct": false },
+        { "option_id": 3, "text": "fit", "is_correct": false },
+        { "option_id": 4, "text": "sit", "is_correct": false }
+      ],
+      "answer": "boy"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which sentence is read in the ox-sound section?",
+      "options": [
+        { "option_id": 1, "text": "A red dot on a pot", "is_correct": false },
+        { "option_id": 2, "text": "A boy got the toy", "is_correct": true },
+        { "option_id": 3, "text": "Let us sit on a mat", "is_correct": false },
+        { "option_id": 4, "text": "This is my bag", "is_correct": false }
+      ],
+      "answer": "A boy got the toy"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What letter is traced for Orange?",
+      "options": [
+        { "option_id": 1, "text": "Pp", "is_correct": false },
+        { "option_id": 2, "text": "Oo", "is_correct": true },
+        { "option_id": 3, "text": "Rr", "is_correct": false },
+        { "option_id": 4, "text": "Ss", "is_correct": false }
+      ],
+      "answer": "Oo"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which letter is traced for Pencil?",
+      "options": [
+        { "option_id": 1, "text": "Pp", "is_correct": true },
+        { "option_id": 2, "text": "Qq", "is_correct": false },
+        { "option_id": 3, "text": "Ss", "is_correct": false },
+        { "option_id": 4, "text": "Tt", "is_correct": false }
+      ],
+      "answer": "Pp"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which plural form is correct?",
+      "options": [
+        { "option_id": 1, "text": "flower – flowers", "is_correct": true },
+        { "option_id": 2, "text": "tree – treeses", "is_correct": false },
+        { "option_id": 3, "text": "cloud – cloudes", "is_correct": false },
+        { "option_id": 4, "text": "star – starz", "is_correct": false }
+      ],
+      "answer": "flower – flowers"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which plural pair is shown in the table?",
+      "options": [
+        { "option_id": 1, "text": "crow – crows", "is_correct": true },
+        { "option_id": 2, "text": "sun – sunses", "is_correct": false },
+        { "option_id": 3, "text": "toy – toyses", "is_correct": false },
+        { "option_id": 4, "text": "bench – bencheses", "is_correct": false }
+      ],
+      "answer": "crow – crows"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which singular–plural pair is correct?",
+      "options": [
+        { "option_id": 1, "text": "picture – pictures", "is_correct": true },
+        { "option_id": 2, "text": "animal – animalses", "is_correct": false },
+        { "option_id": 3, "text": "tree – treeses", "is_correct": false },
+        { "option_id": 4, "text": "friend – friendz", "is_correct": false }
+      ],
+      "answer": "picture – pictures"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "In Reading Time, what sentence pattern is used?",
+      "options": [
+        { "option_id": 1, "text": "I have a …", "is_correct": false },
+        { "option_id": 2, "text": "I am a … Here is my …", "is_correct": true },
+        { "option_id": 3, "text": "This is a …", "is_correct": false },
+        { "option_id": 4, "text": "We are …", "is_correct": false }
+      ],
+      "answer": "I am a … Here is my …"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which object is matched with ‘clock’ in Activity Time?",
+      "options": [
+        { "option_id": 1, "text": "Table", "is_correct": false },
+        { "option_id": 2, "text": "Wall", "is_correct": false },
+        { "option_id": 3, "text": "Clock", "is_correct": true },
+        { "option_id": 4, "text": "Bench", "is_correct": false }
+      ],
+      "answer": "Clock"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which object is kept near the door?",
+      "options": [
+        { "option_id": 1, "text": "Card", "is_correct": true },
+        { "option_id": 2, "text": "Computer", "is_correct": false },
+        { "option_id": 3, "text": "Bench", "is_correct": false },
+        { "option_id": 4, "text": "Chair", "is_correct": false }
+      ],
+      "answer": "Card"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which rhyming pair belongs to the ‘i’ sound?",
+      "options": [
+        { "option_id": 1, "text": "kit – hit", "is_correct": true },
+        { "option_id": 2, "text": "dog – log", "is_correct": false },
+        { "option_id": 3, "text": "boy – toy", "is_correct": false },
+        { "option_id": 4, "text": "mat – bat", "is_correct": false }
+      ],
+      "answer": "kit – hit"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which sound family includes ‘sit’?",
+      "options": [
+        { "option_id": 1, "text": "i sound", "is_correct": true },
+        { "option_id": 2, "text": "o sound", "is_correct": false },
+        { "option_id": 3, "text": "a sound", "is_correct": false },
+        { "option_id": 4, "text": "u sound", "is_correct": false }
+      ],
+      "answer": "i sound"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which word belongs to the ‘o’ sound group?",
+      "options": [
+        { "option_id": 1, "text": "hot", "is_correct": true },
+        { "option_id": 2, "text": "six", "is_correct": false },
+        { "option_id": 3, "text": "lip", "is_correct": false },
+        { "option_id": 4, "text": "nib", "is_correct": false }
+      ],
+      "answer": "hot"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which phrase appears in dot-pot reading?",
+      "options": [
+        { "option_id": 1, "text": "A red dot on a pot", "is_correct": true },
+        { "option_id": 2, "text": "A boy got the toy", "is_correct": false },
+        { "option_id": 3, "text": "Let us sit on a mat", "is_correct": false },
+        { "option_id": 4, "text": "This is my bag", "is_correct": false }
+      ],
+      "answer": "A red dot on a pot"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which dog sentence is included in reading practice?",
+      "options": [
+        { "option_id": 1, "text": "A big dog on a log", "is_correct": true },
+        { "option_id": 2, "text": "The dog can run", "is_correct": false },
+        { "option_id": 3, "text": "This is my dog", "is_correct": false },
+        { "option_id": 4, "text": "We love the dog", "is_correct": false }
+      ],
+      "answer": "A big dog on a log"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which letter set is circled for Sun?",
+      "options": [
+        { "option_id": 1, "text": "Ss", "is_correct": true },
+        { "option_id": 2, "text": "Qq", "is_correct": false },
+        { "option_id": 3, "text": "Tt", "is_correct": false },
+        { "option_id": 4, "text": "Oo", "is_correct": false }
+      ],
+      "answer": "Ss"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which letter pair is traced for Tree?",
+      "options": [
+        { "option_id": 1, "text": "Tt", "is_correct": true },
+        { "option_id": 2, "text": "Pp", "is_correct": false },
+        { "option_id": 3, "text": "Rr", "is_correct": false },
+        { "option_id": 4, "text": "Oo", "is_correct": false }
+      ],
+      "answer": "Tt"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which occupation uses a projector?",
+      "options": [
+        { "option_id": 1, "text": "Manager", "is_correct": true },
+        { "option_id": 2, "text": "Chef", "is_correct": false },
+        { "option_id": 3, "text": "Singer", "is_correct": false },
+        { "option_id": 4, "text": "Carpenter", "is_correct": false }
+      ],
+      "answer": "Manager"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who uses a tambura to practise?",
+      "options": [
+        { "option_id": 1, "text": "Varsha", "is_correct": true },
+        { "option_id": 2, "text": "Siya", "is_correct": false },
+        { "option_id": 3, "text": "Abdul", "is_correct": false },
+        { "option_id": 4, "text": "Kishor", "is_correct": false }
+      ],
+      "answer": "Varsha"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who uses pots and pans?",
+      "options": [
+        { "option_id": 1, "text": "Siya", "is_correct": true },
+        { "option_id": 2, "text": "Pranali", "is_correct": false },
+        { "option_id": 3, "text": "Varsha", "is_correct": false },
+        { "option_id": 4, "text": "Kishor", "is_correct": false }
+      ],
+      "answer": "Siya"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which word from Zoom Zoom Zoom means ‘on the ship’?",
+      "options": [
+        { "option_id": 1, "text": "aboard", "is_correct": true },
+        { "option_id": 2, "text": "soon", "is_correct": false },
+        { "option_id": 3, "text": "trip", "is_correct": false },
+        { "option_id": 4, "text": "moon", "is_correct": false }
+      ],
+      "answer": "aboard"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which word is used in the rocket poem vocabulary?",
+      "options": [
+        { "option_id": 1, "text": "rocket", "is_correct": true },
+        { "option_id": 2, "text": "river", "is_correct": false },
+        { "option_id": 3, "text": "bridge", "is_correct": false },
+        { "option_id": 4, "text": "garden", "is_correct": false }
+      ],
+      "answer": "rocket"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which plural form is used for ‘flower’?",
+      "options": [
+        { "option_id": 1, "text": "flowers", "is_correct": true },
+        { "option_id": 2, "text": "floweres", "is_correct": false },
+        { "option_id": 3, "text": "flowerz", "is_correct": false },
+        { "option_id": 4, "text": "floweries", "is_correct": false }
+      ],
+      "answer": "flowers"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which singular form matches ‘friends’?",
+      "options": [
+        { "option_id": 1, "text": "friend", "is_correct": true },
+        { "option_id": 2, "text": "frien", "is_correct": false },
+        { "option_id": 3, "text": "friand", "is_correct": false },
+        { "option_id": 4, "text": "freind", "is_correct": false }
+      ],
+      "answer": "friend"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the overall theme of Unit Three?",
+      "options": [
+        { "option_id": 1, "text": "Sports and games", "is_correct": false },
+        { "option_id": 2, "text": "Actions, reading, sounds and occupations", "is_correct": true },
+        { "option_id": 3, "text": "Numbers and sums", "is_correct": false },
+        { "option_id": 4, "text": "Stories and poems only", "is_correct": false }
+      ],
+      "answer": "Actions, reading, sounds and occupations"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What action is done after putting the right hand in the Action Song?",
+      "answer": "The children shake it all about."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Which body part is used in the second stanza of the Action Song?",
+      "answer": "The left hand is used in the second stanza."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What does the teacher ask Amit to do with the card?",
+      "answer": "The teacher asks Amit to put the card in the right place."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Where did Amit keep the card?",
+      "answer": "Amit kept the card near the window."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What does Ahmed want to buy at the shop?",
+      "answer": "Ahmed wants to buy a set of crayons."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How many colours are there in the crayon set?",
+      "answer": "There are twelve colours in the crayon set."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How much money does Ahmed pay for the crayons?",
+      "answer": "He pays twenty rupees."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Write any two words from the Word Basket (i-sound).",
+      "answer": "pin, tin"
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is a nib a part of?",
+      "answer": "A nib is a part of a pen."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Write one sentence about the mat from the lesson.",
+      "answer": "Let us sit on a big mat."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Who repairs machines?",
+      "answer": "Siddhesh repairs machines. He is a Mechanic."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Who makes things from wood?",
+      "answer": "Abdul makes things from wood. He is a Carpenter."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Who directs traffic?",
+      "answer": "Kishor directs traffic. He is a Traffic-police."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Who works in an office and uses a computer?",
+      "answer": "Pranali works in an office and uses a computer."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Who cooks tasty food?",
+      "answer": "Siya cooks tasty food. She is a Chef."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Who sings sweet songs?",
+      "answer": "Varsha sings sweet songs. She is a Singer."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Where are we going in the poem Zoom Zoom Zoom?",
+      "answer": "We are going to the moon."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What must we climb aboard in the poem?",
+      "answer": "We must climb aboard the rocket ship."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What happens after the countdown in the poem?",
+      "answer": "The rocket blasts off."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Whose pencil does John ask about?",
+      "answer": "John asks Isha, Amit and Sonu about the pencil."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Where was the ruler found?",
+      "answer": "The ruler was found under the bench."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What did Sheldon forget at home?",
+      "answer": "Sheldon forgot his pen at home."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What does Sanika lend to Sheldon?",
+      "answer": "Sanika lends a pen to Sheldon."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Write any two ‘ox’ sound words from the lesson.",
+      "answer": "fox, box"
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Write one sentence about the toy from the lesson.",
+      "answer": "A boy got the toy."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Write one sentence about the dot from the lesson.",
+      "answer": "A red dot on a pot."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Write one sentence about the dog from the lesson.",
+      "answer": "A big dog on a log."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Which letters are traced for Orange?",
+      "answer": "The letters Oo are traced for Orange."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Which letters are traced for Pencil?",
+      "answer": "The letters Pp are traced for Pencil."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Which letters are traced for Sun?",
+      "answer": "The letters Ss are traced for Sun."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Which letters are traced for Tree?",
+      "answer": "The letters Tt are traced for Tree."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Write the plural of star from the table.",
+      "answer": "The plural of star is stars."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Write the plural of tree from the table.",
+      "answer": "The plural of tree is trees."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Write the plural of picture from the table.",
+      "answer": "The plural of picture is pictures."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Write the plural of tiger from the table.",
+      "answer": "The plural of tiger is tigers."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Write one Reading Time sentence pattern.",
+      "answer": "I am a … Here is my …"
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What skill is practised in Reading Time?",
+      "answer": "Reading Time helps students read sentences with pictures."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What skill is practised in Word Basket?",
+      "answer": "Word Basket helps students learn sound words and rhyming words."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What skill is practised in Activity Time?",
+      "answer": "Activity Time helps students listen, act and follow instructions."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What skill is practised in Let’s Speak?",
+      "answer": "Let’s Speak helps students practise conversation and polite speech."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Write one occupation sentence from the lesson.",
+      "answer": "He is a Carpenter. He makes things from wood."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Write one sentence about the Chef.",
+      "answer": "She is a Chef. She cooks tasty food."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Write one sentence about the Singer.",
+      "answer": "She is a Singer. She sings sweet songs."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Write any two rocket poem words.",
+      "answer": "zoom, moon"
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Write any two classroom objects from the lesson.",
+      "answer": "table, board"
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Write any two rhyming words from the i-sound group.",
+      "answer": "pin – tin"
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Write any two rhyming words from the o-sound group.",
+      "answer": "hot – pot"
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What does the Traffic-police use?",
+      "answer": "The Traffic-police uses a whistle and a baton."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is the key learning from Unit Three?",
+      "answer": "The key learning is actions, sounds, conversations, reading and occupations."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why are action songs and activities used in this unit?",
+      "answer": "They help students learn English through actions, rhythm and participation."
+    }
+
+  ]
+}

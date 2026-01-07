@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.04",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Story Time – Yash and Moti"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the main character of the story?",
+      "options": [
+        { "option_id": 1, "text": "Moti", "is_correct": false },
+        { "option_id": 2, "text": "Yash", "is_correct": true },
+        { "option_id": 3, "text": "The rat", "is_correct": false },
+        { "option_id": 4, "text": "Mother", "is_correct": false }
+      ],
+      "answer": "Yash"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who bought new shoes for Yash?",
+      "options": [
+        { "option_id": 1, "text": "His father", "is_correct": false },
+        { "option_id": 2, "text": "His mother", "is_correct": true },
+        { "option_id": 3, "text": "His friend", "is_correct": false },
+        { "option_id": 4, "text": "His teacher", "is_correct": false }
+      ],
+      "answer": "His mother"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "When did Yash wake up?",
+      "options": [
+        { "option_id": 1, "text": "Late at night", "is_correct": false },
+        { "option_id": 2, "text": "In the afternoon", "is_correct": false },
+        { "option_id": 3, "text": "Early in the morning", "is_correct": true },
+        { "option_id": 4, "text": "In the evening", "is_correct": false }
+      ],
+      "answer": "Early in the morning"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why did Yash cry?",
+      "options": [
+        { "option_id": 1, "text": "His shoe was dirty", "is_correct": false },
+        { "option_id": 2, "text": "He found only one shoe", "is_correct": true },
+        { "option_id": 3, "text": "His shoe was broken", "is_correct": false },
+        { "option_id": 4, "text": "He lost his bag", "is_correct": false }
+      ],
+      "answer": "He found only one shoe"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What did Yash do when he could not find his shoe?",
+      "options": [
+        { "option_id": 1, "text": "He slept", "is_correct": false },
+        { "option_id": 2, "text": "He sat and sobbed", "is_correct": true },
+        { "option_id": 3, "text": "He laughed", "is_correct": false },
+        { "option_id": 4, "text": "He went to school", "is_correct": false }
+      ],
+      "answer": "He sat and sobbed"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is Moti?",
+      "options": [
+        { "option_id": 1, "text": "A cat", "is_correct": false },
+        { "option_id": 2, "text": "A dog", "is_correct": true },
+        { "option_id": 3, "text": "A rat", "is_correct": false },
+        { "option_id": 4, "text": "A bird", "is_correct": false }
+      ],
+      "answer": "A dog"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What sound did Moti make?",
+      "options": [
+        { "option_id": 1, "text": "Meow", "is_correct": false },
+        { "option_id": 2, "text": "Bow wow", "is_correct": true },
+        { "option_id": 3, "text": "Tweet", "is_correct": false },
+        { "option_id": 4, "text": "Moo", "is_correct": false }
+      ],
+      "answer": "Bow wow"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where did Moti run?",
+      "options": [
+        { "option_id": 1, "text": "Inside the house", "is_correct": false },
+        { "option_id": 2, "text": "To the road", "is_correct": false },
+        { "option_id": 3, "text": "To a tree in the yard", "is_correct": true },
+        { "option_id": 4, "text": "To the market", "is_correct": false }
+      ],
+      "answer": "To a tree in the yard"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where was Yash’s shoe found?",
+      "options": [
+        { "option_id": 1, "text": "Under the bed", "is_correct": false },
+        { "option_id": 2, "text": "In a hole under the tree", "is_correct": true },
+        { "option_id": 3, "text": "Near the door", "is_correct": false },
+        { "option_id": 4, "text": "On the road", "is_correct": false }
+      ],
+      "answer": "In a hole under the tree"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who had carried the shoe to the hole?",
+      "options": [
+        { "option_id": 1, "text": "Moti", "is_correct": false },
+        { "option_id": 2, "text": "A rat", "is_correct": true },
+        { "option_id": 3, "text": "A cat", "is_correct": false },
+        { "option_id": 4, "text": "Yash", "is_correct": false }
+      ],
+      "answer": "A rat"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How was the shoe when Yash found it?",
+      "options": [
+        { "option_id": 1, "text": "Broken", "is_correct": false },
+        { "option_id": 2, "text": "Nibble-marked", "is_correct": false },
+        { "option_id": 3, "text": "In good condition", "is_correct": true },
+        { "option_id": 4, "text": "Dirty", "is_correct": false }
+      ],
+      "answer": "In good condition"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word means 'cried noisily'?",
+      "options": [
+        { "option_id": 1, "text": "Barked", "is_correct": false },
+        { "option_id": 2, "text": "Sobbing", "is_correct": true },
+        { "option_id": 3, "text": "Wagging", "is_correct": false },
+        { "option_id": 4, "text": "Nibbling", "is_correct": false }
+      ],
+      "answer": "Sobbing"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word means 'bitten or cut with teeth'?",
+      "options": [
+        { "option_id": 1, "text": "Barked", "is_correct": false },
+        { "option_id": 2, "text": "Nibble", "is_correct": true },
+        { "option_id": 3, "text": "Wagged", "is_correct": false },
+        { "option_id": 4, "text": "Sobbed", "is_correct": false }
+      ],
+      "answer": "Nibble"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What did Yash say to Moti at the end?",
+      "options": [
+        { "option_id": 1, "text": "Go away", "is_correct": false },
+        { "option_id": 2, "text": "Thank you, Moti", "is_correct": true },
+        { "option_id": 3, "text": "Where is my shoe?", "is_correct": false },
+        { "option_id": 4, "text": "Bow wow", "is_correct": false }
+      ],
+      "answer": "Thank you, Moti"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the lesson mainly about?",
+      "options": [
+        { "option_id": 1, "text": "Losing things", "is_correct": false },
+        { "option_id": 2, "text": "Helping and friendship", "is_correct": true },
+        { "option_id": 3, "text": "Going to school", "is_correct": false },
+        { "option_id": 4, "text": "Buying shoes", "is_correct": false }
+      ],
+      "answer": "Helping and friendship"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who bought new shoes for Yash?",
+      "answer": "Yash’s mother bought new shoes for him."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why was Yash happy in the beginning?",
+      "answer": "Yash was happy because he got new shoes."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why was Yash sobbing?",
+      "answer": "Yash was sobbing because he could not find his other shoe."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who helped Yash find his shoe?",
+      "answer": "Moti helped Yash find his shoe."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What kind of animal is Moti?",
+      "answer": "Moti is a dog."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Where did Moti take Yash?",
+      "answer": "Moti took Yash to a tree in the front yard."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Where was the shoe found?",
+      "answer": "The shoe was found in a hole under the tree."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who had carried the shoe to the hole?",
+      "answer": "A big, fat rat had carried the shoe to the hole."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What did Yash say when he found the shoe?",
+      "answer": "He said, 'Thank God!'"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What condition was the shoe in?",
+      "answer": "The shoe was in good condition."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does the word 'nibbled' mean?",
+      "answer": "It means bitten or cut with teeth."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does the word 'sobbed' mean?",
+      "answer": "It means cried noisily."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why did Yash thank Moti?",
+      "answer": "Yash thanked Moti for helping him find his shoe."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What lesson do we learn from the story?",
+      "answer": "We learn to help others and be thankful."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Name two characters from the story.",
+      "answer": "Yash and Moti."
+    }
+  ]
+}

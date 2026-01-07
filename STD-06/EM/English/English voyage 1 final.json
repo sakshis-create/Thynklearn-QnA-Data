@@ -1,0 +1,1215 @@
+{
+"voyage": "Voyage One",
+"lessons": [
+"Don’t Give Up!",
+"Who’s the Greatest?",
+"Autobiography of a Great Indian Bustard",
+"Children are going to school",
+"A Kabaddi Match",
+"The Peacock and the Crane",
+"Param Vir Chakra – Our Heroes"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "In the poem "Don’t Give Up!", what happens to young birds when they are flying?",
+"options": [
+{ "option_id": 1, "text": "They never fall if they are careful", "is_correct": false },
+{ "option_id": 2, "text": "They sometimes fall, but their wings grow stronger", "is_correct": true },
+{ "option_id": 3, "text": "They refuse to fly again after falling", "is_correct": false },
+{ "option_id": 4, "text": "They wait for older birds to help them", "is_correct": false }
+],
+"answer": "They sometimes fall, but their wings grow stronger"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "According to "Don’t Give Up!", what is done "just by patient trying"?",
+"options": [
+{ "option_id": 1, "text": "Everything that is new and risky", "is_correct": false },
+{ "option_id": 2, "text": "All that is great and good", "is_correct": true },
+{ "option_id": 3, "text": "Only what is easy and simple", "is_correct": false },
+{ "option_id": 4, "text": "Only what others have already done", "is_correct": false }
+],
+"answer": "All that is great and good"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "Which tree in "Don’t Give Up!" has known many a blast that bowed her?",
+"options": [
+{ "option_id": 1, "text": "The banyan tree", "is_correct": false },
+{ "option_id": 2, "text": "The sturdy oak", "is_correct": true },
+{ "option_id": 3, "text": "The peepal tree", "is_correct": false },
+{ "option_id": 4, "text": "The coconut tree", "is_correct": false }
+],
+"answer": "The sturdy oak"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "How does the sturdy oak respond after facing many blasts in the poem?",
+"options": [
+{ "option_id": 1, "text": "It breaks down completely", "is_correct": false },
+{ "option_id": 2, "text": "It rises again, loftier and prouder", "is_correct": true },
+{ "option_id": 3, "text": "It grows weaker and thinner", "is_correct": false },
+{ "option_id": 4, "text": "It stops growing altogether", "is_correct": false }
+],
+"answer": "It rises again, loftier and prouder"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "What does the poet in "Don’t Give Up!" call "the test that tries you"?",
+"options": [
+{ "option_id": 1, "text": "Winning by easy work", "is_correct": false },
+{ "option_id": 2, "text": "Gaining victory from defeat", "is_correct": true },
+{ "option_id": 3, "text": "Avoiding all difficult tasks", "is_correct": false },
+{ "option_id": 4, "text": "Working alone without help", "is_correct": false }
+],
+"answer": "Gaining victory from defeat"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "Which of the following best states the message of "Don’t Give Up!"?",
+"options": [
+{ "option_id": 1, "text": "Success comes only to the lucky", "is_correct": false },
+{ "option_id": 2, "text": "One must stop after the first failure", "is_correct": false },
+{ "option_id": 3, "text": "Persistent effort leads to real success", "is_correct": true },
+{ "option_id": 4, "text": "Winning easily is most valuable", "is_correct": false }
+],
+"answer": "Persistent effort leads to real success"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "In "Who’s the Greatest?", why is Emperor Akbar known as one of the greatest rulers?",
+"options": [
+{ "option_id": 1, "text": "Because he had untold wealth only", "is_correct": false },
+{ "option_id": 2, "text": "Because he had a vast empire and a cruel army", "is_correct": false },
+{ "option_id": 3, "text": "Because he was a good human being who cared for his subjects", "is_correct": true },
+{ "option_id": 4, "text": "Because he never allowed scholars in his court", "is_correct": false }
+],
+"answer": "Because he was a good human being who cared for his subjects"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "What were the famous scholars, writers, poets and artists in Akbar’s court called?",
+"options": [
+{ "option_id": 1, "text": "Panch ratna", "is_correct": false },
+{ "option_id": 2, "text": "Nav-ratnas or nine gems", "is_correct": true },
+{ "option_id": 3, "text": "Rajgurus", "is_correct": false },
+{ "option_id": 4, "text": "Sabhasads", "is_correct": false }
+],
+"answer": "Nav-ratnas or nine gems"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "What question did Akbar ask his courtiers about his moustache?",
+"options": [
+{ "option_id": 1, "text": "Who has the longest moustache in the court?", "is_correct": false },
+{ "option_id": 2, "text": "What should be the punishment for someone who pulls my moustache?", "is_correct": true },
+{ "option_id": 3, "text": "Who trimmed my moustache badly?", "is_correct": false },
+{ "option_id": 4, "text": "How should a king wear his moustache?", "is_correct": false }
+],
+"answer": "What should be the punishment for someone who pulls my moustache?"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "What punishment did most courtiers suggest for the person who pulled the Emperor’s moustache?",
+"options": [
+{ "option_id": 1, "text": "He should be given sweetmeats", "is_correct": false },
+{ "option_id": 2, "text": "He should be sent on a tour", "is_correct": false },
+{ "option_id": 3, "text": "He should be whipped, jailed or even hanged", "is_correct": true },
+{ "option_id": 4, "text": "He should be made a courtier", "is_correct": false }
+],
+"answer": "He should be whipped, jailed or even hanged"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "According to Birbal, who would be bold enough to pull the Emperor’s moustache?",
+"options": [
+{ "option_id": 1, "text": "A foolish servant", "is_correct": false },
+{ "option_id": 2, "text": "An enemy spy", "is_correct": false },
+{ "option_id": 3, "text": "Only the Emperor’s own grandson", "is_correct": true },
+{ "option_id": 4, "text": "A jealous nobleman", "is_correct": false }
+],
+"answer": "Only the Emperor’s own grandson"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "In the second story in "Who’s the Greatest?", what extreme praise did some courtiers offer Akbar?",
+"options": [
+{ "option_id": 1, "text": "He was equal to all other kings", "is_correct": false },
+{ "option_id": 2, "text": "He was greater than the God Almighty", "is_correct": true },
+{ "option_id": 3, "text": "He was richer than all merchants", "is_correct": false },
+{ "option_id": 4, "text": "He was wiser than all scholars", "is_correct": false }
+],
+"answer": "He was greater than the God Almighty"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "What condition did Akbar put to the courtiers who claimed he was greater than God?",
+"options": [
+{ "option_id": 1, "text": "They had to leave the court at once", "is_correct": false },
+{ "option_id": 2, "text": "They had to write poems in his praise", "is_correct": false },
+{ "option_id": 3, "text": "They had to prove one thing he could do but God could not", "is_correct": true },
+{ "option_id": 4, "text": "They had to fight a battle for him", "is_correct": false }
+],
+"answer": "They had to prove one thing he could do but God could not"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "What answer did Birbal give to show a difference between Akbar and God?",
+"options": [
+{ "option_id": 1, "text": "Akbar could make it rain but God could not", "is_correct": false },
+{ "option_id": 2, "text": "Akbar could banish someone from his kingdom but God could not banish anyone from His", "is_correct": true },
+{ "option_id": 3, "text": "Akbar could stop time but God could not", "is_correct": false },
+{ "option_id": 4, "text": "Akbar could change history but God could not", "is_correct": false }
+],
+"answer": "Akbar could banish someone from his kingdom but God could not banish anyone from His"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "What is the Great Indian Bustard called in Marathi in its autobiography?",
+"options": [
+{ "option_id": 1, "text": "Maldhok or Hoom", "is_correct": true },
+{ "option_id": 2, "text": "Mor", "is_correct": false },
+{ "option_id": 3, "text": "Garuda", "is_correct": false },
+{ "option_id": 4, "text": "Kabutar", "is_correct": false }
+],
+"answer": "Maldhok or Hoom"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "What maximum height can the Great Indian Bustard reach, according to the lesson?",
+"options": [
+{ "option_id": 1, "text": "Two feet", "is_correct": false },
+{ "option_id": 2, "text": "Three feet", "is_correct": false },
+{ "option_id": 3, "text": "Four feet", "is_correct": true },
+{ "option_id": 4, "text": "Six feet", "is_correct": false }
+],
+"answer": "Four feet"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "Which of the following is NOT a physical feature of the Great Indian Bustard mentioned in the text?",
+"options": [
+{ "option_id": 1, "text": "Long white neck", "is_correct": false },
+{ "option_id": 2, "text": "Brown wings", "is_correct": false },
+{ "option_id": 3, "text": "Tall yellow legs", "is_correct": false },
+{ "option_id": 4, "text": "Bright red crest", "is_correct": true }
+],
+"answer": "Bright red crest"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "Where does the Great Indian Bustard mainly live?",
+"options": [
+{ "option_id": 1, "text": "In dense mountain forests", "is_correct": false },
+{ "option_id": 2, "text": "Only in wetlands and rivers", "is_correct": false },
+{ "option_id": 3, "text": "On grasslands and deserts", "is_correct": true },
+{ "option_id": 4, "text": "In crowded villages and towns", "is_correct": false }
+],
+"answer": "On grasslands and deserts"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Which food items are the Great Indian Bustard’s favourites?",
+"options": [
+{ "option_id": 1, "text": "Snakes and lizards only", "is_correct": false },
+{ "option_id": 2, "text": "Grasshoppers and beetles", "is_correct": true },
+{ "option_id": 3, "text": "Rice and wheat grains", "is_correct": false },
+{ "option_id": 4, "text": "Fish and frogs", "is_correct": false }
+],
+"answer": "Grasshoppers and beetles"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "How many eggs does the mother Great Indian Bustard lay at a time, as mentioned in the lesson?",
+"options": [
+{ "option_id": 1, "text": "Three eggs", "is_correct": false },
+{ "option_id": 2, "text": "Two eggs", "is_correct": false },
+{ "option_id": 3, "text": "One egg", "is_correct": true },
+{ "option_id": 4, "text": "Five eggs", "is_correct": false }
+],
+"answer": "One egg"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "How does the egg of the Great Indian Bustard get protected from predators?",
+"options": [
+{ "option_id": 1, "text": "It is hidden high in a tree", "is_correct": false },
+{ "option_id": 2, "text": "It looks like a stone on the ground", "is_correct": true },
+{ "option_id": 3, "text": "It is buried under the soil", "is_correct": false },
+{ "option_id": 4, "text": "It is covered with bright feathers", "is_correct": false }
+],
+"answer": "It looks like a stone on the ground"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "For nearly how long does the Great Indian Bustard chick stay with its mother?",
+"options": [
+{ "option_id": 1, "text": "About one month", "is_correct": false },
+{ "option_id": 2, "text": "About six months", "is_correct": false },
+{ "option_id": 3, "text": "Nearly one year", "is_correct": true },
+{ "option_id": 4, "text": "About two weeks", "is_correct": false }
+],
+"answer": "Nearly one year"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Who suggested that the Great Indian Bustard should be given the status of the National Bird of India?",
+"options": [
+{ "option_id": 1, "text": "Dr Pramod Patil", "is_correct": false },
+{ "option_id": 2, "text": "Dr Salim Ali", "is_correct": true },
+{ "option_id": 3, "text": "Savitribai Khanolkar", "is_correct": false },
+{ "option_id": 4, "text": "Nida Fazli", "is_correct": false }
+],
+"answer": "Dr Salim Ali"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "What is the Great Indian Bustard’s status in Rajasthan, as mentioned in the lesson?",
+"options": [
+{ "option_id": 1, "text": "National Bird", "is_correct": false },
+{ "option_id": 2, "text": "State bird", "is_correct": true },
+{ "option_id": 3, "text": "City mascot", "is_correct": false },
+{ "option_id": 4, "text": "Domestic bird", "is_correct": false }
+],
+"answer": "State bird"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "According to the Great Indian Bustard, approximately how much of its home regions have humans pushed it away from?",
+"options": [
+{ "option_id": 1, "text": "About 10 percent", "is_correct": false },
+{ "option_id": 2, "text": "More than 90 percent", "is_correct": true },
+{ "option_id": 3, "text": "Exactly 50 percent", "is_correct": false },
+{ "option_id": 4, "text": "About 25 percent", "is_correct": false }
+],
+"answer": "More than 90 percent"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "In "Children are going to school", what does the Sky do when children are going to school?",
+"options": [
+{ "option_id": 1, "text": "Hides behind the clouds", "is_correct": false },
+{ "option_id": 2, "text": "Bows his head in respect", "is_correct": true },
+{ "option_id": 3, "text": "Covers the sun completely", "is_correct": false },
+{ "option_id": 4, "text": "Sends down heavy rain", "is_correct": false }
+],
+"answer": "Bows his head in respect"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "How is the Sun described in the poem "Children are going to school"?",
+"options": [
+{ "option_id": 1, "text": "Wrapped in a silver shawl", "is_correct": false },
+{ "option_id": 2, "text": "Dressed in his golden muslin turban", "is_correct": true },
+{ "option_id": 3, "text": "Hiding behind a grey cloud", "is_correct": false },
+{ "option_id": 4, "text": "Covered with snow", "is_correct": false }
+],
+"answer": "Dressed in his golden muslin turban"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Which natural element in the poem sings songs of blessings?",
+"options": [
+{ "option_id": 1, "text": "The river", "is_correct": false },
+{ "option_id": 2, "text": "The breezes", "is_correct": true },
+{ "option_id": 3, "text": "The mountains", "is_correct": false },
+{ "option_id": 4, "text": "The clouds", "is_correct": false }
+],
+"answer": "The breezes"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "What does the Peepal tree do as children go to school?",
+"options": [
+{ "option_id": 1, "text": "Drops all its leaves", "is_correct": false },
+{ "option_id": 2, "text": "Waves his hands in his lush deep foliage", "is_correct": true },
+{ "option_id": 3, "text": "Blocks the road with its branches", "is_correct": false },
+{ "option_id": 4, "text": "Falls asleep in the sun", "is_correct": false }
+],
+"answer": "Waves his hands in his lush deep foliage"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "In the poem, what is every particle of the earth compared to when children are going to school?",
+"options": [
+{ "option_id": 1, "text": "A teacher’s stern face", "is_correct": false },
+{ "option_id": 2, "text": "A mother’s heart", "is_correct": true },
+{ "option_id": 3, "text": "A soldier’s shield", "is_correct": false },
+{ "option_id": 4, "text": "A stone on the road", "is_correct": false }
+],
+"answer": "A mother’s heart"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "What does Time do in the poem "Children are going to school"?",
+"options": [
+{ "option_id": 1, "text": "Sleeps on a rooftop", "is_correct": false },
+{ "option_id": 2, "text": "Flies pigeons in the sky", "is_correct": true },
+{ "option_id": 3, "text": "Stops the clock", "is_correct": false },
+{ "option_id": 4, "text": "Writes on the walls", "is_correct": false }
+],
+"answer": "Flies pigeons in the sky"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "At the beginning of "A Kabaddi Match", which class is considered the favourite?",
+"options": [
+{ "option_id": 1, "text": "9A", "is_correct": false },
+{ "option_id": 2, "text": "9B", "is_correct": true },
+{ "option_id": 3, "text": "8A", "is_correct": false },
+{ "option_id": 4, "text": "8B", "is_correct": false }
+],
+"answer": "9B"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Why did 9A’s hopes soar before the Kabaddi match?",
+"options": [
+{ "option_id": 1, "text": "They got a new coach", "is_correct": false },
+{ "option_id": 2, "text": "Three new students in 9A were outstanding players", "is_correct": true },
+{ "option_id": 3, "text": "9B lost their practice matches", "is_correct": false },
+{ "option_id": 4, "text": "They changed the rules of the game", "is_correct": false }
+],
+"answer": "Three new students in 9A were outstanding players"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Who was the first raider sent by 9A?",
+"options": [
+{ "option_id": 1, "text": "Mangesh", "is_correct": false },
+{ "option_id": 2, "text": "Vivek", "is_correct": false },
+{ "option_id": 3, "text": "Govind", "is_correct": true },
+{ "option_id": 4, "text": "Sohan", "is_correct": false }
+],
+"answer": "Govind"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Which player of 9B was known for catching opponents tightly between his legs?",
+"options": [
+{ "option_id": 1, "text": "Mihir", "is_correct": false },
+{ "option_id": 2, "text": "Ravi", "is_correct": true },
+{ "option_id": 3, "text": "Mohan", "is_correct": false },
+{ "option_id": 4, "text": "Ajinkya", "is_correct": false }
+],
+"answer": "Ravi"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "How did Mangesh prove his mettle in the match?",
+"options": [
+{ "option_id": 1, "text": "By avoiding all tackles", "is_correct": false },
+{ "option_id": 2, "text": "By scoring a lona single-handedly", "is_correct": false },
+{ "option_id": 3, "text": "By inching towards his court and touching the midline with three anti-raiders holding him", "is_correct": true },
+{ "option_id": 4, "text": "By refusing to raid", "is_correct": false }
+],
+"answer": "By inching towards his court and touching the midline with three anti-raiders holding him"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "What is a "lona" in Kabaddi as described in the lesson?",
+"options": [
+{ "option_id": 1, "text": "A special bonus for the first raid", "is_correct": false },
+{ "option_id": 2, "text": "Bonus points when all seven players of a team are out", "is_correct": true },
+{ "option_id": 3, "text": "A foul committed by a raider", "is_correct": false },
+{ "option_id": 4, "text": "The name of the Kabaddi court", "is_correct": false }
+],
+"answer": "Bonus points when all seven players of a team are out"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "What must a raider do to show that he has not inhaled again during a raid?",
+"options": [
+{ "option_id": 1, "text": "Run silently", "is_correct": false },
+{ "option_id": 2, "text": "Chant "Kabaddi-Kabaddi" all the time", "is_correct": true },
+{ "option_id": 3, "text": "Raise one hand", "is_correct": false },
+{ "option_id": 4, "text": "Bow to the umpire", "is_correct": false }
+],
+"answer": "Chant "Kabaddi-Kabaddi" all the time"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "What main qualities does the lesson say a Kabaddi player must have?",
+"options": [
+{ "option_id": 1, "text": "Wealth and height", "is_correct": false },
+{ "option_id": 2, "text": "Good health, muscular strength, strategic skills and determination", "is_correct": true },
+{ "option_id": 3, "text": "A loud voice and colourful clothes", "is_correct": false },
+{ "option_id": 4, "text": "Good handwriting and drawing skills", "is_correct": false }
+],
+"answer": "Good health, muscular strength, strategic skills and determination"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "In "The Peacock and the Crane", what did the Peacock boast about?",
+"options": [
+{ "option_id": 1, "text": "His beautiful singing voice", "is_correct": false },
+{ "option_id": 2, "text": "His gorgeous tail shining in all the colours of the rainbow", "is_correct": true },
+{ "option_id": 3, "text": "His ability to fly very high", "is_correct": false },
+{ "option_id": 4, "text": "His kindness to other birds", "is_correct": false }
+],
+"answer": "His gorgeous tail shining in all the colours of the rainbow"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "How are the Crane’s feathers described in the story?",
+"options": [
+{ "option_id": 1, "text": "Bright and colourful", "is_correct": false },
+{ "option_id": 2, "text": "Colourless and dull", "is_correct": true },
+{ "option_id": 3, "text": "Golden and shining", "is_correct": false },
+{ "option_id": 4, "text": "Black and glossy", "is_correct": false }
+],
+"answer": "Colourless and dull"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "What special ability of his own does the Crane mention to answer the Peacock’s boasting?",
+"options": [
+{ "option_id": 1, "text": "He can swim across oceans", "is_correct": false },
+{ "option_id": 2, "text": "He can run faster than all birds", "is_correct": false },
+{ "option_id": 3, "text": "He can fly high among the clouds and see the beauty of the earth", "is_correct": true },
+{ "option_id": 4, "text": "He can sing sweeter than the nightingale", "is_correct": false }
+],
+"answer": "He can fly high among the clouds and see the beauty of the earth"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "What is the moral expressed at the end of "The Peacock and the Crane"?",
+"options": [
+{ "option_id": 1, "text": "Fine feathers don’t make fine birds", "is_correct": true },
+{ "option_id": 2, "text": "Birds should not talk to each other", "is_correct": false },
+{ "option_id": 3, "text": "Only colourful birds are useful", "is_correct": false },
+{ "option_id": 4, "text": "Beautiful clothes are everything", "is_correct": false }
+],
+"answer": "Fine feathers don’t make fine birds"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "What is Param Vir Chakra described as in the lesson "Param Vir Chakra – Our Heroes"?",
+"options": [
+{ "option_id": 1, "text": "India’s highest civilian award", "is_correct": false },
+{ "option_id": 2, "text": "India’s highest military decoration", "is_correct": true },
+{ "option_id": 3, "text": "A medal for best sports performance", "is_correct": false },
+{ "option_id": 4, "text": "A prize for best teacher", "is_correct": false }
+],
+"answer": "India’s highest military decoration"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "For what kind of acts is the Param Vir Chakra awarded?",
+"options": [
+{ "option_id": 1, "text": "Excellent classroom performance", "is_correct": false },
+{ "option_id": 2, "text": "Conspicuous bravery or pre-eminent act of valour or self-sacrifice in the presence of the enemy", "is_correct": true },
+{ "option_id": 3, "text": "Writing poems on patriotism", "is_correct": false },
+{ "option_id": 4, "text": "Working in the textile industry", "is_correct": false }
+],
+"answer": "Conspicuous bravery or pre-eminent act of valour or self-sacrifice in the presence of the enemy"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "What is the Param Vir Chakra medal made of?",
+"options": [
+{ "option_id": 1, "text": "Gold", "is_correct": false },
+{ "option_id": 2, "text": "Silver", "is_correct": false },
+{ "option_id": 3, "text": "Bronze", "is_correct": true },
+{ "option_id": 4, "text": "Iron", "is_correct": false }
+],
+"answer": "Bronze"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "What is shown on the obverse (front) of the Param Vir Chakra medal?",
+"options": [
+{ "option_id": 1, "text": "Only the national flag", "is_correct": false },
+{ "option_id": 2, "text": "The Indian national emblem surrounded by four replicas of Indra’s Vajra", "is_correct": true },
+{ "option_id": 3, "text": "A map of India", "is_correct": false },
+{ "option_id": 4, "text": "A peacock with spread feathers", "is_correct": false }
+],
+"answer": "The Indian national emblem surrounded by four replicas of Indra’s Vajra"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Who designed the Param Vir Chakra medal?",
+"options": [
+{ "option_id": 1, "text": "Dr Salim Ali", "is_correct": false },
+{ "option_id": 2, "text": "Savitribai Khanolkar", "is_correct": true },
+{ "option_id": 3, "text": "Nida Fazli", "is_correct": false },
+{ "option_id": 4, "text": "Dr Sunil Magar", "is_correct": false }
+],
+"answer": "Savitribai Khanolkar"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Which statement about the Param Vir Chakra is correct according to the lesson?",
+"options": [
+{ "option_id": 1, "text": "It has been awarded hundreds of times", "is_correct": false },
+{ "option_id": 2, "text": "It has been awarded only 21 times, many of them posthumously", "is_correct": true },
+{ "option_id": 3, "text": "It is given every year to all soldiers", "is_correct": false },
+{ "option_id": 4, "text": "It is given only in times of peace", "is_correct": false }
+],
+"answer": "It has been awarded only 21 times, many of them posthumously"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "What does the legend of Sage Dadhichi explain in connection with the Param Vir Chakra?",
+"options": [
+{ "option_id": 1, "text": "The importance of wealth", "is_correct": false },
+{ "option_id": 2, "text": "That Indra’s Vajra derived its power from Dadhichi’s bones, just as the military derives strength from the sacrifice of PVC holders", "is_correct": true },
+{ "option_id": 3, "text": "How to make a medal from stone", "is_correct": false },
+{ "option_id": 4, "text": "The origin of the national emblem", "is_correct": false }
+],
+"answer": "That Indra’s Vajra derived its power from Dadhichi’s bones, just as the military derives strength from the sacrifice of PVC holders"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "What message does the poet give through the young birds in the poem "Don’t Give Up!"?",
+"answer": "The young birds show that even if one falls while learning something new, one should go on trying, because repeated effort makes one stronger and better."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "How does the image of the sturdy oak support the central idea of "Don’t Give Up!"?",
+"answer": "The sturdy oak, which rises again loftier and prouder after many blasts, shows that true greatness lies in facing difficulties bravely and emerging stronger from them."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "Why does the poet say that victory gained from defeat is a real test?",
+"answer": "The poet considers victory gained from defeat a real test because it demands courage, perseverance and the ability to face failure without losing heart."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "Why is Emperor Akbar admired as a ruler in "Who’s the Greatest?"?",
+"answer": "Emperor Akbar is admired because, besides his vast empire and wealth, he was a good human being who cared for his subjects and respected scholars and artists of different religions."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "What does the first story in "Who’s the Greatest?" reveal about Birbal’s way of thinking?",
+"answer": "The first story shows that Birbal thinks calmly and cleverly, understands the real situation and gives a gentle answer that both respects the Emperor and avoids harsh punishment."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Why did Birbal suggest sweetmeats for the person who pulled Akbar’s moustache?",
+"answer": "Birbal suggested sweetmeats because he knew that only the Emperor’s beloved grandson had pulled his moustache, and such a loving child deserved affection rather than punishment."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Why were the courtiers in a "proper fix" after praising Akbar as greater than God?",
+"answer": "The courtiers were in a proper fix because Akbar demanded that they prove their exaggerated praise, and they could not think of anything a king could do but God could not."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "How did Birbal’s answer about banishing a person solve the courtiers’ problem?",
+"answer": "Birbal’s answer showed one thing Akbar could do that God could not, yet at the same time he honoured God as greater, so Akbar was pleased and forgave the courtiers."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "Describe the physical appearance of the Great Indian Bustard as given in its autobiography.",
+"answer": "The Great Indian Bustard is described as a large bird, weighing up to eighteen kilos, standing up to four feet tall, with a long white neck, brown wings, tall yellow legs and a black cap on its head."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "How is Mrs Bustard described in contrast to the male Great Indian Bustard?",
+"answer": "Mrs Bustard is described as smaller and slimmer than the male, and unlike him, her neck is not white, though both of them are considered impressive."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "What kind of habitat does the Great Indian Bustard share with other animals?",
+"answer": "The Great Indian Bustard lives on grasslands and deserts along with animals like chinkara and blackbuck and birds such as larks."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "What special dance does the Great Indian Bustard perform and why?",
+"answer": "The Great Indian Bustard performs a special dance by gulping air into a feathery pouch to produce a resonating sound, dancing with puffed out feathers to impress its soul mate during the rains."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "Why does the Great Indian Bustard say its family is safe when the chick hatches after the rains?",
+"answer": "The bird says its family is safe because by the time the chick hatches the rains bring plenty of grass swarming with insects, providing fresh food for the mother and chick."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Why is the Great Indian Bustard worried about its survival?",
+"answer": "The Great Indian Bustard is worried because its numbers have fallen sharply due to hunters, power-lines and loss of habitat, and there are only about two hundred birds left in the world."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "What help does the Great Indian Bustard ask from children and readers?",
+"answer": "It asks children to support its conservation by writing to leaders, drawing its picture, talking to their parents and visiting sanctuaries so that humans will work to save the bird."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "How does the poem "Children are going to school" show that it is early morning?",
+"answer": "The poem mentions morning light spreading over the earth and the Sun coming after his morning dip, which clearly suggests that it is early in the day."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Which natural elements in the poem behave like persons, and what do they do?",
+"answer": "The Sky bows his head, the Sun waits and smiles, breezes sing songs of blessings, fragrant flowers awaken sleepy roads, the Peepal waves his hands, and Time flies pigeons."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Why, according to the poem, does the world seem happy when children go to school?",
+"answer": "The world seems happy because the poet suggests that children going to school symbolize hope and a bright future, so all of nature joins in blessing and celebrating them."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "What feelings about children’s education are expressed through the image of a mother’s heart in the poem?",
+"answer": "The image of every particle throbbing like a mother’s heart expresses deep love, concern and joy at seeing children learn and grow through education."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "What event is about to take place in the story "A Kabaddi Match" when it begins?",
+"answer": "The school sports meet is scheduled for the next month, and practice matches, including Kabaddi trials, have already begun."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "Why were the spectators clapping at the start of the Kabaddi match?",
+"answer": "The spectators clapped to encourage both teams and to boost the morale of the players as the match started."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "How did Govind help 9A in the very first raid?",
+"answer": "Govind raided swiftly, touched Suresh from 9B before they realised it and returned safely, scoring the first point for 9A."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Why were players afraid of Ravi from 9B?",
+"answer": "Players feared Ravi because he was very strong and could trap any player tightly between his legs, making it almost impossible to escape his grip."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Describe Mangesh’s crucial move in the match.",
+"answer": "While the anti-raiders held his waist and legs, Mangesh slowly inched towards his court and, with determination, managed to touch the midline without losing his breath."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "How did Vivek’s strategy lead to a lona against 9B?",
+"answer": "Vivek allowed the remaining three 9B players to trap him, moved back with them and then slipped his leg across the midline, causing all of them to be declared out and earning a lona."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "What general information about Kabaddi is given at the end of the lesson?",
+"answer": "The lesson explains that Kabaddi is an ancient sport from India, played between two teams of seven on a rectangular court, and has different styles and international events."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "How does the lesson describe the growing popularity of Kabaddi?",
+"answer": "It states that Kabaddi, which originated in India, has now become popular in many countries and is played in various international events following set rules."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Why does the lesson encourage children to think of becoming Kabaddi players?",
+"answer": "The lesson suggests that if children resolve early and work hard, they might one day win glory for their school, district, state or even the country through Kabaddi."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "Why is the Peacock called conceited in "The Peacock and the Crane"?",
+"answer": "He is called conceited because he is excessively proud of his gorgeous tail and looks down on the Crane’s plain feathers."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "How does the Peacock behave towards the Crane in the story?",
+"answer": "The Peacock scoffs at the Crane’s colourless feathers, spreads his own tail to be admired and boasts about his beautiful appearance."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "What answer does the Crane give that proves he is more truly "fine" than the Peacock?",
+"answer": "The Crane replies that although his feathers are plain, he can fly high among the clouds and stars and see the earth’s beauty, while the Peacock lives on the ground like any other cock."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Explain the meaning of the proverb "Fine feathers don’t make fine birds" as shown in the story.",
+"answer": "The proverb means that outward beauty or showy clothes do not make someone truly great; real worth lies in inner qualities and abilities, not looks."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "What is meant by saying Param Vir Chakra is a "very rare honour"?",
+"answer": "It means that the medal is given only in exceptional cases of supreme bravery and has been awarded to very few soldiers in the country’s history."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Describe briefly the design features of the Param Vir Chakra medal.",
+"answer": "The medal is a simple bronze disc with swivel mounting and a plain purple ribbon, bearing the national emblem surrounded by four Vajras on the obverse and the words "Param Vir Chakra" with two lotuses on the reverse."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Who was Savitribai Khanolkar and what was her contribution mentioned in the lesson?",
+"answer": "Savitribai Khanolkar was a European lady who loved India, took Indian citizenship, studied its culture deeply and designed the Param Vir Chakra medal."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Why does the lesson compare Indra’s Vajra to the sacrifice of Param Vir Chakra holders?",
+"answer": "It compares them to show that, just as Indra’s Vajra obtained power from Sage Dadhichi’s bones, the Indian military draws its strength and inspiration from the supreme sacrifice of the Param Vir Chakra awardees."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "What problem did people face in the legend about Sage Dadhichi?",
+"answer": "People suffered because a demon had stolen all the water in the world, and ordinary weapons could not defeat him."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "How did Sage Dadhichi help to defeat the demon in the legend?",
+"answer": "Sage Dadhichi willingly laid down his life and gave his powerful bones, from which Indra’s thunderbolt was made, enabling the demon to be defeated."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Why is Flying Officer Nirmal Jit Singh Sekhon remembered as "the bravest of the brave"?",
+"answer": "He is remembered so because he took off under attack, fearlessly fought powerful enemy aircraft, damaged two of them and saved Srinagar even though he lost his own life."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "What situation did Flying Officer Sekhon face when he took off in his Gnat fighter?",
+"answer": "He took off when enemy Sabre jets were already flying low over Srinagar airfield, firing and bombing the area."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "What does the lesson say about the diversity of Param Vir Chakra awardees?",
+"answer": "The lesson notes that Param Vir Chakra awardees belong to various communities and religions across India."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "How does the lesson ask students to honour the memory of Param Vir Chakra awardees?",
+"answer": "It encourages students to read inspiring accounts of their bravery, recognise their sacrifices and feel respect and gratitude for them."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "How does the Great Indian Bustard describe the impact of electric power-lines?",
+"answer": "It explains that many birds die because they cannot see the wires while flying and collide with them, which is a serious danger."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Why does the Great Indian Bustard say that future children might see it only in pictures?",
+"answer": "It says so because, if people do not help to conserve the species, the remaining birds may die out, leaving only images behind."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "What feeling does the poem "Children are going to school" create about the act of going to school?",
+"answer": "The poem creates a feeling that going to school is a sacred, joyful event that fills the world with respect, blessing and hope."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Explain how personification is used for the Sun in the school poem.",
+"answer": "The Sun is personified as if he were a person who takes a morning dip in a river, dresses in a golden muslin turban and stands at the roadside smiling at the children."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "What does the Kabaddi lesson suggest about the role of team spirit?",
+"answer": "It suggests that team spirit, along with confidence and good strategies, enables a team like 9A to outplay a stronger opponent such as 9B."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Why is Ravi described as an "ace player" in the Kabaddi match?",
+"answer": "He is called an ace player because his strength and grip had helped 9B win many earlier matches almost single-handedly."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "In what way does the story "The Peacock and the Crane" warn readers about pride?",
+"answer": "The story warns that pride in mere appearance is foolish, and one should value real abilities, as the Crane’s useful power of flight is better than the Peacock’s showy feathers."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "What connection does the lesson "Param Vir Chakra – Our Heroes" make between ordinary people and national security?",
+"answer": "The lesson shows that brave soldiers, who are ordinary people from different backgrounds, sacrifice their lives so that others may live safely, and their courage becomes the strength of the nation."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "How is the courage of Param Vir Chakra holders similar to Sage Dadhichi’s sacrifice?",
+"answer": "Both give up their own lives or safety for the sake of others, showing selfless devotion that empowers and protects the nation, just as Dadhichi’s bones empowered Indra’s weapon."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Why does the author of the Bustard’s autobiography call its eating habits "a very healthy habit"?",
+"answer": "Because the bird eats a wide variety of natural foods, such as fruits, berries and insects, which makes its diet balanced and wholesome."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "What role does the Bustard’s wife play in protecting their egg and chick?",
+"answer": "She guards the egg laid on the ground against enemies like monitor lizards, foxes, dogs, pigs, snakes and eagles, ensuring the survival of their chick."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Why does the Bustard invite children to visit a sanctuary?",
+"answer": "It invites them because sanctuaries are now the only safe places where people can still see Great Indian Bustards in the wild."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "How does the poem "Children are going to school" suggest that education affects time itself?",
+"answer": "Time is shown sitting on an old roof and flying pigeons in the sky, suggesting that time joyfully takes flight along with the children’s hopeful journey to school."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "What atmosphere is created by the description of fragrant flowers and sleepy roads in the school poem?",
+"answer": "The description creates a peaceful, fresh morning atmosphere, where flowers act like gentle alarm clocks waking the quiet roads with their melodies."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Why is 9A’s victory described as "an icing on the cake" after the lona?",
+"answer": "The phrase indicates that the lona gave extra delight and made their already strong position even more impressive and satisfying."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "What lesson about sportsmanship can be learnt from the Kabaddi match?",
+"answer": "One learns that careful planning, teamwork and determination are more important than mere reputation, and even favourites can be defeated with fair, skilful play."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "How does the reaction of Akbar to Birbal’s answers show his character?",
+"answer": "Akbar’s laughter and appreciation of Birbal’s clever answers show that he disliked false praise, valued wisdom and did not hesitate to accept a truth that honoured God above him."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "What role do the courtiers play in highlighting Birbal’s wisdom?",
+"answer": "The courtiers’ foolish suggestions and boastful praise create situations in which Birbal’s thoughtful, balanced answers stand out clearly as wise and sensible."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "What is meant by calling Akbar a "patron of art and culture"?",
+"answer": "It means that Akbar supported and encouraged artists, writers and scholars in his court and appreciated different forms of art and learning."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Why does the lesson "Param Vir Chakra – Our Heroes" describe the medal as simple in appearance?",
+"answer": "The medal is called simple because it is a plain bronze disc with a purple ribbon, reminding readers that its greatness comes from the bravery it honours, not from rich decoration."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "What does the term "posthumously" mean in the context of Param Vir Chakra awards?",
+"answer": "Posthumously means that the medal is awarded after a soldier’s death, in recognition of an act of bravery in which the soldier sacrificed his life."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "How does the story of Flying Officer Sekhon show determination "above and beyond the call of duty"?",
+"answer": "He took off despite danger, fought superior enemy aircraft at low height, damaged them and saved Srinagar, even though this meant almost certain death for himself."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Why does the Great Indian Bustard say "we need your support and love"?",
+"answer": "It says this to appeal directly to readers’ feelings, urging them to care about the bird’s survival and take action to protect it from extinction."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "What does the Bustard mean when it says, "We are losing our homes"?",
+"answer": "It means that human activities and growing population are destroying or taking over the grasslands and deserts where these birds used to live."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "How is the idea of patience linked to success in "Don’t Give Up!"?",
+"answer": "The poem states that all that is great and good is achieved by patient trying, showing that patient, continued effort leads to success."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "What contrast does the poet create between "easy work" and "victory from defeat"?",
+"answer": "The poet suggests that winning through easy work is not much valued, while victory gained after facing defeat truly tests and proves a person’s worth."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Why is the oak tree described as "loftier and prouder" after storms?",
+"answer": "The oak is called loftier and prouder because it not only survives the storms but grows taller and stronger, symbolising moral growth after suffering."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "In what way can the young birds, the oak and the final stanza of "Don’t Give Up!" be seen as examples for students?",
+"answer": "They all show that learners should not lose heart when they stumble, but should keep trying, because repeated effort and courage in difficulty lead to real achievement."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "How does the poet of the school poem use the image of "angels of light"?",
+"answer": "The poet describes angels of light setting out when children go to school, suggesting that education brings light, purity and protection to children’s lives."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "What does the description "every road is a-gleam" suggest about the scene?",
+"answer": "It suggests that the roads shine brightly with morning light and joy, as if lit up specially to welcome the children."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "How does the Kabaddi lesson emphasise the importance of practice?",
+"answer": "It states that a Kabaddi player needs a lot of practice, along with strength and strategy, to perform well and succeed in the game."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Why is chanting "Kabaddi-Kabaddi" an effective rule for the game?",
+"answer": "The chanting makes it clear that the raider is holding his breath and has not inhaled again, so it helps players and referees judge whether he is still in the raid."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "How does the match show the change in 9B’s attitude after Mangesh’s move?",
+"answer": "After Mangesh’s unexpected success, 9B start playing more cautiously, realising that their opponents are stronger and more determined than they had thought."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "In what way is appearance contrasted with ability in "The Peacock and the Crane"?",
+"answer": "The story contrasts the Peacock’s beautiful but useless feathers with the Crane’s plain appearance but valuable power of high flight."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "What lesson can students learn from the Crane’s calm reply to the Peacock?",
+"answer": "Students can learn to value their real talents quietly without boasting, and to answer pride with gentle but truthful words."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "How does the lesson "Param Vir Chakra – Our Heroes" try to inspire children?",
+"answer": "It tells true stories of brave soldiers, explains the honour of the medal and invites children to respect and emulate such courage in their own lives."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "What is the significance of mentioning that Param Vir Chakra awardees belong to different communities and religions?",
+"answer": "It highlights that bravery and patriotism are shared by Indians of all backgrounds and that defending the country is a common duty and honour."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "How does the Great Indian Bustard’s direct address to the reader make the lesson more effective?",
+"answer": "By speaking in the first person and directly appealing for help, the bird makes readers feel personally involved and responsible for its survival."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "In what sense is the Bustard’s autobiography both informative and emotional?",
+"answer": "It gives facts about the bird’s size, food and habitat, but also expresses pride, fear and a plea for help, which touches the reader’s feelings."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Why is the time of the year, the rainy season, important in the Bustard’s life cycle?",
+"answer": "The rainy season brings abundant grass and insects just when the chick hatches, ensuring there is plenty of food for the growing young bird."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "How does the poet of "Children are going to school" show that nature honours learning?",
+"answer": "Nature is shown bowing, singing, waving and shining as children go to school, as if the whole world respectfully celebrates their learning."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "What message about the future does the image of children going to school convey?",
+"answer": "It conveys that educated children are the hope of the future, and their journey to school is the beginning of progress for the whole world."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "How do the examples in "Don’t Give Up!" apply to a student’s studies?",
+"answer": "Like young birds and the oak tree, students may fail or face difficulty, but if they keep trying patiently, they will grow stronger and achieve success in their studies."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Why is it important that Akbar did not care for false praise?",
+"answer": "It is important because it shows that a truly great leader values honesty and reason more than flattery, and expects sincerity from his courtiers."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "How does Birbal’s answer about God’s kingdom teach a religious lesson as well?",
+"answer": "It reminds listeners that God’s kingdom extends everywhere and no one can be banished from His care, showing God’s supreme greatness above all kings."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "What does the story of the moustache incident tell us about Akbar’s relationship with his grandson?",
+"answer": "It shows that Akbar is a loving grandfather who happily forgives his grandson’s playful act and even laughs about it in court."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "In "Param Vir Chakra – Our Heroes", how is bravery linked with self-sacrifice?",
+"answer": "Bravery is shown not merely as fearlessness in battle, but as a readiness to give up one’s own life to protect others and the country."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Why might the simple design of the Param Vir Chakra be seen as appropriate for such a high honour?",
+"answer": "The simplicity keeps the focus on the noble deeds and not on rich decoration, reflecting the modesty and seriousness of true heroism."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "How does the fight between Flying Officer Sekhon and the enemy aircraft end?",
+"answer": "The enemy planes flee after he damages two of them, saving Srinagar, but his own aircraft crashes and he is killed."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "What does the phrase "above and beyond the call of duty" suggest about Sekhon’s actions?",
+"answer": "It suggests that he did far more than what was formally required, risking and losing his life with exceptional courage."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "How does the Great Indian Bustard’s mention of sanctuaries show a way forward?",
+"answer": "By inviting visits to sanctuaries, it indicates that protected areas are essential for its survival and that people can support such conservation efforts."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "What is the effect of giving the Bustard more than thirty names in different languages?",
+"answer": "It shows that the bird is well-known and valued in many parts of India, strengthening the argument that it deserves protection."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Why does the poet of "Don’t Give Up!" address the reader directly with advice?",
+"answer": "Direct address makes the poem’s encouragement personal, as if the poet were speaking to each reader who is tempted to give up."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "How does the comparison of life’s difficulties to "blasts" help readers understand the poet’s idea?",
+"answer": "It likens troubles to strong winds that bend a tree but cannot destroy it, helping readers see that difficulties can strengthen rather than crush them."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "What role does patience play in both the Bustard’s life and the poem "Don’t Give Up!"?",
+"answer": "In both texts, patience is shown as essential: the Bustard family waits through the seasons, and the poem teaches that patient trying brings great and good results."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "How does the school poem subtly praise parents and adults who support education?",
+"answer": "By comparing the earth’s particles to a mother’s heart and describing universal joy at children going to school, it honours the loving care that sends children to learn."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "What message about national unity can be drawn from the list of different Param Vir Chakra awardees?",
+"answer": "The list shows that people from many regions and communities have died for the country, teaching that national defence is a shared, unifying responsibility."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Why are the lessons in Voyage One suitable for developing courage and responsibility in students?",
+"answer": "The lessons combine poems and stories that praise perseverance, condemn pride, highlight endangered species and honour brave soldiers, teaching students to be determined, humble, caring and patriotic."
+}
+]
+}

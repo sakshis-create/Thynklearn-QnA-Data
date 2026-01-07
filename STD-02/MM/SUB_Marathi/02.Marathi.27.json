@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.27",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "चांदोबाच्या देशात"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "मुलगा कुठे चढणार आहे असे कवितेत म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "डोंगरावर", "is_correct": false },
+        { "option_id": 2, "text": "झाडावर", "is_correct": true },
+        { "option_id": 3, "text": "घरावर", "is_correct": false },
+        { "option_id": 4, "text": "भिंतीवर", "is_correct": false }
+      ],
+      "answer": "झाडावर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मुलगा कुठे उडणार आहे?",
+      "options": [
+        { "option_id": 1, "text": "नदीत", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीवर", "is_correct": false },
+        { "option_id": 3, "text": "आकाशात", "is_correct": true },
+        { "option_id": 4, "text": "जंगलात", "is_correct": false }
+      ],
+      "answer": "आकाशात"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "मऊ मऊ ढगांवर मुलगा काय करणार आहे?",
+      "options": [
+        { "option_id": 1, "text": "झोपणार", "is_correct": false },
+        { "option_id": 2, "text": "लोळणार", "is_correct": true },
+        { "option_id": 3, "text": "धावणार", "is_correct": false },
+        { "option_id": 4, "text": "उडी मारणार", "is_correct": false }
+      ],
+      "answer": "लोळणार"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मुलगा कोणाशी लपाछपी खेळणार आहे?",
+      "options": [
+        { "option_id": 1, "text": "ढगांशी", "is_correct": false },
+        { "option_id": 2, "text": "ताऱ्यांशी", "is_correct": false },
+        { "option_id": 3, "text": "चमचम चांदण्यांशी", "is_correct": true },
+        { "option_id": 4, "text": "मित्रांशी", "is_correct": false }
+      ],
+      "answer": "चमचम चांदण्यांशी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मुलगा कोणाच्या मागे मागे धावणार आहे?",
+      "options": [
+        { "option_id": 1, "text": "ताऱ्यांच्या", "is_correct": false },
+        { "option_id": 2, "text": "ढगांच्या", "is_correct": false },
+        { "option_id": 3, "text": "चांदोबाच्या", "is_correct": true },
+        { "option_id": 4, "text": "चिमणीच्या", "is_correct": false }
+      ],
+      "answer": "चांदोबाच्या"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मुलगा चांदण्यांच्या पंगतीला काय करणार आहे?",
+      "options": [
+        { "option_id": 1, "text": "बसणार", "is_correct": false },
+        { "option_id": 2, "text": "खेळणार", "is_correct": false },
+        { "option_id": 3, "text": "पोटभर जेवणार", "is_correct": true },
+        { "option_id": 4, "text": "धावणार", "is_correct": false }
+      ],
+      "answer": "पोटभर जेवणार"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "मुलगा चांदोबाशी कसा बोलणार आहे?",
+      "options": [
+        { "option_id": 1, "text": "रागाने", "is_correct": false },
+        { "option_id": 2, "text": "हळू", "is_correct": false },
+        { "option_id": 3, "text": "गोडीनं", "is_correct": true },
+        { "option_id": 4, "text": "मोठ्याने", "is_correct": false }
+      ],
+      "answer": "गोडीनं"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मुलगा चांदोबाला काय सांगणार आहे?",
+      "options": [
+        { "option_id": 1, "text": "शाळेच्या गोष्टी", "is_correct": false },
+        { "option_id": 2, "text": "घरातल्या गमती", "is_correct": true },
+        { "option_id": 3, "text": "बाजारच्या गोष्टी", "is_correct": false },
+        { "option_id": 4, "text": "खेळाच्या गोष्टी", "is_correct": false }
+      ],
+      "answer": "घरातल्या गमती"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "चालत चालून मुलाच्या कशाला दुखते?",
+      "options": [
+        { "option_id": 1, "text": "डोळे", "is_correct": false },
+        { "option_id": 2, "text": "हात", "is_correct": false },
+        { "option_id": 3, "text": "पाय", "is_correct": true },
+        { "option_id": 4, "text": "डोके", "is_correct": false }
+      ],
+      "answer": "पाय"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "चांदोबा मुलाला काय विचारतो?",
+      "options": [
+        { "option_id": 1, "text": "खेळशील का?", "is_correct": false },
+        { "option_id": 2, "text": "दमलास काय?", "is_correct": true },
+        { "option_id": 3, "text": "जेवला का?", "is_correct": false },
+        { "option_id": 4, "text": "येशील का?", "is_correct": false }
+      ],
+      "answer": "दमलास काय?"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "चांदोबा मुलाला कुठे बसायला सांगतो?",
+      "options": [
+        { "option_id": 1, "text": "ढगावर", "is_correct": false },
+        { "option_id": 2, "text": "ताऱ्यावर", "is_correct": false },
+        { "option_id": 3, "text": "आपल्या पाठीवर", "is_correct": true },
+        { "option_id": 4, "text": "गादीवर", "is_correct": false }
+      ],
+      "answer": "आपल्या पाठीवर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "चांदोबा मुलाला कुठे फिरायला नेणार आहे?",
+      "options": [
+        { "option_id": 1, "text": "जंगलात", "is_correct": false },
+        { "option_id": 2, "text": "शहरात", "is_correct": false },
+        { "option_id": 3, "text": "आकाशात", "is_correct": true },
+        { "option_id": 4, "text": "समुद्रावर", "is_correct": false }
+      ],
+      "answer": "आकाशात"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "चांदोबा मुलाला काय जवळून दाखवणार आहे?",
+      "options": [
+        { "option_id": 1, "text": "चंद्रकोर", "is_correct": false },
+        { "option_id": 2, "text": "आकाशगंगा", "is_correct": true },
+        { "option_id": 3, "text": "तारे", "is_correct": false },
+        { "option_id": 4, "text": "ढग", "is_correct": false }
+      ],
+      "answer": "आकाशगंगा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "चांदोबाच्या पाठीवर बसून मुलगा कसा हसू लागतो?",
+      "options": [
+        { "option_id": 1, "text": "रडत", "is_correct": false },
+        { "option_id": 2, "text": "मोठ्याने", "is_correct": false },
+        { "option_id": 3, "text": "ताऱ्यांसारखं", "is_correct": true },
+        { "option_id": 4, "text": "हळूवार", "is_correct": false }
+      ],
+      "answer": "ताऱ्यांसारखं"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य भाव कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "भीतीचा", "is_correct": false },
+        { "option_id": 2, "text": "दुःखाचा", "is_correct": false },
+        { "option_id": 3, "text": "स्वप्नाळू कल्पनांचा", "is_correct": true },
+        { "option_id": 4, "text": "रागाचा", "is_correct": false }
+      ],
+      "answer": "स्वप्नाळू कल्पनांचा"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "मुलगा ढगांवर काय करणार आहे?",
+      "answer": "मऊमऊ ढगांवर घडीभर लोळणार आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "मुलगा चांदण्यांशी काय खेळणार आहे?",
+      "answer": "मुलगा चमचम चांदण्यांशी लपाछपी खेळणार आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मुलगा चांदण्यांच्या पंगतीत काय करणार आहे?",
+      "answer": "चांदण्यांच्या पंगतीत पोटभर जेवणार आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मुलगा चांदोबाशी काय करणार आहे?",
+      "answer": "मुलगा चांदोबाशी गोडीनं खूप खूप बोलणार आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "मुलगा चांदोबाला कोणत्या गोष्टी सांगणार आहे?",
+      "answer": "तो घरातल्या गमती सांगणार आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "चालत चालून मुलाची कोणती अवस्था होते?",
+      "answer": "चालत चालून त्याचे पाय दुखू लागतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "चांदोबा मुलाला काय विचारतो?",
+      "answer": "चांदोबा विचारतो — ‘दमलास काय?’"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "चांदोबा मुलाला कुठे फिरायला नेतो?",
+      "answer": "चांदोबा त्याला आकाशात फिरायला नेतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मुलगा चांदोबाच्या पाठीवर बसल्यावर कसा वाटतो?",
+      "answer": "त्याला आनंद वाटतो आणि तो ताऱ्यांसारखं हसू लागतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "चांदोबा मुलाला काय जवळून दाखवतो?",
+      "answer": "तो आकाशगंगा जवळून दाखवतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कवितेत ‘मागे मागे’ या शब्दांचा अर्थ काय?",
+      "answer": "चांदोबाच्या मागे सतत धावत राहणे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवितेतील कल्पनाशक्तीचा एक उदाहरण लिहा.",
+      "answer": "चांदण्यांच्या पंगतीत पोटभर जेवण्याची कल्पना."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "तुला चांदोबाच्या पाठीवर बसून फिरायला आवडेल का? का?",
+      "answer": "हो, कारण आकाशात फिरताना खूप मजा येईल."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "या कवितेतून तुला काय समजले?",
+      "answer": "स्वप्न, कल्पनाशक्ती आणि आनंदी जगाची ओळख झाली."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "चांदोबाशी तुला काय बोलायला आवडेल?",
+      "answer": "मला माझ्या गोष्टी आणि मजेदार अनुभव सांगायला आवडेल."
+    }
+  ]
+}

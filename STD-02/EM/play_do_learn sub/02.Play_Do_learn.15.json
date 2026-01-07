@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.15",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Dance"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which movement is shown by churning of buttermilk?",
+      "options": [
+        { "option_id": 1, "text": "Rhythmic movement", "is_correct": true },
+        { "option_id": 2, "text": "Jumping movement", "is_correct": false },
+        { "option_id": 3, "text": "Running movement", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping movement", "is_correct": false }
+      ],
+      "answer": "Rhythmic movement"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which object shows forward and backward movement?",
+      "options": [
+        { "option_id": 1, "text": "Swing", "is_correct": true },
+        { "option_id": 2, "text": "Chair", "is_correct": false },
+        { "option_id": 3, "text": "Table", "is_correct": false },
+        { "option_id": 4, "text": "Book", "is_correct": false }
+      ],
+      "answer": "Swing"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which animal movement is shown in rhythmic movements?",
+      "options": [
+        { "option_id": 1, "text": "Elephant’s trunk movement", "is_correct": true },
+        { "option_id": 2, "text": "Snake crawling", "is_correct": false },
+        { "option_id": 3, "text": "Fish swimming", "is_correct": false },
+        { "option_id": 4, "text": "Dog running", "is_correct": false }
+      ],
+      "answer": "Elephant’s trunk movement"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which walk shows discipline?",
+      "options": [
+        { "option_id": 1, "text": "Soldiers march", "is_correct": true },
+        { "option_id": 2, "text": "Hurried walk", "is_correct": false },
+        { "option_id": 3, "text": "Slow walk", "is_correct": false },
+        { "option_id": 4, "text": "Horse trot", "is_correct": false }
+      ],
+      "answer": "Soldiers march"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which walk is done slowly and calmly?",
+      "options": [
+        { "option_id": 1, "text": "Slow leisurely walk", "is_correct": true },
+        { "option_id": 2, "text": "Hurried walk", "is_correct": false },
+        { "option_id": 3, "text": "Smart walk", "is_correct": false },
+        { "option_id": 4, "text": "Soldiers march", "is_correct": false }
+      ],
+      "answer": "Slow leisurely walk"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which greeting gesture is shown by joining hands?",
+      "options": [
+        { "option_id": 1, "text": "Namaste", "is_correct": true },
+        { "option_id": 2, "text": "Clapping", "is_correct": false },
+        { "option_id": 3, "text": "Jumping", "is_correct": false },
+        { "option_id": 4, "text": "Running", "is_correct": false }
+      ],
+      "answer": "Namaste"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which greeting gesture uses the hand near the forehead?",
+      "options": [
+        { "option_id": 1, "text": "Salute", "is_correct": true },
+        { "option_id": 2, "text": "Namaste", "is_correct": false },
+        { "option_id": 3, "text": "Clapping", "is_correct": false },
+        { "option_id": 4, "text": "Waving", "is_correct": false }
+      ],
+      "answer": "Salute"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which jump is inspired by an animal?",
+      "options": [
+        { "option_id": 1, "text": "Kangaroo jump", "is_correct": true },
+        { "option_id": 2, "text": "Side jump", "is_correct": false },
+        { "option_id": 3, "text": "Slow jump", "is_correct": false },
+        { "option_id": 4, "text": "Straight jump", "is_correct": false }
+      ],
+      "answer": "Kangaroo jump"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which jump is done on one leg?",
+      "options": [
+        { "option_id": 1, "text": "Hopping", "is_correct": true },
+        { "option_id": 2, "text": "Kangaroo jump", "is_correct": false },
+        { "option_id": 3, "text": "Bird jump", "is_correct": false },
+        { "option_id": 4, "text": "High jump", "is_correct": false }
+      ],
+      "answer": "Hopping"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which jump copies the movement of birds?",
+      "options": [
+        { "option_id": 1, "text": "Bird’s jump", "is_correct": true },
+        { "option_id": 2, "text": "Kangaroo jump", "is_correct": false },
+        { "option_id": 3, "text": "One leg jump", "is_correct": false },
+        { "option_id": 4, "text": "Slow jump", "is_correct": false }
+      ],
+      "answer": "Bird’s jump"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What should children observe before dancing?",
+      "options": [
+        { "option_id": 1, "text": "Different movements", "is_correct": true },
+        { "option_id": 2, "text": "Only music", "is_correct": false },
+        { "option_id": 3, "text": "Only steps", "is_correct": false },
+        { "option_id": 4, "text": "Only clothes", "is_correct": false }
+      ],
+      "answer": "Different movements"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which activity includes rhythmic movement of hands and feet?",
+      "options": [
+        { "option_id": 1, "text": "Dance", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping", "is_correct": false },
+        { "option_id": 3, "text": "Reading", "is_correct": false },
+        { "option_id": 4, "text": "Writing", "is_correct": false }
+      ],
+      "answer": "Dance"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which walk shows confidence?",
+      "options": [
+        { "option_id": 1, "text": "Smart walk", "is_correct": true },
+        { "option_id": 2, "text": "Slow walk", "is_correct": false },
+        { "option_id": 3, "text": "Hurried walk", "is_correct": false },
+        { "option_id": 4, "text": "Horse trot", "is_correct": false }
+      ],
+      "answer": "Smart walk"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which walk shows urgency?",
+      "options": [
+        { "option_id": 1, "text": "Hurried walk", "is_correct": true },
+        { "option_id": 2, "text": "Slow walk", "is_correct": false },
+        { "option_id": 3, "text": "Smart walk", "is_correct": false },
+        { "option_id": 4, "text": "Soldiers march", "is_correct": false }
+      ],
+      "answer": "Hurried walk"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why are dance movements taught to children?",
+      "options": [
+        { "option_id": 1, "text": "To improve coordination and rhythm", "is_correct": true },
+        { "option_id": 2, "text": "To make them tired", "is_correct": false },
+        { "option_id": 3, "text": "To stop movement", "is_correct": false },
+        { "option_id": 4, "text": "To waste time", "is_correct": false }
+      ],
+      "answer": "To improve coordination and rhythm"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is rhythmic movement?",
+      "answer": "Movement done in a regular pattern with rhythm."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name one example of rhythmic movement.",
+      "answer": "Churning of buttermilk."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What does a swing show?",
+      "answer": "Forward and backward movement."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name one style of walk.",
+      "answer": "Smart walk."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is a soldiers march?",
+      "answer": "A disciplined style of walking."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What greeting gesture uses joined hands?",
+      "answer": "Namaste."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name one greeting gesture.",
+      "answer": "Salute."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is a kangaroo jump?",
+      "answer": "A jump like the movement of a kangaroo."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Which jump is done on one leg?",
+      "answer": "Hopping."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why should children practice jumps?",
+      "answer": "To improve balance and strength."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does smart walk show?",
+      "answer": "Confidence."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What kind of movement is bird’s jump?",
+      "answer": "Animal-inspired movement."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why are greeting gestures important?",
+      "answer": "They show respect."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What improves by dancing?",
+      "answer": "Coordination and rhythm."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Name one benefit of dance.",
+      "answer": "It keeps the body active."
+    }
+  ]
+}

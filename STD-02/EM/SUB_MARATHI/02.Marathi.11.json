@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.11",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "ओळख भाज्यांची"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या धड्यात कशाची ओळख करून दिली आहे?",
+      "options": [
+        { "option_id": 1, "text": "फळे", "is_correct": false },
+        { "option_id": 2, "text": "भाज्या", "is_correct": true },
+        { "option_id": 3, "text": "प्राणी", "is_correct": false },
+        { "option_id": 4, "text": "फुले", "is_correct": false }
+      ],
+      "answer": "भाज्या"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "टोमॅटो कोणत्या रंगाचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "हिरवा", "is_correct": false },
+        { "option_id": 2, "text": "लाल", "is_correct": true },
+        { "option_id": 3, "text": "पिवळा", "is_correct": false },
+        { "option_id": 4, "text": "निळा", "is_correct": false }
+      ],
+      "answer": "लाल"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वांगी कशी दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "लांबट जांभळी", "is_correct": true },
+        { "option_id": 2, "text": "गोल पिवळी", "is_correct": false },
+        { "option_id": 3, "text": "लाल", "is_correct": false },
+        { "option_id": 4, "text": "पांढरी", "is_correct": false }
+      ],
+      "answer": "लांबट जांभळी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "बटाटा कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "लांब", "is_correct": false },
+        { "option_id": 2, "text": "गोल", "is_correct": true },
+        { "option_id": 3, "text": "चपटे", "is_correct": false },
+        { "option_id": 4, "text": "नुकीले", "is_correct": false }
+      ],
+      "answer": "गोल"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कोणती भाजी तिखट आहे?",
+      "options": [
+        { "option_id": 1, "text": "मिरची", "is_correct": true },
+        { "option_id": 2, "text": "बटाटा", "is_correct": false },
+        { "option_id": 3, "text": "काकडी", "is_correct": false },
+        { "option_id": 4, "text": "दुधी", "is_correct": false }
+      ],
+      "answer": "मिरची"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कांदा कोणत्या रंगाचा असतो?",
+      "options": [
+        { "option_id": 1, "text": "लालसर", "is_correct": true },
+        { "option_id": 2, "text": "निळा", "is_correct": false },
+        { "option_id": 3, "text": "हिरवा", "is_correct": false },
+        { "option_id": 4, "text": "पांढरा", "is_correct": false }
+      ],
+      "answer": "लालसर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "मेथी ही कोणत्या प्रकारची भाजी आहे?",
+      "options": [
+        { "option_id": 1, "text": "पातीची", "is_correct": true },
+        { "option_id": 2, "text": "फळभाजी", "is_correct": false },
+        { "option_id": 3, "text": "मुळभाजी", "is_correct": false },
+        { "option_id": 4, "text": "शेंगभाजी", "is_correct": false }
+      ],
+      "answer": "पातीची"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कोथिंबीर कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "सजावटीसाठी", "is_correct": false },
+        { "option_id": 2, "text": "चव वाढवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "लपवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "चव वाढवण्यासाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "या धड्यातील भाज्या कशासाठी दाखवल्या आहेत?",
+      "options": [
+        { "option_id": 1, "text": "ओळखण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "विकण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "लपवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "ओळखण्यासाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "गाजर कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "हिरवे", "is_correct": false },
+        { "option_id": 2, "text": "लांब व केशरी", "is_correct": true },
+        { "option_id": 3, "text": "गोल", "is_correct": false },
+        { "option_id": 4, "text": "पांढरे", "is_correct": false }
+      ],
+      "answer": "लांब व केशरी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पालक कोणत्या रंगाचा असतो?",
+      "options": [
+        { "option_id": 1, "text": "लाल", "is_correct": false },
+        { "option_id": 2, "text": "हिरवा", "is_correct": true },
+        { "option_id": 3, "text": "पिवळा", "is_correct": false },
+        { "option_id": 4, "text": "निळा", "is_correct": false }
+      ],
+      "answer": "हिरवा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "या धड्यात किती प्रकारच्या भाज्या दाखवल्या आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "अनेक", "is_correct": true },
+        { "option_id": 3, "text": "एक", "is_correct": false },
+        { "option_id": 4, "text": "तीन", "is_correct": false }
+      ],
+      "answer": "अनेक"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "भाज्या खाल्ल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "आजारी पडतो", "is_correct": false },
+        { "option_id": 2, "text": "आरोग्य चांगले राहते", "is_correct": true },
+        { "option_id": 3, "text": "थकवा येतो", "is_correct": false },
+        { "option_id": 4, "text": "आळस येतो", "is_correct": false }
+      ],
+      "answer": "आरोग्य चांगले राहते"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "हा धडा कशासाठी उपयुक्त आहे?",
+      "options": [
+        { "option_id": 1, "text": "भाजी ओळखण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "कविता शिकण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "नाचण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "भाजी ओळखण्यासाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्यांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "लहान मुलांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "शेतकऱ्यांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "व्यापाऱ्यांसाठी", "is_correct": false }
+      ],
+      "answer": "लहान मुलांसाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "या धड्याचे नाव काय आहे?",
+      "answer": "या धड्याचे नाव ‘ओळख भाज्यांची’ आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "या धड्यात काय शिकायला मिळते?",
+      "answer": "या धड्यात भाज्यांची ओळख शिकायला मिळते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कोणती भाजी तिखट आहे?",
+      "answer": "मिरची ही तिखट भाजी आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पालक कसा असतो?",
+      "answer": "पालक हिरव्या रंगाचा असतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "गाजर कसे असते?",
+      "answer": "गाजर लांब व केशरी रंगाचे असते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मेथी कोणत्या प्रकारची भाजी आहे?",
+      "answer": "मेथी ही पातीची भाजी आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कोथिंबीर कशासाठी वापरतात?",
+      "answer": "कोथिंबीर चव वाढवण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "बटाटा कसा असतो?",
+      "answer": "बटाटा गोल असतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "या धड्यातील एक भाजी सांगा.",
+      "answer": "या धड्यातील एक भाजी म्हणजे टोमॅटो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "भाज्या का खाव्यात?",
+      "answer": "भाज्या आरोग्यासाठी चांगल्या असतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कांदा कोणत्या रंगाचा असतो?",
+      "answer": "कांदा लालसर रंगाचा असतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "या धड्यातील भाज्या कशासाठी दाखवल्या आहेत?",
+      "answer": "भाज्या ओळखण्यासाठी दाखवल्या आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ही कृती कशी आहे?",
+      "answer": "ही कृती सोपी व उपयुक्त आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मुलांनी भाज्या का ओळखायला हव्यात?",
+      "answer": "मुलांनी भाज्या ओळखायला हव्यात कारण त्या रोजच्या जीवनात वापरतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या वर्गासाठी आहे?",
+      "answer": "हा धडा दुसरीच्या विद्यार्थ्यांसाठी आहे."
+    }
+  ]
+}

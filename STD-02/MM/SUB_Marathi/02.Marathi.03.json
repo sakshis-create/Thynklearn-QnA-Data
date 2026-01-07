@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "3.MAR.03",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "डिंगोरी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "डिंगोरी कशी फिरली?",
+      "options": [
+        { "option_id": 1, "text": "तुरुतुरु", "is_correct": false },
+        { "option_id": 2, "text": "गरगर", "is_correct": true },
+        { "option_id": 3, "text": "धावधाव", "is_correct": false },
+        { "option_id": 4, "text": "भिंगभिंग", "is_correct": false }
+      ],
+      "answer": "गरगर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सायकल कशी धावली?",
+      "options": [
+        { "option_id": 1, "text": "धपकन", "is_correct": false },
+        { "option_id": 2, "text": "गरगर", "is_correct": false },
+        { "option_id": 3, "text": "धावधाव", "is_correct": true },
+        { "option_id": 4, "text": "तुरुतुरु", "is_correct": false }
+      ],
+      "answer": "धावधाव"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "किल्लीचा ससोबा कुठे पळाला?",
+      "options": [
+        { "option_id": 1, "text": "कपाटात", "is_correct": false },
+        { "option_id": 2, "text": "घरात", "is_correct": false },
+        { "option_id": 3, "text": "बागेत", "is_correct": true },
+        { "option_id": 4, "text": "पऱ्यांच्या राज्यात", "is_correct": false }
+      ],
+      "answer": "बागेत"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "बाहुलीचे डोळे कोणत्या रंगाचे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "काळ्या", "is_correct": false },
+        { "option_id": 2, "text": "लाल", "is_correct": false },
+        { "option_id": 3, "text": "निळ्या", "is_correct": true },
+        { "option_id": 4, "text": "पांढऱ्या", "is_correct": false }
+      ],
+      "answer": "निळ्या"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "बाहुली कोठल्या राज्यात भटकायला गेली?",
+      "options": [
+        { "option_id": 1, "text": "प्राण्यांच्या", "is_correct": false },
+        { "option_id": 2, "text": "खेळण्यांच्या", "is_correct": false },
+        { "option_id": 3, "text": "पऱ्यांच्या", "is_correct": true },
+        { "option_id": 4, "text": "बागेच्या", "is_correct": false }
+      ],
+      "answer": "पऱ्यांच्या"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "दमून भागून कपाटात कोण झोपली?",
+      "options": [
+        { "option_id": 1, "text": "डिंगोरी", "is_correct": false },
+        { "option_id": 2, "text": "चिमुकली बाहुली", "is_correct": true },
+        { "option_id": 3, "text": "सायकल", "is_correct": false },
+        { "option_id": 4, "text": "पऱ्या", "is_correct": false }
+      ],
+      "answer": "चिमुकली बाहुली"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सायकलचा आवाज कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "डिंगडिंग", "is_correct": false },
+        { "option_id": 2, "text": "टपटप", "is_correct": false },
+        { "option_id": 3, "text": "ट्रिंगट्रिंग", "is_correct": true },
+        { "option_id": 4, "text": "धपकन", "is_correct": false }
+      ],
+      "answer": "ट्रिंगट्रिंग"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ससोबा काय खायला पळाला?",
+      "options": [
+        { "option_id": 1, "text": "गाजर", "is_correct": false },
+        { "option_id": 2, "text": "गवत", "is_correct": true },
+        { "option_id": 3, "text": "फळे", "is_correct": false },
+        { "option_id": 4, "text": "बिस्किट", "is_correct": false }
+      ],
+      "answer": "गवत"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "'बाहुली' या शब्दाचा समानार्थी शब्द ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "बाळ", "is_correct": false },
+        { "option_id": 2, "text": "खेळणी", "is_correct": false },
+        { "option_id": 3, "text": "पुतळी", "is_correct": true },
+        { "option_id": 4, "text": "परी", "is_correct": false }
+      ],
+      "answer": "पुतळी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'डोळे' या शब्दाचे वचन बदला.",
+      "options": [
+        { "option_id": 1, "text": "डोळा", "is_correct": true },
+        { "option_id": 2, "text": "डोळ्या", "is_correct": false },
+        { "option_id": 3, "text": "नयन", "is_correct": false },
+        { "option_id": 4, "text": "डोळे", "is_correct": false }
+      ],
+      "answer": "डोळा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'डिंगोरी' कवितेच्या कवयित्री कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "शांता शेळके", "is_correct": false },
+        { "option_id": 2, "text": "मंदा खांडगे", "is_correct": true },
+        { "option_id": 3, "text": "बहिणाबाई चौधरी", "is_correct": false },
+        { "option_id": 4, "text": "सरोजिनी नायडू", "is_correct": false }
+      ],
+      "answer": "मंदा खांडगे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सायकल कोठे धडकली?",
+      "options": [
+        { "option_id": 1, "text": "भिंतीला", "is_correct": false },
+        { "option_id": 2, "text": "कपाटाला", "is_correct": false },
+        { "option_id": 3, "text": "धपकन धडकली (घरभर भटकून)", "is_correct": true },
+        { "option_id": 4, "text": "झाडाला", "is_correct": false }
+      ],
+      "answer": "धपकन धडकली (घरभर भटकून)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'बाळाची खेळणी' यातील 'खेळणी' हे नाम कोणत्या वचनात आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकवचन", "is_correct": false },
+        { "option_id": 2, "text": "अनेकवचन", "is_correct": true },
+        { "option_id": 3, "text": "द्विवचन", "is_correct": false },
+        { "option_id": 4 ,"text": "लिंग", "is_correct": false }
+      ],
+      "answer": "अनेकवचन"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "डिंगोरी फिरून फिरून शेवटी काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "ती पळाली", "is_correct": false },
+        { "option_id": 2, "text": "ती झोपली", "is_correct": false },
+        { "option_id": 3, "text": "ती चक्कर येऊन पडली", "is_correct": true },
+        { "option_id": 4, "text": "ती हरवली", "is_correct": false }
+      ],
+      "answer": "ती चक्कर येऊन पडली"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता शब्द कवितेत आला नाही?",
+      "options": [
+        { "option_id": 1, "text": "भिंगोरी", "is_correct": false },
+        { "option_id": 2, "text": "ससोबा", "is_correct": false },
+        { "option_id": 3, "text": "विमान", "is_correct": true },
+        { "option_id": 4, "text": "बाहुली", "is_correct": false }
+      ],
+      "answer": "विमान"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "डिंगोरी कशी फिरली व शेवटी काय झाले?",
+      "answer": "डिंगोरी गरगर फिरली आणि शेवटी चक्कर येऊन पडली."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सायकल कशी धावली आणि कोठे धडकली?",
+      "answer": "सायकल धावधाव धावली आणि घरभर भटकून धपकन धडकली."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ससोबाने काय केले?",
+      "answer": "किल्लीचा ससोबा तुरुतुरु धावला आणि गवत खायला बागेत पळाला."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "चिमुकल्या बाहुलीचे वर्णन करा.",
+      "answer": "चिमुकली बाहुली निळ्या-निळ्या डोळ्यांची आहे आणि ती पऱ्यांच्या राज्यात भटकायला गेली."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सर्व खेळणी शेवटी कोठे विसावली?",
+      "answer": "खेळ-खेळ खेळून आणि दमून भागून सर्व खेळणी शेवटी कपाटात झोपली."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कवितेतील नादपूर्ण शब्द (Rhyming words) लिहा.",
+      "answer": "डिंगोरी-भिंगोरी, फिरली-पडली, धावली-धडकली, धावला-पळाला."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "'बाहुली' या शब्दाचा वापर करून एक वाक्य तयार करा.",
+      "answer": "माझ्याकडे एक खूप सुंदर आणि चिमुकली बाहुली आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "ससोबा कशाचा होता?",
+      "answer": "ससोबा किल्लीचा होता."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "'तुरुतुरु' या शब्दासारखे दुसरे दोन शब्द कवितेतून शोधा.",
+      "answer": "'गरगर' आणि 'धावधाव' हे शब्द कवितेत आले आहेत."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "बाहुली कोठे गेली होती?",
+      "answer": "बाहुली पऱ्यांच्या राज्यात भटकायला गेली होती."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "'बागेत' या शब्दाचा मूळ शब्द आणि विभक्ती प्रत्यय ओळखा.",
+      "answer": "मूळ शब्द 'बाग' आणि प्रत्यय 'त' (सप्तमी विभक्ती) आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणाच्या खेळण्यांचे वर्णन केले आहे?",
+      "answer": "कवितेत बाळाच्या खेळण्यांचे वर्णन केले आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "सायकलचा आवाज कसा आहे?",
+      "answer": "सायकलचा आवाज 'ट्रिंगट्रिंग' असा आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "'झोपली' या क्रियापदाचा विरुद्धार्थी शब्द लिहा.",
+      "answer": "'झोपली' च्या विरुद्धार्थी शब्द 'जागी झाली' किंवा 'उठली' असा होतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कवितेतील 'भिंगोरी' या शब्दाचा अर्थ काय असावा?",
+      "answer": "भिंगोरी म्हणजे डिंगोरीप्रमाणेच गरगर फिरणारे एक खेळणे (फिरकी)."
+    }
+  ]
+}

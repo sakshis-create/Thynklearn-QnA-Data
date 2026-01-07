@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.18",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "माझे घर"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "घरात स्वयंपाक कोठे करतात?",
+      "options": [
+        { "option_id": 1, "text": "बैठकीच्या खोलीत", "is_correct": false },
+        { "option_id": 2, "text": "स्वयंपाकघरात", "is_correct": true },
+        { "option_id": 3, "text": "गच्चीवर", "is_correct": false },
+        { "option_id": 4, "text": "न्हाणीघरात", "is_correct": false }
+      ],
+      "answer": "स्वयंपाकघरात"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आंघोळ करण्यासाठी कोणत्या खोलीचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "न्हाणीघर (Bathroom)", "is_correct": true },
+        { "option_id": 2, "text": "स्वयंपाकघर", "is_correct": false },
+        { "option_id": 3, "text": "हॉल", "is_correct": false },
+        { "option_id": 4, "text": "बाल्कनी", "is_correct": false }
+      ],
+      "answer": "न्हाणीघर (Bathroom)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पाहुणे आल्यावर आपण त्यांना कोठे बसवतो?",
+      "options": [
+        { "option_id": 1, "text": "न्हाणीघरात", "is_correct": false },
+        { "option_id": 2, "text": "बैठकीच्या खोलीत (Hall)", "is_correct": true },
+        { "option_id": 3, "text": "स्वयंपाकघरात", "is_correct": false },
+        { "option_id": 4, "text": "गच्चीवर", "is_correct": false }
+      ],
+      "answer": "बैठकीच्या खोलीत (Hall)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सौरबंब (Solar Heater) कोठे बसवला जातो?",
+      "options": [
+        { "option_id": 1, "text": "घराच्या आत", "is_correct": false },
+        { "option_id": 2, "text": "गच्चीवर (छतावर)", "is_correct": true },
+        { "option_id": 3, "text": "बागेत", "is_correct": false },
+        { "option_id": 4, "text": "स्वयंपाकघरात", "is_correct": false }
+      ],
+      "answer": "गच्चीवर (छतावर)"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भांडी धुण्यासाठी घरात कोणती जागा असते?",
+      "options": [
+        { "option_id": 1, "text": "बेडरूम", "is_correct": false },
+        { "option_id": 2, "text": "स्वयंपाकघरातील सिंक (Mori)", "is_correct": true },
+        { "option_id": 3, "text": "हॉल", "is_correct": false },
+        { "option_id": 4, "text": "सोफा", "is_correct": false }
+      ],
+      "answer": "स्वयंपाकघरातील सिंक (Mori)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "टीव्ही साधारणपणे कोणत्या खोलीत ठेवला जातो?",
+      "options": [
+        { "option_id": 1, "text": "बैठकीच्या खोलीत", "is_correct": true },
+        { "option_id": 2, "text": "न्हाणीघरात", "is_correct": false },
+        { "option_id": 3, "text": "गच्चीवर", "is_correct": false },
+        { "option_id": 4, "text": "स्वयंपाकघरात", "is_correct": false }
+      ],
+      "answer": "बैठकीच्या खोलीत"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गॅस शेगडी कोठे असते?",
+      "options": [
+        { "option_id": 1, "text": "हॉलमध्ये", "is_correct": false },
+        { "option_id": 2, "text": "स्वयंपाकघरात", "is_correct": true },
+        { "option_id": 3, "text": "बाथरूममध्ये", "is_correct": false },
+        { "option_id": 4, "text": "गच्चीवर", "is_correct": false }
+      ],
+      "answer": "स्वयंपाकघरात"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "हाता-तोंडाला लावण्यासाठी साबण कोठे असतो?",
+      "options": [
+        { "option_id": 1, "text": "न्हाणीघरात/बेसिनजवळ", "is_correct": true },
+        { "option_id": 2, "text": "गच्चीवर", "is_correct": false },
+        { "option_id": 3, "text": "टीव्हीजवळ", "is_correct": false },
+        { "option_id": 4, "text": "कपाटात", "is_correct": false }
+      ],
+      "answer": "न्हाणीघरात/बेसिनजवळ"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "फ्रीज (कपाट) कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "कपडे धुण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "अन्न व पाणी थंड ठेवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "गाणी ऐकण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "अन्न व पाणी थंड ठेवण्यासाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सोफा सेट कोठे असतो?",
+      "options": [
+        { "option_id": 1, "text": "स्वयंपाकघरात", "is_correct": false },
+        { "option_id": 2, "text": "बैठकीच्या खोलीत", "is_correct": true },
+        { "option_id": 3, "text": "न्हाणीघरात", "is_correct": false },
+        { "option_id": 4, "text": "गॅरेजमध्ये", "is_correct": false }
+      ],
+      "answer": "बैठकीच्या खोलीत"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "घरातील हवा खेळती राहण्यासाठी काय असते?",
+      "options": [
+        { "option_id": 1, "text": "खिडकी", "is_correct": true },
+        { "option_id": 2, "text": "कपाट", "is_correct": false },
+        { "option_id": 3, "text": "टीव्ही", "is_correct": false },
+        { "option_id": 4, "text": "फ्रीज", "is_correct": false }
+      ],
+      "answer": "खिडकी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सौरबंबाचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "हवा देण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "पाणी गरम करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "अन्न शिजवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "कपडे धुण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पाणी गरम करण्यासाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "वर्तमानपत्र (News Paper) वाचण्यासाठी बाबा कोठे बसतात?",
+      "options": [
+        { "option_id": 1, "text": "स्वयंपाकघरात", "is_correct": false },
+        { "option_id": 2, "text": "बैठकीच्या खोलीत", "is_correct": true },
+        { "option_id": 3, "text": "न्हाणीघरात", "is_correct": false },
+        { "option_id": 4, "text": "स्टोअर रूममध्ये", "is_correct": false }
+      ],
+      "answer": "बैठकीच्या खोलीत"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कपडे धुण्याचे मशीन (Washing Machine) कोठे ठेवलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "न्हाणीघराजवळ/बाल्कनीत", "is_correct": true },
+        { "option_id": 2, "text": "हॉलच्या मध्यभागी", "is_correct": false },
+        { "option_id": 3, "text": "बेडवर", "is_correct": false },
+        { "option_id": 4, "text": "गच्चीवर उन्हात", "is_correct": false }
+      ],
+      "answer": "न्हाणीघराजवळ/बाल्कनीत"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाणी साठवण्यासाठी गच्चीवर काय असते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याची टाकी", "is_correct": true },
+        { "option_id": 2, "text": "बादली", "is_correct": false },
+        { "option_id": 3, "text": "तांब्या", "is_correct": false },
+        { "option_id": 4, "text": "ग्लास", "is_correct": false }
+      ],
+      "answer": "पाण्याची टाकी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "आपण घरात कोणकोणत्या खोल्या पाहतो?",
+      "answer": "आपण घरात स्वयंपाकघर, न्हाणीघर, बैठकीची खोली (हॉल) पाहतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "स्वयंपाकघरात आई काय करते?",
+      "answer": "स्वयंपाकघरात आई जेवण बनवते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "सौरबंब कशावर चालतो?",
+      "answer": "सौरबंब सूर्याच्या उष्णतेवर चालतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "बैठकीच्या खोलीत काय काय असते? (कोणत्याही दोन वस्तू)",
+      "answer": "बैठकीच्या खोलीत सोफा, टीव्ही, पंखा असतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "न्हाणीघरात पाण्यासाठी काय असते?",
+      "answer": "न्हाणीघरात नळ, शावर आणि बादली असते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "आपण हात-पाय कोठे धुतो?",
+      "answer": "आपण हात-पाय न्हाणीघरात किंवा बेसिनवर धुतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "घराच्या छताला काय म्हणतात?",
+      "answer": "घराच्या छताला गच्ची (Terrace) असेही म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "स्वयंपाकघरातील दोन वस्तूंची नावे सांगा.",
+      "answer": "गॅस शेगडी, फ्रिज, मिक्सर (कोणतेही दोन)."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "घरामुळे आपल्याला कशापासून संरक्षण मिळते?",
+      "answer": "घरामुळे आपल्याला ऊन, वारा आणि पाऊस यांपासून संरक्षण मिळते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "तुम्ही तुमच्या घरात स्वच्छता ठेवता का?",
+      "answer": "हो, आम्ही आमचे घर नेहमी स्वच्छ ठेवतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "फोनवर बोलण्यासाठी कशाचा वापर करतात?",
+      "answer": "फोनवर बोलण्यासाठी मोबाईल किंवा टेलिफोनचा वापर करतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "हॉलमध्ये भिंतीवर काय लावले आहे?",
+      "answer": "हॉलमध्ये भिंतीवर घड्याळ किंवा फोटो लावला आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "वॉशिंग मशीनचा काय उपयोग होतो?",
+      "answer": "वॉशिंग मशीन कपडे धुण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "घरात प्रकाश येण्यासाठी काय असते?",
+      "answer": "घरात प्रकाश येण्यासाठी खिडक्या आणि दिवे (Lights) असतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या पाठाचे नाव काय आहे?",
+      "answer": "या पाठाचे नाव 'माझे घर' आहे."
+    }
+  ]
+}

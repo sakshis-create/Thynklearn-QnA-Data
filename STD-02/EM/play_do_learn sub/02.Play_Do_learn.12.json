@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.12",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Sculpture"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which activity involves making a boat?",
+      "options": [
+        { "option_id": 1, "text": "Clay Work", "is_correct": false },
+        { "option_id": 2, "text": "Paper Work", "is_correct": true },
+        { "option_id": 3, "text": "Drawing", "is_correct": false },
+        { "option_id": 4, "text": "Singing", "is_correct": false }
+      ],
+      "answer": "Paper Work"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which type of paper is mentioned for paper work?",
+      "options": [
+        { "option_id": 1, "text": "Kite paper", "is_correct": true },
+        { "option_id": 2, "text": "Tissue paper", "is_correct": false },
+        { "option_id": 3, "text": "Sandpaper", "is_correct": false },
+        { "option_id": 4, "text": "Toilet paper", "is_correct": false }
+      ],
+      "answer": "Kite paper"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What useful item is made from old coloured paper in the text?",
+      "options": [
+        { "option_id": 1, "text": "A hat", "is_correct": false },
+        { "option_id": 2, "text": "A penstand", "is_correct": true },
+        { "option_id": 3, "text": "A ball", "is_correct": false },
+        { "option_id": 4, "text": "A cup", "is_correct": false }
+      ],
+      "answer": "A penstand"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the first step in preparing clay?",
+      "options": [
+        { "option_id": 1, "text": "Collect soil", "is_correct": true },
+        { "option_id": 2, "text": "Paint it", "is_correct": false },
+        { "option_id": 3, "text": "Dry it", "is_correct": false },
+        { "option_id": 4, "text": "Burn it", "is_correct": false }
+      ],
+      "answer": "Collect soil"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is mixed with soil to form clay?",
+      "options": [
+        { "option_id": 1, "text": "Oil", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": true },
+        { "option_id": 3, "text": "Milk", "is_correct": false },
+        { "option_id": 4, "text": "Juice", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which object can be used to give texture to clay?",
+      "options": [
+        { "option_id": 1, "text": "A pen cap", "is_correct": true },
+        { "option_id": 2, "text": "A soft cloth", "is_correct": false },
+        { "option_id": 3, "text": "Water only", "is_correct": false },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ],
+      "answer": "A pen cap"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What shape is created by rolling clay in step 2 of Clay Work?",
+      "options": [
+        { "option_id": 1, "text": "Star", "is_correct": false },
+        { "option_id": 2, "text": "Circle (Ball)", "is_correct": true },
+        { "option_id": 3, "text": "Line", "is_correct": false },
+        { "option_id": 4, "text": "Box", "is_correct": false }
+      ],
+      "answer": "Circle (Ball)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What item is made using clay balls in the text?",
+      "options": [
+        { "option_id": 1, "text": "A flower", "is_correct": true },
+        { "option_id": 2, "text": "A car", "is_correct": false },
+        { "option_id": 3, "text": "A house", "is_correct": false },
+        { "option_id": 4, "text": "A book", "is_correct": false }
+      ],
+      "answer": "A flower"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is done to the clay after adding water?",
+      "options": [
+        { "option_id": 1, "text": "It is thrown away", "is_correct": false },
+        { "option_id": 2, "text": "It is kneaded", "is_correct": true },
+        { "option_id": 3, "text": "It is frozen", "is_correct": false },
+        { "option_id": 4, "text": "It is eaten", "is_correct": false }
+      ],
+      "answer": "It is kneaded"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of these is a type of paper mentioned?",
+      "options": [
+        { "option_id": 1, "text": "Glazed paper", "is_correct": true },
+        { "option_id": 2, "text": "Iron paper", "is_correct": false },
+        { "option_id": 3, "text": "Stone paper", "is_correct": false },
+        { "option_id": 4, "text": "Glass paper", "is_correct": false }
+      ],
+      "answer": "Glazed paper"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Besides flowers, what shapes are children asked to make from clay?",
+      "options": [
+        { "option_id": 1, "text": "Shapes of fruits", "is_correct": true },
+        { "option_id": 2, "text": "Shapes of clouds", "is_correct": false },
+        { "option_id": 3, "text": "Shapes of phones", "is_correct": false },
+        { "option_id": 4, "text": "Shapes of chairs", "is_correct": false }
+      ],
+      "answer": "Shapes of fruits"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How are paper articles made according to instructions?",
+      "options": [
+        { "option_id": 1, "text": "By tearing only", "is_correct": false },
+        { "option_id": 2, "text": "By folding and pasting", "is_correct": true },
+        { "option_id": 3, "text": "By burning", "is_correct": false },
+        { "option_id": 4, "text": "By washing", "is_correct": false }
+      ],
+      "answer": "By folding and pasting"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What kind of patterns are created on clay in the activity?",
+      "options": [
+        { "option_id": 1, "text": "Patterns on cubes", "is_correct": true },
+        { "option_id": 2, "text": "Patterns on water", "is_correct": false },
+        { "option_id": 3, "text": "Patterns on air", "is_correct": false },
+        { "option_id": 4, "text": "Patterns on fire", "is_correct": false }
+      ],
+      "answer": "Patterns on cubes"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which material is NOT used in the sculpture chapter?",
+      "options": [
+        { "option_id": 1, "text": "Plastic", "is_correct": true },
+        { "option_id": 2, "text": "Paper", "is_correct": false },
+        { "option_id": 3, "text": "Clay", "is_correct": false },
+        { "option_id": 4, "text": "Soil", "is_correct": false }
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What are children instructed to do with the penstand they make?",
+      "options": [
+        { "option_id": 1, "text": "Throw it away", "is_correct": false },
+        { "option_id": 2, "text": "Use it", "is_correct": true },
+        { "option_id": 3, "text": "Hide it", "is_correct": false },
+        { "option_id": 4, "text": "Break it", "is_correct": false }
+      ],
+      "answer": "Use it"
+    }
+  ],
+  "questions_short": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "List three types of paper mentioned in the chapter.",
+      "answer": "Kite paper, glazed paper, and craft paper."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are the two main sections in the Sculpture chapter?",
+      "answer": "Paper work and Clay Work."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What object is made in the first paper work activity?",
+      "answer": "A boat."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How do you prepare clay from soil?",
+      "answer": "Mix soil with water and knead it to form clay."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What tool can be used to give texture to clay objects?",
+      "answer": "A pen cap or pen refill."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What shapes are rolled from clay?",
+      "answer": "Circle (ball), square, and triangle."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the penstand made out of?",
+      "answer": "Old coloured paper."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name the specific item made using clay balls.",
+      "answer": "A flower."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are children asked to create on clay cubes?",
+      "answer": "Patterns."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What activity involves folding and pasting?",
+      "answer": "Paper work."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What kind of paper is 'tinted paper'?",
+      "answer": "It is a type of paper introduced for paper work."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Where can one find soil for clay work?",
+      "answer": "It is easily available in the surrounding."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What specific fruit shapes are mentioned in Clay Work?",
+      "answer": "Shapes of fruits (generic category mentioned)."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Making a penstand' activity?",
+      "answer": "To help children make a useful article out of old coloured paper."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What should children do with the paper according to instructions?",
+      "answer": "Fold the paper and paste it."
+    }
+  ]
+}

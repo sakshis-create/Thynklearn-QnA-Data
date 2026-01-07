@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.22",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "योग्य काय ?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कचरा कोठे टाकावा?",
+      "options": [
+        { "option_id": 1, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 2, "text": "कचराकुंडीत", "is_correct": true },
+        { "option_id": 3, "text": "घराबाहेर", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यात", "is_correct": false }
+      ],
+      "answer": "कचराकुंडीत"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "गाडी चालवताना चालकाने कोठे पाहावे?",
+      "options": [
+        { "option_id": 1, "text": "मागे", "is_correct": false },
+        { "option_id": 2, "text": "मोबाईलमध्ये", "is_correct": false },
+        { "option_id": 3, "text": "समोर", "is_correct": true },
+        { "option_id": 4, "text": "आकाशात", "is_correct": false }
+      ],
+      "answer": "समोर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "मोठ्या आवाजात स्पीकर लावणे योग्य आहे का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधीकधी", "is_correct": false },
+        { "option_id": 4, "text": "माहित नाही", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर कचरा टाकल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "स्वच्छता राहते", "is_correct": false },
+        { "option_id": 2, "text": "अस्वच्छता आणि प्रदूषण", "is_correct": true },
+        { "option_id": 3, "text": "सुंदर दिसते", "is_correct": false },
+        { "option_id": 4, "text": "झाडे वाढतात", "is_correct": false }
+      ],
+      "answer": "अस्वच्छता आणि प्रदूषण"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "रिक्षा चालवताना ड्रायव्हरने मागे वळून पाहणे योग्य की अयोग्य?",
+      "options": [
+        { "option_id": 1, "text": "योग्य", "is_correct": false },
+        { "option_id": 2, "text": "अयोग्य", "is_correct": true },
+        { "option_id": 3, "text": "चांगले", "is_correct": false },
+        { "option_id": 4, "text": "सुरक्षित", "is_correct": false }
+      ],
+      "answer": "अयोग्य"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "आपण आपला परिसर कसा ठेवावा?",
+      "options": [
+        { "option_id": 1, "text": "घान", "is_correct": false },
+        { "option_id": 2, "text": "अस्वच्छ", "is_correct": false },
+        { "option_id": 3, "text": "स्वच्छ", "is_correct": true },
+        { "option_id": 4, "text": "गोंधळलेला", "is_correct": false }
+      ],
+      "answer": "स्वच्छ"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ध्वनी प्रदूषण कशामुळे होते?",
+      "options": [
+        { "option_id": 1, "text": "झाडांमुळे", "is_correct": false },
+        { "option_id": 2, "text": "मोठ्या आवाजातील स्पीकरमुळे", "is_correct": true },
+        { "option_id": 3, "text": "पुस्तकांमुळे", "is_correct": false },
+        { "option_id": 4, "text": "सायकलमुळे", "is_correct": false }
+      ],
+      "answer": "मोठ्या आवाजातील स्पीकरमुळे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कचरा पेटीचा (Dustbin) वापर कशासाठी करतात?",
+      "options": [
+        { "option_id": 1, "text": "पाणी भरण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "कचरा टाकण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "बसण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "कचरा टाकण्यासाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "चांगल्या सवयी कोणत्या?",
+      "options": [
+        { "option_id": 1, "text": "रस्त्यावर थुंकणे", "is_correct": false },
+        { "option_id": 2, "text": "कचरा कुंडीत टाकणे", "is_correct": true },
+        { "option_id": 3, "text": "जोरात हॉर्न वाजवणे", "is_correct": false },
+        { "option_id": 4, "text": "रस्त्यावर कचरा फेकणे", "is_correct": false }
+      ],
+      "answer": "कचरा कुंडीत टाकणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "वाहन चालवताना लक्ष कोठे असावे?",
+      "options": [
+        { "option_id": 1, "text": "रस्त्यावर/समोर", "is_correct": true },
+        { "option_id": 2, "text": "आकाशाकडे", "is_correct": false },
+        { "option_id": 3, "text": "मागे", "is_correct": false },
+        { "option_id": 4, "text": "दुकानांकडे", "is_correct": false }
+      ],
+      "answer": "रस्त्यावर/समोर"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "चित्र पाहून काय ठरवायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "रंग कोणते", "is_correct": false },
+        { "option_id": 2, "text": "योग्य आणि अयोग्य काय", "is_correct": true },
+        { "option_id": 3, "text": "नाव काय", "is_correct": false },
+        { "option_id": 4, "text": "वेळ काय", "is_correct": false }
+      ],
+      "answer": "योग्य आणि अयोग्य काय"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "शाळा, दवाखाना या ठिकाणी काय टाळावे?",
+      "options": [
+        { "option_id": 1, "text": "शांतता", "is_correct": false },
+        { "option_id": 2, "text": "मोठा आवाज/गोंधळ", "is_correct": true },
+        { "option_id": 3, "text": "शिस्त", "is_correct": false },
+        { "option_id": 4, "text": "स्वच्छता", "is_correct": false }
+      ],
+      "answer": "मोठा आवाज/गोंधळ"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "ओला आणि सुका कचरा कोठे टाकावा?",
+      "options": [
+        { "option_id": 1, "text": "घराबाहेर रस्त्यावर", "is_correct": false },
+        { "option_id": 2, "text": "कचराकुंडीत", "is_correct": true },
+        { "option_id": 3, "text": "नदीत", "is_correct": false },
+        { "option_id": 4, "text": "मैदानात", "is_correct": false }
+      ],
+      "answer": "कचराकुंडीत"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "वाहन चालवताना गप्पा मारणे _____ आहे.",
+      "options": [
+        { "option_id": 1, "text": "सुरक्षित", "is_correct": false },
+        { "option_id": 2, "text": "धोकादायक/अयोग्य", "is_correct": true },
+        { "option_id": 3, "text": "चांगले", "is_correct": false },
+        { "option_id": 4, "text": "मजेदार", "is_correct": false }
+      ],
+      "answer": "धोकादायक/अयोग्य"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या पाठातून आपण काय शिकतो?",
+      "options": [
+        { "option_id": 1, "text": "गाणी", "is_correct": false },
+        { "option_id": 2, "text": "गोष्टी", "is_correct": false },
+        { "option_id": 3, "text": "चांगल्या सवयी", "is_correct": true },
+        { "option_id": 4, "text": "नृत्य", "is_correct": false }
+      ],
+      "answer": "चांगल्या सवयी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कचरा नेहमी कोठे टाकावा?",
+      "answer": "कचरा नेहमी कचराकुंडीत टाकावा."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर कचरा टाकणे योग्य की अयोग्य?",
+      "answer": "रस्त्यावर कचरा टाकणे अयोग्य आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मोठ्या आवाजामुळे काय होते?",
+      "answer": "मोठ्या आवाजामुळे ध्वनिप्रदूषण होते आणि इतरांना त्रास होतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "वाहन चालवताना चालकाचे लक्ष कोठे असावे?",
+      "answer": "वाहन चालवताना चालकाचे लक्ष समोर रस्त्यावर असावे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "रिक्षा चालवताना मागे वळून पाहणे का धोकादायक आहे?",
+      "answer": "कारण त्यामुळे अपघात होऊ शकतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक ठिकाणी लाऊडस्पीकरचा आवाज कसा असावा?",
+      "answer": "सार्वजनिक ठिकाणी लाऊडस्पीकरचा आवाज मर्यादित किंवा कमी असावा."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कचराकुंडीचा वापर का करावा?",
+      "answer": "परिसर स्वच्छ आणि रोगमुक्त ठेवण्यासाठी कचराकुंडीचा वापर करावा."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अयोग्य कृती दिसल्यास काय करावे?",
+      "answer": "अयोग्य कृती दिसल्यास ती करू नये किंवा ती सुधारण्याचा प्रयत्न करावा."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "स्वच्छता ठेवणे कोणाचे काम आहे?",
+      "answer": "स्वच्छता ठेवणे आपल्या सर्वांचे काम आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषण टाळण्यासाठी आपण काय करू शकतो?",
+      "answer": "आपण टीव्ही किंवा स्पीकरचा आवाज कमी ठेवू शकतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तुम्ही चॉकलेटचा कागद कोठे टाकता?",
+      "answer": "मी चॉकलेटचा कागद कचरापेटीत टाकतो/टाकते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे नियम पाळणे महत्त्वाचे का आहे?",
+      "answer": "स्वतःच्या आणि इतरांच्या सुरक्षिततेसाठी वाहतुकीचे नियम पाळणे महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "या पाठाचे नाव काय आहे?",
+      "answer": "या पाठाचे नाव 'योग्य काय ?' आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "रस्त्यावरून चालताना आपण कोठून चालावे?",
+      "answer": "रस्त्यावरून चालताना आपण फुटपाथवरून किंवा रस्त्याच्या कडेने चालावे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "ओल्या कचऱ्यापासून काय बनते?",
+      "answer": "ओल्या कचऱ्यापासून खत बनते."
+    }
+  ]
+}

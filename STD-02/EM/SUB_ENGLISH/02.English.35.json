@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.35",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Reading Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where did the children go for the school picnic?",
+      "options": [
+        { "option_id": 1, "text": "Zoo", "is_correct": false },
+        { "option_id": 2, "text": "Park", "is_correct": true },
+        { "option_id": 3, "text": "School", "is_correct": false },
+        { "option_id": 4, "text": "Market", "is_correct": false }
+      ],
+      "answer": "Park"
+    }
+  ]
+}

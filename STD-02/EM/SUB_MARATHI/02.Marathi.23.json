@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.23",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "माझी शब्दबाग"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी 'फळ' कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "बटाटा", "is_correct": false },
+        { "option_id": 2, "text": "सफरचंद", "is_correct": true },
+        { "option_id": 3, "text": "मेथी", "is_correct": false },
+        { "option_id": 4, "text": "भोवरा", "is_correct": false }
+      ],
+      "answer": "सफरचंद"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी 'खेळणे' कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "लगोरी", "is_correct": true },
+        { "option_id": 2, "text": "अननस", "is_correct": false },
+        { "option_id": 3, "text": "पालक", "is_correct": false },
+        { "option_id": 4, "text": "बस", "is_correct": false }
+      ],
+      "answer": "लगोरी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "'मेथी' हा शब्द कोणत्या गटात येईल?",
+      "options": [
+        { "option_id": 1, "text": "फळे", "is_correct": false },
+        { "option_id": 2, "text": "वाहने", "is_correct": false },
+        { "option_id": 3, "text": "भाज्या", "is_correct": true },
+        { "option_id": 4, "text": "वस्तू", "is_correct": false }
+      ],
+      "answer": "भाज्या"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी 'वस्तू' ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "पेरू", "is_correct": false },
+        { "option_id": 2, "text": "पंखा", "is_correct": true },
+        { "option_id": 3, "text": "कार", "is_correct": false },
+        { "option_id": 4, "text": "पळा", "is_correct": false }
+      ],
+      "answer": "पंखा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी 'क्रिया' दर्शवणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "चेंडू", "is_correct": false },
+        { "option_id": 2, "text": "थांबा", "is_correct": true },
+        { "option_id": 3, "text": "चमचा", "is_correct": false },
+        { "option_id": 4, "text": "सायकल", "is_correct": false }
+      ],
+      "answer": "थांबा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "'रिक्षा' हे कशाचे नाव आहे?",
+      "options": [
+        { "option_id": 1, "text": "फळाचे", "is_correct": false },
+        { "option_id": 2, "text": "खेळाचे", "is_correct": false },
+        { "option_id": 3, "text": "वाहनाचे", "is_correct": true },
+        { "option_id": 4, "text": "भाजीचे", "is_correct": false }
+      ],
+      "answer": "वाहनाचे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "हिरव्या रंगाची पालेभाजी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "सफरचंद", "is_correct": false },
+        { "option_id": 2, "text": "पालक", "is_correct": true },
+        { "option_id": 3, "text": "बटाटा", "is_correct": false },
+        { "option_id": 4, "text": "टमाटा", "is_correct": false }
+      ],
+      "answer": "पालक"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "उन्हाळ्यात आपण कोणते फळ खातो?",
+      "options": [
+        { "option_id": 1, "text": "कलिंगड", "is_correct": true },
+        { "option_id": 2, "text": "मेथी", "is_correct": false },
+        { "option_id": 3, "text": "भोपळा", "is_correct": false },
+        { "option_id": 4, "text": "लसूण", "is_correct": false }
+      ],
+      "answer": "कलिंगड"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "'संगणक' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "Computer", "is_correct": true },
+        { "option_id": 2, "text": "TV", "is_correct": false },
+        { "option_id": 3, "text": "Mobile", "is_correct": false },
+        { "option_id": 4, "text": "Fan", "is_correct": false }
+      ],
+      "answer": "Computer"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आकाशात काय उडवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "भोवरा", "is_correct": false },
+        { "option_id": 2, "text": "पतंग", "is_correct": true },
+        { "option_id": 3, "text": "लगोरी", "is_correct": false },
+        { "option_id": 4, "text": "चेंडू", "is_correct": false }
+      ],
+      "answer": "पतंग"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'रंगवा' हा शब्द काय दर्शवतो?",
+      "options": [
+        { "option_id": 1, "text": "वस्तू", "is_correct": false },
+        { "option_id": 2, "text": "क्रिया (Action)", "is_correct": true },
+        { "option_id": 3, "text": "फळ", "is_correct": false },
+        { "option_id": 4, "text": "वाहन", "is_correct": false }
+      ],
+      "answer": "क्रिया (Action)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "लाल रंगाची भाजी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "पालक", "is_correct": false },
+        { "option_id": 2, "text": "टमाटा", "is_correct": true },
+        { "option_id": 3, "text": "मेथी", "is_correct": false },
+        { "option_id": 4, "text": "काकडी", "is_correct": false }
+      ],
+      "answer": "टमाटा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "चहा पिण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "तवा", "is_correct": false },
+        { "option_id": 2, "text": "कप", "is_correct": true },
+        { "option_id": 3, "text": "कढई", "is_correct": false },
+        { "option_id": 4, "text": "सौरबंब", "is_correct": false }
+      ],
+      "answer": "कप"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'ट्रक' हे काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाहन", "is_correct": true },
+        { "option_id": 2, "text": "खेळणे", "is_correct": false },
+        { "option_id": 3, "text": "फळ", "is_correct": false },
+        { "option_id": 4, "text": "भाजी", "is_correct": false }
+      ],
+      "answer": "वाहन"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या पाठात 'शब्दबाग' खेळण्यासाठी कशाचा वापर केला आहे?",
+      "options": [
+        { "option_id": 1, "text": "चेंडूचा", "is_correct": false },
+        { "option_id": 2, "text": "फासाचा (Dice)", "is_correct": true },
+        { "option_id": 3, "text": "बॅटचा", "is_correct": false },
+        { "option_id": 4, "text": "दोरीचा", "is_correct": false }
+      ],
+      "answer": "फासाचा (Dice)"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कोणत्याही दोन फळांची नावे लिहा.",
+      "answer": "सफरचंद आणि पेरू (किंवा चिकू, अननस)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कोणत्याही दोन भाज्यांची नावे लिहा.",
+      "answer": "मेथी आणि बटाटा (किंवा पालक, टमाटा)."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "'पळा' या शब्दाचा अर्थ काय?",
+      "answer": "'पळा' म्हणजे धावा (Run)."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कोणत्याही दोन वाहनांची नावे लिहा.",
+      "answer": "बस आणि कार (किंवा सायकल, रिक्षा)."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "घरातील दोन वस्तूंची नावे सांगा.",
+      "answer": "पंखा आणि कढई (किंवा कप, चमचा)."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मुले कोणता खेळ खेळत आहेत?",
+      "answer": "मुले फासा टाकून 'शब्दबाग' हा खेळ खेळत आहेत."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "'सौरबंब' कशासाठी वापरतात?",
+      "answer": "सौरबंब पाणी गरम करण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "तुम्हाला आवडणाऱ्या एका खेळाचे नाव लिहा.",
+      "answer": "मला क्रिकेट (किंवा लगोरी/भोवरा) आवडतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "तिखट भाजी कोणती?",
+      "answer": "मिरची ही तिखट असते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "'सांडशी' चा उपयोग काय?",
+      "answer": "गरम भांडे पकडण्यासाठी सांडशी वापरतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "रेल्वे कोठून धावते?",
+      "answer": "रेल्वे रुळांवरून धावते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "'वाका' म्हणजे काय?",
+      "answer": "'वाका' म्हणजे खाली वाकणे (Bend)."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "'फुगा' कोणत्या रंगाचा असू शकतो?",
+      "answer": "फुगा लाल, निळा, पिवळा अशा विविध रंगांचा असू शकतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "'द्राक्षे' चवीला कशी असतात?",
+      "answer": "द्राक्षे चवीला आंबट-गोड असतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या पाठात एकूण किती गट दिले आहेत?",
+      "answer": "या पाठात खेळणी, फळे, क्रिया, भाज्या, वस्तू आणि वाहने असे ६ गट दिले आहेत."
+    }
+  ]
+}

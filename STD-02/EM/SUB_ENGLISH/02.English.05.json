@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.05",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Language Study - Naming Words"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the definition of Naming words?",
+      "options": [
+        { "option_id": 1, "text": "Words that describe actions", "is_correct": false },
+        { "option_id": 2, "text": "Simply names of anything", "is_correct": true },
+        { "option_id": 3, "text": "Words used for counting", "is_correct": false },
+        { "option_id": 4, "text": "Words that join sentences", "is_correct": false }
+      ],
+      "answer": "Simply names of anything"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which category does 'Pune' belong to?",
+      "options": [
+        { "option_id": 1, "text": "Name", "is_correct": false },
+        { "option_id": 2, "text": "Place", "is_correct": true },
+        { "option_id": 3, "text": "Animal", "is_correct": false },
+        { "option_id": 4, "text": "Thing", "is_correct": false }
+      ],
+      "answer": "Place"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who is the birthday boy in the story?",
+      "options": [
+        { "option_id": 1, "text": "Amit", "is_correct": false },
+        { "option_id": 2, "text": "Raju", "is_correct": true },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Friends", "is_correct": false }
+      ],
+      "answer": "Raju"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What gift does Raju's mother give him?",
+      "options": [
+        { "option_id": 1, "text": "A new bat", "is_correct": false },
+        { "option_id": 2, "text": "A mango plant", "is_correct": true },
+        { "option_id": 3, "text": "A storybook", "is_correct": false },
+        { "option_id": 4, "text": "A bicycle", "is_correct": false }
+      ],
+      "answer": "A mango plant"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In the naming word chart, where does 'Cat' fit?",
+      "options": [
+        { "option_id": 1, "text": "Animal", "is_correct": true },
+        { "option_id": 2, "text": "Thing", "is_correct": false },
+        { "option_id": 3, "text": "Place", "is_correct": false },
+        { "option_id": 4, "text": "Person", "is_correct": false }
+      ],
+      "answer": "Animal"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where is the mango plant kept?",
+      "options": [
+        { "option_id": 1, "text": "In a box", "is_correct": false },
+        { "option_id": 2, "text": "In a bag", "is_correct": false },
+        { "option_id": 3, "text": "In a pot", "is_correct": true },
+        { "option_id": 4, "text": "In a basket", "is_correct": false }
+      ],
+      "answer": "In a pot"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What song do the friends sing?",
+      "options": [
+        { "option_id": 1, "text": "Good Morning", "is_correct": false },
+        { "option_id": 2, "text": "Happy Birthday", "is_correct": true },
+        { "option_id": 3, "text": "Twinkle Twinkle", "is_correct": false },
+        { "option_id": 4, "text": "Rain Rain Go Away", "is_correct": false }
+      ],
+      "answer": "Happy Birthday"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where does the teacher plant the mango plant?",
+      "options": [
+        { "option_id": 1, "text": "In the classroom", "is_correct": false },
+        { "option_id": 2, "text": "In the backyard", "is_correct": true },
+        { "option_id": 3, "text": "On the roof", "is_correct": false },
+        { "option_id": 4, "text": "Outside the gate", "is_correct": false }
+      ],
+      "answer": "In the backyard"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is a naming word for a 'Thing'?",
+      "options": [
+        { "option_id": 1, "text": "Ball", "is_correct": true },
+        { "option_id": 2, "text": "Amit", "is_correct": false },
+        { "option_id": 3, "text": "Pune", "is_correct": false },
+        { "option_id": 4, "text": "Dog", "is_correct": false }
+      ],
+      "answer": "Ball"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who claps for Raju?",
+      "options": [
+        { "option_id": 1, "text": "Only the teacher", "is_correct": false },
+        { "option_id": 2, "text": "Only his mother", "is_correct": false },
+        { "option_id": 3, "text": "Everyone", "is_correct": true },
+        { "option_id": 4, "text": "No one", "is_correct": false }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word is a naming word for a fruit?",
+      "options": [
+        { "option_id": 1, "text": "Apple", "is_correct": false },
+        { "option_id": 2, "text": "Mango", "is_correct": true },
+        { "option_id": 3, "text": "Plant", "is_correct": false },
+        { "option_id": 4, "text": "Tree", "is_correct": false }
+      ],
+      "answer": "Mango"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which naming word is a 'Place'?",
+      "options": [
+        { "option_id": 1, "text": "School", "is_correct": true },
+        { "option_id": 2, "text": "Teacher", "is_correct": false },
+        { "option_id": 3, "text": "Friend", "is_correct": false },
+        { "option_id": 4, "text": "Boy", "is_correct": false }
+      ],
+      "answer": "School"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the name of the boy in the example table?",
+      "options": [
+        { "option_id": 1, "text": "Raju", "is_correct": false },
+        { "option_id": 2, "text": "Amit", "is_correct": true },
+        { "option_id": 3, "text": "Rahul", "is_correct": false },
+        { "option_id": 4, "text": "John", "is_correct": false }
+      ],
+      "answer": "Amit"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Identify the naming word in the sentence: 'Do you write with a pen?'",
+      "options": [
+        { "option_id": 1, "text": "Do", "is_correct": false },
+        { "option_id": 2, "text": "Write", "is_correct": false },
+        { "option_id": 3, "text": "With", "is_correct": false },
+        { "option_id": 4, "text": "Pen", "is_correct": true }
+      ],
+      "answer": "Pen"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What game involves writing down naming words?",
+      "options": [
+        { "option_id": 1, "text": "Cricket", "is_correct": false },
+        { "option_id": 2, "text": "Hide and Seek", "is_correct": false },
+        { "option_id": 3, "text": "Bingo", "is_correct": true },
+        { "option_id": 4, "text": "Tag", "is_correct": false }
+      ],
+      "answer": "Bingo"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are naming words?",
+      "answer": "Naming words are simply names of anything."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name the four groups used to classify naming words.",
+      "answer": "Name, Place, Animal, and Thing."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Give one example of a 'Place' from the chapter.",
+      "answer": "Pune or School."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who wishes Raju at school?",
+      "answer": "All his friends wish him at school."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What does Raju's mother give him?",
+      "answer": "Raju's mother gives him a mango plant in a pot."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Where does the teacher take the students?",
+      "answer": "The teacher takes the students to the backyard."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is done with the mango plant in the backyard?",
+      "answer": "It is planted in the backyard."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Identify two naming words in: 'Are you a boy or a girl?'",
+      "answer": "Boy and Girl."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What 'Thing' is listed in the example table?",
+      "answer": "Ball."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What happens when you finish writing names in the game?",
+      "answer": "You must call out 'Bingo'."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Is 'Teacher' a Place or a Person?",
+      "answer": "Teacher is a Person."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "List two words from the 'Look and say' section.",
+      "answer": "Examples include: Today, Birthday, Plant, Pot, Friends."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which animal is mentioned in the example table?",
+      "answer": "Cat."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does everyone do for Raju at the end?",
+      "answer": "Everyone claps for him."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What question asks about your favourite toy?",
+      "answer": "What is your favourite toy?"
+    }
+  ]
+}

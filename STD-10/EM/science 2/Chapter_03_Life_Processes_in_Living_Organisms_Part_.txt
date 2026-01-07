@@ -1,0 +1,569 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.03",
+    "standard": "10",
+    "subject": "Science and Technology Part 2",
+    "medium": "English",
+    "chapter_name": "Life Processes in Living Organisms Part - 2"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following life processes is not essential for the organism to remain alive but is necessary for the continuity of the species?",
+      "options": [
+        { "option_id": 1, "text": "Respiration", "is_correct": false },
+        { "option_id": 2, "text": "Nutrition", "is_correct": false },
+        { "option_id": 3, "text": "Reproduction", "is_correct": true },
+        { "option_id": 4, "text": "Excretion", "is_correct": false }
+      ],
+      "answer": "Reproduction"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Asexual reproduction involves which type of cell division?",
+      "options": [
+        { "option_id": 1, "text": "Meiosis", "is_correct": false },
+        { "option_id": 2, "text": "Mitosis", "is_correct": true },
+        { "option_id": 3, "text": "Fertilization", "is_correct": false },
+        { "option_id": 4, "text": "Reduction division", "is_correct": false }
+      ],
+      "answer": "Mitosis"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which type of binary fission is performed by Paramecium?",
+      "options": [
+        { "option_id": 1, "text": "Simple binary fission", "is_correct": false },
+        { "option_id": 2, "text": "Longitudinal binary fission", "is_correct": false },
+        { "option_id": 3, "text": "Transverse binary fission", "is_correct": true },
+        { "option_id": 4, "text": "Oblique binary fission", "is_correct": false }
+      ],
+      "answer": "Transverse binary fission"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the protective covering formed by Amoeba during adverse conditions called?",
+      "options": [
+        { "option_id": 1, "text": "Bud", "is_correct": false },
+        { "option_id": 2, "text": "Cyst", "is_correct": true },
+        { "option_id": 3, "text": "Spore", "is_correct": false },
+        { "option_id": 4, "text": "Clone", "is_correct": false }
+      ],
+      "answer": "Cyst"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which organism reproduces by fragmentation?",
+      "options": [
+        { "option_id": 1, "text": "Amoeba", "is_correct": false },
+        { "option_id": 2, "text": "Spirogyra", "is_correct": true },
+        { "option_id": 3, "text": "Planaria", "is_correct": false },
+        { "option_id": 4, "text": "Yeast", "is_correct": false }
+      ],
+      "answer": "Spirogyra"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Vegetative propagation in potatoes is performed with the help of what?",
+      "options": [
+        { "option_id": 1, "text": "Roots", "is_correct": false },
+        { "option_id": 2, "text": "Leaf buds", "is_correct": false },
+        { "option_id": 3, "text": "Eyes", "is_correct": true },
+        { "option_id": 4, "text": "Stem cuttings", "is_correct": false }
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which whorl of the flower is considered the male whorl?",
+      "options": [
+        { "option_id": 1, "text": "Calyx", "is_correct": false },
+        { "option_id": 2, "text": "Corolla", "is_correct": false },
+        { "option_id": 3, "text": "Gynoecium", "is_correct": false },
+        { "option_id": 4, "text": "Androecium", "is_correct": true }
+      ],
+      "answer": "Androecium"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "During double fertilization, the second male gamete unites with two polar nuclei to form what?",
+      "options": [
+        { "option_id": 1, "text": "Zygote", "is_correct": false },
+        { "option_id": 2, "text": "Embryo", "is_correct": false },
+        { "option_id": 3, "text": "Endosperm", "is_correct": true },
+        { "option_id": 4, "text": "Seed coat", "is_correct": false }
+      ],
+      "answer": "Endosperm"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the length of each epididymis in the human male reproductive system?",
+      "options": [
+        { "option_id": 1, "text": "6 meters", "is_correct": true },
+        { "option_id": 2, "text": "6 centimeters", "is_correct": false },
+        { "option_id": 3, "text": "60 meters", "is_correct": false },
+        { "option_id": 4, "text": "60 centimeters", "is_correct": false }
+      ],
+      "answer": "6 meters"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which sugar is present in semen to provide energy to sperms?",
+      "options": [
+        { "option_id": 1, "text": "Glucose", "is_correct": false },
+        { "option_id": 2, "text": "Sucrose", "is_correct": false },
+        { "option_id": 3, "text": "Fructose", "is_correct": true },
+        { "option_id": 4, "text": "Lactose", "is_correct": false }
+      ],
+      "answer": "Fructose"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "At what approximate age does menopause occur in women?",
+      "options": [
+        { "option_id": 1, "text": "20-25 years", "is_correct": false },
+        { "option_id": 2, "text": "30-35 years", "is_correct": false },
+        { "option_id": 3, "text": "45-50 years", "is_correct": true },
+        { "option_id": 4, "text": "60-65 years", "is_correct": false }
+      ],
+      "answer": "45-50 years"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which hormone stimulates the development of the follicle in the ovary?",
+      "options": [
+        { "option_id": 1, "text": "Luteinizing Hormone (LH)", "is_correct": false },
+        { "option_id": 2, "text": "Follicle Stimulating Hormone (FSH)", "is_correct": true },
+        { "option_id": 3, "text": "Progesterone", "is_correct": false },
+        { "option_id": 4, "text": "Estrogen", "is_correct": false }
+      ],
+      "answer": "Follicle Stimulating Hormone (FSH)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the corpus luteum transformed into if the oocyte is not fertilized?",
+      "options": [
+        { "option_id": 1, "text": "Corpus callosum", "is_correct": false },
+        { "option_id": 2, "text": "Corpus albicans", "is_correct": true },
+        { "option_id": 3, "text": "Graafian follicle", "is_correct": false },
+        { "option_id": 4, "text": "Endometrium", "is_correct": false }
+      ],
+      "answer": "Corpus albicans"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which modern technique involves fertilization in a test-tube?",
+      "options": [
+        { "option_id": 1, "text": "Surrogacy", "is_correct": false },
+        { "option_id": 2, "text": "Sperm Bank", "is_correct": false },
+        { "option_id": 3, "text": "IVF (In Vitro Fertilization)", "is_correct": true },
+        { "option_id": 4, "text": "Cloning", "is_correct": false }
+      ],
+      "answer": "IVF (In Vitro Fertilization)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Monozygotic twins are formed from how many zygotes?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": true },
+        { "option_id": 2, "text": "Two", "is_correct": false },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Multiple", "is_correct": false }
+      ],
+      "answer": "One"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Syphilis is caused by which type of microorganism?",
+      "options": [
+        { "option_id": 1, "text": "Virus", "is_correct": false },
+        { "option_id": 2, "text": "Bacteria", "is_correct": true },
+        { "option_id": 3, "text": "Fungus", "is_correct": false },
+        { "option_id": 4, "text": "Protozoa", "is_correct": false }
+      ],
+      "answer": "Bacteria"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which chromosome is present in men but absent in women?",
+      "options": [
+        { "option_id": 1, "text": "X chromosome", "is_correct": false },
+        { "option_id": 2, "text": "Y chromosome", "is_correct": true },
+        { "option_id": 3, "text": "Chromosome 21", "is_correct": false },
+        { "option_id": 4, "text": "Chromosome 18", "is_correct": false }
+      ],
+      "answer": "Y chromosome"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "In which part of the female reproductive system does fertilization typically occur?",
+      "options": [
+        { "option_id": 1, "text": "Uterus", "is_correct": false },
+        { "option_id": 2, "text": "Vagina", "is_correct": false },
+        { "option_id": 3, "text": "Oviduct", "is_correct": true },
+        { "option_id": 4, "text": "Ovary", "is_correct": false }
+      ],
+      "answer": "Oviduct"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the process of release of an oocyte from the follicle called?",
+      "options": [
+        { "option_id": 1, "text": "Menstruation", "is_correct": false },
+        { "option_id": 2, "text": "Fertilization", "is_correct": false },
+        { "option_id": 3, "text": "Ovulation", "is_correct": true },
+        { "option_id": 4, "text": "Implantation", "is_correct": false }
+      ],
+      "answer": "Ovulation"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following plants reproduces through vegetative propagation using leaves?",
+      "options": [
+        { "option_id": 1, "text": "Potato", "is_correct": false },
+        { "option_id": 2, "text": "Bryophyllum", "is_correct": true },
+        { "option_id": 3, "text": "Sweet Potato", "is_correct": false },
+        { "option_id": 4, "text": "Sugarcane", "is_correct": false }
+      ],
+      "answer": "Bryophyllum"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Define reproduction.",
+      "answer": "Reproduction is the formation of a new organism of the same species by an earlier existing organism."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What is the main advantage of asexual reproduction?",
+      "answer": "The main advantage of asexual reproduction is that it is a fast process."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What is the main drawback of asexual reproduction?",
+      "answer": "The main drawback of asexual reproduction is the absence of genetic recombination."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Name three unicellular organisms that perform asexual reproduction by binary fission.",
+      "answer": "Amoeba, Paramecium, and Euglena."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Under which condition does simple binary fission occur?",
+      "answer": "Simple binary fission occurs during favorable conditions, i.e., availability of abundant food material."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Explain 'Multiple Fission' in Amoeba briefly.",
+      "answer": "In adverse conditions, Amoeba forms a cyst and divides its nucleus and cytoplasm repeatedly to form many amoebulae, which are released when favorable conditions return."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is a 'bud' in the context of yeast reproduction?",
+      "answer": "A bud is a small bulge that appears on the surface of the parent yeast cell, which eventually grows and separates to form a new cell."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "How does Spirogyra reproduce?",
+      "answer": "Spirogyra reproduces by fragmentation, where its body breaks into fragments, and each fragment grows into a new fiber."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Give an example of an animal that can regenerate its entire body from a part.",
+      "answer": "Planaria."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "How do fungi like Mucor reproduce?",
+      "answer": "Fungi like Mucor reproduce by spore formation; spores are formed in sporangia and released to germinate in moist places."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What are the four floral whorls of a flower?",
+      "answer": "Calyx, Corolla, Androecium, and Gynoecium."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Why are Androecium and Gynoecium called 'essential whorls'?",
+      "answer": "They are called essential whorls because they perform the function of reproduction."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What are 'accessory whorls' and what is their function?",
+      "answer": "Calyx and Corolla are accessory whorls, and they function to protect the inner whorls."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Define a 'bisexual' flower.",
+      "answer": "A flower is bisexual if both Androecium and Gynoecium are present in the same flower (e.g., Hibiscus)."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is a pedicellate flower?",
+      "answer": "A flower that has a stalk for support (pedicel) is called a pedicellate flower."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What constitutes the Androecium?",
+      "answer": "Androecium is the male whorl, and its members are called stamens."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What are the members of the Gynoecium called?",
+      "answer": "The members of the Gynoecium are called carpels."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What is pollination?",
+      "answer": "Pollination is the transfer of pollen grains from the anther to the stigma."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Define self-pollination.",
+      "answer": "Self-pollination occurs when pollination involves only one flower or two flowers borne on the same plant."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What happens during fertilization in plants?",
+      "answer": "One male gamete unites with the egg cell to form a zygote, and the second male gamete unites with two polar nuclei to form the endosperm."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Where are testes located in human males?",
+      "answer": "Testes are located in the scrotum, outside the abdominal cavity."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "List the sequence of tubules in the male reproductive system.",
+      "answer": "Rete testis, vas efferens, epididymis, vas deferens, ejaculatory duct, and urinogenital duct."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What glands contribute to the formation of semen?",
+      "answer": "Seminal vesicles, prostate gland, and Cowper's glands."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What organs make up the human female reproductive system?",
+      "answer": "A pair of ovaries, a pair of oviducts, a single uterus, and a vagina."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the function of cilia in the oviduct?",
+      "answer": "The cilia push the oocyte towards the uterus."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "How are gametes (sperm and ovum) formed?",
+      "answer": "Gametes are formed by meiosis, where the chromosome number is reduced to half (haploid)."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What determines the sex of a child in humans?",
+      "answer": "The sex is determined by the sperm; if a sperm with a Y chromosome fertilizes the egg, it is a boy; if X, it is a girl."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is the menstrual cycle?",
+      "answer": "The menstrual cycle is a natural process of repetitive changes in the female reproductive system occurring every 28-30 days."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Name the four hormones controlling the menstrual cycle.",
+      "answer": "Follicle Stimulating Hormone (FSH), Luteinizing Hormone (LH), Estrogen, and Progesterone."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is ovulation?",
+      "answer": "Ovulation is the bursting of the fully grown follicle and the release of the oocyte under the effect of LH."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the function of the corpus luteum?",
+      "answer": "The corpus luteum secretes progesterone, which prepares the endometrium for implantation."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is IVF?",
+      "answer": "IVF (In Vitro Fertilization) is a technique where fertilization occurs in a test tube and the embryo is implanted in the uterus."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Define Surrogacy.",
+      "answer": "Surrogacy is a technique where an embryo fertilized in vitro is implanted into the uterus of a woman (surrogate mother) other than the biological mother."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a Sperm Bank?",
+      "answer": "A Sperm Bank is a facility where semen collected from medically checked donors is stored for use by childless couples."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What are monozygotic twins?",
+      "answer": "Monozygotic twins are twins formed from a single embryo that divides into two groups of cells early in development."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What are dizygotic twins?",
+      "answer": "Dizygotic twins are formed when two separate oocytes are fertilized by two separate sperms, forming two zygotes."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What are Siamese twins?",
+      "answer": "Siamese (conjoined) twins are monozygotic twins where the embryonic cells divide 8 days after zygote formation, resulting in joined body parts."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is reproductive health?",
+      "answer": "Reproductive health refers to a state of being physically, mentally, and socially strong regarding reproductive processes and functions."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name two sexually transmitted diseases mentioned in the text.",
+      "answer": "Syphilis and Gonorrhea."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is population explosion?",
+      "answer": "Population explosion is the excessive growth of population within a short duration."
+    },
+    {
+      "question_id": 61,
+      "question_type": "LONG",
+      "question": "Explain the process of Binary Fission in Amoeba.",
+      "answer": "Amoeba reproduces by simple binary fission. Due to the lack of a specific shape, it can divide in any plane. The parent cell divides its nucleus and cytoplasm to form two similar daughter cells. This process typically occurs during favorable conditions when food is abundant."
+    },
+    {
+      "question_id": 62,
+      "question_type": "LONG",
+      "question": "Describe the process of Multiple Fission in Amoeba.",
+      "answer": "During adverse conditions or lack of food, Amoeba forms a protective covering called a cyst. Inside the cyst, the nucleus divides repeatedly followed by cytoplasmic division, forming many amoebulae. When favorable conditions return, the cyst bursts, releasing the amoebulae."
+    },
+    {
+      "question_id": 63,
+      "question_type": "LONG",
+      "question": "Explain the process of Budding in Hydra.",
+      "answer": "In Hydra, under favorable conditions, an outgrowth called a bud is formed by the division of regenerative cells. This bud grows progressively into a small hydra. Its dermal layers and digestive cavity are continuous with the parent. Once mature, it separates from the parent and lives independently."
+    },
+    {
+      "question_id": 64,
+      "question_type": "LONG",
+      "question": "Describe the different parts of a flower and their functions.",
+      "answer": "A flower has four whorls: Calyx (sepals) and Corolla (petals) are accessory whorls for protection. Androecium is the male whorl consisting of stamens (anther and filament). Gynoecium is the female whorl consisting of carpels (stigma, style, and ovary). Androecium and Gynoecium are essential whorls performing reproduction."
+    },
+    {
+      "question_id": 65,
+      "question_type": "LONG",
+      "question": "Explain the process of Double Fertilization in plants.",
+      "answer": "During fertilization, a pollen tube releases two male gametes into the embryo sac. One male gamete fuses with the egg cell to form a zygote (syngamy). The second male gamete fuses with two polar nuclei to form the endosperm. Since fertilization occurs twice, it is called double fertilization."
+    },
+    {
+      "question_id": 66,
+      "question_type": "LONG",
+      "question": "Describe the Human Male Reproductive System.",
+      "answer": "The male reproductive system consists of testes (produce sperm), ducts (rete testis, vas deferens, etc.), and glands (seminal vesicles, prostate, Cowper's). Testes are located in the scrotum. Sperms travel through the ducts, mixing with secretions from glands to form semen, which is ejaculated through the penis."
+    },
+    {
+      "question_id": 67,
+      "question_type": "LONG",
+      "question": "Describe the Human Female Reproductive System.",
+      "answer": "The female reproductive system includes a pair of ovaries (produce oocytes), a pair of oviducts (site of fertilization), a uterus (site of implantation), and a vagina. Every month, an ovary releases an egg into the oviduct. The uterus prepares itself to receive the fertilized egg."
+    },
+    {
+      "question_id": 68,
+      "question_type": "LONG",
+      "question": "Explain the Menstrual Cycle and its hormonal control.",
+      "answer": "The menstrual cycle involves changes in the ovary and uterus every 28-30 days, controlled by FSH, LH, Estrogen, and Progesterone. FSH develops the follicle (secretes estrogen). LH triggers ovulation. The corpus luteum secretes progesterone. If fertilization doesn't occur, the corpus luteum degenerates, hormone levels drop, and menstruation (bleeding) begins."
+    },
+    {
+      "question_id": 69,
+      "question_type": "LONG",
+      "question": "Explain the modern technology of IVF (In Vitro Fertilization).",
+      "answer": "IVF is used for childless couples with issues like low sperm count or blocked oviducts. Fertilization is brought about in a test tube. The embryo formed is then implanted into the woman's uterus at the appropriate time for further development."
+    },
+    {
+      "question_id": 70,
+      "question_type": "LONG",
+      "question": "Distinguish between Monozygotic and Dizygotic twins.",
+      "answer": "Monozygotic twins develop from a single zygote that splits early in development; they are genetically identical and of the same gender. Dizygotic twins develop from two separate eggs fertilized by two separate sperms; they are genetically different and can be of different genders."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Explain the problem of Population Explosion and its effects.",
+      "answer": "Population explosion is the excessive growth of population in a short time. It leads to unemployment, decreased per capita income, increased loan burdens, and stress on natural resources. Family planning is the primary solution to control this issue."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Why is the male parent responsible for the sex determination of the child?",
+      "answer": "Females have XX chromosomes and produce only X-type oocytes. Males have XY chromosomes and produce two types of sperm: X and Y. If an X-bearing sperm fertilizes the egg, the child is female (XX). If a Y-bearing sperm fertilizes the egg, the child is male (XY). Thus, the sperm determines the sex."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "What are the symptoms of Syphilis and Gonorrhea?",
+      "answer": "Syphilis symptoms include chancres (patches) on genitals/body, rash, fever, and inflammation of joints. Gonorrhea symptoms include painful urination, oozing of pus from genitals, and inflammation of the urinary tract, throat, and eyes."
+    }
+  ]
+}

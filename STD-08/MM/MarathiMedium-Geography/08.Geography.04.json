@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Geo.05",
+    "standard": "8",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "सागरी प्रवाह"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाह म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "समुद्रातील स्थिर पाणी", "is_correct": false },
+        { "option_id": 2, "text": "सागरजलाची विशिष्ट दिशेने होणारी हालचाल", "is_correct": true },
+        { "option_id": 3, "text": "समुद्रातील वादळ", "is_correct": false },
+        { "option_id": 4, "text": "समुद्रातील लाटा", "is_correct": false }
+      ],
+      "answer": "सागरजलाची विशिष्ट दिशेने होणारी हालचाल"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाह निर्मितीसाठी कोणता घटक कारणीभूत नाही?",
+      "options": [
+        { "option_id": 1, "text": "तापमान", "is_correct": false },
+        { "option_id": 2, "text": "क्षारता", "is_correct": false },
+        { "option_id": 3, "text": "घनता", "is_correct": false },
+        { "option_id": 4, "text": "भूकंप", "is_correct": true }
+      ],
+      "answer": "भूकंप"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पृष्ठीय सागरी प्रवाह किती खोलीपर्यंत आढळतात?",
+      "options": [
+        { "option_id": 1, "text": "100 मीटर", "is_correct": false },
+        { "option_id": 2, "text": "300 मीटर", "is_correct": false },
+        { "option_id": 3, "text": "500 मीटर", "is_correct": true },
+        { "option_id": 4, "text": "1000 मीटर", "is_correct": false }
+      ],
+      "answer": "500 मीटर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पृष्ठीय सागरी प्रवाहांमधून महासागरातील किती टक्के पाणी वाहते?",
+      "options": [
+        { "option_id": 1, "text": "5%", "is_correct": false },
+        { "option_id": 2, "text": "10%", "is_correct": true },
+        { "option_id": 3, "text": "20%", "is_correct": false },
+        { "option_id": 4, "text": "50%", "is_correct": false }
+      ],
+      "answer": "10%"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांचा वेग मोजण्याचे एकक कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "नॉट", "is_correct": false },
+        { "option_id": 2, "text": "स्वेर्ड्रप", "is_correct": true },
+        { "option_id": 3, "text": "मीटर", "is_correct": false },
+        { "option_id": 4, "text": "किलोमीटर", "is_correct": false }
+      ],
+      "answer": "स्वेर्ड्रप"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "उष्ण सागरी प्रवाह कोणत्या दिशेने वाहतात?",
+      "options": [
+        { "option_id": 1, "text": "ध्रुवाकडून विषुववृत्ताकडे", "is_correct": false },
+        { "option_id": 2, "text": "विषुववृत्ताकडून ध्रुवांकडे", "is_correct": true },
+        { "option_id": 3, "text": "पूर्वेकडून पश्चिमेकडे", "is_correct": false },
+        { "option_id": 4, "text": "पश्चिमेकडून पूर्वेकडे", "is_correct": false }
+      ],
+      "answer": "विषुववृत्ताकडून ध्रुवांकडे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शीत सागरी प्रवाह कोणत्या दिशेने वाहतात?",
+      "options": [
+        { "option_id": 1, "text": "विषुववृत्ताकडून ध्रुवांकडे", "is_correct": false },
+        { "option_id": 2, "text": "ध्रुवांकडून विषुववृत्ताकडे", "is_correct": true },
+        { "option_id": 3, "text": "उत्तर ते दक्षिण", "is_correct": false },
+        { "option_id": 4, "text": "पूर्व ते पश्चिम", "is_correct": false }
+      ],
+      "answer": "ध्रुवांकडून विषुववृत्ताकडे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांना गती देणारा मुख्य घटक कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "मान्सून", "is_correct": false },
+        { "option_id": 2, "text": "ग्रहीय वारे", "is_correct": true },
+        { "option_id": 3, "text": "भूकंप", "is_correct": false },
+        { "option_id": 4, "text": "ज्वालामुखी", "is_correct": false }
+      ],
+      "answer": "ग्रहीय वारे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "लॅब्राडोर प्रवाह कोणत्या महासागरात आहे?",
+      "options": [
+        { "option_id": 1, "text": "पॅसिफिक", "is_correct": false },
+        { "option_id": 2, "text": "उत्तर अटलांटिक", "is_correct": true },
+        { "option_id": 3, "text": "हिंदी", "is_correct": false },
+        { "option_id": 4, "text": "दक्षिण अटलांटिक", "is_correct": false }
+      ],
+      "answer": "उत्तर अटलांटिक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सोमाली प्रवाह कोणत्या महासागरात आढळतो?",
+      "options": [
+        { "option_id": 1, "text": "अटलांटिक", "is_correct": false },
+        { "option_id": 2, "text": "पॅसिफिक", "is_correct": false },
+        { "option_id": 3, "text": "हिंदी", "is_correct": true },
+        { "option_id": 4, "text": "आर्क्टिक", "is_correct": false }
+      ],
+      "answer": "हिंदी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "हिंदी महासागरातील प्रवाह दिशा का बदलतात?",
+      "options": [
+        { "option_id": 1, "text": "भूकंपामुळे", "is_correct": false },
+        { "option_id": 2, "text": "मान्सून वाऱ्यांमुळे", "is_correct": true },
+        { "option_id": 3, "text": "ज्वालामुखीमुळे", "is_correct": false },
+        { "option_id": 4, "text": "चंद्राकर्षणामुळे", "is_correct": false }
+      ],
+      "answer": "मान्सून वाऱ्यांमुळे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "उत्तर गोलार्धात सागरी प्रवाह कोणत्या दिशेने फिरतात?",
+      "options": [
+        { "option_id": 1, "text": "घड्याळाच्या काट्यांच्या दिशेने", "is_correct": true },
+        { "option_id": 2, "text": "घड्याळाच्या काट्यांच्या विरुद्ध", "is_correct": false },
+        { "option_id": 3, "text": "उत्तर ते दक्षिण", "is_correct": false },
+        { "option_id": 4, "text": "पूर्व ते पश्चिम", "is_correct": false }
+      ],
+      "answer": "घड्याळाच्या काट्यांच्या दिशेने"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "उष्ण व शीत प्रवाह एकत्र आल्यास काय निर्माण होते?",
+      "options": [
+        { "option_id": 1, "text": "दव", "is_correct": false },
+        { "option_id": 2, "text": "हिम", "is_correct": false },
+        { "option_id": 3, "text": "दाट धुके", "is_correct": true },
+        { "option_id": 4, "text": "पर्जन्य", "is_correct": false }
+      ],
+      "answer": "दाट धुके"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ग्रँड बँक प्रसिद्ध आहे कारण—",
+      "options": [
+        { "option_id": 1, "text": "तेथे वाळवंट आहे", "is_correct": false },
+        { "option_id": 2, "text": "तेथे मोठी मत्स्यक्षेत्रे आहेत", "is_correct": true },
+        { "option_id": 3, "text": "तेथे हिमवृष्टी होते", "is_correct": false },
+        { "option_id": 4, "text": "तेथे बंदरे गोठतात", "is_correct": false }
+      ],
+      "answer": "तेथे मोठी मत्स्यक्षेत्रे आहेत"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "शीत सागरी प्रवाहांमुळे कोणती परिस्थिती निर्माण होते?",
+      "options": [
+        { "option_id": 1, "text": "जास्त पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "उबदार हवामान", "is_correct": false },
+        { "option_id": 3, "text": "ओसाड वाळवंटे", "is_correct": true },
+        { "option_id": 4, "text": "पूर", "is_correct": false }
+      ],
+      "answer": "ओसाड वाळवंटे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "उष्ण सागरी प्रवाहांचा किनारी हवामानावर काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "हवामान थंड होते", "is_correct": false },
+        { "option_id": 2, "text": "हवामान उबदार होते", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस कमी होतो", "is_correct": false },
+        { "option_id": 4, "text": "वाळवंट तयार होते", "is_correct": false }
+      ],
+      "answer": "हवामान उबदार होते"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "शीत सागरी प्रवाहांचा किनारी प्रदेशावर काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "उष्णता वाढते", "is_correct": false },
+        { "option_id": 2, "text": "थंड व कोरडे हवामान निर्माण होते", "is_correct": true },
+        { "option_id": 3, "text": "जास्त पर्जन्य होतो", "is_correct": false },
+        { "option_id": 4, "text": "पूर येतो", "is_correct": false }
+      ],
+      "answer": "थंड व कोरडे हवामान निर्माण होते"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "गल्फ प्रवाह कोणत्या महासागरात आहे?",
+      "options": [
+        { "option_id": 1, "text": "पॅसिफिक महासागर", "is_correct": false },
+        { "option_id": 2, "text": "हिंदी महासागर", "is_correct": false },
+        { "option_id": 3, "text": "उत्तर अटलांटिक महासागर", "is_correct": true },
+        { "option_id": 4, "text": "दक्षिण अटलांटिक महासागर", "is_correct": false }
+      ],
+      "answer": "उत्तर अटलांटिक महासागर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "गल्फ प्रवाहाचा युरोपच्या हवामानावर काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "युरोप अतिशय थंड होतो", "is_correct": false },
+        { "option_id": 2, "text": "युरोपचे हवामान समशीतोष्ण राहते", "is_correct": true },
+        { "option_id": 3, "text": "जास्त हिमवृष्टी होते", "is_correct": false },
+        { "option_id": 4, "text": "वाळवंट तयार होते", "is_correct": false }
+      ],
+      "answer": "युरोपचे हवामान समशीतोष्ण राहते"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "बेंग्वेला प्रवाह कोणत्या प्रकारचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "उष्ण प्रवाह", "is_correct": false },
+        { "option_id": 2, "text": "शीत प्रवाह", "is_correct": true },
+        { "option_id": 3, "text": "मान्सून प्रवाह", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर प्रवाह", "is_correct": false }
+      ],
+      "answer": "शीत प्रवाह"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "बेंग्वेला प्रवाहामुळे कोणते वाळवंट निर्माण झाले आहे?",
+      "options": [
+        { "option_id": 1, "text": "सहारा", "is_correct": false },
+        { "option_id": 2, "text": "कालाहारी", "is_correct": false },
+        { "option_id": 3, "text": "नामिब", "is_correct": true },
+        { "option_id": 4, "text": "गोबी", "is_correct": false }
+      ],
+      "answer": "नामिब"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "हंबोल्ट (पेरू) प्रवाह कोणत्या महासागरात आहे?",
+      "options": [
+        { "option_id": 1, "text": "अटलांटिक", "is_correct": false },
+        { "option_id": 2, "text": "हिंदी", "is_correct": false },
+        { "option_id": 3, "text": "पॅसिफिक", "is_correct": true },
+        { "option_id": 4, "text": "आर्क्टिक", "is_correct": false }
+      ],
+      "answer": "पॅसिफिक"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "हंबोल्ट प्रवाहाचा दक्षिण अमेरिकेवर काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "जास्त पाऊस पडतो", "is_correct": false },
+        { "option_id": 2, "text": "किनारी प्रदेश कोरडा राहतो", "is_correct": true },
+        { "option_id": 3, "text": "हवामान उष्ण होते", "is_correct": false },
+        { "option_id": 4, "text": "पूर येतो", "is_correct": false }
+      ],
+      "answer": "किनारी प्रदेश कोरडा राहतो"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "जपान जवळील क्युरोशियो प्रवाह कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "शीत प्रवाह", "is_correct": false },
+        { "option_id": 2, "text": "उष्ण प्रवाह", "is_correct": true },
+        { "option_id": 3, "text": "स्थिर प्रवाह", "is_correct": false },
+        { "option_id": 4, "text": "मान्सून प्रवाह", "is_correct": false }
+      ],
+      "answer": "उष्ण प्रवाह"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "क्युरोशियो व ओयाशियो प्रवाह एकत्र आल्याने काय निर्माण होते?",
+      "options": [
+        { "option_id": 1, "text": "वाळवंट", "is_correct": false },
+        { "option_id": 2, "text": "मत्स्यक्षेत्र", "is_correct": true },
+        { "option_id": 3, "text": "पूर", "is_correct": false },
+        { "option_id": 4, "text": "हिमनद्या", "is_correct": false }
+      ],
+      "answer": "मत्स्यक्षेत्र"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांचा मासेमारीवर काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "मासे नष्ट होतात", "is_correct": false },
+        { "option_id": 2, "text": "मत्स्य उत्पादन वाढते", "is_correct": true },
+        { "option_id": 3, "text": "समुद्र कोरडा होतो", "is_correct": false },
+        { "option_id": 4, "text": "वादळे निर्माण होतात", "is_correct": false }
+      ],
+      "answer": "मत्स्य उत्पादन वाढते"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांचा हवामानावर काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त तापमान बदलते", "is_correct": false },
+        { "option_id": 2, "text": "हवामान स्थिर राहते", "is_correct": false },
+        { "option_id": 3, "text": "तापमान व पर्जन्य बदलतो", "is_correct": true },
+        { "option_id": 4, "text": "फक्त वारा बदलतो", "is_correct": false }
+      ],
+      "answer": "तापमान व पर्जन्य बदलतो"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "शीत प्रवाहामुळे कोणती आपत्ती निर्माण होऊ शकते?",
+      "options": [
+        { "option_id": 1, "text": "दाट धुके", "is_correct": true },
+        { "option_id": 2, "text": "चक्रीवादळ", "is_correct": false },
+        { "option_id": 3, "text": "भूकंप", "is_correct": false },
+        { "option_id": 4, "text": "ज्वालामुखी", "is_correct": false }
+      ],
+      "answer": "दाट धुके"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाह वारे बदलल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "प्रवाहांची दिशा बदलते", "is_correct": true },
+        { "option_id": 2, "text": "समुद्र कोरडा होतो", "is_correct": false },
+        { "option_id": 3, "text": "लाटा थांबतात", "is_correct": false },
+        { "option_id": 4, "text": "पृथ्वी थांबते", "is_correct": false }
+      ],
+      "answer": "प्रवाहांची दिशा बदलते"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांचा व्यापारावर काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "जहाज वाहतूक सोपी होते", "is_correct": true },
+        { "option_id": 2, "text": "जहाजे थांबतात", "is_correct": false },
+        { "option_id": 3, "text": "समुद्र मार्ग बंद होतात", "is_correct": false },
+        { "option_id": 4, "text": "बंदरे नष्ट होतात", "is_correct": false }
+      ],
+      "answer": "जहाज वाहतूक सोपी होते"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांचा सर्वात मोठा फायदा कोणाला होतो?",
+      "options": [
+        { "option_id": 1, "text": "शेतकऱ्यांना", "is_correct": false },
+        { "option_id": 2, "text": "मच्छीमारांना", "is_correct": true },
+        { "option_id": 3, "text": "खनिज उद्योगांना", "is_correct": false },
+        { "option_id": 4, "text": "जंगलांना", "is_correct": false }
+      ],
+      "answer": "मच्छीमारांना"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाह पृथ्वीच्या कोणत्या प्रक्रियेशी संबंधित आहेत?",
+      "options": [
+        { "option_id": 1, "text": "जलचक्र", "is_correct": true },
+        { "option_id": 2, "text": "शिलाचक्र", "is_correct": false },
+        { "option_id": 3, "text": "कार्बन चक्र", "is_correct": false },
+        { "option_id": 4, "text": "नायट्रोजन चक्र", "is_correct": false }
+      ],
+      "answer": "जलचक्र"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाह नकाशावर कसे दर्शविले जातात?",
+      "options": [
+        { "option_id": 1, "text": "रेषांनी व बाणांनी", "is_correct": true },
+        { "option_id": 2, "text": "बिंदूंनी", "is_correct": false },
+        { "option_id": 3, "text": "वर्तुळांनी", "is_correct": false },
+        { "option_id": 4, "text": "छायाचित्रांनी", "is_correct": false }
+      ],
+      "answer": "रेषांनी व बाणांनी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाह अभ्यासाचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "हवामान अंदाजासाठी", "is_correct": true },
+        { "option_id": 2, "text": "भूकंप अंदाजासाठी", "is_correct": false },
+        { "option_id": 3, "text": "ज्वालामुखी अभ्यासासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खनिज शोधासाठी", "is_correct": false }
+      ],
+      "answer": "हवामान अंदाजासाठी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांमुळे कोणता उद्योग विकसित झाला?",
+      "options": [
+        { "option_id": 1, "text": "लोखंड उद्योग", "is_correct": false },
+        { "option_id": 2, "text": "मत्स्य उद्योग", "is_correct": true },
+        { "option_id": 3, "text": "कापूस उद्योग", "is_correct": false },
+        { "option_id": 4, "text": "तेल उद्योग", "is_correct": false }
+      ],
+      "answer": "मत्स्य उद्योग"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांमुळे पर्जन्यावर काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "पर्जन्य वितरण बदलते", "is_correct": true },
+        { "option_id": 2, "text": "पर्जन्य थांबतो", "is_correct": false },
+        { "option_id": 3, "text": "नेहमी पाऊस पडतो", "is_correct": false },
+        { "option_id": 4, "text": "हिमवृष्टी होते", "is_correct": false }
+      ],
+      "answer": "पर्जन्य वितरण बदलते"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांमुळे कोणत्या ठिकाणी वाळवंटे तयार झाली आहेत?",
+      "options": [
+        { "option_id": 1, "text": "पूर्व किनाऱ्यावर", "is_correct": false },
+        { "option_id": 2, "text": "पश्चिम किनाऱ्यावर", "is_correct": true },
+        { "option_id": 3, "text": "उत्तरी भागात", "is_correct": false },
+        { "option_id": 4, "text": "आंतरिक भागात", "is_correct": false }
+      ],
+      "answer": "पश्चिम किनाऱ्यावर"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांमुळे कोणती नैसर्गिक संसाधने उपलब्ध होतात?",
+      "options": [
+        { "option_id": 1, "text": "खनिजे", "is_correct": false },
+        { "option_id": 2, "text": "मासे", "is_correct": true },
+        { "option_id": 3, "text": "कोळसा", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "मासे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांचा परिणाम सर्वाधिक कशावर होतो?",
+      "options": [
+        { "option_id": 1, "text": "हवामानावर", "is_correct": true },
+        { "option_id": 2, "text": "भूकंपावर", "is_correct": false },
+        { "option_id": 3, "text": "ज्वालामुखीवर", "is_correct": false },
+        { "option_id": 4, "text": "भूआकारांवर", "is_correct": false }
+      ],
+      "answer": "हवामानावर"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाह अभ्यास कोणत्या शाखेत येतो?",
+      "options": [
+        { "option_id": 1, "text": "भूशास्त्र", "is_correct": false },
+        { "option_id": 2, "text": "समुद्रशास्त्र", "is_correct": true },
+        { "option_id": 3, "text": "खगोलशास्त्र", "is_correct": false },
+        { "option_id": 4, "text": "वनशास्त्र", "is_correct": false }
+      ],
+      "answer": "समुद्रशास्त्र"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाह व मान्सून यांचा काय संबंध आहे?",
+      "options": [
+        { "option_id": 1, "text": "काही संबंध नाही", "is_correct": false },
+        { "option_id": 2, "text": "मान्सून वारे प्रवाहांची दिशा बदलतात", "is_correct": true },
+        { "option_id": 3, "text": "प्रवाह मान्सून थांबवतात", "is_correct": false },
+        { "option_id": 4, "text": "प्रवाह मान्सून निर्माण करतात", "is_correct": false }
+      ],
+      "answer": "मान्सून वारे प्रवाहांची दिशा बदलतात"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "भारतीय किनाऱ्यावर कोणता प्रवाह ऋतुनुसार दिशा बदलतो?",
+      "options": [
+        { "option_id": 1, "text": "कॅनरी प्रवाह", "is_correct": false },
+        { "option_id": 2, "text": "सोमाली प्रवाह", "is_correct": true },
+        { "option_id": 3, "text": "गल्फ प्रवाह", "is_correct": false },
+        { "option_id": 4, "text": "बेंग्वेला प्रवाह", "is_correct": false }
+      ],
+      "answer": "सोमाली प्रवाह"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांमुळे कोणते बंदर वर्षभर गोठत नाही?",
+      "options": [
+        { "option_id": 1, "text": "मुरमान्स्क", "is_correct": true },
+        { "option_id": 2, "text": "व्लादिवोस्तोक", "is_correct": false },
+        { "option_id": 3, "text": "हॅम्बर्ग", "is_correct": false },
+        { "option_id": 4, "text": "कोलकाता", "is_correct": false }
+      ],
+      "answer": "मुरमान्स्क"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मुरमान्स्क बंदर वर्षभर खुले राहण्याचे कारण कोणता प्रवाह आहे?",
+      "options": [
+        { "option_id": 1, "text": "कॅनरी प्रवाह", "is_correct": false },
+        { "option_id": 2, "text": "गल्फ प्रवाह", "is_correct": true },
+        { "option_id": 3, "text": "बेंग्वेला प्रवाह", "is_correct": false },
+        { "option_id": 4, "text": "हंबोल्ट प्रवाह", "is_correct": false }
+      ],
+      "answer": "गल्फ प्रवाह"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाह अभ्यासाचा शालेय विद्यार्थ्यांसाठी काय उपयोग आहे?",
+      "options": [
+        { "option_id": 1, "text": "नकाशे काढण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "हवामान समजण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त परीक्षा पास होण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "व्यवसायासाठी", "is_correct": false }
+      ],
+      "answer": "हवामान समजण्यासाठी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांचा मानवी जीवनावर कसा परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "हवामान बदलते", "is_correct": false },
+        { "option_id": 2, "text": "शेती व मासेमारीवर परिणाम होतो", "is_correct": true },
+        { "option_id": 3, "text": "भूकंप वाढतात", "is_correct": false },
+        { "option_id": 4, "text": "जंगल नष्ट होतात", "is_correct": false }
+      ],
+      "answer": "शेती व मासेमारीवर परिणाम होतो"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांमुळे जागतिक उष्णता वितरण कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "असमतोल", "is_correct": false },
+        { "option_id": 2, "text": "समतोल", "is_correct": true },
+        { "option_id": 3, "text": "फक्त ध्रुवांवर", "is_correct": false },
+        { "option_id": 4, "text": "फक्त विषुववृत्तावर", "is_correct": false }
+      ],
+      "answer": "समतोल"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांमुळे कोणती जागतिक समस्या प्रभावित होते?",
+      "options": [
+        { "option_id": 1, "text": "हवामान बदल", "is_correct": true },
+        { "option_id": 2, "text": "भूकंप", "is_correct": false },
+        { "option_id": 3, "text": "ज्वालामुखी", "is_correct": false },
+        { "option_id": 4, "text": "मृदाक्षय", "is_correct": false }
+      ],
+      "answer": "हवामान बदल"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "सागरी प्रवाहांशिवाय पृथ्वीवर काय होईल?",
+      "options": [
+        { "option_id": 1, "text": "हवामान संतुलित राहील", "is_correct": false },
+        { "option_id": 2, "text": "हवामान अत्यंत विषम होईल", "is_correct": true },
+        { "option_id": 3, "text": "पृथ्वी थांबेल", "is_correct": false },
+        { "option_id": 4, "text": "समुद्र नाहीसे होतील", "is_correct": false }
+      ],
+      "answer": "हवामान अत्यंत विषम होईल"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "‘सागरी प्रवाह’ हा धडा मुख्यतः कशाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "हवामान व महासागर", "is_correct": true },
+        { "option_id": 2, "text": "भूकंप", "is_correct": false },
+        { "option_id": 3, "text": "मृदा", "is_correct": false },
+        { "option_id": 4, "text": "वनस्पती", "is_correct": false }
+      ],
+      "answer": "हवामान व महासागर"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह म्हणजे काय?",
+      "answer": "समुद्रातील पाण्याची विशिष्ट दिशेने सतत होणारी हालचाल म्हणजे सागरी प्रवाह होय. हे प्रवाह तापमान, क्षारता व वाऱ्यांमुळे निर्माण होतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह कसे तयार होतात?",
+      "answer": "पृथ्वीच्या घूर्णनामुळे, तापमानातील फरकामुळे आणि ग्रहीय वाऱ्यांमुळे सागरी प्रवाह तयार होतात. पाण्याच्या घनतेतील फरकही कारणीभूत असतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पृष्ठीय सागरी प्रवाह म्हणजे काय?",
+      "answer": "समुद्राच्या वरच्या थरात वाहणाऱ्या प्रवाहांना पृष्ठीय सागरी प्रवाह म्हणतात. हे साधारणपणे 500 मीटर खोलीपर्यंत आढळतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "गर्भीय सागरी प्रवाह म्हणजे काय?",
+      "answer": "समुद्राच्या खोल भागात वाहणाऱ्या प्रवाहांना गर्भीय सागरी प्रवाह म्हणतात. हे घनता व तापमानातील फरकामुळे निर्माण होतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "उष्ण सागरी प्रवाह म्हणजे काय?",
+      "answer": "विषुववृत्ताकडून ध्रुवांकडे वाहणाऱ्या उष्ण पाण्याच्या प्रवाहांना उष्ण सागरी प्रवाह म्हणतात. हे किनारी भाग उबदार करतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शीत सागरी प्रवाह म्हणजे काय?",
+      "answer": "ध्रुवीय भागातून विषुववृत्ताकडे वाहणाऱ्या थंड पाण्याच्या प्रवाहांना शीत सागरी प्रवाह म्हणतात. हे किनारी प्रदेश थंड व कोरडे करतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा हवामानावर काय परिणाम होतो?",
+      "answer": "सागरी प्रवाह तापमान व पर्जन्य वितरणावर परिणाम करतात. काही भागात उबदार हवामान तर काही भागात कोरडे हवामान निर्माण होते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "गल्फ प्रवाहाचे महत्त्व स्पष्ट करा.",
+      "answer": "गल्फ प्रवाहामुळे युरोपचे हवामान सौम्य राहते. उच्च अक्षांशातही बंदरे गोठत नाहीत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "बेंग्वेला प्रवाहाचा आफ्रिकेवर काय परिणाम होतो?",
+      "answer": "बेंग्वेला हा शीत प्रवाह असल्यामुळे आफ्रिकेच्या पश्चिम किनाऱ्यावर कोरडे हवामान निर्माण होते. नामिब वाळवंट तयार झाले आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "हंबोल्ट प्रवाहाचे वैशिष्ट्य काय?",
+      "answer": "हंबोल्ट हा शीत प्रवाह असून दक्षिण अमेरिकेच्या पश्चिम किनाऱ्यावर वाहतो. यामुळे तेथील प्रदेश कोरडा राहतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "क्युरोशियो प्रवाहाचे महत्त्व काय आहे?",
+      "answer": "क्युरोशियो हा उष्ण प्रवाह असून जपानजवळ वाहतो. तो जपानचे हवामान उबदार ठेवतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "ओयाशियो प्रवाह कसा आहे?",
+      "answer": "ओयाशियो हा शीत प्रवाह आहे. तो क्युरोशियो प्रवाहास भेटतो आणि मोठी मत्स्यक्षेत्रे निर्माण करतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह व मत्स्य व्यवसाय यांचा संबंध स्पष्ट करा.",
+      "answer": "उष्ण व शीत प्रवाह एकत्र आल्यावर प्लवकांची वाढ होते. त्यामुळे मत्स्य उत्पादन वाढते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "ग्रँड बँक का प्रसिद्ध आहे?",
+      "answer": "ग्रँड बँक येथे उष्ण व शीत प्रवाह भेटतात. त्यामुळे हे जगातील महत्त्वाचे मत्स्यक्षेत्र आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा पर्जन्यावर काय परिणाम होतो?",
+      "answer": "उष्ण प्रवाह पर्जन्य वाढवतात तर शीत प्रवाह पर्जन्य कमी करतात. त्यामुळे पर्जन्य वितरण बदलते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांमुळे वाळवंटे कशी तयार होतात?",
+      "answer": "शीत प्रवाहांमुळे हवा कोरडी होते. त्यामुळे पश्चिम किनाऱ्यांवर वाळवंटे तयार होतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "मान्सून व सागरी प्रवाह यांचा संबंध स्पष्ट करा.",
+      "answer": "मान्सून वारे सागरी प्रवाहांची दिशा बदलतात. त्यामुळे हिंदी महासागरातील प्रवाह ऋतुनुसार बदलतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "सोमाली प्रवाहाचे वैशिष्ट्य काय आहे?",
+      "answer": "सोमाली प्रवाह हिंदी महासागरात असून तो मान्सूननुसार दिशा बदलतो. तो ऋतुगत प्रवाह आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा जहाज वाहतुकीवर काय परिणाम होतो?",
+      "answer": "प्रवाहांमुळे जहाजांचा वेग वाढतो किंवा कमी होतो. योग्य प्रवाहांचा उपयोग केल्यास वेळ व इंधन वाचते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचे नकाशावर महत्त्व काय आहे?",
+      "answer": "प्रवाह नकाशावर दर्शवल्याने हवामान व व्यापार समजतो. महासागरातील हालचालींची माहिती मिळते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "उत्तर गोलार्धातील सागरी प्रवाहांची दिशा कशी असते?",
+      "answer": "उत्तर गोलार्धात सागरी प्रवाह घड्याळाच्या काट्यांच्या दिशेने फिरतात. हे कोरिऑलिस प्रभावामुळे होते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "दक्षिण गोलार्धातील सागरी प्रवाहांची दिशा कशी असते?",
+      "answer": "दक्षिण गोलार्धात सागरी प्रवाह घड्याळाच्या काट्यांच्या विरुद्ध दिशेने फिरतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह व धुके यांचा संबंध काय?",
+      "answer": "उष्ण व शीत प्रवाह भेटल्यावर तापमान फरकामुळे दाट धुके तयार होते. हे वाहतुकीस धोकादायक ठरते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "मुरमान्स्क बंदर वर्षभर खुले का राहते?",
+      "answer": "गल्फ प्रवाहामुळे तेथे तापमान जास्त राहते. त्यामुळे बंदर गोठत नाही."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा जागतिक उष्णता वितरणावर काय परिणाम होतो?",
+      "answer": "सागरी प्रवाह उष्णता विषुववृत्तातून ध्रुवांकडे नेतात. त्यामुळे पृथ्वीवरील तापमान संतुलित राहते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा पर्यावरणावर काय परिणाम होतो?",
+      "answer": "प्रवाहांमुळे हवामान, पर्जन्य व जैवविविधता प्रभावित होते. काही भाग सुपीक तर काही कोरडे बनतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह व जलचक्र यांचा संबंध स्पष्ट करा.",
+      "answer": "सागरी प्रवाह उष्णता व बाष्प वाहून नेतात. त्यामुळे जलचक्र सुरळीत चालते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा हवामान अंदाजात उपयोग कसा होतो?",
+      "answer": "प्रवाहांची दिशा व प्रकार समजल्याने पर्जन्य व तापमानाचा अंदाज बांधता येतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह अभ्यास का आवश्यक आहे?",
+      "answer": "हवामान बदल, मत्स्य व्यवसाय व व्यापार समजण्यासाठी सागरी प्रवाहांचा अभ्यास आवश्यक आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांशिवाय पृथ्वीवर काय परिणाम होईल?",
+      "answer": "उष्णता वितरण बिघडेल. हवामान अत्यंत विषम होईल आणि जीवन धोक्यात येईल."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा किनारी प्रदेशाच्या हवामानावर कसा परिणाम होतो?",
+      "answer": "सागरी प्रवाह किनारी भागाचे तापमान नियंत्रित करतात. उष्ण प्रवाह हवामान सौम्य करतात तर शीत प्रवाह हवामान थंड व कोरडे करतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "शीत सागरी प्रवाहांमुळे पर्जन्य का कमी होतो?",
+      "answer": "शीत प्रवाहांमुळे हवा थंड व कोरडी होते. त्यामुळे बाष्पीभवन कमी होते आणि पर्जन्याची शक्यता घटते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "उष्ण सागरी प्रवाह पर्जन्य कसा वाढवतात?",
+      "answer": "उष्ण प्रवाहांमुळे बाष्पीभवन जास्त होते. त्यामुळे ढगनिर्मिती वाढून पर्जन्य होण्याची शक्यता वाढते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह व वाळवंट निर्मिती यांचा संबंध स्पष्ट करा.",
+      "answer": "पश्चिम किनाऱ्यांवर वाहणारे शीत सागरी प्रवाह हवा कोरडी करतात. त्यामुळे त्या भागात वाळवंटे निर्माण होतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा मत्स्य उत्पादनावर काय परिणाम होतो?",
+      "answer": "उष्ण व शीत प्रवाह एकत्र आल्याने प्लवकांची वाढ होते. त्यामुळे मोठ्या प्रमाणात मासे उपलब्ध होतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "ग्रँड बँक हे मत्स्यक्षेत्र कसे तयार झाले?",
+      "answer": "गल्फ व लॅब्राडोर प्रवाह एकत्र आल्यामुळे येथे पोषक घटक वाढतात. त्यामुळे ग्रँड बँक मत्स्यक्षेत्र तयार झाले."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा जहाजवाहतुकीस कसा उपयोग होतो?",
+      "answer": "जहाजे अनुकूल प्रवाहांचा वापर करून जलद प्रवास करतात. यामुळे वेळ व इंधनाची बचत होते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा व्यापारावर काय परिणाम होतो?",
+      "answer": "प्रवाहांमुळे सागरी मार्ग सुलभ होतात. त्यामुळे आंतरराष्ट्रीय व्यापाराला चालना मिळते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा मानवी वसाहतींवर कसा परिणाम होतो?",
+      "answer": "सौम्य हवामान असलेल्या भागात मानवी वसाहती वाढतात. प्रतिकूल हवामान असलेल्या भागात वसाहती कमी असतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा हवामान बदलाशी काय संबंध आहे?",
+      "answer": "सागरी प्रवाह उष्णता वितरण नियंत्रित करतात. प्रवाहांमध्ये बदल झाल्यास हवामान बदल तीव्र होऊ शकतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा अभ्यास समुद्रशास्त्रात का महत्त्वाचा आहे?",
+      "answer": "समुद्रातील हालचाली, हवामान व जैवविविधता समजण्यासाठी सागरी प्रवाहांचा अभ्यास आवश्यक आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "पृष्ठीय व गर्भीय सागरी प्रवाहांत फरक काय आहे?",
+      "answer": "पृष्ठीय प्रवाह वरच्या थरात वाहतात तर गर्भीय प्रवाह खोल समुद्रात वाहतात. त्यांची कारणेही वेगळी असतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह व कोरिऑलिस बल यांचा संबंध स्पष्ट करा.",
+      "answer": "पृथ्वीच्या घूर्णनामुळे कोरिऑलिस बल निर्माण होते. त्यामुळे सागरी प्रवाहांची दिशा वळते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "उत्तर व दक्षिण गोलार्धातील सागरी प्रवाहांची दिशा वेगळी का असते?",
+      "answer": "पृथ्वीच्या घूर्णनामुळे कोरिऑलिस बलाची दिशा बदलते. त्यामुळे प्रवाहांच्या फिरण्याची दिशा वेगळी असते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा पर्जन्य वितरणावर कसा परिणाम होतो?",
+      "answer": "उष्ण प्रवाह पर्जन्य वाढवतात तर शीत प्रवाह पर्जन्य कमी करतात. त्यामुळे जागतिक पर्जन्य वितरण बदलते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह व धुके यांचा संबंध स्पष्ट करा.",
+      "answer": "उष्ण व शीत प्रवाह एकत्र आल्यावर तापमान फरकामुळे दाट धुके तयार होते. हे जहाजवाहतुकीस धोकादायक ठरते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "मुरमान्स्क बंदर वर्षभर खुले राहण्याचे कारण काय?",
+      "answer": "गल्फ प्रवाहामुळे तेथे तापमान तुलनेने जास्त राहते. त्यामुळे बंदर गोठत नाही."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा पर्यावरणावर काय परिणाम होतो?",
+      "answer": "प्रवाह हवामान, पर्जन्य व सागरी जीवसृष्टीवर परिणाम करतात. काही भाग जैवविविध बनतात तर काही कोरडे होतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा जलचक्रावर कसा परिणाम होतो?",
+      "answer": "प्रवाह उष्णता व बाष्प वाहून नेतात. त्यामुळे जलचक्र सतत चालू राहते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांशिवाय पृथ्वीवरील हवामान कसे होईल?",
+      "answer": "उष्णता वितरण बिघडेल. हवामान अत्यंत विषम होऊन जीवन अवघड होईल."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा अभ्यास विद्यार्थ्यांसाठी का आवश्यक आहे?",
+      "answer": "हवामान, महासागर व मानवी जीवन यांचा संबंध समजतो. भौगोलिक ज्ञान वाढते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह व जागतिक तापमान यांचा संबंध स्पष्ट करा.",
+      "answer": "सागरी प्रवाह उष्णता एका भागातून दुसऱ्या भागात नेतात. त्यामुळे जागतिक तापमान संतुलित राहते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा परिणाम किनारी शेतीवर कसा होतो?",
+      "answer": "प्रवाहांमुळे पर्जन्य व तापमान बदलते. त्यामुळे शेती उत्पादनावर परिणाम होतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा परिणाम पर्यटनावर कसा होतो?",
+      "answer": "सौम्य हवामान असलेल्या किनाऱ्यांवर पर्यटन वाढते. प्रतिकूल हवामान पर्यटनास अडथळा ठरते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा उपयोग हवामान अंदाजासाठी कसा होतो?",
+      "answer": "प्रवाहांच्या अभ्यासातून तापमान व पर्जन्याचा अंदाज घेता येतो. त्यामुळे हवामान अंदाज अचूक होतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा मानवी जीवनावर कसा परिणाम होतो?",
+      "answer": "सागरी प्रवाह हवामान नियंत्रित करतात. शेती, मासेमारी व व्यापार यावर त्यांचा मोठा प्रभाव पडतो. त्यामुळे मानवी जीवन सुलभ किंवा कठीण बनते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा किनारी वसाहतींवर काय परिणाम होतो?",
+      "answer": "उष्ण प्रवाह असलेल्या भागात सौम्य हवामान असल्यामुळे वसाहती वाढतात. शीत प्रवाह असलेल्या भागात हवामान प्रतिकूल राहते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा पर्जन्य वितरणावर कसा प्रभाव पडतो?",
+      "answer": "उष्ण प्रवाह बाष्पीभवन वाढवून पर्जन्य वाढवतात. शीत प्रवाह बाष्पीभवन कमी करून पर्जन्य घटवतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा हवामान बदलाशी काय संबंध आहे?",
+      "answer": "सागरी प्रवाह उष्णता वितरण संतुलित ठेवतात. प्रवाहांमध्ये बदल झाल्यास हवामान बदल अधिक तीव्र होऊ शकतो."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा पर्यावरणावर काय परिणाम होतो?",
+      "answer": "प्रवाहांमुळे सागरी जीवसृष्टी समृद्ध होते. काही भाग हिरवेगार तर काही भाग कोरडे बनतात."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा अभ्यास का आवश्यक आहे?",
+      "answer": "हवामान, महासागर व मानवी जीवन समजण्यासाठी सागरी प्रवाहांचा अभ्यास आवश्यक आहे. यामुळे आपत्ती व्यवस्थापन सोपे होते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा जलचक्राशी काय संबंध आहे?",
+      "answer": "सागरी प्रवाह उष्णता व बाष्प वाहून नेतात. त्यामुळे जलचक्र सतत चालू राहते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा परिणाम जागतिक तापमानावर कसा होतो?",
+      "answer": "प्रवाह उष्णता विषुववृत्तातून ध्रुवांकडे नेतात. त्यामुळे पृथ्वीवरील तापमान संतुलित राहते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा शेतीवर कसा परिणाम होतो?",
+      "answer": "प्रवाहांमुळे पर्जन्य व तापमान बदलते. त्यामुळे किनारी शेतीवर सकारात्मक किंवा नकारात्मक परिणाम होतो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा पर्यटनावर काय परिणाम होतो?",
+      "answer": "सौम्य हवामानामुळे पर्यटन वाढते. प्रतिकूल हवामानामुळे पर्यटनावर मर्यादा येतात."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा जहाजवाहतुकीस कसा उपयोग होतो?",
+      "answer": "अनुकूल प्रवाहांमुळे जहाजांचा वेग वाढतो. वेळ व इंधनाची बचत होते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह व कोरिऑलिस बल यांचा संबंध स्पष्ट करा.",
+      "answer": "पृथ्वीच्या घूर्णनामुळे कोरिऑलिस बल निर्माण होते. त्यामुळे सागरी प्रवाहांची दिशा वळते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "उत्तर व दक्षिण गोलार्धातील सागरी प्रवाहांची दिशा वेगळी का असते?",
+      "answer": "कोरिऑलिस बलाची दिशा वेगळी असल्यामुळे प्रवाहांच्या फिरण्याची दिशा बदलते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा धुक्याशी काय संबंध आहे?",
+      "answer": "उष्ण व शीत प्रवाह एकत्र आल्यावर दाट धुके तयार होते. यामुळे जहाजवाहतूक धोकादायक होते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा मासेमारीवर कसा परिणाम होतो?",
+      "answer": "प्रवाहांमुळे पोषक घटक वाढतात. त्यामुळे मोठ्या प्रमाणात मासे उपलब्ध होतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा व्यापारावर काय परिणाम होतो?",
+      "answer": "सागरी मार्ग सुलभ होतात. आंतरराष्ट्रीय व्यापाराला चालना मिळते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा बंदरांवर काय परिणाम होतो?",
+      "answer": "उष्ण प्रवाहामुळे काही बंदरे वर्षभर खुली राहतात. शीत प्रवाहामुळे काही बंदरे गोठतात."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा अभ्यास हवामान अंदाजासाठी कसा उपयुक्त आहे?",
+      "answer": "प्रवाहांच्या दिशेवरून तापमान व पर्जन्याचा अंदाज लावता येतो. त्यामुळे हवामान अंदाज अचूक होतो."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा जैवविविधतेवर काय परिणाम होतो?",
+      "answer": "प्रवाहांमुळे सागरी जीवसृष्टी समृद्ध होते. काही भाग जैवविविधतेने भरलेले असतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा पर्यावरण संतुलनावर कसा परिणाम होतो?",
+      "answer": "प्रवाह उष्णता व पोषक घटक वितरित करतात. त्यामुळे पर्यावरण संतुलन राखले जाते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा परिणाम किनारी उद्योगांवर कसा होतो?",
+      "answer": "मत्स्य व पर्यटन उद्योगांवर सागरी प्रवाहांचा मोठा प्रभाव पडतो. काही उद्योगांना चालना मिळते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा परिणाम हवामान क्षेत्रांवर कसा होतो?",
+      "answer": "प्रवाहांमुळे उष्ण, समशीतोष्ण व थंड हवामान क्षेत्रे ठरतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा अभ्यास विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+      "answer": "हवामान व महासागर यांचा संबंध समजतो. भौगोलिक दृष्टिकोन विकसित होतो."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा उपयोग आपत्ती व्यवस्थापनात कसा होतो?",
+      "answer": "चक्रीवादळे व हवामान बदलांचा अंदाज घेता येतो. त्यामुळे नुकसान कमी करता येते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा परिणाम पाण्याच्या तापमानावर कसा होतो?",
+      "answer": "उष्ण प्रवाह तापमान वाढवतात तर शीत प्रवाह तापमान कमी करतात."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा दीर्घकालीन परिणाम काय होतो?",
+      "answer": "दीर्घकाळात हवामान पद्धती बदलतात. काही प्रदेश कायमचे कोरडे किंवा ओलसर होतात."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा अभ्यास का वाढत आहे?",
+      "answer": "हवामान बदलाचा अभ्यास करण्यासाठी सागरी प्रवाहांचे महत्त्व वाढले आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा मानवाच्या उपजीविकेवर काय परिणाम होतो?",
+      "answer": "मासेमारी, व्यापार व पर्यटन या उपजीविकांवर सागरी प्रवाहांचा प्रभाव असतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा नकाशे व अभ्यासात काय उपयोग आहे?",
+      "answer": "नकाशांवरून प्रवाहांची दिशा समजते. हवामान व व्यापार मार्ग स्पष्ट होतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा परिणाम समुद्रातील जीवनावर कसा होतो?",
+      "answer": "प्रवाह पोषक घटक वितरित करतात. त्यामुळे समुद्रातील जीवन समृद्ध होते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह व जागतिक उष्णता यांचा संबंध स्पष्ट करा.",
+      "answer": "प्रवाह उष्णता संतुलित ठेवतात. प्रवाह बिघडल्यास जागतिक उष्णता वाढू शकते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा परिणाम किनारी हवामानावर कसा होतो?",
+      "answer": "किनारी भागात तापमान सौम्य किंवा कोरडे होते. यामुळे स्थानिक हवामान ठरते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा अभ्यास भविष्यासाठी का आवश्यक आहे?",
+      "answer": "हवामान बदल व आपत्ती व्यवस्थापनासाठी सागरी प्रवाहांचा अभ्यास आवश्यक आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा परिणाम पृथ्वीच्या ऊर्जा संतुलनावर कसा होतो?",
+      "answer": "प्रवाह उष्णता वितरित करून ऊर्जा संतुलन राखतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा अभ्यास का शालेय अभ्यासक्रमात समाविष्ट आहे?",
+      "answer": "विद्यार्थ्यांना हवामान व महासागर यांचे महत्त्व समजावे म्हणून हा अभ्यास समाविष्ट आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा मानवी आरोग्यावर काय परिणाम होतो?",
+      "answer": "हवामान बदलल्यामुळे आरोग्यावर अप्रत्यक्ष परिणाम होतो. उष्णता व थंडी वाढू शकते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा परिणाम किनारी पर्जन्यावर कसा होतो?",
+      "answer": "उष्ण प्रवाह पर्जन्य वाढवतात. शीत प्रवाह पर्जन्य कमी करतात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा परिणाम बंदरांच्या विकासावर कसा होतो?",
+      "answer": "उष्ण प्रवाहामुळे बंदरे वर्षभर कार्यरत राहतात. त्यामुळे व्यापार वाढतो."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा अभ्यास पर्यावरण संरक्षणासाठी का महत्त्वाचा आहे?",
+      "answer": "पर्यावरणीय बदल समजून घेता येतात. संरक्षणासाठी योग्य उपाय करता येतात."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा परिणाम हवामान क्षेत्रांच्या सीमांवर कसा होतो?",
+      "answer": "प्रवाहांमुळे हवामान क्षेत्रांच्या सीमा बदलतात. काही भाग उष्ण किंवा थंड बनतात."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा अभ्यास का सतत केला जातो?",
+      "answer": "हवामान बदल सतत होत असल्यामुळे सागरी प्रवाहांचा अभ्यास आवश्यक आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा मानवी भविष्यावर काय परिणाम होऊ शकतो?",
+      "answer": "हवामान बदलामुळे उपजीविका व पर्यावरण प्रभावित होऊ शकते. त्यामुळे भविष्यासाठी प्रवाहांचा अभ्यास महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "‘सागरी प्रवाह’ या धड्याचा मुख्य निष्कर्ष लिहा.",
+      "answer": "सागरी प्रवाह पृथ्वीवरील हवामान, पर्यावरण व मानवी जीवनावर खोल परिणाम करतात."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाह या धड्याचा मुख्य आशय एका वाक्यात लिहा.",
+      "answer": "सागरी प्रवाह पृथ्वीवरील हवामान, पर्जन्य व मानवी जीवनावर कसा परिणाम करतात याचा अभ्यास या धड्यात केला आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "सागरी प्रवाहांचा मानवी जीवनावर एकूण परिणाम स्पष्ट करा.",
+      "answer": "सागरी प्रवाह हवामान, शेती, मासेमारी व व्यापारावर प्रभाव टाकतात. त्यामुळे मानवी जीवनावर त्यांचा मोठा परिणाम होतो."
+    }
+  ]
+}

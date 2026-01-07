@@ -1,0 +1,1214 @@
+{
+  "Chapter 9 ": "Energy Resources",
+  "lessons": [
+    "Introduction to Energy Resources",
+    "Substance-based Energy Resources",
+    "Process-based Energy Resources",
+    "Conventional and Non-conventional Energy",
+    "Distribution of Energy Resources in India",
+    "Environment-friendly Energy Resources"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which energy resource is used to obtain light from a lantern as shown in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Electricity", "is_correct": false },
+        { "option_id": 2, "text": "Solar energy", "is_correct": false },
+        { "option_id": 3, "text": "Mineral oil", "is_correct": true },
+        { "option_id": 4, "text": "Wind energy", "is_correct": false }
+      ],
+      "answer": "Mineral oil"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which energy resource is filled in a motorcar at a petrol pump?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Mineral oil", "is_correct": true },
+        { "option_id": 3, "text": "Biogas", "is_correct": false },
+        { "option_id": 4, "text": "Solar power", "is_correct": false }
+      ],
+      "answer": "Mineral oil"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which natural force helps both a pinwheel rotate and grain winnowing?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Heat", "is_correct": false },
+        { "option_id": 3, "text": "Wind", "is_correct": true },
+        { "option_id": 4, "text": "Electricity", "is_correct": false }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which energy resource is used for lighting lamps, running rickshaws and heating oil?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Natural gas", "is_correct": true },
+        { "option_id": 3, "text": "Wind energy", "is_correct": false },
+        { "option_id": 4, "text": "Solar energy", "is_correct": false }
+      ],
+      "answer": "Natural gas"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which energy resource can be used free of cost directly from nature?",
+      "options": [
+        { "option_id": 1, "text": "Petrol", "is_correct": false },
+        { "option_id": 2, "text": "Coal", "is_correct": false },
+        { "option_id": 3, "text": "Sunlight", "is_correct": true },
+        { "option_id": 4, "text": "Mineral oil", "is_correct": false }
+      ],
+      "answer": "Sunlight"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which category includes wood, coal, mineral oil and natural gas?",
+      "options": [
+        { "option_id": 1, "text": "Process-based energy resources", "is_correct": false },
+        { "option_id": 2, "text": "Substance-based energy resources", "is_correct": true },
+        { "option_id": 3, "text": "Non-conventional energy resources", "is_correct": false },
+        { "option_id": 4, "text": "Kinetic energy resources", "is_correct": false }
+      ],
+      "answer": "Substance-based energy resources"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following is a process-based energy resource?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Mineral oil", "is_correct": false },
+        { "option_id": 3, "text": "Wind", "is_correct": true },
+        { "option_id": 4, "text": "Wood", "is_correct": false }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Why are substance-based energy resources limited?",
+      "options": [
+        { "option_id": 1, "text": "They are pollution-free", "is_correct": false },
+        { "option_id": 2, "text": "They get used up and take thousands of years to replenish", "is_correct": true },
+        { "option_id": 3, "text": "They are always available", "is_correct": false },
+        { "option_id": 4, "text": "They are renewable quickly", "is_correct": false }
+      ],
+      "answer": "They get used up and take thousands of years to replenish"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which feature is true for process-based energy resources?",
+      "options": [
+        { "option_id": 1, "text": "They cause heavy pollution", "is_correct": false },
+        { "option_id": 2, "text": "They are exhaustible", "is_correct": false },
+        { "option_id": 3, "text": "They are perpetually available", "is_correct": true },
+        { "option_id": 4, "text": "They cannot be reused", "is_correct": false }
+      ],
+      "answer": "They are perpetually available"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which type of power generation uses burning of fuel directly?",
+      "options": [
+        { "option_id": 1, "text": "Hydel power", "is_correct": false },
+        { "option_id": 2, "text": "Thermal power", "is_correct": true },
+        { "option_id": 3, "text": "Wind power", "is_correct": false },
+        { "option_id": 4, "text": "Tidal power", "is_correct": false }
+      ],
+      "answer": "Thermal power"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which energy is used for cooking on a kerosene stove?",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Mineral oil", "is_correct": true },
+        { "option_id": 3, "text": "Wind energy", "is_correct": false },
+        { "option_id": 4, "text": "Hydel energy", "is_correct": false }
+      ],
+      "answer": "Mineral oil"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which fuel is traditionally used for cooking on earthen stoves in villages?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Wood", "is_correct": true },
+        { "option_id": 3, "text": "Electricity", "is_correct": false },
+        { "option_id": 4, "text": "Biogas", "is_correct": false }
+      ],
+      "answer": "Wood"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "How was coal formed according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "From volcanic lava", "is_correct": false },
+        { "option_id": 2, "text": "From decomposed plant and animal remains under heat and pressure", "is_correct": true },
+        { "option_id": 3, "text": "From ocean sediments", "is_correct": false },
+        { "option_id": 4, "text": "From chemical reactions in air", "is_correct": false }
+      ],
+      "answer": "From decomposed plant and animal remains under heat and pressure"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which type of coal is mainly used in thermal power stations?",
+      "options": [
+        { "option_id": 1, "text": "Low-quality coal", "is_correct": false },
+        { "option_id": 2, "text": "High-quality coal and coke", "is_correct": true },
+        { "option_id": 3, "text": "Peat", "is_correct": false },
+        { "option_id": 4, "text": "Charcoal", "is_correct": false }
+      ],
+      "answer": "High-quality coal and coke"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why is mineral oil called 'black gold'?",
+      "options": [
+        { "option_id": 1, "text": "It is black in colour and easily available", "is_correct": false },
+        { "option_id": 2, "text": "It is costly and has a blackish colour", "is_correct": true },
+        { "option_id": 3, "text": "It is renewable and precious", "is_correct": false },
+        { "option_id": 4, "text": "It is pollution-free", "is_correct": false }
+      ],
+      "answer": "It is costly and has a blackish colour"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Where is mineral oil found according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Only under mountains", "is_correct": false },
+        { "option_id": 2, "text": "Only in deserts", "is_correct": false },
+        { "option_id": 3, "text": "Under land surface and below the ocean floor", "is_correct": true },
+        { "option_id": 4, "text": "Inside rivers", "is_correct": false }
+      ],
+      "answer": "Under land surface and below the ocean floor"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which energy resource is commonly found along with mineral oil?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Natural gas", "is_correct": true },
+        { "option_id": 3, "text": "Uranium", "is_correct": false },
+        { "option_id": 4, "text": "Biogas", "is_correct": false }
+      ],
+      "answer": "Natural gas"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which power is obtained from the kinetic energy of running water?",
+      "options": [
+        { "option_id": 1, "text": "Thermal power", "is_correct": false },
+        { "option_id": 2, "text": "Hydel power", "is_correct": true },
+        { "option_id": 3, "text": "Atomic power", "is_correct": false },
+        { "option_id": 4, "text": "Solar power", "is_correct": false }
+      ],
+      "answer": "Hydel power"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which hydel power project in Maharashtra is mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Bhakra-Nangal", "is_correct": false },
+        { "option_id": 2, "text": "Koyna", "is_correct": true },
+        { "option_id": 3, "text": "Tehri", "is_correct": false },
+        { "option_id": 4, "text": "Hirakud", "is_correct": false }
+      ],
+      "answer": "Koyna"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which energy resource is generated from animal waste and plant residues?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Biogas", "is_correct": true },
+        { "option_id": 3, "text": "Petrol", "is_correct": false },
+        { "option_id": 4, "text": "Solar energy", "is_correct": false }
+      ],
+      "answer": "Biogas"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which problem can be reduced by generating energy from waste?",
+      "options": [
+        { "option_id": 1, "text": "Food shortage", "is_correct": false },
+        { "option_id": 2, "text": "Waste disposal in cities", "is_correct": true },
+        { "option_id": 3, "text": "Lack of sunlight", "is_correct": false },
+        { "option_id": 4, "text": "Soil erosion", "is_correct": false }
+      ],
+      "answer": "Waste disposal in cities"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which mineral is used for atomic energy generation?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Uranium", "is_correct": true },
+        { "option_id": 3, "text": "Copper", "is_correct": false },
+        { "option_id": 4, "text": "Aluminium", "is_correct": false }
+      ],
+      "answer": "Uranium"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which statement correctly describes atomic energy?",
+      "options": [
+        { "option_id": 1, "text": "Large quantity of fuel gives little energy", "is_correct": false },
+        { "option_id": 2, "text": "Small quantity of fuel produces large energy", "is_correct": true },
+        { "option_id": 3, "text": "It is pollution-free and renewable", "is_correct": false },
+        { "option_id": 4, "text": "It is obtained from sunlight", "is_correct": false }
+      ],
+      "answer": "Small quantity of fuel produces large energy"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which form of energy uses sea waves and tides?",
+      "options": [
+        { "option_id": 1, "text": "Wind energy", "is_correct": false },
+        { "option_id": 2, "text": "Tidal energy", "is_correct": true },
+        { "option_id": 3, "text": "Solar energy", "is_correct": false },
+        { "option_id": 4, "text": "Hydel energy", "is_correct": false }
+      ],
+      "answer": "Tidal energy"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which energy resource requires wind speed of about 40–50 kmph for power generation?",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Wind energy", "is_correct": true },
+        { "option_id": 3, "text": "Hydel power", "is_correct": false },
+        { "option_id": 4, "text": "Geothermal energy", "is_correct": false }
+      ],
+      "answer": "Wind energy"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which Indian states are mentioned for large-scale wind energy use?",
+      "options": [
+        { "option_id": 1, "text": "Punjab and Haryana", "is_correct": false },
+        { "option_id": 2, "text": "Maharashtra, Karnataka and Tamil Nadu", "is_correct": true },
+        { "option_id": 3, "text": "Bihar and Jharkhand", "is_correct": false },
+        { "option_id": 4, "text": "Assam and Meghalaya", "is_correct": false }
+      ],
+      "answer": "Maharashtra, Karnataka and Tamil Nadu"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which zone of the earth receives maximum solar energy?",
+      "options": [
+        { "option_id": 1, "text": "Frigid zone", "is_correct": false },
+        { "option_id": 2, "text": "Temperate zone", "is_correct": false },
+        { "option_id": 3, "text": "Torrid zone", "is_correct": true },
+        { "option_id": 4, "text": "Polar zone", "is_correct": false }
+      ],
+      "answer": "Torrid zone"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which solar power plant is mentioned in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Charanka", "is_correct": false },
+        { "option_id": 2, "text": "Sakri in Dhule district", "is_correct": true },
+        { "option_id": 3, "text": "Golmud", "is_correct": false },
+        { "option_id": 4, "text": "Agua Caliente", "is_correct": false }
+      ],
+      "answer": "Sakri in Dhule district"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which factor affects the generation of solar power?",
+      "options": [
+        { "option_id": 1, "text": "Wind speed only", "is_correct": false },
+        { "option_id": 2, "text": "Intensity of sunrays and duration of sunshine", "is_correct": true },
+        { "option_id": 3, "text": "Depth of water", "is_correct": false },
+        { "option_id": 4, "text": "Type of soil", "is_correct": false }
+      ],
+      "answer": "Intensity of sunrays and duration of sunshine"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which energy is obtained from heat inside the earth?",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Geothermal energy", "is_correct": true },
+        { "option_id": 3, "text": "Wind energy", "is_correct": false },
+        { "option_id": 4, "text": "Tidal energy", "is_correct": false }
+      ],
+      "answer": "Geothermal energy"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which place in India has a geothermal energy project?",
+      "options": [
+        { "option_id": 1, "text": "Bhakra", "is_correct": false },
+        { "option_id": 2, "text": "Manikaran, Himachal Pradesh", "is_correct": true },
+        { "option_id": 3, "text": "Sakri", "is_correct": false },
+        { "option_id": 4, "text": "Koyna", "is_correct": false }
+      ],
+      "answer": "Manikaran, Himachal Pradesh"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which energy resources are described as inexhaustible?",
+      "options": [
+        { "option_id": 1, "text": "Coal and mineral oil", "is_correct": false },
+        { "option_id": 2, "text": "Solar, wind and geothermal energy", "is_correct": true },
+        { "option_id": 3, "text": "Atomic energy only", "is_correct": false },
+        { "option_id": 4, "text": "Biogas and coal", "is_correct": false }
+      ],
+      "answer": "Solar, wind and geothermal energy"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which energy resources cause minimum pollution?",
+      "options": [
+        { "option_id": 1, "text": "Substance-based resources", "is_correct": false },
+        { "option_id": 2, "text": "Process-based resources", "is_correct": true },
+        { "option_id": 3, "text": "Fossil fuels", "is_correct": false },
+        { "option_id": 4, "text": "Coal-based resources", "is_correct": false }
+      ],
+      "answer": "Process-based resources"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "How far can electricity be transmitted without loss as mentioned?",
+      "options": [
+        { "option_id": 1, "text": "200 km", "is_correct": false },
+        { "option_id": 2, "text": "400 km", "is_correct": false },
+        { "option_id": 3, "text": "800 km", "is_correct": true },
+        { "option_id": 4, "text": "1200 km", "is_correct": false }
+      ],
+      "answer": "800 km"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Energy obtained from 1 kg of uranium is equivalent to how much coal?",
+      "options": [
+        { "option_id": 1, "text": "100 tonnes", "is_correct": false },
+        { "option_id": 2, "text": "1000 tonnes", "is_correct": false },
+        { "option_id": 3, "text": "10,000 tonnes", "is_correct": true },
+        { "option_id": 4, "text": "50,000 tonnes", "is_correct": false }
+      ],
+      "answer": "10,000 tonnes"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which factor increases the demand for energy resources?",
+      "options": [
+        { "option_id": 1, "text": "Declining population", "is_correct": false },
+        { "option_id": 2, "text": "Urbanization and growing needs", "is_correct": true },
+        { "option_id": 3, "text": "Decrease in industries", "is_correct": false },
+        { "option_id": 4, "text": "Reduction in transport", "is_correct": false }
+      ],
+      "answer": "Urbanization and growing needs"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which energy resource is suggested for future use to meet growing needs?",
+      "options": [
+        { "option_id": 1, "text": "Only coal", "is_correct": false },
+        { "option_id": 2, "text": "Alternative and non-conventional resources", "is_correct": true },
+        { "option_id": 3, "text": "Only mineral oil", "is_correct": false },
+        { "option_id": 4, "text": "Only atomic energy", "is_correct": false }
+      ],
+      "answer": "Alternative and non-conventional resources"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which activity directly reflects judicious use of energy?",
+      "options": [
+        { "option_id": 1, "text": "Keeping lights on unnecessarily", "is_correct": false },
+        { "option_id": 2, "text": "Saving electricity regularly", "is_correct": true },
+        { "option_id": 3, "text": "Using fossil fuels excessively", "is_correct": false },
+        { "option_id": 4, "text": "Avoiding renewable energy", "is_correct": false }
+      ],
+      "answer": "Saving electricity regularly"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which energy resource is best described as pollution-free and everlasting?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Tidal energy", "is_correct": true },
+        { "option_id": 3, "text": "Mineral oil", "is_correct": false },
+        { "option_id": 4, "text": "Atomic energy", "is_correct": false }
+      ],
+      "answer": "Tidal energy"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which energy resource depends on underground heat?",
+      "options": [
+        { "option_id": 1, "text": "Solar", "is_correct": false },
+        { "option_id": 2, "text": "Geothermal", "is_correct": true },
+        { "option_id": 3, "text": "Wind", "is_correct": false },
+        { "option_id": 4, "text": "Hydel", "is_correct": false }
+      ],
+      "answer": "Geothermal"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which resource is used to fly a kite?",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Wind energy", "is_correct": true },
+        { "option_id": 3, "text": "Electricity", "is_correct": false },
+        { "option_id": 4, "text": "Coal", "is_correct": false }
+      ],
+      "answer": "Wind energy"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which energy resource is used to start a railway engine?",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Mineral oil", "is_correct": true },
+        { "option_id": 3, "text": "Wind energy", "is_correct": false },
+        { "option_id": 4, "text": "Hydel energy", "is_correct": false }
+      ],
+      "answer": "Mineral oil"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which energy resource is used after sunset to provide light inside the house?",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Electricity", "is_correct": true },
+        { "option_id": 3, "text": "Wind energy", "is_correct": false },
+        { "option_id": 4, "text": "Biogas", "is_correct": false }
+      ],
+      "answer": "Electricity"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which energy resource is most widely used by humans according to the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Electricity", "is_correct": true },
+        { "option_id": 3, "text": "Wind energy", "is_correct": false },
+        { "option_id": 4, "text": "Tidal energy", "is_correct": false }
+      ],
+      "answer": "Electricity"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which energy resource is environment-friendly?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Solar energy", "is_correct": true },
+        { "option_id": 3, "text": "Mineral oil", "is_correct": false },
+        { "option_id": 4, "text": "Coke", "is_correct": false }
+      ],
+      "answer": "Solar energy"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which energy resource helps protect Adivasi hamlets from cold?",
+      "options": [
+        { "option_id": 1, "text": "Wind energy", "is_correct": false },
+        { "option_id": 2, "text": "Wood and coal", "is_correct": true },
+        { "option_id": 3, "text": "Solar panels", "is_correct": false },
+        { "option_id": 4, "text": "Hydel power", "is_correct": false }
+      ],
+      "answer": "Wood and coal"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which energy resource is used for cooking during a picnic?",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Coal or wood", "is_correct": true },
+        { "option_id": 3, "text": "Wind energy", "is_correct": false },
+        { "option_id": 4, "text": "Hydel power", "is_correct": false }
+      ],
+      "answer": "Coal or wood"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which energy resource is used for ironing clothes?",
+      "options": [
+        { "option_id": 1, "text": "Wind energy", "is_correct": false },
+        { "option_id": 2, "text": "Electricity", "is_correct": true },
+        { "option_id": 3, "text": "Coal", "is_correct": false },
+        { "option_id": 4, "text": "Solar cooker", "is_correct": false }
+      ],
+      "answer": "Electricity"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which energy resource is obtained from oceanic water movement?",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Tidal energy", "is_correct": true },
+        { "option_id": 3, "text": "Geothermal energy", "is_correct": false },
+        { "option_id": 4, "text": "Biogas", "is_correct": false }
+      ],
+      "answer": "Tidal energy"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which practice is emphasized to manage future energy needs?",
+      "options": [
+        { "option_id": 1, "text": "Increasing fossil fuel use", "is_correct": false },
+        { "option_id": 2, "text": "Using energy frugally and avoiding waste", "is_correct": true },
+        { "option_id": 3, "text": "Depending only on coal", "is_correct": false },
+        { "option_id": 4, "text": "Avoiding renewable energy", "is_correct": false }
+      ],
+      "answer": "Using energy frugally and avoiding waste"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is meant by energy resources?",
+      "answer": "Energy resources are natural resources that provide energy required for various human activities."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why are energy resources essential for daily life?",
+      "answer": "Energy resources are required for cooking, lighting, transportation, industries and communication."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are substance-based energy resources?",
+      "answer": "Substance-based energy resources are materials like wood, coal, mineral oil and natural gas that produce energy when used."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why are substance-based energy resources limited?",
+      "answer": "They take thousands of years to form and get exhausted after continuous use."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name any two substance-based energy resources.",
+      "answer": "Coal and mineral oil are substance-based energy resources."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What are process-based energy resources?",
+      "answer": "Process-based energy resources are obtained from natural processes like wind, water, sunlight and tides."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why are process-based energy resources inexhaustible?",
+      "answer": "They are continuously available in nature and do not get depleted."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Give two examples of process-based energy resources.",
+      "answer": "Wind energy and solar energy are process-based energy resources."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is coal?",
+      "answer": "Coal is a fossil fuel formed from decomposed plant and animal remains under heat and pressure."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is coal widely used in thermal power plants?",
+      "answer": "Coal produces large amounts of heat energy required for electricity generation."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is mineral oil?",
+      "answer": "Mineral oil is a fossil fuel obtained from beneath the earth’s surface and ocean floor."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is mineral oil called black gold?",
+      "answer": "It is valuable and blackish in colour, making it economically important."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name two products obtained from mineral oil.",
+      "answer": "Petrol and diesel are obtained from mineral oil."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which energy resource is usually found along with mineral oil?",
+      "answer": "Natural gas is usually found along with mineral oil."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is natural gas used for?",
+      "answer": "Natural gas is used for cooking, transportation and power generation."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is hydel power?",
+      "answer": "Hydel power is electricity generated using the kinetic energy of flowing water."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name one hydel power project mentioned in the chapter.",
+      "answer": "The Koyna hydel power project is mentioned in the chapter."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is biogas?",
+      "answer": "Biogas is energy obtained from decomposition of animal waste and plant residues."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "State one advantage of biogas.",
+      "answer": "Biogas helps in waste management and provides clean energy."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is atomic energy?",
+      "answer": "Atomic energy is energy released from nuclear reactions using uranium."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why is atomic energy considered powerful?",
+      "answer": "A small amount of uranium produces a very large amount of energy."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is tidal energy?",
+      "answer": "Tidal energy is obtained from the movement of sea waves and tides."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is wind energy?",
+      "answer": "Wind energy is obtained from the movement of air using windmills."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Which wind speed is required for wind power generation?",
+      "answer": "Wind speed of about 40–50 km per hour is required."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Name two Indian states where wind energy is used on a large scale.",
+      "answer": "Maharashtra and Tamil Nadu use wind energy on a large scale."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is solar energy?",
+      "answer": "Solar energy is energy obtained from sunlight."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why does the torrid zone receive maximum solar energy?",
+      "answer": "The sun’s rays fall vertically in the torrid zone for most of the year."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Name the solar power plant mentioned in Maharashtra.",
+      "answer": "The Sakri solar power plant in Dhule district is mentioned."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What factors affect solar power generation?",
+      "answer": "Intensity of sunrays and duration of sunshine affect solar power generation."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is geothermal energy?",
+      "answer": "Geothermal energy is obtained from heat inside the earth."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Name one geothermal energy location in India.",
+      "answer": "Manikaran in Himachal Pradesh is a geothermal energy location."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What are conventional energy resources?",
+      "answer": "Conventional energy resources are traditional sources like coal, mineral oil and hydel power."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What are non-conventional energy resources?",
+      "answer": "Non-conventional energy resources include solar, wind, tidal and geothermal energy."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why are non-conventional energy resources environment-friendly?",
+      "answer": "They cause very little pollution and are renewable."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is electricity considered a widely used form of energy?",
+      "answer": "Electricity is easy to transmit and can be used for various purposes."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How far can electricity be transmitted without loss?",
+      "answer": "Electricity can be transmitted up to about 800 km without loss."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What factors have increased the demand for energy resources?",
+      "answer": "Population growth, industrialization and urbanization have increased energy demand."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why should fossil fuels be used carefully?",
+      "answer": "They are limited in quantity and cause pollution."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is meant by judicious use of energy?",
+      "answer": "Judicious use of energy means avoiding wastage and using energy efficiently."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is energy conservation important?",
+      "answer": "Energy conservation helps preserve limited resources for future needs."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "How does excessive use of energy affect the environment?",
+      "answer": "It increases pollution and disturbs ecological balance."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Which energy resource is free and directly available from nature?",
+      "answer": "Solar energy is free and directly available from nature."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why are alternative energy resources needed?",
+      "answer": "Alternative energy resources are needed to meet future energy demands sustainably."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How does wind energy help reduce pollution?",
+      "answer": "Wind energy generates electricity without burning fuel."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What role does energy play in economic development?",
+      "answer": "Energy supports industries, transportation and overall economic growth."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why is dependence on renewable energy increasing?",
+      "answer": "Renewable energy is clean, sustainable and inexhaustible."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How does biogas contribute to cleanliness?",
+      "answer": "It uses waste materials and reduces environmental pollution."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the main disadvantage of fossil fuels?",
+      "answer": "They are exhaustible and cause air pollution."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is planning essential for future energy needs?",
+      "answer": "Planning ensures sustainable energy availability and reduces wastage."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "State the central idea of the chapter Energy Resources.",
+      "answer": "Energy resources must be used wisely to meet present and future needs sustainably."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Explain why energy resources are considered the backbone of modern society.",
+      "answer": "Energy resources support transportation, industries, communication, domestic activities and overall economic development."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does the overuse of substance-based energy resources create long-term problems?",
+      "answer": "Overuse leads to depletion of limited reserves and increases environmental pollution."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why are process-based energy resources more suitable for sustainable development?",
+      "answer": "They are renewable, inexhaustible and cause minimal environmental pollution."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Explain how dependence on fossil fuels affects environmental balance.",
+      "answer": "Burning fossil fuels releases pollutants that cause air pollution and disturb ecological balance."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is coal formation described as a very slow geological process?",
+      "answer": "Coal forms over millions of years from buried plant and animal remains under heat and pressure."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How does mineral oil influence transportation and industry?",
+      "answer": "Mineral oil provides fuels like petrol and diesel that power vehicles and industrial machinery."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Explain why mineral oil reserves are unevenly distributed on the earth.",
+      "answer": "They are formed under specific geological conditions that occur only in certain regions."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why is hydel power considered a clean source of energy?",
+      "answer": "It generates electricity without burning fuels and does not produce air pollution."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How does the availability of water affect hydel power generation?",
+      "answer": "Adequate and continuous water flow is necessary to generate electricity efficiently."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Explain the dual benefit of biogas plants in rural areas.",
+      "answer": "They provide clean energy and help manage animal and agricultural waste."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why is atomic energy described as a high-efficiency energy source?",
+      "answer": "A very small amount of uranium produces a very large amount of energy."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Explain one environmental concern associated with atomic energy.",
+      "answer": "Improper disposal of nuclear waste can cause serious environmental hazards."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "How does wind energy depend on geographical conditions?",
+      "answer": "Wind energy generation requires consistent high-speed winds, which occur only in specific regions."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why are coastal and plateau regions suitable for wind power generation?",
+      "answer": "These regions experience strong and continuous winds suitable for operating windmills."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Explain why solar energy potential is high in the torrid zone.",
+      "answer": "The torrid zone receives nearly vertical sunrays throughout the year."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How do cloud cover and seasons affect solar energy generation?",
+      "answer": "Cloud cover and shorter sunshine duration reduce the intensity of solar energy."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why is geothermal energy location-specific?",
+      "answer": "It is available only in regions with high underground heat due to tectonic activity."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Explain how tidal energy is linked to the movement of the moon.",
+      "answer": "Gravitational pull of the moon causes tides, which are used to generate energy."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why is electricity called a secondary form of energy?",
+      "answer": "Electricity is generated from primary energy resources like coal, water or wind."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How does easy transmission make electricity widely usable?",
+      "answer": "Electricity can be transmitted over long distances with minimal loss."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Explain how increasing population affects energy demand.",
+      "answer": "More population increases the need for transport, housing and industries, raising energy demand."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why is reliance only on conventional energy resources risky?",
+      "answer": "They are limited and may get exhausted, leading to future energy shortages."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "How do non-conventional energy resources help in reducing pollution?",
+      "answer": "They generate energy without burning fuels, reducing harmful emissions."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Explain the role of technology in expanding renewable energy use.",
+      "answer": "Improved technology increases efficiency and reduces the cost of renewable energy systems."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is energy conservation as important as energy production?",
+      "answer": "Conservation reduces wastage and extends the availability of limited resources."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "How does individual behavior influence national energy consumption?",
+      "answer": "Responsible use by individuals collectively reduces overall energy demand."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Explain how energy resources influence economic development.",
+      "answer": "Availability of energy supports industrial growth, employment and infrastructure development."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why is balanced use of energy resources necessary for future generations?",
+      "answer": "It ensures long-term availability of resources and environmental protection."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "How does energy production impact climate conditions?",
+      "answer": "Excessive fossil fuel use increases greenhouse gases, affecting climate patterns."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Explain the connection between energy resources and quality of life.",
+      "answer": "Reliable energy improves living standards through better services and facilities."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why should developing countries focus on renewable energy?",
+      "answer": "Renewable energy supports development without increasing pollution."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How does urbanization increase pressure on energy resources?",
+      "answer": "Urban areas require more electricity, transport and industrial energy."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Explain why energy planning is necessary at the national level.",
+      "answer": "Planning ensures efficient use, balanced distribution and future energy security."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How does waste-to-energy technology solve multiple problems?",
+      "answer": "It generates energy while reducing waste disposal and pollution."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is diversification of energy sources important?",
+      "answer": "It reduces dependence on a single resource and increases energy security."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Explain how renewable energy supports environmental protection.",
+      "answer": "It reduces pollution and conserves natural ecosystems."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why should energy-efficient appliances be promoted?",
+      "answer": "They reduce electricity consumption and energy wastage."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How does excessive energy consumption lead to resource conflicts?",
+      "answer": "Scarcity of energy resources can create competition and conflicts."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Explain the long-term impact of ignoring renewable energy development.",
+      "answer": "It may result in energy shortages and severe environmental damage."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is awareness about energy resources important for students?",
+      "answer": "Awareness encourages responsible energy use and future conservation."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "How does energy conservation contribute to sustainable development?",
+      "answer": "It balances present needs while protecting resources for the future."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Explain the role of government in promoting renewable energy.",
+      "answer": "Governments provide policies, incentives and infrastructure support."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is reduction of energy wastage considered a social responsibility?",
+      "answer": "Saving energy benefits society by conserving shared resources."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How does efficient energy use help reduce pollution levels?",
+      "answer": "Lower energy consumption reduces fuel burning and emissions."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Explain the chapter’s message regarding future energy security.",
+      "answer": "Future energy security depends on conservation and renewable energy use."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why must energy policies focus on both availability and sustainability?",
+      "answer": "Ensuring supply while protecting the environment is essential."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "How does energy use reflect the level of development of a country?",
+      "answer": "Higher development generally requires greater and efficient energy use."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Explain how renewable energy reduces dependence on imports.",
+      "answer": "Local renewable resources reduce the need for imported fuels."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is balanced energy consumption essential for environmental stability?",
+      "answer": "It prevents excessive pollution and conserves natural systems."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "State the core idea conveyed by the chapter Energy Resources.",
+      "answer": "Energy resources must be conserved and diversified to ensure sustainable future development."
+    }
+  ]
+}

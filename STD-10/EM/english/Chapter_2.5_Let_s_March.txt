@@ -1,0 +1,1091 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.2.5",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Let's March"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who delivered the speech 'Let's March'?",
+      "options": [
+        { "option_id": 1, "text": "Malala Yousafzai", "is_correct": false },
+        { "option_id": 2, "text": "Kailash Satyarthi", "is_correct": true },
+        { "option_id": 3, "text": "Nelson Mandela", "is_correct": false },
+        { "option_id": 4, "text": "Mahatma Gandhi", "is_correct": false }
+      ],
+      "answer": "Kailash Satyarthi"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What award did Kailash Satyarthi receive?",
+      "options": [
+        { "option_id": 1, "text": "Booker Prize", "is_correct": false },
+        { "option_id": 2, "text": "Nobel Peace Prize", "is_correct": true },
+        { "option_id": 3, "text": "Oscar", "is_correct": false },
+        { "option_id": 4, "text": "Bharat Ratna", "is_correct": false }
+      ],
+      "answer": "Nobel Peace Prize"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "In which year did Kailash Satyarthi receive the Nobel Peace Prize?",
+      "options": [
+        { "option_id": 1, "text": "2010", "is_correct": false },
+        { "option_id": 2, "text": "2014", "is_correct": true },
+        { "option_id": 3, "text": "2012", "is_correct": false },
+        { "option_id": 4, "text": "2016", "is_correct": false }
+      ],
+      "answer": "2014"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which organization did Kailash Satyarthi found?",
+      "options": [
+        { "option_id": 1, "text": "Bachpan Bachao Andolan", "is_correct": true },
+        { "option_id": 2, "text": "Save the Children", "is_correct": false },
+        { "option_id": 3, "text": "UNICEF", "is_correct": false },
+        { "option_id": 4, "text": "CRY", "is_correct": false }
+      ],
+      "answer": "Bachpan Bachao Andolan"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the ancient text from which Satyarthi recites a mantra?",
+      "options": [
+        { "option_id": 1, "text": "Upanishads", "is_correct": false },
+        { "option_id": 2, "text": "Vedas", "is_correct": true },
+        { "option_id": 3, "text": "Bhagavad Gita", "is_correct": false },
+        { "option_id": 4, "text": "Ramayana", "is_correct": false }
+      ],
+      "answer": "Vedas"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who does Satyarthi call his 'dear daughter' in the speech?",
+      "options": [
+        { "option_id": 1, "text": "Indira", "is_correct": false },
+        { "option_id": 2, "text": "Malala", "is_correct": true },
+        { "option_id": 3, "text": "Shazia", "is_correct": false },
+        { "option_id": 4, "text": "Kayanat", "is_correct": false }
+      ],
+      "answer": "Malala"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the 'empty chair' in the speech represent?",
+      "options": [
+        { "option_id": 1, "text": "A missing guest", "is_correct": false },
+        { "option_id": 2, "text": "Children who are left behind", "is_correct": true },
+        { "option_id": 3, "text": "Peace", "is_correct": false },
+        { "option_id": 4, "text": "Silence", "is_correct": false }
+      ],
+      "answer": "Children who are left behind"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What did the skinny child labourer ask Satyarthi?",
+      "options": [
+        { "option_id": 1, "text": "For money", "is_correct": false },
+        { "option_id": 2, "text": "Is the world so poor that it cannot give me a toy and a book?", "is_correct": true },
+        { "option_id": 3, "text": "For food", "is_correct": false },
+        { "option_id": 4, "text": "To take him home", "is_correct": false }
+      ],
+      "answer": "Is the world so poor that it cannot give me a toy and a book?"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who was forced to kill his friends and family?",
+      "options": [
+        { "option_id": 1, "text": "An Indian child labourer", "is_correct": false },
+        { "option_id": 2, "text": "A Sudanese child-soldier", "is_correct": true },
+        { "option_id": 3, "text": "A Pakistani activist", "is_correct": false },
+        { "option_id": 4, "text": "A Syrian refugee", "is_correct": false }
+      ],
+      "answer": "A Sudanese child-soldier"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the biggest challenge knocking on the doors of humankind according to Satyarthi?",
+      "options": [
+        { "option_id": 1, "text": "Poverty", "is_correct": false },
+        { "option_id": 2, "text": "Fear and intolerance", "is_correct": true },
+        { "option_id": 3, "text": "Climate change", "is_correct": false },
+        { "option_id": 4, "text": "War", "is_correct": false }
+      ],
+      "answer": "Fear and intolerance"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the only aim in life for Kailash Satyarthi?",
+      "options": [
+        { "option_id": 1, "text": "To become rich", "is_correct": false },
+        { "option_id": 2, "text": "That every child is free to be a child", "is_correct": true },
+        { "option_id": 3, "text": "To win awards", "is_correct": false },
+        { "option_id": 4, "text": "To become a politician", "is_correct": false }
+      ],
+      "answer": "That every child is free to be a child"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What did the tiny bird in the story say to the lion?",
+      "options": [
+        { "option_id": 1, "text": "I am scared", "is_correct": false },
+        { "option_id": 2, "text": "I am doing my bit", "is_correct": true },
+        { "option_id": 3, "text": "Run away", "is_correct": false },
+        { "option_id": 4, "text": "Help me", "is_correct": false }
+      ],
+      "answer": "I am doing my bit"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does 'culminate' mean?",
+      "options": [
+        { "option_id": 1, "text": "Start", "is_correct": false },
+        { "option_id": 2, "text": "Reach the highest level", "is_correct": true },
+        { "option_id": 3, "text": "Decrease", "is_correct": false },
+        { "option_id": 4, "text": "Fail", "is_correct": false }
+      ],
+      "answer": "Reach the highest level"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does 'unprecedented' mean?",
+      "options": [
+        { "option_id": 1, "text": "Common", "is_correct": false },
+        { "option_id": 2, "text": "Never known or experienced before", "is_correct": true },
+        { "option_id": 3, "text": "Expected", "is_correct": false },
+        { "option_id": 4, "text": "Simple", "is_correct": false }
+      ],
+      "answer": "Never known or experienced before"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a 'daughter' mentioned by Satyarthi?",
+      "options": [
+        { "option_id": 1, "text": "Malala", "is_correct": false },
+        { "option_id": 2, "text": "Kayanat", "is_correct": false },
+        { "option_id": 3, "text": "Shazia", "is_correct": false },
+        { "option_id": 4, "text": "Indira", "is_correct": true }
+      ],
+      "answer": "Indira"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Satyarthi challenges the culture of ________.",
+      "options": [
+        { "option_id": 1, "text": "Education", "is_correct": false },
+        { "option_id": 2, "text": "Silence and passivity", "is_correct": true },
+        { "option_id": 3, "text": "Peace", "is_correct": false },
+        { "option_id": 4, "text": "Action", "is_correct": false }
+      ],
+      "answer": "Silence and passivity"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does 'compassion' mean?",
+      "options": [
+        { "option_id": 1, "text": "Anger", "is_correct": false },
+        { "option_id": 2, "text": "Pity and concern for suffering", "is_correct": true },
+        { "option_id": 3, "text": "Happiness", "is_correct": false },
+        { "option_id": 4, "text": "Indifference", "is_correct": false }
+      ],
+      "answer": "Pity and concern for suffering"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What did the 8-year-old girl ask Satyarthi?",
+      "options": [
+        { "option_id": 1, "text": "Who are you?", "is_correct": false },
+        { "option_id": 2, "text": "Why did you not come earlier?", "is_correct": true },
+        { "option_id": 3, "text": "Can I have food?", "is_correct": false },
+        { "option_id": 4, "text": "Where are my parents?", "is_correct": false }
+      ],
+      "answer": "Why did you not come earlier?"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What does Satyarthi say we must 'globalise'?",
+      "options": [
+        { "option_id": 1, "text": "Economy", "is_correct": false },
+        { "option_id": 2, "text": "Compassion", "is_correct": true },
+        { "option_id": 3, "text": "Trade", "is_correct": false },
+        { "option_id": 4, "text": "Technology", "is_correct": false }
+      ],
+      "answer": "Compassion"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Whose quote does Satyarthi mention about teaching real peace?",
+      "options": [
+        { "option_id": 1, "text": "Martin Luther King", "is_correct": false },
+        { "option_id": 2, "text": "Mahatma Gandhi", "is_correct": true },
+        { "option_id": 3, "text": "Nelson Mandela", "is_correct": false },
+        { "option_id": 4, "text": "Mother Teresa", "is_correct": false }
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does 'intergenerational' mean?",
+      "options": [
+        { "option_id": 1, "text": "Between two nations", "is_correct": false },
+        { "option_id": 2, "text": "Involving several generations", "is_correct": true },
+        { "option_id": 3, "text": "Within one generation", "is_correct": false },
+        { "option_id": 4, "text": "None of the above", "is_correct": false }
+      ],
+      "answer": "Involving several generations"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does Satyarthi call for a march from?",
+      "options": [
+        { "option_id": 1, "text": "Exploitation to education", "is_correct": true },
+        { "option_id": 2, "text": "Education to exploitation", "is_correct": false },
+        { "option_id": 3, "text": "Peace to violence", "is_correct": false },
+        { "option_id": 4, "text": "Light to darkness", "is_correct": false }
+      ],
+      "answer": "Exploitation to education"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Satyarthi calls for a march from 'Mortality to ________'.",
+      "options": [
+        { "option_id": 1, "text": "Liberty", "is_correct": false },
+        { "option_id": 2, "text": "Divinity", "is_correct": true },
+        { "option_id": 3, "text": "Slavery", "is_correct": false },
+        { "option_id": 4, "text": "Poverty", "is_correct": false }
+      ],
+      "answer": "Divinity"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Where does Satyarthi see the smiling faces of children?",
+      "options": [
+        { "option_id": 1, "text": "In the blinking stars", "is_correct": true },
+        { "option_id": 2, "text": "In the classroom", "is_correct": false },
+        { "option_id": 3, "text": "In the playground", "is_correct": false },
+        { "option_id": 4, "text": "On TV", "is_correct": false }
+      ],
+      "answer": "In the blinking stars"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What does 'innovative' mean?",
+      "options": [
+        { "option_id": 1, "text": "Old fashioned", "is_correct": false },
+        { "option_id": 2, "text": "Having new advanced ideas", "is_correct": true },
+        { "option_id": 3, "text": "Copying others", "is_correct": false },
+        { "option_id": 4, "text": "Boring", "is_correct": false }
+      ],
+      "answer": "Having new advanced ideas"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What was the profession of the boy's father whom Satyarthi met 50 years ago?",
+      "options": [
+        { "option_id": 1, "text": "Farmer", "is_correct": false },
+        { "option_id": 2, "text": "Cobbler", "is_correct": true },
+        { "option_id": 3, "text": "Tailor", "is_correct": false },
+        { "option_id": 4, "text": "Teacher", "is_correct": false }
+      ],
+      "answer": "Cobbler"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What did the cobbler say to Satyarthi?",
+      "options": [
+        { "option_id": 1, "text": "We are born to work", "is_correct": true },
+        { "option_id": 2, "text": "My son will go to school", "is_correct": false },
+        { "option_id": 3, "text": "Can you help us?", "is_correct": false },
+        { "option_id": 4, "text": "I am happy", "is_correct": false }
+      ],
+      "answer": "We are born to work"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What does 'fragmented' mean?",
+      "options": [
+        { "option_id": 1, "text": "United", "is_correct": false },
+        { "option_id": 2, "text": "Split up or disunified", "is_correct": true },
+        { "option_id": 3, "text": "Whole", "is_correct": false },
+        { "option_id": 4, "text": "Strong", "is_correct": false }
+      ],
+      "answer": "Split up or disunified"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which of these is an assertive sentence?",
+      "options": [
+        { "option_id": 1, "text": "What can one person do?", "is_correct": false },
+        { "option_id": 2, "text": "Let's walk together.", "is_correct": false },
+        { "option_id": 3, "text": "The Mantra carries a prayer.", "is_correct": true },
+        { "option_id": 4, "text": "How angry it makes me!", "is_correct": false }
+      ],
+      "answer": "The Mantra carries a prayer."
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of these is an interrogative sentence?",
+      "options": [
+        { "option_id": 1, "text": "Is the world so poor?", "is_correct": true },
+        { "option_id": 2, "text": "We have made progress.", "is_correct": false },
+        { "option_id": 3, "text": "Kill not your children.", "is_correct": false },
+        { "option_id": 4, "text": "What a big challenge it is!", "is_correct": false }
+      ],
+      "answer": "Is the world so poor?"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which of these is an imperative sentence?",
+      "options": [
+        { "option_id": 1, "text": "Let's walk together.", "is_correct": true },
+        { "option_id": 2, "text": "I am afraid.", "is_correct": false },
+        { "option_id": 3, "text": "Who are you?", "is_correct": false },
+        { "option_id": 4, "text": "It is time.", "is_correct": false }
+      ],
+      "answer": "Let's walk together."
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which of these is an exclamatory sentence?",
+      "options": [
+        { "option_id": 1, "text": "What a big challenge it is!", "is_correct": true },
+        { "option_id": 2, "text": "We can do it.", "is_correct": false },
+        { "option_id": 3, "text": "Do not hinder them.", "is_correct": false },
+        { "option_id": 4, "text": "Where is the child?", "is_correct": false }
+      ],
+      "answer": "What a big challenge it is!"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What is the noun form of 'dignified'?",
+      "options": [
+        { "option_id": 1, "text": "Dignify", "is_correct": false },
+        { "option_id": 2, "text": "Dignity", "is_correct": true },
+        { "option_id": 3, "text": "Dignifying", "is_correct": false },
+        { "option_id": 4, "text": "None of these", "is_correct": false }
+      ],
+      "answer": "Dignity"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the verb form of 'democracy'?",
+      "options": [
+        { "option_id": 1, "text": "Democrat", "is_correct": false },
+        { "option_id": 2, "text": "Democratic", "is_correct": false },
+        { "option_id": 3, "text": "Democratise", "is_correct": true },
+        { "option_id": 4, "text": "Demography", "is_correct": false }
+      ],
+      "answer": "Democratise"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What is the antonym of 'ignorance'?",
+      "options": [
+        { "option_id": 1, "text": "Knowledge/Awakening", "is_correct": true },
+        { "option_id": 2, "text": "Darkness", "is_correct": false },
+        { "option_id": 3, "text": "Stupidity", "is_correct": false },
+        { "option_id": 4, "text": "Failure", "is_correct": false }
+      ],
+      "answer": "Knowledge/Awakening"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What is the antonym of 'violence'?",
+      "options": [
+        { "option_id": 1, "text": "War", "is_correct": false },
+        { "option_id": 2, "text": "Peace", "is_correct": true },
+        { "option_id": 3, "text": "Anger", "is_correct": false },
+        { "option_id": 4, "text": "Fear", "is_correct": false }
+      ],
+      "answer": "Peace"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What does 'shackles' mean?",
+      "options": [
+        { "option_id": 1, "text": "Chains that bind", "is_correct": true },
+        { "option_id": 2, "text": "Keys", "is_correct": false },
+        { "option_id": 3, "text": "Doors", "is_correct": false },
+        { "option_id": 4, "text": "Wings", "is_correct": false }
+      ],
+      "answer": "Chains that bind"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What does 'aspiration' mean?",
+      "options": [
+        { "option_id": 1, "text": "Breathing", "is_correct": false },
+        { "option_id": 2, "text": "An ardent wish or desire", "is_correct": true },
+        { "option_id": 3, "text": "Sweating", "is_correct": false },
+        { "option_id": 4, "text": "Hopelessness", "is_correct": false }
+      ],
+      "answer": "An ardent wish or desire"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Who made the supreme sacrifice according to Satyarthi?",
+      "options": [
+        { "option_id": 1, "text": "Kaalu Kumar, Dhoom Das, Adarsh Kishore", "is_correct": true },
+        { "option_id": 2, "text": "The cobbler", "is_correct": false },
+        { "option_id": 3, "text": "The lion", "is_correct": false },
+        { "option_id": 4, "text": "The bird", "is_correct": false }
+      ],
+      "answer": "Kaalu Kumar, Dhoom Das, Adarsh Kishore"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'divinity'?",
+      "options": [
+        { "option_id": 1, "text": "Goodness", "is_correct": false },
+        { "option_id": 2, "text": "Godliness", "is_correct": true },
+        { "option_id": 3, "text": "Humanity", "is_correct": false },
+        { "option_id": 4, "text": "Nature", "is_correct": false }
+      ],
+      "answer": "Godliness"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What does 'mortality' mean?",
+      "options": [
+        { "option_id": 1, "text": "Life", "is_correct": false },
+        { "option_id": 2, "text": "Death", "is_correct": true },
+        { "option_id": 3, "text": "Birth", "is_correct": false },
+        { "option_id": 4, "text": "Health", "is_correct": false }
+      ],
+      "answer": "Death"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What is the passive voice of 'We can do it'?",
+      "options": [
+        { "option_id": 1, "text": "It can be done by us.", "is_correct": true },
+        { "option_id": 2, "text": "It could be done by us.", "is_correct": false },
+        { "option_id": 3, "text": "We could do it.", "is_correct": false },
+        { "option_id": 4, "text": "It is done by us.", "is_correct": false }
+      ],
+      "answer": "It can be done by us."
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What is the passive voice of 'His answer made me angry'?",
+      "options": [
+        { "option_id": 1, "text": "I was made angry by his answer.", "is_correct": true },
+        { "option_id": 2, "text": "I made him angry.", "is_correct": false },
+        { "option_id": 3, "text": "His answer makes me angry.", "is_correct": false },
+        { "option_id": 4, "text": "He made me angry.", "is_correct": false }
+      ],
+      "answer": "I was made angry by his answer."
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "The speech was delivered in ________.",
+      "options": [
+        { "option_id": 1, "text": "New Delhi", "is_correct": false },
+        { "option_id": 2, "text": "Oslo, Norway", "is_correct": true },
+        { "option_id": 3, "text": "New York", "is_correct": false },
+        { "option_id": 4, "text": "London", "is_correct": false }
+      ],
+      "answer": "Oslo, Norway"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who is Iqbal Masih?",
+      "options": [
+        { "option_id": 1, "text": "An Indian activist", "is_correct": false },
+        { "option_id": 2, "text": "A martyr from Pakistan", "is_correct": true },
+        { "option_id": 3, "text": "Satyarthi's son", "is_correct": false },
+        { "option_id": 4, "text": "A Nobel laureate", "is_correct": false }
+      ],
+      "answer": "A martyr from Pakistan"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What does 'deliberations' mean?",
+      "options": [
+        { "option_id": 1, "text": "Arguments", "is_correct": false },
+        { "option_id": 2, "text": "Long discussion after careful thinking", "is_correct": true },
+        { "option_id": 3, "text": "Fights", "is_correct": false },
+        { "option_id": 4, "text": "Lectures", "is_correct": false }
+      ],
+      "answer": "Long discussion after careful thinking"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'confronting'?",
+      "options": [
+        { "option_id": 1, "text": "Ignoring", "is_correct": false },
+        { "option_id": 2, "text": "Facing and attacking", "is_correct": true },
+        { "option_id": 3, "text": "Running away", "is_correct": false },
+        { "option_id": 4, "text": "Watching", "is_correct": false }
+      ],
+      "answer": "Facing and attacking"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is 'dignity'?",
+      "options": [
+        { "option_id": 1, "text": "Self-respect", "is_correct": true },
+        { "option_id": 2, "text": "Self-support", "is_correct": false },
+        { "option_id": 3, "text": "Selfishness", "is_correct": false },
+        { "option_id": 4, "text": "Self-centered", "is_correct": false }
+      ],
+      "answer": "Self-respect"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What does 'adamant' mean in the bird story context?",
+      "options": [
+        { "option_id": 1, "text": "Confused", "is_correct": false },
+        { "option_id": 2, "text": "Firm and determined", "is_correct": true },
+        { "option_id": 3, "text": "Weak", "is_correct": false },
+        { "option_id": 4, "text": "Silly", "is_correct": false }
+      ],
+      "answer": "Firm and determined"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Satyarthi refuses to accept that shackles of slavery can ever be ________ than the quest for freedom.",
+      "options": [
+        { "option_id": 1, "text": "Weaker", "is_correct": false },
+        { "option_id": 2, "text": "Stronger", "is_correct": true },
+        { "option_id": 3, "text": "Better", "is_correct": false },
+        { "option_id": 4, "text": "Faster", "is_correct": false }
+      ],
+      "answer": "Stronger"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who is Kailash Satyarthi?",
+      "answer": "He is an Indian children's rights and education advocate and an activist against child labour."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is 'Bachpan Bachao Andolan'?",
+      "answer": "It is a movement founded by Satyarthi in 1980 to protect the rights of children."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How many children has Satyarthi protected?",
+      "answer": "He has protected the rights of more than 83,000 children across 144 countries."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the mantra recited by Satyarthi?",
+      "answer": "It carries a prayer, an aspiration, and a resolve to liberate humanity from crises."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who does Satyarthi bow to?",
+      "answer": "He bows to his late parents, his motherland India, and mother earth."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What does Satyarthi recall with a warm heart?",
+      "answer": "He recalls how he has been liberated each time he freed a child from slavery."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Who are the martyrs mentioned by Satyarthi?",
+      "answer": "Kaalu Kumar, Dhoom Das, Adarsh Kishore from India and Iqbal Masih from Pakistan."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does Satyarthi say his journey connects?",
+      "answer": "It connects the land of Buddha, Guru Nanak, Gandhi (India) to Norway, connecting ancient and modern centres of peace."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why does Satyarthi say he cannot present a 'lecture'?",
+      "answer": "Because he represents the sound of silence, the cry of innocence, and the face of invisibility."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What does the 'sound of silence' refer to?",
+      "answer": "It refers to the unheard plea of the deprived."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does the 'face of invisibility' refer to?",
+      "answer": "It refers to the unnoticed suffering of the poor and innocent."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What did the Sudanese child-soldier ask Satyarthi?",
+      "answer": "He asked, 'What is my fault?'"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What did Jesus say about children?",
+      "answer": "Jesus said, 'Let the children come to me; do not hinder them, for the kingdom of God belongs to them.'"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does the Holy Quran say about children?",
+      "answer": "It says, 'Kill not your children because of poverty.'"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does Satyarthi refuse to accept about temples and mosques?",
+      "answer": "He refuses to accept that they have no place for the dreams of children."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What comparison does Satyarthi make with military expenditure?",
+      "answer": "He says one week of global military expenditure can bring all children to classrooms."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is Satyarthi's only aim in life?",
+      "answer": "His aim is that every child is free to be a child (grow, play, learn, dream)."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What progress has been made in the last couple of decades?",
+      "answer": "Reduced out-of-school children by half, child labourers by a third, and reduced child mortality."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the biggest crisis knocking on the doors of humankind?",
+      "answer": "Fear and intolerance."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How have we failed our children regarding education?",
+      "answer": "We failed to impart education that gives meaning to life and a sense of global citizenship."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who are the 'daughters' Satyarthi mentions?",
+      "answer": "Malala, Kayanat, Shazia, and daughters from Africa and all over the world."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Where do the solutions lie according to Satyarthi?",
+      "answer": "They lie in small groups, local organisations, and individuals confronting the problem every day."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the story of the lion and the bird about?",
+      "answer": "It is about a tiny bird trying to extinguish a forest fire with a drop of water, 'doing its bit'."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What happened eighteen years ago?",
+      "answer": "Millions marched to demand an international law against the worst forms of child labour."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the 'serious disconnect' Satyarthi mentions?",
+      "answer": "The lack of compassion despite rapid globalisation and connectivity."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What did Mahatma Gandhi say about peace?",
+      "answer": "He said to teach real peace, we shall have to begin with the children."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What question does Satyarthi ask about footballs?",
+      "answer": "Whose children are they who stitch footballs, yet never played with one?"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What question does Satyarthi ask about cocoa?",
+      "answer": "Whose children are they who harvest cocoa, yet have never tasted chocolate?"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What did the rescued 8-year-old girl ask Satyarthi?",
+      "answer": "She asked, 'Why did you not come earlier?'"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What does Satyarthi challenge in his speech?",
+      "answer": "He challenges the passivity, pessimism, and culture of silence surrounding children."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What does Satyarthi call upon the global civil society to do?",
+      "answer": "To rise above business-as-usual and fragmented agendas."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What did the cobbler say to Satyarthi 50 years ago?",
+      "answer": "He said, 'Sir, I have never thought about it. We are born to work.'"
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What was Satyarthi's vision as a child?",
+      "answer": "A vision of the cobbler boy sitting with him in his classroom."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What does 'TODAY' signify in the speech?",
+      "answer": "It signifies the immediate need for action and the realization of rights for every child."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What does Satyarthi ask the audience to feel?",
+      "answer": "He asks them to feel the child inside them."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Who does Satyarthi see calling on us?",
+      "answer": "Mahatma Gandhis, Nelson Mandelas, and Martin Luther Kings."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What does Satyarthi want to democratise?",
+      "answer": "Knowledge."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What does Satyarthi want to universalise?",
+      "answer": "Justice."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What marches does Satyarthi call for?",
+      "answer": "From exploitation to education, poverty to prosperity, slavery to liberty, violence to peace."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the final call of the speech?",
+      "answer": "Let us march!"
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the noun form of 'pursue'?",
+      "answer": "Pursuit."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the noun form of 'ignore'?",
+      "answer": "Ignorance."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the noun form of 'divine'?",
+      "answer": "Divinity."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the verb form of 'liberty'?",
+      "answer": "Liberate."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the verb form of 'resolution'?",
+      "answer": "Resolve."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'immortality'?",
+      "answer": "Mortality."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'deny'?",
+      "answer": "Accept."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'well-known'?",
+      "answer": "Unknown."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the antonym of 'slavery'?",
+      "answer": "Freedom/Liberty."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is an infinitive?",
+      "answer": "It is the base form of a verb, often preceded by 'to' (e.g., to grow)."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Summarize the first part of Kailash Satyarthi's speech.",
+      "answer": "In the first part, Satyarthi addresses the audience with respect and recites a Vedic mantra emphasizing unity and shared progress. He dedicates his award to activists and martyrs who sacrificed their lives for children's rights. He explains that he represents the silent and invisible suffering of children. He shares poignant stories of a child labourer wanting a book and a child soldier forced to kill, highlighting the denial of childhood dreams. He asserts that all religions support children's welfare."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "What does Satyarthi refuse to accept and why?",
+      "answer": "Satyarthi refuses to accept several injustices. He refuses to accept that temples/mosques have no place for children's dreams, that the world is too poor to educate children (given military spending), that laws are too weak to protect them, and that slavery is stronger than freedom. He makes these refusals to challenge the status quo and emphasize that these problems are solvable with collective will."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Describe the progress made in child rights as mentioned by Satyarthi.",
+      "answer": "Satyarthi acknowledges that progress has been made in the last few decades. The number of out-of-school children has been halved. Child labour has been reduced by a third. Child mortality and malnutrition rates have also decreased, preventing millions of deaths. However, he emphasizes that despite this progress, significant challenges remain, and we cannot be complacent."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Explain the significance of the story of the lion and the bird.",
+      "answer": "Satyarthi tells the story of a tiny bird trying to extinguish a forest fire with a drop of water while a lion runs away. The bird says, 'I am doing my bit.' This story illustrates that individual action, no matter how small, is valuable and necessary. It encourages everyone to contribute to the cause of child rights rather than feeling helpless or indifferent."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "What is the 'serious disconnect' Satyarthi talks about?",
+      "answer": "Satyarthi points out that while we live in an age of rapid globalisation, high-speed internet, and interconnected markets, there is a serious disconnect in terms of human compassion. We are connected technologically and economically but lack empathy for the suffering of others, especially children. He calls for globalising compassion to bridge this gap."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "How does Satyarthi highlight the irony of child labour using examples?",
+      "answer": "He uses powerful ironic examples to highlight the injustice of child labour. He asks whose children stitch footballs but never play with one, whose children harvest cocoa but never taste chocolate, and whose children make cars but will never drive one (implied). These examples show how children are exploited to produce goods they are deprived of enjoying, emphasizing the theft of their childhood."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Discuss the impact of the 8-year-old girl's question on Satyarthi.",
+      "answer": "The 8-year-old girl, rescued from stone quarries, asked, 'Why did you not come earlier?' This question shook Satyarthi deeply. It made him realize the urgency of the situation and the cost of delay. It serves as a haunting reminder of society's inaction and motivates him to work tirelessly. He uses it to challenge the audience's passivity."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "What is Satyarthi's call to action in Part III of the speech?",
+      "answer": "In Part III, Satyarthi calls upon governments, businesses, faith leaders, and individuals to end violence against children. He demands child-friendly policies, responsible business practices, and intergovernmental cooperation. He urges civil society to rise above fragmented agendas. He emphasizes that slavery, trafficking, and abuse have no place in a civilized society and that we must keep our promises to children."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Analyze the 'cobbler boy' story and its meaning.",
+      "answer": "Satyarthi recalls meeting a cobbler boy outside his school 50 years ago. The father's acceptance that 'we are born to work' angered Satyarthi. This incident sparked his vision of a world where that boy could sit in the classroom with him. It highlights the deep-rooted social acceptance of inequality and child labour, which Satyarthi has spent his life fighting against."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "What does the final 'March' symbolize?",
+      "answer": "The final 'March' symbolizes a collective movement towards a better world. It is a march from exploitation to education, poverty to prosperity, slavery to liberty, and violence to peace. It represents a journey from darkness (ignorance/suffering) to light (awakening/freedom). It is a call for continuous, unified action to achieve divinity through humanity."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "What are the characteristics of a good speech according to the text?",
+      "answer": "A good speech should be well-planned with organized thoughts. The language should be suitable for the audience. It should have a proper duration. It should be supported by good examples or episodes. The speaker should not be passive but expressive. Greeting the audience and dignitaries is essential. However, switching languages or speaking too softly are not considered characteristics of a good speech."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'globalising compassion'.",
+      "answer": "Globalising compassion means extending our natural human empathy beyond our immediate circles to include all of humanity, especially suffering children worldwide. Satyarthi argues that individual compassion exists but needs to be transformed into a global movement. It involves caring for children who are not our own and taking action to protect their rights, treating them as global citizens deserving of love and justice."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "How does Satyarthi use the 'empty chair' as a symbol?",
+      "answer": "The empty chair on the stage is a powerful visual symbol representing the millions of children who are left behind—those in slavery, labour, or out of school. It serves as a constant reminder during his speech that while they are celebrating peace, many children are absent and suffering. It makes the invisible children visible to the audience."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "Discuss the role of education as presented in the speech.",
+      "answer": "Education is presented as the key solution to many problems. Satyarthi states that rights, security, and hope can only be restored through education. He criticizes the current education system for failing to give meaning and global citizenship. He believes education is the path from exploitation to liberty. It is not just about literacy but about empowerment and liberation."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Why does Satyarthi mention Malala and other 'daughters'?",
+      "answer": "He mentions Malala (Yousafzai) and others like Kayanat and Shazia to highlight the courage of young girls fighting for education and peace. By calling them his 'daughters', he emphasizes a personal connection and shared responsibility. He uses them as examples of young people rising up against extremism and violence, choosing courage over fear."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "What is the significance of the Vedic mantra mentioned at the beginning?",
+      "answer": "The Vedic mantra ('Let's walk together, let's speak together...') sets a tone of unity and shared purpose for the speech. It roots Satyarthi's modern activism in ancient wisdom. It emphasizes collective action and inclusivity ('not a single person should be left behind'). It frames the struggle for child rights as a universal, spiritual duty to liberate humanity."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "How can students contribute to helping needy children?",
+      "answer": "Students can contribute by raising awareness about child labour and rights. They can treat underprivileged children with respect and kindness. They can donate books, toys, or clothes. They can help teach out-of-school children. They can also report instances of child labour to authorities or NGOs. Their empathy and small actions can make a difference."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "What is the difference between Active and Passive voice with examples from the text.",
+      "answer": "Active voice focuses on the doer (e.g., 'An extremist militia kidnapped him'). Passive voice focuses on the receiver of the action (e.g., 'He was kidnapped by an extremist militia'). Satyarthi uses passive voice to highlight the victim (the child) and the act of violence. The exercise asks to convert sentences like 'We can do it' (Active) to 'It can be done by us' (Passive)."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "Draft a short welcome speech for Malala Yousafzai.",
+      "answer": "Honourable Principal, teachers, and friends. It is a moment of great pride to welcome our Chief Guest, Malala Yousafzai. She is not just a Nobel Laureate but a symbol of courage. She stood up for girls' education against bullets. Her life teaches us that one voice can change the world. We are eager to hear her inspiring words. Welcome, Malala!"
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Explain the metaphorical meaning of 'darkness to light' in the speech.",
+      "answer": "'Darkness' metaphorically represents ignorance, oppression, slavery, and the suffering of children. 'Light' represents education, freedom, justice, and hope. The march from darkness to light is the journey of liberating children from their grim reality and providing them with a bright, dignified future. It is a spiritual and social transformation for humanity."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "Why does Satyarthi mention that he has 'freed a child from slavery' thousands of times?",
+      "answer": "He mentions this to show the practical impact of his work and the emotional reward it brings. He feels 'liberated' himself each time a child is freed. It emphasizes that his activism is not just theoretical but involves real rescue operations. It also highlights the sheer scale of the problem and his sustained commitment over decades."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "What does Satyarthi mean by 'democratise knowledge'?",
+      "answer": "To 'democratise knowledge' means to make knowledge and education accessible to everyone, regardless of their social or economic status. It implies breaking down barriers that prevent poor children from learning. It suggests that knowledge should not be the privilege of a few but a right for all, empowering every individual to participate in society."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "How does the speech address the role of businesses?",
+      "answer": "The speech calls on businesses to be 'more responsible, accountable and open to innovative partnerships'. This implies that businesses should ensure their supply chains are free of child labour. They should not put profit over human rights. They have a duty to contribute to social welfare and work with NGOs and governments to protect children."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "What is the significance of the phrase 'I am TODAY'?",
+      "answer": "'I am TODAY' signifies living in the present moment and taking immediate action. It rejects the idea of waiting for a distant future to solve problems. It asserts that the time for change is now. By identifying with 'TODAY', Satyarthi embodies the urgency and the reality of the children's needs that cannot be postponed."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "Why does Satyarthi use repetition in his speech (e.g., 'I refuse to accept')?",
+      "answer": "Repetition is a rhetorical device used to emphasize a point and show strong conviction. By repeating 'I refuse to accept', Satyarthi forcefully rejects the justifications for child suffering. It builds emotional intensity and rallies the audience. It makes his message of defiance against injustice clear and memorable."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "How does Satyarthi connect India and Norway?",
+      "answer": "Satyarthi connects India (his home) and Norway (where the Nobel ceremony is held) as two centres of global peace. He links the ancient wisdom of India (Buddha, Gandhi) with the modern peace efforts represented by the Nobel Committee in Norway. He sees his journey as a bridge between these two traditions of brotherhood."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "Discuss the theme of 'Freedom' in the speech.",
+      "answer": "Freedom is the central theme. Satyarthi lists specific freedoms every child deserves: to grow, learn, play, and dream. He contrasts this with the 'shackles of slavery'. He believes freedom is indivisible; if one child is enslaved, no one is truly free. His life's aim is to ensure total freedom for childhood."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "What is the emotional appeal of the speech?",
+      "answer": "The speech appeals to the audience's emotions by using heart-wrenching stories of suffering children. Phrases like 'broken spirits', 'exhausted eyes', and 'kill not your children' evoke pity and outrage. Satyarthi asks listeners to 'feel the child inside you', creating a personal emotional connection to the cause."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "How can 'fear and intolerance' be combated?",
+      "answer": "Satyarthi suggests combating fear and intolerance through education and courage. He cites the example of young people choosing 'courage over fear' and 'peace over violence'. By promoting global citizenship and understanding through education, the seeds of intolerance can be removed. Collective action and compassion are the antidotes."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "What is the message of the 'Let's March' title?",
+      "answer": "The title 'Let's March' is a call to collective action. 'March' implies forward movement, purpose, and solidarity. It suggests that the journey to child rights is ongoing and requires everyone to participate. It is an invitation to leave behind apathy and move towards a better, more just future for children."
+    }
+  ]
+}

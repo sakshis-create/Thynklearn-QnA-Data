@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.02",
+    "standard": "10",
+    "subject": "Political Science",
+    "medium": "English",
+    "chapter_name": "The Electoral Process"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which article of the Indian Constitution established the Election Commission?",
+      "options": [
+        { "option_id": 1, "text": "Article 324", "is_correct": true },
+        { "option_id": 2, "text": "Article 356", "is_correct": false },
+        { "option_id": 3, "text": "Article 370", "is_correct": false },
+        { "option_id": 4, "text": "Article 14", "is_correct": false }
+      ],
+      "answer": "Article 324"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who appoints the Election Commissioners in India?",
+      "options": [
+        { "option_id": 1, "text": "The Prime Minister", "is_correct": false },
+        { "option_id": 2, "text": "The President", "is_correct": true },
+        { "option_id": 3, "text": "The Chief Justice", "is_correct": false },
+        { "option_id": 4, "text": "The Speaker of Lok Sabha", "is_correct": false }
+      ],
+      "answer": "The President"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who was the first Chief Election Commissioner of independent India?",
+      "options": [
+        { "option_id": 1, "text": "T.N. Seshan", "is_correct": false },
+        { "option_id": 2, "text": "Sukumar Sen", "is_correct": true },
+        { "option_id": 3, "text": "Dr. Rajendra Prasad", "is_correct": false },
+        { "option_id": 4, "text": "Neela Satyanarayan", "is_correct": false }
+      ],
+      "answer": "Sukumar Sen"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the minimum age required for an Indian citizen to have the right to vote?",
+      "options": [
+        { "option_id": 1, "text": "21 years", "is_correct": false },
+        { "option_id": 2, "text": "25 years", "is_correct": false },
+        { "option_id": 3, "text": "18 years", "is_correct": true },
+        { "option_id": 4, "text": "20 years", "is_correct": false }
+      ],
+      "answer": "18 years"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The total number of members in Lok Sabha is ________.",
+      "options": [
+        { "option_id": 1, "text": "543", "is_correct": true },
+        { "option_id": 2, "text": "500", "is_correct": false },
+        { "option_id": 3, "text": "550", "is_correct": false },
+        { "option_id": 4, "text": "250", "is_correct": false }
+      ],
+      "answer": "543"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which commission is responsible for restructuring the constituencies?",
+      "options": [
+        { "option_id": 1, "text": "Planning Commission", "is_correct": false },
+        { "option_id": 2, "text": "Election Commission", "is_correct": false },
+        { "option_id": 3, "text": "Delimitation Commission", "is_correct": true },
+        { "option_id": 4, "text": "Finance Commission", "is_correct": false }
+      ],
+      "answer": "Delimitation Commission"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who was the first voter of India?",
+      "options": [
+        { "option_id": 1, "text": "Sukumar Sen", "is_correct": false },
+        { "option_id": 2, "text": "Sham Sharan Negi", "is_correct": true },
+        { "option_id": 3, "text": "T.N. Seshan", "is_correct": false },
+        { "option_id": 4, "text": "Dr. B.R. Ambedkar", "is_correct": false }
+      ],
+      "answer": "Sham Sharan Negi"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "When is National Voter's Day celebrated?",
+      "options": [
+        { "option_id": 1, "text": "26th January", "is_correct": false },
+        { "option_id": 2, "text": "25th January", "is_correct": true },
+        { "option_id": 3, "text": "15th August", "is_correct": false },
+        { "option_id": 4, "text": "2nd October", "is_correct": false }
+      ],
+      "answer": "25th January"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The Election Commission is an ________ body.",
+      "options": [
+        { "option_id": 1, "text": "Autonomous", "is_correct": true },
+        { "option_id": 2, "text": "Private", "is_correct": false },
+        { "option_id": 3, "text": "Political", "is_correct": false },
+        { "option_id": 4, "text": "Dependent", "is_correct": false }
+      ],
+      "answer": "Autonomous"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does NOTA stand for?",
+      "options": [
+        { "option_id": 1, "text": "No One To Appoint", "is_correct": false },
+        { "option_id": 2, "text": "None Of The Above", "is_correct": true },
+        { "option_id": 3, "text": "Not On The Agenda", "is_correct": false },
+        { "option_id": 4, "text": "None Of The Authority", "is_correct": false }
+      ],
+      "answer": "None Of The Above"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "In which decade did the use of EVM machines start?",
+      "options": [
+        { "option_id": 1, "text": "1950s", "is_correct": false },
+        { "option_id": 2, "text": "1990s", "is_correct": true },
+        { "option_id": 3, "text": "1970s", "is_correct": false },
+        { "option_id": 4, "text": "2000s", "is_correct": false }
+      ],
+      "answer": "1990s"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which elections are called 'Midterm Elections'?",
+      "options": [
+        { "option_id": 1, "text": "Elections held after five years", "is_correct": false },
+        { "option_id": 2, "text": "Elections held before the completion of the term", "is_correct": true },
+        { "option_id": 3, "text": "Elections held only for one seat", "is_correct": false },
+        { "option_id": 4, "text": "Elections held in winter", "is_correct": false }
+      ],
+      "answer": "Elections held before the completion of the term"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the full form of VVPAT?",
+      "options": [
+        { "option_id": 1, "text": "Voter Verified Paper Audit Trail", "is_correct": true },
+        { "option_id": 2, "text": "Voter Verified Personal Audit Tool", "is_correct": false },
+        { "option_id": 3, "text": "Voting Validation Process And Time", "is_correct": false },
+        { "option_id": 4, "text": "Verified Voter Paper Authority Test", "is_correct": false }
+      ],
+      "answer": "Voter Verified Paper Audit Trail"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Elections held for a vacant seat due to death or resignation of a representative are called ________.",
+      "options": [
+        { "option_id": 1, "text": "General Elections", "is_correct": false },
+        { "option_id": 2, "text": "Midterm Elections", "is_correct": false },
+        { "option_id": 3, "text": "By-elections", "is_correct": true },
+        { "option_id": 4, "text": "Local Elections", "is_correct": false }
+      ],
+      "answer": "By-elections"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who has the responsibility of preparing the voters list?",
+      "options": [
+        { "option_id": 1, "text": "The State Government", "is_correct": false },
+        { "option_id": 2, "text": "The Election Commission", "is_correct": true },
+        { "option_id": 3, "text": "The Parliament", "is_correct": false },
+        { "option_id": 4, "text": "The Supreme Court", "is_correct": false }
+      ],
+      "answer": "The Election Commission"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of the following is a major challenge during elections?",
+      "options": [
+        { "option_id": 1, "text": "High voter turnout", "is_correct": false },
+        { "option_id": 2, "text": "Misuse of money", "is_correct": true },
+        { "option_id": 3, "text": "Peaceful campaigning", "is_correct": false },
+        { "option_id": 4, "text": "Usage of EVMs", "is_correct": false }
+      ],
+      "answer": "Misuse of money"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is necessary to preserve the independence of the Election Commission?",
+      "options": [
+        { "option_id": 1, "text": "Chief Election Commissioner cannot be removed easily", "is_correct": true },
+        { "option_id": 2, "text": "Commissioners are appointed by Prime Minister", "is_correct": false },
+        { "option_id": 3, "text": "Commissioners have no fixed term", "is_correct": false },
+        { "option_id": 4, "text": "Commissioners can join political parties", "is_correct": false }
+      ],
+      "answer": "Chief Election Commissioner cannot be removed easily"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What does the 'Code of Conduct' explain?",
+      "options": [
+        { "option_id": 1, "text": "How to use an EVM", "is_correct": false },
+        { "option_id": 2, "text": "Rules to be followed during elections", "is_correct": true },
+        { "option_id": 3, "text": "History of elections", "is_correct": false },
+        { "option_id": 4, "text": "Salaries of ministers", "is_correct": false }
+      ],
+      "answer": "Rules to be followed during elections"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "To increase participation of women in politics, it is suggested that political parties should give ________ candidature to women.",
+      "options": [
+        { "option_id": 1, "text": "33%", "is_correct": false },
+        { "option_id": 2, "text": "50%", "is_correct": true },
+        { "option_id": 3, "text": "25%", "is_correct": false },
+        { "option_id": 4, "text": "10%", "is_correct": false }
+      ],
+      "answer": "50%"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Giving election tickets to relatives creates which problem?",
+      "options": [
+        { "option_id": 1, "text": "Efficiency", "is_correct": false },
+        { "option_id": 2, "text": "Family monopoly", "is_correct": true },
+        { "option_id": 3, "text": "Transparency", "is_correct": false },
+        { "option_id": 4, "text": "Fairness", "is_correct": false }
+      ],
+      "answer": "Family monopoly"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "In the first elections, what was used for voting?",
+      "options": [
+        { "option_id": 1, "text": "EVMs", "is_correct": false },
+        { "option_id": 2, "text": "Ballot boxes", "is_correct": true },
+        { "option_id": 3, "text": "Online voting", "is_correct": false },
+        { "option_id": 4, "text": "Show of hands", "is_correct": false }
+      ],
+      "answer": "Ballot boxes"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The Election Commission can ________ any political party.",
+      "options": [
+        { "option_id": 1, "text": "Recognise", "is_correct": false },
+        { "option_id": 2, "text": "Derecognise", "is_correct": false },
+        { "option_id": 3, "text": "Both Recognise and Derecognise", "is_correct": true },
+        { "option_id": 4, "text": "Fund", "is_correct": false }
+      ],
+      "answer": "Both Recognise and Derecognise"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the benefit of using EVMs regarding the environment?",
+      "options": [
+        { "option_id": 1, "text": "They use solar power", "is_correct": false },
+        { "option_id": 2, "text": "They reduced cutting of trees for paper", "is_correct": true },
+        { "option_id": 3, "text": "They are biodegradable", "is_correct": false },
+        { "option_id": 4, "text": "They release oxygen", "is_correct": false }
+      ],
+      "answer": "They reduced cutting of trees for paper"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who helps the Election Commission execute the process of elections?",
+      "options": [
+        { "option_id": 1, "text": "Private companies", "is_correct": false },
+        { "option_id": 2, "text": "Government officers and teachers", "is_correct": true },
+        { "option_id": 3, "text": "Foreign observers", "is_correct": false },
+        { "option_id": 4, "text": "Army only", "is_correct": false }
+      ],
+      "answer": "Government officers and teachers"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Elections help to bring a change in power through ________ means.",
+      "options": [
+        { "option_id": 1, "text": "Violent", "is_correct": false },
+        { "option_id": 2, "text": "Peaceful", "is_correct": true },
+        { "option_id": 3, "text": "Illegal", "is_correct": false },
+        { "option_id": 4, "text": "Revolutionary", "is_correct": false }
+      ],
+      "answer": "Peaceful"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a function of the Election Commission?",
+      "options": [
+        { "option_id": 1, "text": "Preparing voters list", "is_correct": false },
+        { "option_id": 2, "text": "Deciding election timetable", "is_correct": false },
+        { "option_id": 3, "text": "Selecting candidates for parties", "is_correct": true },
+        { "option_id": 4, "text": "Resolving election disputes", "is_correct": false }
+      ],
+      "answer": "Selecting candidates for parties"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Some constituencies are reserved for ________.",
+      "options": [
+        { "option_id": 1, "text": "Rich people", "is_correct": false },
+        { "option_id": 2, "text": "Scheduled Castes and Scheduled Tribes", "is_correct": true },
+        { "option_id": 3, "text": "Businessmen", "is_correct": false },
+        { "option_id": 4, "text": "Celebrities", "is_correct": false }
+      ],
+      "answer": "Scheduled Castes and Scheduled Tribes"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who allots election symbols to political parties?",
+      "options": [
+        { "option_id": 1, "text": "The President", "is_correct": false },
+        { "option_id": 2, "text": "The Prime Minister", "is_correct": false },
+        { "option_id": 3, "text": "The Election Commission", "is_correct": true },
+        { "option_id": 4, "text": "The Parliament", "is_correct": false }
+      ],
+      "answer": "The Election Commission"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Lok Sabha elections held after every five years are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Midterm Elections", "is_correct": false },
+        { "option_id": 2, "text": "General Elections", "is_correct": true },
+        { "option_id": 3, "text": "By-elections", "is_correct": false },
+        { "option_id": 4, "text": "Local Elections", "is_correct": false }
+      ],
+      "answer": "General Elections"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Modern democracy is a ________ democracy.",
+      "options": [
+        { "option_id": 1, "text": "Direct", "is_correct": false },
+        { "option_id": 2, "text": "Representative", "is_correct": true },
+        { "option_id": 3, "text": "Monarchical", "is_correct": false },
+        { "option_id": 4, "text": "Dictatorial", "is_correct": false }
+      ],
+      "answer": "Representative"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The Election Commission consists of one Chief Election Commissioner and ________ other commissioners.",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": true },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Four", "is_correct": false },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "When was the Election Commission established?",
+      "options": [
+        { "option_id": 1, "text": "1947", "is_correct": false },
+        { "option_id": 2, "text": "1950", "is_correct": true },
+        { "option_id": 3, "text": "1952", "is_correct": false },
+        { "option_id": 4, "text": "1960", "is_correct": false }
+      ],
+      "answer": "1950"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Why does the Election Commission scrutinise applications of candidates?",
+      "options": [
+        { "option_id": 1, "text": "To check spelling mistakes", "is_correct": false },
+        { "option_id": 2, "text": "To verify eligibility", "is_correct": true },
+        { "option_id": 3, "text": "To reduce the number of candidates", "is_correct": false },
+        { "option_id": 4, "text": "To collect fees", "is_correct": false }
+      ],
+      "answer": "To verify eligibility"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which of the following is a violation of the code of conduct?",
+      "options": [
+        { "option_id": 1, "text": "Appealing for votes door to door", "is_correct": false },
+        { "option_id": 2, "text": "Distributing household items to voters", "is_correct": true },
+        { "option_id": 3, "text": "Conducting rallies", "is_correct": false },
+        { "option_id": 4, "text": "Releasing a manifesto", "is_correct": false }
+      ],
+      "answer": "Distributing household items to voters"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The Election Commission can conduct ________ in a particular constituency if necessary.",
+      "options": [
+        { "option_id": 1, "text": "Re-election", "is_correct": true },
+        { "option_id": 2, "text": "A survey", "is_correct": false },
+        { "option_id": 3, "text": "A debate", "is_correct": false },
+        { "option_id": 4, "text": "A census", "is_correct": false }
+      ],
+      "answer": "Re-election"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What is the result of 'Criminalisation of Politics'?",
+      "options": [
+        { "option_id": 1, "text": "Free and fair elections", "is_correct": false },
+        { "option_id": 2, "text": "Problems in ensuring free environment", "is_correct": true },
+        { "option_id": 3, "text": "Better governance", "is_correct": false },
+        { "option_id": 4, "text": "Increased voter turnout", "is_correct": false }
+      ],
+      "answer": "Problems in ensuring free environment"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Candidates must disclose information about their ________ to the Election Commission.",
+      "options": [
+        { "option_id": 1, "text": "Favorite food", "is_correct": false },
+        { "option_id": 2, "text": "Property and criminal background", "is_correct": true },
+        { "option_id": 3, "text": "Friends", "is_correct": false },
+        { "option_id": 4, "text": "Hobbies", "is_correct": false }
+      ],
+      "answer": "Property and criminal background"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who was Sham Sharan Negi?",
+      "options": [
+        { "option_id": 1, "text": "First Chief Election Commissioner", "is_correct": false },
+        { "option_id": 2, "text": "First voter of India", "is_correct": true },
+        { "option_id": 3, "text": "A famous politician", "is_correct": false },
+        { "option_id": 4, "text": "An EVM inventor", "is_correct": false }
+      ],
+      "answer": "First voter of India"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which system ensures that even illiterate people can vote?",
+      "options": [
+        { "option_id": 1, "text": "Using symbols on ballot boxes/EVMs", "is_correct": true },
+        { "option_id": 2, "text": "Writing essays", "is_correct": false },
+        { "option_id": 3, "text": "Oral exams", "is_correct": false },
+        { "option_id": 4, "text": "Signature matching", "is_correct": false }
+      ],
+      "answer": "Using symbols on ballot boxes/EVMs"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "EVMs helped in the early declaration of ________.",
+      "options": [
+        { "option_id": 1, "text": "Candidates", "is_correct": false },
+        { "option_id": 2, "text": "Election results", "is_correct": true },
+        { "option_id": 3, "text": "Voter list", "is_correct": false },
+        { "option_id": 4, "text": "Holidays", "is_correct": false }
+      ],
+      "answer": "Election results"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Government has to observe the ________ declared by the Election Commission.",
+      "options": [
+        { "option_id": 1, "text": "Holidays", "is_correct": false },
+        { "option_id": 2, "text": "Code of Conduct", "is_correct": true },
+        { "option_id": 3, "text": "Traffic rules", "is_correct": false },
+        { "option_id": 4, "text": "Budget", "is_correct": false }
+      ],
+      "answer": "Code of Conduct"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which of these is a suggestion for electoral reform?",
+      "options": [
+        { "option_id": 1, "text": "Government should pay for election expenses", "is_correct": true },
+        { "option_id": 2, "text": "Stop holding elections", "is_correct": false },
+        { "option_id": 3, "text": "Allow criminals to contest", "is_correct": false },
+        { "option_id": 4, "text": "Remove NOTA option", "is_correct": false }
+      ],
+      "answer": "Government should pay for election expenses"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "The first election in independent India was held in ________.",
+      "options": [
+        { "option_id": 1, "text": "1947-48", "is_correct": false },
+        { "option_id": 2, "text": "1951-52", "is_correct": true },
+        { "option_id": 3, "text": "1950-51", "is_correct": false },
+        { "option_id": 4, "text": "1955-56", "is_correct": false }
+      ],
+      "answer": "1951-52"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who can verify whether their vote is registered properly using VVPAT?",
+      "options": [
+        { "option_id": 1, "text": "The Candidate", "is_correct": false },
+        { "option_id": 2, "text": "The Voter", "is_correct": true },
+        { "option_id": 3, "text": "The Media", "is_correct": false },
+        { "option_id": 4, "text": "The Government", "is_correct": false }
+      ],
+      "answer": "The Voter"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Every member of Lok Sabha represents one ________.",
+      "options": [
+        { "option_id": 1, "text": "State", "is_correct": false },
+        { "option_id": 2, "text": "Constituency", "is_correct": true },
+        { "option_id": 3, "text": "Village", "is_correct": false },
+        { "option_id": 4, "text": "District", "is_correct": false }
+      ],
+      "answer": "Constituency"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "One of the challenges mentioned is the misuse of ________ during elections.",
+      "options": [
+        { "option_id": 1, "text": "Paper", "is_correct": false },
+        { "option_id": 2, "text": "Money", "is_correct": true },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Electricity", "is_correct": false }
+      ],
+      "answer": "Money"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "The Election Commission has the authority to issue ________ to voters.",
+      "options": [
+        { "option_id": 1, "text": "Passports", "is_correct": false },
+        { "option_id": 2, "text": "Identity Cards", "is_correct": true },
+        { "option_id": 3, "text": "Driving Licenses", "is_correct": false },
+        { "option_id": 4, "text": "Ration Cards", "is_correct": false }
+      ],
+      "answer": "Identity Cards"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What happens if a political party splits?",
+      "options": [
+        { "option_id": 1, "text": "Elections are cancelled", "is_correct": false },
+        { "option_id": 2, "text": "New parties are formed", "is_correct": true },
+        { "option_id": 3, "text": "The party is banned", "is_correct": false },
+        { "option_id": 4, "text": "Government falls", "is_correct": false }
+      ],
+      "answer": "New parties are formed"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "VVPAT was added to EVMs to stop ________ in elections.",
+      "options": [
+        { "option_id": 1, "text": "Voting", "is_correct": false },
+        { "option_id": 2, "text": "Malpractices", "is_correct": true },
+        { "option_id": 3, "text": "Campaigning", "is_correct": false },
+        { "option_id": 4, "text": "Counting", "is_correct": false }
+      ],
+      "answer": "Malpractices"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which Act should be amended to prevent criminals from participating in elections?",
+      "options": [
+        { "option_id": 1, "text": "Right to Information Act", "is_correct": false },
+        { "option_id": 2, "text": "Representation of the Peoples Act", "is_correct": true },
+        { "option_id": 3, "text": "Consumer Protection Act", "is_correct": false },
+        { "option_id": 4, "text": "Environmental Protection Act", "is_correct": false }
+      ],
+      "answer": "Representation of the Peoples Act"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What role do elections play in India's democracy?",
+      "answer": "Elections play a major role in the working of India's democracy[cite: 301]."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How are people's representatives selected?",
+      "answer": "People's representatives are selected through elections[cite: 302]."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What do elections help to bring about peacefully?",
+      "answer": "Elections help to bring a change in power through peaceful means[cite: 303]."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What opportunity do different political parties get through elections?",
+      "answer": "Different political parties get an opportunity to rule[cite: 303]."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What changes along with the government after elections?",
+      "answer": "Policies of the government and the life of society also change[cite: 304]."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What qualities do we expect in our elected representatives?",
+      "answer": "We expect that representatives should be efficient, honest, and trustworthy[cite: 305]."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How should the electoral process be?",
+      "answer": "The electoral process should be free, fair, and reliable[cite: 306]."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why has the Constitution established an independent Election Commission?",
+      "answer": "To ensure that the electoral process is free, fair, and reliable, the Constitution has established an independent Election Commission[cite: 307]."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who conducts all important elections in India?",
+      "answer": "The Election Commission of India and the State level State Election Commissions conduct all important elections[cite: 308]."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is modern democracy known as?",
+      "answer": "Modern democracy is known as a representative democracy[cite: 310]."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why is it not possible to involve the entire population in decision-making?",
+      "answer": "It is not possible to involve the entire population in the decision-making process due to the large size of the population[cite: 310]."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What practice resulted from the inability to involve everyone in governance?",
+      "answer": "This resulted in the practice of electing some people on behalf of the entire population as representatives[cite: 311]."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "To whom are the representatives expected to be responsible?",
+      "answer": "The representatives are expected to be responsible to the people[cite: 312]."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What should representatives give preference to?",
+      "answer": "They should give preference to the welfare of the people[cite: 312]."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What article of the Indian Constitution established the Election Commission?",
+      "answer": "Article 324 of the Indian Constitution established the Election Commission[cite: 320]."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Who makes up the Election Commission?",
+      "answer": "The Election Commission consists of one Chief Election Commissioner and two other commissioners[cite: 320]."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Who appoints the election commissioners?",
+      "answer": "The President appoints the election commissioners[cite: 327]."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Can the Chief Election Commissioner be removed easily?",
+      "answer": "No, the Chief Election Commissioner cannot be removed from his post easily or on account of any political reasons[cite: 327]."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why is the Chief Election Commissioner's position protected?",
+      "answer": "This is necessary so as to preserve the independence of the Election Commission[cite: 328]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Who helps the Election Commission execute the election process?",
+      "answer": "Government officers, teachers, and other employees help the Election Commission to execute the process of elections[cite: 330]."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who was Sukumar Sen?",
+      "answer": "Sukumar Sen was the first Chief Election Commissioner after independence[cite: 322]."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "When was the Election Commission established?",
+      "answer": "The Election Commission was established in 1950[cite: 325]."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the age requirement for an Indian citizen to vote?",
+      "answer": "Every Indian citizen who has completed 18 years of age has a right to vote[cite: 336]."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is required to exercise the right to vote?",
+      "answer": "To exercise the right to vote, a citizen's name must be in the voters list[cite: 337]."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Whose responsibility is it to prepare the voters list?",
+      "answer": "It is the responsibility of the Election Commission to prepare the list of eligible voters[cite: 338]."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What authority does the Election Commission have regarding voter identification?",
+      "answer": "The Election Commission has the authority to issue identity cards to the voters[cite: 339]."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Who decides the timetable and programme of elections?",
+      "answer": "The Election Commission decides the timetable and the programme of elections[cite: 344]."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What happens after election dates are declared?",
+      "answer": "After election dates are declared, every political party selects the candidates to contest elections[cite: 346]."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What do candidates have to fill out to contest elections?",
+      "answer": "Candidates have to fill applications which include information about their own self[cite: 348]."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Who scrutinises the applications of candidates?",
+      "answer": "The Election Commission scrutinises all the applications[cite: 349]."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What kind of party system do we have in India?",
+      "answer": "We have a multiparty system in our country[cite: 350]."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Who gives recognition to political parties?",
+      "answer": "All political parties are required to be recognised by the Election Commission[cite: 360]."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Can the Election Commission derecognise a party?",
+      "answer": "Yes, the Election Commission also has a right to derecognise any political party[cite: 361]."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Who allots election symbols?",
+      "answer": "The Election Commission allots election symbols to the political parties[cite: 362]."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Who resolves disputes relating to elections?",
+      "answer": "The Election Commission has the responsibility of resolving any disputes that may arise regarding elections [cite: 363-364]."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What power does the EC have regarding disqualified candidates?",
+      "answer": "The EC can declare any candidate as disqualified[cite: 365]."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the total number of members in Lok Sabha?",
+      "answer": "The total number of members in Lok Sabha is 543[cite: 390]."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who creates the constituencies?",
+      "answer": "Creating constituencies is the responsibility of the Delimitation Commission[cite: 392]."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Does the Delimitation Commission succumb to pressure?",
+      "answer": "No, the Delimitation Commission does not succumb to any pressure while restructuring the constituencies[cite: 392]."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the Code of Conduct?",
+      "answer": "The Code of Conduct explains the rules that are to be followed by the Government, political parties, and voters before and during elections[cite: 397]."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why has the Election Commission used its powers strictly recently?",
+      "answer": "To control malpractices during elections[cite: 396]."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the effect of strict observance of the Code of Conduct?",
+      "answer": "Due to strict observance, the common voters have become confident[cite: 400]."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is a major challenge regarding money in elections?",
+      "answer": "Misuse of money takes place to a great extent during elections[cite: 404]."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What problem arises when candidates with criminal backgrounds get tickets?",
+      "answer": "This results in the criminalisation of politics and creates problems in ensuring a free environment for elections[cite: 407]."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is another major challenge mentioned besides money and criminals?",
+      "answer": "Another major challenge is violence during elections[cite: 408]."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What practice creates a family monopoly in politics?",
+      "answer": "The practice of leaders giving election tickets to their own relatives creates a family monopoly [cite: 416-417]."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Who was the first voter of India?",
+      "answer": "Sham Sharan Negi from Himachal Pradesh was the first voter of India[cite: 378]."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "When did the first voter exercise his right to vote?",
+      "answer": "He exercised his right to vote on 25th October 1951 [cite: 378-379]."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What suggestion is made regarding women's participation?",
+      "answer": "Political parties should give 50% candidature to women candidates[cite: 424]."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What should the government do regarding election expenses?",
+      "answer": "The Government should take care of election expenses to stop the misuse of money[cite: 427]."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Which Act should be amended to stop criminals from contesting?",
+      "answer": "The Representation of the Peoples Act should be amended[cite: 428]."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "When was the first election in independent India held?",
+      "answer": "The first election in independent India was held in 1951-52[cite: 430]."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What was used for voting in the initial elections?",
+      "answer": "In the initial elections, ballot boxes were used for the purpose of voting[cite: 432]."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "When did the use of EVM machines start?",
+      "answer": "The use of EVM machines started from the decade of 1990s[cite: 433]."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What option is available if a voter does not want to vote for any candidate?",
+      "answer": "If voters do not want to vote for any candidate, they can choose the option of 'None of the above' (NOTA) [cite: 434-435]."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How did EVMs help the disabled people?",
+      "answer": "It has become easy for disabled people (Divyanga) to vote using EVMs[cite: 435]."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How did EVMs help the environment?",
+      "answer": "It reduced the cutting of trees for paper and thereby helped in the protection of the environment[cite: 436]."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What are General Elections?",
+      "answer": "Lok Sabha elections held after every five years are called general elections[cite: 440]."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What are Midterm Elections?",
+      "answer": "Elections held before the completion of the term if the government loses its majority are called midterm elections [cite: 441-442]."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is a By-election?",
+      "answer": "If an elected representative resigns or dies, the election held for that vacant seat is called a by-election [cite: 445-446]."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "When was the expert committee for VVPAT established?",
+      "answer": "The Election Commission established an expert committee on 8th October 2010[cite: 448]."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is the purpose of VVPAT?",
+      "answer": "The purpose of VVPAT is to stop malpractices in elections and allow voters to verify their vote [cite: 449-450]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What does VVPAT stand for?",
+      "answer": "VVPAT stands for Voter Verified Paper Audit Trail[cite: 448]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why is the independence of the Election Commission preserved?",
+      "answer": "It is preserved so that the Commission can conduct elections in a free and fair manner without pressure[cite: 328]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Does the Election Commission have separate staff?",
+      "answer": "No, the Election Commission does not have a separate staff[cite: 330]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is the purpose of National Voter's Day?",
+      "answer": "The purpose is to create awareness among voters for registration [cite: 333-334]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Who selects candidates for a political party?",
+      "answer": "Every political party selects the candidates to contest elections[cite: 346]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Can candidates contest elections without a party?",
+      "answer": "Yes, some candidates contest elections independently without the support of any political party[cite: 347]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What must recognised parties have present at the time of counting votes?",
+      "answer": "Official representatives of political parties remain present at the time of counting votes[cite: 357]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What advantage do recognised parties have regarding media?",
+      "answer": "Recognised parties have equal opportunity to present their side before media such as television and radio[cite: 358]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "How are new political parties formed?",
+      "answer": "New parties continue to be formed, often due to splits in existing parties[cite: 350, 359]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Who handled the first election under adverse conditions?",
+      "answer": "Mr. Sukumar Sen efficiently handled the responsibility of the Election Commission under adverse conditions[cite: 326]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What was the challenge in preparing the first voters list?",
+      "answer": "Preparing the voters list was a challenging task because many people were illiterate [cite: 410-411]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How many steel boxes were made for the first election?",
+      "answer": "20 lacs steel boxes were made for voting purpose[cite: 412]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "How did illiterate people vote in the first election?",
+      "answer": "They dropped blank ballot papers into the box having the election symbol of the party they wanted to vote for[cite: 413]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What are the two important processes in democracy mentioned in the text?",
+      "answer": "Elections and representation are two very important processes in democracy[cite: 302]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What does Article 324 create?",
+      "answer": "Article 324 creates an autonomous body called the Election Commission[cite: 320]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What happens if an elected government loses its majority?",
+      "answer": "If no alternative government is possible, midterm elections are held[cite: 441]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why is the electoral process considered an inseparable component?",
+      "answer": "The election process is an inseparable component of a comprehensive democratic process[cite: 315]."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Who gives the charge of Election Commissioner to Sukumar Sen?",
+      "answer": "He was given the charge after the Election Commission was established in 1950 [cite: 324-325]."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Is the Election Commission a government department?",
+      "answer": "No, it is an autonomous body established by the Constitution[cite: 320]."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is the role of the State Election Commission?",
+      "answer": "The State Election Commissions conduct elections at the state level[cite: 308]."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is a constituency?",
+      "answer": "A constituency is a specific area that an elected member represents[cite: 391]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is the primary duty of voters?",
+      "answer": "Voting is our duty as well as a responsibility[cite: 367]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What information must candidates disclose about their assets?",
+      "answer": "Candidates are required to give information about their property to the Election Commission[cite: 342]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why must candidates disclose criminal backgrounds?",
+      "answer": "To prevent criminalization of politics and allow voters to make informed decisions [cite: 406-407]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is the outcome of violence during elections?",
+      "answer": "Violence poses a major challenge to conducting free and fair elections[cite: 408]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Who should help the Election Commission control violence?",
+      "answer": "All political parties should help the Election Commission to control violence[cite: 415]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is 'One Vote One Value'?",
+      "answer": "It is a democratic principle where every voter's vote has equal weight[cite: 420]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What does the future of democracy depend on?",
+      "answer": "The future of democracy depends on elections[cite: 421]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why should political parties follow court decisions?",
+      "answer": "They should strictly follow decisions to prevent candidates with criminal backgrounds from contesting[cite: 426]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What was the beginning of shaping democracy in India?",
+      "answer": "The first election in 1951-52 was the beginning of shaping democracy through electoral politics[cite: 431]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "How does government funding of elections help?",
+      "answer": "It ensures that parties will not misuse money and mismanagement can be stopped[cite: 427]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What happens if a candidate dies before election results?",
+      "answer": "If a candidate dies, the election for that seat might be postponed or a by-election held later."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Who administers the election process in India?",
+      "answer": "The Election Commission administers the election process in India[cite: 307]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What provision is made for Election Commission expenses?",
+      "answer": "There is a separate provision made for the expenses of the Election Commission[cite: 329]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the first step in the process of elections?",
+      "answer": "The first step is the establishment of constituencies[cite: 382]."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What comes after the counting of votes?",
+      "answer": "After counting of votes, the results of elections are declared[cite: 388]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Who has the final say in disputes regarding elections?",
+      "answer": "The Election Commission has the final say and responsibility to resolve disputes[cite: 363]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is the Code of Conduct necessary?",
+      "answer": "It is necessary to ensure free and fair elections and to control malpractices [cite: 394-396]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the functions of the Election Commission regarding voters lists and candidates.",
+      "answer": "The Election Commission has several key functions. Firstly, it is responsible for preparing and updating the voters list, ensuring every eligible citizen over 18 is included. It also issues identity cards to voters. Secondly, it scrutinises the applications of candidates who wish to contest elections to verify their eligibility and information. It ensures that candidates disclose their property and criminal background details. These steps are crucial for maintaining the integrity of the electoral process [cite: 336-339, 346-349]."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Discuss the challenges faced by the Election Commission in conducting free and fair elections.",
+      "answer": "Conducting elections in a vast country like India is a challenging task. The Election Commission faces the major issue of misuse of money, which it tries to curb through strict measures. Another significant challenge is the criminalization of politics, where parties give tickets to candidates with criminal backgrounds, threatening the free environment. Additionally, violence during elections has increased, posing a security risk. The Commission also has to deal with family monopolies in politics, which can undermine democratic representation [cite: 401-408, 416]."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Code of Conduct' and its importance.",
+      "answer": "The Code of Conduct refers to a set of rules established by the Election Commission to ensure free and fair elections. It outlines the norms that must be followed by the government, political parties, and voters before and during elections. Even the government is bound by these rules to prevent the abuse of power. Strict observance of the Code of Conduct helps in controlling malpractices and gives common voters confidence in the fairness of the electoral process. It acts as a safeguard against undue influence and corruption [cite: 394-400]."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Describe the journey of the voting process from ballot boxes to EVMs.",
+      "answer": "The voting process in India has evolved significantly since the first election in 1951-52. Initially, ballot boxes were used where voters dropped blank ballot papers into boxes marked with party symbols. This was designed to help illiterate voters. In the 1990s, Electronic Voting Machines (EVMs) were introduced. EVMs reduced the use of paper, saving trees, and made voting easier for disabled people. They also allowed for the early declaration of results and introduced the NOTA option. Recently, VVPAT has been added to increase transparency [cite: 430-437]."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "What electoral reforms are suggested to improve the election process in India?",
+      "answer": "Several reforms are suggested to make the electoral process more reliable. One key suggestion is to increase women's representation by giving 50% candidature to women. Another reform is to deny tickets to candidates with criminal backgrounds. To curb the misuse of money, it is suggested that the government should fund election expenses. Additionally, the Representation of the Peoples Act should be amended to legally prevent criminals from contesting. These reforms aim to enhance the quality and fairness of democracy [cite: 421-428]."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Explain the difference between General Elections, Midterm Elections, and By-elections.",
+      "answer": "General Elections are the regular elections held for the Lok Sabha every five years to elect a new government. Midterm Elections occur if an elected government loses its majority before its full term ends and no alternative government can be formed. By-elections are held for a specific seat in the Lok Sabha or Vidhan Sabha that becomes vacant due to the resignation or death of an elected representative. Each type serves a specific purpose in maintaining the continuity of democratic governance [cite: 440-446]."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "What is the role of the Election Commission in recognizing political parties?",
+      "answer": "In India's multiparty system, the Election Commission plays a vital role in regulating political parties. All political parties must be recognized by the Election Commission to operate officially. The Commission establishes criteria for recognition and also has the power to derecognize parties if they fail to meet these standards. Furthermore, it allots unique election symbols to parties, which is crucial for identification during voting. This ensures a structured and orderly political environment [cite: 350, 360-362]."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "How does the Delimitation Commission function?",
+      "answer": "The Delimitation Commission is responsible for restructuring the constituencies for the Lok Sabha and State Assemblies. Its main task is to define the boundaries of the 543 Lok Sabha constituencies. The Commission operates independently and does not succumb to political pressure. By creating constituencies, it ensures that representation is distributed fairly across the population. This process is essential for maintaining the principle of 'one person, one vote' and adapting to population changes [cite: 391-392]."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Why was the first election in independent India considered a challenging task?",
+      "answer": "The first election in 1951-52 was a massive undertaking for the newly independent nation. The Election Commission had to prepare a voters list for a huge population, many of whom were illiterate. This required devising a special voting method using symbols and separate ballot boxes for each candidate. Approximately 20 lakh steel boxes were manufactured for this purpose. Successfully conducting this election set the foundation for India's democratic future under the leadership of Sukumar Sen [cite: 410-414, 430]."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "What is VVPAT and why is it significant?",
+      "answer": "VVPAT stands for Voter Verified Paper Audit Trail. It is a facility added to EVM machines following the recommendation of an expert committee in 2010. VVPAT allows the voter to verify whether the vote they cast has been registered to the correct candidate by printing a paper slip. This adds a layer of transparency and trust to the electronic voting process. All political parties supported this measure as it helps to stop malpractices and ensures the integrity of elections [cite: 448-450]."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Discuss the independence of the Election Commission.",
+      "answer": "The independence of the Election Commission is guaranteed by Article 324 of the Constitution. The Chief Election Commissioner is appointed by the President but cannot be removed easily, protecting them from political pressure. This security of tenure allows the Commission to function as an autonomous body. Although it relies on government staff for execution, its decision-making remains independent. This autonomy is crucial for conducting free, fair, and impartial elections in the country [cite: 320, 327-328]."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "How does the Election Commission resolve disputes regarding elections?",
+      "answer": "The Election Commission has the authority to act as a quasi-judicial body to resolve disputes related to elections. If any disputes arise concerning the conduct or results of an election, the Commission has the responsibility to address them. It has the power to declare a candidate disqualified if they violate rules. Additionally, it can order re-elections in specific constituencies if malpractices are found. This ensures that the electoral process remains just and any grievances are addressed promptly [cite: 363-365]."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Why is the misuse of money in elections a serious concern?",
+      "answer": "The misuse of money in elections undermines the democratic principle of fair play. It allows rich candidates or parties to gain an unfair advantage over others. This can lead to vote-buying and corruption, distorting the will of the people. The Election Commission views this as a major challenge and has to implement strict measures to monitor expenses. Curbing money power is essential to ensure that elections are won on merit and public support rather than financial strength [cite: 404-405]."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "What is the significance of the 'NOTA' option?",
+      "answer": "NOTA, or 'None Of The Above', is an option provided on EVMs for voters who do not wish to vote for any of the contesting candidates. This empowers voters to express their dissatisfaction with the available choices. It serves as a negative vote, signaling to political parties that they need to field better candidates. The introduction of NOTA strengthens democracy by recording the dissent of the people. It ensures that every voter's opinion, even a rejection of all candidates, is counted[cite: 434]."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Explain the role of government officers and teachers in elections.",
+      "answer": "The Election Commission does not have its own permanent staff to conduct the massive exercise of elections. Instead, it relies on government officers, teachers, and other employees. These individuals are deputed to the Commission during the election period. They act as polling officers, presiding officers, and security personnel. Their role is critical in executing the election process at the ground level, ensuring that voting takes place smoothly and securely across the country[cite: 330]."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "How does family monopoly affect political parties?",
+      "answer": "Family monopoly occurs when political leaders give election tickets primarily to their own relatives. This practice creates a concentration of power within a few families, treating political parties as personal properties. It stifles internal democracy within the party and prevents talented and deserving workers from rising. This limits the choices available to voters and can lead to inefficient leadership. Overcoming this practice is a challenge for ensuring true democratic representation [cite: 416-417, 419]."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Why is it important for the Election Commission to be an autonomous body?",
+      "answer": "Autonomy allows the Election Commission to function without fear or favor from the ruling government or any political party. Since the government itself is a participant in the elections, an independent body is needed to act as a neutral referee. Autonomy ensures that decisions regarding election dates, scrutiny, and disputes are made objectively. This builds public trust in the electoral system. Without this independence, the credibility of democracy would be compromised[cite: 320, 328]."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "What is the process of nomination of candidates?",
+      "answer": "The nomination process begins after the election dates are declared. Political parties select their candidates, and independent candidates also decide to contest. All candidates must fill out a nomination form provided by the Election Commission. In this form, they must declare personal details, including assets and criminal records. These forms are then scrutinised by the Commission to ensure they meet all legal requirements. Only after this scrutiny are candidates officially allowed to run for office [cite: 346, 348-349]."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "How do political parties help in the election process?",
+      "answer": "Political parties are central to the electoral process in a representative democracy. They select candidates, mobilize voters, and campaign to present their policies and programs. They help in organizing public opinion and offering choices to the electorate. Parties also appoint representatives to oversee the voting and counting process, ensuring transparency. By participating in elections, they facilitate the peaceful transfer of power. Their cooperation with the Election Commission is vital for controlling violence and following the code of conduct[cite: 303, 346, 357]."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "What are the advantages of using EVMs over ballot boxes?",
+      "answer": "EVMs offer several advantages over traditional ballot boxes. They are eco-friendly as they eliminate the need for millions of ballot papers, saving trees. Voting is faster and easier, especially for disabled voters. The counting of votes is much quicker and more accurate, leading to early declaration of results. EVMs also reduce the chances of invalid votes, which was a common issue with paper ballots. The addition of VVPAT has further enhanced their reliability [cite: 433-437]."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Discuss the issue of criminalization of politics.",
+      "answer": "Criminalization of politics refers to the entry of individuals with criminal backgrounds into the political arena. This happens when parties give tickets to such individuals, often because of their ability to win using money or muscle power. This trend poses a serious threat to democracy as it undermines the rule of law. It creates an environment of fear and violence, making free and fair elections difficult. The Election Commission and the courts are trying to curb this through strict disclosure norms and disqualification rules [cite: 406-407]."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "How does the Election Commission ensure a free environment for elections?",
+      "answer": "The Election Commission ensures a free environment by strictly enforcing the Code of Conduct. It deploys government staff and security forces to prevent violence and intimidation. It monitors election expenses to check the misuse of money. Scrutiny of nomination papers prevents ineligible candidates from contesting. By using EVMs and VVPAT, it ensures the integrity of the vote. It also has the power to order re-elections if the environment is vitiated [cite: 394-396, 407]."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "What is the role of voters in the electoral process?",
+      "answer": "Voters are the most important part of the electoral process. It is their duty and responsibility to cast their vote and choose the right representatives. They must be aware and vigilant, not getting influenced by money or false promises. Voters verify their names in the voters list to exercise their right. By participating in large numbers, they provide legitimacy to the democracy. Their active involvement forces parties to be responsive to public needs [cite: 336-337, 367]."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain the significance of Article 324.",
+      "answer": "Article 324 is the cornerstone of free and fair elections in India. It constitutionally establishes the Election Commission as an autonomous body responsible for the superintendence, direction, and control of elections. This article ensures that the Commission is not subject to executive interference. It empowers the Commission to handle all matters related to elections, from preparing voters lists to declaring results. Without Article 324, the independence and credibility of Indian elections would not be guaranteed [cite: 319-320]."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Why does the Election Commission require information about candidates' property?",
+      "answer": "The Election Commission requires candidates to disclose their property details to promote transparency. This allows voters to know the financial status of the candidates before voting. It helps in tracking if a representative accumulates disproportionate wealth after getting elected. This disclosure acts as a check against corruption and the use of black money in politics. It empowers voters to make informed choices based on the honesty and background of the candidates[cite: 342, 348]."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "How does the 'One Vote One Value' system work?",
+      "answer": "The 'One Vote One Value' system is a fundamental principle of political equality. It means that every voter's vote has the same weightage, regardless of their caste, religion, gender, or economic status. In the electoral process, the vote of a common citizen counts as much as the vote of the Prime Minister. This equality is ensured by creating constituencies with roughly equal populations through delimitation. It ensures that the government represents the will of the majority of the people equally."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "What is the impact of violence on the democratic process?",
+      "answer": "Violence during elections severely damages the democratic process. It discourages common people from coming out to vote due to fear. It can lead to booth capturing and rigging, distorting the true mandate of the people. Violence creates an atmosphere of instability and lawlessness. It forces the Election Commission to focus resources on security rather than conduct. Ultimately, violence negates the peaceful transition of power, which is the core purpose of elections[cite: 408]."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Why are some constituencies reserved for Scheduled Castes and Scheduled Tribes?",
+      "answer": "Reservation of constituencies is a step towards social justice and inclusive democracy. Historically, Scheduled Castes and Tribes were marginalized and deprived of power. To ensure they get a fair share in decision-making, the Constitution provides for reserved seats. In these constituencies, only candidates from these communities can contest, though all voters vote. This guarantees their representation in the Lok Sabha and State Assemblies, allowing their voices and concerns to be heard[cite: 355]."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "What is the role of the President in the appointment of the Election Commission?",
+      "answer": "The President plays a formal role in the appointment of the Election Commission. According to the Constitution, the President appoints the Chief Election Commissioner and other Election Commissioners. This appointment process gives the Commission its constitutional validity and authority. While the President acts on the advice of the government, the appointment is meant to ensure that capable and neutral individuals head this vital institution. The President's role underscores the high status of the Election Commission[cite: 327]."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "How does the Election Commission update the voters list?",
+      "answer": "Updating the voters list is a continuous process for the Election Commission. Before every election, the Commission undertakes a drive to add the names of new voters who have turned 18. It also deletes the names of those who have died or moved away. Special campaigns are run to create awareness for registration. This ensures that the electoral roll is accurate and current, allowing all eligible citizens to exercise their right to vote[cite: 338]."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Why is the first election of 1951-52 historically significant?",
+      "answer": "The first election of 1951-52 was a historic milestone as it was the first democratic exercise in newly independent India. It demonstrated to the world that democracy could succeed in a large, diverse, and developing nation. It established the credibility of the Election Commission and the electoral process. The successful conduct of this election, despite challenges like illiteracy and logistics, laid the foundation for India's democratic traditions. It marked the beginning of people's participation in their own governance [cite: 430-431]."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "What is the connection between political parties and the Election Commission?",
+      "answer": "The relationship between political parties and the Election Commission is regulatory and cooperative. Parties must be recognized by the Commission to function officially. They receive symbols and follow the election timetable set by the Commission. During elections, parties must adhere to the Code of Conduct enforced by the Commission. Conversely, parties help the Commission by sending representatives to polling stations and counting centers. This interaction ensures that the competitive political process remains orderly and legal[cite: 360, 362, 397]."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "How does the 'Multiparty System' function in India?",
+      "answer": "India has a multiparty system where numerous political parties compete for power. This system reflects the social and cultural diversity of the country, allowing different groups to have representation. New parties are constantly formed, and existing ones sometimes split. The Election Commission regulates this system by granting recognition and symbols. While it offers voters many choices, it also requires coalition governments when no single party gets a majority. This system ensures diverse viewpoints are part of the national discourse[cite: 350, 359]."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "What happens if the Code of Conduct is violated?",
+      "answer": "If the Code of Conduct is violated, the Election Commission has the power to take action. This applies to the government, candidates, and political parties. Violations can lead to warnings, fines, or even disqualification of candidates. The Commission investigates complaints of malpractice or misuse of power. Strict enforcement acts as a deterrent, ensuring that the ruling party does not misuse government machinery. This maintains a level playing field for all contestants[cite: 398, 400]."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Why did the Election Commission introduce identity cards for voters?",
+      "answer": "The Election Commission introduced identity cards to prevent voter impersonation and fraud. These cards serve as proof of identity at the polling booth, ensuring that only the eligible person casts the vote. This measure helps in cleaning up the electoral roll by verifying genuine voters. It empowers the voter and adds to the credibility of the election. While not mandatory in every single case if other proofs exist, it is a primary tool for free and fair elections[cite: 339]."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Explain the role of the State Government in elections.",
+      "answer": "While the Election Commission of India conducts Lok Sabha and Vidhan Sabha elections, the State Government provides the necessary administrative machinery. It supplies the staff, security, and infrastructure required for polling. The State Election Commissions, distinct from the ECI, are responsible for conducting local body elections like Panchayats and Municipalities. However, during general elections, state machinery works under the supervision and control of the Election Commission of India."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "What is the importance of 'Campaigning' in elections?",
+      "answer": "Campaigning is the period where political parties and candidates present their ideas to the voters. It allows them to explain their manifesto, promises, and past achievements. Through rallies, door-to-door visits, and media, they try to persuade voters. This process is essential for voters to make informed decisions. However, the Election Commission monitors campaigning to ensure it ends 48 hours before voting and adheres to the Code of Conduct."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "How does the Election Commission handle election timing?",
+      "answer": "The Election Commission has the sole authority to decide the election timetable. It assesses the situation in each state, considering factors like weather, school exams, and law and order. It decides whether to hold elections in a single phase or multiple phases to ensure security. The Commission declares the dates for nomination, withdrawal, voting, and counting. This careful planning is crucial for the smooth conduct of the massive democratic exercise [cite: 344-345]."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "What is the significance of the 50% reservation proposal for women?",
+      "answer": "The proposal to give 50% candidature to women is significant for achieving gender equality in politics. Currently, women are underrepresented in legislative bodies. Reserving half the tickets for women would ensure their voices are heard in decision-making. It would force political parties to groom female leadership. This reform is seen as a necessary step to make democracy truly inclusive and representative of the entire population[cite: 424]."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Why is the counting of votes a critical stage?",
+      "answer": "The counting of votes is the culmination of the electoral process where the winner is decided. It is a critical stage that must be transparent and accurate. The Election Commission ensures that counting is done in the presence of representatives from all parties. With EVMs, this process has become faster and less prone to error. Any discrepancy or suspicion during counting can lead to disputes, so the integrity of this stage is paramount for the acceptance of results[cite: 357, 387]."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "What is the 'Delimitation Commission' and what is its duty?",
+      "answer": "The Delimitation Commission is a body established to redraw the boundaries of parliamentary and assembly constituencies. Its duty is to ensure that each constituency has approximately the same number of voters, maintaining the ratio of seats to population. It works on the basis of the latest census data. Its decisions are final and cannot be challenged in court. This process is essential to reflect population changes and ensure fair representation[cite: 392]."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "How does the Election Commission promote voter awareness?",
+      "answer": "The Election Commission promotes voter awareness through special campaigns and initiatives. It celebrates National Voter's Day on January 25th to encourage registration. It uses media advertisements to educate voters about their rights and the voting process. It encourages young voters to enroll. These efforts are aimed at increasing voter turnout and ensuring that citizens understand the value of their vote in a democracy [cite: 333-334]."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "What is the role of 'Independent Candidates' in elections?",
+      "answer": "Independent candidates are those who contest elections without the affiliation of any political party. They play a role by offering voters an alternative outside the established party system. Any eligible citizen has the right to contest independently. While they may not have the resources of big parties, they can highlight local issues ignored by others. The Election Commission treats them equally in terms of rules, though they are allotted symbols differently [cite: 347-348]."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "How does the Election Commission ensure impartiality?",
+      "answer": "The Election Commission ensures impartiality by functioning as an autonomous constitutional body. It applies the Code of Conduct equally to the ruling party and the opposition. It does not allow the government to use official machinery for campaigning. Its officials are protected from political pressure. By resolving disputes objectively and conducting scrutiny fairly, it maintains its reputation as a neutral umpire in the electoral game[cite: 328, 397]."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "What are the consequences of not holding free and fair elections?",
+      "answer": "If elections are not free and fair, democracy loses its meaning. The government formed would not be a true representative of the people. It would lead to a loss of public trust in institutions. Malpractices like booth capturing or misuse of money would replace the people's will. This could lead to political instability, unrest, and eventually authoritarianism. Therefore, the integrity of elections is the lifeline of a democratic nation."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Representation' in democracy.",
+      "answer": "Representation is the mechanism by which the people govern themselves through elected officials. Since direct democracy is impossible in large populations, citizens elect representatives to make decisions on their behalf. These representatives are accountable to the people and are expected to prioritize public welfare. The quality of democracy depends on how well these representatives reflect the diverse interests of the society. Elections are the primary tool to ensure this representation [cite: 302, 310-312]."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "What is the 'Representation of the Peoples Act'?",
+      "answer": "The Representation of the Peoples Act is a key legislation that governs the conduct of elections in India. It lays down the rules for the qualification and disqualification of members of Parliament and State Assemblies. It provides the legal framework for the Election Commission's powers. Electoral reforms often involve amending this Act, such as suggestions to bar criminals from contesting. It is the statutory basis for the entire electoral machinery[cite: 428]."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Why is the declaration of results a sensitive phase?",
+      "answer": "The declaration of results is the final verdict of the electorate. It is sensitive because it determines the transfer of power. Emotions run high among candidates and supporters. Any delay or error can spark rumors and violence. The Election Commission ensures that results are declared only after proper verification of counting. The acceptance of these results by all parties signifies the maturity of the democracy and the peaceful transition of authority."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "How has the Election Commission evolved over time?",
+      "answer": "Since its establishment in 1950, the Election Commission has evolved from a single-member body to a multi-member body. It has adapted to technological changes by introducing EVMs and VVPATs. It has become more assertive in enforcing the Code of Conduct and checking malpractices. From managing paper ballots for illiterate voters to managing digital databases, it has modernized the process. Its role has expanded to strictly monitoring expenses and criminalization, making it a robust institution[cite: 320, 396]."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "What is the impact of family monopoly on the quality of leadership?",
+      "answer": "Family monopoly restricts the pool of leadership to a few bloodlines, often ignoring merit. It can lead to the rise of incompetent leaders who inherit power rather than earning it. This discourages capable individuals from joining politics, lowering the overall quality of governance. It transforms parties into private fiefdoms, reducing internal debate and democracy. For the nation, it means that the best talent is not necessarily guiding its future[cite: 417]."
+    }
+  ]
+}

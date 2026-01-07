@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.04",
+    "standard": "10",
+    "subject": "Political Science",
+    "medium": "English",
+    "chapter_name": "Social and Political Movements"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A movement is a ________ action.",
+      "options": [
+        { "option_id": 1, "text": "Individual", "is_correct": false },
+        { "option_id": 2, "text": "Collective", "is_correct": true },
+        { "option_id": 3, "text": "Private", "is_correct": false },
+        { "option_id": 4, "text": "Secret", "is_correct": false }
+      ],
+      "answer": "Collective"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the main demand of the farmers' movement?",
+      "options": [
+        { "option_id": 1, "text": "Right to cultivate on forest land", "is_correct": false },
+        { "option_id": 2, "text": "To get the right price for agricultural product", "is_correct": true },
+        { "option_id": 3, "text": "Protection of consumers", "is_correct": false },
+        { "option_id": 4, "text": "Building of dams", "is_correct": false }
+      ],
+      "answer": "To get the right price for agricultural product"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "To increase agricultural production and become self-sufficient in food grains, ________ was initiated.",
+      "options": [
+        { "option_id": 1, "text": "Water revolution", "is_correct": false },
+        { "option_id": 2, "text": "Green revolution", "is_correct": true },
+        { "option_id": 3, "text": "Industrial revolution", "is_correct": false },
+        { "option_id": 4, "text": "White revolution", "is_correct": false }
+      ],
+      "answer": "Green revolution"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who is known as the 'Waterman of India'?",
+      "options": [
+        { "option_id": 1, "text": "Sunderlal Bahuguna", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Rajendra Singh", "is_correct": true },
+        { "option_id": 3, "text": "Medha Patkar", "is_correct": false },
+        { "option_id": 4, "text": "Anna Hazare", "is_correct": false }
+      ],
+      "answer": "Dr. Rajendra Singh"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When did the Consumer Protection Act come into existence?",
+      "options": [
+        { "option_id": 1, "text": "1980", "is_correct": false },
+        { "option_id": 2, "text": "1986", "is_correct": true },
+        { "option_id": 3, "text": "1990", "is_correct": false },
+        { "option_id": 4, "text": "2005", "is_correct": false }
+      ],
+      "answer": "1986"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which organisation was established in 1920 to resolve workers' issues?",
+      "options": [
+        { "option_id": 1, "text": "INTUC", "is_correct": false },
+        { "option_id": 2, "text": "All India Trade Union Congress (AITUC)", "is_correct": true },
+        { "option_id": 3, "text": "BMS", "is_correct": false },
+        { "option_id": 4, "text": "CITU", "is_correct": false }
+      ],
+      "answer": "All India Trade Union Congress (AITUC)"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Tribal people in India face the major problem of being denied rights over ________.",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Forests", "is_correct": true },
+        { "option_id": 3, "text": "Education", "is_correct": false },
+        { "option_id": 4, "text": "Voting", "is_correct": false }
+      ],
+      "answer": "Forests"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Movements generally have a ________ behind them.",
+      "options": [
+        { "option_id": 1, "text": "Political Party", "is_correct": false },
+        { "option_id": 2, "text": "Ideology", "is_correct": true },
+        { "option_id": 3, "text": "Government order", "is_correct": false },
+        { "option_id": 4, "text": "Foreign power", "is_correct": false }
+      ],
+      "answer": "Ideology"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a feature of a movement?",
+      "options": [
+        { "option_id": 1, "text": "Collective action", "is_correct": false },
+        { "option_id": 2, "text": "Leadership", "is_correct": false },
+        { "option_id": 3, "text": "Public support", "is_correct": false },
+        { "option_id": 4, "text": "Aiming for personal profit", "is_correct": true }
+      ],
+      "answer": "Aiming for personal profit"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Dr. Rajendra Singh formed which organisation?",
+      "options": [
+        { "option_id": 1, "text": "Tarun Bharat Sangh", "is_correct": true },
+        { "option_id": 2, "text": "Narmada Bachao Andolan", "is_correct": false },
+        { "option_id": 3, "text": "Chipko Movement", "is_correct": false },
+        { "option_id": 4, "text": "Kisan Sabha", "is_correct": false }
+      ],
+      "answer": "Tarun Bharat Sangh"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The post-1980 movements are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Political movements", "is_correct": false },
+        { "option_id": 2, "text": "Neo-social movements", "is_correct": true },
+        { "option_id": 3, "text": "Religious movements", "is_correct": false },
+        { "option_id": 4, "text": "Economic movements", "is_correct": false }
+      ],
+      "answer": "Neo-social movements"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who led the tribal uprising in Chota Nagpur?",
+      "options": [
+        { "option_id": 1, "text": "Umaji Naik", "is_correct": false },
+        { "option_id": 2, "text": "Birsa Munda", "is_correct": true },
+        { "option_id": 3, "text": "Kajarsingh", "is_correct": false },
+        { "option_id": 4, "text": "Tantya Bhil", "is_correct": false }
+      ],
+      "answer": "Birsa Munda"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "In which state did Dr. Rajendra Singh bring about a water revolution?",
+      "options": [
+        { "option_id": 1, "text": "Maharashtra", "is_correct": false },
+        { "option_id": 2, "text": "Gujarat", "is_correct": false },
+        { "option_id": 3, "text": "Rajasthan", "is_correct": true },
+        { "option_id": 4, "text": "Punjab", "is_correct": false }
+      ],
+      "answer": "Rajasthan"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which movement aims to protect biodiversity?",
+      "options": [
+        { "option_id": 1, "text": "Women's movement", "is_correct": false },
+        { "option_id": 2, "text": "Environment movement", "is_correct": true },
+        { "option_id": 3, "text": "Consumer movement", "is_correct": false },
+        { "option_id": 4, "text": "Labour movement", "is_correct": false }
+      ],
+      "answer": "Environment movement"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Swadeshi movement is an important ________ movement.",
+      "options": [
+        { "option_id": 1, "text": "Political", "is_correct": false },
+        { "option_id": 2, "text": "Social", "is_correct": false },
+        { "option_id": 3, "text": "Economic", "is_correct": true },
+        { "option_id": 4, "text": "Religious", "is_correct": false }
+      ],
+      "answer": "Economic"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who keeps the movement active?",
+      "options": [
+        { "option_id": 1, "text": "Government", "is_correct": false },
+        { "option_id": 2, "text": "Leadership", "is_correct": true },
+        { "option_id": 3, "text": "Police", "is_correct": false },
+        { "option_id": 4, "text": "Opposition", "is_correct": false }
+      ],
+      "answer": "Leadership"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which reformist took initiative in ending the practice of Sati?",
+      "options": [
+        { "option_id": 1, "text": "Raja Rammohan Roy", "is_correct": true },
+        { "option_id": 2, "text": "Mahatma Gandhi", "is_correct": false },
+        { "option_id": 3, "text": "Dr. Ambedkar", "is_correct": false },
+        { "option_id": 4, "text": "Lokmanya Tilak", "is_correct": false }
+      ],
+      "answer": "Raja Rammohan Roy"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The labour movement in India emerged in the background of ________.",
+      "options": [
+        { "option_id": 1, "text": "Famine", "is_correct": false },
+        { "option_id": 2, "text": "Industrialisation", "is_correct": true },
+        { "option_id": 3, "text": "War", "is_correct": false },
+        { "option_id": 4, "text": "Agriculture", "is_correct": false }
+      ],
+      "answer": "Industrialisation"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What has affected the labour movement to a great extent?",
+      "options": [
+        { "option_id": 1, "text": "Globalisation", "is_correct": true },
+        { "option_id": 2, "text": "Education", "is_correct": false },
+        { "option_id": 3, "text": "Urbanisation", "is_correct": false },
+        { "option_id": 4, "text": "Population growth", "is_correct": false }
+      ],
+      "answer": "Globalisation"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of these is a problem faced by consumers?",
+      "options": [
+        { "option_id": 1, "text": "High wages", "is_correct": false },
+        { "option_id": 2, "text": "Adulteration", "is_correct": true },
+        { "option_id": 3, "text": "Too many choices", "is_correct": false },
+        { "option_id": 4, "text": "Discount offers", "is_correct": false }
+      ],
+      "answer": "Adulteration"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Movements aimed at opposing a particular decision of the government use the right to ________.",
+      "options": [
+        { "option_id": 1, "text": "Vote", "is_correct": false },
+        { "option_id": 2, "text": "Protest", "is_correct": true },
+        { "option_id": 3, "text": "Education", "is_correct": false },
+        { "option_id": 4, "text": "Property", "is_correct": false }
+      ],
+      "answer": "Protest"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "In which year did railway workers go on strike for their demands?",
+      "options": [
+        { "option_id": 1, "text": "1857", "is_correct": false },
+        { "option_id": 2, "text": "1899", "is_correct": true },
+        { "option_id": 3, "text": "1947", "is_correct": false },
+        { "option_id": 4, "text": "1920", "is_correct": false }
+      ],
+      "answer": "1899"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What are 'Johads'?",
+      "options": [
+        { "option_id": 1, "text": "Forests", "is_correct": false },
+        { "option_id": 2, "text": "Mountains", "is_correct": false },
+        { "option_id": 3, "text": "Water conservation structures", "is_correct": true },
+        { "option_id": 4, "text": "Agricultural tools", "is_correct": false }
+      ],
+      "answer": "Water conservation structures"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Dr. Rajendra Singh won which prestigious award?",
+      "options": [
+        { "option_id": 1, "text": "Nobel Peace Prize", "is_correct": false },
+        { "option_id": 2, "text": "Stockholm Water Prize", "is_correct": true },
+        { "option_id": 3, "text": "Magsaysay Award", "is_correct": false },
+        { "option_id": 4, "text": "Bharat Ratna", "is_correct": false }
+      ],
+      "answer": "Stockholm Water Prize"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The pre-independence women's movement was initiated by ________.",
+      "options": [
+        { "option_id": 1, "text": "British Government", "is_correct": false },
+        { "option_id": 2, "text": "Progressive men", "is_correct": true },
+        { "option_id": 3, "text": "United Nations", "is_correct": false },
+        { "option_id": 4, "text": "Political parties", "is_correct": false }
+      ],
+      "answer": "Progressive men"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of these is an important farmers' organisation in India?",
+      "options": [
+        { "option_id": 1, "text": "Shetkari Sanghatana", "is_correct": true },
+        { "option_id": 2, "text": "IMA", "is_correct": false },
+        { "option_id": 3, "text": "BCCI", "is_correct": false },
+        { "option_id": 4, "text": "FICCI", "is_correct": false }
+      ],
+      "answer": "Shetkari Sanghatana"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Tribal uprising in Orissa was led by which tribe?",
+      "options": [
+        { "option_id": 1, "text": "Gond", "is_correct": true },
+        { "option_id": 2, "text": "Koli", "is_correct": false },
+        { "option_id": 3, "text": "Bhil", "is_correct": false },
+        { "option_id": 4, "text": "Santhal", "is_correct": false }
+      ],
+      "answer": "Gond"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The Koli, Bhilla and Ramoshi uprisings took place in which state?",
+      "options": [
+        { "option_id": 1, "text": "Bihar", "is_correct": false },
+        { "option_id": 2, "text": "Maharashtra", "is_correct": true },
+        { "option_id": 3, "text": "Orissa", "is_correct": false },
+        { "option_id": 4, "text": "Punjab", "is_correct": false }
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Farmers' movements in Bardoli and Champaran were against ________.",
+      "options": [
+        { "option_id": 1, "text": "Moneylenders", "is_correct": false },
+        { "option_id": 2, "text": "British colonial policies", "is_correct": true },
+        { "option_id": 3, "text": "Indian landlords", "is_correct": false },
+        { "option_id": 4, "text": "Local traders", "is_correct": false }
+      ],
+      "answer": "British colonial policies"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who inspired the farmers' movements?",
+      "options": [
+        { "option_id": 1, "text": "Mahatma Phule and Mahatma Gandhi", "is_correct": true },
+        { "option_id": 2, "text": "Subhash Chandra Bose", "is_correct": false },
+        { "option_id": 3, "text": "Bhagat Singh", "is_correct": false },
+        { "option_id": 4, "text": "Indira Gandhi", "is_correct": false }
+      ],
+      "answer": "Mahatma Phule and Mahatma Gandhi"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The Consumer Protection Act was passed in ________.",
+      "options": [
+        { "option_id": 1, "text": "1980", "is_correct": false },
+        { "option_id": 2, "text": "1986", "is_correct": true },
+        { "option_id": 3, "text": "1991", "is_correct": false },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "1986"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which of these is a demand of the farmers' movement?",
+      "options": [
+        { "option_id": 1, "text": "Debt relief", "is_correct": true },
+        { "option_id": 2, "text": "Free housing", "is_correct": false },
+        { "option_id": 3, "text": "Urban jobs", "is_correct": false },
+        { "option_id": 4, "text": "Internet access", "is_correct": false }
+      ],
+      "answer": "Debt relief"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Public Interest Litigation (PIL) is related to which institution?",
+      "options": [
+        { "option_id": 1, "text": "Parliament", "is_correct": false },
+        { "option_id": 2, "text": "Judiciary", "is_correct": true },
+        { "option_id": 3, "text": "Executive", "is_correct": false },
+        { "option_id": 4, "text": "Media", "is_correct": false }
+      ],
+      "answer": "Judiciary"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The Stockholm Water Prize is known as the ________.",
+      "options": [
+        { "option_id": 1, "text": "Oscar for Water", "is_correct": false },
+        { "option_id": 2, "text": "Nobel Prize for Water", "is_correct": true },
+        { "option_id": 3, "text": "Water Gold Medal", "is_correct": false },
+        { "option_id": 4, "text": "World Water Award", "is_correct": false }
+      ],
+      "answer": "Nobel Prize for Water"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Neo-social movements are ________.",
+      "options": [
+        { "option_id": 1, "text": "Issue-based", "is_correct": true },
+        { "option_id": 2, "text": "Party-based", "is_correct": false },
+        { "option_id": 3, "text": "Religion-based", "is_correct": false },
+        { "option_id": 4, "text": "Profit-based", "is_correct": false }
+      ],
+      "answer": "Issue-based"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which commission's recommendations are demanded by farmers?",
+      "options": [
+        { "option_id": 1, "text": "Mandal Commission", "is_correct": false },
+        { "option_id": 2, "text": "Swaminathan Commission", "is_correct": true },
+        { "option_id": 3, "text": "Shah Commission", "is_correct": false },
+        { "option_id": 4, "text": "Kothari Commission", "is_correct": false }
+      ],
+      "answer": "Swaminathan Commission"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Savitribai Phule and ________ took initiative in ending child marriages.",
+      "options": [
+        { "option_id": 1, "text": "Rani Laxmibai", "is_correct": false },
+        { "option_id": 2, "text": "Mahatma Jyotirao Phule", "is_correct": true },
+        { "option_id": 3, "text": "Indira Gandhi", "is_correct": false },
+        { "option_id": 4, "text": "Sarojini Naidu", "is_correct": false }
+      ],
+      "answer": "Mahatma Jyotirao Phule"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "The labour movement started getting disintegrated from ________.",
+      "options": [
+        { "option_id": 1, "text": "1960s", "is_correct": false },
+        { "option_id": 2, "text": "1980s", "is_correct": true },
+        { "option_id": 3, "text": "2000s", "is_correct": false },
+        { "option_id": 4, "text": "1940s", "is_correct": false }
+      ],
+      "answer": "1980s"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Movements are important in a ________.",
+      "options": [
+        { "option_id": 1, "text": "Monarchy", "is_correct": false },
+        { "option_id": 2, "text": "Democracy", "is_correct": true },
+        { "option_id": 3, "text": "Dictatorship", "is_correct": false },
+        { "option_id": 4, "text": "Colony", "is_correct": false }
+      ],
+      "answer": "Democracy"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Political parties adopt a ________ perspective.",
+      "options": [
+        { "option_id": 1, "text": "Narrow", "is_correct": false },
+        { "option_id": 2, "text": "Comprehensive", "is_correct": true },
+        { "option_id": 3, "text": "Single-issue", "is_correct": false },
+        { "option_id": 4, "text": "Biased", "is_correct": false }
+      ],
+      "answer": "Comprehensive"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT an issue taken up by environment movements?",
+      "options": [
+        { "option_id": 1, "text": "Bio-diversity", "is_correct": false },
+        { "option_id": 2, "text": "Pollution of rivers", "is_correct": false },
+        { "option_id": 3, "text": "Space research", "is_correct": true },
+        { "option_id": 4, "text": "Protection of forests", "is_correct": false }
+      ],
+      "answer": "Space research"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "The Santhal and Munda tribal uprisings happened in ________.",
+      "options": [
+        { "option_id": 1, "text": "Bihar", "is_correct": true },
+        { "option_id": 2, "text": "Kerala", "is_correct": false },
+        { "option_id": 3, "text": "Tamil Nadu", "is_correct": false },
+        { "option_id": 4, "text": "Punjab", "is_correct": false }
+      ],
+      "answer": "Bihar"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Movements require ________ from people.",
+      "options": [
+        { "option_id": 1, "text": "Money only", "is_correct": false },
+        { "option_id": 2, "text": "Public support", "is_correct": true },
+        { "option_id": 3, "text": "Silence", "is_correct": false },
+        { "option_id": 4, "text": "Opposition", "is_correct": false }
+      ],
+      "answer": "Public support"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which reform was possible due to the work of reformists?",
+      "options": [
+        { "option_id": 1, "text": "Widow remarriage", "is_correct": true },
+        { "option_id": 2, "text": "Child labour", "is_correct": false },
+        { "option_id": 3, "text": "Caste system", "is_correct": false },
+        { "option_id": 4, "text": "Monarchy", "is_correct": false }
+      ],
+      "answer": "Widow remarriage"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "The Green Revolution created a divide between ________.",
+      "options": [
+        { "option_id": 1, "text": "Men and women", "is_correct": false },
+        { "option_id": 2, "text": "Rich and poor farmers", "is_correct": true },
+        { "option_id": 3, "text": "Urban and rural", "is_correct": false },
+        { "option_id": 4, "text": "Educated and uneducated", "is_correct": false }
+      ],
+      "answer": "Rich and poor farmers"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Organised activity is the essence of any ________.",
+      "options": [
+        { "option_id": 1, "text": "Government", "is_correct": false },
+        { "option_id": 2, "text": "Movement", "is_correct": true },
+        { "option_id": 3, "text": "Individual", "is_correct": false },
+        { "option_id": 4, "text": "Family", "is_correct": false }
+      ],
+      "answer": "Movement"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Women's movement aims at eliminating ________ against women.",
+      "options": [
+        { "option_id": 1, "text": "Education", "is_correct": false },
+        { "option_id": 2, "text": "Injustice", "is_correct": true },
+        { "option_id": 3, "text": "Employment", "is_correct": false },
+        { "option_id": 4, "text": "Rights", "is_correct": false }
+      ],
+      "answer": "Injustice"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Dr. Rajendra Singh revived rivers in the desert of ________.",
+      "options": [
+        { "option_id": 1, "text": "Rajasthan", "is_correct": true },
+        { "option_id": 2, "text": "Kutch", "is_correct": false },
+        { "option_id": 3, "text": "Ladakh", "is_correct": false },
+        { "option_id": 4, "text": "Thar", "is_correct": false }
+      ],
+      "answer": "Rajasthan"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The movement against ________ is an example of a social movement mentioned in the text.",
+      "options": [
+        { "option_id": 1, "text": "Child marriage", "is_correct": true },
+        { "option_id": 2, "text": "Internet usage", "is_correct": false },
+        { "option_id": 3, "text": "Space travel", "is_correct": false },
+        { "option_id": 4, "text": "Taxation", "is_correct": false }
+      ],
+      "answer": "Child marriage"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Movements often put pressure on the ________.",
+      "options": [
+        { "option_id": 1, "text": "Government", "is_correct": true },
+        { "option_id": 2, "text": "Military", "is_correct": false },
+        { "option_id": 3, "text": "Foreign countries", "is_correct": false },
+        { "option_id": 4, "text": "Poor people", "is_correct": false }
+      ],
+      "answer": "Government"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a movement?",
+      "answer": "A movement is a collective action where people come together in the interest of a particular issue."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why can't political parties concentrate on just one particular issue?",
+      "answer": "Political parties generally adopt a comprehensive perspective and have to take into consideration all matters from a national perspective."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the essence of any movement?",
+      "answer": "Organised activity is the essence of any movement."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How does leadership affect a movement?",
+      "answer": "A strong leadership makes the movement effective by deciding objectives, programmes of action, and agitation strategies."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why do movements need organisations?",
+      "answer": "Without an organisation, it becomes difficult to follow up on issues effectively."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the role of public support in a movement?",
+      "answer": "Any movement requires public support because people need to feel connected to the issue undertaken by the movement."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Do movements have an ideology?",
+      "answer": "Yes, generally movements are devoted to one particular issue but have an ideology behind them."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the main demand of the tribal movement?",
+      "answer": "The main demand is to accept their right over forests and allow them to collect forest products and cultivate forest land."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who was Birsa Munda?",
+      "answer": "Birsa Munda was a leader who led the tribal uprising in Chota Nagpur."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What problem do tribals face regarding forests?",
+      "answer": "One major problem is that they are denied rights over forests, which impacts their livelihood."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why did farmers get organised during the British period?",
+      "answer": "Farmers started getting organised due to the anti-agriculture policies of the British colonial government."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name two historical farmers' movements in India.",
+      "answer": "The farmers' movements in Bardoli and Champaran are historically significant."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Who inspired the farmers' movements?",
+      "answer": "The farmers' movements were inspired by the thoughts of Mahatma Phule, Justice Ranade, and Mahatma Gandhi."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What was the aim of the Green Revolution?",
+      "answer": "The Green Revolution aimed at increasing agricultural production and achieving self-sufficiency in food grains."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Did the Green Revolution benefit everyone?",
+      "answer": "No, it did not benefit the poor farmers and divided farmers into rich and poor classes."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "List two demands of the farmers' movement.",
+      "answer": "Demands include appropriate prices for agricultural products and treating agriculture as an industry."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the Swaminathan Commission related to?",
+      "answer": "The Swaminathan Commission is related to agriculture, and farmers demand the implementation of its recommendations."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name one active farmers' organisation in India.",
+      "answer": "The Bharatiya Kisan Union is an active farmers' organisation."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "When did the labour movement emerge in India?",
+      "answer": "The labour movement emerged in the background of industrialisation in the latter half of the nineteenth century."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What happened in 1899 regarding workers?",
+      "answer": "In 1899, railway workers went on strike for their demands."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the AITUC?",
+      "answer": "The All India Trade Union Congress (AITUC) was the first organisation established in 1920 to resolve workers' issues."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why did the labour movement start disintegrating from the 1980s?",
+      "answer": "The labour movement started disintegrating due to various factors, including the impact of globalisation."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "List two problems faced by workers in India.",
+      "answer": "Workers face unstable employment conditions and contract labour issues."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who initiated the women's movement in the pre-independence period?",
+      "answer": "Progressive men in India initiated the women's movement in the pre-independence period."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What was the aim of the early women's movement?",
+      "answer": "It aimed at eliminating injustice against women, ending exploitation, and helping them lead a respectful life."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Name two reformists who worked for women's rights.",
+      "answer": "Ishwarchandra Vidyasagar and Pandita Ramabai are two prominent reformists."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What practices did the reformists try to end?",
+      "answer": "They tried to end practices like Sati and child marriage."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Did the Constitution give equal rights to women?",
+      "answer": "Yes, after independence, the Constitution gave equal rights to women in all fields."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What issues are taken up by women's movements today?",
+      "answer": "Today, movements take up issues like women's health, social security, financial independence, and empowerment."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the challenge faced by the women's movement today?",
+      "answer": "They face the challenge of ensuring equal education and giving women status and prestige as human beings."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who is Dr. Rajendra Singh?",
+      "answer": "Dr. Rajendra Singh, known as the 'Waterman of India', brought a water revolution in Rajasthan."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What are 'Johads'?",
+      "answer": "Johads are traditional water conservation structures built in Rajasthan."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is the 'Tarun Bharat Sangh'?",
+      "answer": "It is an organisation formed by Dr. Rajendra Singh to build Johads and work on water conservation."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is the 'Stockholm Water Prize'?",
+      "answer": "It is a prestigious award known as the 'Nobel Prize for Water', won by Dr. Rajendra Singh."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What issues are taken up by environment movements?",
+      "answer": "They take up issues like protection of bio-diversity, water sources, forests, and pollution of rivers."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "When did the consumer movement emerge in India?",
+      "answer": "The consumer movement emerged after the Consumer Protection Act came into existence in 1986."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the belief of the consumer movement?",
+      "answer": "The movement believes that each member of the society is a consumer."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What problems do consumers face?",
+      "answer": "Consumers face problems like adulteration, increased costs, and frauds in weights and measures."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What are neo-social movements?",
+      "answer": "Post-1980 movements are called neo-social movements because they are issue-based."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the right to protest?",
+      "answer": "The right to protest is an important right in democracy to oppose government decisions or policies."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "How should the right to protest be used?",
+      "answer": "This right needs to be used patiently and responsibly."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Can movements transform into political parties?",
+      "answer": "Yes, sometimes some movements gradually get transformed into political parties."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What did the workers in the child marriage movement do?",
+      "answer": "They worked consciously to reduce the extent of child marriages by 50%."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Which movements were suppressed during the British period?",
+      "answer": "Many social and political movements were suppressed during the British period."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is an indicator of a healthy democratic system?",
+      "answer": "The existence of movements is an indicator of a healthy democratic system."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What information do leaders of movements provide to the government?",
+      "answer": "They provide necessary information about social issues which is useful for making policies."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is 'Public Interest Litigation' (PIL)?",
+      "answer": "It is a legal action initiated in a court of law for the enforcement of public interest."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Who started the campaign for water conservation all over India?",
+      "answer": "Dr. Rajendra Singh started the campaign for water conservation all over India."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the 'Swadeshi movement'?",
+      "answer": "The Swadeshi movement is an important economic movement mentioned in the text."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is there a need to start a drive against malnutrition?",
+      "answer": "Because poverty and malnutrition are important problems that need to be taken on a priority basis."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is a 'pressure group'?",
+      "answer": "A pressure group is a type of movement that tries to pressurize the government to resolve specific issues [cite: 777-778]."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How do political parties differ from movements?",
+      "answer": "Political parties contest elections for power with a comprehensive agenda, while movements focus on specific issues without seeking direct power [cite: 767-769, 776]."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What does 'organized activity' in a movement imply?",
+      "answer": "It implies that a movement follows a planned strategy and structure, which is its essence[cite: 779]."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How does a movement build public opinion?",
+      "answer": "A movement builds public opinion by constantly following up on the issue and putting pressure on parties and the government[cite: 778]."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why did the British government deprive tribals of their livelihood?",
+      "answer": "The British government deprived tribals of their livelihood by denying them rights on forest resources[cite: 830, 832]."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which tribe from Maharashtra participated in the tribal uprising?",
+      "answer": "The Koli, Bhilla, and Ramoshi tribes from Maharashtra participated in the uprising[cite: 839]."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is the demand of tribals regarding forest products?",
+      "answer": "They demand that they should be allowed to collect forest products[cite: 844]."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What happened to the farmers' movement after the Green Revolution?",
+      "answer": "After the Green Revolution, the farmers' movement became more active and effective[cite: 850]."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why did poor farmers become dissatisfied?",
+      "answer": "Poor farmers became dissatisfied because the Green Revolution did not benefit them [cite: 851-852, 854]."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is 'debt cancellation' in the context of farmers?",
+      "answer": "Debt cancellation is a demand by farmers to have their agricultural loans waived off[cite: 855]."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Name two leaders associated with the early farmers' movement.",
+      "answer": "Mahatma Phule and Justice Ranade are associated with the early farmers' movement[cite: 848]."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is the 'Shektari Sanghatana'?",
+      "answer": "Shektari Sanghatana is an important farmers' organisation in India[cite: 856]."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "When was the All India Trade Union Congress established?",
+      "answer": "The All India Trade Union Congress was established in 1920[cite: 863]."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is the impact of unstable employment on workers?",
+      "answer": "Unstable employment leads to financial insecurity and a lack of legal protection for workers[cite: 872]."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What are 'health hazards' in the workplace?",
+      "answer": "Health hazards refer to dangerous conditions at work that can affect a worker's health, which is a major problem[cite: 872]."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Who was Savitribai Phule?",
+      "answer": "Savitribai Phule was a social reformer who took initiative in ending practices like child marriage and Sati[cite: 880]."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What did the women's movement demand regarding treatment?",
+      "answer": "The movement demanded that women should be treated as human beings[cite: 887]."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How did women participate in movements against corruption?",
+      "answer": "Women participated to a great extent in movements against corruption, which raised their awareness of injustice[cite: 888]."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Is the women's movement in India homogeneous?",
+      "answer": "No, the women's movement in India is not homogeneous in nature[cite: 889]."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is 'financial independence' for women?",
+      "answer": "It is an issue taken up by women's movements to ensure women have their own economic resources[cite: 890]."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What does the 'Dowry Prohibition Act' do?",
+      "answer": "It creates a favourable environment for women's development by banning the practice of dowry[cite: 192]."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is environmental degradation?",
+      "answer": "Environmental degradation is the deterioration of the environment, which is a serious problem globally[cite: 908]."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is a 'green belt'?",
+      "answer": "A green belt is an area of protected vegetation, the protection of which is an issue for environment movements[cite: 912]."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the Consumer Protection Act?",
+      "answer": "The purpose is to protect consumers from frauds and ensure their rights[cite: 916, 920]."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is 'adulteration'?",
+      "answer": "Adulteration is the act of degrading the quality of goods, which is a problem faced by consumers[cite: 919]."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What are 'frauds in weight and measures'?",
+      "answer": "This refers to cheating consumers by giving them less quantity than what they pay for[cite: 919]."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How do movements increase participation?",
+      "answer": "Movements increase the participation of people in public life[cite: 921]."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why are post-1980 movements called 'neo-social'?",
+      "answer": "They are called neo-social because their nature is different from earlier movements and they are issue-based [cite: 922-923]."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Who was Sant Gadge Maharaj?",
+      "answer": "Sant Gadge Maharaj was a social reformer mentioned in the context of movements started in India[cite: 817]."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is the 'Andhashraddha Nirmulan Movement'?",
+      "answer": "It is a movement aimed at eradicating superstition, mentioned as an example of social movements[cite: 821]."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is the movement against female foeticide?",
+      "answer": "It is a movement to stop the killing of female foetuses, highlighting gender injustice[cite: 821]."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What was the 'Not in My Name' movement?",
+      "answer": "It is mentioned as an example of a recent social movement in the text[cite: 821]."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Can civic problems emerge from any section?",
+      "answer": "Yes, civic problems need not originate only in the social sphere; they can emerge from any section[cite: 823]."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Was the struggle for independence a movement?",
+      "answer": "Yes, our struggle for independence was also a social movement[cite: 825]."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is the focus of economic movements?",
+      "answer": "Issues like economic security and minimum wages are the focus of economic movements[cite: 826]."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Which tribe participated from Bihar in the uprising?",
+      "answer": "The Santhal and Munda tribes from Bihar participated in the uprising [cite: 840-841]."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What was the result of tenancy laws on farmers' movement?",
+      "answer": "Due to tenancy laws, the farmers' movement slowed down for a period[cite: 849]."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is 'national policy for agriculture'?",
+      "answer": "It is a demand of the farmers' movement to have a comprehensive policy for the agricultural sector[cite: 855]."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What industry was established in the 19th century in India?",
+      "answer": "Textile industry and railway companies were established in the latter half of the nineteenth century[cite: 861]."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Did the labour movement organize agitations in the 1960s?",
+      "answer": "Yes, in the 1960s and 1970s, the labour movement organised several agitations[cite: 870]."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Who was Ishwarchandra Vidyasagar?",
+      "answer": "Ishwarchandra Vidyasagar was a reformist who took initiative in women's rights issues like widow remarriage[cite: 880]."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Who was Pandita Ramabai?",
+      "answer": "Pandita Ramabai was a social reformer who worked for women's empowerment[cite: 880]."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is the 'Nobel Prize for Water'?",
+      "answer": "The Stockholm Water Prize is known as the Nobel Prize for Water[cite: 904]."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How long has Dr. Rajendra Singh's movement been active?",
+      "answer": "His social movement has been active for the last 31 years[cite: 903]."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is 'international cooperation' in environment?",
+      "answer": "It refers to movements working together at the international level to stop environmental deterioration [cite: 909-910]."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is the effect of using chemicals in agriculture?",
+      "answer": "The use of chemicals has ill effects, which is an issue taken up by environment movements [cite: 914-915]."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the 'Jago Grahak Jago' campaign?",
+      "answer": "It is a consumer awareness campaign associated with the consumer movement."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What defines a 'neo-social movement'?",
+      "answer": "A neo-social movement is defined by being issue-based rather than class or party-based[cite: 923]."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What will be studied in the next chapter?",
+      "answer": "In the next chapter, challenges before democracy will be studied[cite: 924]."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Can movements be related to only one issue?",
+      "answer": "Yes, generally movements are devoted to one particular issue, like pollution or corruption[cite: 793, 804]."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the concept and characteristics of a movement.",
+      "answer": "A movement is a collective action formed by people coming together for a particular issue. It has a specific social objective or a focused problem, such as ending corruption. Movements require a leadership to decide objectives and strategies. They need an organisation to follow up on issues and public support to be effective. Movements often have an ideology and use programmes of action to shape public opinion."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Why are movements important in a democracy?",
+      "answer": "Movements are crucial in a democracy as they bring different social problems under discussion. They pressure the government to pay attention to these issues. Leaders of movements provide valuable information to the government, which helps in policy-making. The right to protest allows citizens to oppose unjust decisions. Ultimately, the existence of active movements is a sign of a healthy and responsive democratic system."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Discuss the Tribal movement in India.",
+      "answer": "The Tribal movement originated in the pre-independence period when the British deprived tribals of their forest rights. Uprisings occurred in regions like Chota Nagpur (led by Birsa Munda), Orissa, and Maharashtra. The struggle continues as tribals face problems regarding their rights over forests. Their main demand is to accept their right to collect forest products and cultivate forest land. This movement seeks to protect the livelihood and resources of tribal communities."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain the history and demands of the Farmers' movement in India.",
+      "answer": "The Farmers' movement began during the British period against anti-agriculture policies, with key events in Bardoli and Champaran. It was inspired by leaders like Mahatma Phule and Mahatma Gandhi. Post-independence, it slowed down but revived after the Green Revolution caused a divide between rich and poor farmers. Demands include appropriate prices for products, debt relief, and implementing the Swaminathan Commission's recommendations. Organisations like Shetkari Sanghatana lead these efforts."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Describe the evolution of the Labour movement in India.",
+      "answer": "The Labour movement emerged with industrialisation in the late 19th century, notably with railway workers' strikes in 1899. The AITUC was established in 1920 to resolve workers' issues. The movement was active in the post-independence period, especially in the 1960s and 70s. However, it began to disintegrate from the 1980s, largely due to globalisation. Today, workers face problems like unstable employment and contract labour."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "What was the nature of the Women's movement in the pre-independence period?",
+      "answer": "In the pre-independence period, the women's movement was initiated by progressive men like Raja Rammohan Roy and Mahatma Phule. It aimed to eliminate injustice and exploitation, focusing on ending practices like Sati and child marriage. Reforms such as widow remarriage and women's education were achieved. The movement demanded that women be treated as human beings. It laid the foundation for women's rights in India."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "How has the Women's movement changed in the post-independence period?",
+      "answer": "After independence, despite constitutional equality, women faced discrimination. The movement evolved to help women realize the injustice against them, participating in anti-corruption and anti-caste movements. It started organizing against injustice, taking up issues like health, social security, and empowerment. Significant legal protections like the Domestic Violence Prohibition Act were enacted. Today, it focuses on education and status for women."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Write a note on the Environment movements in India.",
+      "answer": "Environmental degradation is a global issue, and India has several active movements addressing it. These movements focus on protecting biodiversity, water sources, forests, and green belts. They also fight against river pollution and the use of harmful chemicals. By taking up these issues, they aim to stop environmental deterioration. Their work is crucial for sustainable development and public health."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Consumer movement.",
+      "answer": "The Consumer movement emerged after the Consumer Protection Act of 1986. It aims to protect every member of society, as everyone is a consumer. It addresses problems like adulteration, high prices, and weight frauds. By protecting consumers from such frauds, the movement ensures fair trade practices. It has a broad objective of safeguarding the economic interests of the common people."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Describe the contribution of Dr. Rajendra Singh to water conservation.",
+      "answer": "Dr. Rajendra Singh, the 'Waterman of India', revolutionized water conservation in Rajasthan. He built thousands of 'Johads' (traditional water structures) and revived rivers in the desert. Through his organisation, Tarun Bharat Sangh, he promoted water and forest conservation across India. His work over three decades has had a massive impact on rural livelihoods. He was awarded the Stockholm Water Prize for his efforts."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "What are Neo-social movements?",
+      "answer": "Neo-social movements refer to the movements that emerged after 1980. Unlike earlier movements that might have been class or party-based, these are issue-based. They focus on specific problems like environment, women's rights, or tribal rights. They try to organise mass movements around these specific issues. This shift reflects the changing nature of social activism in modern India."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Why do political parties need to take a comprehensive perspective?",
+      "answer": "Political parties aim to govern the entire nation or state, so they cannot focus on just one issue. They must consider all matters, from public cleanliness to space research, from a national perspective. They are expected to have a programme that addresses the problems of all sections of society, including farmers, labourers, women, and youth. This comprehensive approach differentiates them from single-issue movements."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "How do movements and political parties interact?",
+      "answer": "Movements and political parties have a dynamic relationship. Movements put pressure on parties to address specific issues. Political parties often try to incorporate the demands of movements into their agendas to gain support. Sometimes, movements transform into political parties to directly achieve power. Conversely, parties may support movements to oppose the government. Both are essential for a functioning democracy."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Discuss the impact of the Green Revolution on the farmers' movement.",
+      "answer": "The Green Revolution increased agricultural production but also created a disparity between rich and poor farmers. The benefits did not reach the poor, leading to dissatisfaction. This discontent fuelled the farmers' movement, making it more active and effective. It shifted the focus to demands like appropriate pricing and debt relief. Thus, the Green Revolution inadvertently revitalized the farmers' struggle."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "What are the challenges faced by the Labour movement today?",
+      "answer": "The Labour movement faces significant challenges due to globalisation and changing economic structures. The disintegration of traditional unions has weakened collective bargaining. Workers face unstable employment, leading to financial insecurity. The rise of contract labour and lack of legal protection make them vulnerable. Additionally, health hazards and unlimited working hours continue to be pressing problems."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Explain the role of leadership in the success of a movement.",
+      "answer": "Leadership is the backbone of any movement. It keeps the movement active and directed towards its goals. Leaders decide the objectives, plan the programme of action, and determine the strategy of agitation. A strong and effective leadership can mobilize public support and negotiate with the government. Without good leadership, a movement may lose direction and effectiveness."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "How does the 'Right to Protest' function in a democracy?",
+      "answer": "The Right to Protest is a fundamental aspect of a democratic system. It allows citizens to express their dissent against government decisions or policies. It ensures that the government remains accountable to the people. However, this right comes with the responsibility to use it patiently and within legal bounds. It is a tool for correction and dialogue, not just disruption."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "What is the importance of 'Public Interest Litigation' (PIL)?",
+      "answer": "Public Interest Litigation (PIL) is a legal mechanism that allows individuals or groups to file cases in court for the public good. It is significant because it makes the judicial system accessible for social issues. Movements often use PILs to seek justice for marginalized groups or environmental causes. It empowers citizens to hold the government and other entities accountable through the courts."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Discuss the similarities between the pre-independence and post-independence women's movements.",
+      "answer": "Both pre and post-independence women's movements aimed at improving the status of women. They both fought against injustice and exploitation. While the pre-independence era focused on social reforms like ending Sati, the post-independence era focused on rights and empowerment. In both periods, the goal was to ensure women could lead respectful lives. Both movements relied on creating awareness and demanding legal changes."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "What are the benefits of water conservation movements?",
+      "answer": "Water conservation movements, like the one led by Dr. Rajendra Singh, have immense benefits. They help revive dried-up rivers and increase groundwater levels. This improves agriculture and ensures water security for villages. It also aids in forest conservation and wildlife protection. Ultimately, these movements lead to the socio-economic upliftment of rural areas by securing their most vital resource."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Why do some movements gradually transform into political parties?",
+      "answer": "Some movements transform into political parties to gain direct power to implement their objectives. While movements pressure the government, political parties can be the government. For example, the Assam Gana Parishad evolved from a movement. This transition allows them to contest elections and legislate on the issues they fought for. It represents a shift from advocacy to governance."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Explain the role of social reformers in the 19th century.",
+      "answer": "Social reformers in the 19th century, like Raja Rammohan Roy and Mahatma Phule, played a pioneering role in modernising Indian society. They challenged regressive practices like Sati, child marriage, and caste discrimination. They promoted education, especially for women, and widow remarriage. Their work laid the moral and intellectual foundation for the freedom struggle and future social movements."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "What is the 'Swadeshi Movement' and its relevance?",
+      "answer": "The Swadeshi Movement was an economic movement that encouraged the use of Indian-made goods and the boycott of foreign goods. It aimed to promote Indian industries and self-reliance. Historically, it was a key part of the independence struggle. Its relevance continues today in the context of economic self-sufficiency and promoting local manufacturing. It fosters a sense of national pride and economic independence."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "How does the government benefit from movements?",
+      "answer": "The government benefits from movements as they highlight issues that might otherwise be overlooked. Leaders of movements provide detailed information and feedback on social problems. This input is valuable for formulating effective policies. Movements act as a feedback mechanism, helping the government understand public sentiment. They enable the government to address grievances before they escalate."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Discuss the role of the 'Tarun Bharat Sangh'.",
+      "answer": "Tarun Bharat Sangh is an organisation founded by Dr. Rajendra Singh to work on water conservation. It mobilized communities to build Johads and revive rivers in the desert. The organisation emphasizes community participation in managing natural resources. It has expanded its work to forest and wildlife conservation. Its success demonstrates the power of community-led development models."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "What are the different problems faced by consumers in India?",
+      "answer": "Consumers in India face a variety of problems due to changing economic systems. Adulteration of food and goods poses health risks. Increased costs and pricing frauds affect their financial well-being. Frauds in weights and measures are also common. The Consumer movement works to address these issues and protect consumers from exploitation by ensuring accountability."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Why is the post-1980 period significant for social movements?",
+      "answer": "The post-1980 period is significant because it saw the rise of 'neo-social movements'. These movements shifted focus from broad class-based struggles to specific issues like environment and women's rights. They became more issue-oriented and organized mass movements around these specific topics. This period marked a diversification and deepening of civil society activism in India."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "How did the British policy affect Indian agriculture?",
+      "answer": "British colonial policies were largely anti-agriculture, designed to extract maximum revenue. They protected the interests of landlords and moneylenders at the expense of farmers. This led to the exploitation and impoverishment of the farming community. The dissatisfaction caused by these policies sparked the early farmers' movements in India. These movements laid the groundwork for future agrarian struggles."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "What is the significance of the 73rd and 74th constitutional amendments for women?",
+      "answer": "The 73rd and 74th constitutional amendments are landmarks for women's empowerment. They reserved 33% of seats for women in local self-governing institutions like Panchayats and Municipalities. This ensured women's participation in political decision-making at the grassroots level. It has helped in bringing women's issues to the forefront of local governance. This political inclusion is a vital step towards gender equality."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Describe the tribal uprising in Maharashtra.",
+      "answer": "In Maharashtra, tribes like the Koli, Bhilla, and Ramoshi revolted against British rule. These uprisings were driven by the deprivation of their rights to forest resources and livelihood. The struggle was a reaction to the oppressive colonial forest laws. These historical revolts highlight the long-standing resistance of tribal communities against injustice. They are part of the broader history of the tribal movement in India."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "What are the objectives of the 'Shetkari Sanghatana'?",
+      "answer": "The Shetkari Sanghatana is a prominent farmers' organisation in India. Its main objective is to secure fair prices for agricultural produce. It advocates for treating agriculture as an industry and implementing supportive policies. It demands debt relief and freedom from government restrictions on trade. The organisation mobilizes farmers to fight for their economic rights and dignity."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "How does globalisation affect the labour movement?",
+      "answer": "Globalisation has weakened the traditional labour movement. It has led to changes in employment structures, with a rise in contract and informal labour. This makes it harder to organise workers into unions. The focus on competitiveness often leads to reduced worker protections and job security. Labour movements struggle to adapt to these fluid and less regulated market conditions."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "What is the role of 'activists' in a movement?",
+      "answer": "Activists are the driving force of a movement. They work on the ground to organise people and spread the movement's message. They collect information on issues and present it to the leadership and government. Their dedication keeps the agitation alive and creates public awareness. Activists bridge the gap between the leaders and the common people."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Discuss the movement against child marriage.",
+      "answer": "The movement against child marriage has been successful in reducing the practice by 50%. Workers in this movement worked consciously to raise awareness. They collaborated with other movements, like the anti-dowry movement, to be more effective. This movement reflects the power of social activism in changing deep-seated cultural practices. It aims to protect the childhood and future of young girls."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Why is the 'Right to Information' important for movements?",
+      "answer": "The Right to Information (RTI) is a powerful tool for movements. It allows them to access government records and data, exposing corruption or inefficiency. This information is crucial for building a case against unjust policies. It increases transparency and accountability in governance. Movements use RTI to verify government claims and demand better services for the people."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "What is the connection between poverty and malnutrition?",
+      "answer": "Poverty and malnutrition are deeply interconnected problems. Poverty limits access to nutritious food, leading to malnutrition. Conversely, malnutrition affects health and productivity, perpetuating poverty. The text mentions the need to tackle these two problems on a priority basis. Movements working on these issues often advocate for food security and economic upliftment simultaneously."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "How do environment movements contribute to sustainable development?",
+      "answer": "Environment movements advocate for the protection of natural resources which is essential for sustainable development. By fighting against pollution and deforestation, they ensure resources remain available for future generations. They promote practices that balance development with ecological health. Their work on biodiversity and water conservation supports the long-term viability of ecosystems. They act as a check on destructive industrial practices."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "What was the 'Chipko Movement'?",
+      "answer": "Although not detailed in the text, the Chipko movement is a classic example of an environmental movement. It involved villagers hugging trees to prevent them from being cut down. This non-violent resistance highlighted the importance of forests to local communities. It inspired many other environmental movements in India. It demonstrated the power of community action in protecting the environment."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Why is the 'Consumer Protection Act' significant?",
+      "answer": "The Consumer Protection Act of 1986 is significant because it legally recognised the rights of consumers. It provided a mechanism for redressal of consumer grievances. This led to the rise of the consumer movement in India. It empowers ordinary citizens to fight against unfair trade practices. The Act ensures that consumers are not helpless against powerful businesses."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Discuss the issue of contract labour.",
+      "answer": "Contract labour is a major issue facing the labour movement today. It involves hiring workers on a temporary basis without the benefits of permanent employment. This leads to financial insecurity and lack of legal protection for workers. It undermines the bargaining power of trade unions. Addressing the exploitation of contract labourers is a key challenge for modern labour activism."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "What is the role of 'International Cooperation' in environment movements?",
+      "answer": "Environmental problems are often global, requiring international cooperation. Movements work across borders to address issues like climate change and biodiversity loss. International treaties and agreements provide a framework for national movements. Cooperation allows for the sharing of knowledge and resources. The text notes significant international cooperation in the field of environmental protection."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "How did the 'All India Kisan Sabha' contribute to the farmers' movement?",
+      "answer": "The All India Kisan Sabha is a major farmers' organisation that has played a historic role. It united farmers to fight against British policies and feudal exploitation. It continues to advocate for farmers' rights, demanding better prices and policies. By organising protests and mobilizing farmers, it has kept agrarian issues on the national agenda. It represents the collective voice of the farming community."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "What is the 'Water Revolution' in Rajasthan?",
+      "answer": "The Water Revolution in Rajasthan refers to the massive restoration of water sources led by Dr. Rajendra Singh. It involved building traditional Johads to harvest rainwater. This revived dried-up rivers and transformed the desert landscape. It proved that community-led water conservation is effective. This revolution improved agriculture and the lives of thousands of villagers."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Social Equality' in the context of movements.",
+      "answer": "Social equality is a core value behind many movements, such as those against caste discrimination and for women's rights. It means ensuring equal status and opportunities for all, regardless of caste, gender, or class. Movements fight to remove social hierarchies and injustices. Achieving social equality is seen as essential for a true democracy. It is the ideological basis for movements empowering marginalized sections."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "What are the demands of the 'Tribal Movement' regarding forest produce?",
+      "answer": "The Tribal Movement demands the right to collect and use forest produce. For tribals, the forest is their source of livelihood and culture. They want the government to recognize their traditional rights to gather fruits, firewood, and other resources. Denying this right leads to their impoverishment. The movement asserts that tribals are the natural guardians of the forest."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "How do movements shape public opinion?",
+      "answer": "Movements shape public opinion by raising awareness about specific issues. Through protests, campaigns, and media, they highlight problems and propose solutions. They educate the public on their rights and injustices. As more people understand and support the cause, public opinion shifts. This collective opinion then puts pressure on the government to act."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Discuss the 'Domestic Violence Prohibition Act'.",
+      "answer": "The Domestic Violence Prohibition Act is a landmark law resulting from the women's movement. It provides legal protection to women against physical and mental abuse at home. It recognizes the right of women to live with dignity and safety. The Act creates a favourable environment for women's development. It empowers women to seek justice against abuse within the family."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Why is 'Public Cleanliness' a concern for political parties?",
+      "answer": "Public cleanliness is a national issue that affects public health and quality of life. Political parties must address it as part of their comprehensive programme. It requires policy decisions and implementation at a large scale. While movements may focus on specific spots, parties in power are responsible for national sanitation strategies. It reflects the party's commitment to the well-being of citizens."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "What is the relationship between 'Dowry' and 'Women's Empowerment'?",
+      "answer": "The practice of dowry undermines women's empowerment by treating them as financial burdens. Movements against dowry aim to establish women's equal status and dignity. Ending dowry is essential for women's financial independence and safety. Empowerment cannot be achieved if women are subjected to violence and extortion for dowry. The anti-dowry movement is thus a crucial part of the broader women's rights struggle."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "How did the 'Railway Strike of 1899' impact the labour movement?",
+      "answer": "The Railway Strike of 1899 was a foundational event for the labour movement in India. It demonstrated the power of organized labour to challenge authorities. It set a precedent for collective bargaining and strikes as a tool for workers' rights. It helped in raising class consciousness among workers. This event paved the way for the formation of formal trade unions later."
+    }
+  ]
+}

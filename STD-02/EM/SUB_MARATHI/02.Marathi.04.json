@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.04",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "नकल करूया"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पहिल्या चित्रात मुलगा कशाची नकल करत आहे?",
+      "options": [
+        { "option_id": 1, "text": "कुत्रा", "is_correct": false },
+        { "option_id": 2, "text": "बेडूक", "is_correct": true },
+        { "option_id": 3, "text": "मांजर", "is_correct": false },
+        { "option_id": 4, "text": "पक्षी", "is_correct": false }
+      ],
+      "answer": "बेडूक"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मुलगी कोणाची नकल करत आहे?",
+      "options": [
+        { "option_id": 1, "text": "गाय", "is_correct": false },
+        { "option_id": 2, "text": "हत्ती", "is_correct": true },
+        { "option_id": 3, "text": "घोडा", "is_correct": false },
+        { "option_id": 4, "text": "कुत्रा", "is_correct": false }
+      ],
+      "answer": "हत्ती"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "एका चित्रात मुलगा कोणासारखा चालतो?",
+      "options": [
+        { "option_id": 1, "text": "मांजर", "is_correct": false },
+        { "option_id": 2, "text": "कुत्रा", "is_correct": true },
+        { "option_id": 3, "text": "घोडा", "is_correct": false },
+        { "option_id": 4, "text": "गाय", "is_correct": false }
+      ],
+      "answer": "कुत्रा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मुलगी हात पसरून कोणाची नकल करते?",
+      "options": [
+        { "option_id": 1, "text": "चिमणी", "is_correct": false },
+        { "option_id": 2, "text": "पक्षी", "is_correct": true },
+        { "option_id": 3, "text": "मांजर", "is_correct": false },
+        { "option_id": 4, "text": "गाय", "is_correct": false }
+      ],
+      "answer": "पक्षी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "हा धडा कशाबद्दल आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळ", "is_correct": false },
+        { "option_id": 2, "text": "नकल", "is_correct": true },
+        { "option_id": 3, "text": "फळे", "is_correct": false },
+        { "option_id": 4, "text": "ऋतू", "is_correct": false }
+      ],
+      "answer": "नकल"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "नकल करताना मुलं काय शिकतात?",
+      "options": [
+        { "option_id": 1, "text": "भांडणे", "is_correct": false },
+        { "option_id": 2, "text": "कृती", "is_correct": true },
+        { "option_id": 3, "text": "लिहिणे", "is_correct": false },
+        { "option_id": 4, "text": "वाचणे", "is_correct": false }
+      ],
+      "answer": "कृती"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "नकल करताना आवाज कसा करायचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "हळू", "is_correct": false },
+        { "option_id": 2, "text": "प्राण्यासारखा", "is_correct": true },
+        { "option_id": 3, "text": "शांत", "is_correct": false },
+        { "option_id": 4, "text": "कठीण", "is_correct": false }
+      ],
+      "answer": "प्राण्यासारखा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "नकल करणे कशासाठी उपयोगी आहे?",
+      "options": [
+        { "option_id": 1, "text": "मनोरंजनासाठी", "is_correct": false },
+        { "option_id": 2, "text": "शिकण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "पळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "शिकण्यास होऊ शकते"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "या धड्यात किती प्राणी दाखवले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "चार", "is_correct": true },
+        { "option_id": 3, "text": "सहा", "is_correct": false },
+        { "option_id": 4, "text": "आठ", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "नकल करताना काय करायला सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "बसायला", "is_correct": false },
+        { "option_id": 2, "text": "कृती करायला", "is_correct": true },
+        { "option_id": 3, "text": "लिहायला", "is_correct": false },
+        { "option_id": 4, "text": "वाचायला", "is_correct": false }
+      ],
+      "answer": "कृती करायला"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "नकल करताना कोणता भाग वापरतो?",
+      "options": [
+        { "option_id": 1, "text": "डोळे", "is_correct": false },
+        { "option_id": 2, "text": "शरीर", "is_correct": true },
+        { "option_id": 3, "text": "पुस्तक", "is_correct": false },
+        { "option_id": 4, "text": "पेन", "is_correct": false }
+      ],
+      "answer": "शरीर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मुलांनी नकल कशी करावी?",
+      "options": [
+        { "option_id": 1, "text": "आनंदाने", "is_correct": true },
+        { "option_id": 2, "text": "रागाने", "is_correct": false },
+        { "option_id": 3, "text": "घाबरून", "is_correct": false },
+        { "option_id": 4, "text": "थांबून", "is_correct": false }
+      ],
+      "answer": "आनंदाने"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "हा धडा कशासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "परीक्षेसाठी", "is_correct": false },
+        { "option_id": 2, "text": "कृती शिकण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "लिहिण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "वाचनासाठी", "is_correct": false }
+      ],
+      "answer": "कृती शिकण्यासाठी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "नकल करताना कोणाची मदत घ्यावी?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 2, "text": "स्वतः", "is_correct": true },
+        { "option_id": 3, "text": "पुस्तक", "is_correct": false },
+        { "option_id": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "स्वतः"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्यांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "लहान मुलांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "पालकांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षकांसाठी", "is_correct": false }
+      ],
+      "answer": "लहान मुलांसाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "या धड्याचे नाव काय आहे?",
+      "answer": "या धड्याचे नाव ‘नकल करूया’ आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "मुलं कोणाची नकल करतात?",
+      "answer": "मुलं वेगवेगळ्या प्राण्यांची नकल करतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "नकल करताना काय करायचे असते?",
+      "answer": "नकल करताना कृती व आवाज करायचा असतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "नकल केल्याने काय शिकायला मिळते?",
+      "answer": "नकल केल्याने कृती आणि हालचाली शिकायला मिळतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हा धडा कशावर आधारित आहे?",
+      "answer": "हा धडा नकल या कृतीवर आधारित आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "नकल करताना शरीराचा उपयोग कसा होतो?",
+      "answer": "नकल करताना शरीराच्या हालचालींचा उपयोग होतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "मुलांनी नकल कशी करावी?",
+      "answer": "मुलांनी नकल आनंदाने करावी."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "नकल करताना आवाज का काढावा?",
+      "answer": "प्राण्यासारखा वाटावा म्हणून आवाज काढावा."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "नकल करणे मजेशीर का आहे?",
+      "answer": "नकल करणे खेळासारखे असल्यामुळे मजेशीर आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "answer": "या धड्यातून कृतीतून शिकायला मिळते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "नकल करताना कोणाची नकल करू नये?",
+      "answer": "वाईट सवयींची नकल करू नये."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "हा धडा कसा आहे?",
+      "answer": "हा धडा आनंददायी आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "नकल करताना काय लक्षात ठेवावे?",
+      "answer": "नकल करताना सुरक्षितता लक्षात ठेवावी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मुलांना नकल का आवडते?",
+      "answer": "नकल करताना खेळता येते म्हणून मुलांना आवडते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या वर्गासाठी आहे?",
+      "answer": "हा धडा दुसरीच्या विद्यार्थ्यांसाठी आहे."
+    }
+  ]
+}

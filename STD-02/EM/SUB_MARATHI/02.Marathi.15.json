@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.15",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "आपला परिसर - १"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "तांदूळ आणि डाळी कोठे मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "कापड दुकानात", "is_correct": false },
+        { "option_id": 2, "text": "किराणामालाच्या दुकानात", "is_correct": true },
+        { "option_id": 3, "text": "सायकल दुकानात", "is_correct": false },
+        { "option_id": 4, "text": "औषधाच्या दुकानात", "is_correct": false }
+      ],
+      "answer": "किराणामालाच्या दुकानात"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वही आणि पुस्तके कोठे मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "विविध वस्तुभांडार (स्टेशनरी)", "is_correct": true },
+        { "option_id": 2, "text": "कापड दुकान", "is_correct": false },
+        { "option_id": 3, "text": "किराणा दुकान", "is_correct": false },
+        { "option_id": 4, "text": "भाजी दुकान", "is_correct": false }
+      ],
+      "answer": "विविध वस्तुभांडार (स्टेशनरी)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सायकल पंक्चर झाली तर आपण कोठे जातो?",
+      "options": [
+        { "option_id": 1, "text": "दवाखान्यात", "is_correct": false },
+        { "option_id": 2, "text": "सायकल दुरुस्ती दुकानात", "is_correct": true },
+        { "option_id": 3, "text": "कापड दुकानात", "is_correct": false },
+        { "option_id": 4, "text": "शाळेत", "is_correct": false }
+      ],
+      "answer": "सायकल दुरुस्ती दुकानात"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कापड दुकानात काय विकत मिळते?",
+      "options": [
+        { "option_id": 1, "text": "धान्य", "is_correct": false },
+        { "option_id": 2, "text": "कापड आणि कपडे", "is_correct": true },
+        { "option_id": 3, "text": "औषधे", "is_correct": false },
+        { "option_id": 4, "text": "खेळणी", "is_correct": false }
+      ],
+      "answer": "कापड आणि कपडे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वस्तूंचे वजन करण्यासाठी दुकानदार कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "पट्टीचा", "is_correct": false },
+        { "option_id": 2, "text": "तराजूचा", "is_correct": true },
+        { "option_id": 3, "text": "थर्मामीटरचा", "is_correct": false },
+        { "option_id": 4, "text": "टेपचा", "is_correct": false }
+      ],
+      "answer": "तराजूचा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पेन आणि पेन्सिल कोणत्या दुकानात मिळेल?",
+      "options": [
+        { "option_id": 1, "text": "सायकल दुकानात", "is_correct": false },
+        { "option_id": 2, "text": "विविध वस्तुभांडारामध्ये", "is_correct": true },
+        { "option_id": 3, "text": "फळांच्या दुकानात", "is_correct": false },
+        { "option_id": 4, "text": "दूध डेअरीत", "is_correct": false }
+      ],
+      "answer": "विविध वस्तुभांडारामध्ये"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सायकल दुरुस्त करणाऱ्या माणसाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "डॉक्टर", "is_correct": false },
+        { "option_id": 2, "text": "मेकॅनिक/दुरुस्तीवाला", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 4, "text": "शिंपी", "is_correct": false }
+      ],
+      "answer": "मेकॅनिक/दुरुस्तीवाला"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "नवीन कपडे शिवण्यासाठी आपण कोणाकडे जातो?",
+      "options": [
+        { "option_id": 1, "text": "शिंपी/कापड दुकान", "is_correct": true },
+        { "option_id": 2, "text": "लोहार", "is_correct": false },
+        { "option_id": 3, "text": "सुतार", "is_correct": false },
+        { "option_id": 4, "text": "कुंभार", "is_correct": false }
+      ],
+      "answer": "शिंपी/कापड दुकान"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सायकलमध्ये हवा भरण्यासाठी कोठे जावे?",
+      "options": [
+        { "option_id": 1, "text": "सायकल दुरुस्ती दुकानात", "is_correct": true },
+        { "option_id": 2, "text": "किराणा दुकानात", "is_correct": false },
+        { "option_id": 3, "text": "कापड दुकानात", "is_correct": false },
+        { "option_id": 4, "text": "शाळेत", "is_correct": false }
+      ],
+      "answer": "सायकल दुरुस्ती दुकानात"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "जेवणासाठी लागणारे धान्य (साखर, तेल) कोठून मिळते?",
+      "options": [
+        { "option_id": 1, "text": "किराणा दुकानातून", "is_correct": true },
+        { "option_id": 2, "text": "स्टेशनरी दुकानातून", "is_correct": false },
+        { "option_id": 3, "text": "गॅरेजमधून", "is_correct": false },
+        { "option_id": 4, "text": "दवाखान्यातून", "is_correct": false }
+      ],
+      "answer": "किराणा दुकानातून"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'दुकान' या शब्दाचे अनेकवचन काय?",
+      "options": [
+        { "option_id": 1, "text": "दुकाने", "is_correct": true },
+        { "option_id": 2, "text": "दुकान", "is_correct": false },
+        { "option_id": 3, "text": "दुकानदार", "is_correct": false },
+        { "option_id": 4, "text": "दुकाना", "is_correct": false }
+      ],
+      "answer": "दुकाने"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "शाळा सुरू झाल्यावर मुले वस्तू घेण्यासाठी कोठे जातात?",
+      "options": [
+        { "option_id": 1, "text": "चॉकलेट दुकानात", "is_correct": false },
+        { "option_id": 2, "text": "विविध वस्तुभांडारात", "is_correct": true },
+        { "option_id": 3, "text": "कपड्यांच्या दुकानात", "is_correct": false },
+        { "option_id": 4, "text": "दूध केंद्रावर", "is_correct": false }
+      ],
+      "answer": "विविध वस्तुभांडारात"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "साखर आणि गूळ कोठे मिळेल?",
+      "options": [
+        { "option_id": 1, "text": "सायकल दुकानात", "is_correct": false },
+        { "option_id": 2, "text": "किराणा दुकानात", "is_correct": true },
+        { "option_id": 3, "text": "कापड दुकानात", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तकांच्या दुकानात", "is_correct": false }
+      ],
+      "answer": "किराणा दुकानात"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "दुकानात वस्तू विकणाऱ्या व्यक्तीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 2, "text": "दुकानदार", "is_correct": true },
+        { "option_id": 3, "text": "सैनिक", "is_correct": false },
+        { "option_id": 4, "text": "चालक", "is_correct": false }
+      ],
+      "answer": "दुकानदार"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "घरातील सामान संपल्यावर आपण कोठे जातो?",
+      "options": [
+        { "option_id": 1, "text": "बाजारात/दुकानात", "is_correct": true },
+        { "option_id": 2, "text": "जंगलात", "is_correct": false },
+        { "option_id": 3, "text": "घरी", "is_correct": false },
+        { "option_id": 4, "text": "शाळेत", "is_correct": false }
+      ],
+      "answer": "बाजारात/दुकानात"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पाठात दिलेल्या कोणत्याही दोन दुकानांची नावे लिहा.",
+      "answer": "किराणामालाचे दुकान आणि कापड दुकान."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सायकलच्या चाकात हवा कमी झाली तर काय करावे?",
+      "answer": "सायकलच्या चाकात हवा कमी झाली तर सायकल दुरुस्तीच्या दुकानात जाऊन हवा भरावी."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "किराणा दुकानात कोणकोणत्या गोष्टी मिळतात?",
+      "answer": "किराणा दुकानात तांदूळ, डाळ, साखर, गूळ, तेल इत्यादी गोष्टी मिळतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "शाळेचे साहित्य (दप्तर, पेन) कोठे मिळते?",
+      "answer": "शाळेचे साहित्य 'विविध वस्तुभांडार' दुकानात मिळते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "आपल्याला शर्ट किंवा फ्रॉक घ्यायचा असेल तर कोठे जावे?",
+      "answer": "आपल्याला कपडे घ्यायचे असतील तर कापड दुकानात जावे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "सायकल दुरुस्तीच्या दुकानात काय दुरुस्त केले जाते?",
+      "answer": "सायकल दुरुस्तीच्या दुकानात सायकल दुरुस्त केली जाते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "शाईची दौत (Inkpot) कोठे मिळेल?",
+      "answer": "शाईची दौत विविध वस्तुभांडारात मिळेल."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "दुकानदार वस्तूचे वजन कशाने करतो?",
+      "answer": "दुकानदार वस्तूचे वजन तराजूने करतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "'परिसर' म्हणजे काय?",
+      "answer": "आपल्या घराच्या आजूबाजूचा भाग म्हणजे 'परिसर' होय."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कापड दुकानात कोण असते?",
+      "answer": "कापड दुकानात कापड विकणारा दुकानदार असतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "सायकल दुरुस्ती करणारा काय वापरतो?",
+      "answer": "सायकल दुरुस्ती करणारा पाना (Spanner) आणि अवजारे वापरतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "दुकानात वस्तू विकत घेण्यासाठी काय द्यावे लागते?",
+      "answer": "दुकानात वस्तू विकत घेण्यासाठी पैसे द्यावे लागतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "तूरडाळ आणि तांदूळ कोठून आणतात?",
+      "answer": "तूरडाळ आणि तांदूळ किराणा दुकानातून आणतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "या पाठाचे नाव काय आहे?",
+      "answer": "या पाठाचे नाव 'आपला परिसर - १' आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "आपण दुकानांची माहिती कशी मिळवू शकतो?",
+      "answer": "आपण परिसरातील दुकानांना भेट देऊन माहिती मिळवू शकतो."
+    }
+  ]
+}

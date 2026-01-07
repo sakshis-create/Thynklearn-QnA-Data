@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.History.03",
+    "standard": "10",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Applied History"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Applied History is also known as ________.",
+      "options": [
+        { "option_id": 1, "text": "Public History", "is_correct": true },
+        { "option_id": 2, "text": "Ancient History", "is_correct": false },
+        { "option_id": 3, "text": "Future History", "is_correct": false },
+        { "option_id": 4, "text": "Political History", "is_correct": false }
+      ],
+      "answer": "Public History"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The earliest museum in the world was discovered in the excavations at the city of ________.",
+      "options": [
+        { "option_id": 1, "text": "Delhi", "is_correct": false },
+        { "option_id": 2, "text": "Harappa", "is_correct": false },
+        { "option_id": 3, "text": "Ur", "is_correct": true },
+        { "option_id": 4, "text": "Kolkata", "is_correct": false }
+      ],
+      "answer": "Ur"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The National Archives of India is located in ________.",
+      "options": [
+        { "option_id": 1, "text": "Pune", "is_correct": false },
+        { "option_id": 2, "text": "Kolkata", "is_correct": false },
+        { "option_id": 3, "text": "Mumbai", "is_correct": false },
+        { "option_id": 4, "text": "New Delhi", "is_correct": true }
+      ],
+      "answer": "New Delhi"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which institute in Bengaluru has an independent department named 'Centre for Public History'?",
+      "options": [
+        { "option_id": 1, "text": "Indian Institute of Science", "is_correct": false },
+        { "option_id": 2, "text": "Srushti Institute of Art Design and Technology", "is_correct": true },
+        { "option_id": 3, "text": "National Institute of Design", "is_correct": false },
+        { "option_id": 4, "text": "Bangalore University", "is_correct": false }
+      ],
+      "answer": "Srushti Institute of Art Design and Technology"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The excavations at the city of 'Ur' were conducted by ________.",
+      "options": [
+        { "option_id": 1, "text": "Sir John Marshall", "is_correct": false },
+        { "option_id": 2, "text": "Sir Leonard Woolley", "is_correct": true },
+        { "option_id": 3, "text": "Nathaniel Wallich", "is_correct": false },
+        { "option_id": 4, "text": "Alexander Cunningham", "is_correct": false }
+      ],
+      "answer": "Sir Leonard Woolley"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The museum at 'Ur' was built by the princess of ________.",
+      "options": [
+        { "option_id": 1, "text": "Egypt", "is_correct": false },
+        { "option_id": 2, "text": "Mesopotamia", "is_correct": true },
+        { "option_id": 3, "text": "Greece", "is_correct": false },
+        { "option_id": 4, "text": "Rome", "is_correct": false }
+      ],
+      "answer": "Mesopotamia"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who was the founder of the Indian Museum at Kolkata?",
+      "options": [
+        { "option_id": 1, "text": "Sir Leonard Woolley", "is_correct": false },
+        { "option_id": 2, "text": "Nathaniel Wallich", "is_correct": true },
+        { "option_id": 3, "text": "Ennigaldi", "is_correct": false },
+        { "option_id": 4, "text": "James Prinsep", "is_correct": false }
+      ],
+      "answer": "Nathaniel Wallich"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The 'Indian Museum' at Kolkata was founded by the ________ in 1814 C.E.",
+      "options": [
+        { "option_id": 1, "text": "British Government", "is_correct": false },
+        { "option_id": 2, "text": "Archaeological Survey of India", "is_correct": false },
+        { "option_id": 3, "text": "Asiatic Society", "is_correct": true },
+        { "option_id": 4, "text": "National Archives", "is_correct": false }
+      ],
+      "answer": "Asiatic Society"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a type of cultural heritage?",
+      "options": [
+        { "option_id": 1, "text": "Tangible", "is_correct": false },
+        { "option_id": 2, "text": "Intangible", "is_correct": false },
+        { "option_id": 3, "text": "Natural", "is_correct": true },
+        { "option_id": 4, "text": "Oral traditions", "is_correct": false }
+      ],
+      "answer": "Natural"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The main office of the National Film Archives of India is located in ________.",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Pune", "is_correct": true },
+        { "option_id": 3, "text": "Delhi", "is_correct": false },
+        { "option_id": 4, "text": "Chennai", "is_correct": false }
+      ],
+      "answer": "Pune"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which organization has announced directives to promote cultural and natural heritage?",
+      "options": [
+        { "option_id": 1, "text": "UNICEF", "is_correct": false },
+        { "option_id": 2, "text": "WHO", "is_correct": false },
+        { "option_id": 3, "text": "UNESCO", "is_correct": true },
+        { "option_id": 4, "text": "UNO", "is_correct": false }
+      ],
+      "answer": "UNESCO"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Kootiyattam is a Sanskrit theatre tradition from ________.",
+      "options": [
+        { "option_id": 1, "text": "Tamil Nadu", "is_correct": false },
+        { "option_id": 2, "text": "Kerala", "is_correct": true },
+        { "option_id": 3, "text": "Karnataka", "is_correct": false },
+        { "option_id": 4, "text": "Andhra Pradesh", "is_correct": false }
+      ],
+      "answer": "Kerala"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Ramman is a religious festival and ritual theatre of ________.",
+      "options": [
+        { "option_id": 1, "text": "Garhwal (Uttarakhand)", "is_correct": true },
+        { "option_id": 2, "text": "Rajasthan", "is_correct": false },
+        { "option_id": 3, "text": "Manipur", "is_correct": false },
+        { "option_id": 4, "text": "West Bengal", "is_correct": false }
+      ],
+      "answer": "Garhwal (Uttarakhand)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Kalbelia folk songs and dances belong to ________.",
+      "options": [
+        { "option_id": 1, "text": "Gujarat", "is_correct": false },
+        { "option_id": 2, "text": "Rajasthan", "is_correct": true },
+        { "option_id": 3, "text": "Punjab", "is_correct": false },
+        { "option_id": 4, "text": "Haryana", "is_correct": false }
+      ],
+      "answer": "Rajasthan"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The Kaas plateau is located in which district?",
+      "options": [
+        { "option_id": 1, "text": "Pune", "is_correct": false },
+        { "option_id": 2, "text": "Satara", "is_correct": true },
+        { "option_id": 3, "text": "Kolhapur", "is_correct": false },
+        { "option_id": 4, "text": "Ratnagiri", "is_correct": false }
+      ],
+      "answer": "Satara"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of these is a World Natural Heritage Site in India?",
+      "options": [
+        { "option_id": 1, "text": "Red Fort", "is_correct": false },
+        { "option_id": 2, "text": "Taj Mahal", "is_correct": false },
+        { "option_id": 3, "text": "Western Ghats", "is_correct": true },
+        { "option_id": 4, "text": "Ajanta Caves", "is_correct": false }
+      ],
+      "answer": "Western Ghats"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Where is the Sun Temple located?",
+      "options": [
+        { "option_id": 1, "text": "Konark", "is_correct": true },
+        { "option_id": 2, "text": "Hampi", "is_correct": false },
+        { "option_id": 3, "text": "Khajuraho", "is_correct": false },
+        { "option_id": 4, "text": "Pattadakal", "is_correct": false }
+      ],
+      "answer": "Konark"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Chhatrapati Shivaji Maharaj Terminus is located in ________.",
+      "options": [
+        { "option_id": 1, "text": "Delhi", "is_correct": false },
+        { "option_id": 2, "text": "Kolkata", "is_correct": false },
+        { "option_id": 3, "text": "Mumbai", "is_correct": true },
+        { "option_id": 4, "text": "Chennai", "is_correct": false }
+      ],
+      "answer": "Mumbai"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an intangible cultural heritage of India?",
+      "options": [
+        { "option_id": 1, "text": "Yoga", "is_correct": false },
+        { "option_id": 2, "text": "Vedic Chanting", "is_correct": false },
+        { "option_id": 3, "text": "Taj Mahal", "is_correct": true },
+        { "option_id": 4, "text": "Ramlila", "is_correct": false }
+      ],
+      "answer": "Taj Mahal"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The 'Thatheras' of Punjab are known for making utensils of ________.",
+      "options": [
+        { "option_id": 1, "text": "Iron and Steel", "is_correct": false },
+        { "option_id": 2, "text": "Brass and Copper", "is_correct": true },
+        { "option_id": 3, "text": "Gold and Silver", "is_correct": false },
+        { "option_id": 4, "text": "Clay", "is_correct": false }
+      ],
+      "answer": "Brass and Copper"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "INTACH stands for ________.",
+      "options": [
+        { "option_id": 1, "text": "Indian National Trust for Art and Cultural Heritage", "is_correct": true },
+        { "option_id": 2, "text": "International Trust for Art and Culture", "is_correct": false },
+        { "option_id": 3, "text": "Indian National Trust for Archaeology", "is_correct": false },
+        { "option_id": 4, "text": "Indian National Technical and Cultural Heritage", "is_correct": false }
+      ],
+      "answer": "Indian National Trust for Art and Cultural Heritage"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Philosophy needs language as a medium of ________.",
+      "options": [
+        { "option_id": 1, "text": "Research", "is_correct": false },
+        { "option_id": 2, "text": "Expression", "is_correct": true },
+        { "option_id": 3, "text": "Technology", "is_correct": false },
+        { "option_id": 4, "text": "Preservation", "is_correct": false }
+      ],
+      "answer": "Expression"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The history of ________ helps in understanding the changes in agricultural production.",
+      "options": [
+        { "option_id": 1, "text": "Philosophy", "is_correct": false },
+        { "option_id": 2, "text": "Technology", "is_correct": true },
+        { "option_id": 3, "text": "Arts", "is_correct": false },
+        { "option_id": 4, "text": "Literature", "is_correct": false }
+      ],
+      "answer": "Technology"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which discipline is NOT included in Humanities?",
+      "options": [
+        { "option_id": 1, "text": "Archaeology", "is_correct": false },
+        { "option_id": 2, "text": "Sociology", "is_correct": false },
+        { "option_id": 3, "text": "Electronics", "is_correct": true },
+        { "option_id": 4, "text": "Political Science", "is_correct": false }
+      ],
+      "answer": "Electronics"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The concept of natural heritage gives importance to ________.",
+      "options": [
+        { "option_id": 1, "text": "Buildings", "is_correct": false },
+        { "option_id": 2, "text": "Biodiversity", "is_correct": true },
+        { "option_id": 3, "text": "Machines", "is_correct": false },
+        { "option_id": 4, "text": "Sculptures", "is_correct": false }
+      ],
+      "answer": "Biodiversity"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Where is the 'Rani-ki-Bav' located?",
+      "options": [
+        { "option_id": 1, "text": "Rajasthan", "is_correct": false },
+        { "option_id": 2, "text": "Gujarat", "is_correct": true },
+        { "option_id": 3, "text": "Delhi", "is_correct": false },
+        { "option_id": 4, "text": "Bihar", "is_correct": false }
+      ],
+      "answer": "Gujarat"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "In which state is the Manas Wildlife Sanctuary located?",
+      "options": [
+        { "option_id": 1, "text": "Assam", "is_correct": true },
+        { "option_id": 2, "text": "West Bengal", "is_correct": false },
+        { "option_id": 3, "text": "Rajasthan", "is_correct": false },
+        { "option_id": 4, "text": "Uttarakhand", "is_correct": false }
+      ],
+      "answer": "Assam"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the purpose of 'Heritage Management'?",
+      "options": [
+        { "option_id": 1, "text": "To sell artifacts", "is_correct": false },
+        { "option_id": 2, "text": "To destroy old buildings", "is_correct": false },
+        { "option_id": 3, "text": "To preserve and conserve heritage", "is_correct": true },
+        { "option_id": 4, "text": "To build new cities", "is_correct": false }
+      ],
+      "answer": "To preserve and conserve heritage"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which scholar was the first curator of the Indian Museum?",
+      "options": [
+        { "option_id": 1, "text": "Nathaniel Wallich", "is_correct": true },
+        { "option_id": 2, "text": "Sir Leonard Woolley", "is_correct": false },
+        { "option_id": 3, "text": "Alexander Cunningham", "is_correct": false },
+        { "option_id": 4, "text": "John Marshall", "is_correct": false }
+      ],
+      "answer": "Nathaniel Wallich"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The National Film Archives of India was established in ________.",
+      "options": [
+        { "option_id": 1, "text": "1954", "is_correct": false },
+        { "option_id": 2, "text": "1964", "is_correct": true },
+        { "option_id": 3, "text": "1974", "is_correct": false },
+        { "option_id": 4, "text": "1984", "is_correct": false }
+      ],
+      "answer": "1964"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which of these is a 'Mixed' World Heritage Site in India?",
+      "options": [
+        { "option_id": 1, "text": "Western Ghats", "is_correct": false },
+        { "option_id": 2, "text": "Sundarbans National Park", "is_correct": false },
+        { "option_id": 3, "text": "Khangchendzonga National Park", "is_correct": true },
+        { "option_id": 4, "text": "Manas Wildlife Sanctuary", "is_correct": false }
+      ],
+      "answer": "Khangchendzonga National Park"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "The Princess Ennigaldi built a museum in ________.",
+      "options": [
+        { "option_id": 1, "text": "Egypt", "is_correct": false },
+        { "option_id": 2, "text": "Mesopotamia", "is_correct": true },
+        { "option_id": 3, "text": "India", "is_correct": false },
+        { "option_id": 4, "text": "China", "is_correct": false }
+      ],
+      "answer": "Mesopotamia"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Clay tablets inscribed with descriptions of artefacts were found in the museum at ________.",
+      "options": [
+        { "option_id": 1, "text": "Kolkata", "is_correct": false },
+        { "option_id": 2, "text": "Ur", "is_correct": true },
+        { "option_id": 3, "text": "Harappa", "is_correct": false },
+        { "option_id": 4, "text": "Mohenjodaro", "is_correct": false }
+      ],
+      "answer": "Ur"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The Archaeological Site of Nalanda Mahavihara is in ________.",
+      "options": [
+        { "option_id": 1, "text": "Uttar Pradesh", "is_correct": false },
+        { "option_id": 2, "text": "Bihar", "is_correct": true },
+        { "option_id": 3, "text": "Madhya Pradesh", "is_correct": false },
+        { "option_id": 4, "text": "Gujarat", "is_correct": false }
+      ],
+      "answer": "Bihar"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which of these is an example of oral tradition?",
+      "options": [
+        { "option_id": 1, "text": "Taj Mahal", "is_correct": false },
+        { "option_id": 2, "text": "Vedic Chanting", "is_correct": true },
+        { "option_id": 3, "text": "Ajanta Caves", "is_correct": false },
+        { "option_id": 4, "text": "Red Fort", "is_correct": false }
+      ],
+      "answer": "Vedic Chanting"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which field requires knowledge of history for management?",
+      "options": [
+        { "option_id": 1, "text": "Management Studies", "is_correct": true },
+        { "option_id": 2, "text": "Physics", "is_correct": false },
+        { "option_id": 3, "text": "Chemistry", "is_correct": false },
+        { "option_id": 4, "text": "Mathematics", "is_correct": false }
+      ],
+      "answer": "Management Studies"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Applied History is concerned with the application of history for the benefit of ________.",
+      "options": [
+        { "option_id": 1, "text": "People in the past", "is_correct": false },
+        { "option_id": 2, "text": "People in contemporary and future times", "is_correct": true },
+        { "option_id": 3, "text": "Kings and Queens", "is_correct": false },
+        { "option_id": 4, "text": "Museum curators only", "is_correct": false }
+      ],
+      "answer": "People in contemporary and future times"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Sankirtana is a ritual singing and dancing tradition of ________.",
+      "options": [
+        { "option_id": 1, "text": "Kerala", "is_correct": false },
+        { "option_id": 2, "text": "Manipur", "is_correct": true },
+        { "option_id": 3, "text": "Assam", "is_correct": false },
+        { "option_id": 4, "text": "Odisha", "is_correct": false }
+      ],
+      "answer": "Manipur"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The Red Fort Complex is located in ________.",
+      "options": [
+        { "option_id": 1, "text": "Agra", "is_correct": false },
+        { "option_id": 2, "text": "Delhi", "is_correct": true },
+        { "option_id": 3, "text": "Jaipur", "is_correct": false },
+        { "option_id": 4, "text": "Lahore", "is_correct": false }
+      ],
+      "answer": "Delhi"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The Jantar Mantar is located in ________.",
+      "options": [
+        { "option_id": 1, "text": "Udaipur", "is_correct": false },
+        { "option_id": 2, "text": "Jaipur", "is_correct": true },
+        { "option_id": 3, "text": "Jodhpur", "is_correct": false },
+        { "option_id": 4, "text": "Bikaner", "is_correct": false }
+      ],
+      "answer": "Jaipur"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Mudiyett is a ritual theatre of ________.",
+      "options": [
+        { "option_id": 1, "text": "Tamil Nadu", "is_correct": false },
+        { "option_id": 2, "text": "Karnataka", "is_correct": false },
+        { "option_id": 3, "text": "Kerala", "is_correct": true },
+        { "option_id": 4, "text": "Telangana", "is_correct": false }
+      ],
+      "answer": "Kerala"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Chhau dance belongs to which region?",
+      "options": [
+        { "option_id": 1, "text": "East India", "is_correct": true },
+        { "option_id": 2, "text": "South India", "is_correct": false },
+        { "option_id": 3, "text": "West India", "is_correct": false },
+        { "option_id": 4, "text": "North India", "is_correct": false }
+      ],
+      "answer": "East India"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a professional field affiliated with Applied History?",
+      "options": [
+        { "option_id": 1, "text": "Museums", "is_correct": false },
+        { "option_id": 2, "text": "Tourism", "is_correct": false },
+        { "option_id": 3, "text": "Entertainment", "is_correct": false },
+        { "option_id": 4, "text": "Mechanical Engineering", "is_correct": true }
+      ],
+      "answer": "Mechanical Engineering"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Agra Fort was declared a World Heritage Site in ________.",
+      "options": [
+        { "option_id": 1, "text": "1983", "is_correct": true },
+        { "option_id": 2, "text": "1984", "is_correct": false },
+        { "option_id": 3, "text": "1986", "is_correct": false },
+        { "option_id": 4, "text": "1987", "is_correct": false }
+      ],
+      "answer": "1983"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who is a 'curator'?",
+      "options": [
+        { "option_id": 1, "text": "A person in charge of a museum", "is_correct": true },
+        { "option_id": 2, "text": "A person who digs excavation sites", "is_correct": false },
+        { "option_id": 3, "text": "A person who writes history books", "is_correct": false },
+        { "option_id": 4, "text": "A person who restores old buildings", "is_correct": false }
+      ],
+      "answer": "A person in charge of a museum"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "The Sundarbans National Park is famous for ________.",
+      "options": [
+        { "option_id": 1, "text": "Lions", "is_correct": false },
+        { "option_id": 2, "text": "Tigers", "is_correct": true },
+        { "option_id": 3, "text": "Elephants", "is_correct": false },
+        { "option_id": 4, "text": "Rhinos", "is_correct": false }
+      ],
+      "answer": "Tigers"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Buddhist chanting of Ladakh is from which region?",
+      "options": [
+        { "option_id": 1, "text": "Trans-Himalayan Ladakh region", "is_correct": true },
+        { "option_id": 2, "text": "Sikkim", "is_correct": false },
+        { "option_id": 3, "text": "Arunachal Pradesh", "is_correct": false },
+        { "option_id": 4, "text": "Himachal Pradesh", "is_correct": false }
+      ],
+      "answer": "Trans-Himalayan Ladakh region"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "The Great Living Chola Temples are in ________.",
+      "options": [
+        { "option_id": 1, "text": "Kerala", "is_correct": false },
+        { "option_id": 2, "text": "Tamil Nadu", "is_correct": true },
+        { "option_id": 3, "text": "Karnataka", "is_correct": false },
+        { "option_id": 4, "text": "Andhra Pradesh", "is_correct": false }
+      ],
+      "answer": "Tamil Nadu"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Keoladeo National Park is located in ________.",
+      "options": [
+        { "option_id": 1, "text": "Bharatpur, Rajasthan", "is_correct": true },
+        { "option_id": 2, "text": "Jaipur, Rajasthan", "is_correct": false },
+        { "option_id": 3, "text": "Udaipur, Rajasthan", "is_correct": false },
+        { "option_id": 4, "text": "Jodhpur, Rajasthan", "is_correct": false }
+      ],
+      "answer": "Bharatpur, Rajasthan"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Nanda Devi and Valley of Flowers National Parks are in ________.",
+      "options": [
+        { "option_id": 1, "text": "Himachal Pradesh", "is_correct": false },
+        { "option_id": 2, "text": "Uttarakhand", "is_correct": true },
+        { "option_id": 3, "text": "Sikkim", "is_correct": false },
+        { "option_id": 4, "text": "Jammu and Kashmir", "is_correct": false }
+      ],
+      "answer": "Uttarakhand"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is 'Applied History'?",
+      "answer": "Applied History is a field of study concerned with the application of history for the benefit of people in contemporary and future times."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is another name for 'Applied History'?",
+      "answer": "Applied History is also known as 'Public History'."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is history often considered impractical?",
+      "answer": "People often think history is only for historians and students and has no applicability to economically productive fields."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the purpose of Public History?",
+      "answer": "Public History helps to overcome misgivings about history and makes it meaningful in everyday life by connecting people to it."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Where is the Centre for Public History located?",
+      "answer": "The Centre for Public History is located at the Srushti Institute of Art Design and Technology in Bengaluru, Karnataka."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How can the method of history be useful in research?",
+      "answer": "The method of history is useful in research of various fields like science, arts, and management by understanding their developmental stages."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How does history help in understanding philosophy?",
+      "answer": "It helps in understanding the origin of various ideologies and the intellectual traditions that gave rise to them."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is the history of science important?",
+      "answer": "It helps in understanding the chronological order of scientific discoveries and the cause-effect chain that led to them."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is meant by 'Need is the mother of invention'?",
+      "answer": "It means that scientific discoveries are often the result of human efforts to fulfill a specific need or curiosity."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How is the history of technology useful?",
+      "answer": "It helps in understanding the changes and their causes in fields like agricultural production, architecture, and engineering."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why is knowledge of history essential in Industry and Commerce?",
+      "answer": "It is essential to understand the development of market nature, human relationships, and social organizations over time."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How does history help in Management Studies?",
+      "answer": "It helps in understanding various factors in the chain of production and the psychological character of people working at different levels."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the key to understanding expressions in any art form?",
+      "answer": "The key is understanding the emotional temperament of the artist and the developmental history of the art form."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which disciplines are included in Humanities?",
+      "answer": "Humanities include disciplines like history, archaeology, sociology, anthropology, political science, and economics."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the supposed origin of all disciplines?",
+      "answer": "All disciplines are supposed to have their origin in philosophy."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What are the two types of Cultural Heritage?",
+      "answer": "The two types of Cultural Heritage are Tangible Cultural Heritage and Intangible Cultural Heritage."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Give examples of Tangible Cultural Heritage.",
+      "answer": "Examples include ancient sites, buildings, artefacts, manuscripts, sculptures, and paintings."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Give examples of Intangible Cultural Heritage.",
+      "answer": "Examples include oral traditions, traditional knowledge, social customs, performing arts styles, and traditional skills."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does Natural Heritage include?",
+      "answer": "Natural Heritage includes fauna, flora, ecology, and geomorphic characteristics crucial for sustaining biodiversity."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is it necessary to preserve our heritage?",
+      "answer": "It is necessary to preserve our heritage for the benefit of future generations as it links us to our origins."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the role of UNESCO regarding heritage?",
+      "answer": "UNESCO announces directives to promote cultural and natural heritage and declares sites as 'World Heritage'."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Name a World Natural Heritage site in Maharashtra.",
+      "answer": "The Western Ghats, including the Kaas plateau in Satara district, is a World Natural Heritage site in Maharashtra."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is Kootiyattam?",
+      "answer": "Kootiyattam is a Sanskrit Theatre tradition from Kerala declared as Intangible Cultural Heritage."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is Ramlila?",
+      "answer": "Ramlila is the traditional performance of the Ramayana in North India."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is Kalbelia?",
+      "answer": "Kalbelia refers to the folk songs and dances of Rajasthan."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "When was Yoga declared as Intangible Cultural Heritage?",
+      "answer": "Yoga was declared as Intangible Cultural Heritage in 2016."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "List two World Cultural Heritage Sites in Delhi.",
+      "answer": "Humayun's Tomb and the Red Fort Complex are two World Cultural Heritage Sites in Delhi."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Where are the Rock Shelters of Bhimbetka located?",
+      "answer": "The Rock Shelters of Bhimbetka are located in Madhya Pradesh (implied from general knowledge, text lists it as a site)."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the Champaner-Pavagadh Archaeological Park?",
+      "answer": "It is a UNESCO World Cultural Heritage site located in Gujarat."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Name the mountain railways of India included in World Heritage.",
+      "answer": "Darjeeling Himalayan Railway, Nilgiri Mountain Railway, and Kalka-Shimla Railway."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Where is the Mahabodhi Temple Complex located?",
+      "answer": "The Mahabodhi Temple Complex is located at Bodh Gaya, Bihar."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is Rani-ki-Bav?",
+      "answer": "Rani-ki-Bav is the Queen's Stepwell located at Patan, Gujarat."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What organizations manage Cultural Heritage in India?",
+      "answer": "The Archaeological Survey of India, State Departments of Archaeology, and INTACH manage Cultural Heritage."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What precaution should be taken while developing heritage sites?",
+      "answer": "Precautions should be taken to avoid hurting the sentiments of local people while preserving the site."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How can local people benefit from heritage projects?",
+      "answer": "Systematic plans can create employment opportunities and better livelihood for local people through heritage projects."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "List four professional fields affiliated with Applied History.",
+      "answer": "Museums and Archives, Preservation of historical sites, Tourism and Hospitality, and Entertainment and Mass Media."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What are clay tablets in the context of the museum at Ur?",
+      "answer": "Clay tablets were inscribed with descriptions of exhibited artefacts in the earliest museum at Ur."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who was Ennigaldi?",
+      "answer": "Ennigaldi was the princess of Mesopotamia who built the earliest museum in the city of Ur."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Who was Nathaniel Wallich?",
+      "answer": "Nathaniel Wallich was a Danish botanist who founded the Indian Museum at Kolkata."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What departments does the Indian Museum have?",
+      "answer": "It has Arts, Archaeology, Anthropology departments, along with conservation, publication, etc."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What do Archives preserve?",
+      "answer": "Archives preserve and store old documents, official records, old films, etc."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Where is the National Archives of India?",
+      "answer": "The National Archives of India is located in New Delhi."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "When was the National Film Archives of India established?",
+      "answer": "The National Film Archives of India was established in 1964."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the main objective of the National Film Archives of India?",
+      "answer": "To search, obtain, and preserve rare Indian films for future generations."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What specialized skills are required for heritage management?",
+      "answer": "Skills of architects, engineers, historians, archaeologists, museum curators, sociologists, etc., are required."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why is knowledge of history important for professionals in heritage fields?",
+      "answer": "They need knowledge of the historical background of structural remains and artefacts to manage them effectively."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the Khangchendzonga National Park?",
+      "answer": "It is a Mixed World Heritage Site located in India."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the 'Capital Complex'?",
+      "answer": "The Capital Complex at Chandigarh is a World Cultural Heritage Site declared in 2016."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Which historical city was declared a World Heritage Site in 2017?",
+      "answer": "Ahmadabad - Historical City was declared a World Heritage Site in 2017."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is 'Sankirtana'?",
+      "answer": "Sankirtana is the ritual singing, drumming, and dancing of Manipur."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the concept of Applied History.",
+      "answer": "Applied History, also known as Public History, helps in connecting people to their past. It is a field of study concerned with the application of history for the benefit of people in contemporary and future times. Knowledge of history can provide guidance in finding solutions to contemporary social issues and incorporating them into social planning. It helps to overcome misgivings about the practicality of history."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "How is the method of history useful in the research of Science?",
+      "answer": "The history of science helps in understanding the chronological order of scientific discoveries, inventions, and theories. It can also help to understand the cause-effect chain that led to those discoveries. Since scientific inventions are often effects of human efforts to fulfill a need, knowing the history helps in understanding the factors that facilitated these discoveries."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Why is it essential to study the history of technology?",
+      "answer": "The history of technology helps in understanding the changes and their causes in the fields of agricultural production, commodity production, architecture, and engineering. Scientific discoveries and technological advancements are mutually dependent. Knowledge of the history of technology is necessary to understand the development of mechanisation and the dependence between science and technology."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "How does history assist in Industry and Commerce?",
+      "answer": "Industry and commerce expand the field of mutual social transactions and promote cultural interactions. The nature of markets and commerce changes over time, affecting human relationships and social organizations. To understand these developments, it is necessary to study the history of culture, social organizations, and economic institutions."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Explain the importance of history in Management Studies.",
+      "answer": "In management studies, it is essential to understand factors in the chain of production and market management. Knowledge of similar functional systems of the past helps in understanding the psychological character of people at various levels. Understanding the history of social and economic institutions supports healthy management and makes it easier."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "How is history relevant to the Arts?",
+      "answer": "It is important to understand the development of various art forms with the help of their style of expression and their intellectual, emotional, and cultural traditions. Cultural history helps in understanding the key to expressions in any art form, the emotional temperament of the artist, and the developmental history of the respective art form."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Discuss the relationship between Humanities and History.",
+      "answer": "Humanities include disciplines like history, archaeology, sociology, anthropology, political science, and economics. All these disciplines are supposed to have their origin in philosophy. Historical knowledge is essential to understand the history of the origin and development of these disciplines, as they have theoretical foundations based on philosophical theories."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "What is the significance of Applied History in our present life?",
+      "answer": "Applied history helps in understanding our present with the help of history and finding the right direction for the future. The visible and invisible relics of the past exist in the present, representing the creative thoughts of ancestors. Preserving this heritage helps build our identity. Applied history is concerned with the preservation and conservation of this heritage for future generations."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Describe Tangible Cultural Heritage with examples.",
+      "answer": "Tangible Cultural Heritage refers to the physical artefacts produced, maintained, and transmitted intergenerationally in a society. This type of cultural heritage includes ancient sites, buildings, artefacts, manuscripts, sculptures, paintings, etc. Examples include the Taj Mahal, Agra Fort, Ajanta Caves, and the Sun Temple at Konark."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "What does Intangible Cultural Heritage comprise?",
+      "answer": "Intangible Cultural Heritage includes oral traditions and their languages, traditional knowledge, social customs, and rituals of celebrating festivals. It also encompasses styles of performing arts, certain traditional skills, and the communities or groups who represent such traditions, customs, and skills. Examples include Vedic Chanting, Yoga, and Ramlila."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "What is Natural Heritage and what does it include?",
+      "answer": "Natural Heritage gives importance to the thought of biodiversity. It includes fauna, flora, ecology, and geomorphic characteristics which are crucial for sustaining the flora and fauna of a particular region. The Western Ghats in India is a significant example of World Natural Heritage."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain the role of UNESCO in heritage conservation.",
+      "answer": "UNESCO, a global organization, has announced directives with the objective of promoting cultural and natural heritage. Based on these directives, it declares a list of sites and traditions as 'World Heritage'. This helps in the preservation, protection, and promotion of sites that are of outstanding universal value to humanity."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Discuss the objectives of the National Film Archives of India.",
+      "answer": "The National Film Archives of India aims to search and obtain rare Indian films and preserve the heritage for future generations. It also categorizes important aspects of films, creates documentation and catalogues, and carries out research in the field. Additionally, it establishes a center for the dissemination of 'film culture'."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "How can heritage management create employment opportunities?",
+      "answer": "Heritage management creates opportunities for professionals like historians, archaeologists, museum curators, sociologists, archive management professionals, and legal experts. It also requires skilled photographers, architects, and engineers. Tourism related to heritage sites generates jobs in hospitality, guiding, and local businesses."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "What are the principles of applied history in heritage project management?",
+      "answer": "The operations for conservation and development of a heritage site should not change its original state. The local social structure and psychology must be surveyed. Precautions should be taken to avoid hurting local sentiments. Local people should participate in the project, and plans should be designed to employ their skills and create livelihood opportunities."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Write a note on the Indian Museum at Kolkata.",
+      "answer": "The Indian Museum at Kolkata was founded by the Asiatic Society in 1814 C.E. Nathaniel Wallich was its founder and first curator. It has three main departments: Arts, Archaeology, and Anthropology. Other affiliated departments include conservation, publication, photography, exhibition-presentation, model-making, training, library, and security."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "What is the significance of the excavations at 'Ur'?",
+      "answer": "The excavations at the city of 'Ur' in Mesopotamia revealed the earliest museum in the world, dating back to the 6th century B.C.E. It was built by Princess Ennigaldi. The museum contained clay tablets inscribed with descriptions of exhibited artefacts, showing an early form of museum curation and record-keeping."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "How does tourism relate to Applied History?",
+      "answer": "Tourism is closely related to Applied History as heritage sites are major tourist attractions. Applied History helps in managing these sites, organizing heritage walks, and creating interesting narratives for tourists. It creates opportunities for guides and local businesses. Tourism creates interest in history among people and encourages them to participate in conservation projects."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Why is the preservation of archives important?",
+      "answer": "Archives are important because they preserve and store old documents, official records, old films, etc., which are primary sources of history. They provide authentic information about the past. Preserving them ensures that future generations have access to their history and heritage. The National Archives of India plays a key role in this."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Discuss the professional fields affiliated with Applied History.",
+      "answer": "Applied History opens up various professional fields such as Museums and Archives management, preservation and conservation of historical sites, Tourism and Hospitality, and Entertainment and Mass Media. Knowledge of history helps in legal provisions, public policies, scriptwriting for historical films, and creating authentic settings for media productions."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "What are the benefits of 'Public History' courses?",
+      "answer": "Public History courses help students understand the practical application of history. They train students in heritage management, archival science, and museum studies. This opens up career paths beyond academia. Institutes like Srushti Institute of Art Design and Technology offer such courses to prepare professionals for projects in public history."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "How does history help in understanding the present social structure?",
+      "answer": "The present social structure is a result of historical chains of events. By studying the history of social organizations, religious structures, and cultural interactions, we can understand how current societal norms and institutions evolved. This understanding helps in addressing contemporary social issues and planning for the future."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "What is the importance of oral traditions?",
+      "answer": "Oral traditions are a vital part of Intangible Cultural Heritage. They preserve the collective memory, wisdom, and values of a community. Traditions like Vedic Chanting or Kalbelia songs are passed down through generations orally. Preserving them is crucial to maintain cultural identity and diversity."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "How does the Western Ghats qualify as World Natural Heritage?",
+      "answer": "The Western Ghats is a biodiversity hotspot with unique flora, fauna, and ecology. It has specific geomorphic characteristics crucial for sustaining this biodiversity. Recognizing its ecological importance, UNESCO declared it a World Natural Heritage site to ensure its conservation and protection from environmental degradation."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Heritage Walks'.",
+      "answer": "Heritage walks are organized tours of historical sites within a city or region. They help people appreciate their local history and heritage. Applied History plays a role in researching and curating these walks to provide accurate and interesting information. Such activities promote tourism and create awareness about conservation."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "What is the role of 'INTACH'?",
+      "answer": "INTACH (Indian National Trust for Art and Cultural Heritage) is an organization actively working in the field of heritage conservation. It collaborates with the government and experts to preserve India's cultural legacy. It conducts projects, creates awareness, and helps in the restoration of historical buildings and sites."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Why is it important to know the history of science for scientists?",
+      "answer": "Knowing the history of science helps scientists understand the logic behind discoveries. It helps them trace the evolution of scientific thought and methods. Understanding past failures and successes can guide future research. It also provides context to the mutual dependence between scientific progress and technological advancements."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "How can history contribute to the field of Mass Media?",
+      "answer": "Mass media often requires historical content for documentaries, films, and news features. Historians can provide accurate information, check facts, and help recreate historical settings. Knowledge of history helps in analyzing current events by providing historical context. It is essential for creating authentic and educational media content."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "What are the challenges in heritage management?",
+      "answer": "Challenges include balancing conservation with development, managing tourist footfall, and protecting sites from vandalism. Ensuring that local communities are not adversely affected is also a challenge. Lack of funds and skilled personnel can hinder preservation efforts. Raising public awareness about the value of heritage is an ongoing task."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Discuss the diversity of India's World Heritage Sites.",
+      "answer": "India's World Heritage Sites showcase immense diversity. They range from ancient caves like Ajanta and Ellora to architectural marvels like the Taj Mahal and Chola Temples. Natural sites like Kaziranga and Western Ghats highlight biodiversity. The mountain railways show industrial heritage. This diversity reflects India's rich cultural and natural history."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "What is the significance of the Kutub Minar and its Monuments?",
+      "answer": "The Kutub Minar complex in Delhi is a UNESCO World Heritage Site. It represents the architectural brilliance of the early Islamic period in India. The complex includes the Alai Darwaza, the Iron Pillar, and the Qutb Minar itself, which is the tallest brick minaret in the world. It is a symbol of Delhi's historical layers."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Why are the Rock Shelters of Bhimbetka important?",
+      "answer": "The Rock Shelters of Bhimbetka are important because they provide evidence of early human life in India. They contain prehistoric cave paintings that depict the lifestyle, hunting, and dancing of early humans. Being a World Heritage Site, they offer unique insights into the evolution of human culture from the Mesolithic period."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "What is the historical significance of the Mountain Railways of India?",
+      "answer": "The Mountain Railways of India (Darjeeling, Nilgiri, Kalka-Shimla) are outstanding examples of bold engineering solutions to the problem of establishing an effective rail link through rugged mountainous terrain. They are UNESCO World Heritage Sites that reflect the industrial and technological heritage of the British colonial era in India."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "How does 'Yoga' fit into cultural heritage?",
+      "answer": "Yoga is considered an Intangible Cultural Heritage of Humanity. It is an ancient Indian practice that combines physical, mental, and spiritual disciplines. It represents traditional knowledge and skills related to well-being. Its recognition by UNESCO highlights its global relevance and the need to preserve its traditional forms."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "What is the role of the Archaeological Survey of India (ASI)?",
+      "answer": "The ASI is the premier organization for archaeological research and the protection of the cultural heritage of the nation. It regulates all archaeological activities in the country as per the provisions of the Ancient Monuments and Archaeological Sites and Remains Act. It manages museums and conservation projects across India."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Describe the Champaner-Pavagadh Archaeological Park.",
+      "answer": "Located in Gujarat, this site is a UNESCO World Heritage Site. It includes prehistoric sites, a hill fortress of an early Hindu capital, and remains of the 16th-century capital of the state of Gujarat. It also contains fortifications, palaces, religious buildings, and residential precincts. It is a unique example of a transition between Hindu and Islamic culture."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "What is the significance of the Jantar Mantar, Jaipur?",
+      "answer": "The Jantar Mantar in Jaipur is an astronomical observation site built in the early 18th century. It includes a set of some 20 main fixed instruments. It is the most significant, most comprehensive, and the best preserved of India's historic observatories. It is an expression of the astronomical skills and cosmological concepts of the court of a scholarly prince."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "How can philosophy help in understanding other disciplines?",
+      "answer": "Since philosophy is considered the mother of all sciences and disciplines, understanding its history helps in grasping the conceptual foundations of other subjects. It deals with fundamental questions about existence, knowledge, and values. Understanding the philosophical roots of a discipline clarifies its theoretical framework and historical development."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "What is the connection between 'Technology' and 'History'?",
+      "answer": "Technology has a history that traces the evolution of tools, machines, and production methods. Studying this history helps us understand how technological advancements have shaped human society, economy, and culture. It reveals the mutual dependence between scientific discovery and technological application, such as how the steam engine revolutionized industry."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Why is the preservation of 'Oral Traditions' challenging?",
+      "answer": "Preserving oral traditions is challenging because they rely on memory and verbal transmission from one generation to the next. In the modern world, changing lifestyles and the decline of traditional communities threaten these practices. Documenting and recording them requires sensitivity and community engagement to ensure they are not lost or distorted."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "What are the features of the Great Living Chola Temples?",
+      "answer": "These temples (Brihadisvara at Thanjavur, Gangaikonda Cholapuram, and Airavatesvara at Darasuram) testify to the brilliant achievements of the Chola Empire in architecture, sculpture, painting, and bronze casting. They are still active places of worship, preserving centuries-old rituals and traditions, which is why they are called 'Living' temples."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Discuss the importance of 'Ecological Heritage'.",
+      "answer": "Ecological heritage refers to the natural systems and biodiversity that have evolved over millennia. Preserving it is crucial for maintaining the balance of nature. Sites like the Western Ghats and National Parks protect endangered species and unique ecosystems. Understanding the history of these landscapes helps in formulating effective conservation strategies."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "How does history help in 'Entertainment'?",
+      "answer": "History provides a rich source of stories, characters, and settings for entertainment media like movies, TV series, and video games. Historical dramas and documentaries are popular genres. Applied history ensures that these portrayals are authentic in terms of costumes, language, and social norms, enhancing the viewer's experience and knowledge."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "What is the role of 'Volunteers' in heritage projects?",
+      "answer": "Volunteers can play a significant role in heritage projects by offering their time and skills. They can help in cleaning, documentation, guiding tourists, and raising awareness. Their participation fosters a sense of community ownership and responsibility towards local heritage. It also reduces the burden on official agencies."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Archaeological Site of Nalanda Mahavihara.",
+      "answer": "Nalanda Mahavihara in Bihar was a renowned ancient center of learning (university) and a Buddhist monastery. It attracts scholars from all over the world. Its archaeological remains testify to the high standards of education and architecture in ancient India. As a World Heritage Site, it represents the intellectual heritage of the country."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "What is the 'Victorian Gothic and Art Deco Ensembles of Mumbai'?",
+      "answer": "This is a UNESCO World Heritage Site that includes a collection of 19th-century Victorian Neo-Gothic public buildings and 20th-century Art Deco buildings in Mumbai. It represents the modernization of the city and the blending of Indian and European architectural styles. It highlights Mumbai's urban heritage."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Why are 'Museums' considered affiliated to Applied History?",
+      "answer": "Museums are institutions that collect, preserve, and display historical artefacts. They are direct applications of history for public education and enjoyment. Curating a museum requires deep historical knowledge. They make history accessible and tangible to the common people, fulfilling the core objective of Applied History."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "What is the significance of the 'Buddhist Chanting of Ladakh'?",
+      "answer": "This tradition involves the recitation of sacred Buddhist texts in the Trans-Himalayan Ladakh region. It is a form of meditation and spiritual practice. UNESCO recognizes it as Intangible Cultural Heritage because it represents the unique cultural and religious identity of the region and promotes peace and mental well-being."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "How does 'Ramlila' contribute to cultural heritage?",
+      "answer": "Ramlila is a dramatic re-enactment of the life of Rama according to the ancient Hindu epic Ramayana. It is performed across North India during the Dussehra festival. It brings communities together and transmits moral values and cultural stories to younger generations. Its inclusion in UNESCO's list highlights its importance as a living tradition."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize the objectives of 'Applied History'.",
+      "answer": "The main objectives of Applied History are to connect people with their past, make historical knowledge relevant to present times, and find solutions for the future. It aims to create employment opportunities in heritage sectors. It also focuses on the preservation and conservation of cultural and natural heritage for the benefit of future generations."
+    }
+  ]
+}

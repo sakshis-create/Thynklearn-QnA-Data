@@ -1,0 +1,83 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.11",
+    "standard": "2",
+    "subject": "English",
+    "English": "English",
+    "chapter_name": "Activity Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of these is a vegetable?",
+      "options": [
+        { "option_id": 1, "text": "Apple", "is_correct": false },
+        { "option_id": 2, "text": "Potato", "is_correct": true },
+        { "option_id": 3, "text": "Rose", "is_correct": false },
+        { "option_id": 4, "text": "Rabbit", "is_correct": false }
+      ],
+      "answer": "Potato"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of these is a flower?",
+      "options": [
+        { "option_id": 1, "text": "Lotus", "is_correct": true },
+        { "option_id": 2, "text": "Mango", "is_correct": false },
+        { "option_id": 3, "text": "Onion", "is_correct": false },
+        { "option_id": 4, "text": "Tiger", "is_correct": false }
+      ],
+      "answer": "Lotus"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "I have two hands but I can't clap. Who am I?",
+      "options": [
+        { "option_id": 1, "text": "A clock", "is_correct": true },
+        { "option_id": 2, "text": "A boy", "is_correct": false },
+        { "option_id": 3, "text": "A monkey", "is_correct": false },
+        { "option_id": 4, "text": "A kite", "is_correct": false }
+      ],
+      "answer": "A clock"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "I fly without wings and have a long tail. Who am I?",
+      "options": [
+        { "option_id": 1, "text": "Bird", "is_correct": false },
+        { "option_id": 2, "text": "Kite", "is_correct": true },
+        { "option_id": 3, "text": "Airplane", "is_correct": false },
+        { "option_id": 4, "text": "Butterfly", "is_correct": false }
+      ],
+      "answer": "Kite"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "I have a bushy tail and like to eat nuts. Who am I?",
+      "options": [
+        { "option_id": 1, "text": "Rabbit", "is_correct": false },
+        { "option_id": 2, "text": "Squirrel", "is_correct": true },
+        { "option_id": 3, "text": "Rat", "is_correct": false },
+        { "option_id": 4, "text": "Cat", "is_correct": false }
+      ],
+      "answer": "Squirrel"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which animal has a long trunk?",
+      "options": [
+        { "option_id": 1, "text": "Tiger", "is_correct": false },
+        { "option_id": 2, "text": "Elephant", "is_correct": true },
+        { "option_id": 3, "text": "Snake", "is_correct": false },
+        { "option_id": 4, "text": "Rabbit", "is_correct": false }
+      ],
+      "answer": "Elephant"
+    }
+  ]
+}

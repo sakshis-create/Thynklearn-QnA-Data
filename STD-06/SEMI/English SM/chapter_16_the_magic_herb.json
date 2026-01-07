@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.16",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Magic Herb"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What time of day was it when the merchant arrived at the inn?",
+      "options": [
+        { "option_id": 1, "text": "Early morning", "is_correct": false },
+        { "option_id": 2, "text": "Noon", "is_correct": false },
+        { "option_id": 3, "text": "Getting dark outside", "is_correct": true },
+        { "option_id": 4, "text": "Midnight", "is_correct": false }
+      ],
+      "answer": "Getting dark outside"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why was the innkeeper initially displeased with the customer?",
+      "options": [
+        { "option_id": 1, "text": "The man was loud", "is_correct": false },
+        { "option_id": 2, "text": "The man was poor", "is_correct": true },
+        { "option_id": 3, "text": "The man was a soldier", "is_correct": false },
+        { "option_id": 4, "text": "The inn was full", "is_correct": false }
+      ],
+      "answer": "The man was poor"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What did the merchant carry on his back?",
+      "options": [
+        { "option_id": 1, "text": "A heavy iron chest", "is_correct": false },
+        { "option_id": 2, "text": "A simple cloth bag", "is_correct": true },
+        { "option_id": 3, "text": "A wooden box", "is_correct": false },
+        { "option_id": 4, "text": "Nothing", "is_correct": false }
+      ],
+      "answer": "A simple cloth bag"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which word describes both the innkeeper and his wife?",
+      "options": [
+        { "option_id": 1, "text": "Generous", "is_correct": false },
+        { "option_id": 2, "text": "Greedy", "is_correct": true },
+        { "option_id": 3, "text": "Lazy", "is_correct": false },
+        { "option_id": 4, "text": "Honest", "is_correct": false }
+      ],
+      "answer": "Greedy"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the effect of the 'magic herb'?",
+      "options": [
+        { "option_id": 1, "text": "It makes people sleep", "is_correct": false },
+        { "option_id": 2, "text": "It makes people happy", "is_correct": false },
+        { "option_id": 3, "text": "It makes people forget something", "is_correct": true },
+        { "option_id": 4, "text": "It makes people invisible", "is_correct": false }
+      ],
+      "answer": "It makes people forget something"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What did the innkeeper hope the merchant would forget?",
+      "options": [
+        { "option_id": 1, "text": "His name", "is_correct": false },
+        { "option_id": 2, "text": "His shoes", "is_correct": false },
+        { "option_id": 3, "text": "His merchandise", "is_correct": true },
+        { "option_id": 4, "text": "The way home", "is_correct": false }
+      ],
+      "answer": "His merchandise"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where did the couple add the magic herb?",
+      "options": [
+        { "option_id": 1, "text": "In the merchant's tea", "is_correct": false },
+        { "option_id": 2, "text": "In a tasty meal", "is_correct": true },
+        { "option_id": 3, "text": "Under the merchant's pillow", "is_correct": false },
+        { "option_id": 4, "text": "In the merchant's bag", "is_correct": false }
+      ],
+      "answer": "In a tasty meal"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What did the innkeeper find when he checked the merchant's room the next morning?",
+      "options": [
+        { "option_id": 1, "text": "The merchant sleeping", "is_correct": false },
+        { "option_id": 2, "text": "The bag of merchandise", "is_correct": false },
+        { "option_id": 3, "text": "The room was empty", "is_correct": true },
+        { "option_id": 4, "text": "A pile of gold", "is_correct": false }
+      ],
+      "answer": "The room was empty"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did the merchant actually forget?",
+      "options": [
+        { "option_id": 1, "text": "His umbrella", "is_correct": false },
+        { "option_id": 2, "text": "To pay the bill", "is_correct": true },
+        { "option_id": 3, "text": "His shoes", "is_correct": false },
+        { "option_id": 4, "text": "Nothing", "is_correct": false }
+      ],
+      "answer": "To pay the bill"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "This story is a folk-tale from which country?",
+      "options": [
+        { "option_id": 1, "text": "India", "is_correct": false },
+        { "option_id": 2, "text": "China", "is_correct": false },
+        { "option_id": 3, "text": "Japan", "is_correct": true },
+        { "option_id": 4, "text": "Korea", "is_correct": false }
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does 'beggarly' mean in the context of the story?",
+      "options": [
+        { "option_id": 1, "text": "Very rich", "is_correct": false },
+        { "option_id": 2, "text": "Like a beggar; very poor", "is_correct": true },
+        { "option_id": 3, "text": "Friendly", "is_correct": false },
+        { "option_id": 4, "text": "A type of food", "is_correct": false }
+      ],
+      "answer": "Like a beggar; very poor"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why didn't the innkeeper drive the merchant away immediately?",
+      "options": [
+        { "option_id": 1, "text": "He felt pity", "is_correct": false },
+        { "option_id": 2, "text": "It was bad for his reputation", "is_correct": true },
+        { "option_id": 3, "text": "The merchant was his friend", "is_correct": false },
+        { "option_id": 4, "text": "The police were watching", "is_correct": false }
+      ],
+      "answer": "It was bad for his reputation"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which letter is silent in the word 'knock'?",
+      "options": [
+        { "option_id": 1, "text": "n", "is_correct": false },
+        { "option_id": 2, "text": "o", "is_correct": false },
+        { "option_id": 3, "text": "k", "is_correct": true },
+        { "option_id": 4, "text": "c", "is_correct": false }
+      ],
+      "answer": "k"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'merchandise'?",
+      "options": [
+        { "option_id": 1, "text": "A traveler", "is_correct": false },
+        { "option_id": 2, "text": "A magical plant", "is_correct": false },
+        { "option_id": 3, "text": "Goods for sale", "is_correct": true },
+        { "option_id": 4, "text": "A type of coin", "is_correct": false }
+      ],
+      "answer": "Goods for sale"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The innkeeper's wife suggested they should ______ the merchant.",
+      "options": [
+        { "option_id": 1, "text": "Feed", "is_correct": false },
+        { "option_id": 2, "text": "Drive out", "is_correct": true },
+        { "option_id": 3, "text": "Rob", "is_correct": false },
+        { "option_id": 4, "text": "Help", "is_correct": false }
+      ],
+      "answer": "Drive out"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "How did the merchant react to the meal?",
+      "options": [
+        { "option_id": 1, "text": "He complained", "is_correct": false },
+        { "option_id": 2, "text": "He thanked the innkeeper", "is_correct": true },
+        { "option_id": 3, "text": "He refused to eat", "is_correct": false },
+        { "option_id": 4, "text": "He threw it away", "is_correct": false }
+      ],
+      "answer": "He thanked the innkeeper"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What happened to the magic herb at the end of the story?",
+      "options": [
+        { "option_id": 1, "text": "The innkeeper sold it", "is_correct": false },
+        { "option_id": 2, "text": "The innkeeper never used it again", "is_correct": true },
+        { "option_id": 3, "text": "The merchant stole it", "is_correct": false },
+        { "option_id": 4, "text": "It was lost", "is_correct": false }
+      ],
+      "answer": "The innkeeper never used it again"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "In the word 'write', which letter is silent?",
+      "options": [
+        { "option_id": 1, "text": "r", "is_correct": false },
+        { "option_id": 2, "text": "i", "is_correct": false },
+        { "option_id": 3, "text": "w", "is_correct": true },
+        { "option_id": 4, "text": "e", "is_correct": false }
+      ],
+      "answer": "w"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "According to the 'Language' section, what shows the time of an action?",
+      "options": [
+        { "option_id": 1, "text": "Nouns", "is_correct": false },
+        { "option_id": 2, "text": "Adjectives", "is_correct": false },
+        { "option_id": 3, "text": "Tenses", "is_correct": true },
+        { "option_id": 4, "text": "Pronouns", "is_correct": false }
+      ],
+      "answer": "Tenses"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which word indicates future action in a sentence?",
+      "options": [
+        { "option_id": 1, "text": "Was", "is_correct": false },
+        { "option_id": 2, "text": "Did", "is_correct": false },
+        { "option_id": 3, "text": "Will", "is_correct": true },
+        { "option_id": 4, "text": "Is", "is_correct": false }
+      ],
+      "answer": "Will"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does the word 'suspect' mean?",
+      "options": [
+        { "option_id": 1, "text": "To trust completely", "is_correct": false },
+        { "option_id": 2, "text": "To doubt or think something is wrong", "is_correct": true },
+        { "option_id": 3, "text": "To sleep soundly", "is_correct": false },
+        { "option_id": 4, "text": "To eat quickly", "is_correct": false }
+      ],
+      "answer": "To doubt or think something is wrong"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of these words has a silent 'l'?",
+      "options": [
+        { "option_id": 1, "text": "Listen", "is_correct": false },
+        { "option_id": 2, "text": "Walk", "is_correct": true },
+        { "option_id": 3, "text": "School", "is_correct": false },
+        { "option_id": 4, "text": "Right", "is_correct": false }
+      ],
+      "answer": "Walk"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who is the character Nu-jo in the grammar section?",
+      "options": [
+        { "option_id": 1, "text": "A Japanese merchant", "is_correct": false },
+        { "option_id": 2, "text": "An alien from a faraway planet", "is_correct": true },
+        { "option_id": 3, "text": "A wild boar", "is_correct": false },
+        { "option_id": 4, "text": "A clever fox", "is_correct": false }
+      ],
+      "answer": "An alien from a faraway planet"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the past tense of the verb 'teach'?",
+      "options": [
+        { "option_id": 1, "text": "Teached", "is_correct": false },
+        { "option_id": 2, "text": "Taught", "is_correct": true },
+        { "option_id": 3, "text": "Teaching", "is_correct": false },
+        { "option_id": 4, "text": "Teach", "is_correct": false }
+      ],
+      "answer": "Taught"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The wife slapped her ______ when she realized what happened.",
+      "options": [
+        { "option_id": 1, "text": "Knee", "is_correct": false },
+        { "option_id": 2, "text": "Forehead", "is_correct": true },
+        { "option_id": 3, "text": "Hand", "is_correct": false },
+        { "option_id": 4, "text": "Husband", "is_correct": false }
+      ],
+      "answer": "Forehead"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who was knocking on the door of the inn?",
+      "answer": "A poor, tired merchant was knocking on the door."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why was the merchant visiting the inn?",
+      "answer": "He was tired after a long day at the market and could not walk back to his village."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "How did the merchant dress?",
+      "answer": "He wore simple garments and worn-out shoes."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What was the innkeeper's first reaction to the merchant?",
+      "answer": "He was not pleased because the merchant was poor."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What did the innkeeper's wife want to do with the merchant?",
+      "answer": "She wanted to drive him out because he could only pay a couple of coins."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Why didn't the innkeeper drive the merchant out?",
+      "answer": "He was concerned it would be bad for his reputation."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What 'clever idea' did the innkeeper have?",
+      "answer": "He decided to use a magic herb to make the merchant forget his merchandise."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "How did the innkeeper get the merchant to eat the herb?",
+      "answer": "He cooked a tasty meal and added the magic herb to it."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What did the wife think they would gain from the plan?",
+      "answer": "She thought the merchant would leave all his merchandise behind, making it theirs."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Did the merchant suspect anything while eating?",
+      "answer": "No, he did not suspect anything and thanked the innkeeper for the meal."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What time did the innkeeper and his wife go to the merchant's room?",
+      "answer": "They went as soon as they woke up the next morning."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What did they find in the room the next morning?",
+      "answer": "The room was completely empty; both the merchant and his bag were gone."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What was the innkeeper's reaction when he saw the empty room?",
+      "answer": "He was shocked and searched every nook and corner for something left behind."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What realization did the wife have at the end?",
+      "answer": "She realized the merchant had forgotten to pay them."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What was the final outcome for the greedy couple?",
+      "answer": "They lost the payment for the room and meal, and the innkeeper never used the herb again."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Define the word 'inn'.",
+      "answer": "An inn is a small hotel."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Define the word 'reputation'.",
+      "answer": "It is people's opinion of what someone or something is like."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the silent letter in 'wrist'?",
+      "answer": "The silent letter is 'w'."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Identify the silent letter in 'palm'.",
+      "answer": "The silent letter is 'l'."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Identify the silent letter in 'rhyme'.",
+      "answer": "The silent letter is 'h'."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Identify the silent letter in 'listen'.",
+      "answer": "The silent letter is 't'."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Identify the silent letter in 'school'.",
+      "answer": "The silent letter is 'h'."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What are tenses?",
+      "answer": "Tenses are the different forms of verbs that show the time of the action."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Give an example of a past tense verb from the story.",
+      "answer": "Examples include 'knocked', 'opened', 'cooked', or 'searched'."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "How do we form future tense in English according to the text?",
+      "answer": "We form it by adding 'will' before the verb."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the present tense of 'taught'?",
+      "answer": "The present tense of 'taught' is 'teach'."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'is'?",
+      "answer": "The past tense of 'is' is 'was'."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'have'?",
+      "answer": "The past tense of 'have' is 'had'."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'live'?",
+      "answer": "The past tense of 'live' is 'lived'."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who sharpened their tusks yesterday in the timeline exercise?",
+      "answer": "The wild boar sharpened his tusks."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Where does Nu-jo live?",
+      "answer": "Nu-jo lives on a faraway planet."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What project is Nu-jo doing?",
+      "answer": "Nu-jo is doing a project that involves visiting Planet Earth."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who played a trick on the character in part (c) of the timeline?",
+      "answer": "The Fox played a trick on him."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the silent letter in 'walk' and 'talk'?",
+      "answer": "The silent letter is 'l'."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the silent letter in 'watch' and 'catch'?",
+      "answer": "The silent letter is 't'."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the silent letter in 'badge' and 'dodge'?",
+      "answer": "The silent letter is 'd'."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How many 'd's are pronounced in 'Paddy'?",
+      "answer": "Only one 'd' is pronounced; the other is silent."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Is any letter silent in the name 'Bittu'?",
+      "answer": "No, the other 't' in 'Bittu' is not silent."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why is the story called 'The Magic Herb'?",
+      "answer": "It is named after the herb the innkeeper used to try and make the merchant forget his goods."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What kind of person is the merchant?",
+      "answer": "He is poor, hard-working, and polite."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Describe the innkeeper's personality.",
+      "answer": "He is greedy, unkind, and tries to be clever but fails."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How did the couple feel when the room was empty?",
+      "answer": "They felt disappointed and confused because they expected to find merchandise."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the 'QR code' mentioned on page 3?",
+      "answer": "The QR code ID is X3XV88."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does the word 'afford' mean?",
+      "answer": "It means to have enough money for something."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Which sentence in the past tense shows the innkeeper's plan failed?",
+      "answer": "The sentence 'He has forgotten to pay us!' shows the plan backfired."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Write a sentence in the future tense from the text.",
+      "answer": "'We will never use the magic herb again.'"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What did the merchant request for dinner?",
+      "answer": "He requested a simple dinner."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "In 'scissors', which letter is silent?",
+      "answer": "The letter 'c' is silent."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "In 'hour', which letter is silent?",
+      "answer": "The letter 'h' is silent."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What lesson does the story teach?",
+      "answer": "It teaches that greed leads to loss and one shouldn't try to cheat others."
+    }
+  ]
+}

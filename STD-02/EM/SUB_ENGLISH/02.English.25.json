@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.25",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Let's Speak"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does Amey say to his teacher?",
+      "options": [
+        { "option_id": 1, "text": "Good night", "is_correct": false },
+        { "option_id": 2, "text": "Good morning", "is_correct": true },
+        { "option_id": 3, "text": "Hello", "is_correct": false },
+        { "option_id": 4, "text": "Bye", "is_correct": false }
+      ],
+      "answer": "Good morning"
+    }
+  ]
+}

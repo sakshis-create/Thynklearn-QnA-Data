@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.28",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "माझे पान"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आपण कशाने वास घेतो?",
+      "options": [
+        { "option_id": 1, "text": "कानाने", "is_correct": false },
+        { "option_id": 2, "text": "नाकाने", "is_correct": true },
+        { "option_id": 3, "text": "डोळ्याने", "is_correct": false },
+        { "option_id": 4, "text": "हाताने", "is_correct": false }
+      ],
+      "answer": "नाकाने"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "चालण्यासाठी शरीराचा कोणता भाग वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "हात", "is_correct": false },
+        { "option_id": 2, "text": "पाय", "is_correct": true },
+        { "option_id": 3, "text": "कान", "is_correct": false },
+        { "option_id": 4, "text": "नाक", "is_correct": false }
+      ],
+      "answer": "पाय"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वस्तू उचलण्यासाठी कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "पाय", "is_correct": false },
+        { "option_id": 2, "text": "हात", "is_correct": true },
+        { "option_id": 3, "text": "डोळे", "is_correct": false },
+        { "option_id": 4, "text": "कान", "is_correct": false }
+      ],
+      "answer": "हात"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आपण कशाने पाहतो?",
+      "options": [
+        { "option_id": 1, "text": "नाकाने", "is_correct": false },
+        { "option_id": 2, "text": "डोळ्यांनी", "is_correct": true },
+        { "option_id": 3, "text": "कानाने", "is_correct": false },
+        { "option_id": 4, "text": "तोंडानी", "is_correct": false }
+      ],
+      "answer": "डोळ्यांनी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी फळ कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "मेथी", "is_correct": false },
+        { "option_id": 2, "text": "पेरू", "is_correct": true },
+        { "option_id": 3, "text": "बस", "is_correct": false },
+        { "option_id": 4, "text": "कबड्डी", "is_correct": false }
+      ],
+      "answer": "पेरू"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी पालेभाजी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "सफरचंद", "is_correct": false },
+        { "option_id": 2, "text": "पालक", "is_correct": true },
+        { "option_id": 3, "text": "वाघ", "is_correct": false },
+        { "option_id": 4, "text": "चेंडू", "is_correct": false }
+      ],
+      "answer": "पालक"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कोणता खेळ खेळता येतो?",
+      "options": [
+        { "option_id": 1, "text": "पपई", "is_correct": false },
+        { "option_id": 2, "text": "कबड्डी", "is_correct": true },
+        { "option_id": 3, "text": "रिक्षा", "is_correct": false },
+        { "option_id": 4, "text": "कावळा", "is_correct": false }
+      ],
+      "answer": "कबड्डी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कोणत्या वाहनाने प्रवास करता येतो?",
+      "options": [
+        { "option_id": 1, "text": "बस", "is_correct": true },
+        { "option_id": 2, "text": "भोवरा", "is_correct": false },
+        { "option_id": 3, "text": "शेपू", "is_correct": false },
+        { "option_id": 4, "text": "बगळा", "is_correct": false }
+      ],
+      "answer": "बस"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "आपण कानाने काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "पाहतो", "is_correct": false },
+        { "option_id": 2, "text": "ऐकतो", "is_correct": true },
+        { "option_id": 3, "text": "चालतो", "is_correct": false },
+        { "option_id": 4, "text": "खातो", "is_correct": false }
+      ],
+      "answer": "ऐकतो"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी प्राणी कोणता?",
+      "options": [
+        { "option_id": 1, "text": "पोपट", "is_correct": false },
+        { "option_id": 2, "text": "हत्ती", "is_correct": true },
+        { "option_id": 3, "text": "अननस", "is_correct": false },
+        { "option_id": 4, "text": "लगोरी", "is_correct": false }
+      ],
+      "answer": "हत्ती"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भोवरा काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "खातात", "is_correct": false },
+        { "option_id": 2, "text": "फिरवतात", "is_correct": true },
+        { "option_id": 3, "text": "वाचतात", "is_correct": false },
+        { "option_id": 4, "text": "पितात", "is_correct": false }
+      ],
+      "answer": "फिरवतात"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "चेंडू काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "उडवतात", "is_correct": false },
+        { "option_id": 2, "text": "फेकतात", "is_correct": true },
+        { "option_id": 3, "text": "फिरवतात", "is_correct": false },
+        { "option_id": 4, "text": "ओढतात", "is_correct": false }
+      ],
+      "answer": "फेकतात"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पतंग काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "खातात", "is_correct": false },
+        { "option_id": 2, "text": "उडवतात", "is_correct": true },
+        { "option_id": 3, "text": "फेकतात", "is_correct": false },
+        { "option_id": 4, "text": "वाचतात", "is_correct": false }
+      ],
+      "answer": "उडवतात"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी पक्षी ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "घोडा", "is_correct": false },
+        { "option_id": 2, "text": "चिमणी", "is_correct": true },
+        { "option_id": 3, "text": "मेथी", "is_correct": false },
+        { "option_id": 4, "text": "ट्रक", "is_correct": false }
+      ],
+      "answer": "चिमणी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हे पान कोणाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "माझे (विद्यार्थ्याचे)", "is_correct": true },
+        { "option_id": 2, "text": "शिक्षकाचे", "is_correct": false },
+        { "option_id": 3, "text": "आईचे", "is_correct": false },
+        { "option_id": 4, "text": "मित्राचे", "is_correct": false }
+      ],
+      "answer": "माझे (विद्यार्थ्याचे)"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "तुम्हाला आवडणाऱ्या एका फळाचे नाव लिहा.",
+      "answer": "मला अननस (किंवा आंबा/पेरू) आवडते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "तुम्हाला कोणता खेळ खेळता येतो?",
+      "answer": "मला खो-खो (किंवा क्रिकेट/कबड्डी) खेळता येतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "तुम्ही कोणता पक्षी पाहिला आहे?",
+      "answer": "मी चिमणी (किंवा कावळा/पोपट) पाहिली आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "तुम्हाला कोणता प्राणी आवडतो?",
+      "answer": "मला हत्ती (किंवा घोडा/कुत्रा) आवडतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कोणतीही एक पालेभाजी सांगा.",
+      "answer": "पालक, मेथी, शेपू."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "तुम्ही कशाने चालता?",
+      "answer": "मी पायाने चालतो/चालते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "तुम्ही कशाने वास घेता?",
+      "answer": "मी नाकाने वास घेतो/घेते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "तुम्ही कशाने पाहता?",
+      "answer": "मी डोळ्यांनी पाहतो/पाहते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "वस्तू उचलण्यासाठी तुम्ही कशाचा वापर करता?",
+      "answer": "वस्तू उचलण्यासाठी मी हाताचा वापर करतो/करते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "तुम्हाला कोणते वाहन आवडते?",
+      "answer": "मला सायकल (किंवा बस/कार) आवडते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तुम्ही कोणता खेळ खेळण्यासाठी चेंडू वापरता?",
+      "answer": "मी क्रिकेट खेळण्यासाठी चेंडू वापरतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "तुम्ही पतंग कधी उडवता?",
+      "answer": "मी संक्रांतीला पतंग उडवतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "भोवरा कसा खेळतात?",
+      "answer": "भोवरा दोरी लावून जमिनीवर फिरवतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "वाक्य पूर्ण करा: 'मी कानाने _____.'",
+      "answer": "'मी कानाने ऐकतो/ऐकते.'"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या पाठात 'माझे पान' म्हणजे काय?",
+      "answer": "'माझे पान' म्हणजे स्वतःबद्दलची माहिती सांगणारे पान."
+    }
+  ]
+}

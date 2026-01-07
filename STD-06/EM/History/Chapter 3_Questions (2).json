@@ -1,0 +1,1215 @@
+{
+  "Chapter 3": "The Harappan Civilization",
+  "lessons": [
+    "Harappan civilization",
+    "Housing and town planning",
+    "Seals and pots",
+    "The Great Bath",
+    "Life in the Harappan civilization",
+    "Trade",
+    "Reasons for decline"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Why did the Harappan Civilization get its name?",
+      "options": [
+        { "option_id": 1, "text": "It was the largest city", "is_correct": false },
+        { "option_id": 2, "text": "Excavations first began at Harappa", "is_correct": true },
+        { "option_id": 3, "text": "It was the capital city", "is_correct": false },
+        { "option_id": 4, "text": "It was mentioned in ancient texts", "is_correct": false }
+      ],
+      "answer": "Excavations first began at Harappa"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "On the banks of which river was Harappa located?",
+      "options": [
+        { "option_id": 1, "text": "Indus", "is_correct": false },
+        { "option_id": 2, "text": "Ravi", "is_correct": true },
+        { "option_id": 3, "text": "Sutlej", "is_correct": false },
+        { "option_id": 4, "text": "Chenab", "is_correct": false }
+      ],
+      "answer": "Ravi"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which site is located about 650 km south of Harappa in the Indus valley?",
+      "options": [
+        { "option_id": 1, "text": "Dholavira", "is_correct": false },
+        { "option_id": 2, "text": "Kalibangan", "is_correct": false },
+        { "option_id": 3, "text": "Mohen-jo-daro", "is_correct": true },
+        { "option_id": 4, "text": "Lothal", "is_correct": false }
+      ],
+      "answer": "Mohen-jo-daro"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was observed between Harappa and Mohen-jo-daro remains?",
+      "options": [
+        { "option_id": 1, "text": "Different cultures", "is_correct": false },
+        { "option_id": 2, "text": "Striking resemblance", "is_correct": true },
+        { "option_id": 3, "text": "Different building materials", "is_correct": false },
+        { "option_id": 4, "text": "Different burial practices", "is_correct": false }
+      ],
+      "answer": "Striking resemblance"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT mentioned as a Harappan site?",
+      "options": [
+        { "option_id": 1, "text": "Dholavira", "is_correct": false },
+        { "option_id": 2, "text": "Lothal", "is_correct": false },
+        { "option_id": 3, "text": "Daimabad", "is_correct": false },
+        { "option_id": 4, "text": "Pataliputra", "is_correct": true }
+      ],
+      "answer": "Pataliputra"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which feature was common across Harappan cities?",
+      "options": [
+        { "option_id": 1, "text": "Circular streets", "is_correct": false },
+        { "option_id": 2, "text": "Irregular housing", "is_correct": false },
+        { "option_id": 3, "text": "Planned town layout", "is_correct": true },
+        { "option_id": 4, "text": "Mud brick drains", "is_correct": false }
+      ],
+      "answer": "Planned town layout"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which material was mainly used to construct Harappan houses?",
+      "options": [
+        { "option_id": 1, "text": "Stone", "is_correct": false },
+        { "option_id": 2, "text": "Wood", "is_correct": false },
+        { "option_id": 3, "text": "Baked bricks", "is_correct": true },
+        { "option_id": 4, "text": "Mud", "is_correct": false }
+      ],
+      "answer": "Baked bricks"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What feature indicates concern for public health in Harappan cities?",
+      "options": [
+        { "option_id": 1, "text": "Large houses", "is_correct": false },
+        { "option_id": 2, "text": "Central courtyards", "is_correct": false },
+        { "option_id": 3, "text": "Covered drainage system", "is_correct": true },
+        { "option_id": 4, "text": "City walls", "is_correct": false }
+      ],
+      "answer": "Covered drainage system"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How were Harappan streets laid out?",
+      "options": [
+        { "option_id": 1, "text": "Circular pattern", "is_correct": false },
+        { "option_id": 2, "text": "Random pattern", "is_correct": false },
+        { "option_id": 3, "text": "Grid pattern", "is_correct": true },
+        { "option_id": 4, "text": "Radial pattern", "is_correct": false }
+      ],
+      "answer": "Grid pattern"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What divided Harappan towns into different sections?",
+      "options": [
+        { "option_id": 1, "text": "Rivers", "is_correct": false },
+        { "option_id": 2, "text": "Fortifications", "is_correct": true },
+        { "option_id": 3, "text": "Markets", "is_correct": false },
+        { "option_id": 4, "text": "Roads", "is_correct": false }
+      ],
+      "answer": "Fortifications"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Harappan seals were mainly made from which stone?",
+      "options": [
+        { "option_id": 1, "text": "Granite", "is_correct": false },
+        { "option_id": 2, "text": "Sandstone", "is_correct": false },
+        { "option_id": 3, "text": "Steatite", "is_correct": true },
+        { "option_id": 4, "text": "Limestone", "is_correct": false }
+      ],
+      "answer": "Steatite"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What was the primary use of Harappan seals?",
+      "options": [
+        { "option_id": 1, "text": "Decoration", "is_correct": false },
+        { "option_id": 2, "text": "Religious worship", "is_correct": false },
+        { "option_id": 3, "text": "Stamps", "is_correct": true },
+        { "option_id": 4, "text": "Toys", "is_correct": false }
+      ],
+      "answer": "Stamps"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which imaginary animal appears on Harappan seals?",
+      "options": [
+        { "option_id": 1, "text": "Dragon", "is_correct": false },
+        { "option_id": 2, "text": "Unicorn", "is_correct": true },
+        { "option_id": 3, "text": "Griffin", "is_correct": false },
+        { "option_id": 4, "text": "Phoenix", "is_correct": false }
+      ],
+      "answer": "Unicorn"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which colour patterns were common on Harappan pots?",
+      "options": [
+        { "option_id": 1, "text": "Black on white", "is_correct": false },
+        { "option_id": 2, "text": "White on red", "is_correct": false },
+        { "option_id": 3, "text": "Black on red", "is_correct": true },
+        { "option_id": 4, "text": "Blue on green", "is_correct": false }
+      ],
+      "answer": "Black on red"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which design was NOT mentioned on Harappan pottery?",
+      "options": [
+        { "option_id": 1, "text": "Fish scales", "is_correct": false },
+        { "option_id": 2, "text": "Pipal leaves", "is_correct": false },
+        { "option_id": 3, "text": "Interlocking circles", "is_correct": false },
+        { "option_id": 4, "text": "Lotus petals", "is_correct": true }
+      ],
+      "answer": "Lotus petals"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What was buried along with the dead in Harappan burials?",
+      "options": [
+        { "option_id": 1, "text": "Gold coins", "is_correct": false },
+        { "option_id": 2, "text": "Weapons", "is_correct": false },
+        { "option_id": 3, "text": "Earthen pots", "is_correct": true },
+        { "option_id": 4, "text": "Jewels only", "is_correct": false }
+      ],
+      "answer": "Earthen pots"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Where was the Great Bath discovered?",
+      "options": [
+        { "option_id": 1, "text": "Harappa", "is_correct": false },
+        { "option_id": 2, "text": "Kalibangan", "is_correct": false },
+        { "option_id": 3, "text": "Mohen-jo-daro", "is_correct": true },
+        { "option_id": 4, "text": "Lothal", "is_correct": false }
+      ],
+      "answer": "Mohen-jo-daro"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which feature prevented water seepage in the Great Bath?",
+      "options": [
+        { "option_id": 1, "text": "Stone slabs", "is_correct": false },
+        { "option_id": 2, "text": "Mud plaster", "is_correct": false },
+        { "option_id": 3, "text": "Baked bricks", "is_correct": true },
+        { "option_id": 4, "text": "Wooden lining", "is_correct": false }
+      ],
+      "answer": "Baked bricks"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which evidence shows Harappans practised agriculture?",
+      "options": [
+        { "option_id": 1, "text": "Granaries at Lothal", "is_correct": false },
+        { "option_id": 2, "text": "Ploughed field at Kalibangan", "is_correct": true },
+        { "option_id": 3, "text": "Dockyard at Lothal", "is_correct": false },
+        { "option_id": 4, "text": "Seals with animals", "is_correct": false }
+      ],
+      "answer": "Ploughed field at Kalibangan"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which crops were mainly grown by the Harappans?",
+      "options": [
+        { "option_id": 1, "text": "Rice and maize", "is_correct": false },
+        { "option_id": 2, "text": "Wheat and barley", "is_correct": true },
+        { "option_id": 3, "text": "Millets only", "is_correct": false },
+        { "option_id": 4, "text": "Sugarcane", "is_correct": false }
+      ],
+      "answer": "Wheat and barley"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which crop was grown extensively in Gujarat?",
+      "options": [
+        { "option_id": 1, "text": "Barley", "is_correct": false },
+        { "option_id": 2, "text": "Ragi", "is_correct": true },
+        { "option_id": 3, "text": "Wheat", "is_correct": false },
+        { "option_id": 4, "text": "Rice", "is_correct": false }
+      ],
+      "answer": "Ragi"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which fibre were Harappans familiar with?",
+      "options": [
+        { "option_id": 1, "text": "Wool", "is_correct": false },
+        { "option_id": 2, "text": "Silk", "is_correct": false },
+        { "option_id": 3, "text": "Cotton", "is_correct": true },
+        { "option_id": 4, "text": "Jute", "is_correct": false }
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which clothing style was common among Harappans?",
+      "options": [
+        { "option_id": 1, "text": "Long robes", "is_correct": false },
+        { "option_id": 2, "text": "Knee-length cloth with upper garment", "is_correct": true },
+        { "option_id": 3, "text": "Only waist cloth", "is_correct": false },
+        { "option_id": 4, "text": "Full body covering", "is_correct": false }
+      ],
+      "answer": "Knee-length cloth with upper garment"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which materials were used to make Harappan ornaments?",
+      "options": [
+        { "option_id": 1, "text": "Only gold", "is_correct": false },
+        { "option_id": 2, "text": "Gold, copper, stones and shells", "is_correct": true },
+        { "option_id": 3, "text": "Iron only", "is_correct": false },
+        { "option_id": 4, "text": "Wood and clay", "is_correct": false }
+      ],
+      "answer": "Gold, copper, stones and shells"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which ornament was worn by women up to the upper arm?",
+      "options": [
+        { "option_id": 1, "text": "Necklaces", "is_correct": false },
+        { "option_id": 2, "text": "Armlets", "is_correct": false },
+        { "option_id": 3, "text": "Bangles", "is_correct": true },
+        { "option_id": 4, "text": "Waistbands", "is_correct": false }
+      ],
+      "answer": "Bangles"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which feature highlights Harappan artistic skill?",
+      "options": [
+        { "option_id": 1, "text": "Simple tools", "is_correct": false },
+        { "option_id": 2, "text": "Detailed statues", "is_correct": true },
+        { "option_id": 3, "text": "Plain houses", "is_correct": false },
+        { "option_id": 4, "text": "Large granaries", "is_correct": false }
+      ],
+      "answer": "Detailed statues"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which pattern is seen on the statue’s cloak?",
+      "options": [
+        { "option_id": 1, "text": "Floral", "is_correct": false },
+        { "option_id": 2, "text": "Geometric", "is_correct": false },
+        { "option_id": 3, "text": "Trefoil", "is_correct": true },
+        { "option_id": 4, "text": "Striped", "is_correct": false }
+      ],
+      "answer": "Trefoil"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which region was famous for Harappan cotton?",
+      "options": [
+        { "option_id": 1, "text": "Indus Valley", "is_correct": true },
+        { "option_id": 2, "text": "Gangetic Plains", "is_correct": false },
+        { "option_id": 3, "text": "Deccan Plateau", "is_correct": false },
+        { "option_id": 4, "text": "Thar Desert", "is_correct": false }
+      ],
+      "answer": "Indus Valley"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "To which region did Harappans export muslin cloth?",
+      "options": [
+        { "option_id": 1, "text": "China", "is_correct": false },
+        { "option_id": 2, "text": "Egypt", "is_correct": true },
+        { "option_id": 3, "text": "Rome", "is_correct": false },
+        { "option_id": 4, "text": "Persia", "is_correct": false }
+      ],
+      "answer": "Egypt"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which items were imported by the Harappans?",
+      "options": [
+        { "option_id": 1, "text": "Cotton and cloth", "is_correct": false },
+        { "option_id": 2, "text": "Silver and gemstones", "is_correct": true },
+        { "option_id": 3, "text": "Grains", "is_correct": false },
+        { "option_id": 4, "text": "Pottery", "is_correct": false }
+      ],
+      "answer": "Silver and gemstones"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which site had a dockyard indicating maritime trade?",
+      "options": [
+        { "option_id": 1, "text": "Harappa", "is_correct": false },
+        { "option_id": 2, "text": "Kalibangan", "is_correct": false },
+        { "option_id": 3, "text": "Lothal", "is_correct": true },
+        { "option_id": 4, "text": "Dholavira", "is_correct": false }
+      ],
+      "answer": "Lothal"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which evidence suggests sea trade by Harappans?",
+      "options": [
+        { "option_id": 1, "text": "Granaries", "is_correct": false },
+        { "option_id": 2, "text": "Seals with ship images", "is_correct": true },
+        { "option_id": 3, "text": "Stone statues", "is_correct": false },
+        { "option_id": 4, "text": "Wells", "is_correct": false }
+      ],
+      "answer": "Seals with ship images"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Along which sea was Harappan coastal trade carried out?",
+      "options": [
+        { "option_id": 1, "text": "Bay of Bengal", "is_correct": false },
+        { "option_id": 2, "text": "Arabian Sea", "is_correct": true },
+        { "option_id": 3, "text": "Red Sea", "is_correct": false },
+        { "option_id": 4, "text": "Mediterranean Sea", "is_correct": false }
+      ],
+      "answer": "Arabian Sea"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which factor was NOT a reason for Harappan decline?",
+      "options": [
+        { "option_id": 1, "text": "Frequent floods", "is_correct": false },
+        { "option_id": 2, "text": "Invasions", "is_correct": false },
+        { "option_id": 3, "text": "Rise in trade", "is_correct": true },
+        { "option_id": 4, "text": "Drying up of rivers", "is_correct": false }
+      ],
+      "answer": "Rise in trade"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which climatic factor affected Harappan regions?",
+      "options": [
+        { "option_id": 1, "text": "Heavy snowfall", "is_correct": false },
+        { "option_id": 2, "text": "Weakening monsoon", "is_correct": true },
+        { "option_id": 3, "text": "Cyclones", "is_correct": false },
+        { "option_id": 4, "text": "Volcanic eruptions", "is_correct": false }
+      ],
+      "answer": "Weakening monsoon"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What happened to people after environmental changes?",
+      "options": [
+        { "option_id": 1, "text": "They built new cities", "is_correct": false },
+        { "option_id": 2, "text": "They migrated to other places", "is_correct": true },
+        { "option_id": 3, "text": "They improved trade", "is_correct": false },
+        { "option_id": 4, "text": "They fortified cities", "is_correct": false }
+      ],
+      "answer": "They migrated to other places"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What type of civilization was Harappan Civilization?",
+      "options": [
+        { "option_id": 1, "text": "Rural", "is_correct": false },
+        { "option_id": 2, "text": "Nomadic", "is_correct": false },
+        { "option_id": 3, "text": "Urban", "is_correct": true },
+        { "option_id": 4, "text": "Tribal", "is_correct": false }
+      ],
+      "answer": "Urban"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which feature best reflects Harappan civic planning?",
+      "options": [
+        { "option_id": 1, "text": "Large palaces", "is_correct": false },
+        { "option_id": 2, "text": "Drainage system", "is_correct": true },
+        { "option_id": 3, "text": "Religious temples", "is_correct": false },
+        { "option_id": 4, "text": "Markets", "is_correct": false }
+      ],
+      "answer": "Drainage system"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which item reflects Harappan recreational life?",
+      "options": [
+        { "option_id": 1, "text": "Coins", "is_correct": false },
+        { "option_id": 2, "text": "Toys", "is_correct": true },
+        { "option_id": 3, "text": "Seals", "is_correct": false },
+        { "option_id": 4, "text": "Granaries", "is_correct": false }
+      ],
+      "answer": "Toys"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which practice shows Harappan respect for the dead?",
+      "options": [
+        { "option_id": 1, "text": "Cremation", "is_correct": false },
+        { "option_id": 2, "text": "Burial with pots", "is_correct": true },
+        { "option_id": 3, "text": "Monuments", "is_correct": false },
+        { "option_id": 4, "text": "Memorial stones", "is_correct": false }
+      ],
+      "answer": "Burial with pots"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which field evidence proves use of plough?",
+      "options": [
+        { "option_id": 1, "text": "Harappa", "is_correct": false },
+        { "option_id": 2, "text": "Kalibangan", "is_correct": true },
+        { "option_id": 3, "text": "Lothal", "is_correct": false },
+        { "option_id": 4, "text": "Dholavira", "is_correct": false }
+      ],
+      "answer": "Kalibangan"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which item shows Harappans were skilled weavers?",
+      "options": [
+        { "option_id": 1, "text": "Seals", "is_correct": false },
+        { "option_id": 2, "text": "Cloth remains", "is_correct": true },
+        { "option_id": 3, "text": "Coins", "is_correct": false },
+        { "option_id": 4, "text": "Weapons", "is_correct": false }
+      ],
+      "answer": "Cloth remains"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which export strengthened Harappan trade relations?",
+      "options": [
+        { "option_id": 1, "text": "Grains", "is_correct": false },
+        { "option_id": 2, "text": "Cotton cloth", "is_correct": true },
+        { "option_id": 3, "text": "Pottery", "is_correct": false },
+        { "option_id": 4, "text": "Tools", "is_correct": false }
+      ],
+      "answer": "Cotton cloth"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which factor shows Harappan engineering skill?",
+      "options": [
+        { "option_id": 1, "text": "Fortifications", "is_correct": false },
+        { "option_id": 2, "text": "Great Bath construction", "is_correct": true },
+        { "option_id": 3, "text": "Statues", "is_correct": false },
+        { "option_id": 4, "text": "Seals", "is_correct": false }
+      ],
+      "answer": "Great Bath construction"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What was the depth of the Great Bath?",
+      "options": [
+        { "option_id": 1, "text": "1.5 metres", "is_correct": false },
+        { "option_id": 2, "text": "2.5 metres", "is_correct": true },
+        { "option_id": 3, "text": "3.5 metres", "is_correct": false },
+        { "option_id": 4, "text": "4.5 metres", "is_correct": false }
+      ],
+      "answer": "2.5 metres"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which system existed for maintaining the Great Bath?",
+      "options": [
+        { "option_id": 1, "text": "Natural overflow", "is_correct": false },
+        { "option_id": 2, "text": "Provision for draining and refilling", "is_correct": true },
+        { "option_id": 3, "text": "River connection", "is_correct": false },
+        { "option_id": 4, "text": "Manual bucket system", "is_correct": false }
+      ],
+      "answer": "Provision for draining and refilling"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which region supplied deodar wood?",
+      "options": [
+        { "option_id": 1, "text": "Kashmir", "is_correct": true },
+        { "option_id": 2, "text": "Gujarat", "is_correct": false },
+        { "option_id": 3, "text": "Rajasthan", "is_correct": false },
+        { "option_id": 4, "text": "Egypt", "is_correct": false }
+      ],
+      "answer": "Kashmir"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which evidence proves long-distance trade?",
+      "options": [
+        { "option_id": 1, "text": "Uniform bricks", "is_correct": false },
+        { "option_id": 2, "text": "Imported metals and gems", "is_correct": true },
+        { "option_id": 3, "text": "Drainage system", "is_correct": false },
+        { "option_id": 4, "text": "Burial customs", "is_correct": false }
+      ],
+      "answer": "Imported metals and gems"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What weakened trade in the later Harappan period?",
+      "options": [
+        { "option_id": 1, "text": "Increase in population", "is_correct": false },
+        { "option_id": 2, "text": "Environmental changes", "is_correct": true },
+        { "option_id": 3, "text": "Technological growth", "is_correct": false },
+        { "option_id": 4, "text": "Urban expansion", "is_correct": false }
+      ],
+      "answer": "Environmental changes"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What legacy did the Harappan Civilization leave?",
+      "options": [
+        { "option_id": 1, "text": "Nomadic culture", "is_correct": false },
+        { "option_id": 2, "text": "Foundation of Indian civilization", "is_correct": true },
+        { "option_id": 3, "text": "Only trade routes", "is_correct": false },
+        { "option_id": 4, "text": "Only pottery traditions", "is_correct": false }
+      ],
+      "answer": "Foundation of Indian civilization"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why is the Harappan Civilization also called the Indus Civilization?",
+      "answer": "Because many Harappan sites were located in the Indus valley region."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "When did archaeological excavation first begin at Harappa?",
+      "answer": "Archaeological excavation first began at Harappa in 1921 CE."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What similarity was observed between Harappa and Mohen-jo-daro?",
+      "answer": "A striking resemblance was observed in their structures and artefacts."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name any two important sites of the Harappan Civilization.",
+      "answer": "Dholavira and Lothal are important Harappan sites."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which construction material was mainly used in Harappan houses?",
+      "answer": "Baked bricks were mainly used in the construction of Harappan houses."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What was the basic layout of Harappan houses?",
+      "answer": "Harappan houses were built around a central courtyard."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which facilities were commonly found inside Harappan houses?",
+      "answer": "Wells, bathrooms and toilets were commonly found in Harappan houses."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What material was used for drainage conduits in Harappan cities?",
+      "answer": "Baked earthen conduits were used for drainage in Harappan cities."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why is the Harappan drainage system considered advanced?",
+      "answer": "Because the drains were covered and well-planned, showing concern for public health."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How were streets planned in Harappan towns?",
+      "answer": "The streets were broad and laid out in a grid pattern."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How were Harappan towns divided?",
+      "answer": "Harappan towns were divided into two or more sections with separate fortifications."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What shape were most Harappan seals?",
+      "answer": "Most Harappan seals were square-shaped."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which stone was used to make Harappan seals?",
+      "answer": "Harappan seals were made from a stone called steatite."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name any two real animals depicted on Harappan seals.",
+      "answer": "Bulls and elephants are depicted on Harappan seals."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which imaginary animal is seen on Harappan seals?",
+      "answer": "The unicorn is the imaginary animal seen on Harappan seals."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "For what purpose were Harappan seals mainly used?",
+      "answer": "Harappan seals were mainly used as stamps."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What type of pots were commonly used by the Harappans?",
+      "answer": "Red terracotta pots with black patterns were commonly used."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Mention any one design found on Harappan pottery.",
+      "answer": "Fish scale patterns are found on Harappan pottery."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What objects were buried with the dead in Harappan times?",
+      "answer": "Earthen pots were buried with the dead."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Where was the Great Bath discovered?",
+      "answer": "The Great Bath was discovered at Mohen-jo-daro."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How deep was the tank of the Great Bath?",
+      "answer": "The tank of the Great Bath was nearly 2.5 metres deep."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What was used to prevent water seepage in the Great Bath?",
+      "answer": "Baked bricks were used to prevent water seepage."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What arrangements existed for maintaining the Great Bath?",
+      "answer": "There were provisions for draining, cleaning and refilling the tank."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Which evidence proves that Harappans practised agriculture?",
+      "answer": "A ploughed field discovered at Kalibangan proves Harappans practised agriculture."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Name the main crops grown by the Harappans.",
+      "answer": "Wheat and barley were the main crops grown by the Harappans."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Which crop was grown on a large scale in Rajasthan?",
+      "answer": "Barley was grown on a large scale in Rajasthan."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which crop was mainly grown in Gujarat during Harappan times?",
+      "answer": "Ragi was mainly grown in Gujarat."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which fibre were the Harappans familiar with?",
+      "answer": "The Harappans were familiar with cotton."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What type of clothes did Harappan men and women wear?",
+      "answer": "They wore knee-length cloth with an upper garment."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Name any two materials used to make Harappan ornaments.",
+      "answer": "Gold and precious stones were used to make ornaments."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which ornaments were commonly worn by Harappan women?",
+      "answer": "Women wore bangles up to their upper arms."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What does the statue with a trefoil patterned cloak indicate?",
+      "answer": "It indicates the artistic skill of the Harappan people."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Within which regions did the Harappans carry out trade?",
+      "answer": "They carried out trade within India and with foreign countries."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which product of the Indus Valley was famous in foreign trade?",
+      "answer": "High quality cotton was famous in foreign trade."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which cloth did Harappan traders supply to Egypt?",
+      "answer": "Harappan traders supplied muslin cloth to Egypt."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Name any two items imported by the Harappans.",
+      "answer": "Silver and gemstones were imported by the Harappans."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which site provides evidence of Harappan sea trade?",
+      "answer": "Lothal provides evidence of Harappan sea trade."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What structure at Lothal indicates maritime trade?",
+      "answer": "A huge dockyard at Lothal indicates maritime trade."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Along which sea was Harappan trade carried out?",
+      "answer": "Harappan trade was carried out along the Arabian Sea."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Name any one reason for the decline of the Harappan Civilization.",
+      "answer": "Frequent floods were one reason for the decline."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "How did weakening of the monsoon affect Harappan cities?",
+      "answer": "It led to arid conditions and drying up of river basins."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What role did earthquakes play in the decline of Harappan cities?",
+      "answer": "Earthquakes damaged cities and contributed to their decline."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why did people migrate during the decline of the Harappan Civilization?",
+      "answer": "People migrated due to environmental changes and loss of resources."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How is the Harappan Civilization described at its peak?",
+      "answer": "It is described as a prosperous and flourishing urban civilization."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What type of civilization was the Harappan Civilization?",
+      "answer": "The Harappan Civilization was an urban civilization."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which aspect of Harappan cities shows concern for hygiene?",
+      "answer": "The well-planned covered drainage system shows concern for hygiene."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Which feature reflects Harappan civic sense?",
+      "answer": "The systematic town planning reflects Harappan civic sense."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does uniform town planning suggest about Harappan society?",
+      "answer": "It suggests strong administrative planning and organization."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Which activity shows Harappan technological advancement?",
+      "answer": "Construction of the Great Bath shows technological advancement."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What foundation did the Harappan Civilization lay for India?",
+      "answer": "It laid the foundation of the Indian Civilization."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Explain why the Harappan Civilization is regarded as a well-organized urban civilization.",
+      "answer": "It had planned towns, uniform construction, covered drainage systems and systematic layout of streets."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does town planning reflect administrative efficiency in Harappan cities?",
+      "answer": "Uniform grid patterns, standardized bricks and organized drainage indicate strong administrative control."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is the drainage system considered one of the greatest achievements of the Harappans?",
+      "answer": "Because it was covered, well-maintained and designed with concern for public health."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Explain the importance of the central courtyard in Harappan houses.",
+      "answer": "It provided ventilation, light and space for household activities."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "How do seals help historians understand Harappan society?",
+      "answer": "Seals reveal religious beliefs, animals, artistic skills and commercial practices."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why were seals made in uniform shapes and materials?",
+      "answer": "Uniformity suggests standardization for trade and administrative purposes."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Explain the significance of animal figures on Harappan seals.",
+      "answer": "They indicate symbolic beliefs and familiarity with wildlife."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why is Harappan pottery important for studying daily life?",
+      "answer": "Pottery reveals food habits, artistic taste and burial customs."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How does burial with pots reflect Harappan beliefs?",
+      "answer": "It suggests belief in life after death or respect for the deceased."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Explain why the Great Bath is considered an engineering marvel.",
+      "answer": "Its waterproof construction, steps and drainage show advanced engineering skills."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What does the Great Bath suggest about Harappan social practices?",
+      "answer": "It suggests collective or ceremonial bathing practices."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why was provision for cleaning and refilling important in the Great Bath?",
+      "answer": "It ensured hygiene and regular use of the structure."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "How does evidence from Kalibangan prove agricultural advancement?",
+      "answer": "The ploughed field shows knowledge of farming techniques."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why was agriculture the backbone of Harappan life?",
+      "answer": "It provided food security and supported urban settlements."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Explain how crop diversity reflects regional adaptation in Harappan areas.",
+      "answer": "Different regions grew crops suited to local climate and soil."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How does evidence of cotton use highlight Harappan innovation?",
+      "answer": "It shows early knowledge of fibre cultivation and textile production."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why are ornaments important for understanding Harappan culture?",
+      "answer": "They indicate social status, craftsmanship and aesthetic sense."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Explain the significance of multistrand necklaces and bangles.",
+      "answer": "They show advanced jewellery-making skills and fashion sense."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "How does Harappan sculpture reflect artistic excellence?",
+      "answer": "Detailed facial features and patterned clothing show refined art."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why is the trefoil pattern important in Harappan art?",
+      "answer": "It reflects decorative sophistication and symbolic design."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "How did internal trade contribute to Harappan prosperity?",
+      "answer": "It enabled exchange of goods between regions and supported economy."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Explain the importance of foreign trade in Harappan Civilization.",
+      "answer": "Foreign trade brought wealth and resources from distant regions."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why was cotton a major export of the Harappans?",
+      "answer": "Because the Indus Valley produced high-quality cotton."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How does the dockyard at Lothal prove maritime trade?",
+      "answer": "Its structure shows planning for ships and sea-based trade."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why are seals with ship images significant?",
+      "answer": "They provide evidence of sea routes and maritime knowledge."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Explain how imported goods reflect Harappan trade networks.",
+      "answer": "Imports show connections with distant regions like Iran and Afghanistan."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How did environmental changes weaken Harappan cities?",
+      "answer": "They reduced water supply, agriculture and trade."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why did drying up of rivers affect Harappan settlements?",
+      "answer": "Settlements depended on rivers for water and farming."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Explain the impact of weakening monsoon on Harappan life.",
+      "answer": "It caused arid conditions and crop failure."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How did decline in trade contribute to the fall of the civilization?",
+      "answer": "Economic decline weakened cities and livelihoods."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why did people migrate during the decline of Harappan cities?",
+      "answer": "Due to loss of resources and environmental stress."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Explain how natural disasters may have accelerated decline.",
+      "answer": "Floods and earthquakes damaged infrastructure and settlements."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is the Harappan Civilization described as prosperous?",
+      "answer": "Because of advanced urban life, trade and agriculture."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How does uniformity across sites reflect cultural unity?",
+      "answer": "Similar structures and artefacts show shared cultural practices."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is Harappan Civilization considered a foundation of Indian civilization?",
+      "answer": "It introduced urban planning, trade and cultural traditions."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Explain how Harappan achievements influenced later civilizations.",
+      "answer": "Later societies adopted agriculture, crafts and urban practices."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why is archaeological excavation essential for studying Harappans?",
+      "answer": "Because no written records are fully understood."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How does material evidence compensate for lack of written records?",
+      "answer": "Artefacts and structures reveal lifestyle and technology."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Explain the importance of studying Harappan sites on maps.",
+      "answer": "It helps understand geographical spread and trade routes."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is Harappan Civilization called a planned civilization?",
+      "answer": "Because cities followed systematic layouts and standard designs."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "How does Harappan housing reflect social equality?",
+      "answer": "Houses were similar in design without extreme differences."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why are toys important for understanding Harappan life?",
+      "answer": "They show leisure activities and childhood culture."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Explain how Harappan life was closely linked to environment.",
+      "answer": "Agriculture, trade and settlements depended on natural conditions."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why did Harappans prefer baked bricks over mud bricks?",
+      "answer": "Baked bricks were stronger and more durable."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "How does standard brick size indicate central control?",
+      "answer": "Standardization suggests regulation by authority."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why is Harappan Civilization studied as a single cultural unit?",
+      "answer": "Because of shared features across all sites."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "How does Harappan trade reflect economic planning?",
+      "answer": "Organized exports and imports show structured economy."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Explain the role of rivers in Harappan prosperity.",
+      "answer": "Rivers supported agriculture, trade and settlements."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is Harappan Civilization important for Indian history?",
+      "answer": "It represents the earliest urban culture in the region."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Summarize the overall significance of the Harappan Civilization.",
+      "answer": "It laid the foundation of urban life, trade and culture in India."
+    }
+  ]
+}

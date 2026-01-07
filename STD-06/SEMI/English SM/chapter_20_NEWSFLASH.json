@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.20",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "NEWSFLASH!"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the name of the Brazilian man who befriended a penguin?",
+      "options": [
+        { "option_id": 1, "text": "Joao Pereira de Souza", "is_correct": true },
+        { "option_id": 2, "text": "Joao Lodai", "is_correct": false },
+        { "option_id": 3, "text": "Dindim Pereira", "is_correct": false },
+        { "option_id": 4, "text": "Munich Bhuj", "is_correct": false }
+      ],
+      "answer": "Joao Pereira de Souza"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where were the dinosaur fossils found in February 2016?",
+      "options": [
+        { "option_id": 1, "text": "Rio de Janeiro", "is_correct": false },
+        { "option_id": 2, "text": "Kutch region, Gujarat", "is_correct": true },
+        { "option_id": 3, "text": "Munich, Germany", "is_correct": false },
+        { "option_id": 4, "text": "Southern Chile", "is_correct": false }
+      ],
+      "answer": "Kutch region, Gujarat"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What project made the detection of gravitational waves possible?",
+      "options": [
+        { "option_id": 1, "text": "The Einstein Project", "is_correct": false },
+        { "option_id": 2, "text": "Advanced LIGO Project", "is_correct": true },
+        { "option_id": 3, "text": "The Magellanic Collaboration", "is_correct": false },
+        { "option_id": 4, "text": "The Kutch Excavation", "is_correct": false }
+      ],
+      "answer": "Advanced LIGO Project"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Dindim is what type of penguin?",
+      "options": [
+        { "option_id": 1, "text": "Emperor", "is_correct": false },
+        { "option_id": 2, "text": "Adelie", "is_correct": false },
+        { "option_id": 3, "text": "Magellanic", "is_correct": true },
+        { "option_id": 4, "text": "Galapagos", "is_correct": false }
+      ],
+      "answer": "Magellanic"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When did the LIGO team announce the observation of gravitational waves?",
+      "options": [
+        { "option_id": 1, "text": "March 8, 2016", "is_correct": false },
+        { "option_id": 2, "text": "February 11, 2016", "is_correct": true },
+        { "option_id": 3, "text": "January 20, 2011", "is_correct": false },
+        { "option_id": 4, "text": "June 15, 2016", "is_correct": false }
+      ],
+      "answer": "February 11, 2016"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How long ago did the dinosaur found in Lodai village live?",
+      "options": [
+        { "option_id": 1, "text": "10 million years ago", "is_correct": false },
+        { "option_id": 2, "text": "135 million years ago", "is_correct": true },
+        { "option_id": 3, "text": "1 billion years ago", "is_correct": false },
+        { "option_id": 4, "text": "200 years ago", "is_correct": false }
+      ],
+      "answer": "135 million years ago"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What are gravitational waves?",
+      "options": [
+        { "option_id": 1, "text": "Ocean tides", "is_correct": false },
+        { "option_id": 2, "text": "Ripples in the fabric of spacetime", "is_correct": true },
+        { "option_id": 3, "text": "Sound waves from space", "is_correct": false },
+        { "option_id": 4, "text": "Volcanic eruptions", "is_correct": false }
+      ],
+      "answer": "Ripples in the fabric of spacetime"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Joao Pereira de Souza's profession before retirement was:",
+      "options": [
+        { "option_id": 1, "text": "Fisherman", "is_correct": false },
+        { "option_id": 2, "text": "Bricklayer", "is_correct": true },
+        { "option_id": 3, "text": "Scientist", "is_correct": false },
+        { "option_id": 4, "text": "Reporter", "is_correct": false }
+      ],
+      "answer": "Bricklayer"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The dinosaur found in Gujarat was:",
+      "options": [
+        { "option_id": 1, "text": "Herbivorous", "is_correct": false },
+        { "option_id": 2, "text": "Carnivorous", "is_correct": true },
+        { "option_id": 3, "text": "Omnivorous", "is_correct": false },
+        { "option_id": 4, "text": "A bird", "is_correct": false }
+      ],
+      "answer": "Carnivorous"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which scientist predicted the existence of gravitational waves a century ago?",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "Einstein", "is_correct": true },
+        { "option_id": 3, "text": "Galileo", "is_correct": false },
+        { "option_id": 4, "text": "CV Raman", "is_correct": false }
+      ],
+      "answer": "Einstein"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How far apart are the two LIGO wave detectors?",
+      "options": [
+        { "option_id": 1, "text": "1000 km", "is_correct": false },
+        { "option_id": 2, "text": "3000 km", "is_correct": true },
+        { "option_id": 3, "text": "8000 km", "is_correct": false },
+        { "option_id": 4, "text": "500 km", "is_correct": false }
+      ],
+      "answer": "3000 km"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Dindim goes away in January and returns in:",
+      "options": [
+        { "option_id": 1, "text": "February", "is_correct": false },
+        { "option_id": 2, "text": "June", "is_correct": true },
+        { "option_id": 3, "text": "March", "is_correct": false },
+        { "option_id": 4, "text": "December", "is_correct": false }
+      ],
+      "answer": "June"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where was the dinosaur fossil sample sent for further testing?",
+      "options": [
+        { "option_id": 1, "text": "Ahmedabad", "is_correct": false },
+        { "option_id": 2, "text": "Munich", "is_correct": true },
+        { "option_id": 3, "text": "Washington", "is_correct": false },
+        { "option_id": 4, "text": "Delhi", "is_correct": false }
+      ],
+      "answer": "Munich"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these statements has 'news value'?",
+      "options": [
+        { "option_id": 1, "text": "Meera went to school today.", "is_correct": false },
+        { "option_id": 2, "text": "Aseem found his missing pen.", "is_correct": false },
+        { "option_id": 3, "text": "Meera reached Mt. Kalsubai in record time.", "is_correct": true },
+        { "option_id": 4, "text": "Tara is reading a book.", "is_correct": false }
+      ],
+      "answer": "Meera reached Mt. Kalsubai in record time."
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Gravitational waves were caused by the collision of:",
+      "options": [
+        { "option_id": 1, "text": "Two planets", "is_correct": false },
+        { "option_id": 2, "text": "Two black holes", "is_correct": true },
+        { "option_id": 3, "text": "Two stars", "is_correct": false },
+        { "option_id": 4, "text": "A meteor and Earth", "is_correct": false }
+      ],
+      "answer": "Two black holes"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which word should NOT be used with 'news'?",
+      "options": [
+        { "option_id": 1, "text": "The", "is_correct": false },
+        { "option_id": 2, "text": "Any", "is_correct": false },
+        { "option_id": 3, "text": "A", "is_correct": true },
+        { "option_id": 4, "text": "Some", "is_correct": false }
+      ],
+      "answer": "A"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the QR code text shown on page 74?",
+      "options": [
+        { "option_id": 1, "text": "X4QID6", "is_correct": false },
+        { "option_id": 2, "text": "X4ZEET", "is_correct": true },
+        { "option_id": 3, "text": "X4GNBI", "is_correct": false },
+        { "option_id": 4, "text": "X4NEWS", "is_correct": false }
+      ],
+      "answer": "X4ZEET"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The penguin Dindim was first found in which year?",
+      "options": [
+        { "option_id": 1, "text": "2016", "is_correct": false },
+        { "option_id": 2, "text": "2011", "is_correct": true },
+        { "option_id": 3, "text": "2015", "is_correct": false },
+        { "option_id": 4, "text": "2000", "is_correct": false }
+      ],
+      "answer": "2011"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What happened to the penguin when Joao first found him?",
+      "options": [
+        { "option_id": 1, "text": "He was playing", "is_correct": false },
+        { "option_id": 2, "text": "He was starving and covered in oil", "is_correct": true },
+        { "option_id": 3, "text": "He was swimming", "is_correct": false },
+        { "option_id": 4, "text": "He was lost in a forest", "is_correct": false }
+      ],
+      "answer": "He was starving and covered in oil"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Approximately how many scientists worked on the LIGO project?",
+      "options": [
+        { "option_id": 1, "text": "100", "is_correct": false },
+        { "option_id": 2, "text": "500", "is_correct": false },
+        { "option_id": 3, "text": "900", "is_correct": true },
+        { "option_id": 4, "text": "1000", "is_correct": false }
+      ],
+      "answer": "900"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The dinosaur fossil was found in which village?",
+      "options": [
+        { "option_id": 1, "text": "Proveta", "is_correct": false },
+        { "option_id": 2, "text": "Lodai", "is_correct": true },
+        { "option_id": 3, "text": "Bhuj", "is_correct": false },
+        { "option_id": 4, "text": "Kutch", "is_correct": false }
+      ],
+      "answer": "Lodai"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "LIGO stands for Laser Interferometer ______ Observatory.",
+      "options": [
+        { "option_id": 1, "text": "Global", "is_correct": false },
+        { "option_id": 2, "text": "Gravitational-wave", "is_correct": true },
+        { "option_id": 3, "text": "Geological", "is_correct": false },
+        { "option_id": 4, "text": "Generic", "is_correct": false }
+      ],
+      "answer": "Gravitational-wave"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "How many species of dinosaurs do scientists think once roamed the Kutch region?",
+      "options": [
+        { "option_id": 1, "text": "At least 5", "is_correct": false },
+        { "option_id": 2, "text": "At least 13", "is_correct": true },
+        { "option_id": 3, "text": "Exactly 100", "is_correct": false },
+        { "option_id": 4, "text": "Only 1", "is_correct": false }
+      ],
+      "answer": "At least 13"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of these is a 'non-news' item?",
+      "options": [
+        { "option_id": 1, "text": "Dindim swims 8000 km", "is_correct": false },
+        { "option_id": 2, "text": "Gravitational waves detected", "is_correct": false },
+        { "option_id": 3, "text": "Toto ran after a ball", "is_correct": true },
+        { "option_id": 4, "text": "Fossils found in Kutch", "is_correct": false }
+      ],
+      "answer": "Toto ran after a ball"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "How many kilometers does Dindim swim every year to meet his friend?",
+      "options": [
+        { "option_id": 1, "text": "3000 km", "is_correct": false },
+        { "option_id": 2, "text": "5000 km", "is_correct": false },
+        { "option_id": 3, "text": "8000 km", "is_correct": true },
+        { "option_id": 4, "text": "10000 km", "is_correct": false }
+      ],
+      "answer": "8000 km"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who is Joao Pereira de Souza?",
+      "answer": "He is a 71-year-old retired bricklayer from Proveta, Brazil, who befriended a penguin named Dindim."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is Dindim?",
+      "answer": "Dindim is a Magellanic penguin that Joao rescued from a beach in 2011."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "In what condition did Joao find the penguin?",
+      "answer": "The penguin was starving and covered in oil."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "How did Joao help the penguin recover?",
+      "answer": "He gently cleaned its feathers and fed it sardines for over a week until it got stronger."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What happens when Joao tries to release Dindim into the sea?",
+      "answer": "Every time Joao tried to release him, the bird swam back to Joao's home."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Describe Dindim's yearly routine.",
+      "answer": "Dindim goes away towards the end of January and returns to Joao in June."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Where do Magellanic penguins usually go to breed?",
+      "answer": "They swim to their breeding spots on the southern coasts of Argentina and Chile."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Is it legal to keep wild animals as pets in Brazil?",
+      "answer": "No, it is not allowed to keep wild animals as pets in Brazil."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Why is the case of Joao and Dindim considered rare?",
+      "answer": "It is rare because the penguin chooses to stay with his human friend every year by his own choice."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What discovery was made near Bhuj in February 2016?",
+      "answer": "A team of Indian and German scientists found a large fossil of a carnivorous dinosaur."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What parts of the dinosaur fossils were found on Saturday?",
+      "answer": "The new fossils included the skull, jaw, and some teeth of the dinosaur."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is the estimated length of the dinosaur found in Kutch?",
+      "answer": "The fossils show that the dinosaur may have been 10-15 metres long."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What does 'carnivorous' mean?",
+      "answer": "It means the 'meat-eating type'."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Why is this dinosaur fossil discovery significant?",
+      "answer": "It could be the oldest dinosaur fossil found in this century."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What happened to the dinosaurs that once roamed the Kutch region?",
+      "answer": "They were destroyed due to a meteor strike, volcanic eruption, or a similar reason."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "When were Gravitational Waves first detected?",
+      "answer": "They were first detected on February 11, 2016."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What is the Advanced LIGO Project?",
+      "answer": "It is the Laser Interferometer Gravitational-wave Observatory set up to detect gravitational waves."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "How many wave detectors does the LIGO project have?",
+      "answer": "It includes two identical wave detectors located about 3000 kilometers apart."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "How many scientists worked on the LIGO project?",
+      "answer": "A group of about 900 scientists from many nations, including India, worked on it."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What caused the gravitational waves detected in 2016?",
+      "answer": "They were caused by two black holes colliding against each other about one billion light years ago."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'excavation'?",
+      "answer": "Excavation means digging very carefully."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "From what sources do people get news?",
+      "answer": "People get news from sources like newspapers, TV, and digital platforms."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is a 'headline'?",
+      "answer": "A headline is the title of a news item, usually printed in large letters."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Why is a date given with a news item?",
+      "answer": "A date is given to show when the event occurred and how recent the news is."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What makes 'news' according to the chapter?",
+      "answer": "News usually involves unusual, important, or record-breaking events rather than everyday occurrences."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a 'non-news' item?",
+      "answer": "It is an item that has no news value, such as a cat eating a mouse or a boy running after a ball."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Can we say 'a news' in English?",
+      "answer": "No, we do not use 'a' with the word 'news'."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How should we refer to a single report of news?",
+      "answer": "We should say 'a piece of news' or 'a news item'."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What are the four directions mentioned in the chapter?",
+      "answer": "The directions are North, East, West, and South."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the role of a 'news anchor'?",
+      "answer": "A news anchor is the person who presents the main news bulletin on TV."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the Advanced LIGO project acronym?",
+      "answer": "LIGO stands for Laser Interferometer Gravitational-wave Observatory."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Where is Bhuj located?",
+      "answer": "Bhuj is located in the Kutch region of Gujarat, India."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How old was Dindim when Joao found him?",
+      "answer": "He was a four-month-old penguin."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What did Joao feed the penguin to make him stronger?",
+      "answer": "He fed him sardines (fish)."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "For how long did Dindim stay with Joao the first time?",
+      "answer": "He stayed for nearly 11 months."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "In which month does Dindim usually return to Joao?",
+      "answer": "Dindim usually returns in June."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What kind of dinosaur fossils were recently found in Lodai village?",
+      "answer": "Skull, jaw, and teeth of a carnivorous dinosaur."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How long ago was the collision of the two black holes detected by LIGO?",
+      "answer": "The collision happened about one billion light years ago."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the title of Chapter 20?",
+      "answer": "The title of Chapter 20 is '3.6 NEWSFLASH!'."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Is 'Mayank won the first prize in a national swimming competition' news?",
+      "answer": "Yes, it is considered news because it is a significant achievement."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Is 'Ambika bumped into her sister in the kitchen' news?",
+      "answer": "No, it is not news as it is a common daily event."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Where does Joao Pereira de Souza live?",
+      "answer": "He lives in Proveta, a fishing village close to the coast of Rio de Janeiro."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What does LIGO stand for?",
+      "answer": "Laser Interferometer Gravitational-wave Observatory."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How many light years away did the black holes collide?",
+      "answer": "They collided about one billion light years ago."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Just for Fun!' activity?",
+      "answer": "To publish a 'non-news' newspaper to understand the difference between news and ordinary events."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What language mix is suggested for the advertisements in the 'non-news' activity?",
+      "answer": "A mix of English and your mother tongue."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the first step in the 'Be a Reporter' activity?",
+      "answer": "Form groups of 5 and prepare 1 short news bulletin in English."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How many news items should be in a reporter's bulletin?",
+      "answer": "It should have at least 4 news items of about 4-5 lines each."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who predicted gravitational waves a hundred years ago?",
+      "answer": "Albert Einstein, the great man of science."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What happens to Dindim's coat in February?",
+      "answer": "He gets a new feathers and coat."
+    }
+  ]
+}

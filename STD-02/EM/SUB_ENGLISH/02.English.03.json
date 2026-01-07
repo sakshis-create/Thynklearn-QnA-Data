@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.03",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Let’s Speak – Welcoming Friends"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who says, 'Hello, everyone! Good morning!'?",
+      "options": [
+        { "option_id": 1, "text": "Pramod", "is_correct": false },
+        { "option_id": 2, "text": "Satish", "is_correct": true },
+        { "option_id": 3, "text": "Pranav", "is_correct": false },
+        { "option_id": 4, "text": "Siddhu", "is_correct": false }
+      ],
+      "answer": "Satish"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who says, 'Hello, I am Pramod.'?",
+      "options": [
+        { "option_id": 1, "text": "Satish", "is_correct": false },
+        { "option_id": 2, "text": "Siddhu", "is_correct": false },
+        { "option_id": 3, "text": "Pramod", "is_correct": true },
+        { "option_id": 4, "text": "Sharwari", "is_correct": false }
+      ],
+      "answer": "Pramod"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who is also new in the school?",
+      "options": [
+        { "option_id": 1, "text": "Satish", "is_correct": false },
+        { "option_id": 2, "text": "Pranav", "is_correct": true },
+        { "option_id": 3, "text": "Sharwari", "is_correct": false },
+        { "option_id": 4, "text": "Pramod", "is_correct": false }
+      ],
+      "answer": "Pranav"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who says, 'I am new in the school.'?",
+      "options": [
+        { "option_id": 1, "text": "Pramod", "is_correct": false },
+        { "option_id": 2, "text": "Siddhu", "is_correct": true },
+        { "option_id": 3, "text": "Satish", "is_correct": false },
+        { "option_id": 4, "text": "Sharwari", "is_correct": false }
+      ],
+      "answer": "Siddhu"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who welcomes the friends to the school?",
+      "options": [
+        { "option_id": 1, "text": "Satish", "is_correct": false },
+        { "option_id": 2, "text": "Pranav", "is_correct": false },
+        { "option_id": 3, "text": "Sharwari", "is_correct": true },
+        { "option_id": 4, "text": "Siddhu", "is_correct": false }
+      ],
+      "answer": "Sharwari"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does Sharwari say to her friends?",
+      "options": [
+        { "option_id": 1, "text": "Good morning", "is_correct": false },
+        { "option_id": 2, "text": "Nice to meet you", "is_correct": true },
+        { "option_id": 3, "text": "Where do you live?", "is_correct": false },
+        { "option_id": 4, "text": "Hello everyone", "is_correct": false }
+      ],
+      "answer": "Nice to meet you"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What question do the children ask each other?",
+      "options": [
+        { "option_id": 1, "text": "What is your name?", "is_correct": false },
+        { "option_id": 2, "text": "How old are you?", "is_correct": false },
+        { "option_id": 3, "text": "Where do you live?", "is_correct": true },
+        { "option_id": 4, "text": "Which class are you in?", "is_correct": false }
+      ],
+      "answer": "Where do you live?"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who lives near the market?",
+      "options": [
+        { "option_id": 1, "text": "Satish", "is_correct": false },
+        { "option_id": 2, "text": "Pramod", "is_correct": true },
+        { "option_id": 3, "text": "Sharwari", "is_correct": false },
+        { "option_id": 4, "text": "Siddhu", "is_correct": false }
+      ],
+      "answer": "Pramod"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who lives in Ram Nagar?",
+      "options": [
+        { "option_id": 1, "text": "Pranav", "is_correct": true },
+        { "option_id": 2, "text": "Satish", "is_correct": false },
+        { "option_id": 3, "text": "Siddhu", "is_correct": false },
+        { "option_id": 4, "text": "Sharwari", "is_correct": false }
+      ],
+      "answer": "Pranav"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who lives next to the school?",
+      "options": [
+        { "option_id": 1, "text": "Satish", "is_correct": false },
+        { "option_id": 2, "text": "Pramod", "is_correct": false },
+        { "option_id": 3, "text": "Siddhu", "is_correct": true },
+        { "option_id": 4, "text": "Pranav", "is_correct": false }
+      ],
+      "answer": "Siddhu"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What do the children say at the end of the conversation?",
+      "options": [
+        { "option_id": 1, "text": "Goodbye", "is_correct": false },
+        { "option_id": 2, "text": "Nice to meet you", "is_correct": false },
+        { "option_id": 3, "text": "We all live nearby", "is_correct": true },
+        { "option_id": 4, "text": "Welcome to school", "is_correct": false }
+      ],
+      "answer": "We all live nearby"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the lesson mainly about?",
+      "options": [
+        { "option_id": 1, "text": "Writing", "is_correct": false },
+        { "option_id": 2, "text": "Welcoming and speaking", "is_correct": true },
+        { "option_id": 3, "text": "Reading stories", "is_correct": false },
+        { "option_id": 4, "text": "Drawing", "is_correct": false }
+      ],
+      "answer": "Welcoming and speaking"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word is used to greet friends?",
+      "options": [
+        { "option_id": 1, "text": "Bye", "is_correct": false },
+        { "option_id": 2, "text": "Hello", "is_correct": true },
+        { "option_id": 3, "text": "Stop", "is_correct": false },
+        { "option_id": 4, "text": "Sit", "is_correct": false }
+      ],
+      "answer": "Hello"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which place is mentioned in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "Park", "is_correct": false },
+        { "option_id": 2, "text": "Market", "is_correct": true },
+        { "option_id": 3, "text": "Hospital", "is_correct": false },
+        { "option_id": 4, "text": "Library", "is_correct": false }
+      ],
+      "answer": "Market"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What skill does this lesson help to improve?",
+      "options": [
+        { "option_id": 1, "text": "Speaking", "is_correct": true },
+        { "option_id": 2, "text": "Counting", "is_correct": false },
+        { "option_id": 3, "text": "Drawing", "is_correct": false },
+        { "option_id": 4, "text": "Writing numbers", "is_correct": false }
+      ],
+      "answer": "Speaking"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does Satish say when he meets everyone?",
+      "answer": "Satish says, 'Hello, everyone! Good morning!'"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name any one new student in the school.",
+      "answer": "Pranav is a new student in the school."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who welcomes the friends to the school?",
+      "answer": "Sharwari welcomes the friends to the school."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What question do the children ask each other?",
+      "answer": "They ask, 'Where do you live?'"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Where does Pramod live?",
+      "answer": "Pramod lives near the market."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Where does Pranav live?",
+      "answer": "Pranav lives in Ram Nagar."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Where does Siddhu live?",
+      "answer": "Siddhu lives next to the school."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What do the children say after sharing where they live?",
+      "answer": "They say that they all live nearby."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why do the children say 'Nice to meet you'?",
+      "answer": "They say it because they are meeting new friends."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name two children from the lesson.",
+      "answer": "Satish and Pramod."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What greeting is used in the lesson?",
+      "answer": "The greeting used is 'Good morning'."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does the lesson teach us?",
+      "answer": "The lesson teaches us how to speak politely and welcome friends."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Where are the children shown in the lesson?",
+      "answer": "The children are shown in the school."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What should we say when we meet new friends?",
+      "answer": "We should say 'Hello' and 'Nice to meet you'."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is speaking important according to this lesson?",
+      "answer": "Speaking helps us communicate and make friends."
+    }
+  ]
+}

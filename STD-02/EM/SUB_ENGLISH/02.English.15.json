@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.15",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Friends Forever"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What should we do according to the poem?",
+      "options": [
+        { "option_id": 1, "text": "Make enemies", "is_correct": false },
+        { "option_id": 2, "text": "Make new friends and keep the old", "is_correct": true },
+        { "option_id": 3, "text": "Forget old friends", "is_correct": false },
+        { "option_id": 4, "text": "Stay alone", "is_correct": false }
+      ],
+      "answer": "Make new friends and keep the old"
+    }
+  ]
+}

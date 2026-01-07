@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.24",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "कोण कसे?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'लहान' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "आखूड", "is_correct": false },
+        { "option_id": 2, "text": "मोठा", "is_correct": true },
+        { "option_id": 3, "text": "उंच", "is_correct": false },
+        { "option_id": 4, "text": "जाड", "is_correct": false }
+      ],
+      "answer": "मोठा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "हत्ती मोठा असतो, तर उंदीर कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": true },
+        { "option_id": 2, "text": "उंच", "is_correct": false },
+        { "option_id": 3, "text": "जड", "is_correct": false },
+        { "option_id": 4, "text": "रुंद", "is_correct": false }
+      ],
+      "answer": "लहान"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "'उंच' या शब्दाचा उलट अर्थाचा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "ठेंगणा", "is_correct": true },
+        { "option_id": 2, "text": "लांब", "is_correct": false },
+        { "option_id": 3, "text": "अरुंद", "is_correct": false },
+        { "option_id": 4, "text": "मोठा", "is_correct": false }
+      ],
+      "answer": "ठेंगणा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "नारळाचे झाड उंच असते, तर गुलाबाचे झाड (रोप) कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "उंच", "is_correct": false },
+        { "option_id": 2, "text": "ठेंगणे", "is_correct": true },
+        { "option_id": 3, "text": "जड", "is_correct": false },
+        { "option_id": 4, "text": "रुंद", "is_correct": false }
+      ],
+      "answer": "ठेंगणे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'जड' च्या विरुद्ध शब्द ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "हलका", "is_correct": true },
+        { "option_id": 2, "text": "मोठा", "is_correct": false },
+        { "option_id": 3, "text": "लांब", "is_correct": false },
+        { "option_id": 4, "text": "अरुंद", "is_correct": false }
+      ],
+      "answer": "हलका"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "दगड जड असतो, तर पीस (Feather) कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "जड", "is_correct": false },
+        { "option_id": 2, "text": "हलके", "is_correct": true },
+        { "option_id": 3, "text": "रुंद", "is_correct": false },
+        { "option_id": 4, "text": "उंच", "is_correct": false }
+      ],
+      "answer": "हलके"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'लांब' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "मोठा", "is_correct": false },
+        { "option_id": 2, "text": "आखूड", "is_correct": true },
+        { "option_id": 3, "text": "जड", "is_correct": false },
+        { "option_id": 4, "text": "हलका", "is_correct": false }
+      ],
+      "answer": "आखूड"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'रुंद' च्या विरुद्ध शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "अरुंद", "is_correct": true },
+        { "option_id": 2, "text": "मोठा", "is_correct": false },
+        { "option_id": 3, "text": "उंच", "is_correct": false },
+        { "option_id": 4, "text": "लांब", "is_correct": false }
+      ],
+      "answer": "अरुंद"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "नवीन पेन्सिल लांब असते, तर वापरलेली पेन्सिल कशी होते?",
+      "options": [
+        { "option_id": 1, "text": "आखूड", "is_correct": true },
+        { "option_id": 2, "text": "उंच", "is_correct": false },
+        { "option_id": 3, "text": "रुंद", "is_correct": false },
+        { "option_id": 4, "text": "जड", "is_correct": false }
+      ],
+      "answer": "आखूड"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पाडावरचा रस्ता रुंद असतो, तर पायवाट कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "मोठी", "is_correct": false },
+        { "option_id": 2, "text": "अरुंद", "is_correct": true },
+        { "option_id": 3, "text": "उंच", "is_correct": false },
+        { "option_id": 4, "text": "जड", "is_correct": false }
+      ],
+      "answer": "अरुंद"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "जिराफ उंच प्राणी आहे, तर ससा कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "ठेंगणा", "is_correct": true },
+        { "option_id": 2, "text": "लांब", "is_correct": false },
+        { "option_id": 3, "text": "रुंद", "is_correct": false },
+        { "option_id": 4, "text": "मोठा", "is_correct": false }
+      ],
+      "answer": "ठेंगणा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "लोखंडाचा गोळा जड असतो, तर कापूस कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "जड", "is_correct": false },
+        { "option_id": 2, "text": "हलका", "is_correct": true },
+        { "option_id": 3, "text": "काळा", "is_correct": false },
+        { "option_id": 4, "text": "कठीण", "is_correct": false }
+      ],
+      "answer": "हलका"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी 'जड' वस्तू कोणती असू शकते?",
+      "options": [
+        { "option_id": 1, "text": "फुगा", "is_correct": false },
+        { "option_id": 2, "text": "दगड", "is_correct": true },
+        { "option_id": 3, "text": "पान", "is_correct": false },
+        { "option_id": 4, "text": "पिसा", "is_correct": false }
+      ],
+      "answer": "दगड"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी 'लहान' काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "चेंडू", "is_correct": true },
+        { "option_id": 2, "text": "डोंगर", "is_correct": false },
+        { "option_id": 3, "text": "हत्ती", "is_correct": false },
+        { "option_id": 4, "text": "बस", "is_correct": false }
+      ],
+      "answer": "चेंडू"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या पाठात आपण काय शिकलो?",
+      "options": [
+        { "option_id": 1, "text": "रंग ओळखणे", "is_correct": false },
+        { "option_id": 2, "text": "विरुद्धार्थी शब्द/तुलना", "is_correct": true },
+        { "option_id": 3, "text": "गाणी गाणे", "is_correct": false },
+        { "option_id": 4, "text": "गोष्टी सांगणे", "is_correct": false }
+      ],
+      "answer": "विरुद्धार्थी शब्द/तुलना"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "'मोठा' या शब्दाचा विरुद्धार्थी शब्द लिहा.",
+      "answer": "लहान."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "'जड' आणि 'हलका' याचे एक उदाहरण दया.",
+      "answer": "दगड जड असतो आणि पान हलके असते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "'उंच' च्या विरुद्ध काय?",
+      "answer": "ठेंगणा."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "'लांब' च्या विरुद्धार्थी शब्द कोणता?",
+      "answer": "आखूड."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "'रुंद' च्या विरुद्धार्थी शब्द कोणता?",
+      "answer": "अरुंद."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "बस सायकलपेक्षा कशी आहे, जड की हलकी?",
+      "answer": "बस सायकलपेक्षा जड आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सफरचंद कलिंगडापेक्षा लहान आहे की मोठे?",
+      "answer": "सफरचंद कलिंगडापेक्षा लहान आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "नवीन पेन्सिल आणि जुनी पेन्सिल यांच्यात काय फरक असतो?",
+      "answer": "नवीन पेन्सिल लांब असते आणि जुनी पेन्सिल आखूड असते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "तुम्ही हत्तीला 'लहान' म्हणाल की 'मोठा'?",
+      "answer": "आम्ही हत्तीला 'मोठा' म्हणू."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "फुगा हलका असतो की जड?",
+      "answer": "फुगा हलका असतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "झाडाचे खोड रुंद असते, तर फांदी कशी असते?",
+      "answer": "फांदी अरुंद (किंवा बारीक) असते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "बाबा मुलापेक्षा उंच आहेत की ठेंगणे?",
+      "answer": "बाबा मुलापेक्षा उंच आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "दोन विरुद्धार्थी शब्दांच्या जोड्या लिहा.",
+      "answer": "लहान-मोठा, उंच-ठेंगणा."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पाण्यात टाकल्यावर दगड बुडतो कारण तो _____ असतो.",
+      "answer": "जड."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या पाठाचे नाव काय आहे?",
+      "answer": "या पाठाचे नाव 'कोण कसे?' आहे."
+    }
+  ]
+}

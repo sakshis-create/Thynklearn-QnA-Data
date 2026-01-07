@@ -1,0 +1,1214 @@
+{
+  "voyage": "Chapter 3: Comparing a Globe and a Map; Field Visits",
+  "lessons": [
+    "Comparing a globe and a map",
+    "Two-dimensional and three-dimensional objects",
+    "Uses of maps and globes",
+    "Field visits in geography",
+    "Graticule and map drawing",
+    "Geography museum: Eartha"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which of the following devices is flat in shape?",
+      "options": [
+        { "option_id": 1, "text": "Globe", "is_correct": false },
+        { "option_id": 2, "text": "Map", "is_correct": true },
+        { "option_id": 3, "text": "Ball", "is_correct": false },
+        { "option_id": 4, "text": "Hill", "is_correct": false }
+      ],
+      "answer": "Map"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which device represents the Earth in a spherical form?",
+      "options": [
+        { "option_id": 1, "text": "Map", "is_correct": false },
+        { "option_id": 2, "text": "Chart", "is_correct": false },
+        { "option_id": 3, "text": "Globe", "is_correct": true },
+        { "option_id": 4, "text": "Sketch", "is_correct": false }
+      ],
+      "answer": "Globe"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which device allows you to see the entire Earth at the same time?",
+      "options": [
+        { "option_id": 1, "text": "Map", "is_correct": true },
+        { "option_id": 2, "text": "Globe", "is_correct": false },
+        { "option_id": 3, "text": "Atlas", "is_correct": false },
+        { "option_id": 4, "text": "Model", "is_correct": false }
+      ],
+      "answer": "Map"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which device allows you to see only one side of the Earth at a time?",
+      "options": [
+        { "option_id": 1, "text": "World map", "is_correct": false },
+        { "option_id": 2, "text": "Outline map", "is_correct": false },
+        { "option_id": 3, "text": "Globe", "is_correct": true },
+        { "option_id": 4, "text": "Chart", "is_correct": false }
+      ],
+      "answer": "Globe"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which device is suitable for studying a particular region in detail?",
+      "options": [
+        { "option_id": 1, "text": "Globe", "is_correct": false },
+        { "option_id": 2, "text": "Map", "is_correct": true },
+        { "option_id": 3, "text": "Model", "is_correct": false },
+        { "option_id": 4, "text": "Photograph", "is_correct": false }
+      ],
+      "answer": "Map"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which device can be called a model of the Earth?",
+      "options": [
+        { "option_id": 1, "text": "Map", "is_correct": false },
+        { "option_id": 2, "text": "Sketch", "is_correct": false },
+        { "option_id": 3, "text": "Globe", "is_correct": true },
+        { "option_id": 4, "text": "Diagram", "is_correct": false }
+      ],
+      "answer": "Globe"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "A surface having only length and width is called",
+      "options": [
+        { "option_id": 1, "text": "Three-dimensional", "is_correct": false },
+        { "option_id": 2, "text": "Two-dimensional", "is_correct": true },
+        { "option_id": 3, "text": "Spherical", "is_correct": false },
+        { "option_id": 4, "text": "Cylindrical", "is_correct": false }
+      ],
+      "answer": "Two-dimensional"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of a two-dimensional object?",
+      "options": [
+        { "option_id": 1, "text": "Box", "is_correct": false },
+        { "option_id": 2, "text": "Globe", "is_correct": false },
+        { "option_id": 3, "text": "Paper", "is_correct": true },
+        { "option_id": 4, "text": "Pot", "is_correct": false }
+      ],
+      "answer": "Paper"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "An object having length, width and height is called",
+      "options": [
+        { "option_id": 1, "text": "Flat", "is_correct": false },
+        { "option_id": 2, "text": "Two-dimensional", "is_correct": false },
+        { "option_id": 3, "text": "Three-dimensional", "is_correct": true },
+        { "option_id": 4, "text": "Linear", "is_correct": false }
+      ],
+      "answer": "Three-dimensional"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of a three-dimensional object?",
+      "options": [
+        { "option_id": 1, "text": "Map", "is_correct": false },
+        { "option_id": 2, "text": "Table top", "is_correct": false },
+        { "option_id": 3, "text": "Globe", "is_correct": true },
+        { "option_id": 4, "text": "Paper", "is_correct": false }
+      ],
+      "answer": "Globe"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the product of length and width define?",
+      "options": [
+        { "option_id": 1, "text": "Volume", "is_correct": false },
+        { "option_id": 2, "text": "Height", "is_correct": false },
+        { "option_id": 3, "text": "Area", "is_correct": true },
+        { "option_id": 4, "text": "Depth", "is_correct": false }
+      ],
+      "answer": "Area"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does the product of length, width and height define?",
+      "options": [
+        { "option_id": 1, "text": "Area", "is_correct": false },
+        { "option_id": 2, "text": "Perimeter", "is_correct": false },
+        { "option_id": 3, "text": "Volume", "is_correct": true },
+        { "option_id": 4, "text": "Surface", "is_correct": false }
+      ],
+      "answer": "Volume"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Maps are useful for studying",
+      "options": [
+        { "option_id": 1, "text": "Only the whole world", "is_correct": false },
+        { "option_id": 2, "text": "Only small areas", "is_correct": false },
+        { "option_id": 3, "text": "The whole world and limited regions", "is_correct": true },
+        { "option_id": 4, "text": "Only continents", "is_correct": false }
+      ],
+      "answer": "The whole world and limited regions"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Even if a globe is small or large, it represents",
+      "options": [
+        { "option_id": 1, "text": "Only a continent", "is_correct": false },
+        { "option_id": 2, "text": "Only oceans", "is_correct": false },
+        { "option_id": 3, "text": "The entire Earth", "is_correct": true },
+        { "option_id": 4, "text": "Only countries", "is_correct": false }
+      ],
+      "answer": "The entire Earth"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which method is described as important for studying geography?",
+      "options": [
+        { "option_id": 1, "text": "Laboratory work", "is_correct": false },
+        { "option_id": 2, "text": "Field visit", "is_correct": true },
+        { "option_id": 3, "text": "Written test", "is_correct": false },
+        { "option_id": 4, "text": "Map drawing only", "is_correct": false }
+      ],
+      "answer": "Field visit"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Field visits help students to understand",
+      "options": [
+        { "option_id": 1, "text": "Only maps", "is_correct": false },
+        { "option_id": 2, "text": "Geographical and social conditions", "is_correct": true },
+        { "option_id": 3, "text": "Only climate", "is_correct": false },
+        { "option_id": 4, "text": "Only history", "is_correct": false }
+      ],
+      "answer": "Geographical and social conditions"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What additional benefit do field visits provide?",
+      "options": [
+        { "option_id": 1, "text": "Entertainment", "is_correct": false },
+        { "option_id": 2, "text": "Direct interaction with local people", "is_correct": true },
+        { "option_id": 3, "text": "Written material", "is_correct": false },
+        { "option_id": 4, "text": "Online resources", "is_correct": false }
+      ],
+      "answer": "Direct interaction with local people"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which of the following places is suggested for a field visit?",
+      "options": [
+        { "option_id": 1, "text": "Cinema hall", "is_correct": false },
+        { "option_id": 2, "text": "Planetarium", "is_correct": true },
+        { "option_id": 3, "text": "Restaurant", "is_correct": false },
+        { "option_id": 4, "text": "Library", "is_correct": false }
+      ],
+      "answer": "Planetarium"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Before drawing a world map, what is first prepared?",
+      "options": [
+        { "option_id": 1, "text": "Paper map", "is_correct": false },
+        { "option_id": 2, "text": "Wire globe", "is_correct": true },
+        { "option_id": 3, "text": "Sketch", "is_correct": false },
+        { "option_id": 4, "text": "Atlas", "is_correct": false }
+      ],
+      "answer": "Wire globe"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is placed inside the wire globe during map preparation?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Paper", "is_correct": false },
+        { "option_id": 3, "text": "Source of light", "is_correct": true },
+        { "option_id": 4, "text": "Ink", "is_correct": false }
+      ],
+      "answer": "Source of light"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is obtained on paper from the wire globe?",
+      "options": [
+        { "option_id": 1, "text": "Shadow of continents", "is_correct": false },
+        { "option_id": 2, "text": "Projection of wire graticule", "is_correct": true },
+        { "option_id": 3, "text": "Relief map", "is_correct": false },
+        { "option_id": 4, "text": "Satellite image", "is_correct": false }
+      ],
+      "answer": "Projection of wire graticule"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is essential for drawing a map of the Earth?",
+      "options": [
+        { "option_id": 1, "text": "Compass", "is_correct": false },
+        { "option_id": 2, "text": "Scale", "is_correct": false },
+        { "option_id": 3, "text": "Graticule", "is_correct": true },
+        { "option_id": 4, "text": "Legend", "is_correct": false }
+      ],
+      "answer": "Graticule"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "A two-dimensional map is obtained from",
+      "options": [
+        { "option_id": 1, "text": "Another map", "is_correct": false },
+        { "option_id": 2, "text": "A photograph", "is_correct": false },
+        { "option_id": 3, "text": "A three-dimensional globe", "is_correct": true },
+        { "option_id": 4, "text": "A diagram", "is_correct": false }
+      ],
+      "answer": "A three-dimensional globe"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which globe is mentioned as the largest operational globe in the world?",
+      "options": [
+        { "option_id": 1, "text": "GeoSphere", "is_correct": false },
+        { "option_id": 2, "text": "EARTHA", "is_correct": true },
+        { "option_id": 3, "text": "Terra", "is_correct": false },
+        { "option_id": 4, "text": "Worlda", "is_correct": false }
+      ],
+      "answer": "EARTHA"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Where is the globe EARTHA located?",
+      "options": [
+        { "option_id": 1, "text": "New York, USA", "is_correct": false },
+        { "option_id": 2, "text": "California, USA", "is_correct": false },
+        { "option_id": 3, "text": "Yarmouth, Maine, USA", "is_correct": true },
+        { "option_id": 4, "text": "Texas, USA", "is_correct": false }
+      ],
+      "answer": "Yarmouth, Maine, USA"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The rotation and revolution speed of EARTHA is maintained as per",
+      "options": [
+        { "option_id": 1, "text": "The Sun", "is_correct": false },
+        { "option_id": 2, "text": "The Moon", "is_correct": false },
+        { "option_id": 3, "text": "The Earth", "is_correct": true },
+        { "option_id": 4, "text": "The map", "is_correct": false }
+      ],
+      "answer": "The Earth"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which device is easier to carry from one place to another?",
+      "options": [
+        { "option_id": 1, "text": "Large globe", "is_correct": false },
+        { "option_id": 2, "text": "Map", "is_correct": true },
+        { "option_id": 3, "text": "Model", "is_correct": false },
+        { "option_id": 4, "text": "Wire globe", "is_correct": false }
+      ],
+      "answer": "Map"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which device is more suitable to show a village or city?",
+      "options": [
+        { "option_id": 1, "text": "Globe", "is_correct": false },
+        { "option_id": 2, "text": "Map", "is_correct": true },
+        { "option_id": 3, "text": "Sphere", "is_correct": false },
+        { "option_id": 4, "text": "Chart", "is_correct": false }
+      ],
+      "answer": "Map"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which device is suitable to understand day and night on Earth?",
+      "options": [
+        { "option_id": 1, "text": "Map", "is_correct": false },
+        { "option_id": 2, "text": "Globe", "is_correct": true },
+        { "option_id": 3, "text": "Diagram", "is_correct": false },
+        { "option_id": 4, "text": "Sketch", "is_correct": false }
+      ],
+      "answer": "Globe"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT mentioned as a field visit location?",
+      "options": [
+        { "option_id": 1, "text": "Bus station", "is_correct": false },
+        { "option_id": 2, "text": "Sea coast", "is_correct": false },
+        { "option_id": 3, "text": "Hill", "is_correct": false },
+        { "option_id": 4, "text": "Airport", "is_correct": true }
+      ],
+      "answer": "Airport"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which activity is suggested during a field visit?",
+      "options": [
+        { "option_id": 1, "text": "Watching videos", "is_correct": false },
+        { "option_id": 2, "text": "Preparing a questionnaire", "is_correct": true },
+        { "option_id": 3, "text": "Writing an exam", "is_correct": false },
+        { "option_id": 4, "text": "Reading a textbook", "is_correct": false }
+      ],
+      "answer": "Preparing a questionnaire"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which task is suggested after interviewing local people?",
+      "options": [
+        { "option_id": 1, "text": "Ignore responses", "is_correct": false },
+        { "option_id": 2, "text": "Note down responses", "is_correct": true },
+        { "option_id": 3, "text": "Destroy notes", "is_correct": false },
+        { "option_id": 4, "text": "Publish a book", "is_correct": false }
+      ],
+      "answer": "Note down responses"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which figure shows the world map in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Figure 3.1(a)", "is_correct": true },
+        { "option_id": 2, "text": "Figure 3.1(b)", "is_correct": false },
+        { "option_id": 3, "text": "Figure 3.1(c)", "is_correct": false },
+        { "option_id": 4, "text": "Figure 3.2", "is_correct": false }
+      ],
+      "answer": "Figure 3.1(a)"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which figure shows the outline map of India?",
+      "options": [
+        { "option_id": 1, "text": "Figure 3.1(a)", "is_correct": false },
+        { "option_id": 2, "text": "Figure 3.1(b)", "is_correct": true },
+        { "option_id": 3, "text": "Figure 3.1(c)", "is_correct": false },
+        { "option_id": 4, "text": "Figure 3.2", "is_correct": false }
+      ],
+      "answer": "Figure 3.1(b)"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which figure shows a globe?",
+      "options": [
+        { "option_id": 1, "text": "Figure 3.1(a)", "is_correct": false },
+        { "option_id": 2, "text": "Figure 3.1(b)", "is_correct": false },
+        { "option_id": 3, "text": "Figure 3.1(c)", "is_correct": true },
+        { "option_id": 4, "text": "Figure 3.2", "is_correct": false }
+      ],
+      "answer": "Figure 3.1(c)"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What should teachers facilitate for this lesson?",
+      "options": [
+        { "option_id": 1, "text": "Textbooks only", "is_correct": false },
+        { "option_id": 2, "text": "Globes and maps", "is_correct": true },
+        { "option_id": 3, "text": "Computers only", "is_correct": false },
+        { "option_id": 4, "text": "Charts only", "is_correct": false }
+      ],
+      "answer": "Globes and maps"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which object is listed as an example of a three-dimensional object?",
+      "options": [
+        { "option_id": 1, "text": "Land", "is_correct": false },
+        { "option_id": 2, "text": "Blackboard", "is_correct": false },
+        { "option_id": 3, "text": "Duster", "is_correct": true },
+        { "option_id": 4, "text": "Paper", "is_correct": false }
+      ],
+      "answer": "Duster"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which object is listed as an example of a two-dimensional object?",
+      "options": [
+        { "option_id": 1, "text": "Box", "is_correct": false },
+        { "option_id": 2, "text": "Hill", "is_correct": false },
+        { "option_id": 3, "text": "Table top", "is_correct": true },
+        { "option_id": 4, "text": "Pot", "is_correct": false }
+      ],
+      "answer": "Table top"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which term is used for a network of parallels and meridians?",
+      "options": [
+        { "option_id": 1, "text": "Legend", "is_correct": false },
+        { "option_id": 2, "text": "Scale", "is_correct": false },
+        { "option_id": 3, "text": "Graticule", "is_correct": true },
+        { "option_id": 4, "text": "Projection", "is_correct": false }
+      ],
+      "answer": "Graticule"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is studied by observing places like bus stations and malls?",
+      "options": [
+        { "option_id": 1, "text": "Astronomy", "is_correct": false },
+        { "option_id": 2, "text": "Geographical features", "is_correct": false },
+        { "option_id": 3, "text": "Geographical and social conditions", "is_correct": true },
+        { "option_id": 4, "text": "Only transport systems", "is_correct": false }
+      ],
+      "answer": "Geographical and social conditions"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who guides students during a field visit?",
+      "options": [
+        { "option_id": 1, "text": "Parents", "is_correct": false },
+        { "option_id": 2, "text": "Local people", "is_correct": false },
+        { "option_id": 3, "text": "Teacher", "is_correct": true },
+        { "option_id": 4, "text": "Friends", "is_correct": false }
+      ],
+      "answer": "Teacher"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which action is suggested after a field visit?",
+      "options": [
+        { "option_id": 1, "text": "Ignore observations", "is_correct": false },
+        { "option_id": 2, "text": "Make sketches or notes", "is_correct": true },
+        { "option_id": 3, "text": "Throw questionnaires", "is_correct": false },
+        { "option_id": 4, "text": "Memorize only", "is_correct": false }
+      ],
+      "answer": "Make sketches or notes"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which statement correctly compares maps and globes?",
+      "options": [
+        { "option_id": 1, "text": "Maps are three-dimensional", "is_correct": false },
+        { "option_id": 2, "text": "Globes are two-dimensional", "is_correct": false },
+        { "option_id": 3, "text": "Maps are two-dimensional and globes are three-dimensional", "is_correct": true },
+        { "option_id": 4, "text": "Both are three-dimensional", "is_correct": false }
+      ],
+      "answer": "Maps are two-dimensional and globes are three-dimensional"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which device helps to understand the true shape of the Earth?",
+      "options": [
+        { "option_id": 1, "text": "Map", "is_correct": false },
+        { "option_id": 2, "text": "Sketch", "is_correct": false },
+        { "option_id": 3, "text": "Globe", "is_correct": true },
+        { "option_id": 4, "text": "Chart", "is_correct": false }
+      ],
+      "answer": "Globe"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which is easier to store in a bag?",
+      "options": [
+        { "option_id": 1, "text": "Large globe", "is_correct": false },
+        { "option_id": 2, "text": "Map", "is_correct": true },
+        { "option_id": 3, "text": "Wire globe", "is_correct": false },
+        { "option_id": 4, "text": "Model Earth", "is_correct": false }
+      ],
+      "answer": "Map"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which device is more accurate in showing Earth’s shape?",
+      "options": [
+        { "option_id": 1, "text": "Map", "is_correct": false },
+        { "option_id": 2, "text": "Globe", "is_correct": true },
+        { "option_id": 3, "text": "Drawing", "is_correct": false },
+        { "option_id": 4, "text": "Chart", "is_correct": false }
+      ],
+      "answer": "Globe"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which concept is easier to understand using a globe?",
+      "options": [
+        { "option_id": 1, "text": "Population density", "is_correct": false },
+        { "option_id": 2, "text": "Day and night", "is_correct": true },
+        { "option_id": 3, "text": "Rainfall data", "is_correct": false },
+        { "option_id": 4, "text": "Literacy rate", "is_correct": false }
+      ],
+      "answer": "Day and night"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which device shows distortion when representing the Earth?",
+      "options": [
+        { "option_id": 1, "text": "Globe", "is_correct": false },
+        { "option_id": 2, "text": "Map", "is_correct": true },
+        { "option_id": 3, "text": "Sphere", "is_correct": false },
+        { "option_id": 4, "text": "Model", "is_correct": false }
+      ],
+      "answer": "Map"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which item is specifically mentioned under Geography Museum?",
+      "options": [
+        { "option_id": 1, "text": "Satellite", "is_correct": false },
+        { "option_id": 2, "text": "EARTHA globe", "is_correct": true },
+        { "option_id": 3, "text": "Atlas", "is_correct": false },
+        { "option_id": 4, "text": "Relief model", "is_correct": false }
+      ],
+      "answer": "EARTHA globe"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which approach is encouraged in the chapter for learning geography?",
+      "options": [
+        { "option_id": 1, "text": "Rote memorization", "is_correct": false },
+        { "option_id": 2, "text": "Observation and direct study", "is_correct": true },
+        { "option_id": 3, "text": "Online reading only", "is_correct": false },
+        { "option_id": 4, "text": "Listening to lectures only", "is_correct": false }
+      ],
+      "answer": "Observation and direct study"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why are meridians and parallels drawn on a globe?",
+      "answer": "Meridians and parallels are drawn on a globe to determine the location of places on the Earth."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the main purpose of comparing a map and a globe?",
+      "answer": "The main purpose is to understand the differences between a map and a globe."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What materials are suggested for group activity in this lesson?",
+      "answer": "A world map, a map of India and a globe are suggested for the group activity."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why is a map called a flat device?",
+      "answer": "A map is called a flat device because it has only length and width."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is a globe described as spherical?",
+      "answer": "A globe is spherical because it represents the Earth in a round, ball-like form."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why can the entire Earth be seen at the same time on a map?",
+      "answer": "The entire Earth can be seen at the same time on a map because it is a flat representation."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why can only one side of the Earth be seen on a globe at a time?",
+      "answer": "Only one side can be seen on a globe at a time because it is spherical."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is a map suitable for studying a particular region in detail?",
+      "answer": "A map is suitable because it can show small or large regions with detailed information."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why is a globe considered a model of the Earth?",
+      "answer": "A globe is considered a model because it represents the entire Earth in reduced form."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is meant by a two-dimensional surface?",
+      "answer": "A two-dimensional surface has only length and width."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Give two examples of two-dimensional objects mentioned in the lesson.",
+      "answer": "Paper and blackboard are examples of two-dimensional objects."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is meant by a three-dimensional object?",
+      "answer": "A three-dimensional object has length, width and height."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Give two examples of three-dimensional objects mentioned in the lesson.",
+      "answer": "A box and a globe are examples of three-dimensional objects."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How is the area of a two-dimensional object calculated?",
+      "answer": "The area is calculated by multiplying length and width."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How is the volume of a three-dimensional object calculated?",
+      "answer": "The volume is calculated by multiplying length, width and height."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How can maps be used in geographical studies?",
+      "answer": "Maps can be used to study the whole world or regions of limited extent."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is a globe limited in use compared to a map?",
+      "answer": "A globe represents the entire Earth and cannot show small regions in great detail."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why are field visits important in geography?",
+      "answer": "Field visits help in understanding geographical and social conditions of a place."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What additional understanding do field visits provide to students?",
+      "answer": "They provide an opportunity to directly interact with local people and understand their problems."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Name any two places suggested for a geography field visit.",
+      "answer": "A planetarium and a hill are suggested places for a geography field visit."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who guides students during a field visit?",
+      "answer": "Teachers guide students during a field visit."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why is a questionnaire prepared before a field visit?",
+      "answer": "A questionnaire is prepared to collect relevant information through interviews."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What records are students expected to maintain during a field visit?",
+      "answer": "Students should note responses, make sketches and write notes."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the first step in drawing a map of the whole world?",
+      "answer": "The first step is preparing a wire globe."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why is a source of light placed inside the wire globe?",
+      "answer": "A source of light is placed to obtain the projection of the wire graticule on paper."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is meant by a graticule?",
+      "answer": "A graticule is a network of parallels and meridians."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why is a graticule essential for drawing maps?",
+      "answer": "A graticule helps in accurately drawing the Earth or its parts on a map."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How is a two-dimensional map obtained from a globe?",
+      "answer": "A two-dimensional map is obtained by projecting the wire graticule of a globe onto paper."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why should objects be classified based on dimensions?",
+      "answer": "Classification helps in understanding their structure and proper use."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "When should a globe be used instead of a map?",
+      "answer": "A globe should be used when understanding the shape of the Earth or day and night."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "When is a map preferred over a globe?",
+      "answer": "A map is preferred when studying a specific region in detail."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why is a map easier to carry than a globe?",
+      "answer": "A map is flat and lightweight, making it easier to carry."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is a globe not convenient for daily use?",
+      "answer": "A globe is bulky and shows only one side of the Earth at a time."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which device helps in understanding day and night on Earth?",
+      "answer": "A globe helps in understanding the concept of day and night."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which device is suitable to show a village or city?",
+      "answer": "A map is suitable to show a village or city."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is observation important in geographical studies?",
+      "answer": "Observation helps in understanding real geographical conditions directly."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What learning approach is emphasized in this chapter?",
+      "answer": "The chapter emphasizes learning through observation and practical study."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is EARTHA?",
+      "answer": "EARTHA is the largest operational globe in the world."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Where is the globe EARTHA housed?",
+      "answer": "EARTHA is housed at Yarmouth in the State of Maine in the United States of America."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is special about the movement of the EARTHA globe?",
+      "answer": "Its rotation and revolution speed are maintained as per that of the Earth."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why is EARTHA important for geographical learning?",
+      "answer": "EARTHA accurately represents the Earth’s rotation and revolution."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What does a field visit help students observe?",
+      "answer": "A field visit helps students observe geographical features and social conditions."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why should students interact with local people during field visits?",
+      "answer": "Interaction helps students understand local problems and conditions."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What skills are developed through field visits?",
+      "answer": "Observation, interaction and recording skills are developed through field visits."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why are sketches useful during a field visit?",
+      "answer": "Sketches help in visually recording observed features."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How does map projection help in geography?",
+      "answer": "Map projection helps in representing the Earth’s surface on a flat paper."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is a globe more accurate than a map?",
+      "answer": "A globe shows the true shape of the Earth without distortion."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why does a map show distortion?",
+      "answer": "A map shows distortion because the curved surface of the Earth is shown on a flat surface."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is classification of objects by dimensions useful?",
+      "answer": "It helps in selecting the correct object for specific geographical studies."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the main learning outcome of this chapter?",
+      "answer": "The chapter helps in understanding the differences, uses and importance of maps, globes and field visits."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why are meridians and parallels important on a globe?",
+      "answer": "Meridians and parallels are important because they help determine the location of places on the Earth."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is a globe not suitable for studying small areas in detail?",
+      "answer": "A globe represents the entire Earth and cannot show small areas with detailed information."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is a map preferred for studying limited regions?",
+      "answer": "A map is preferred because it can show limited regions with greater detail."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What limitation of a globe is highlighted in the lesson?",
+      "answer": "The lesson highlights that a globe shows only one side of the Earth at a time."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is a globe considered only a representative model?",
+      "answer": "A globe is considered a representative model because it is a reduced version of the Earth."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What does the term two-dimensional emphasize about an object?",
+      "answer": "The term two-dimensional emphasizes that the object has only length and width."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why is area associated only with two-dimensional objects?",
+      "answer": "Area is associated with two-dimensional objects because it is calculated using length and width."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why is volume associated with three-dimensional objects?",
+      "answer": "Volume is associated with three-dimensional objects because it depends on length, width and height."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How does understanding dimensions help in geography?",
+      "answer": "Understanding dimensions helps in choosing appropriate tools like maps or globes for geographical study."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why is direct observation important in geography?",
+      "answer": "Direct observation helps in understanding real geographical and social conditions accurately."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What role does interaction with local people play during field visits?",
+      "answer": "Interaction with local people helps understand their problems and local conditions."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why should interviews be conducted during field visits?",
+      "answer": "Interviews help collect firsthand information about the place being studied."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why should responses be noted during field visits?",
+      "answer": "Responses should be noted to accurately record information for later study."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why are sketches useful in geographical studies?",
+      "answer": "Sketches help visually represent and remember observed geographical features."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is teacher guidance essential during a field visit?",
+      "answer": "Teacher guidance ensures proper observation, data collection and understanding."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What geographical understanding is gained by visiting a planetarium?",
+      "answer": "A planetarium helps understand Earth and celestial representations related to geography."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why is a wire globe used before drawing a world map?",
+      "answer": "A wire globe is used to obtain the correct projection of the Earth’s graticule."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How does light help in map preparation from a globe?",
+      "answer": "Light helps project the wire graticule of the globe onto paper."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why is the graticule necessary in map drawing?",
+      "answer": "The graticule ensures accurate representation of the Earth on a map."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How does a globe help understand Earth’s shape better than a map?",
+      "answer": "A globe shows the Earth’s true spherical shape without distortion."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why does distortion occur on maps?",
+      "answer": "Distortion occurs because a curved surface of the Earth is shown on a flat map."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why is portability an advantage of maps?",
+      "answer": "Maps are lightweight and flat, making them easy to carry."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is a globe difficult to transport?",
+      "answer": "A globe is bulky and three-dimensional, making it difficult to transport."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Which device is more practical for classroom use and why?",
+      "answer": "Maps are more practical because they are easy to handle and store."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is understanding day and night easier on a globe?",
+      "answer": "A globe helps visualize Earth’s rotation, making day and night easier to understand."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why is the globe considered accurate despite its small size?",
+      "answer": "The globe accurately represents the Earth’s shape and features in reduced form."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What makes EARTHA different from ordinary globes?",
+      "answer": "EARTHA has rotation and revolution speeds maintained as per the Earth."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why is EARTHA useful for educational purposes?",
+      "answer": "EARTHA provides a realistic representation of Earth’s movements."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why is geography linked with social conditions in field visits?",
+      "answer": "Geography studies places along with the people living there and their conditions."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why should geographical studies not rely only on textbooks?",
+      "answer": "Geographical studies require observation and field experience beyond textbooks."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "How do maps and globes complement each other in geography?",
+      "answer": "Maps provide detail while globes provide accurate shape, together enhancing understanding."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why should students classify objects based on dimensions?",
+      "answer": "Classification helps in understanding their structure and correct application."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What learning skill is strengthened through field visits?",
+      "answer": "Observation and analytical skills are strengthened through field visits."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why is preparation necessary before a field visit?",
+      "answer": "Preparation ensures systematic observation and data collection."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "How does studying a bus station help in geography?",
+      "answer": "It helps understand transport systems and human activities."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why are malls included as field visit locations?",
+      "answer": "Malls help study economic and social activities of a region."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why is a hill suggested as a field visit location?",
+      "answer": "A hill helps study natural landforms and geographical features."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How does fieldwork support theoretical learning?",
+      "answer": "Fieldwork provides practical examples that support theoretical concepts."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is accurate representation important in geography?",
+      "answer": "Accurate representation helps in correct understanding of Earth’s features."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is a globe less commonly used than a map?",
+      "answer": "A globe is bulky and less convenient compared to a map."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What does the lesson suggest about selecting geographical tools?",
+      "answer": "The lesson suggests selecting maps or globes based on the study requirement."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why is practical geography emphasized in the chapter?",
+      "answer": "Practical geography helps understand real-world geographical conditions."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "How does observation improve geographical understanding?",
+      "answer": "Observation allows direct study of features and conditions."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why should geography students maintain notes during activities?",
+      "answer": "Notes help in accurate recording and revision of observations."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What educational value does the Geography Museum provide?",
+      "answer": "It provides visual and practical understanding of geographical concepts."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why is Eartha highlighted in the lesson?",
+      "answer": "Eartha is highlighted as the largest operational globe with realistic motion."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "How does field study help understand human-environment interaction?",
+      "answer": "It shows how people live and interact with their surroundings."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is geography considered an observational subject?",
+      "answer": "Geography requires observing Earth’s features and human activities."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What attitude towards learning geography is promoted in this chapter?",
+      "answer": "An attitude of observation, inquiry and practical learning is promoted."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the overall importance of maps, globes and field visits in geography?",
+      "answer": "They collectively help in accurate, practical and comprehensive understanding of geography."
+    }
+  ]
+}

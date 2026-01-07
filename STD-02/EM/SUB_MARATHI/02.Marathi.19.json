@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.19",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "घरातील वस्तू"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भाजी चिरण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "चमचा", "is_correct": false },
+        { "option_id": 2, "text": "विळी", "is_correct": true },
+        { "option_id": 3, "text": "सांडशी", "is_correct": false },
+        { "option_id": 4, "text": "गाळणी", "is_correct": false }
+      ],
+      "answer": "विळी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "गरम पातेले धरण्यासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "सांडशी", "is_correct": true },
+        { "option_id": 2, "text": "कात्री", "is_correct": false },
+        { "option_id": 3, "text": "चाकू", "is_correct": false },
+        { "option_id": 4, "text": "चमचा", "is_correct": false }
+      ],
+      "answer": "सांडशी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "चहा गाळण्यासाठी कशाचा उपयोग होतो?",
+      "options": [
+        { "option_id": 1, "text": "कप", "is_correct": false },
+        { "option_id": 2, "text": "गाळणी", "is_correct": true },
+        { "option_id": 3, "text": "तवा", "is_correct": false },
+        { "option_id": 4, "text": "उलथने", "is_correct": false }
+      ],
+      "answer": "गाळणी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "चपाती भाजण्यासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "कढई", "is_correct": false },
+        { "option_id": 2, "text": "तवा", "is_correct": true },
+        { "option_id": 3, "text": "डबा", "is_correct": false },
+        { "option_id": 4, "text": "मिक्सर", "is_correct": false }
+      ],
+      "answer": "तवा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मसाला वाटण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "मिक्सर", "is_correct": true },
+        { "option_id": 2, "text": "वॉशिंग मशीन", "is_correct": false },
+        { "option_id": 3, "text": "फ्रीज", "is_correct": false },
+        { "option_id": 4, "text": "पंखा", "is_correct": false }
+      ],
+      "answer": "मिक्सर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "घरात हवा घेण्यासाठी आपण काय लावतो?",
+      "options": [
+        { "option_id": 1, "text": "टीव्ही", "is_correct": false },
+        { "option_id": 2, "text": "पंखा", "is_correct": true },
+        { "option_id": 3, "text": "ट्यूबलाईट", "is_correct": false },
+        { "option_id": 4, "text": "संगणक", "is_correct": false }
+      ],
+      "answer": "पंखा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कार्यक्रम बघण्यासाठी कशाचा उपयोग होतो?",
+      "options": [
+        { "option_id": 1, "text": "टीव्ही", "is_correct": true },
+        { "option_id": 2, "text": "मिक्सर", "is_correct": false },
+        { "option_id": 3, "text": "फ्रीज", "is_correct": false },
+        { "option_id": 4, "text": "सौरबंब", "is_correct": false }
+      ],
+      "answer": "टीव्ही"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "गॅस पेटवण्यासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "चाकू", "is_correct": false },
+        { "option_id": 2, "text": "लायटर", "is_correct": true },
+        { "option_id": 3, "text": "चमचा", "is_correct": false },
+        { "option_id": 4, "text": "पेन", "is_correct": false }
+      ],
+      "answer": "लायटर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पाणी थंड करण्यासाठी कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "कपाटाचा", "is_correct": false },
+        { "option_id": 2, "text": "फ्रीजचा", "is_correct": true },
+        { "option_id": 3, "text": "डब्याचा", "is_correct": false },
+        { "option_id": 4, "text": "वॉशिंग मशीनचा", "is_correct": false }
+      ],
+      "answer": "फ्रीजचा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "तळण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "ताट", "is_correct": false },
+        { "option_id": 2, "text": "कढई", "is_correct": true },
+        { "option_id": 3, "text": "ग्लास", "is_correct": false },
+        { "option_id": 4, "text": "कप", "is_correct": false }
+      ],
+      "answer": "कढई"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "बसण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "खुर्ची", "is_correct": true },
+        { "option_id": 2, "text": "टेबल", "is_correct": false },
+        { "option_id": 3, "text": "कपाट", "is_correct": false },
+        { "option_id": 4, "text": "पंखा", "is_correct": false }
+      ],
+      "answer": "खुर्ची"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "चहा पिण्यासाठी आपण काय वापरतो?",
+      "options": [
+        { "option_id": 1, "text": "ताट", "is_correct": false },
+        { "option_id": 2, "text": "कप-बशी", "is_correct": true },
+        { "option_id": 3, "text": "डबा", "is_correct": false },
+        { "option_id": 4, "text": "कढई", "is_correct": false }
+      ],
+      "answer": "कप-बशी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "संगणकाला इंग्रजीत काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "Computer", "is_correct": true },
+        { "option_id": 2, "text": "TV", "is_correct": false },
+        { "option_id": 3, "text": "Mobile", "is_correct": false },
+        { "option_id": 4, "text": "Mixer", "is_correct": false }
+      ],
+      "answer": "Computer"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "डोसा किंवा धिरडे उलटण्यासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "उलथने", "is_correct": true },
+        { "option_id": 2, "text": "गाळणी", "is_correct": false },
+        { "option_id": 3, "text": "पेला", "is_correct": false },
+        { "option_id": 4, "text": "ताट", "is_correct": false }
+      ],
+      "answer": "उलथने"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खाऊ ठेवण्यासाठी आपण कशाचा वापर करतो?",
+      "options": [
+        { "option_id": 1, "text": "डबा", "is_correct": true },
+        { "option_id": 2, "text": "बादली", "is_correct": false },
+        { "option_id": 3, "text": "तांब्या", "is_correct": false },
+        { "option_id": 4, "text": "सांडशी", "is_correct": false }
+      ],
+      "answer": "डबा"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "स्वयंपाकघरातील कोणत्याही दोन वस्तूंची नावे लिहा.",
+      "answer": "गॅस, तवा (किंवा मिक्सर, कढई)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "मोबाईलचा उपयोग कशासाठी होतो?",
+      "answer": "मोबाईलचा उपयोग बोलण्यासाठी आणि संदेश पाठवण्यासाठी होतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वॉशिंग मशीनमध्ये काय धुतले जाते?",
+      "answer": "वॉशिंग मशीनमध्ये कपडे धुतले जातात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "सौरबंब कशाच्या उष्णतेवर चालतो?",
+      "answer": "सौरबंब सूर्याच्या उष्णतेवर चालतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "संगणकावर आपण काय करू शकतो?",
+      "answer": "संगणकावर आपण काम करू शकतो, चित्रे काढू शकतो आणि माहिती मिळवू शकतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "तुम्ही पाणी कशातून पिता?",
+      "answer": "आम्ही पाणी ग्लासने किंवा पेल्याने पितो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "भाजी बनवण्यासाठी कशाचा वापर करतात?",
+      "answer": "भाजी बनवण्यासाठी कढईचा आणि उलथन्याचा वापर करतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "फ्रीजमध्ये आपण काय ठेवतो?",
+      "answer": "फ्रीजमध्ये आपण फळे, भाजीपाला आणि पाणी ठेवतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "चमच्याचा उपयोग कशासाठी होतो?",
+      "answer": "चमच्याचा उपयोग खाण्यासाठी किंवा वाढण्यासाठी होतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "विळीचा उपयोग सांगा.",
+      "answer": "विळीचा उपयोग भाजी किंवा फळे चिरण्यासाठी होतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "या पाठातील इलेक्ट्रॉनिक वस्तूंची नावे सांगा.",
+      "answer": "टीव्ही, फ्रीज, मिक्सर, वॉशिंग मशीन, मोबाईल, संगणक."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "सांडशी कशासाठी वापरतात?",
+      "answer": "गरम भांडे उचलण्यासाठी सांडशी वापरतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "गाळणीचा उपयोग काय?",
+      "answer": "द्रव पदार्थ (उदा. चहा) गाळण्यासाठी गाळणीचा उपयोग होतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "लायटरचा उपयोग काय?",
+      "answer": "गॅस शेगडी पेटवण्यासाठी लायटरचा उपयोग होतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हॉलमध्ये ठेवल्या जाणाऱ्या दोन वस्तू सांगा.",
+      "answer": "टीव्ही आणि खुर्ची (किंवा सोफा)."
+    }
+  ]
+}

@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.Science.06",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Refraction of light"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Light travels in a ________ line.",
+      "options": [
+        { "option_id": 1, "text": "Zigzag", "is_correct": false },
+        { "option_id": 2, "text": "Straight", "is_correct": true },
+        { "option_id": 3, "text": "Curved", "is_correct": false },
+        { "option_id": 4, "text": "Circular", "is_correct": false }
+      ],
+      "answer": "Straight"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The change in the direction of light when passing from one transparent medium to another is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Reflection", "is_correct": false },
+        { "option_id": 2, "text": "Dispersion", "is_correct": false },
+        { "option_id": 3, "text": "Refraction", "is_correct": true },
+        { "option_id": 4, "text": "Diffraction", "is_correct": false }
+      ],
+      "answer": "Refraction"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "When a light ray travels from air to glass, it bends ________ the normal.",
+      "options": [
+        { "option_id": 1, "text": "Away from", "is_correct": false },
+        { "option_id": 2, "text": "Towards", "is_correct": true },
+        { "option_id": 3, "text": "Parallel to", "is_correct": false },
+        { "option_id": 4, "text": "Perpendicular to", "is_correct": false }
+      ],
+      "answer": "Towards"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "When a light ray travels from glass to air, it bends ________ the normal.",
+      "options": [
+        { "option_id": 1, "text": "Towards", "is_correct": false },
+        { "option_id": 2, "text": "Away from", "is_correct": true },
+        { "option_id": 3, "text": "Along", "is_correct": false },
+        { "option_id": 4, "text": "None of the above", "is_correct": false }
+      ],
+      "answer": "Away from"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The ratio of sin i to sin r is a constant called ________.",
+      "options": [
+        { "option_id": 1, "text": "Refractive index", "is_correct": true },
+        { "option_id": 2, "text": "Reflection index", "is_correct": false },
+        { "option_id": 3, "text": "Dispersion index", "is_correct": false },
+        { "option_id": 4, "text": "Critical angle", "is_correct": false }
+      ],
+      "answer": "Refractive index"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The law stating that the incident ray, refracted ray, and normal lie in the same plane is part of ________.",
+      "options": [
+        { "option_id": 1, "text": "Laws of Reflection", "is_correct": false },
+        { "option_id": 2, "text": "Laws of Refraction", "is_correct": true },
+        { "option_id": 3, "text": "Laws of Dispersion", "is_correct": false },
+        { "option_id": 4, "text": "Snell's Law only", "is_correct": false }
+      ],
+      "answer": "Laws of Refraction"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The refractive index of a medium with respect to vacuum is called its ________ refractive index.",
+      "options": [
+        { "option_id": 1, "text": "Relative", "is_correct": false },
+        { "option_id": 2, "text": "Absolute", "is_correct": true },
+        { "option_id": 3, "text": "Total", "is_correct": false },
+        { "option_id": 4, "text": "Partial", "is_correct": false }
+      ],
+      "answer": "Absolute"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following has the highest refractive index?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Glass", "is_correct": false },
+        { "option_id": 3, "text": "Diamond", "is_correct": true },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Refractive index depends on the ________ of light in the medium.",
+      "options": [
+        { "option_id": 1, "text": "Intensity", "is_correct": false },
+        { "option_id": 2, "text": "Velocity", "is_correct": true },
+        { "option_id": 3, "text": "Frequency", "is_correct": false },
+        { "option_id": 4, "text": "Source", "is_correct": false }
+      ],
+      "answer": "Velocity"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "If the refractive index of medium 2 with respect to medium 1 is n, then refractive index of medium 1 with respect to medium 2 is ________.",
+      "options": [
+        { "option_id": 1, "text": "n", "is_correct": false },
+        { "option_id": 2, "text": "1/n", "is_correct": true },
+        { "option_id": 3, "text": "n^2", "is_correct": false },
+        { "option_id": 4, "text": "2n", "is_correct": false }
+      ],
+      "answer": "1/n"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "When a light ray is incident normally at the boundary between two media, the angle of refraction is ________.",
+      "options": [
+        { "option_id": 1, "text": "90 degrees", "is_correct": false },
+        { "option_id": 2, "text": "45 degrees", "is_correct": false },
+        { "option_id": 3, "text": "0 degrees", "is_correct": true },
+        { "option_id": 4, "text": "180 degrees", "is_correct": false }
+      ],
+      "answer": "0 degrees"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The illusion of the appearance of water on a hot road is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Reflection", "is_correct": false },
+        { "option_id": 2, "text": "Dispersion", "is_correct": false },
+        { "option_id": 3, "text": "Mirage", "is_correct": true },
+        { "option_id": 4, "text": "Scattering", "is_correct": false }
+      ],
+      "answer": "Mirage"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Stars appear to twinkle because of ________.",
+      "options": [
+        { "option_id": 1, "text": "Atmospheric reflection", "is_correct": false },
+        { "option_id": 2, "text": "Atmospheric refraction", "is_correct": true },
+        { "option_id": 3, "text": "Atmospheric dispersion", "is_correct": false },
+        { "option_id": 4, "text": "Total internal reflection", "is_correct": false }
+      ],
+      "answer": "Atmospheric refraction"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Planets do not twinkle because ________.",
+      "options": [
+        { "option_id": 1, "text": "They are point sources", "is_correct": false },
+        { "option_id": 2, "text": "They are collection of point sources", "is_correct": true },
+        { "option_id": 3, "text": "They do not emit light", "is_correct": false },
+        { "option_id": 4, "text": "They are too far", "is_correct": false }
+      ],
+      "answer": "They are collection of point sources"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "We can see the Sun even before it emerges above the horizon due to ________.",
+      "options": [
+        { "option_id": 1, "text": "Reflection", "is_correct": false },
+        { "option_id": 2, "text": "Dispersion", "is_correct": false },
+        { "option_id": 3, "text": "Refraction", "is_correct": true },
+        { "option_id": 4, "text": "Diffraction", "is_correct": false }
+      ],
+      "answer": "Refraction"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The separation of light into its component colours is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Reflection", "is_correct": false },
+        { "option_id": 2, "text": "Refraction", "is_correct": false },
+        { "option_id": 3, "text": "Dispersion", "is_correct": true },
+        { "option_id": 4, "text": "Scattering", "is_correct": false }
+      ],
+      "answer": "Dispersion"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which colour of light bends the most while passing through a prism?",
+      "options": [
+        { "option_id": 1, "text": "Red", "is_correct": false },
+        { "option_id": 2, "text": "Yellow", "is_correct": false },
+        { "option_id": 3, "text": "Violet", "is_correct": true },
+        { "option_id": 4, "text": "Blue", "is_correct": false }
+      ],
+      "answer": "Violet"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who was the first person to use a glass prism to obtain Sun's spectrum?",
+      "options": [
+        { "option_id": 1, "text": "Einstein", "is_correct": false },
+        { "option_id": 2, "text": "Newton", "is_correct": true },
+        { "option_id": 3, "text": "Raman", "is_correct": false },
+        { "option_id": 4, "text": "Galileo", "is_correct": false }
+      ],
+      "answer": "Newton"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which colour of light has the maximum wavelength?",
+      "options": [
+        { "option_id": 1, "text": "Violet", "is_correct": false },
+        { "option_id": 2, "text": "Blue", "is_correct": false },
+        { "option_id": 3, "text": "Red", "is_correct": true },
+        { "option_id": 4, "text": "Green", "is_correct": false }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "1 nanometer (nm) is equal to ________ meters.",
+      "options": [
+        { "option_id": 1, "text": "10^-6", "is_correct": false },
+        { "option_id": 2, "text": "10^-9", "is_correct": true },
+        { "option_id": 3, "text": "10^-10", "is_correct": false },
+        { "option_id": 4, "text": "10^-12", "is_correct": false }
+      ],
+      "answer": "10^-9"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "When light enters a rarer medium from a denser medium, it gets ________ reflected.",
+      "options": [
+        { "option_id": 1, "text": "Partially", "is_correct": true },
+        { "option_id": 2, "text": "Totally", "is_correct": false },
+        { "option_id": 3, "text": "Not", "is_correct": false },
+        { "option_id": 4, "text": "Always", "is_correct": false }
+      ],
+      "answer": "Partially"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The angle of incidence for which the angle of refraction is 90 degrees is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Refraction angle", "is_correct": false },
+        { "option_id": 2, "text": "Critical angle", "is_correct": true },
+        { "option_id": 3, "text": "Reflection angle", "is_correct": false },
+        { "option_id": 4, "text": "Dispersion angle", "is_correct": false }
+      ],
+      "answer": "Critical angle"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Total internal reflection occurs when the angle of incidence is ________ the critical angle.",
+      "options": [
+        { "option_id": 1, "text": "Less than", "is_correct": false },
+        { "option_id": 2, "text": "Equal to", "is_correct": false },
+        { "option_id": 3, "text": "Greater than", "is_correct": true },
+        { "option_id": 4, "text": "Half of", "is_correct": false }
+      ],
+      "answer": "Greater than"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Rainbow is the combined effect of refraction, dispersion, and ________.",
+      "options": [
+        { "option_id": 1, "text": "Partial reflection", "is_correct": false },
+        { "option_id": 2, "text": "Total internal reflection", "is_correct": true },
+        { "option_id": 3, "text": "Interference", "is_correct": false },
+        { "option_id": 4, "text": "Polarization", "is_correct": false }
+      ],
+      "answer": "Total internal reflection"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The wavelength of visible light is between ________.",
+      "options": [
+        { "option_id": 1, "text": "200 and 400 nm", "is_correct": false },
+        { "option_id": 2, "text": "400 and 700 nm", "is_correct": true },
+        { "option_id": 3, "text": "700 and 1000 nm", "is_correct": false },
+        { "option_id": 4, "text": "100 and 200 nm", "is_correct": false }
+      ],
+      "answer": "400 and 700 nm"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The emergent ray from a glass slab is ________ to the incident ray.",
+      "options": [
+        { "option_id": 1, "text": "Perpendicular", "is_correct": false },
+        { "option_id": 2, "text": "Parallel", "is_correct": true },
+        { "option_id": 3, "text": "Intersecting", "is_correct": false },
+        { "option_id": 4, "text": "Opposite", "is_correct": false }
+      ],
+      "answer": "Parallel"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Velocity of light is ________ in different media.",
+      "options": [
+        { "option_id": 1, "text": "Same", "is_correct": false },
+        { "option_id": 2, "text": "Different", "is_correct": true },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Infinite", "is_correct": false }
+      ],
+      "answer": "Different"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Snell's law relates the angle of incidence and angle of ________.",
+      "options": [
+        { "option_id": 1, "text": "Reflection", "is_correct": false },
+        { "option_id": 2, "text": "Refraction", "is_correct": true },
+        { "option_id": 3, "text": "Deviation", "is_correct": false },
+        { "option_id": 4, "text": "Emergence", "is_correct": false }
+      ],
+      "answer": "Refraction"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The absolute refractive index of air is approximately ________.",
+      "options": [
+        { "option_id": 1, "text": "1.33", "is_correct": false },
+        { "option_id": 2, "text": "1.5", "is_correct": false },
+        { "option_id": 3, "text": "1.0003", "is_correct": true },
+        { "option_id": 4, "text": "2.42", "is_correct": false }
+      ],
+      "answer": "1.0003"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The absolute refractive index of diamond is ________.",
+      "options": [
+        { "option_id": 1, "text": "1.52", "is_correct": false },
+        { "option_id": 2, "text": "2.42", "is_correct": true },
+        { "option_id": 3, "text": "1.36", "is_correct": false },
+        { "option_id": 4, "text": "1.63", "is_correct": false }
+      ],
+      "answer": "2.42"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "A ray of light gets ________ twice while passing through a glass slab.",
+      "options": [
+        { "option_id": 1, "text": "Reflected", "is_correct": false },
+        { "option_id": 2, "text": "Refracted", "is_correct": true },
+        { "option_id": 3, "text": "Dispersed", "is_correct": false },
+        { "option_id": 4, "text": "Diffracted", "is_correct": false }
+      ],
+      "answer": "Refracted"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Refractive index of a medium is the ratio of velocity of light in ________ to velocity in that medium.",
+      "options": [
+        { "option_id": 1, "text": "Vacuum", "is_correct": true },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "Glass", "is_correct": false },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ],
+      "answer": "Vacuum"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "In a glass slab experiment, angle of incidence i is equal to angle of ________.",
+      "options": [
+        { "option_id": 1, "text": "Refraction", "is_correct": false },
+        { "option_id": 2, "text": "Deviation", "is_correct": false },
+        { "option_id": 3, "text": "Emergence", "is_correct": true },
+        { "option_id": 4, "text": "Critical angle", "is_correct": false }
+      ],
+      "answer": "Emergence"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The apparent position of a star is slightly ________ than its actual position.",
+      "options": [
+        { "option_id": 1, "text": "Lower", "is_correct": false },
+        { "option_id": 2, "text": "Higher", "is_correct": true },
+        { "option_id": 3, "text": "Left", "is_correct": false },
+        { "option_id": 4, "text": "Right", "is_correct": false }
+      ],
+      "answer": "Higher"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Atmospheric refraction is caused by changing ________ of air.",
+      "options": [
+        { "option_id": 1, "text": "Volume", "is_correct": false },
+        { "option_id": 2, "text": "Color", "is_correct": false },
+        { "option_id": 3, "text": "Refractive index", "is_correct": true },
+        { "option_id": 4, "text": "Mass", "is_correct": false }
+      ],
+      "answer": "Refractive index"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "The frequency of light ________ when passing from one medium to another.",
+      "options": [
+        { "option_id": 1, "text": "Increases", "is_correct": false },
+        { "option_id": 2, "text": "Decreases", "is_correct": false },
+        { "option_id": 3, "text": "Remains same", "is_correct": true },
+        { "option_id": 4, "text": "Becomes zero", "is_correct": false }
+      ],
+      "answer": "Remains same"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which colour bends the least in a prism?",
+      "options": [
+        { "option_id": 1, "text": "Violet", "is_correct": false },
+        { "option_id": 2, "text": "Green", "is_correct": false },
+        { "option_id": 3, "text": "Red", "is_correct": true },
+        { "option_id": 4, "text": "Blue", "is_correct": false }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Total internal reflection takes place when light goes from ________ medium.",
+      "options": [
+        { "option_id": 1, "text": "Rarer to Denser", "is_correct": false },
+        { "option_id": 2, "text": "Denser to Rarer", "is_correct": true },
+        { "option_id": 3, "text": "Rarer to Rarer", "is_correct": false },
+        { "option_id": 4, "text": "Denser to Denser", "is_correct": false }
+      ],
+      "answer": "Denser to Rarer"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "A coin in a water vessel appears to reflect because of ________.",
+      "options": [
+        { "option_id": 1, "text": "Reflection", "is_correct": false },
+        { "option_id": 2, "text": "Refraction", "is_correct": true },
+        { "option_id": 3, "text": "Dispersion", "is_correct": false },
+        { "option_id": 4, "text": "Scattering", "is_correct": false }
+      ],
+      "answer": "Refraction"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The refractive index of water is ________.",
+      "options": [
+        { "option_id": 1, "text": "1.00", "is_correct": false },
+        { "option_id": 2, "text": "1.33", "is_correct": true },
+        { "option_id": 3, "text": "1.50", "is_correct": false },
+        { "option_id": 4, "text": "2.42", "is_correct": false }
+      ],
+      "answer": "1.33"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "For total internal reflection, angle of incidence must be greater than ________.",
+      "options": [
+        { "option_id": 1, "text": "Angle of refraction", "is_correct": false },
+        { "option_id": 2, "text": "Critical angle", "is_correct": true },
+        { "option_id": 3, "text": "90 degrees", "is_correct": false },
+        { "option_id": 4, "text": "45 degrees", "is_correct": false }
+      ],
+      "answer": "Critical angle"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "At critical angle, the angle of refraction is ________.",
+      "options": [
+        { "option_id": 1, "text": "0 degrees", "is_correct": false },
+        { "option_id": 2, "text": "45 degrees", "is_correct": false },
+        { "option_id": 3, "text": "90 degrees", "is_correct": true },
+        { "option_id": 4, "text": "180 degrees", "is_correct": false }
+      ],
+      "answer": "90 degrees"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "In a rainbow, water droplets act as ________.",
+      "options": [
+        { "option_id": 1, "text": "Mirrors", "is_correct": false },
+        { "option_id": 2, "text": "Prisms", "is_correct": true },
+        { "option_id": 3, "text": "Lenses", "is_correct": false },
+        { "option_id": 4, "text": "Slabs", "is_correct": false }
+      ],
+      "answer": "Prisms"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Hot air is ________ than cool air.",
+      "options": [
+        { "option_id": 1, "text": "Denser", "is_correct": false },
+        { "option_id": 2, "text": "Rarer", "is_correct": true },
+        { "option_id": 3, "text": "Heavier", "is_correct": false },
+        { "option_id": 4, "text": "Darker", "is_correct": false }
+      ],
+      "answer": "Rarer"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "The refractive index of hot air is ________ than cool air.",
+      "options": [
+        { "option_id": 1, "text": "Higher", "is_correct": false },
+        { "option_id": 2, "text": "Lower", "is_correct": true },
+        { "option_id": 3, "text": "Equal", "is_correct": false },
+        { "option_id": 4, "text": "Constant", "is_correct": false }
+      ],
+      "answer": "Lower"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "The spectrum of white light consists of ________ colours.",
+      "options": [
+        { "option_id": 1, "text": "5", "is_correct": false },
+        { "option_id": 2, "text": "6", "is_correct": false },
+        { "option_id": 3, "text": "7", "is_correct": true },
+        { "option_id": 4, "text": "8", "is_correct": false }
+      ],
+      "answer": "7"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "During dispersion, which colour bends the most?",
+      "options": [
+        { "option_id": 1, "text": "Red", "is_correct": false },
+        { "option_id": 2, "text": "Green", "is_correct": false },
+        { "option_id": 3, "text": "Violet", "is_correct": true },
+        { "option_id": 4, "text": "Yellow", "is_correct": false }
+      ],
+      "answer": "Violet"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which phenomenon is responsible for the formation of a rainbow?",
+      "options": [
+        { "option_id": 1, "text": "Only reflection", "is_correct": false },
+        { "option_id": 2, "text": "Only refraction", "is_correct": false },
+        { "option_id": 3, "text": "Refraction, Dispersion, and Total Internal Reflection", "is_correct": true },
+        { "option_id": 4, "text": "Interference", "is_correct": false }
+      ],
+      "answer": "Refraction, Dispersion, and Total Internal Reflection"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The speed of light in vacuum is ________ m/s.",
+      "options": [
+        { "option_id": 1, "text": "3 x 10^8", "is_correct": true },
+        { "option_id": 2, "text": "3 x 10^6", "is_correct": false },
+        { "option_id": 3, "text": "3 x 10^5", "is_correct": false },
+        { "option_id": 4, "text": "3 x 10^10", "is_correct": false }
+      ],
+      "answer": "3 x 10^8"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which of these is used to define Refractive Index n?",
+      "options": [
+        { "option_id": 1, "text": "sin i / sin r", "is_correct": true },
+        { "option_id": 2, "text": "sin r / sin i", "is_correct": false },
+        { "option_id": 3, "text": "cos i / cos r", "is_correct": false },
+        { "option_id": 4, "text": "tan i / tan r", "is_correct": false }
+      ],
+      "answer": "sin i / sin r"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is refraction of light?",
+      "answer": "Light changes its direction when going from one transparent medium to another transparent medium. This is called the refraction of light."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Define refractive index.",
+      "answer": "Refractive index is a measure of the bending of a light ray when passing from one medium to another, defined as the ratio of sin i to sin r."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "State Snell's Law.",
+      "answer": "Snell's Law states that for a given pair of media, the ratio of sin i to sin r is a constant."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is absolute refractive index?",
+      "answer": "The refractive index of a medium with respect to vacuum is called its absolute refractive index."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why does a pencil appear broken in water?",
+      "answer": "A pencil appears broken in water due to the refraction of light as it travels from water to air."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What happens to a light ray entering a denser medium from a rarer medium?",
+      "answer": "It bends towards the normal."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What happens to a light ray entering a rarer medium from a denser medium?",
+      "answer": "It bends away from the normal."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the angle of refraction when the angle of incidence is 0?",
+      "answer": "The angle of refraction is 0 degrees."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Define dispersion of light.",
+      "answer": "The process of separation of light into its component colours while passing through a medium is called the dispersion of light."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "List the colours of the spectrum in order.",
+      "answer": "Violet, Indigo, Blue, Green, Yellow, Orange, Red."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is total internal reflection?",
+      "answer": "When a light ray traveling from a denser to a rarer medium is incident at an angle greater than the critical angle, it gets reflected back into the denser medium. This is called total internal reflection."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Define critical angle.",
+      "answer": "The critical angle is the angle of incidence in the denser medium for which the angle of refraction in the rarer medium is 90 degrees."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is a mirage?",
+      "answer": "A mirage is an optical illusion caused by atmospheric refraction where light rays bend to produce an image of a distant object as if reflected in water."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why do stars twinkle?",
+      "answer": "Stars twinkle due to the changing refractive index of the atmosphere, which causes the apparent position and brightness of the star to fluctuate."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why don't planets twinkle?",
+      "answer": "Planets are closer to Earth and appear as extended sources of light, averaging out the atmospheric fluctuations, so they don't twinkle."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What causes early sunrise and delayed sunset?",
+      "answer": "Atmospheric refraction bends sunlight, making the Sun visible even when it is slightly below the horizon."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of air?",
+      "answer": "The refractive index of air is approximately 1.0003."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of water?",
+      "answer": "The refractive index of water is 1.33."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of diamond?",
+      "answer": "The refractive index of diamond is 2.42."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Write the formula for refractive index of medium 2 with respect to medium 1.",
+      "answer": "n21 = v1 / v2"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Does light travel faster in glass or air?",
+      "answer": "Light travels faster in air."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Who discovered the dispersion of light?",
+      "answer": "Sir Isaac Newton discovered the dispersion of light."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is a spectrum?",
+      "answer": "A spectrum is the band of colored components of a light beam."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is partial reflection?",
+      "answer": "When light enters a rarer medium from a denser medium, part of it gets reflected back into the denser medium. This is called partial reflection."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What acts as a prism in the formation of a rainbow?",
+      "answer": "Small water droplets act as prisms in the formation of a rainbow."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why does the sun appear reddish at sunrise?",
+      "answer": "Though not explicitly in text, implied by atmospheric effects: Light travels a longer distance through the atmosphere, scattering shorter wavelengths."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "In a glass slab, which two rays are parallel?",
+      "answer": "The incident ray and the emergent ray are parallel."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the unit of refractive index?",
+      "answer": "Refractive index has no unit as it is a ratio of similar quantities."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How does refractive index relate to density?",
+      "answer": "Generally, optically denser media have a higher refractive index."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the speed of light in vacuum?",
+      "answer": "The speed of light in vacuum is 3 x 10^8 m/s."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why does a coin in water appear raised?",
+      "answer": "Due to refraction, light rays from the coin bend away from the normal, creating a virtual image at a higher position."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What happens to the velocity of light in a denser medium?",
+      "answer": "The velocity of light decreases in a denser medium."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is the wavelength range of visible light?",
+      "answer": "The wavelength range of visible light is 400 nm to 700 nm."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Define 1 nanometer.",
+      "answer": "1 nanometer is equal to 10^-9 meters."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which colour of light has the shortest wavelength?",
+      "answer": "Violet light has the shortest wavelength (close to 400 nm)."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Which colour of light has the longest wavelength?",
+      "answer": "Red light has the longest wavelength (close to 700 nm)."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why do stars appear higher than they actually are?",
+      "answer": "Due to atmospheric refraction, starlight bends towards the normal as it enters denser layers of the atmosphere."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is the condition for total internal reflection regarding refractive indices?",
+      "answer": "Light must travel from a medium with a higher refractive index to a medium with a lower refractive index."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What does a prism do to white light?",
+      "answer": "A prism disperses white light into its constituent colours."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Can you see a rainbow on a sunny day without rain?",
+      "answer": "Yes, if you look at a waterfall or water fountain with the sun behind you."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Is the refractive index of red light the same as violet light in glass?",
+      "answer": "No, the refractive index is different for different colours; it is higher for violet than for red."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What happens to the frequency of light during refraction?",
+      "answer": "The frequency of light remains constant during refraction."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What changes during refraction: speed, frequency, or wavelength?",
+      "answer": "Speed and wavelength change during refraction."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the relation between critical angle and refractive index?",
+      "answer": "n = 1 / sin(i_c), where i_c is the critical angle."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why does hot air cause a mirage?",
+      "answer": "Hot air is rarer than cool air, causing light to bend away from the normal, leading to total internal reflection-like effects."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is the normal in the context of refraction?",
+      "answer": "The normal is an imaginary line perpendicular to the surface at the point of incidence."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Does refraction occur in a vacuum?",
+      "answer": "No, refraction requires a material medium to change the speed of light."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the 'incident ray'?",
+      "answer": "The ray of light falling on the surface separating two media is the incident ray."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the 'refracted ray'?",
+      "answer": "The ray of light that travels into the second medium with a change in direction is the refracted ray."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the 'emergent ray'?",
+      "answer": "The ray of light that comes out of the second medium into the original medium (e.g., out of a glass slab) is the emergent ray."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "If n=1.5 for glass, what is the speed of light in glass?",
+      "answer": "v = c/n = (3 x 10^8) / 1.5 = 2 x 10^8 m/s."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is the emergent ray parallel to the incident ray in a glass slab?",
+      "answer": "Because the bending at the first surface is exactly reversed at the second parallel surface."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is 'i' in Snell's law?",
+      "answer": "'i' represents the angle of incidence."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is 'r' in Snell's law?",
+      "answer": "'r' represents the angle of refraction."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Can refractive index be less than 1?",
+      "answer": "Absolute refractive index cannot be less than 1, as speed of light in vacuum is maximum."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which medium is optically rarer: Water or Glass?",
+      "answer": "Water (n=1.33) is optically rarer than Glass (n~1.5)."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is the effect of atmospheric refraction on the length of the day?",
+      "answer": "It increases the length of the day by about 4 minutes (2 mins sunrise + 2 mins sunset)."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why does a swimming pool appear shallower than it is?",
+      "answer": "Because light from the bottom refracts away from the normal, creating a virtual image higher up."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What does a rainbow look like?",
+      "answer": "It appears as a semicircular arc of seven colours in the sky."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Where must the sun be to see a rainbow?",
+      "answer": "The sun must be behind the observer."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What property of light causes dispersion?",
+      "answer": "The dependence of the velocity of light (and thus refractive index) on its wavelength/colour."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Define 'optical density'.",
+      "answer": "Optical density is the property of a medium that determines the speed of light in it; higher density means lower speed."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "If angle i = 0, what is angle r?",
+      "answer": "Angle r = 0."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What happens to the intensity of light during partial reflection?",
+      "answer": "The intensity of the refracted ray is less than the incident ray because some light is reflected."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Is the critical angle the same for all media pairs?",
+      "answer": "No, it depends on the refractive indices of the two media."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Calculate refractive index if v1 = 2 x 10^8 and v2 = 1.5 x 10^8.",
+      "answer": "n21 = 2/1.5 = 1.33."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of Ice?",
+      "answer": "The refractive index of ice is 1.31."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of Alcohol?",
+      "answer": "The refractive index of Alcohol is 1.36."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of Kerosene?",
+      "answer": "The refractive index of Kerosene is 1.39."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of Benzene?",
+      "answer": "The refractive index of Benzene is 1.50."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of Rock salt?",
+      "answer": "The refractive index of Rock salt is 1.54."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of Carbon disulphide?",
+      "answer": "The refractive index of Carbon disulphide is 1.63."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of Ruby?",
+      "answer": "The refractive index of Ruby is 1.76."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of Sapphire?",
+      "answer": "The refractive index of Sapphire is 1.76."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why do objects above a fire appear to shake?",
+      "answer": "Due to the changing refractive index of the hot air rising above the fire."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Does light travel in a straight line in the atmosphere?",
+      "answer": "Not strictly; it bends due to varying atmospheric density (refraction)."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What are the three processes involved in a rainbow?",
+      "answer": "Refraction, Dispersion, and Total Internal Reflection."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "If n_glass = 1.5, what is the critical angle roughly?",
+      "answer": "sin(c) = 1/1.5 = 0.66, so c is approx 41.8 degrees."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is a 'rarer medium'?",
+      "answer": "A medium in which the speed of light is higher."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is a 'denser medium'?",
+      "answer": "A medium in which the speed of light is lower."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "How do you calculate absolute refractive index n?",
+      "answer": "n = c / v, where c is speed in vacuum and v is speed in medium."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Which law is also known as Snell's law?",
+      "answer": "The second law of refraction."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What happens to the emergent ray relative to the incident ray?",
+      "answer": "It is displaced laterally."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why is the sky blue? (Reference Book)",
+      "answer": "Refer to C.V. Raman's works; due to scattering of sunlight."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Does refractive index depend on the color of light?",
+      "answer": "Yes, refractive index varies with wavelength/color."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Can total internal reflection happen from Air to Water?",
+      "answer": "No, it only happens from Denser (Water) to Rarer (Air)."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is the main cause of refraction?",
+      "answer": "The change in the velocity of light in different media."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "If velocity in medium 1 is v1 and medium 2 is v2, what is n21?",
+      "answer": "n21 = v1 / v2."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "If velocity in medium 1 is v1 and medium 2 is v2, what is n12?",
+      "answer": "n12 = v2 / v1."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of vacuum?",
+      "answer": "It is exactly 1."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why does a lemon kept in water appear larger?",
+      "answer": "Due to the refraction of light."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of Turpentine oil?",
+      "answer": "1.47"
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of Fused Quartz?",
+      "answer": "1.46"
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of Crown glass?",
+      "answer": "1.52"
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is the refractive index of Dense flint glass?",
+      "answer": "1.66"
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why does light split in a prism?",
+      "answer": "Because different colors travel at different speeds in glass and bend by different amounts."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "In the glass slab exp., is angle i = angle e?",
+      "answer": "Yes, angle of incidence equals angle of emergence."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is the path of light in a homogeneous medium?",
+      "answer": "It is a straight line."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What phenomenon makes a diamond sparkle?",
+      "answer": "Total internal reflection."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Can you see a rainbow at noon?",
+      "answer": "No, because the sun needs to be lower in the sky (behind you) to refract light into your eyes."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the laws of refraction of light.",
+      "answer": "There are two main laws of refraction: 1. The incident ray, the refracted ray, and the normal to the interface of two transparent media at the point of incidence, all lie in the same plane. The incident ray and the refracted ray are on opposite sides of the normal. 2. Snell's Law: For a given pair of media, the ratio of the sine of the angle of incidence to the sine of the angle of refraction is a constant. This constant is the refractive index of the second medium with respect to the first (sin i / sin r = n)."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe the refraction of light through a glass slab with a diagram.",
+      "answer": "When a light ray enters a rectangular glass slab from air, it bends towards the normal at the first interface (air to glass) because it enters a denser medium. The angle of refraction (r) is less than the angle of incidence (i). When the ray leaves the slab at the second interface (glass to air), it bends away from the normal. The angle of emergence (e) is equal to the angle of incidence (i). The emergent ray is parallel to the incident ray but is laterally displaced. (Diagram description: A rectangular box representing glass, with a ray entering at an angle, bending, traveling through, and exiting parallel to the entry path)."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Define refractive index and explain absolute refractive index.",
+      "answer": "Refractive index is a physical quantity that measures how much a light ray bends when passing from one medium to another. It depends on the relative speed of light in the two media. The refractive index of medium 2 with respect to medium 1 is n21 = v1/v2. If the first medium is vacuum, the refractive index of the second medium is called its Absolute Refractive Index (n). It is given by n = c/v, where c is the speed of light in vacuum and v is the speed in the medium."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain the twinkling of stars.",
+      "answer": "Stars are distant point sources of light. As starlight enters the Earth's atmosphere, it undergoes refraction. The atmosphere has changing density and temperature, which causes the refractive index to fluctuate continuously. Consequently, the path of the light rays changes, and the apparent position of the star shifts slightly. The amount of light reaching our eyes also varies, causing the star to appear bright at one moment and dim the next. This effect is called twinkling."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Why do planets not twinkle?",
+      "answer": "Planets are much closer to Earth than stars and appear as extended sources of light rather than point sources. They can be considered as a collection of a large number of point sources. While the light from individual point sources may fluctuate due to atmospheric refraction, the average intensity of light reaching our eyes from the entire planet remains constant. The fluctuations cancel out, so planets do not appear to twinkle."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Explain the formation of a mirage.",
+      "answer": "A mirage is an optical illusion observed in hot deserts or on roads during summer. The air near the ground becomes hotter and rarer than the air above it. As light from a distant object (like a tree) travels towards the ground, it passes from denser to rarer layers. It bends away from the normal. At a certain angle, total internal reflection occurs, and the light bends upwards. To an observer, the light appears to come from the ground, creating an inverted image that looks like a reflection in water."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain the phenomenon of dispersion of light with a glass prism.",
+      "answer": "Dispersion is the splitting of white light into its component seven colours. When a beam of white light enters a glass prism, it refracts. Since the refractive index of glass is different for different colours (wavelengths), each colour bends by a different amount. Violet light bends the most, and red light bends the least. This separation results in a spectrum of colours: Violet, Indigo, Blue, Green, Yellow, Orange, and Red, emerging from the prism."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Explain Total Internal Reflection.",
+      "answer": "Total Internal Reflection occurs when light travels from a denser medium to a rarer medium. When the angle of incidence (i) is greater than the Critical Angle (ic), the light does not refract into the rarer medium. Instead, it reflects entirely back into the denser medium. This phenomenon obeys the laws of reflection. The critical angle is the angle of incidence for which the angle of refraction is 90 degrees."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "How is a rainbow formed?",
+      "answer": "A rainbow is a natural spectrum appearing in the sky after a rain shower. It is caused by the combined effects of dispersion, refraction, and total internal reflection of sunlight by tiny water droplets. Sunlight enters a water droplet, refracts and disperses into colours. It then reflects internally at the back surface of the droplet. Finally, it refracts again as it exits the droplet. This process separates the light into colours which reach the observer's eye as a rainbow."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Derive the relation between critical angle and refractive index.",
+      "answer": "Consider light going from a denser medium (1) to a rarer medium (2). According to Snell's law, n1 * sin(i) = n2 * sin(r). For the critical angle, i = ic and r = 90 degrees. So, n1 * sin(ic) = n2 * sin(90). Since sin(90) = 1, we get sin(ic) = n2 / n1. If medium 2 is air (n2 = 1) and medium 1 has index n, then sin(ic) = 1 / n, or n = 1 / sin(ic)."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain advanced sunrise and delayed sunset.",
+      "answer": "The Sun is visible about 2 minutes before actual sunrise and 2 minutes after actual sunset due to atmospheric refraction. When the Sun is slightly below the horizon, light rays coming from it travel from vacuum into the Earth's atmosphere. The atmosphere is denser near the surface, so rays bend towards the normal (towards the observer). This bending causes the apparent position of the Sun to be higher than its actual position, making it visible while still below the horizon."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Describe an experiment to demonstrate the refraction of light using a coin.",
+      "answer": "Place a coin in a bowl. Move back until the coin just disappears from view. This happens because light rays from the coin travel in a straight line and are blocked by the rim of the bowl. Now, ask a friend to pour water into the bowl without disturbing the coin. The coin becomes visible again. This is because light from the coin refracts (bends) at the water-air interface, changing direction towards your eye. The coin appears raised to a position where it is visible."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Prove that if the angle of incidence and angle of emergence of a light ray falling on a glass slab are i and e respectively, then i = e.",
+      "answer": "Let light travel from air to glass and back to air. At the first interface, n_glass = sin i / sin r. At the second interface, the ray goes from glass to air. The angle of incidence inside glass is r' (which equals r due to parallel sides) and angle of emergence is e. So, refractive index of air w.r.t glass is sin r / sin e. We know n_air_glass = 1 / n_glass_air. Therefore, sin r / sin e = 1 / (sin i / sin r) = sin r / sin i. This implies sin e = sin i, so i = e."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Why does a stick partly immersed in water appear bent?",
+      "answer": "A stick partly immersed in water appears bent at the water surface due to refraction. Light rays coming from the submerged part of the stick travel from water (denser) to air (rarer). They bend away from the normal at the surface. When these rays reach the eye, they appear to come from a point higher than the actual position of the stick. This virtual image of the submerged part makes the stick look bent and raised."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Explain the concept of optical density.",
+      "answer": "Optical density is a property of a medium that determines its ability to refract light. It is related to the speed of light in that medium. A medium with higher optical density (optically denser) slows down light more than a medium with lower optical density (optically rarer). Optical density is not the same as mass density. For example, kerosene has lower mass density than water but higher optical density (refractive index)."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Calculate the speed of light in water if the refractive index of water is 1.33. (Speed of light in vacuum = 3 x 10^8 m/s).",
+      "answer": "Given: Refractive index of water (n) = 1.33, Speed of light in vacuum (c) = 3 x 10^8 m/s. Formula: n = c / v. Therefore, v = c / n. Calculation: v = (3 x 10^8) / 1.33. v = 2.25 x 10^8 m/s. So, the speed of light in water is approximately 2.25 x 10^8 m/s."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Light travels from air to glass. The angle of incidence is 45 degrees and the angle of refraction is 30 degrees. Calculate the refractive index of glass.",
+      "answer": "Given: Angle of incidence (i) = 45 degrees, Angle of refraction (r) = 30 degrees. Formula: Snell's Law, n = sin i / sin r. Calculation: n = sin(45) / sin(30). We know sin(45) = 1/sqrt(2) approx 0.707, and sin(30) = 0.5. So, n = 0.707 / 0.5 = 1.414. The refractive index of glass is approximately 1.41."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Explain why light does not bend when incident normally on a surface.",
+      "answer": "When a light ray is incident normally on a surface separating two media, the angle of incidence (i) is 0 degrees. According to Snell's Law, n = sin i / sin r. If sin i = sin 0 = 0, then sin r must also be 0 (since n is not zero). Therefore, r = 0 degrees. This means the refracted ray travels along the normal, i.e., in a straight line without bending. The speed changes, but the direction does not."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "What is partial reflection and refraction? Explain with a diagram.",
+      "answer": "When a light ray travels from one medium to another (e.g., air to glass), not all light enters the second medium. A small portion of the light bounces back into the first medium from the interface; this is partial reflection. The remaining major portion enters the second medium and bends; this is refraction. A diagram would show an incident ray splitting at the interface into a reflected ray (following reflection laws) and a refracted ray (following refraction laws)."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Why does the position of a star appear slightly different from its actual position?",
+      "answer": "The atmosphere consists of layers of air with varying densities. As starlight enters the atmosphere, it travels from rarer layers to denser layers near the surface. It continuously bends towards the normal. The observer on Earth sees the light coming from the direction of the final refracted ray. Extending this ray backwards traces the apparent position, which is slightly higher than the actual position of the star."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Discuss the dependency of refractive index on the wavelength of light.",
+      "answer": "The refractive index of a medium is not constant for all colours of light. It depends on the wavelength (or frequency). In a dispersive medium like glass, the speed of light varies with wavelength. Violet light (shorter wavelength) travels slower than red light (longer wavelength). Since n = c/v, the refractive index is higher for violet light and lower for red light. This causes different colours to bend by different amounts, leading to dispersion."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "How is a rainbow formed? Explain the role of water droplets.",
+      "answer": "A rainbow is formed when sunlight interacts with raindrops. The water droplets act like tiny prisms. 1. Refraction & Dispersion: Sunlight enters a droplet, refracts (bends), and disperses into 7 colours. 2. Total Internal Reflection: The dispersed light hits the back of the droplet. If the angle is greater than the critical angle, it reflects internally. 3. Refraction: The light refracts again as it exits the droplet. This separates the colours further, forming a rainbow visible to an observer with their back to the sun."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Apparent Depth'.",
+      "answer": "Apparent depth is an optical illusion where an object submerged in a denser medium appears closer to the surface than it actually is. This is due to refraction. Light rays from the object travel from the denser medium (e.g., water) to the rarer medium (e.g., air) and bend away from the normal. When these diverging rays reach the eye, they appear to originate from a virtual image located above the real object. The relationship is roughly Real Depth / Apparent Depth = Refractive Index."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Why is the refractive index of diamond high?",
+      "answer": "The refractive index of diamond is 2.42, which is very high. This means the speed of light in diamond is much slower than in air (v = c/2.42). The high optical density is due to the tight atomic bonding and crystal structure of diamond. This high refractive index results in a small critical angle (about 24 degrees), promoting total internal reflection, which gives diamond its brilliance and sparkle."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Compare refraction and reflection.",
+      "answer": "Reflection is the bouncing back of light into the same medium when it hits a surface. Angle of incidence equals angle of reflection (i=r). Refraction is the bending of light when it passes from one medium to another. Angle of incidence does not equal angle of refraction (unless i=0). Reflection happens at mirrors; refraction happens at lenses or interfaces. Speed of light changes in refraction but stays constant in reflection."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "A light ray enters from air to water (n=1.33). If the angle of incidence is 60 degrees, find the angle of refraction.",
+      "answer": "Given: n = 1.33, i = 60 degrees. Formula: n = sin i / sin r. So, sin r = sin i / n. sin r = sin(60) / 1.33. sin(60) is approx 0.866. sin r = 0.866 / 1.33 = 0.651. r = arcsin(0.651). The angle of refraction r is approximately 40.6 degrees."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Why do stars twinkle but planets do not? Explain.",
+      "answer": "Stars are far away and act as point sources. Atmospheric refraction changes the path of their single ray of light, causing the apparent position to jitter and intensity to fluctuate, seen as twinkling. Planets are closer and act as extended sources (many points). Fluctuations from different points on a planet cancel each other out—if one point dims, another brightens or shifts oppositely. Thus, the average light and position remain steady."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "What is the difference between relative and absolute refractive index?",
+      "answer": "Absolute refractive index (n) is the ratio of the speed of light in a vacuum to the speed of light in a medium (n = c/v). It is always greater than 1. Relative refractive index (n21) is the ratio of the speed of light in medium 1 to the speed of light in medium 2 (n21 = v1/v2). It can be less than, equal to, or greater than 1. n21 = n2 / n1."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Explain the role of atmosphere in refraction effects.",
+      "answer": "The atmosphere acts as a medium with varying optical density. Density changes with altitude (decreasing upwards) and temperature (hot air is rarer). This gradient causes light to bend continuously rather than in straight lines. This atmospheric refraction is responsible for phenomena like the twinkling of stars, advanced sunrise, delayed sunset, mirages, and the flattening of the sun's disc at the horizon."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Calculate the critical angle for a glass-air interface if the refractive index of glass is 1.5.",
+      "answer": "The formula for critical angle (ic) is sin(ic) = 1/n. Here n = 1.5. sin(ic) = 1 / 1.5 = 0.6667. ic = arcsin(0.6667). From trigonometric tables, arcsin(0.6667) is approximately 41.8 degrees. So, the critical angle for glass is about 41.8 degrees."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Describe the experiment to trace the path of rays through a glass prism.",
+      "answer": "Place a prism on paper. Draw the outline. Draw a normal and an incident ray at an angle. Place pins on the incident ray. Look through the other face of the prism to align new pins with the images of the first pins. Draw the emergent ray through these new pins. Join the points on the prism surfaces to show the refracted ray inside. You will see the ray bends towards the base. Measuring angles shows i + e = A + d (where A is prism angle, d is deviation)."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Why does a pencil look bent in water but straight in kerosene if they have different refractive indices?",
+      "answer": "Actually, a pencil will look bent in both water and kerosene, but the amount of bending will differ. The question implies a comparison. Kerosene (n=1.44) is optically denser than water (n=1.33). The pencil will appear MORE bent in kerosene because the light bends more at the kerosene-air interface than at the water-air interface due to the higher refractive index difference."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Explain the reversibility of light using refraction.",
+      "answer": "The principle of reversibility states that if the direction of a light ray is reversed, it retraces its path. In refraction, if a ray goes from medium 1 to 2 with angles i and r, then Snell's law is sin i / sin r = n21. If light is sent back from medium 2 at angle r, it will emerge into medium 1 at angle i. Then sin r / sin i = n12. This shows that n12 = 1/n21, confirming reversibility."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "How does the speed of light determine the bending direction?",
+      "answer": "Light bends to minimize the time taken to travel. When entering a denser medium where speed is lower (v2 < v1), light bends towards the normal to take a shorter path through the slow medium. When entering a rarer medium where speed is higher (v2 > v1), it bends away from the normal, covering more distance in the fast medium. This behavior is consistent with Fermat's Principle of Least Time."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Discuss the applications of Total Internal Reflection.",
+      "answer": "1. Optical Fibers: Light signals travel long distances with minimal loss by repeatedly undergoing TIR inside the fiber core. Used in telecommunications and medical endoscopes. 2. Prisms in Binoculars/Periscopes: 90-degree prisms use TIR to reflect light by 90 or 180 degrees, acting as perfect mirrors. 3. Brilliance of Diamonds: Cut diamonds trap light via TIR, making them sparkle."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Why does violet light deviate more than red light in a prism?",
+      "answer": "The speed of light in a medium depends on its wavelength. In glass, shorter wavelengths (violet) travel slower than longer wavelengths (red). Since refractive index n = c/v, the index for violet is higher than for red (n_v > n_r). According to Snell's law, a higher refractive index causes more bending. Therefore, violet light bends (deviates) more than red light."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "If the speed of light in a medium is 1.5 x 10^8 m/s, what is its refractive index?",
+      "answer": "Given: Speed in medium (v) = 1.5 x 10^8 m/s. Speed in vacuum (c) = 3 x 10^8 m/s. Formula: n = c / v. Calculation: n = (3 x 10^8) / (1.5 x 10^8) = 2. Therefore, the absolute refractive index of the medium is 2."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Explain the term 'lateral displacement' in a glass slab.",
+      "answer": "Lateral displacement is the perpendicular distance between the incident ray and the emergent ray when light passes through a parallel-sided glass slab. Although the emergent ray is parallel to the incident ray (because the bending at the first surface is cancelled by the second), it is shifted sideways. The extent of displacement depends on the thickness of the slab, the angle of incidence, and the refractive index of the glass."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Can refraction occur with sound waves? Explain.",
+      "answer": "Yes, refraction is a general wave phenomenon and occurs with sound waves too. When sound travels between layers of air with different temperatures (and thus different densities), its speed changes, causing it to bend. This is why sound can sometimes be heard over long distances at night (refracting downwards in cool air) or bend upwards during the day."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Describe the factors affecting the angle of deviation in a prism.",
+      "answer": "The angle of deviation (delta) depends on: 1. The angle of incidence (i). 2. The material of the prism (refractive index n). Higher n means higher deviation. 3. The angle of the prism (A). Larger A means higher deviation. 4. The colour (wavelength) of light. Violet deviates more than red."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Why is the sky dark for an astronaut?",
+      "answer": "On Earth, the sky appears blue due to the scattering of sunlight by the atmosphere. In space, there is no atmosphere to scatter light. Without scattering, the sky appears black, even when the sun is shining. Refraction and scattering are atmospheric phenomena absent in the vacuum of space."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "If the refractive index of water is 4/3 and glass is 3/2, find the refractive index of glass w.r.t water.",
+      "answer": "Given: n_w = 4/3, n_g = 3/2. We need n_gw (glass w.r.t water). Formula: n_gw = n_g / n_w. Calculation: n_gw = (3/2) / (4/3) = (3/2) * (3/4) = 9/8 = 1.125. The refractive index of glass with respect to water is 1.125."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Cold air' and 'Hot air' in the context of Mirage.",
+      "answer": "In a desert, the sand gets very hot, heating the air just above it. This 'hot air' expands and becomes less dense (rarer, lower refractive index). The air higher up is relatively 'cool air' and denser (higher refractive index). Light from a distant object travels from the denser cool air to the rarer hot air layers. It continuously bends away from the normal until TIR occurs, creating the mirage."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "How does the refractive index relate to the 'bending capacity' of a medium?",
+      "answer": "The refractive index is a direct measure of the bending capacity. A higher refractive index means the medium is optically denser and slows light down more. This results in a greater change in direction (bending) when light enters it from air. For example, diamond (n=2.42) bends light much more than water (n=1.33)."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Why is the refractive index unitless?",
+      "answer": "Refractive index (n) is defined as the ratio of two speeds: the speed of light in vacuum (or medium 1) to the speed of light in medium 2. Since it is a ratio of two quantities with the same unit (meters per second), the units cancel out. Therefore, refractive index is a dimensionless pure number."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Discuss the history of understanding light refraction.",
+      "answer": "The phenomenon was known to ancients like Ptolemy, but the correct mathematical law was discovered much later. Willebrord Snellius (Snell) derived the law of refraction in 1621. Isaac Newton later used prisms to show white light is composed of colours. Understanding refraction led to the development of lenses, telescopes, and microscopes, revolutionizing science."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "What is the relation between real depth and apparent depth?",
+      "answer": "When an object in a denser medium is viewed from a rarer medium, it appears raised. The relation is: Refractive Index (n) = Real Depth / Apparent Depth. For example, if a pool is 4 meters deep and n=1.33, the apparent depth is 4 / 1.33 = 3 meters. This formula is derived from Snell's law for small angles."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "If light enters a medium and its speed reduces by 50%, what is the refractive index?",
+      "answer": "Let speed in vacuum be c. Speed in medium v = c - 0.5c = 0.5c. Formula: n = c / v. Calculation: n = c / (0.5c) = 1 / 0.5 = 2. The refractive index of the medium is 2."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Why do diamonds shine more than glass cut in the same shape?",
+      "answer": "Diamond has a much higher refractive index (2.42) than glass (1.5). This gives diamond a much smaller critical angle (24 deg) compared to glass (42 deg). Light entering a diamond is much more likely to undergo Total Internal Reflection multiple times before exiting. This trapping and concentration of light creates the brilliant sparkle that glass cannot match."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize the effects of atmospheric refraction.",
+      "answer": "Atmospheric refraction is responsible for several optical phenomena: 1. Twinkling of stars (due to fluctuations). 2. Advanced sunrise and delayed sunset (extending daylight). 3. Flattening of the Sun's disc at the horizon. 4. Stars appearing higher than they are. 5. Mirages and looming effects. All these result from light bending as it passes through air layers of different densities."
+    }
+  ]
+}

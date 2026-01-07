@@ -1,0 +1,491 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.24",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "There's a hole in the bucket !"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who are the two characters in the song?",
+      "options": [
+        { "option_id": 1, "text": "Jack and Jill", "is_correct": false },
+        { "option_id": 2, "text": "Henry and Liza", "is_correct": true },
+        { "option_id": 3, "text": "Molai and Jadav", "is_correct": false },
+        { "option_id": 4, "text": "John and Mary", "is_correct": false }
+      ],
+      "answer": "Henry and Liza"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the primary problem mentioned at the start of the song?",
+      "options": [
+        { "option_id": 1, "text": "The bucket is missing", "is_correct": false },
+        { "option_id": 2, "text": "The water is dirty", "is_correct": false },
+        { "option_id": 3, "text": "There's a hole in the bucket", "is_correct": true },
+        { "option_id": 4, "text": "The well is dry", "is_correct": false }
+      ],
+      "answer": "There's a hole in the bucket"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does Liza suggest Henry use to fix the hole?",
+      "options": [
+        { "option_id": 1, "text": "Glue", "is_correct": false },
+        { "option_id": 2, "text": "Straw", "is_correct": true },
+        { "option_id": 3, "text": "Mud", "is_correct": false },
+        { "option_id": 4, "text": "Tape", "is_correct": false }
+      ],
+      "answer": "Straw"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the problem with the straw?",
+      "options": [
+        { "option_id": 1, "text": "It is too short", "is_correct": false },
+        { "option_id": 2, "text": "It is too long", "is_correct": true },
+        { "option_id": 3, "text": "It is too weak", "is_correct": false },
+        { "option_id": 4, "text": "It is wet", "is_correct": false }
+      ],
+      "answer": "The straw is too long"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What tool does Liza suggest for cutting the straw?",
+      "options": [
+        { "option_id": 1, "text": "A knife", "is_correct": false },
+        { "option_id": 2, "text": "Scissors", "is_correct": false },
+        { "option_id": 3, "text": "An axe", "is_correct": true },
+        { "option_id": 4, "text": "A saw", "is_correct": false }
+      ],
+      "answer": "An axe"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why can't Henry use the axe immediately?",
+      "options": [
+        { "option_id": 1, "text": "It is broken", "is_correct": false },
+        { "option_id": 2, "text": "It is too heavy", "is_correct": false },
+        { "option_id": 3, "text": "It is too dull", "is_correct": true },
+        { "option_id": 4, "text": "It is lost", "is_correct": false }
+      ],
+      "answer": "The axe is too dull"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What should Henry use to sharpen the axe?",
+      "options": [
+        { "option_id": 1, "text": "A file", "is_correct": false },
+        { "option_id": 2, "text": "Sandpaper", "is_correct": false },
+        { "option_id": 3, "text": "A stone", "is_correct": true },
+        { "option_id": 4, "text": "Another axe", "is_correct": false }
+      ],
+      "answer": "A stone"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is wrong with the stone?",
+      "options": [
+        { "option_id": 1, "text": "It is too soft", "is_correct": false },
+        { "option_id": 2, "text": "It is too dry", "is_correct": true },
+        { "option_id": 3, "text": "It is too small", "is_correct": false },
+        { "option_id": 4, "text": "It is too heavy", "is_correct": false }
+      ],
+      "answer": "The stone is too dry"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is needed to wet the stone?",
+      "options": [
+        { "option_id": 1, "text": "Oil", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": true },
+        { "option_id": 3, "text": "Milk", "is_correct": false },
+        { "option_id": 4, "text": "Spit", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How does Liza suggest Henry fetch the water?",
+      "options": [
+        { "option_id": 1, "text": "In a cup", "is_correct": false },
+        { "option_id": 2, "text": "In a jug", "is_correct": false },
+        { "option_id": 3, "text": "In the bucket", "is_correct": true },
+        { "option_id": 4, "text": "In his hands", "is_correct": false }
+      ],
+      "answer": "In the bucket"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the structure of this poem/song?",
+      "options": [
+        { "option_id": 1, "text": "Linear", "is_correct": false },
+        { "option_id": 2, "text": "Circular", "is_correct": true },
+        { "option_id": 3, "text": "Reverse", "is_correct": false },
+        { "option_id": 4, "text": "Random", "is_correct": false }
+      ],
+      "answer": "Circular"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is a 'countable' noun according to the language section?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Straw", "is_correct": false },
+        { "option_id": 3, "text": "Stone", "is_correct": true },
+        { "option_id": 4, "text": "Milk", "is_correct": false }
+      ],
+      "answer": "Stone"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the plural form of 'axe'?",
+      "options": [
+        { "option_id": 1, "text": "Axes", "is_correct": true },
+        { "option_id": 2, "text": "Axen", "is_correct": false },
+        { "option_id": 3, "text": "Axis", "is_correct": false },
+        { "option_id": 4, "text": "Axess", "is_correct": false }
+      ],
+      "answer": "Axes"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the plural form of 'fairy'?",
+      "options": [
+        { "option_id": 1, "text": "Fairys", "is_correct": false },
+        { "option_id": 2, "text": "Fairies", "is_correct": true },
+        { "option_id": 3, "text": "Faires", "is_correct": false },
+        { "option_id": 4, "text": "Fairyies", "is_correct": false }
+      ],
+      "answer": "Fairies"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which phrase is correct for measuring milk?",
+      "options": [
+        { "option_id": 1, "text": "Two milks", "is_correct": false },
+        { "option_id": 2, "text": "A cup of milk", "is_correct": true },
+        { "option_id": 3, "text": "Five milks", "is_correct": false },
+        { "option_id": 4, "text": "Many milk", "is_correct": false }
+      ],
+      "answer": "A cup of milk"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the correct way to refer to bread?",
+      "options": [
+        { "option_id": 1, "text": "Three breads", "is_correct": false },
+        { "option_id": 2, "text": "A loaf of bread", "is_correct": true },
+        { "option_id": 3, "text": "Breads", "is_correct": false },
+        { "option_id": 4, "text": "A bread", "is_correct": false }
+      ],
+      "answer": "A loaf of bread"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which word usually does NOT have a plural form?",
+      "options": [
+        { "option_id": 1, "text": "Hole", "is_correct": false },
+        { "option_id": 2, "text": "Stone", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": true },
+        { "option_id": 4, "text": "Bucket", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "According to the dialogue, why is Henry stuck at the end?",
+      "options": [
+        { "option_id": 1, "text": "Liza stops talking to him", "is_correct": false },
+        { "option_id": 2, "text": "He forgets what to do", "is_correct": false },
+        { "option_id": 3, "text": "He needs a bucket to fix the bucket", "is_correct": true },
+        { "option_id": 4, "text": "The stone breaks", "is_correct": false }
+      ],
+      "answer": "He needs a bucket to fix the bucket"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the plural of 'activity'?",
+      "options": [
+        { "option_id": 1, "text": "Activitys", "is_correct": false },
+        { "option_id": 2, "text": "Activities", "is_correct": true },
+        { "option_id": 3, "text": "Actives", "is_correct": false },
+        { "option_id": 4, "text": "Activityes", "is_correct": false }
+      ],
+      "answer": "Activities"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "How do we refer to cake in quantities?",
+      "options": [
+        { "option_id": 1, "text": "Cakes", "is_correct": false },
+        { "option_id": 2, "text": "Slices of cake", "is_correct": true },
+        { "option_id": 3, "text": "Cakies", "is_correct": false },
+        { "option_id": 4, "text": "A cake piece", "is_correct": false }
+      ],
+      "answer": "Slices of cake"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What is the very first line of the song?",
+      "answer": "There's a hole in the bucket, dear Liza, dear Liza."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Who does Henry ask for advice?",
+      "answer": "Henry asks Liza for advice."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Why can't Henry use the straw as it is?",
+      "answer": "The straw is too long."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What tool is mentioned for cutting the straw?",
+      "answer": "An axe is mentioned for cutting the straw."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What is the state of the axe mentioned in the song?",
+      "answer": "The axe is too dull."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "How can Henry sharpen the axe?",
+      "answer": "He can sharpen it with a stone."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why can't the stone be used to sharpen the axe immediately?",
+      "answer": "Because the stone is too dry."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is needed to wet the stone?",
+      "answer": "Water is needed to wet the stone."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "In what object does Liza tell Henry to get the water?",
+      "answer": "She tells him to get it in the bucket."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why is the ending of the song funny or ironic?",
+      "answer": "It is ironic because he needs the bucket to get water to fix the hole in that same bucket."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "List three objects mentioned in the poem.",
+      "answer": "Bucket, straw, axe (or stone)."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "List three actions mentioned in the poem.",
+      "answer": "Fix, cut, sharpen (or wet)."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is the plural form of 'hole'?",
+      "answer": "Holes."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is the plural form of 'stone'?",
+      "answer": "Stones."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is the plural form of 'story'?",
+      "answer": "Stories."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Why do words like 'hole' and 'stone' have plural forms?",
+      "answer": "Because they are things we can count."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Why do we usually not say 'waters' or 'milks'?",
+      "answer": "Because we cannot 'count' materials like water and milk; they are uncountable."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Give an example of how to measure sugar.",
+      "answer": "A spoonful of sugar (or one kilo of sugar)."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "How do we correctly refer to more than one piece of cloth?",
+      "answer": "We say 'pieces of cloth'."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What does the boy in the illustration mean when he says 'I want two milks'?",
+      "answer": "He means he wants two saucers (or containers) of milk."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'bucket'?",
+      "answer": "Buckets."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What units can be used to measure oil or milk?",
+      "answer": "Litres or half-litres."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the measure word used for chocolate in the text?",
+      "answer": "A 'cup' (for hot chocolate) or a 'piece' (for solid chocolate)."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "How is the story line of the poem best presented visually?",
+      "answer": "In the form of a circular flowchart."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the name of the girl in the song?",
+      "answer": "Liza."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the name of the man in the song?",
+      "answer": "Henry."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "If the straw is too long, what does Henry have to do?",
+      "answer": "He has to cut it."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "If the axe is too dull, what does Henry have to do?",
+      "answer": "He has to sharpen it."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "If the stone is too dry, what does Henry have to do?",
+      "answer": "He has to wet it."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Translate 'a loaf of bread' into its plural concept.",
+      "answer": "Two loaves of bread (or multiple loaves of bread)."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What material is mentioned that usually doesn't have a plural?",
+      "answer": "Straw (or water/milk)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does Henry say at the very end of the song?",
+      "answer": "But there's a hole in the bucket, dear Liza, there's a hole."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the 'problem and solution' nature of the song?",
+      "answer": "Every solution Liza gives leads Henry to a new problem, eventually returning to the first one."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'leaf' (implied by language rules)?",
+      "answer": "Leaves."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How many times is 'dear Liza' or 'dear Henry' repeated in a stanza?",
+      "answer": "It is usually repeated three times in the second line of their respective verses."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which noun in the 'Counting and Measuring' section is used as an example of an everyday problem?",
+      "answer": "Bucket."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'lady' (following the 'fairy' rule)?",
+      "answer": "Ladies."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Can we say 'two sugars'?",
+      "answer": "No, we should say 'two kilos of sugar' or 'two spoonfuls of sugar'."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the 'Pointers' section?",
+      "answer": "To provide activities, language practice, and discussion topics based on the song."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is Henry's final realization in the song?",
+      "answer": "He realizes he cannot fetch the water needed to fix the bucket because the bucket has a hole."
+    }
+  ]
+}

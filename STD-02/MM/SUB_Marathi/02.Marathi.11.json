@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.11",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "भेळ"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कवितेत मुलगा आईला काय म्हणतो?",
+      "options": [
+        { "option_id": 1, "text": "आई मला भूक लागली", "is_correct": false },
+        { "option_id": 2, "text": "आई, कर ना भेळ", "is_correct": true },
+        { "option_id": 3, "text": "आई, पाणी दे", "is_correct": false },
+        { "option_id": 4, "text": "आई, खेळायला जाऊ", "is_correct": false }
+      ],
+      "answer": "आई, कर ना भेळ"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आई का म्हणते की तिला वेळ नाही?",
+      "options": [
+        { "option_id": 1, "text": "ती थकलेली असते", "is_correct": false },
+        { "option_id": 2, "text": "ती कामात व्यस्त असते", "is_correct": true },
+        { "option_id": 3, "text": "ती झोपलेली असते", "is_correct": false },
+        { "option_id": 4, "text": "ती बाजारात जाते", "is_correct": false }
+      ],
+      "answer": "ती कामात व्यस्त असते"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "भेळ बनवताना पहिला घटक कोणता वापरला आहे?",
+      "options": [
+        { "option_id": 1, "text": "शेव", "is_correct": false },
+        { "option_id": 2, "text": "चुरमुरे", "is_correct": true },
+        { "option_id": 3, "text": "कांदा", "is_correct": false },
+        { "option_id": 4, "text": "टोमॅटो", "is_correct": false }
+      ],
+      "answer": "चुरमुरे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणता शब्द कुरकुरीत पदार्थासाठी वापरला आहे?",
+      "options": [
+        { "option_id": 1, "text": "चुरचुरीत", "is_correct": false },
+        { "option_id": 2, "text": "कुरकुरीत", "is_correct": true },
+        { "option_id": 3, "text": "गोड", "is_correct": false },
+        { "option_id": 4, "text": "थंड", "is_correct": false }
+      ],
+      "answer": "कुरकुरीत"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भेळीत कोणती भाजी बारीक चिरली आहे?",
+      "options": [
+        { "option_id": 1, "text": "गाजर", "is_correct": false },
+        { "option_id": 2, "text": "कोबी", "is_correct": false },
+        { "option_id": 3, "text": "टोमॅटो व कांदा", "is_correct": true },
+        { "option_id": 4, "text": "बीट", "is_correct": false }
+      ],
+      "answer": "टोमॅटो व कांदा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "चटणी बनवण्यासाठी काय वापरले आहे?",
+      "options": [
+        { "option_id": 1, "text": "दूध व साखर", "is_correct": false },
+        { "option_id": 2, "text": "खजूर आणि चिंच", "is_correct": true },
+        { "option_id": 3, "text": "नारळ आणि खोबरे", "is_correct": false },
+        { "option_id": 4, "text": "लोणी आणि तेल", "is_correct": false }
+      ],
+      "answer": "खजूर आणि चिंच"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भेळ मिसळताना काय घालतात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त साखर", "is_correct": false },
+        { "option_id": 2, "text": "थोडे तिखट आणि थोडे मीठ", "is_correct": true },
+        { "option_id": 3, "text": "लोणी", "is_correct": false },
+        { "option_id": 4, "text": "दूध", "is_correct": false }
+      ],
+      "answer": "थोडे तिखट आणि थोडे मीठ"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवितेत मुलांना काय करायला सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "पळा पळा", "is_correct": false },
+        { "option_id": 2, "text": "नाचा गा", "is_correct": false },
+        { "option_id": 3, "text": "गोल बसा, गालात हसा", "is_correct": true },
+        { "option_id": 4, "text": "खेळा खेळा", "is_correct": false }
+      ],
+      "answer": "गोल बसा, गालात हसा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "‘पसा पसा’ या शब्दातून काय सुचते?",
+      "options": [
+        { "option_id": 1, "text": "वाटून खा", "is_correct": true },
+        { "option_id": 2, "text": "जलद पळा", "is_correct": false },
+        { "option_id": 3, "text": "झोपा", "is_correct": false },
+        { "option_id": 4, "text": "भांडू नका", "is_correct": false }
+      ],
+      "answer": "वाटून खा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "भेळ खाताना कागद कुठे टाकायला सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 2, "text": "खाटेखाली", "is_correct": false },
+        { "option_id": 3, "text": "डब्यात", "is_correct": true },
+        { "option_id": 4, "text": "मेजावर", "is_correct": false }
+      ],
+      "answer": "डब्यात"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘चट्टामट्टा’ हा शब्द कोणत्या गोष्टीसाठी वापरला आहे?",
+      "options": [
+        { "option_id": 1, "text": "खूप आवाज", "is_correct": false },
+        { "option_id": 2, "text": "भेळ पटकन संपली", "is_correct": true },
+        { "option_id": 3, "text": "भांडण झाले", "is_correct": false },
+        { "option_id": 4, "text": "पाऊस पडला", "is_correct": false }
+      ],
+      "answer": "भेळ पटकन संपली"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "भेळीत कोथिंबीरीचा वापर कसा केला आहे?",
+      "options": [
+        { "option_id": 1, "text": "जाड तुकडे", "is_correct": false },
+        { "option_id": 2, "text": "किसून", "is_correct": false },
+        { "option_id": 3, "text": "बारीक चिरून", "is_correct": true },
+        { "option_id": 4, "text": "कच्ची न टाकता", "is_correct": false }
+      ],
+      "answer": "बारीक चिरून"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "ही कविता मुख्यतः कशाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्रवास", "is_correct": false },
+        { "option_id": 2, "text": "स्वच्छता आणि अन्न", "is_correct": true },
+        { "option_id": 3, "text": "शाळा", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "स्वच्छता आणि अन्न"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "भेळ बनवण्यात कोणता रस वापरला आहे?",
+      "options": [
+        { "option_id": 1, "text": "दूध", "is_correct": false },
+        { "option_id": 2, "text": "टोमॅटो सॉस", "is_correct": false },
+        { "option_id": 3, "text": "खजूर-चिंच रस", "is_correct": true },
+        { "option_id": 4, "text": "आंब्याचा रस", "is_correct": false }
+      ],
+      "answer": "खजूर-चिंच रस"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या कवितेतून कोणती सवय शिकवली आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाटून खाणे", "is_correct": true },
+        { "option_id": 2, "text": "एकट्याने खाणे", "is_correct": false },
+        { "option_id": 3, "text": "रागावून खाणे", "is_correct": false },
+        { "option_id": 4, "text": "घाईघाईने खाणे", "is_correct": false }
+      ],
+      "answer": "वाटून खाणे"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "भेळ बनवण्यासाठी लागणारे दोन पदार्थ लिहा.",
+      "answer": "चुरमुरे आणि शेव."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "भेळीत घातले जाणारे दोन मसाले लिहा.",
+      "answer": "तिखट आणि मीठ."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "‘गोल बसा, गालात हसा’ या ओळीचा अर्थ लिहा.",
+      "answer": "सगळ्यांनी एकत्र बसून आनंदाने खावे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भेळ खाल्ल्यानंतर कागद काय करायला सांगितले आहे?",
+      "answer": "कागद डब्यात टाकायला सांगितले आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "चटणी कशापासून बनवली आहे?",
+      "answer": "खजूर, चिंच आणि पाणी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कवितेतील दोन कुरकुरीत पदार्थ लिहा.",
+      "answer": "चुरमुरे आणि शेव."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "भेळ खाताना मुलांना कसे वाटते?",
+      "answer": "मुलांना आनंद आणि मजा वाटते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "या कवितेतून कोणती चांगली सवय शिकायला मिळते?",
+      "answer": "स्वच्छता आणि कचरा योग्य ठिकाणी टाकणे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "भाजी चिरताना कशी चिरावी?",
+      "answer": "अगदी बारीक आणि छान चिरावी."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "भेळ कोणत्या प्रसंगी केली जाते?",
+      "answer": "मित्रांसोबत किंवा कुटुंबासोबत खाण्यासाठी."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘चट्टामट्टा’ या शब्दाचा अर्थ लिहा.",
+      "answer": "भेळ पटकन संपून गेली."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "भेळ बनवणे हा कोणत्या प्रकारचा उपक्रम आहे?",
+      "answer": "एकत्रितपणे केलेला आनंददायी उपक्रम."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कवितेतील आवडलेली एक ओळ लिहा.",
+      "answer": "गोल बसा, गालात हसा."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "भेळ बनवताना कोणती काळजी घ्यावी?",
+      "answer": "सर्व पदार्थ स्वच्छ आणि ताजे असावेत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "ही कविता तुला का आवडली?",
+      "answer": "कारण ती मजेदार आहे आणि वाटून खाण्याचा आनंद शिकवते."
+    }
+  ]
+}

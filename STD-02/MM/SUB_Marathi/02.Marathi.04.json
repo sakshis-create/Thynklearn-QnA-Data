@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.04",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "चतुर हिराबाई"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कथेच्या सुरुवातीला माणिकने उठल्यानंतर काय पाहिले?",
+      "options": [
+        { "option_id": 1, "text": "दोन्ही बैल गोठ्यात होते", "is_correct": false },
+        { "option_id": 2, "text": "घराबाहेर कोणी उभे होते", "is_correct": false },
+        { "option_id": 3, "text": "एकच बैल दिसत होता", "is_correct": true },
+        { "option_id": 4, "text": "बैलाची दोरी तुटलेली होती", "is_correct": false }
+      ],
+      "answer": "एकच बैल दिसत होता"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "दुसऱ्या बैलाचे काय झाले होते?",
+      "options": [
+        { "option_id": 1, "text": "तो पळून गेला", "is_correct": false },
+        { "option_id": 2, "text": "तो आजारी पडला", "is_correct": false },
+        { "option_id": 3, "text": "तो चोरीला गेला होता", "is_correct": true },
+        { "option_id": 4, "text": "तो विकला गेला", "is_correct": false }
+      ],
+      "answer": "तो चोरीला गेला होता"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "माणिक आणि हिराबाई बैल शोधण्यासाठी कुठे गेले?",
+      "options": [
+        { "option_id": 1, "text": "पोलिस स्टेशन", "is_correct": false },
+        { "option_id": 2, "text": "शाळा", "is_correct": false },
+        { "option_id": 3, "text": "बैल-बाजारात", "is_correct": true },
+        { "option_id": 4, "text": "शेतात", "is_correct": false }
+      ],
+      "answer": "बैल-बाजारात"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "हिराबाईंनी बाजारात काय ओरडले?",
+      "options": [
+        { "option_id": 1, "text": "हा आमचा बैल नाही", "is_correct": false },
+        { "option_id": 2, "text": "हा बैल विकायचा आहे", "is_correct": false },
+        { "option_id": 3, "text": "हा पाहा आपला बैल", "is_correct": true },
+        { "option_id": 4, "text": "हा बैल जखमी आहे", "is_correct": false }
+      ],
+      "answer": "हा पाहा आपला बैल"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "बैलाचा मालक असल्याचा दावा कोणी केला?",
+      "options": [
+        { "option_id": 1, "text": "माणिक", "is_correct": false },
+        { "option_id": 2, "text": "हिराबाई", "is_correct": false },
+        { "option_id": 3, "text": "चोर", "is_correct": true },
+        { "option_id": 4, "text": "बाजारातील लोक", "is_correct": false }
+      ],
+      "answer": "चोर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "हिराबाईने बैलाचे डोळे कसे केले?",
+      "options": [
+        { "option_id": 1, "text": "रुमालाने झाकले", "is_correct": false },
+        { "option_id": 2, "text": "हाताने बंद केले", "is_correct": true },
+        { "option_id": 3, "text": "दोऱ्याने बांधले", "is_correct": false },
+        { "option_id": 4, "text": "कापडाने झाकले", "is_correct": false }
+      ],
+      "answer": "हाताने बंद केले"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "हिराबाईंनी चोराला कोणता प्रश्न विचारला?",
+      "options": [
+        { "option_id": 1, "text": "बैल कुठून आणलास?", "is_correct": false },
+        { "option_id": 2, "text": "बैलाचे वय किती?", "is_correct": false },
+        { "option_id": 3, "text": "बैलाचा कोणता डोळा अधू आहे?", "is_correct": true },
+        { "option_id": 4, "text": "बैलाची किंमत किती?", "is_correct": false }
+      ],
+      "answer": "बैलाचा कोणता डोळा अधू आहे?"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "चोराने डोळ्यांबद्दल काय उत्तर दिले?",
+      "options": [
+        { "option_id": 1, "text": "दोन्ही डोळे अधू आहेत", "is_correct": false },
+        { "option_id": 2, "text": "उजवा डोळा अधू आहे", "is_correct": false },
+        { "option_id": 3, "text": "अगोदर उजवा मग डावा अधू आहे", "is_correct": true },
+        { "option_id": 4, "text": "कोणताही डोळा नाही", "is_correct": false }
+      ],
+      "answer": "अगोदर उजवा मग डावा अधू आहे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हिराबाईंनी हात बाजूला केल्यावर काय दिसले?",
+      "options": [
+        { "option_id": 1, "text": "बैल पळून गेला", "is_correct": false },
+        { "option_id": 2, "text": "बैलाचा एक डोळा अधू होता", "is_correct": false },
+        { "option_id": 3, "text": "बैलाचा कोणताही डोळा अधू नव्हता", "is_correct": true },
+        { "option_id": 4, "text": "बैल रडत होता", "is_correct": false }
+      ],
+      "answer": "बैलाचा कोणताही डोळा अधू नव्हता"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "लोकांनी काय केले?",
+      "options": [
+        { "option_id": 1, "text": "बैल विकत घेतला", "is_correct": false },
+        { "option_id": 2, "text": "चोराला पकडले", "is_correct": true },
+        { "option_id": 3, "text": "हिराबाईवर रागावले", "is_correct": false },
+        { "option_id": 4, "text": "बाजार सोडून गेले", "is_correct": false }
+      ],
+      "answer": "चोराला पकडले"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "चोराला नंतर कोण घेऊन गेले?",
+      "options": [
+        { "option_id": 1, "text": "गावकरी", "is_correct": false },
+        { "option_id": 2, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 3, "text": "पोलीस", "is_correct": true },
+        { "option_id": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "पोलीस"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कथेच्या शेवटी माणिक आणि हिराबाई काय करून घरी गेले?",
+      "options": [
+        { "option_id": 1, "text": "रडत", "is_correct": false },
+        { "option_id": 2, "text": "रिकाम्या हाताने", "is_correct": false },
+        { "option_id": 3, "text": "बैल घेऊन आनंदाने", "is_correct": true },
+        { "option_id": 4, "text": "भांडत", "is_correct": false }
+      ],
+      "answer": "बैल घेऊन आनंदाने"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "हिराबाई कशा प्रकारची व्यक्ती होती?",
+      "options": [
+        { "option_id": 1, "text": "भोळी", "is_correct": false },
+        { "option_id": 2, "text": "घाबरट", "is_correct": false },
+        { "option_id": 3, "text": "चतुर", "is_correct": true },
+        { "option_id": 4, "text": "रागीट", "is_correct": false }
+      ],
+      "answer": "चतुर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या गोष्टीतून कोणता बोध मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "चोरी करावी", "is_correct": false },
+        { "option_id": 2, "text": "फसवणूक करावी", "is_correct": false },
+        { "option_id": 3, "text": "बुद्धीने वागावे", "is_correct": true },
+        { "option_id": 4, "text": "घाबरून जावे", "is_correct": false }
+      ],
+      "answer": "बुद्धीने वागावे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘चतुर हिराबाई’ या शीर्षकातील ‘चतुर’ या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "आळशी", "is_correct": false },
+        { "option_id": 2, "text": "हुशार आणि समजूतदार", "is_correct": true },
+        { "option_id": 3, "text": "रागीट", "is_correct": false },
+        { "option_id": 4, "text": "कमकुवत", "is_correct": false }
+      ],
+      "answer": "हुशार आणि समजूतदार"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "माणिक आणि हिराबाई बैल का शोधत होते?",
+      "answer": "कारण त्यांचा दुसरा बैल चोरीला गेला होता."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "हिराबाईंनी चोराला कसे हुडकून काढले?",
+      "answer": "तिने बैलाचे डोळे बंद करून कोणता डोळा अधू आहे ते विचारले."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "चोराने खोटे बोलल्याचे कसे समजले?",
+      "answer": "हिराबाईंनी हात बाजूला केल्यावर बैलाचा कोणताही डोळा अधू नव्हता."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "लोकांनी चोराला का पकडले?",
+      "answer": "कारण तो खोटे बोलून बैल आपला आहे असे सांगत होता."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हिराबाई कशा होत्या ते दोन शब्दांत लिहा.",
+      "answer": "हुशार आणि धाडसी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कथेचा शेवट कसा झाला?",
+      "answer": "पोलीस चोराला घेऊन गेले आणि माणिक-हिराबाई बैल घेऊन घरी गेले."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "हिराबाईंच्या चातुर्याचे एक उदाहरण लिहा.",
+      "answer": "बैलाचा डोळा अधू आहे का विचारून तिने चोराला गुंगारा दिला."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "“हिराबाईने हात बाजूला केला” यानंतर काय झाले?",
+      "answer": "बैलाचा कोणताही डोळा अधू नाही हे दिसले."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "चोर घाबरला का?",
+      "answer": "होय, कारण हिराबाईंनी त्याची खोटी गोष्ट उघड केली."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "या गोष्टीतून काय शिकायला मिळते?",
+      "answer": "अडचणीत शांतपणे आणि चतुराईने विचार करावा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "बैल-बाजार म्हणजे काय?",
+      "answer": "जिथे बैलांची खरेदी-विक्री होते तो बाजार."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "माणिकने बायकोला हाक का मारली?",
+      "answer": "कारण गोठ्यात एकच बैल दिसत होता."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "चोराने दोनदा डोळे वेगवेगळे का सांगितले?",
+      "answer": "कारण तो खोटे सांगत होता आणि गोंधळला होता."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "हिराबाईंच्या धाडसाबद्दल दोन वाक्ये लिहा.",
+      "answer": "हिराबाई निर्धाराने चोराला सामोरी गेल्या. त्या चतुरपणे सत्य बाहेर काढतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "तुला हिराबाईंसारखे कोणते गुण आत्मसात करायला आवडतील?",
+      "answer": "चातुर्य, धैर्य आणि योग्य निर्णय घेण्याची सवय."
+    }
+  ]
+}

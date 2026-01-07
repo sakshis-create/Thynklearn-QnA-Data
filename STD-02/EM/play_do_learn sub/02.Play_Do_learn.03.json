@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.03",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Games and Competitions"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which game involves jumping inside a sack?",
+      "options": [
+        { "option_id": 1, "text": "Skipping", "is_correct": false },
+        { "option_id": 2, "text": "Sack race", "is_correct": true },
+        { "option_id": 3, "text": "Dodge ball", "is_correct": false },
+        { "option_id": 4, "text": "Catching", "is_correct": false }
+      ],
+      "answer": "Sack race"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which game is played by jumping with a rope?",
+      "options": [
+        { "option_id": 1, "text": "Skipping", "is_correct": true },
+        { "option_id": 2, "text": "Sack race", "is_correct": false },
+        { "option_id": 3, "text": "Chess", "is_correct": false },
+        { "option_id": 4, "text": "Ludo", "is_correct": false }
+      ],
+      "answer": "Skipping"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which game is played by throwing and avoiding the ball?",
+      "options": [
+        { "option_id": 1, "text": "Dodge ball", "is_correct": true },
+        { "option_id": 2, "text": "Skipping", "is_correct": false },
+        { "option_id": 3, "text": "Sack race", "is_correct": false },
+        { "option_id": 4, "text": "Chess", "is_correct": false }
+      ],
+      "answer": "Dodge ball"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is a sitting game?",
+      "options": [
+        { "option_id": 1, "text": "Running race", "is_correct": false },
+        { "option_id": 2, "text": "Ludo", "is_correct": true },
+        { "option_id": 3, "text": "Skipping", "is_correct": false },
+        { "option_id": 4, "text": "Sack race", "is_correct": false }
+      ],
+      "answer": "Ludo"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which game uses paper cups?",
+      "options": [
+        { "option_id": 1, "text": "Castles out of paper cups", "is_correct": true },
+        { "option_id": 2, "text": "Skipping", "is_correct": false },
+        { "option_id": 3, "text": "Dodge ball", "is_correct": false },
+        { "option_id": 4, "text": "Running race", "is_correct": false }
+      ],
+      "answer": "Castles out of paper cups"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which game is played by identifying objects by touch?",
+      "options": [
+        { "option_id": 1, "text": "Identify by touching", "is_correct": true },
+        { "option_id": 2, "text": "Skipping", "is_correct": false },
+        { "option_id": 3, "text": "Sack race", "is_correct": false },
+        { "option_id": 4, "text": "Dodge ball", "is_correct": false }
+      ],
+      "answer": "Identify by touching"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of the following is a traditional game?",
+      "options": [
+        { "option_id": 1, "text": "Jhimma", "is_correct": true },
+        { "option_id": 2, "text": "Chess", "is_correct": false },
+        { "option_id": 3, "text": "Ludo", "is_correct": false },
+        { "option_id": 4, "text": "Dodge ball", "is_correct": false }
+      ],
+      "answer": "Jhimma"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which traditional game uses sticks?",
+      "options": [
+        { "option_id": 1, "text": "Tipri", "is_correct": true },
+        { "option_id": 2, "text": "Jhimma", "is_correct": false },
+        { "option_id": 3, "text": "Skipping", "is_correct": false },
+        { "option_id": 4, "text": "Ludo", "is_correct": false }
+      ],
+      "answer": "Tipri"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which game helps in muscle building?",
+      "options": [
+        { "option_id": 1, "text": "Hanging on the bar", "is_correct": true },
+        { "option_id": 2, "text": "Chess", "is_correct": false },
+        { "option_id": 3, "text": "Ludo", "is_correct": false },
+        { "option_id": 4, "text": "Identify by touching", "is_correct": false }
+      ],
+      "answer": "Hanging on the bar"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which game improves flexibility?",
+      "options": [
+        { "option_id": 1, "text": "Stretching the legs", "is_correct": true },
+        { "option_id": 2, "text": "Running race", "is_correct": false },
+        { "option_id": 3, "text": "Dodge ball", "is_correct": false },
+        { "option_id": 4, "text": "Chess", "is_correct": false }
+      ],
+      "answer": "Stretching the legs"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which game helps in body coordination?",
+      "options": [
+        { "option_id": 1, "text": "Catching the ball", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping", "is_correct": false },
+        { "option_id": 3, "text": "Reading", "is_correct": false },
+        { "option_id": 4, "text": "Writing", "is_correct": false }
+      ],
+      "answer": "Catching the ball"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which is a speed game?",
+      "options": [
+        { "option_id": 1, "text": "Running race", "is_correct": true },
+        { "option_id": 2, "text": "Chess", "is_correct": false },
+        { "option_id": 3, "text": "Ludo", "is_correct": false },
+        { "option_id": 4, "text": "Identify by touching", "is_correct": false }
+      ],
+      "answer": "Running race"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which game helps in balancing?",
+      "options": [
+        { "option_id": 1, "text": "Walking with a book on head", "is_correct": true },
+        { "option_id": 2, "text": "Sack race", "is_correct": false },
+        { "option_id": 3, "text": "Skipping", "is_correct": false },
+        { "option_id": 4, "text": "Dodge ball", "is_correct": false }
+      ],
+      "answer": "Walking with a book on head"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which race involves walking fast?",
+      "options": [
+        { "option_id": 1, "text": "Fast walking race", "is_correct": true },
+        { "option_id": 2, "text": "Duck walk race", "is_correct": false },
+        { "option_id": 3, "text": "Skipping", "is_correct": false },
+        { "option_id": 4, "text": "Sack race", "is_correct": false }
+      ],
+      "answer": "Fast walking race"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why should rules be followed in games?",
+      "options": [
+        { "option_id": 1, "text": "To play safely and fairly", "is_correct": true },
+        { "option_id": 2, "text": "To stop playing", "is_correct": false },
+        { "option_id": 3, "text": "To feel tired", "is_correct": false },
+        { "option_id": 4, "text": "To lose the game", "is_correct": false }
+      ],
+      "answer": "To play safely and fairly"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a sack race?",
+      "answer": "A sack race is a game where children jump inside a sack to reach the finish line."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name one entertaining game.",
+      "answer": "Skipping."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are sitting games?",
+      "answer": "Games that are played while sitting are called sitting games."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name any one sitting game.",
+      "answer": "Ludo."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is a traditional game?",
+      "answer": "A traditional game is a game played from old times in our region."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name one traditional game.",
+      "answer": "Jhimma."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why are muscle building games important?",
+      "answer": "They make our muscles strong."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name one muscle building game.",
+      "answer": "Hanging on the bar."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are flexibility games?",
+      "answer": "Games that make our body flexible are flexibility games."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one flexibility game.",
+      "answer": "Stretching the legs."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is a running race?",
+      "answer": "A race where children run fast to reach the finish line."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why are balancing games important?",
+      "answer": "They help us keep balance."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one balancing game.",
+      "answer": "Walking with a book on the head."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why should children follow rules in games?",
+      "answer": "To play safely and fairly."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What should we do after winning or losing a game?",
+      "answer": "We should appreciate winners and accept results happily."
+    }
+  ]
+}

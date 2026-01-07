@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.27",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Writing Skills"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the main activity described in the instructions?",
+      "options": [
+        { "option_id": 1, "text": "Making lemonade", "is_correct": false },
+        { "option_id": 2, "text": "Creating soap bubbles", "is_correct": true },
+        { "option_id": 3, "text": "Drawing a picture", "is_correct": false },
+        { "option_id": 4, "text": "Writing a letter", "is_correct": false }
+      ],
+      "answer": "Creating soap bubbles"
+    }
+  ]
+}

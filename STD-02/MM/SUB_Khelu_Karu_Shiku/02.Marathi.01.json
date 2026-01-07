@@ -1,0 +1,284 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.KKS.01",
+    "standard": "2",
+    "subject": "Khelu_Karu_Shiku",
+    "medium": "Marathi",
+    "chapter_name": "खेळ – आरोग्य"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "खेळामुळे आपले शरीर कसे राहते?",
+      "options": [
+        { "option_id": 1, "text": "कमजोर", "is_correct": false },
+        { "option_id": 2, "text": "आळशी", "is_correct": false },
+        { "option_id": 3, "text": "तंदुरुस्त", "is_correct": true },
+        { "option_id": 4, "text": "बेजान", "is_correct": false }
+      ],
+      "answer": "तंदुरुस्त"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "चांगल्या आरोग्यासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "दररोज खेळणे", "is_correct": true },
+        { "option_id": 2, "text": "संपूर्ण दिवस बसणे", "is_correct": false },
+        { "option_id": 3, "text": "उशीरा झोपणे", "is_correct": false },
+        { "option_id": 4, "text": "जंक फूड खाणे", "is_correct": false }
+      ],
+      "answer": "दररोज खेळणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खेळताना आपल्याला काय पाळावे?",
+      "options": [
+        { "option_id": 1, "text": "आरडाओरडा", "is_correct": false },
+        { "option_id": 2, "text": "भांडण", "is_correct": false },
+        { "option_id": 3, "text": "नियम व शिस्त", "is_correct": true },
+        { "option_id": 4, "text": "इतरांना ढकलणे", "is_correct": false }
+      ],
+      "answer": "नियम व शिस्त"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "खेळल्यावर काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "हात धुवावेत", "is_correct": true },
+        { "option_id": 2, "text": "माती खावी", "is_correct": false },
+        { "option_id": 3, "text": "ताबडतोब झोपावे", "is_correct": false },
+        { "option_id": 4, "text": "भांडावे", "is_correct": false }
+      ],
+      "answer": "हात धुवावेत"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कोणता खेळ मैदानी खेळ आहे?",
+      "options": [
+        { "option_id": 1, "text": "लपाछपी", "is_correct": true },
+        { "option_id": 2, "text": "मोबाईल गेम", "is_correct": false },
+        { "option_id": 3, "text": "टीव्ही पाहणे", "is_correct": false },
+        { "option_id": 4, "text": "बेडवर बसणे", "is_correct": false }
+      ],
+      "answer": "लपाछपी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "आरोग्यासाठी कोणती सवय चांगली आहे?",
+      "options": [
+        { "option_id": 1, "text": "नखे चावणे", "is_correct": false },
+        { "option_id": 2, "text": "सकस आहार घेणे", "is_correct": true },
+        { "option_id": 3, "text": "रात्रभर जागणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळताना भांडणे", "is_correct": false }
+      ],
+      "answer": "सकस आहार घेणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "खेळताना काय वापरू नये?",
+      "options": [
+        { "option_id": 1, "text": "धोकादायक वस्तू", "is_correct": true },
+        { "option_id": 2, "text": "मैदान", "is_correct": false },
+        { "option_id": 3, "text": "चेंडू", "is_correct": false },
+        { "option_id": 4, "text": "खेळाचे साहित्‍य", "is_correct": false }
+      ],
+      "answer": "धोकादायक वस्तू"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शरीरातील आजार दूर ठेवण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "दररोज व्यायाम", "is_correct": true },
+        { "option_id": 2, "text": "नेहमी बसून राहणे", "is_correct": false },
+        { "option_id": 3, "text": "जंक फूड खाणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ टाळणे", "is_correct": false }
+      ],
+      "answer": "दररोज व्यायाम"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खेळताना मित्रांसोबत कसे वागावे?",
+      "options": [
+        { "option_id": 1, "text": "वाईट बोलावे", "is_correct": false },
+        { "option_id": 2, "text": "प्रेमाने व सहकार्याने", "is_correct": true },
+        { "option_id": 3, "text": "रडत राहावे", "is_correct": false },
+        { "option_id": 4, "text": "त्यांना ढकलावे", "is_correct": false }
+      ],
+      "answer": "प्रेमाने व सहकार्याने"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आरोग्य म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "फक्त शरीराची ताकद", "is_correct": false },
+        { "option_id": 2, "text": "तंदुरुस्त शरीर आणि आनंदी मन", "is_correct": true },
+        { "option_id": 3, "text": "फक्त खेळ", "is_correct": false },
+        { "option_id": 4, "text": "फक्त आहार", "is_correct": false }
+      ],
+      "answer": "तंदुरुस्त शरीर आणि आनंदी मन"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "शरीर सशक्त ठेवण्यासाठी काय टाळावे?",
+      "options": [
+        { "option_id": 1, "text": "धावणे", "is_correct": false },
+        { "option_id": 2, "text": "नियमित खेळणे", "is_correct": false },
+        { "option_id": 3, "text": "जास्त टीव्ही / मोबाईल", "is_correct": true },
+        { "option_id": 4, "text": "व्यायाम", "is_correct": false }
+      ],
+      "answer": "जास्त टीव्ही / मोबाईल"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खेळताना आपल्याला काय घालावे?",
+      "options": [
+        { "option_id": 1, "text": "स्वच्छ व आरामदायक कपडे", "is_correct": true },
+        { "option_id": 2, "text": "जड दागिने", "is_correct": false },
+        { "option_id": 3, "text": "ओले कपडे", "is_correct": false },
+        { "option_id": 4, "text": "फाटके कपडे", "is_correct": false }
+      ],
+      "answer": "स्वच्छ व आरामदायक कपडे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "खेळताना पडल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "भांडावे", "is_correct": false },
+        { "option_id": 2, "text": "रडत बसावे", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षकांना सांगा / मदत घ्यावी", "is_correct": true },
+        { "option_id": 4, "text": "दुसऱ्याला दोष द्यावा", "is_correct": false }
+      ],
+      "answer": "शिक्षकांना सांगा / मदत घ्यावी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "खेळल्याने आपल्यात कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "स्वार्थ", "is_correct": false },
+        { "option_id": 2, "text": "आळस", "is_correct": false },
+        { "option_id": 3, "text": "सहकार्य व टीमवर्क", "is_correct": true },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "सहकार्य व टीमवर्क"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खेळ आणि आरोग्य यांच्यात काय संबंध आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळ केल्याने शरीर कमजोर होते", "is_correct": false },
+        { "option_id": 2, "text": "खेळ आरोग्य सुधारतो", "is_correct": true },
+        { "option_id": 3, "text": "खेळाचा उपयोग नाही", "is_correct": false },
+        { "option_id": 4, "text": "खेळ फक्त वेळ घालवणे आहे", "is_correct": false }
+      ],
+      "answer": "खेळ आरोग्य सुधारतो"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "खेळ का करावेत?",
+      "answer": "खेळ केल्याने शरीर तंदुरुस्त राहते आणि मन प्रसन्न राहते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "खेळताना कोणते नियम पाळावेत?",
+      "answer": "शिस्त, सहकार्य आणि सुरक्षितता यांच्या नियमांचे पालन करावे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "व्यायामाचे दोन फायदे लिहा.",
+      "answer": "शरीर मजबूत होते आणि आजार दूर राहतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मैदानी खेळ कसे असतात?",
+      "answer": "मैदानी खेळ हालचाल वाढवणारे आणि आरोग्यासाठी उपयोगी असतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "खेळताना स्वच्छ कपडे घालणे का आवश्यक आहे?",
+      "answer": "स्वच्छता राखली जाते आणि संसर्ग टाळला जातो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "खेळल्यानंतर हात धुणे का महत्त्वाचे आहे?",
+      "answer": "जीवजंतू आणि जंतुसंसर्ग दूर राहतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "तंदुरुस्त राहण्यासाठी तू काय करतोस?",
+      "answer": "मी रोज खेळतो, व्यायाम करतो आणि पौष्टिक आहार घेतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "सहकार्य म्हणजे काय?",
+      "answer": "एकमेकांना मदत करून टीमने काम करणे म्हणजे सहकार्य."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "खेळताना मित्रांशी कसे वागावे?",
+      "answer": "प्रेमाने, आदराने आणि भांडण न करता वागावे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "आरोग्य टिकवण्यासाठी कोणत्या सवयी चांगल्या आहेत?",
+      "answer": "नियमित व्यायाम, खेळ, स्वच्छता आणि योग्य आहार."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "खेळ आपल्याला कोणते मूल्य शिकवतात?",
+      "answer": "शिस्त, सहकार्य, वेळेचे महत्त्व आणि प्रामाणिकपणा."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "खेळताना सुरक्षितता का आवश्यक आहे?",
+      "answer": "अपघात टाळण्यासाठी आणि स्वतःचे रक्षण करण्यासाठी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "आरोग्य म्हणजे काय?",
+      "answer": "तंदुरुस्त शरीर, स्वच्छता आणि आनंदी मन म्हणजे आरोग्य."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "तुला कोणता खेळ आवडतो? का?",
+      "answer": "मला मैदानी खेळ आवडतो कारण तो आरोग्यासाठी चांगला आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्यातून तुला काय शिकायला मिळाले?",
+      "answer": "खेळ, व्यायाम आणि आरोग्य यांचे महत्त्व समजले."
+    }
+  ]
+}
+
+

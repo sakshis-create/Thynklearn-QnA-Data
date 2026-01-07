@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.32",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Language Study - Position Words"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What kind of words show the position of things?",
+      "options": [
+        { "option_id": 1, "text": "Action words", "is_correct": false },
+        { "option_id": 2, "text": "Position words", "is_correct": true },
+        { "option_id": 3, "text": "Naming words", "is_correct": false },
+        { "option_id": 4, "text": "Describing words", "is_correct": false }
+      ],
+      "answer": "Position words"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.KKS.14",
+    "standard": "2",
+    "subject": "Khelu_Karu_Shiku",
+    "medium": "Marathi",
+    "chapter_name": "वादन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "वादनासाठी नेहमीच वाद्य असणे आवश्यक आहे का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "निश्चित सांगू शकत नाही", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "उपलब्ध वस्तूंवर आघात केल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "रंग तयार होतो", "is_correct": false },
+        { "option_id": 2, "text": "आवाजाची निर्मिती होते", "is_correct": true },
+        { "option_id": 3, "text": "वस्तू तुटते", "is_correct": false },
+        { "option_id": 4, "text": "प्रकाश निर्माण होतो", "is_correct": false }
+      ],
+      "answer": "आवाजाची निर्मिती होते"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणती वस्तू आवाज निर्माण करण्यासाठी वापरू शकतो?",
+      "options": [
+        { "option_id": 1, "text": "रिकामा डबा", "is_correct": true },
+        { "option_id": 2, "text": "कागद", "is_correct": false },
+        { "option_id": 3, "text": "खडू", "is_correct": false },
+        { "option_id": 4, "text": "रबर", "is_correct": false }
+      ],
+      "answer": "रिकामा डबा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ढोलक कोणत्या प्रकारचे वाद्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "तंतुवाद्य", "is_correct": false },
+        { "option_id": 2, "text": "वाद्य नाही", "is_correct": false },
+        { "option_id": 3, "text": "तालवाद्य", "is_correct": true },
+        { "option_id": 4, "text": "घंटावाद्य", "is_correct": false }
+      ],
+      "answer": "तालवाद्य"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "झांज वाजवल्यावर कसा आवाज होतो?",
+      "options": [
+        { "option_id": 1, "text": "घू घू", "is_correct": false },
+        { "option_id": 2, "text": "टण टण", "is_correct": true },
+        { "option_id": 3, "text": "धडाम", "is_correct": false },
+        { "option_id": 4, "text": "शूं शूं", "is_correct": false }
+      ],
+      "answer": "टण टण"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "हातांची टाळी कोणत्या क्रियेसाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "चित्र काढण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "ताल साधण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "धावण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "उडी मारण्यासाठी", "is_correct": false }
+      ],
+      "answer": "ताल साधण्यासाठी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "तुणतुणे हे कोणते वाद्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "तंतुवाद्य", "is_correct": true },
+        { "option_id": 2, "text": "वायु वाद्य", "is_correct": false },
+        { "option_id": 3, "text": "तालवाद्य", "is_correct": false },
+        { "option_id": 4, "text": "घंटावाद्य", "is_correct": false }
+      ],
+      "answer": "तंतुवाद्य"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "बैलगाडीचा आवाज कशासाठी ओळखता येतो?",
+      "options": [
+        { "option_id": 1, "text": "इंजनासाठी", "is_correct": false },
+        { "option_id": 2, "text": "पावलांच्या आवाजासाठी", "is_correct": true },
+        { "option_id": 3, "text": "शिट्टीसाठी", "is_correct": false },
+        { "option_id": 4, "text": "घंटीसाठी", "is_correct": false }
+      ],
+      "answer": "पावलांच्या आवाजासाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मोटारसायकल चालू असताना कोणता आवाज येतो?",
+      "options": [
+        { "option_id": 1, "text": "धडधड", "is_correct": true },
+        { "option_id": 2, "text": "टिक टिक", "is_correct": false },
+        { "option_id": 3, "text": "टप टप", "is_correct": false },
+        { "option_id": 4, "text": "टण टण", "is_correct": false }
+      ],
+      "answer": "धडधड"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या आवाजांची ओळख का करून घेतली जाते?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "अभ्यासासाठी", "is_correct": false },
+        { "option_id": 3, "text": "ओळख वाढवण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "गाणी म्हणण्यासाठी", "is_correct": false }
+      ],
+      "answer": "ओळख वाढवण्यासाठी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ढोलकी वाजवताना काय साधले जाते?",
+      "options": [
+        { "option_id": 1, "text": "ताल", "is_correct": true },
+        { "option_id": 2, "text": "रंग", "is_correct": false },
+        { "option_id": 3, "text": "चित्र", "is_correct": false },
+        { "option_id": 4, "text": "नृत्य", "is_correct": false }
+      ],
+      "answer": "ताल"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "रिकामा डबा कोणत्या कामासाठी वापरता येतो?",
+      "options": [
+        { "option_id": 1, "text": "वादनासाठी", "is_correct": true },
+        { "option_id": 2, "text": "रंगकामासाठी", "is_correct": false },
+        { "option_id": 3, "text": "लेखनासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "वादनासाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "झांज कशाने वाजवतात?",
+      "options": [
+        { "option_id": 1, "text": "दोन ताट्यांना आपटून", "is_correct": true },
+        { "option_id": 2, "text": "काठीने", "is_correct": false },
+        { "option_id": 3, "text": "दोऱ्याने", "is_correct": false },
+        { "option_id": 4, "text": "पायाने", "is_correct": false }
+      ],
+      "answer": "दोन ताट्यांना आपटून"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "इतर आवाजांमध्ये खालीलपैकी कोणता समाविष्ट आहे?",
+      "options": [
+        { "option_id": 1, "text": "घोडागाडी", "is_correct": true },
+        { "option_id": 2, "text": "पेन्सिल", "is_correct": false },
+        { "option_id": 3, "text": "पट्टी", "is_correct": false },
+        { "option_id": 4, "text": "फळे", "is_correct": false }
+      ],
+      "answer": "घोडागाडी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "वादनातून काय विकसित होते?",
+      "options": [
+        { "option_id": 1, "text": "श्रवणशक्ती व तालज्ञान", "is_correct": true },
+        { "option_id": 2, "text": "धावण्याची गती", "is_correct": false },
+        { "option_id": 3, "text": "लेखनकौशल्य", "is_correct": false },
+        { "option_id": 4, "text": "चित्रकला", "is_correct": false }
+      ],
+      "answer": "श्रवणशक्ती व तालज्ञान"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "उपलब्ध वस्तूंवर आघात केल्यावर आवाज का निर्माण होतो?",
+      "answer": "वस्तूंवर आघात केल्यावर त्यामध्ये कंप होतो आणि त्यामुळे आवाज निर्माण होतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "रिकामा डबा वादनासाठी कसा उपयोगी ठरतो?",
+      "answer": "रिकामा डबा आपटल्यास टुणटुण असा आवाज होतो आणि तो तालासाठी वापरता येतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "हातांची टाळी कशी मारतात?",
+      "answer": "दोन्ही हात एकमेकांना समोर आणून तालात आपटतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "ढोलकी कुठे वापरली जाते?",
+      "answer": "ढोलकी लोकगीते, नृत्य व सण-समारंभात वापरली जाते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "झांज वाजवताना कोणती काळजी घ्यावी?",
+      "answer": "हळूवार आणि तालात वाजवावी, जोरात आपटू नये."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "तुणतुणे कोणत्या प्रकारचे वाद्य आहे?",
+      "answer": "तुणतुणे हे तंतुवाद्य आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "वाहनांचे आवाज ओळखण्याचा उपयोग कशासाठी होतो?",
+      "answer": "वाहन जवळ आहे की दूर हे समजते आणि सुरक्षितता राखता येते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "बैलगाडीचा आवाज कसा असतो?",
+      "answer": "हलक्या पावलांचा आणि चाकांच्या गारगोटीवरून जाण्याचा मऊ आवाज असतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मोटारसायकलचा आवाज कसा असतो?",
+      "answer": "धडधड असा इंजिनाचा आवाज होतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "वादनामुळे मुलांमध्ये कोणती जाणीव विकसित होते?",
+      "answer": "ताल, लय आणि श्रवणशक्तीची जाणीव विकसित होते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "हलगी कोणत्या प्रकारच्या कार्यक्रमात वापरली जाते?",
+      "answer": "हलगी पारंपरिक आणि लोककलांच्या कार्यक्रमात वापरली जाते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "वादनातून समूहभावना कशी वाढते?",
+      "answer": "एकत्र ताल धरून वादन केल्याने एकजूट आणि समन्वय वाढतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "झांज कोणत्या दोन भागांची असते?",
+      "answer": "झांज दोन गोल धातूच्या ताट्यांची असते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "इतर आवाजांची नक्कल करणे का शिकवले जाते?",
+      "answer": "आवाज ओळखण्याची आणि निरीक्षणशक्ती वाढवण्यासाठी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "वादनातून गायनाला कशी साथ मिळते?",
+      "answer": "ताल आणि लय साधल्याने गायन अधिक सुरेल होते."
+    }
+  ]
+}

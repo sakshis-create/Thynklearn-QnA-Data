@@ -1,0 +1,1218 @@
+{
+  "voyage": "Ancient Kingdoms of the South",
+  "lessons": [
+    "The Cher, Pandya and Chola dynasties",
+    "The Satavahana dynasty",
+    "The Vakataka dynasty",
+    "The Chalukya dynasty",
+    "The Pallava dynasty",
+    "The Rashtrakuta dynasty"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which three dynasties of South India are mentioned in ancient literature?",
+      "options": [
+        { "option_id": 1, "text": "Chalukya, Pallava, Rashtrakuta", "is_correct": false },
+        { "option_id": 2, "text": "Cher, Pandya and Chola", "is_correct": true },
+        { "option_id": 3, "text": "Satavahana, Gupta, Vakataka", "is_correct": false },
+        { "option_id": 4, "text": "Maurya, Shunga, Kushana", "is_correct": false }
+      ],
+      "answer": "Cher, Pandya and Chola"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which literary source mentions the Cher, Pandya and Chola dynasties?",
+      "options": [
+        { "option_id": 1, "text": "Arthashastra", "is_correct": false },
+        { "option_id": 2, "text": "Sangham Literature", "is_correct": true },
+        { "option_id": 3, "text": "Harshacharita", "is_correct": false },
+        { "option_id": 4, "text": "Rajtarangini", "is_correct": false }
+      ],
+      "answer": "Sangham Literature"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which port of the Cher kingdom is mentioned in the Periplus of the Erythrean Sea?",
+      "options": [
+        { "option_id": 1, "text": "Kalyan", "is_correct": false },
+        { "option_id": 2, "text": "Muziris", "is_correct": true },
+        { "option_id": 3, "text": "Barigaza", "is_correct": false },
+        { "option_id": 4, "text": "Sopara", "is_correct": false }
+      ],
+      "answer": "Muziris"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was the capital of the Pandya kingdom?",
+      "options": [
+        { "option_id": 1, "text": "Kanchipuram", "is_correct": false },
+        { "option_id": 2, "text": "Madurai", "is_correct": true },
+        { "option_id": 3, "text": "Tiruchirapalli", "is_correct": false },
+        { "option_id": 4, "text": "Pratishthan", "is_correct": false }
+      ],
+      "answer": "Madurai"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which commodity from the Pandya kingdom was highly valued?",
+      "options": [
+        { "option_id": 1, "text": "Spices", "is_correct": false },
+        { "option_id": 2, "text": "Pearls", "is_correct": true },
+        { "option_id": 3, "text": "Cotton cloth", "is_correct": false },
+        { "option_id": 4, "text": "Ivory", "is_correct": false }
+      ],
+      "answer": "Pearls"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which region was occupied by the ancient Chola kingdom?",
+      "options": [
+        { "option_id": 1, "text": "Madurai region", "is_correct": false },
+        { "option_id": 2, "text": "Tiruchirapalli region", "is_correct": true },
+        { "option_id": 3, "text": "Kanchipuram region", "is_correct": false },
+        { "option_id": 4, "text": "Malwa region", "is_correct": false }
+      ],
+      "answer": "Tiruchirapalli region"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which dynasty established its capital at Pratishthan (Paithan)?",
+      "options": [
+        { "option_id": 1, "text": "Vakataka", "is_correct": false },
+        { "option_id": 2, "text": "Satavahana", "is_correct": true },
+        { "option_id": 3, "text": "Chalukya", "is_correct": false },
+        { "option_id": 4, "text": "Pallava", "is_correct": false }
+      ],
+      "answer": "Satavahana"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who was the founder of the Satavahana dynasty?",
+      "options": [
+        { "option_id": 1, "text": "Hala", "is_correct": false },
+        { "option_id": 2, "text": "Simuk", "is_correct": true },
+        { "option_id": 3, "text": "Gautamiputra Satakarni", "is_correct": false },
+        { "option_id": 4, "text": "Nahpana", "is_correct": false }
+      ],
+      "answer": "Simuk"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which Satavahana ruler defeated the Shaka king Nahpana?",
+      "options": [
+        { "option_id": 1, "text": "Hala", "is_correct": false },
+        { "option_id": 2, "text": "Gautamiputra Satakarni", "is_correct": true },
+        { "option_id": 3, "text": "Simuk", "is_correct": false },
+        { "option_id": 4, "text": "Pulakeshi I", "is_correct": false }
+      ],
+      "answer": "Gautamiputra Satakarni"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does the title ‘Tri-samudra-toya-peet-vahan’ signify?",
+      "options": [
+        { "option_id": 1, "text": "Ruler of three continents", "is_correct": false },
+        { "option_id": 2, "text": "One whose horses drank water of three seas", "is_correct": true },
+        { "option_id": 3, "text": "Conqueror of three kingdoms", "is_correct": false },
+        { "option_id": 4, "text": "Protector of three rivers", "is_correct": false }
+      ],
+      "answer": "One whose horses drank water of three seas"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which three seas are referred to in the title Tri-samudra-toya-peet-vahan?",
+      "options": [
+        { "option_id": 1, "text": "Arabian Sea, Red Sea, Caspian Sea", "is_correct": false },
+        { "option_id": 2, "text": "Arabian Sea, Bay of Bengal, Indian Ocean", "is_correct": true },
+        { "option_id": 3, "text": "Bay of Bengal, Red Sea, Persian Gulf", "is_correct": false },
+        { "option_id": 4, "text": "Indian Ocean, Pacific Ocean, Atlantic Ocean", "is_correct": false }
+      ],
+      "answer": "Arabian Sea, Bay of Bengal, Indian Ocean"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which Satavahana king composed ‘Gatha-Saptashati’?",
+      "options": [
+        { "option_id": 1, "text": "Simuk", "is_correct": false },
+        { "option_id": 2, "text": "Hala", "is_correct": true },
+        { "option_id": 3, "text": "Gautamiputra Satakarni", "is_correct": false },
+        { "option_id": 4, "text": "Nahpana", "is_correct": false }
+      ],
+      "answer": "Hala"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which language was used to compose ‘Gatha-Saptashati’?",
+      "options": [
+        { "option_id": 1, "text": "Sanskrit", "is_correct": false },
+        { "option_id": 2, "text": "Maharashtri Prakrit", "is_correct": true },
+        { "option_id": 3, "text": "Tamil", "is_correct": false },
+        { "option_id": 4, "text": "Pali", "is_correct": false }
+      ],
+      "answer": "Maharashtri Prakrit"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which pass served as an important trade route during the Satavahana period?",
+      "options": [
+        { "option_id": 1, "text": "Bhor Ghat", "is_correct": false },
+        { "option_id": 2, "text": "Naneghat", "is_correct": true },
+        { "option_id": 3, "text": "Thal Ghat", "is_correct": false },
+        { "option_id": 4, "text": "Pal Ghat", "is_correct": false }
+      ],
+      "answer": "Naneghat"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which feature appears on some Satavahana coins?",
+      "options": [
+        { "option_id": 1, "text": "Lion", "is_correct": false },
+        { "option_id": 2, "text": "Ship", "is_correct": true },
+        { "option_id": 3, "text": "Elephant", "is_correct": false },
+        { "option_id": 4, "text": "Horse", "is_correct": false }
+      ],
+      "answer": "Ship"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which dynasty succeeded the weakening Satavahanas?",
+      "options": [
+        { "option_id": 1, "text": "Gupta", "is_correct": false },
+        { "option_id": 2, "text": "Vakataka", "is_correct": true },
+        { "option_id": 3, "text": "Pallava", "is_correct": false },
+        { "option_id": 4, "text": "Rashtrakuta", "is_correct": false }
+      ],
+      "answer": "Vakataka"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who founded the Vakataka dynasty?",
+      "options": [
+        { "option_id": 1, "text": "Pravarsen I", "is_correct": false },
+        { "option_id": 2, "text": "Vindhyashakti", "is_correct": true },
+        { "option_id": 3, "text": "Harishena", "is_correct": false },
+        { "option_id": 4, "text": "Rudrasen II", "is_correct": false }
+      ],
+      "answer": "Vindhyashakti"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What was the capital of one branch of the Vakataka dynasty?",
+      "options": [
+        { "option_id": 1, "text": "Vatapi", "is_correct": false },
+        { "option_id": 2, "text": "Nandivardhan", "is_correct": true },
+        { "option_id": 3, "text": "Kanchipuram", "is_correct": false },
+        { "option_id": 4, "text": "Madurai", "is_correct": false }
+      ],
+      "answer": "Nandivardhan"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which place was known as ‘Kuntal’ in ancient times?",
+      "options": [
+        { "option_id": 1, "text": "Nagpur", "is_correct": false },
+        { "option_id": 2, "text": "Kolhapur", "is_correct": true },
+        { "option_id": 3, "text": "Washim", "is_correct": false },
+        { "option_id": 4, "text": "Paithan", "is_correct": false }
+      ],
+      "answer": "Kolhapur"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which Vakataka ruler beautified the Ajanta caves with paintings?",
+      "options": [
+        { "option_id": 1, "text": "Vindhyashakti", "is_correct": false },
+        { "option_id": 2, "text": "Harishena", "is_correct": true },
+        { "option_id": 3, "text": "Pravarsen I", "is_correct": false },
+        { "option_id": 4, "text": "Rudrasen II", "is_correct": false }
+      ],
+      "answer": "Harishena"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which dynasty established its capital at Badami (Vatapi)?",
+      "options": [
+        { "option_id": 1, "text": "Pallava", "is_correct": false },
+        { "option_id": 2, "text": "Chalukya", "is_correct": true },
+        { "option_id": 3, "text": "Rashtrakuta", "is_correct": false },
+        { "option_id": 4, "text": "Vakataka", "is_correct": false }
+      ],
+      "answer": "Chalukya"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who established the Chalukya rule in the sixth century CE?",
+      "options": [
+        { "option_id": 1, "text": "Pulakeshi II", "is_correct": false },
+        { "option_id": 2, "text": "Pulakeshi I", "is_correct": true },
+        { "option_id": 3, "text": "Mahendravarman", "is_correct": false },
+        { "option_id": 4, "text": "Dantidurg", "is_correct": false }
+      ],
+      "answer": "Pulakeshi I"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which Chalukya ruler repulsed Harshavardhan’s invasion?",
+      "options": [
+        { "option_id": 1, "text": "Pulakeshi I", "is_correct": false },
+        { "option_id": 2, "text": "Pulakeshi II", "is_correct": true },
+        { "option_id": 3, "text": "Pravarsen II", "is_correct": false },
+        { "option_id": 4, "text": "Narasimhavarman", "is_correct": false }
+      ],
+      "answer": "Pulakeshi II"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which site is associated with Chalukya temple architecture?",
+      "options": [
+        { "option_id": 1, "text": "Mahabalipuram", "is_correct": false },
+        { "option_id": 2, "text": "Pattadakal", "is_correct": true },
+        { "option_id": 3, "text": "Ellora", "is_correct": false },
+        { "option_id": 4, "text": "Ajanta", "is_correct": false }
+      ],
+      "answer": "Pattadakal"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which dynasty ruled from Kanchipuram?",
+      "options": [
+        { "option_id": 1, "text": "Chalukya", "is_correct": false },
+        { "option_id": 2, "text": "Pallava", "is_correct": true },
+        { "option_id": 3, "text": "Rashtrakuta", "is_correct": false },
+        { "option_id": 4, "text": "Vakataka", "is_correct": false }
+      ],
+      "answer": "Pallava"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which Pallava ruler was also a playwright?",
+      "options": [
+        { "option_id": 1, "text": "Narasimhavarman", "is_correct": false },
+        { "option_id": 2, "text": "Mahendravarman", "is_correct": true },
+        { "option_id": 3, "text": "Pulakeshi II", "is_correct": false },
+        { "option_id": 4, "text": "Dantidurg", "is_correct": false }
+      ],
+      "answer": "Mahendravarman"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which Pallava ruler defeated Pulakeshi II?",
+      "options": [
+        { "option_id": 1, "text": "Mahendravarman", "is_correct": false },
+        { "option_id": 2, "text": "Narasimhavarman", "is_correct": true },
+        { "option_id": 3, "text": "Harishena", "is_correct": false },
+        { "option_id": 4, "text": "Krishna Raja I", "is_correct": false }
+      ],
+      "answer": "Narasimhavarman"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The ratha temples of Mahabalipuram are carved from:",
+      "options": [
+        { "option_id": 1, "text": "Brick", "is_correct": false },
+        { "option_id": 2, "text": "Single rock", "is_correct": true },
+        { "option_id": 3, "text": "Wood", "is_correct": false },
+        { "option_id": 4, "text": "Marble", "is_correct": false }
+      ],
+      "answer": "Single rock"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which dynasty maintained a strong navy and overseas trade?",
+      "options": [
+        { "option_id": 1, "text": "Vakataka", "is_correct": false },
+        { "option_id": 2, "text": "Pallava", "is_correct": true },
+        { "option_id": 3, "text": "Satavahana", "is_correct": false },
+        { "option_id": 4, "text": "Rashtrakuta", "is_correct": false }
+      ],
+      "answer": "Pallava"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which traveller recorded tolerant administration under the Pallavas?",
+      "options": [
+        { "option_id": 1, "text": "Fa Hien", "is_correct": false },
+        { "option_id": 2, "text": "Yuan Chwang", "is_correct": true },
+        { "option_id": 3, "text": "Megasthenes", "is_correct": false },
+        { "option_id": 4, "text": "Ibn Battuta", "is_correct": false }
+      ],
+      "answer": "Yuan Chwang"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which dynasty’s rule extended from Vindhya mountains to Kanniyakumari?",
+      "options": [
+        { "option_id": 1, "text": "Pallava", "is_correct": false },
+        { "option_id": 2, "text": "Rashtrakuta", "is_correct": true },
+        { "option_id": 3, "text": "Chalukya", "is_correct": false },
+        { "option_id": 4, "text": "Vakataka", "is_correct": false }
+      ],
+      "answer": "Rashtrakuta"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who established Rashtrakuta power in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Krishna Raja I", "is_correct": false },
+        { "option_id": 2, "text": "Dantidurg", "is_correct": true },
+        { "option_id": 3, "text": "Pulakeshi II", "is_correct": false },
+        { "option_id": 4, "text": "Harishena", "is_correct": false }
+      ],
+      "answer": "Dantidurg"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which ruler carved the Kailas temple at Ellora?",
+      "options": [
+        { "option_id": 1, "text": "Dantidurg", "is_correct": false },
+        { "option_id": 2, "text": "Krishna Raja I", "is_correct": true },
+        { "option_id": 3, "text": "Narasimhavarman", "is_correct": false },
+        { "option_id": 4, "text": "Pulakeshi I", "is_correct": false }
+      ],
+      "answer": "Krishna Raja I"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The Kailas temple is located at:",
+      "options": [
+        { "option_id": 1, "text": "Badami", "is_correct": false },
+        { "option_id": 2, "text": "Ellora", "is_correct": true },
+        { "option_id": 3, "text": "Ajanta", "is_correct": false },
+        { "option_id": 4, "text": "Mahabalipuram", "is_correct": false }
+      ],
+      "answer": "Ellora"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which work provides information about Indian coastal trade?",
+      "options": [
+        { "option_id": 1, "text": "Rajtarangini", "is_correct": false },
+        { "option_id": 2, "text": "Periplus of the Erythrean Sea", "is_correct": true },
+        { "option_id": 3, "text": "Harshacharita", "is_correct": false },
+        { "option_id": 4, "text": "Arthashastra", "is_correct": false }
+      ],
+      "answer": "Periplus of the Erythrean Sea"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which ancient port mentioned in the Periplus no longer exists?",
+      "options": [
+        { "option_id": 1, "text": "Kalyan", "is_correct": false },
+        { "option_id": 2, "text": "Muziris", "is_correct": true },
+        { "option_id": 3, "text": "Barigaza", "is_correct": false },
+        { "option_id": 4, "text": "Sopara", "is_correct": false }
+      ],
+      "answer": "Muziris"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which dynasty is associated with the caves of Ajanta?",
+      "options": [
+        { "option_id": 1, "text": "Satavahana", "is_correct": false },
+        { "option_id": 2, "text": "Vakataka", "is_correct": true },
+        { "option_id": 3, "text": "Pallava", "is_correct": false },
+        { "option_id": 4, "text": "Rashtrakuta", "is_correct": false }
+      ],
+      "answer": "Vakataka"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which Prakrit work was written by Pravarsen II?",
+      "options": [
+        { "option_id": 1, "text": "Gatha-Saptashati", "is_correct": false },
+        { "option_id": 2, "text": "Setubandh", "is_correct": true },
+        { "option_id": 3, "text": "Meghadoot", "is_correct": false },
+        { "option_id": 4, "text": "Buddhacharita", "is_correct": false }
+      ],
+      "answer": "Setubandh"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which poet’s Meghadoot belongs to the Vakataka period?",
+      "options": [
+        { "option_id": 1, "text": "Banabhatta", "is_correct": false },
+        { "option_id": 2, "text": "Kalidasa", "is_correct": true },
+        { "option_id": 3, "text": "Ashvaghosh", "is_correct": false },
+        { "option_id": 4, "text": "Charaka", "is_correct": false }
+      ],
+      "answer": "Kalidasa"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which place served as a Pallava centre of art and architecture?",
+      "options": [
+        { "option_id": 1, "text": "Ellora", "is_correct": false },
+        { "option_id": 2, "text": "Mahabalipuram", "is_correct": true },
+        { "option_id": 3, "text": "Badami", "is_correct": false },
+        { "option_id": 4, "text": "Ajanta", "is_correct": false }
+      ],
+      "answer": "Mahabalipuram"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which dynasty promoted maritime trade with Southeast Asia?",
+      "options": [
+        { "option_id": 1, "text": "Satavahana", "is_correct": false },
+        { "option_id": 2, "text": "Pallava", "is_correct": true },
+        { "option_id": 3, "text": "Vakataka", "is_correct": false },
+        { "option_id": 4, "text": "Rashtrakuta", "is_correct": false }
+      ],
+      "answer": "Pallava"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which dynasty is known for rock-cut monolithic temples?",
+      "options": [
+        { "option_id": 1, "text": "Rashtrakuta", "is_correct": true },
+        { "option_id": 2, "text": "Satavahana", "is_correct": false },
+        { "option_id": 3, "text": "Vakataka", "is_correct": false },
+        { "option_id": 4, "text": "Chola", "is_correct": false }
+      ],
+      "answer": "Rashtrakuta"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which dynasty dominated Karnataka after the Vakatakas?",
+      "options": [
+        { "option_id": 1, "text": "Pallava", "is_correct": false },
+        { "option_id": 2, "text": "Chalukya", "is_correct": true },
+        { "option_id": 3, "text": "Satavahana", "is_correct": false },
+        { "option_id": 4, "text": "Rashtrakuta", "is_correct": false }
+      ],
+      "answer": "Chalukya"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which Chalukya site is famous for early temple experiments?",
+      "options": [
+        { "option_id": 1, "text": "Aihole", "is_correct": true },
+        { "option_id": 2, "text": "Ellora", "is_correct": false },
+        { "option_id": 3, "text": "Mahabalipuram", "is_correct": false },
+        { "option_id": 4, "text": "Ajanta", "is_correct": false }
+      ],
+      "answer": "Aihole"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which dynasty is associated with Pattadakal as a UNESCO heritage site?",
+      "options": [
+        { "option_id": 1, "text": "Pallava", "is_correct": false },
+        { "option_id": 2, "text": "Chalukya", "is_correct": true },
+        { "option_id": 3, "text": "Rashtrakuta", "is_correct": false },
+        { "option_id": 4, "text": "Vakataka", "is_correct": false }
+      ],
+      "answer": "Chalukya"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which dynasty ruled both northern and southern parts of India extensively?",
+      "options": [
+        { "option_id": 1, "text": "Pallava", "is_correct": false },
+        { "option_id": 2, "text": "Rashtrakuta", "is_correct": true },
+        { "option_id": 3, "text": "Satavahana", "is_correct": false },
+        { "option_id": 4, "text": "Vakataka", "is_correct": false }
+      ],
+      "answer": "Rashtrakuta"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which dynasty is known for tolerance towards all religions?",
+      "options": [
+        { "option_id": 1, "text": "Vakataka", "is_correct": false },
+        { "option_id": 2, "text": "Pallava", "is_correct": true },
+        { "option_id": 3, "text": "Satavahana", "is_correct": false },
+        { "option_id": 4, "text": "Chalukya", "is_correct": false }
+      ],
+      "answer": "Pallava"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which dynasty is linked with extensive cave architecture in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Satavahana", "is_correct": true },
+        { "option_id": 2, "text": "Pallava", "is_correct": false },
+        { "option_id": 3, "text": "Chola", "is_correct": false },
+        { "option_id": 4, "text": "Gupta", "is_correct": false }
+      ],
+      "answer": "Satavahana"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which dynasty is the last discussed in this chapter?",
+      "options": [
+        { "option_id": 1, "text": "Pallava", "is_correct": false },
+        { "option_id": 2, "text": "Rashtrakuta", "is_correct": true },
+        { "option_id": 3, "text": "Vakataka", "is_correct": false },
+        { "option_id": 4, "text": "Satavahana", "is_correct": false }
+      ],
+      "answer": "Rashtrakuta"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the central focus of this chapter?",
+      "options": [
+        { "option_id": 1, "text": "North Indian empires", "is_correct": false },
+        { "option_id": 2, "text": "Ancient kingdoms of South India", "is_correct": true },
+        { "option_id": 3, "text": "Medieval Indian history", "is_correct": false },
+        { "option_id": 4, "text": "Foreign invasions of India", "is_correct": false }
+      ],
+      "answer": "Ancient kingdoms of South India"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why are the Cher, Pandya and Chola dynasties known as ancient Tamil kingdoms?",
+      "answer": "They ruled Tamil-speaking regions and are described in Sangham literature."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the historical importance of Sangham literature?",
+      "answer": "It provides information about early South Indian kingdoms, society, and economy."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why was Muziris an important port during ancient times?",
+      "answer": "It served as a major center for overseas trade."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What made Madurai a significant city in the Pandya kingdom?",
+      "answer": "It was the capital and a center of culture and administration."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why were pearls an important economic resource for the Pandyas?",
+      "answer": "Pearl fishing brought wealth through trade."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which region did the early Cholas control?",
+      "answer": "They controlled the Tiruchirapalli region."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is Pratishthan associated with the Satavahanas?",
+      "answer": "It served as their capital city."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who founded the Satavahana dynasty?",
+      "answer": "The dynasty was founded by Simuk."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why is Gautamiputra Satakarni considered a powerful Satavahana ruler?",
+      "answer": "He defeated the Shaka ruler Nahpana and expanded the kingdom."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What does the title Tri-samudra-toya-peet-vahan indicate?",
+      "answer": "It indicates expansion up to three seas."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which three seas are associated with Satavahana expansion?",
+      "answer": "Arabian Sea, Bay of Bengal, and Indian Ocean."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Who composed the work Gatha-Saptashati?",
+      "answer": "It was composed by King Hala."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is Maharashtri Prakrit important in Satavahana history?",
+      "answer": "It was used as a literary language during their rule."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How did Naneghat support Satavahana trade?",
+      "answer": "It functioned as an important mountain pass for trade routes."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does the ship symbol on Satavahana coins represent?",
+      "answer": "It represents maritime trade."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which dynasty rose after the decline of the Satavahanas?",
+      "answer": "The Vakataka dynasty rose after the Satavahanas."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Who founded the Vakataka dynasty?",
+      "answer": "The dynasty was founded by Vindhyashakti."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why is Nandivardhan important in Vakataka history?",
+      "answer": "It served as the capital of a Vakataka branch."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What artistic achievement is associated with Harishena?",
+      "answer": "He patronized the paintings of Ajanta caves."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is Kolhapur mentioned in Vakataka history?",
+      "answer": "It was known as Kuntal in ancient times."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Which dynasty established its capital at Vatapi?",
+      "answer": "The Chalukya dynasty established its capital at Vatapi."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Who laid the foundation of Chalukya power?",
+      "answer": "Pulakeshi I laid the foundation of Chalukya power."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why is Pulakeshi II remembered in history?",
+      "answer": "He successfully resisted Harshavardhan’s invasion."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What architectural importance does Pattadakal hold?",
+      "answer": "It showcases Chalukya temple architecture."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which dynasty ruled from Kanchipuram?",
+      "answer": "The Pallava dynasty ruled from Kanchipuram."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why is Mahendravarman significant among Pallava rulers?",
+      "answer": "He was a ruler and a playwright."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Who defeated Pulakeshi II in battle?",
+      "answer": "Narasimhavarman defeated Pulakeshi II."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What makes the ratha temples of Mahabalipuram unique?",
+      "answer": "They are carved from a single rock."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why were the Pallavas known for naval strength?",
+      "answer": "They promoted overseas trade."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Which traveller commented on Pallava administration?",
+      "answer": "The Chinese traveller Yuan Chwang."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which dynasty expanded rule from the Vindhyas to Kanniyakumari?",
+      "answer": "The Rashtrakuta dynasty expanded rule over this region."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Who founded the Rashtrakuta power?",
+      "answer": "Rashtrakuta power was founded by Dantidurg."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is Krishna Raja I important in Rashtrakuta history?",
+      "answer": "He built the Kailas temple at Ellora."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What architectural feature distinguishes the Kailas temple?",
+      "answer": "It is a monolithic rock-cut temple."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which ancient text provides details about coastal trade?",
+      "answer": "The Periplus of the Erythrean Sea."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is Muziris considered historically important despite no longer existing?",
+      "answer": "It was a major ancient port for international trade."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which dynasty is linked with Ajanta cave paintings?",
+      "answer": "The Vakataka dynasty is linked with Ajanta caves."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Which literary work was written by Pravarsen II?",
+      "answer": "Setubandh was written by Pravarsen II."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why is Kalidasa associated with the Vakataka period?",
+      "answer": "His work Meghadoot belongs to this period."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What made Mahabalipuram an important Pallava center?",
+      "answer": "It was a major center of art and architecture."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Which dynasty encouraged maritime trade with Southeast Asia?",
+      "answer": "The Pallava dynasty encouraged maritime trade."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why are Rashtrakutas known for cave architecture?",
+      "answer": "They built large monolithic rock-cut temples."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which dynasty dominated Karnataka after the Vakatakas?",
+      "answer": "The Chalukyas dominated Karnataka."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why is Aihole important in temple architecture?",
+      "answer": "It shows early experiments in temple construction."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which dynasty is associated with Pattadakal?",
+      "answer": "The Chalukya dynasty is associated with Pattadakal."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why is the Rashtrakuta dynasty historically significant?",
+      "answer": "It ruled a vast territory across India."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What does this chapter reveal about South Indian kingdoms?",
+      "answer": "It shows political diversity and cultural richness."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why were trade routes important for ancient South Indian kingdoms?",
+      "answer": "They supported economic growth and overseas trade."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How did patronage of art strengthen royal authority?",
+      "answer": "It enhanced prestige and cultural influence."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "How does this chapter help understand early South Indian history?",
+      "answer": "It explains the rise and contributions of major southern dynasties."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why are the Cher, Pandya and Chola kingdoms considered foundational to South Indian history?",
+      "answer": "They represent the earliest organized political powers described in Sangham literature."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How did Sangham literature help historians reconstruct early South Indian society?",
+      "answer": "It provides details about rulers, economy, social life, and warfare."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why was overseas trade crucial for the Cher kingdom?",
+      "answer": "It brought wealth through ports like Muziris and connected them to foreign markets."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How did pearl trade influence the power of the Pandya kingdom?",
+      "answer": "Pearl exports generated revenue and international recognition."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why did control over river valleys strengthen early Chola rule?",
+      "answer": "River valleys supported agriculture and population growth."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How did the Satavahanas act as a link between North and South India?",
+      "answer": "They controlled trade routes connecting northern and southern regions."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why was Pratishthan strategically important for the Satavahanas?",
+      "answer": "It lay on major inland trade routes."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How did Gautamiputra Satakarni consolidate Satavahana power?",
+      "answer": "By defeating Shaka rulers and restoring territorial control."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why is the title Tri-samudra-toya-peet-vahan historically significant?",
+      "answer": "It symbolized extensive territorial expansion."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How does Gatha-Saptashati reflect social life of the Satavahana period?",
+      "answer": "It describes everyday emotions and rural life."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why was maritime imagery used on Satavahana coins?",
+      "answer": "To highlight the importance of sea trade."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How did the rise of the Vakatakas change Deccan politics?",
+      "answer": "They replaced Satavahana authority with a new ruling power."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why was Ajanta an important center under the Vakatakas?",
+      "answer": "It flourished as a major artistic and religious site."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How did Vakataka patronage contribute to Indian art?",
+      "answer": "It supported detailed mural paintings at Ajanta."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is Kalidasa associated with cultural growth during this period?",
+      "answer": "His works reflect literary excellence of the age."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How did the Chalukyas establish political dominance in the Deccan?",
+      "answer": "Through military strength and administrative control."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why was Vatapi chosen as the Chalukya capital?",
+      "answer": "It was well-protected by natural defenses."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How did Pulakeshi II enhance Chalukya prestige?",
+      "answer": "By successfully resisting northern invasion."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why is Pattadakal important for understanding temple architecture?",
+      "answer": "It shows a blend of architectural styles."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How did Pallava rule encourage artistic innovation?",
+      "answer": "Through patronage of rock-cut and structural temples."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why was Kanchipuram a powerful Pallava capital?",
+      "answer": "It was a political, religious, and cultural center."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How did Mahendravarman contribute to Pallava culture?",
+      "answer": "He promoted literature and drama."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is Mahabalipuram considered architecturally significant?",
+      "answer": "It contains monolithic ratha temples and reliefs."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How did naval strength benefit the Pallava kingdom?",
+      "answer": "It enabled overseas trade and influence."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why was religious tolerance important under the Pallavas?",
+      "answer": "It ensured social harmony among diverse communities."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "How did the Rashtrakutas emerge as a pan-Indian power?",
+      "answer": "By controlling large territories across regions."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why was Ellora significant during Rashtrakuta rule?",
+      "answer": "It became a center of monumental rock-cut architecture."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How does the Kailas temple demonstrate engineering excellence?",
+      "answer": "It was carved entirely from a single rock."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why did Rashtrakuta patronage strengthen cultural unity?",
+      "answer": "It supported art and religion across regions."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How did geography influence the rise of Deccan kingdoms?",
+      "answer": "Plateaus and passes shaped trade and defense."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why were trade routes essential for political stability?",
+      "answer": "They generated revenue for administration."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How did temple building serve political purposes?",
+      "answer": "It symbolized royal power and devotion."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is South India described as culturally diverse in this chapter?",
+      "answer": "Multiple dynasties promoted varied traditions."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How did foreign trade influence local economies?",
+      "answer": "It increased wealth and urban development."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is this period important for understanding regional kingdoms?",
+      "answer": "It marks the rise of independent southern powers."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How did inscriptions and coins help legitimize rulers?",
+      "answer": "They recorded achievements and authority."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why was art patronage a common feature among southern dynasties?",
+      "answer": "It enhanced prestige and cultural legacy."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How does the chapter show continuity despite political change?",
+      "answer": "Cultural practices continued across dynasties."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why were ports vital to South Indian kingdoms?",
+      "answer": "They connected India with overseas markets."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "How did religious architecture reflect royal ideology?",
+      "answer": "It displayed devotion and authority."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why is the Deccan considered a bridge between North and South India?",
+      "answer": "It linked political and trade networks."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "How did dynastic rivalries shape South Indian history?",
+      "answer": "They influenced territorial expansion and alliances."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is the study of multiple dynasties necessary for this period?",
+      "answer": "No single power dominated permanently."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How does this chapter highlight the role of geography in history?",
+      "answer": "It explains how terrain affected politics and trade."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why did South Indian kingdoms focus on maritime strength?",
+      "answer": "To support overseas trade and influence."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How did cultural achievements strengthen royal legitimacy?",
+      "answer": "They earned respect and loyalty of subjects."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is temple architecture a key historical source?",
+      "answer": "It preserves artistic and religious values."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How does this chapter explain interaction between regions?",
+      "answer": "Through trade, warfare, and cultural exchange."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is the study of ancient South Indian kingdoms essential?",
+      "answer": "It reveals regional contributions to Indian civilization."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "How does this chapter contribute to understanding Indian history as a whole?",
+      "answer": "It integrates southern developments into the national narrative."
+    }
+  ]
+}
+
+
+  

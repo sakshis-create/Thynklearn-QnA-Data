@@ -1,0 +1,1209 @@
+{
+" Chapter 13 ": " Sound",
+"lessons": [
+"Sound"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "What do you feel when you place your hand on a speaker while a song is being played?",
+"options": [
+{ "option_id": 1, "text": "Coldness", "is_correct": false },
+{ "option_id": 2, "text": "Vibrations", "is_correct": true },
+{ "option_id": 3, "text": "Heat", "is_correct": false },
+{ "option_id": 4, "text": "Nothing", "is_correct": false }
+],
+"answer": "Vibrations"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "What happens to the rubber band when you pluck it after stretching?",
+"options": [
+{ "option_id": 1, "text": "It remains still", "is_correct": false },
+{ "option_id": 2, "text": "It vibrates", "is_correct": true },
+{ "option_id": 3, "text": "It breaks", "is_correct": false },
+{ "option_id": 4, "text": "It stretches more", "is_correct": false }
+],
+"answer": "It vibrates"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "What do you observe on the tabla diaphragm when you spread sawdust and knock it while it makes sound?",
+"options": [
+{ "option_id": 1, "text": "Sawdust stays still", "is_correct": false },
+{ "option_id": 2, "text": "Sawdust jumps around", "is_correct": true },
+{ "option_id": 3, "text": "Sawdust disappears", "is_correct": false },
+{ "option_id": 4, "text": "Sawdust sticks", "is_correct": false }
+],
+"answer": "Sawdust jumps around"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "What is necessary for the production of sound according to the chapter?",
+"options": [
+{ "option_id": 1, "text": "Heat", "is_correct": false },
+{ "option_id": 2, "text": "Vibration of an object", "is_correct": true },
+{ "option_id": 3, "text": "Light", "is_correct": false },
+{ "option_id": 4, "text": "Electricity", "is_correct": false }
+],
+"answer": "Vibration of an object"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "What is the science of sound including production, propagation and effects called?",
+"options": [
+{ "option_id": 1, "text": "Optics", "is_correct": false },
+{ "option_id": 2, "text": "Acoustics", "is_correct": true },
+{ "option_id": 3, "text": "Mechanics", "is_correct": false },
+{ "option_id": 4, "text": "Thermodynamics", "is_correct": false }
+],
+"answer": "Acoustics"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "In what unit is the intensity of sound measured?",
+"options": [
+{ "option_id": 1, "text": "Hertz", "is_correct": false },
+{ "option_id": 2, "text": "Decibel dB", "is_correct": true },
+{ "option_id": 3, "text": "Watt", "is_correct": false },
+{ "option_id": 4, "text": "Newton", "is_correct": false }
+],
+"answer": "Decibel dB"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "Where is the voice box located?",
+"options": [
+{ "option_id": 1, "text": "In the chest", "is_correct": false },
+{ "option_id": 2, "text": "In the throat", "is_correct": true },
+{ "option_id": 3, "text": "In the nose", "is_correct": false },
+{ "option_id": 4, "text": "In the lungs", "is_correct": false }
+],
+"answer": "In the throat"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "Through which balloon do we hear a clearer sound when rubbing a finger against it filled with liquid?",
+"options": [
+{ "option_id": 1, "text": "Air balloon", "is_correct": false },
+{ "option_id": 2, "text": "Water balloon", "is_correct": true },
+{ "option_id": 3, "text": "Both same", "is_correct": false },
+{ "option_id": 4, "text": "Neither", "is_correct": false }
+],
+"answer": "Water balloon"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "How is sound propagated more clearly compared to air?",
+"options": [
+{ "option_id": 1, "text": "Through vacuum", "is_correct": false },
+{ "option_id": 2, "text": "Through liquid", "is_correct": true },
+{ "option_id": 3, "text": "Through space", "is_correct": false },
+{ "option_id": 4, "text": "Through wind", "is_correct": false }
+],
+"answer": "Through liquid"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Through which medium is sound heard most clearly?",
+"options": [
+{ "option_id": 1, "text": "Air", "is_correct": false },
+{ "option_id": 2, "text": "Water", "is_correct": false },
+{ "option_id": 3, "text": "Solid", "is_correct": true },
+{ "option_id": 4, "text": "Vacuum", "is_correct": false }
+],
+"answer": "Solid"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "What spreads in all directions from a source of sound?",
+"options": [
+{ "option_id": 1, "text": "Light waves", "is_correct": false },
+{ "option_id": 2, "text": "Sound waves", "is_correct": true },
+{ "option_id": 3, "text": "Heat waves", "is_correct": false },
+{ "option_id": 4, "text": "Radio waves", "is_correct": false }
+],
+"answer": "Sound waves"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "What vibrates in our ears when sound waves reach?",
+"options": [
+{ "option_id": 1, "text": "Tongue", "is_correct": false },
+{ "option_id": 2, "text": "Eardrum", "is_correct": true },
+{ "option_id": 3, "text": "Teeth", "is_correct": false },
+{ "option_id": 4, "text": "Hair", "is_correct": false }
+],
+"answer": "Eardrum"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "What is a loud sound harsh to the ear called?",
+"options": [
+{ "option_id": 1, "text": "Music", "is_correct": false },
+{ "option_id": 2, "text": "Noise", "is_correct": true },
+{ "option_id": 3, "text": "Echo", "is_correct": false },
+{ "option_id": 4, "text": "Whisper", "is_correct": false }
+],
+"answer": "Noise"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "What can continuous noise lead to besides deafness?",
+"options": [
+{ "option_id": 1, "text": "Restlessness and irritability", "is_correct": true },
+{ "option_id": 2, "text": "Increased concentration", "is_correct": false },
+{ "option_id": 3, "text": "Better sleep", "is_correct": false },
+{ "option_id": 4, "text": "Improved hearing", "is_correct": false }
+],
+"answer": "Restlessness and irritability"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Which is a measure to prevent noise pollution?",
+"options": [
+{ "option_id": 1, "text": "Blow horn always", "is_correct": false },
+{ "option_id": 2, "text": "Avoid blowing the horn", "is_correct": true },
+{ "option_id": 3, "text": "Increase TV volume", "is_correct": false },
+{ "option_id": 4, "text": "Build factories in homes", "is_correct": false }
+],
+"answer": "Avoid blowing the horn"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "What depends on the tautness of vocal cords for sound quality?",
+"options": [
+{ "option_id": 1, "text": "Volume", "is_correct": false },
+{ "option_id": 2, "text": "Quality of sound", "is_correct": true },
+{ "option_id": 3, "text": "Pitch only", "is_correct": false },
+{ "option_id": 4, "text": "Loudness", "is_correct": false }
+],
+"answer": "Quality of sound"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "What is faster for sound transmission than through gas?",
+"options": [
+{ "option_id": 1, "text": "Vacuum", "is_correct": false },
+{ "option_id": 2, "text": "Liquid", "is_correct": true },
+{ "option_id": 3, "text": "Air only", "is_correct": false },
+{ "option_id": 4, "text": "Space", "is_correct": false }
+],
+"answer": "Liquid"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "What is the source of sound defined as?",
+"options": [
+{ "option_id": 1, "text": "The listener", "is_correct": false },
+{ "option_id": 2, "text": "The object due to which sound is produced", "is_correct": true },
+{ "option_id": 3, "text": "The medium", "is_correct": false },
+{ "option_id": 4, "text": "The ear", "is_correct": false }
+],
+"answer": "The object due to which sound is produced"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "What happens when vibration stops in the sound source?",
+"options": [
+{ "option_id": 1, "text": "Sound continues", "is_correct": false },
+{ "option_id": 2, "text": "Sound stops", "is_correct": true },
+{ "option_id": 3, "text": "Sound gets louder", "is_correct": false },
+{ "option_id": 4, "text": "Sound changes pitch", "is_correct": false }
+],
+"answer": "Sound stops"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "Through what mediums is sound propagated?",
+"options": [
+{ "option_id": 1, "text": "Only air", "is_correct": false },
+{ "option_id": 2, "text": "Gaseous, liquid and solid", "is_correct": true },
+{ "option_id": 3, "text": "Only solids", "is_correct": false },
+{ "option_id": 4, "text": "Vacuum only", "is_correct": false }
+],
+"answer": "Gaseous, liquid and solid"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "What is noise described as?",
+"options": [
+{ "option_id": 1, "text": "Pleasant and soft", "is_correct": false },
+{ "option_id": 2, "text": "Disagreeable, irregular and loud", "is_correct": true },
+{ "option_id": 3, "text": "Musical", "is_correct": false },
+{ "option_id": 4, "text": "Silent", "is_correct": false }
+],
+"answer": "Disagreeable, irregular and loud"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "What causes maximum noise pollution according to the chapter?",
+"options": [
+{ "option_id": 1, "text": "Quiet libraries", "is_correct": false },
+{ "option_id": 2, "text": "Heavy traffic and industrial areas", "is_correct": true },
+{ "option_id": 3, "text": "Forests", "is_correct": false },
+{ "option_id": 4, "text": "Homes", "is_correct": false }
+],
+"answer": "Heavy traffic and industrial areas"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Where is blowing horns prohibited?",
+"options": [
+{ "option_id": 1, "text": "Highways", "is_correct": false },
+{ "option_id": 2, "text": "Near schools and hospitals", "is_correct": true },
+{ "option_id": 3, "text": "Deserts", "is_correct": false },
+{ "option_id": 4, "text": "Airports", "is_correct": false }
+],
+"answer": "Near schools and hospitals"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "What vibrates first when sound source vibrates?",
+"options": [
+{ "option_id": 1, "text": "The ear", "is_correct": false },
+{ "option_id": 2, "text": "Layer of air nearest to the source", "is_correct": true },
+{ "option_id": 3, "text": "The brain", "is_correct": false },
+{ "option_id": 4, "text": "The medium far away", "is_correct": false }
+],
+"answer": "Layer of air nearest to the source"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "What is required for propagation of sound?",
+"options": [
+{ "option_id": 1, "text": "Vacuum", "is_correct": false },
+{ "option_id": 2, "text": "A medium", "is_correct": true },
+{ "option_id": 3, "text": "Silence", "is_correct": false },
+{ "option_id": 4, "text": "Light", "is_correct": false }
+],
+"answer": "A medium"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "How does sound travel to our ears?",
+"options": [
+{ "option_id": 1, "text": "Directly", "is_correct": false },
+{ "option_id": 2, "text": "In the form of waves", "is_correct": true },
+{ "option_id": 3, "text": "As particles", "is_correct": false },
+{ "option_id": 4, "text": "As electricity", "is_correct": false }
+],
+"answer": "In the form of waves"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "What can noise pollution cause to hearing?",
+"options": [
+{ "option_id": 1, "text": "Improvement", "is_correct": false },
+{ "option_id": 2, "text": "Impairment leading to deafness", "is_correct": true },
+{ "option_id": 3, "text": "No effect", "is_correct": false },
+{ "option_id": 4, "text": "Temporary silence", "is_correct": false }
+],
+"answer": "Impairment leading to deafness"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Which maintenance reduces vehicle noise?",
+"options": [
+{ "option_id": 1, "text": "Ignoring repairs", "is_correct": false },
+{ "option_id": 2, "text": "Proper maintenance of vehicles", "is_correct": true },
+{ "option_id": 3, "text": "Removing silencer", "is_correct": false },
+{ "option_id": 4, "text": "Adding horns", "is_correct": false }
+],
+"answer": "Proper maintenance of vehicles"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "What produces sound in larynx?",
+"options": [
+{ "option_id": 1, "text": "Lungs", "is_correct": false },
+{ "option_id": 2, "text": "Vocal cords", "is_correct": true },
+{ "option_id": 3, "text": "Trachaea only", "is_correct": false },
+{ "option_id": 4, "text": "Nerves", "is_correct": false }
+],
+"answer": "Vocal cords"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "What is noise pollution defined as?",
+"options": [
+{ "option_id": 1, "text": "Pleasant sounds", "is_correct": false },
+{ "option_id": 2, "text": "Continuous noise with ill effects", "is_correct": true },
+{ "option_id": 3, "text": "Soft music", "is_correct": false },
+{ "option_id": 4, "text": "Natural sounds", "is_correct": false }
+],
+"answer": "Continuous noise with ill effects"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "What do birds like robin recognize for prey?",
+"options": [
+{ "option_id": 1, "text": "Sight of earthworm", "is_correct": false },
+{ "option_id": 2, "text": "Sound of earthworm", "is_correct": true },
+{ "option_id": 3, "text": "Smell", "is_correct": false },
+{ "option_id": 4, "text": "Touch", "is_correct": false }
+],
+"answer": "Sound of earthworm"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "How do some grasshoppers produce sound?",
+"options": [
+{ "option_id": 1, "text": "By singing", "is_correct": false },
+{ "option_id": 2, "text": "By rubbing legs together", "is_correct": true },
+{ "option_id": 3, "text": "By flapping wings", "is_correct": false },
+{ "option_id": 4, "text": "By jumping", "is_correct": false }
+],
+"answer": "By rubbing legs together"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "What produces humming sound in bee?",
+"options": [
+{ "option_id": 1, "text": "Legs", "is_correct": false },
+{ "option_id": 2, "text": "Flapping of wings", "is_correct": true },
+{ "option_id": 3, "text": "Mouth", "is_correct": false },
+{ "option_id": 4, "text": "Antennae", "is_correct": false }
+],
+"answer": "Flapping of wings"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Is noise pollution a social problem?",
+"options": [
+{ "option_id": 1, "text": "No", "is_correct": false },
+{ "option_id": 2, "text": "Yes", "is_correct": true },
+{ "option_id": 3, "text": "Only individual", "is_correct": false },
+{ "option_id": 4, "text": "Not mentioned", "is_correct": false }
+],
+"answer": "Yes"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "What should be done with TV volume to prevent noise?",
+"options": [
+{ "option_id": 1, "text": "Turn it up", "is_correct": false },
+{ "option_id": 2, "text": "Restrict to watchers", "is_correct": true },
+{ "option_id": 3, "text": "Play loud always", "is_correct": false },
+{ "option_id": 4, "text": "Ignore", "is_correct": false }
+],
+"answer": "Restrict to watchers"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "Where should factories be located to reduce noise?",
+"options": [
+{ "option_id": 1, "text": "In residential areas", "is_correct": false },
+{ "option_id": 2, "text": "Away from residential areas", "is_correct": true },
+{ "option_id": 3, "text": "In schools", "is_correct": false },
+{ "option_id": 4, "text": "In hospitals", "is_correct": false }
+],
+"answer": "Away from residential areas"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "What is heard when ear is pressed to table during knock?",
+"options": [
+{ "option_id": 1, "text": "Fainter sound", "is_correct": false },
+{ "option_id": 2, "text": "Clearer sound", "is_correct": true },
+{ "option_id": 3, "text": "No sound", "is_correct": false },
+{ "option_id": 4, "text": "Louder distant sound", "is_correct": false }
+],
+"answer": "Clearer sound"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "What stops the noise of a falling metal dish?",
+"options": [
+{ "option_id": 1, "text": "Letting it ring", "is_correct": false },
+{ "option_id": 2, "text": "Touching it to stop vibration", "is_correct": true },
+{ "option_id": 3, "text": "Shouting", "is_correct": false },
+{ "option_id": 4, "text": "Ignoring", "is_correct": false }
+],
+"answer": "Touching it to stop vibration"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Can sound be heard in vacuum container with bell?",
+"options": [
+{ "option_id": 1, "text": "Yes", "is_correct": false },
+{ "option_id": 2, "text": "No", "is_correct": true },
+{ "option_id": 3, "text": "Louder", "is_correct": false },
+{ "option_id": 4, "text": "Softer", "is_correct": false }
+],
+"answer": "No"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "What is mental exhaustion caused by?",
+"options": [
+{ "option_id": 1, "text": "Quiet", "is_correct": false },
+{ "option_id": 2, "text": "Continuous noise", "is_correct": true },
+{ "option_id": 3, "text": "Music", "is_correct": false },
+{ "option_id": 4, "text": "Whispering", "is_correct": false }
+],
+"answer": "Continuous noise"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Classify sounds as soft or loud based on chapter examples.",
+"options": [
+{ "option_id": 1, "text": "All loud", "is_correct": false },
+{ "option_id": 2, "text": "Some soft some loud", "is_correct": true },
+{ "option_id": 3, "text": "All soft", "is_correct": false },
+{ "option_id": 4, "text": "No classification", "is_correct": false }
+],
+"answer": "Some soft some loud"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "What spreads sawdust on tabla when knocked?",
+"options": [
+{ "option_id": 1, "text": "Wind", "is_correct": false },
+{ "option_id": 2, "text": "Vibrations", "is_correct": true },
+{ "option_id": 3, "text": "Heat", "is_correct": false },
+{ "option_id": 4, "text": "Light", "is_correct": false }
+],
+"answer": "Vibrations"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "What is the medium of propagation of sound?",
+"options": [
+{ "option_id": 1, "text": "Vacuum", "is_correct": false },
+{ "option_id": 2, "text": "Substance around source through which waves spread", "is_correct": true },
+{ "option_id": 3, "text": "Ears only", "is_correct": false },
+{ "option_id": 4, "text": "Brain", "is_correct": false }
+],
+"answer": "Substance around source through which waves spread"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "Speed of sound transmission is fastest through?",
+"options": [
+{ "option_id": 1, "text": "Gas", "is_correct": false },
+{ "option_id": 2, "text": "Liquid", "is_correct": false },
+{ "option_id": 3, "text": "Solid", "is_correct": true },
+{ "option_id": 4, "text": "Air", "is_correct": false }
+],
+"answer": "Solid"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "What affects concentration due to noise?",
+"options": [
+{ "option_id": 1, "text": "Helps it", "is_correct": false },
+{ "option_id": 2, "text": "Prevents working with concentration", "is_correct": true },
+{ "option_id": 3, "text": "No effect", "is_correct": false },
+{ "option_id": 4, "text": "Improves it", "is_correct": false }
+],
+"answer": "Prevents working with concentration"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "What is passed to brain from ear vibrations?",
+"options": [
+{ "option_id": 1, "text": "Pain", "is_correct": false },
+{ "option_id": 2, "text": "Sensation", "is_correct": true },
+{ "option_id": 3, "text": "Color", "is_correct": false },
+{ "option_id": 4, "text": "Taste", "is_correct": false }
+],
+"answer": "Sensation"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Is it necessary everybody takes measures for noise pollution?",
+"options": [
+{ "option_id": 1, "text": "No", "is_correct": false },
+{ "option_id": 2, "text": "Yes", "is_correct": true },
+{ "option_id": 3, "text": "Only government", "is_correct": false },
+{ "option_id": 4, "text": "Only individuals", "is_correct": false }
+],
+"answer": "Yes"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "What forms waves on water when pot is struck?",
+"options": [
+{ "option_id": 1, "text": "Wind", "is_correct": false },
+{ "option_id": 2, "text": "Vibrations", "is_correct": true },
+{ "option_id": 3, "text": "Heat", "is_correct": false },
+{ "option_id": 4, "text": "Color", "is_correct": false }
+],
+"answer": "Vibrations"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "What are sounds during school recess classified as?",
+"options": [
+{ "option_id": 1, "text": "All silent", "is_correct": false },
+{ "option_id": 2, "text": "Diverse", "is_correct": true },
+{ "option_id": 3, "text": "Only loud", "is_correct": false },
+{ "option_id": 4, "text": "Only pleasant", "is_correct": false }
+],
+"answer": "Diverse"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "What is noise pollution due to?",
+"options": [
+{ "option_id": 1, "text": "Soft sounds", "is_correct": false },
+{ "option_id": 2, "text": "Continuous noise", "is_correct": true },
+{ "option_id": 3, "text": "Music", "is_correct": false },
+{ "option_id": 4, "text": "Whispers", "is_correct": false }
+],
+"answer": "Continuous noise"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "What is felt on the speaker when music is playing?",
+"answer": "Vibrations"
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "What motion do objects like speaker diaphragm and rubber band show to produce sound?",
+"answer": "They oscillate rapidly or vibrate"
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "What happens to sawdust on tabla when sound stops?",
+"answer": "It stops moving"
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "Define vibration in context of sound production.",
+"answer": "Rapid oscillation of an object"
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "What is acoustics?",
+"answer": "The science of sound including production, propagation and effects"
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Name the unit for sound intensity.",
+"answer": "Decibel (dB)"
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Where is larynx located?",
+"answer": "In the throat"
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "Through which balloon is sound clearer?",
+"answer": "Water balloon"
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "Define propagation of sound.",
+"answer": "Sound waves spread in all directions from source"
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "Define medium of propagation of sound.",
+"answer": "Substance around source through which sound waves spread"
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "In which medium is sound heard most clearly?",
+"answer": "Solid"
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "How is sound transmitted speed-wise across mediums?",
+"answer": "Faster through liquid than gas, faster through solid than liquid"
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "What is a sound wave?",
+"answer": "Wave of vibrations spreading from source"
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "What vibrates in ear due to sound waves?",
+"answer": "Delicate diaphragm or eardrum"
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "How is sound perceived by brain?",
+"answer": "Sensation from vibrations passed through nerves"
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Define noise.",
+"answer": "Loud sound harsh to the ear"
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Name two adverse effects of noise besides deafness.",
+"answer": "Restlessness, irritability, mental exhaustion"
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "State one measure to prevent noise pollution from vehicles.",
+"answer": "Maintain vehicles properly to reduce unnecessary sounds"
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "What produces sound in voice box?",
+"answer": "Vibration of vocal cords"
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "What determines sound quality in larynx?",
+"answer": "Tautness of vocal cords"
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "Why is sound clearer through water balloon?",
+"answer": "Sound propagates more clearly through liquid than air"
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Why sound clearer with ear on table?",
+"answer": "Sound propagates clearly through solid"
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Define source of sound.",
+"answer": "Object due to which sound is produced"
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "When does sound stop from source?",
+"answer": "When vibration stops"
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "List three mediums for sound propagation.",
+"answer": "Gaseous, liquid, solid"
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "How is noise characterized?",
+"answer": "Disagreeable, irregular and loud"
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "What causes maximum noise pollution?",
+"answer": "Heavy traffic and industrial areas"
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Where is vehicle horn blowing prohibited?",
+"answer": "Near schools and hospitals"
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "What vibrates first around sound source?",
+"answer": "Nearest layer of air"
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "Is medium required for sound propagation?",
+"answer": "Yes"
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Name the structure in ear that vibrates.",
+"answer": "Eardrum"
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Define noise pollution.",
+"answer": "Continuous noise which may have ill effects"
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "State measure for TV to avoid noise pollution.",
+"answer": "Restrict volume to those watching"
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Where to locate airports to reduce noise?",
+"answer": "Proper distance away from residential areas"
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "How do robins find prey?",
+"answer": "Recognize sound of earthworm due to sensitive hearing"
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "How do grasshoppers produce sound?",
+"answer": "Rubbing legs together while flying"
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "What produces humming in mosquito?",
+"answer": "Flapping of wings"
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "Is noise pollution a social problem?",
+"answer": "Yes"
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "What action stops noise of falling dish?",
+"answer": "Touching it to stop vibration"
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Will bell sound be heard in vacuum?",
+"answer": "No"
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Classify school recess sounds.",
+"answer": "Soft/loud and pleasant/unpleasant with diversity"
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "What shows movement in sound producing objects?",
+"answer": "Rapid oscillation or vibration"
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "What occurs on tabla with mustard seeds during sound?",
+"answer": "Seeds jump due to vibrations"
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "What vibrates for sitar sound?",
+"answer": "Strings"
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Explain effect of stopping vibration.",
+"answer": "Sound stops"
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "State speed order of sound in mediums.",
+"answer": "Solid > liquid > gas"
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "Why waves form on struck water pot?",
+"answer": "Due to vibrations"
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Define vacuum in context.",
+"answer": "Empty space from where air is partially removed"
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "What ill effect does noise have on work?",
+"answer": "Cannot work with concentration"
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Is everybody responsible for preventing noise pollution?",
+"answer": "Yes, it is necessary"
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "What is disagreeable to ears continuously?",
+"answer": "Noise pollution"
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Name location for voice box.",
+"answer": "Throat"
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "What happens to air layer near vibrating source?",
+"answer": "It vibrates too"
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Through what does sound reach ears?",
+"answer": "Sound waves through medium"
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "What is harsh sound?",
+"answer": "Noise"
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Effect of very loud noise on locality.",
+"answer": "Adverse effects on people"
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Measure for horns.",
+"answer": "Avoid blowing as far as possible"
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "What impairs hearing?",
+"answer": "Noise pollution"
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Sensitive hearing in birds for.",
+"answer": "Recognizing earthworm sound"
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Humming sound source in bee.",
+"answer": "Flapping of wings"
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Social nature of noise pollution.",
+"answer": "Yes, social problem"
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Prohibited horn near.",
+"answer": "Schools and hospitals"
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Clearer sound medium order.",
+"answer": "Solid > liquid > air"
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Vibration necessity for sound.",
+"answer": "Required"
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Propagation without medium?",
+"answer": "No"
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Eardrum role.",
+"answer": "Vibrates on sound waves reaching"
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Noise pollution health effects.",
+"answer": "Adverse on health"
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Factory location for noise control.",
+"answer": "Away from residential areas"
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Vocal cords vibration produces.",
+"answer": "Sound"
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Rubber band pluck observation besides movement.",
+"answer": "Sound"
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Tabla knock with sand shows.",
+"answer": "Vibrations while sound lasts"
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Bell sound vibration source.",
+"answer": "The bell itself"
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Tautness effect on larynx sound.",
+"answer": "Affects quality"
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Table knock sound difference.",
+"answer": "Clearer when ear pressed to table"
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Sound speed solid vs liquid.",
+"answer": "Faster through solid"
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Brain receives from ears.",
+"answer": "Sensation of vibrations"
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "Continuous noise type.",
+"answer": "Noise pollution"
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Ill effect restlessness from.",
+"answer": "Noise pollution"
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Vehicle silencer broken action.",
+"answer": "Repair it"
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Factory loud noise action.",
+"answer": "Take measures to reduce"
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Diversity in sounds heard.",
+"answer": "Innumerable sounds with variety"
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Soft sounds need.",
+"answer": "Attentive listening"
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Annoying sounds are.",
+"answer": "Unpleasant"
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Sound production requirement.",
+"answer": "Vibration"
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "As long as vibrates, sound.",
+"answer": "Heard"
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Water pot strike shows.",
+"answer": "Waves due to vibrations"
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Vacuum sound propagation.",
+"answer": "Does not occur"
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Noise harsh to ear.",
+"answer": "Loud sound"
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Nuisance sounds effect on ill person.",
+"answer": "Adverse"
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Study in noisy conditions.",
+"answer": "Difficult"
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Sounds enjoyed by some nuisance to.",
+"answer": "Others"
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Noise pollution harmful when.",
+"answer": "One or many sounds harmful to ear"
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Prevention measures necessity.",
+"answer": "Everybody should take"
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Woodcock prey finding.",
+"answer": "Sound recognition"
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Grasshopper sound while.",
+"answer": "Flying"
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Mosquito sound heard?",
+"answer": "Yes, humming"
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Rules for horns near sensitive places.",
+"answer": "Follow prohibition"
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "What we learnt: vibrations required for.",
+"answer": "Sound production"
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Noise pollution social.",
+"answer": "Problem"
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Heavy traffic noise pollution.",
+"answer": "Maximum cause"
+}
+]
+}

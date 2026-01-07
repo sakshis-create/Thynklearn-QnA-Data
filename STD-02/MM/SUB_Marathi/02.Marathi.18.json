@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.18",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "हवळ"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘हवळ’ या शब्दाचा अर्थ काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "हळू", "is_correct": false },
+        { "option_id": 2, "text": "बेफिकीर", "is_correct": false },
+        { "option_id": 3, "text": "अति लोभी / लालची", "is_correct": true },
+        { "option_id": 4, "text": "आनंदी", "is_correct": false }
+      ],
+      "answer": "अति लोभी / लालची"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कथेतील हवळ कसा स्वभावाचा होता?",
+      "options": [
+        { "option_id": 1, "text": "दयाळू", "is_correct": false },
+        { "option_id": 2, "text": "मेहनती", "is_correct": false },
+        { "option_id": 3, "text": "लोभी", "is_correct": true },
+        { "option_id": 4, "text": "निरागस", "is_correct": false }
+      ],
+      "answer": "लोभी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "हवळाला काय मिळाले होते?",
+      "options": [
+        { "option_id": 1, "text": "मोठा खजिना", "is_correct": false },
+        { "option_id": 2, "text": "सोनेरी भांडे", "is_correct": false },
+        { "option_id": 3, "text": "चांदीचे नाणे", "is_correct": true },
+        { "option_id": 4, "text": "मोती", "is_correct": false }
+      ],
+      "answer": "चांदीचे नाणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "हवळ नाणे कुठे लपवून ठेवायचा?",
+      "options": [
+        { "option_id": 1, "text": "खिडकीत", "is_correct": false },
+        { "option_id": 2, "text": "उशीखाली", "is_correct": false },
+        { "option_id": 3, "text": "मातीमध्ये", "is_correct": true },
+        { "option_id": 4, "text": "कपाटात", "is_correct": false }
+      ],
+      "answer": "मातीमध्ये"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "हवळ रोज काय करायचा?",
+      "options": [
+        { "option_id": 1, "text": "नाणे खर्च करायचा", "is_correct": false },
+        { "option_id": 2, "text": "नाणे मोजून पुन्हा लपवायचा", "is_correct": true },
+        { "option_id": 3, "text": "इतरांना द्यायचा", "is_correct": false },
+        { "option_id": 4, "text": "खेळायला जायचा", "is_correct": false }
+      ],
+      "answer": "नाणे मोजून पुन्हा लपवायचा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "हवळाच्या शेजारी राहणाऱ्या माणसाने काय पाहिले?",
+      "options": [
+        { "option_id": 1, "text": "नवीन घर", "is_correct": false },
+        { "option_id": 2, "text": "हवळ रोज माती खोदतो", "is_correct": true },
+        { "option_id": 3, "text": "नदीत खेळतो", "is_correct": false },
+        { "option_id": 4, "text": "झाडावर बसतो", "is_correct": false }
+      ],
+      "answer": "हवळ रोज माती खोदतो"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शेजाऱ्याने काय केले?",
+      "options": [
+        { "option_id": 1, "text": "हवळाला मदत केली", "is_correct": false },
+        { "option_id": 2, "text": "हवळाचे नाणे काढून नेले", "is_correct": true },
+        { "option_id": 3, "text": "तक्रार केली", "is_correct": false },
+        { "option_id": 4, "text": "पळून गेला", "is_correct": false }
+      ],
+      "answer": "हवळाचे नाणे काढून नेले"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "नाणे हरवल्यावर हवळ काय झाला?",
+      "options": [
+        { "option_id": 1, "text": "आनंदी", "is_correct": false },
+        { "option_id": 2, "text": "रागावला", "is_correct": false },
+        { "option_id": 3, "text": "रडू लागला", "is_correct": true },
+        { "option_id": 4, "text": "नाचू लागला", "is_correct": false }
+      ],
+      "answer": "रडू लागला"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हवळाने गावकऱ्यांकडे काय सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "माझे नाणे परत द्या", "is_correct": false },
+        { "option_id": 2, "text": "माझ्याकडे खूप नाणी आहेत", "is_correct": false },
+        { "option_id": 3, "text": "माझे नाणे चोरीला गेले", "is_correct": true },
+        { "option_id": 4, "text": "मी श्रीमंत आहे", "is_correct": false }
+      ],
+      "answer": "माझे नाणे चोरीला गेले"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "गावातील एका वृद्धाने हवळाला काय विचारले?",
+      "options": [
+        { "option_id": 1, "text": "नाणे कुठून आणले?", "is_correct": false },
+        { "option_id": 2, "text": "नाणे कशासाठी वापरत होतास?", "is_correct": true },
+        { "option_id": 3, "text": "नाणे मला दे", "is_correct": false },
+        { "option_id": 4, "text": "तू कुठे राहतोस?", "is_correct": false }
+      ],
+      "answer": "नाणे कशासाठी वापरत होतास?"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "हवळाने नाणे कधीही वापरले का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "थोडेसे वापरले", "is_correct": false },
+        { "option_id": 3, "text": "नाही", "is_correct": true },
+        { "option_id": 4, "text": "कधी कधी", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वृद्धाने हवळाला काय सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "नाणे पुन्हा मिळव", "is_correct": false },
+        { "option_id": 2, "text": "दगड घेऊन ठेव", "is_correct": true },
+        { "option_id": 3, "text": "रडत बस", "is_correct": false },
+        { "option_id": 4, "text": "चोरी करणाऱ्याला शोध", "is_correct": false }
+      ],
+      "answer": "दगड घेऊन ठेव"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "वृद्धाने दगड ठेवायला का सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "दगड मौल्यवान आहे", "is_correct": false },
+        { "option_id": 2, "text": "कारण हवळ फक्त पाहत होता, वापरत नव्हता", "is_correct": true },
+        { "option_id": 3, "text": "घर सजवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "कारण हवळ फक्त पाहत होता, वापरत नव्हता"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "हवळाला शेवटी काय समजले?",
+      "options": [
+        { "option_id": 1, "text": "नाणे खरे नव्हते", "is_correct": false },
+        { "option_id": 2, "text": "दगड मौल्यवान आहे", "is_correct": false },
+        { "option_id": 3, "text": "लोभाचा काही उपयोग नाही", "is_correct": true },
+        { "option_id": 4, "text": "चोरी चांगली आहे", "is_correct": false }
+      ],
+      "answer": "लोभाचा काही उपयोग नाही"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या कथेतून कोणती शिकवण मिळते?",
+      "options": [
+        { "option_id": 1, "text": "जास्त लोभ ठेवावा", "is_correct": false },
+        { "option_id": 2, "text": "पैसे लपवून ठेवावेत", "is_correct": false },
+        { "option_id": 3, "text": "संपत्ती वापरली नाही तर ती निरुपयोगी ठरते", "is_correct": true },
+        { "option_id": 4, "text": "चोरी करावी", "is_correct": false }
+      ],
+      "answer": "संपत्ती वापरली नाही तर ती निरुपयोगी ठरते"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "हवळ नाणे का लपवायचा?",
+      "answer": "कारण तो खूप लोभी होता आणि नाणे गमावू इच्छित नव्हता."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "हवळ रोज काय करायचा?",
+      "answer": "तो रोज नाणे काढून मोजून पुन्हा मातीमध्ये लपवायचा."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "शेजाऱ्याने नाणे का नेले?",
+      "answer": "कारण त्याने हवळाचा लोभ ओळखला."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "नाणे हरवल्यावर हवळ काय करू लागला?",
+      "answer": "तो रडू लागला आणि लोकांना घडलेली गोष्ट सांगू लागला."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वृद्धाने हवळाला काय सांगितले?",
+      "answer": "तो म्हणाला की नाण्यासारखा दगड ठेव, कारण तू ते वापरतच नव्हतास."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "हवळाने नाण्याचा कसा उपयोग केला?",
+      "answer": "त्याने नाण्याचा काहीच उपयोग केला नाही."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "हवळाला शेवटी काय समजले?",
+      "answer": "की लोभ करणे चुकीचे आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "या कथेतून कोणता संदेश मिळतो?",
+      "answer": "वस्तू वापरली नाही तर तिची किंमत उरत नाही."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "‘लोभ’ म्हणजे काय?",
+      "answer": "अति पैसे, वस्तू किंवा संपत्ती जमा करण्याची हाव."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "हवळाची चूक काय होती?",
+      "answer": "तो नाणे फक्त लपवत होता, त्याचा उपयोग करत नव्हता."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कथेतला एक पात्र लिहा.",
+      "answer": "हवळ."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "वृद्धाने दगड ठेवायला का सांगितले?",
+      "answer": "कारण हवळासाठी दगड आणि नाणे दोन्ही सारखेच होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "या कथेला योग्य शीर्षक का आहे?",
+      "answer": "कारण कथा लोभी माणसावर म्हणजे ‘हवळ’वर आधारित आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "तुला या कथेतून काय शिकायला मिळाले?",
+      "answer": "लोभ करू नये आणि वस्तूंचा योग्य उपयोग करावा."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हवळाच्या जागी तू असतास तर काय केलं असतंस?",
+      "answer": "नाणे खर्च करून आपल्या आणि इतरांच्या उपयोगासाठी वापरले असते."
+    }
+  ]
+}

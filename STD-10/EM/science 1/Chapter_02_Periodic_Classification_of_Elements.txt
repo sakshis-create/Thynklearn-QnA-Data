@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.Science.02",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Periodic Classification of Elements"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "How many elements were known around the year 1800?",
+      "options": [
+        { "option_id": 1, "text": "30", "is_correct": true },
+        { "option_id": 2, "text": "56", "is_correct": false },
+        { "option_id": 3, "text": "63", "is_correct": false },
+        { "option_id": 4, "text": "118", "is_correct": false }
+      ],
+      "answer": "30"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Dobereiner laid down the ________ rule.",
+      "options": [
+        { "option_id": 1, "text": "Periodic", "is_correct": false },
+        { "option_id": 2, "text": "Modern periodic", "is_correct": false },
+        { "option_id": 3, "text": "Triad", "is_correct": true },
+        { "option_id": 4, "text": "Octave", "is_correct": false }
+      ],
+      "answer": "Triad"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Newlands' Law of Octaves is applicable up to ________.",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Calcium", "is_correct": true },
+        { "option_id": 3, "text": "Cobalt", "is_correct": false },
+        { "option_id": 4, "text": "Potassium", "is_correct": false }
+      ],
+      "answer": "Calcium"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In Mendeleev's periodic table, properties of elements are periodic functions of their ________.",
+      "options": [
+        { "option_id": 1, "text": "Atomic numbers", "is_correct": false },
+        { "option_id": 2, "text": "Atomic masses", "is_correct": true },
+        { "option_id": 3, "text": "Densities", "is_correct": false },
+        { "option_id": 4, "text": "Boiling points", "is_correct": false }
+      ],
+      "answer": "Atomic masses"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which scientist proposed the Modern Periodic Law?",
+      "options": [
+        { "option_id": 1, "text": "Mendeleev", "is_correct": false },
+        { "option_id": 2, "text": "Henry Moseley", "is_correct": true },
+        { "option_id": 3, "text": "Dobereiner", "is_correct": false },
+        { "option_id": 4, "text": "Newlands", "is_correct": false }
+      ],
+      "answer": "Henry Moseley"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The Modern Periodic Table consists of ________ horizontal rows called periods.",
+      "options": [
+        { "option_id": 1, "text": "18", "is_correct": false },
+        { "option_id": 2, "text": "7", "is_correct": true },
+        { "option_id": 3, "text": "8", "is_correct": false },
+        { "option_id": 4, "text": "10", "is_correct": false }
+      ],
+      "answer": "7"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The vertical columns in the Modern Periodic Table are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Periods", "is_correct": false },
+        { "option_id": 2, "text": "Rows", "is_correct": false },
+        { "option_id": 3, "text": "Groups", "is_correct": true },
+        { "option_id": 4, "text": "Series", "is_correct": false }
+      ],
+      "answer": "Groups"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which block of the modern periodic table contains the transition elements?",
+      "options": [
+        { "option_id": 1, "text": "s-block", "is_correct": false },
+        { "option_id": 2, "text": "p-block", "is_correct": false },
+        { "option_id": 3, "text": "d-block", "is_correct": true },
+        { "option_id": 4, "text": "f-block", "is_correct": false }
+      ],
+      "answer": "d-block"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The elements in group 18 are known as ________.",
+      "options": [
+        { "option_id": 1, "text": "Alkali metals", "is_correct": false },
+        { "option_id": 2, "text": "Halogens", "is_correct": false },
+        { "option_id": 3, "text": "Noble gases", "is_correct": true },
+        { "option_id": 4, "text": "Alkaline earth metals", "is_correct": false }
+      ],
+      "answer": "Noble gases"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Eka-boron was later named as ________.",
+      "options": [
+        { "option_id": 1, "text": "Scandium", "is_correct": true },
+        { "option_id": 2, "text": "Gallium", "is_correct": false },
+        { "option_id": 3, "text": "Germanium", "is_correct": false },
+        { "option_id": 4, "text": "Silicon", "is_correct": false }
+      ],
+      "answer": "Scandium"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Eka-aluminium was later named as ________.",
+      "options": [
+        { "option_id": 1, "text": "Scandium", "is_correct": false },
+        { "option_id": 2, "text": "Gallium", "is_correct": true },
+        { "option_id": 3, "text": "Germanium", "is_correct": false },
+        { "option_id": 4, "text": "Indium", "is_correct": false }
+      ],
+      "answer": "Gallium"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of the following is the outermost shell for elements of period 2?",
+      "options": [
+        { "option_id": 1, "text": "K shell", "is_correct": false },
+        { "option_id": 2, "text": "L shell", "is_correct": true },
+        { "option_id": 3, "text": "M shell", "is_correct": false },
+        { "option_id": 4, "text": "N shell", "is_correct": false }
+      ],
+      "answer": "L shell"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The valency of elements in group 1 is ________.",
+      "options": [
+        { "option_id": 1, "text": "0", "is_correct": false },
+        { "option_id": 2, "text": "1", "is_correct": true },
+        { "option_id": 3, "text": "2", "is_correct": false },
+        { "option_id": 4, "text": "3", "is_correct": false }
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Atomic radius is expressed in the unit ________.",
+      "options": [
+        { "option_id": 1, "text": "Nanometer", "is_correct": false },
+        { "option_id": 2, "text": "Picometer", "is_correct": true },
+        { "option_id": 3, "text": "Micrometer", "is_correct": false },
+        { "option_id": 4, "text": "Millimeter", "is_correct": false }
+      ],
+      "answer": "Picometer"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "While going from left to right in a period, the atomic radius ________.",
+      "options": [
+        { "option_id": 1, "text": "Increases", "is_correct": false },
+        { "option_id": 2, "text": "Decreases", "is_correct": true },
+        { "option_id": 3, "text": "Remains same", "is_correct": false },
+        { "option_id": 4, "text": "First increases then decreases", "is_correct": false }
+      ],
+      "answer": "Decreases"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of the following elements is a metalloid?",
+      "options": [
+        { "option_id": 1, "text": "Sodium", "is_correct": false },
+        { "option_id": 2, "text": "Silicon", "is_correct": true },
+        { "option_id": 3, "text": "Sulphur", "is_correct": false },
+        { "option_id": 4, "text": "Silver", "is_correct": false }
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The elements in Group 17 are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Alkali metals", "is_correct": false },
+        { "option_id": 2, "text": "Halogens", "is_correct": true },
+        { "option_id": 3, "text": "Noble gases", "is_correct": false },
+        { "option_id": 4, "text": "Transition elements", "is_correct": false }
+      ],
+      "answer": "Halogens"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Metallic character of elements ________ down the group.",
+      "options": [
+        { "option_id": 1, "text": "Decreases", "is_correct": false },
+        { "option_id": 2, "text": "Increases", "is_correct": true },
+        { "option_id": 3, "text": "Remains constant", "is_correct": false },
+        { "option_id": 4, "text": "Shows no trend", "is_correct": false }
+      ],
+      "answer": "Increases"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The zigzag line in the modern periodic table separates ________.",
+      "options": [
+        { "option_id": 1, "text": "Metals from non-metals", "is_correct": true },
+        { "option_id": 2, "text": "Solids from liquids", "is_correct": false },
+        { "option_id": 3, "text": "Gases from solids", "is_correct": false },
+        { "option_id": 4, "text": "Radioactive elements from others", "is_correct": false }
+      ],
+      "answer": "Metals from non-metals"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following is the most electronegative element?",
+      "options": [
+        { "option_id": 1, "text": "Fluorine", "is_correct": true },
+        { "option_id": 2, "text": "Chlorine", "is_correct": false },
+        { "option_id": 3, "text": "Bromine", "is_correct": false },
+        { "option_id": 4, "text": "Iodine", "is_correct": false }
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The general formula of oxides of Group 1 elements in Mendeleev's table is ________.",
+      "options": [
+        { "option_id": 1, "text": "R2O", "is_correct": true },
+        { "option_id": 2, "text": "RO", "is_correct": false },
+        { "option_id": 3, "text": "R2O3", "is_correct": false },
+        { "option_id": 4, "text": "RO2", "is_correct": false }
+      ],
+      "answer": "R2O"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which element forms a triad with Lithium and Potassium?",
+      "options": [
+        { "option_id": 1, "text": "Sodium", "is_correct": true },
+        { "option_id": 2, "text": "Calcium", "is_correct": false },
+        { "option_id": 3, "text": "Magnesium", "is_correct": false },
+        { "option_id": 4, "text": "Strontium", "is_correct": false }
+      ],
+      "answer": "Sodium"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "How many elements were known when Newlands proposed his law?",
+      "options": [
+        { "option_id": 1, "text": "56", "is_correct": true },
+        { "option_id": 2, "text": "63", "is_correct": false },
+        { "option_id": 3, "text": "30", "is_correct": false },
+        { "option_id": 4, "text": "92", "is_correct": false }
+      ],
+      "answer": "56"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "In the modern periodic table, lanthanides and actinides are placed in ________.",
+      "options": [
+        { "option_id": 1, "text": "s-block", "is_correct": false },
+        { "option_id": 2, "text": "p-block", "is_correct": false },
+        { "option_id": 3, "text": "d-block", "is_correct": false },
+        { "option_id": 4, "text": "f-block", "is_correct": true }
+      ],
+      "answer": "f-block"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which halogen is a liquid at room temperature?",
+      "options": [
+        { "option_id": 1, "text": "Fluorine", "is_correct": false },
+        { "option_id": 2, "text": "Chlorine", "is_correct": false },
+        { "option_id": 3, "text": "Bromine", "is_correct": true },
+        { "option_id": 4, "text": "Iodine", "is_correct": false }
+      ],
+      "answer": "Bromine"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Isotopes have the same ________.",
+      "options": [
+        { "option_id": 1, "text": "Atomic mass", "is_correct": false },
+        { "option_id": 2, "text": "Atomic number", "is_correct": true },
+        { "option_id": 3, "text": "Number of neutrons", "is_correct": false },
+        { "option_id": 4, "text": "Density", "is_correct": false }
+      ],
+      "answer": "Atomic number"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The number of electrons in the outermost shell of alkali metals is ________.",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": true },
+        { "option_id": 2, "text": "2", "is_correct": false },
+        { "option_id": 3, "text": "3", "is_correct": false },
+        { "option_id": 4, "text": "7", "is_correct": false }
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which of the following is an inert gas?",
+      "options": [
+        { "option_id": 1, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Argon", "is_correct": true },
+        { "option_id": 4, "text": "Chlorine", "is_correct": false }
+      ],
+      "answer": "Argon"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the valency of Magnesium (Atomic number 12)?",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": false },
+        { "option_id": 2, "text": "2", "is_correct": true },
+        { "option_id": 3, "text": "3", "is_correct": false },
+        { "option_id": 4, "text": "4", "is_correct": false }
+      ],
+      "answer": "2"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which period is the shortest period in the modern periodic table?",
+      "options": [
+        { "option_id": 1, "text": "First", "is_correct": true },
+        { "option_id": 2, "text": "Second", "is_correct": false },
+        { "option_id": 3, "text": "Third", "is_correct": false },
+        { "option_id": 4, "text": "Fourth", "is_correct": false }
+      ],
+      "answer": "First"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Elements in the same group have similar ________.",
+      "options": [
+        { "option_id": 1, "text": "Atomic masses", "is_correct": false },
+        { "option_id": 2, "text": "Atomic radii", "is_correct": false },
+        { "option_id": 3, "text": "Chemical properties", "is_correct": true },
+        { "option_id": 4, "text": "Number of shells", "is_correct": false }
+      ],
+      "answer": "Chemical properties"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Electropositivity is also known as ________ character.",
+      "options": [
+        { "option_id": 1, "text": "Metallic", "is_correct": true },
+        { "option_id": 2, "text": "Non-metallic", "is_correct": false },
+        { "option_id": 3, "text": "Acidic", "is_correct": false },
+        { "option_id": 4, "text": "Neutral", "is_correct": false }
+      ],
+      "answer": "Metallic"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which element was discovered later and filled the gap left by Mendeleev?",
+      "options": [
+        { "option_id": 1, "text": "Calcium", "is_correct": false },
+        { "option_id": 2, "text": "Germanium", "is_correct": true },
+        { "option_id": 3, "text": "Chlorine", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
+      ],
+      "answer": "Germanium"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The electronic configuration of Sodium (Atomic number 11) is ________.",
+      "options": [
+        { "option_id": 1, "text": "2, 8, 1", "is_correct": true },
+        { "option_id": 2, "text": "2, 1, 8", "is_correct": false },
+        { "option_id": 3, "text": "2, 8, 2", "is_correct": false },
+        { "option_id": 4, "text": "2, 8", "is_correct": false }
+      ],
+      "answer": "2, 8, 1"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Mendeleev's periodic table had ________ horizontal rows.",
+      "options": [
+        { "option_id": 1, "text": "7", "is_correct": false },
+        { "option_id": 2, "text": "12", "is_correct": true },
+        { "option_id": 3, "text": "18", "is_correct": false },
+        { "option_id": 4, "text": "8", "is_correct": false }
+      ],
+      "answer": "12"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "1 picometer (pm) is equal to ________ meters.",
+      "options": [
+        { "option_id": 1, "text": "10^-9", "is_correct": false },
+        { "option_id": 2, "text": "10^-10", "is_correct": false },
+        { "option_id": 3, "text": "10^-12", "is_correct": true },
+        { "option_id": 4, "text": "10^-15", "is_correct": false }
+      ],
+      "answer": "10^-12"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Elements with atomic numbers 57 to 71 are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Lanthanides", "is_correct": true },
+        { "option_id": 2, "text": "Actinides", "is_correct": false },
+        { "option_id": 3, "text": "Halogens", "is_correct": false },
+        { "option_id": 4, "text": "Alkali metals", "is_correct": false }
+      ],
+      "answer": "Lanthanides"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "The tendency of an element to form cation is called ________ character.",
+      "options": [
+        { "option_id": 1, "text": "Non-metallic", "is_correct": false },
+        { "option_id": 2, "text": "Metallic", "is_correct": true },
+        { "option_id": 3, "text": "Acidic", "is_correct": false },
+        { "option_id": 4, "text": "Basic", "is_correct": false }
+      ],
+      "answer": "Metallic"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of the following elements has the largest atomic size?",
+      "options": [
+        { "option_id": 1, "text": "Sodium (Na)", "is_correct": false },
+        { "option_id": 2, "text": "Magnesium (Mg)", "is_correct": false },
+        { "option_id": 3, "text": "Potassium (K)", "is_correct": true },
+        { "option_id": 4, "text": "Calcium (Ca)", "is_correct": false }
+      ],
+      "answer": "Potassium (K)"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Group 2 elements are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Alkali metals", "is_correct": false },
+        { "option_id": 2, "text": "Alkaline earth metals", "is_correct": true },
+        { "option_id": 3, "text": "Halogens", "is_correct": false },
+        { "option_id": 4, "text": "Noble gases", "is_correct": false }
+      ],
+      "answer": "Alkaline earth metals"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which scientist discovered the concept of Atomic Number?",
+      "options": [
+        { "option_id": 1, "text": "Mendeleev", "is_correct": false },
+        { "option_id": 2, "text": "Moseley", "is_correct": true },
+        { "option_id": 3, "text": "Bohr", "is_correct": false },
+        { "option_id": 4, "text": "Rutherford", "is_correct": false }
+      ],
+      "answer": "Moseley"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "How many elements are present in the second period?",
+      "options": [
+        { "option_id": 1, "text": "2", "is_correct": false },
+        { "option_id": 2, "text": "8", "is_correct": true },
+        { "option_id": 3, "text": "18", "is_correct": false },
+        { "option_id": 4, "text": "32", "is_correct": false }
+      ],
+      "answer": "8"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Elements in the same period have the same number of ________.",
+      "options": [
+        { "option_id": 1, "text": "Valence electrons", "is_correct": false },
+        { "option_id": 2, "text": "Neutrons", "is_correct": false },
+        { "option_id": 3, "text": "Shells", "is_correct": true },
+        { "option_id": 4, "text": "Protons", "is_correct": false }
+      ],
+      "answer": "Shells"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which element was named Eka-silicon by Mendeleev?",
+      "options": [
+        { "option_id": 1, "text": "Germanium", "is_correct": true },
+        { "option_id": 2, "text": "Gallium", "is_correct": false },
+        { "option_id": 3, "text": "Scandium", "is_correct": false },
+        { "option_id": 4, "text": "Titanium", "is_correct": false }
+      ],
+      "answer": "Germanium"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which group contains the noble gases?",
+      "options": [
+        { "option_id": 1, "text": "Group 1", "is_correct": false },
+        { "option_id": 2, "text": "Group 17", "is_correct": false },
+        { "option_id": 3, "text": "Group 18", "is_correct": true },
+        { "option_id": 4, "text": "Group 2", "is_correct": false }
+      ],
+      "answer": "Group 18"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which of these elements is a non-metal?",
+      "options": [
+        { "option_id": 1, "text": "Sodium", "is_correct": false },
+        { "option_id": 2, "text": "Chlorine", "is_correct": true },
+        { "option_id": 3, "text": "Calcium", "is_correct": false },
+        { "option_id": 4, "text": "Iron", "is_correct": false }
+      ],
+      "answer": "Chlorine"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "The atomic number is denoted by the symbol ________.",
+      "options": [
+        { "option_id": 1, "text": "A", "is_correct": false },
+        { "option_id": 2, "text": "Z", "is_correct": true },
+        { "option_id": 3, "text": "N", "is_correct": false },
+        { "option_id": 4, "text": "X", "is_correct": false }
+      ],
+      "answer": "Z"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which of the following is the lightest inert gas?",
+      "options": [
+        { "option_id": 1, "text": "Helium", "is_correct": true },
+        { "option_id": 2, "text": "Neon", "is_correct": false },
+        { "option_id": 3, "text": "Argon", "is_correct": false },
+        { "option_id": 4, "text": "Krypton", "is_correct": false }
+      ],
+      "answer": "Helium"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The elements with atomic numbers 89 to 103 are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Lanthanides", "is_correct": false },
+        { "option_id": 2, "text": "Actinides", "is_correct": true },
+        { "option_id": 3, "text": "Transition metals", "is_correct": false },
+        { "option_id": 4, "text": "Alkaline earth metals", "is_correct": false }
+      ],
+      "answer": "Actinides"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The electron capacity of the K shell is ________.",
+      "options": [
+        { "option_id": 1, "text": "2", "is_correct": true },
+        { "option_id": 2, "text": "8", "is_correct": false },
+        { "option_id": 3, "text": "18", "is_correct": false },
+        { "option_id": 4, "text": "32", "is_correct": false }
+      ],
+      "answer": "2"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the basis of Dobereiner's classification?",
+      "answer": "Dobereiner classified elements based on their atomic masses into groups of three called triads."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "State Newlands' Law of Octaves.",
+      "answer": "When elements are arranged in increasing order of their atomic masses, the properties of every eighth element are similar to those of the first."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is Mendeleev's Periodic Law?",
+      "answer": "Properties of elements are periodic functions of their atomic masses."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the Modern Periodic Law?",
+      "answer": "Properties of elements are a periodic function of their atomic numbers."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Define 'Triad' in the context of classification of elements.",
+      "answer": "A Triad is a group of three elements having similar chemical properties, where the atomic mass of the middle element is approximately the mean of the other two."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name the three elements in Dobereiner's first triad.",
+      "answer": "Lithium (Li), Sodium (Na), and Potassium (K)."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What was the limitation of Newlands' Octaves regarding element weight?",
+      "answer": "Newlands' Law was found to be applicable only up to Calcium; heavier elements did not follow the law."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How many elements were known when Mendeleev started his work?",
+      "answer": "63 elements were known when Mendeleev started his work."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are Eka-boron, Eka-aluminium, and Eka-silicon now known as?",
+      "answer": "They are known as Scandium, Gallium, and Germanium respectively."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the position of Hydrogen in Mendeleev's periodic table?",
+      "answer": "Hydrogen shows similarity with both alkali metals (Group 1) and halogens (Group 7), making its position ambiguous."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are 'groups' in the modern periodic table?",
+      "answer": "The vertical columns in the modern periodic table are called groups."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What are 'periods' in the modern periodic table?",
+      "answer": "The horizontal rows in the modern periodic table are called periods."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How many groups and periods are there in the modern periodic table?",
+      "answer": "There are 18 groups and 7 periods in the modern periodic table."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What are transition elements?",
+      "answer": "Elements in the d-block (groups 3 to 12) are called transition elements."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are inner transition elements?",
+      "answer": "Elements in the f-block (Lanthanides and Actinides) are called inner transition elements."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Define Valency.",
+      "answer": "Valency is the combining capacity of an element, determined by the number of electrons in the outermost shell."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How does atomic radius change in a period from left to right?",
+      "answer": "Atomic radius goes on decreasing while going from left to right in a period."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why does atomic size decrease across a period?",
+      "answer": "Due to increased nuclear charge pulling the electrons closer to the nucleus while the number of shells remains the same."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How does atomic radius change down a group?",
+      "answer": "Atomic radius goes on increasing down a group."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why does atomic size increase down a group?",
+      "answer": "Because new shells are added to the atoms, increasing the distance between the nucleus and the outermost electrons."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is metallic character?",
+      "answer": "It is the tendency of an atom to lose electrons and form positive ions (cations)."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is non-metallic character?",
+      "answer": "It is the tendency of an atom to accept electrons and form negative ions (anions)."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How does metallic character change in a period?",
+      "answer": "Metallic character decreases from left to right in a period."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How does non-metallic character change in a period?",
+      "answer": "Non-metallic character increases from left to right in a period."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How does metallic character change down a group?",
+      "answer": "Metallic character increases while going down a group."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What are metalloids?",
+      "answer": "Metalloids are elements that show properties of both metals and non-metals, like Silicon and Germanium."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Where are metalloids located in the periodic table?",
+      "answer": "They lie along the zig-zag line separating metals and non-metals in the p-block."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What are halogens?",
+      "answer": "Halogens are the elements of Group 17, known for being salt-forming non-metals."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the general electronic configuration of alkali metals?",
+      "answer": "They have 1 electron in their outermost shell."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the general electronic configuration of alkaline earth metals?",
+      "answer": "They have 2 electrons in their outermost shell."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why are noble gases inert?",
+      "answer": "Noble gases are inert because their outermost electron shell is completely filled (octet or duplet is complete)."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Who discovered the relationship between atomic number and X-ray frequency?",
+      "answer": "Henry Moseley discovered this relationship, leading to the Modern Periodic Law."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What are the four blocks of the periodic table?",
+      "answer": "The four blocks are s-block, p-block, d-block, and f-block."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What constitutes the s-block?",
+      "answer": "Groups 1 and 2 constitute the s-block."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What constitutes the p-block?",
+      "answer": "Groups 13 to 18 constitute the p-block."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What constitutes the d-block?",
+      "answer": "Groups 3 to 12 constitute the d-block."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Where is the f-block located?",
+      "answer": "The f-block is placed separately at the bottom of the periodic table."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Which liquid elements are halogens?",
+      "answer": "Bromine is the liquid halogen at room temperature."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the valency of Halogens?",
+      "answer": "The valency of Halogens is 1."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is Hydrogen placed in Group 1?",
+      "answer": "Because it has 1 electron in its outermost shell and resembles alkali metals in configuration."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is an isotope?",
+      "answer": "Isotopes are atoms of the same element having the same atomic number but different atomic masses."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "How are isotopes arranged in the Modern Periodic Table?",
+      "answer": "Isotopes are placed in the same position as their element because they have the same atomic number."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What was the problem with isotopes in Mendeleev's table?",
+      "answer": "Since isotopes have different atomic masses, they posed a challenge to Mendeleev's periodic law based on mass."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is electronegativity?",
+      "answer": "Electronegativity is the tendency of an atom to attract a shared pair of electrons towards itself."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which element is the most electronegative?",
+      "answer": "Fluorine is the most electronegative element."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which element is the most electropositive?",
+      "answer": "Francium (or Cesium in stable context) is considered the most electropositive."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is a gradation in properties?",
+      "answer": "It is the gradual change in properties of elements across a period or down a group."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Give the formula of the oxide of Sodium.",
+      "answer": "The formula is Na2O."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Give the formula of the chloride of Magnesium.",
+      "answer": "The formula is MgCl2."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why are elements in Group 18 called 'Zero Group'?",
+      "answer": "Because their valency is zero due to a stable electronic configuration."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Explain Dobereiner's Triads with an example.",
+      "answer": "Dobereiner identified groups of three elements having similar chemical properties and called them Triads. He arranged them in increasing order of atomic mass. He showed that the atomic mass of the middle element was approximately equal to the mean of the atomic masses of the other two elements. For example, in the triad Lithium (Li), Sodium (Na), and Potassium (K), the atomic mass of Na (23) is the average of Li (6.9) and K (39.1)."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Describe Newlands' Law of Octaves and its limitations.",
+      "answer": "Newlands arranged elements in increasing order of atomic masses and found that every eighth element had properties similar to the first, like notes in a musical octave. This is the Law of Octaves. Limitations included: 1) It was applicable only up to Calcium. 2) He placed two elements in the same slot (e.g., Co and Ni). 3) Dissimilar elements were placed in the same note column."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "What were the merits of Mendeleev's Periodic Table?",
+      "answer": "1) It was the first systematic classification of all known 63 elements. 2) He corrected the atomic masses of some elements (e.g., Beryllium). 3) He left gaps for undiscovered elements (Eka-boron, Eka-aluminium, Eka-silicon) and predicted their properties, which turned out to be correct. 4) Inert gases could be accommodated in a separate group without disturbing the table."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Explain the demerits of Mendeleev's Periodic Table.",
+      "answer": "1) The position of Hydrogen was ambiguous (resembled both alkali metals and halogens). 2) Isotopes could not be placed properly as they have different masses but same chemical properties. 3) The increasing order of atomic mass was not strictly followed (e.g., Co and Ni). 4) It could not explain the cause of periodicity."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "How does the Modern Periodic Table solve the anomalies of Mendeleev's table?",
+      "answer": "By basing the classification on Atomic Number (Z) instead of Atomic Mass: 1) Isotopes of an element occupy the same position as they have the same Z. 2) The order of elements like Cobalt and Nickel was resolved as their Z strictly follows the sequence. 3) The electronic configuration explains the position of Hydrogen better. 4) Periodicity is explained by the recurrence of similar valence shell configurations."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Describe the structure of the Modern Periodic Table.",
+      "answer": "The Modern Periodic Table has 7 horizontal rows called periods and 18 vertical columns called groups. Elements are arranged by increasing atomic number. It is divided into 4 blocks: s-block (Groups 1-2), p-block (Groups 13-18), d-block (Groups 3-12, transition elements), and f-block (Lanthanides and Actinides at the bottom). Elements in a group have the same valency, while those in a period have the same number of shells."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Explain the trend of atomic radius in the periodic table.",
+      "answer": "In a period, atomic radius decreases from left to right. This is because the atomic number increases, adding protons to the nucleus and electrons to the same shell. The increased nuclear attraction pulls electrons closer, shrinking the size. In a group, atomic radius increases from top to bottom. This is because a new shell is added at each step, increasing the distance between the nucleus and the outermost shell, overcoming the increased nuclear charge."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Explain the trend of metallic and non-metallic character in a period.",
+      "answer": "Metallic character is the tendency to lose electrons. Across a period (left to right), atomic size decreases and nuclear attraction increases. It becomes harder to lose electrons, so metallic character decreases. Non-metallic character is the tendency to gain electrons. Across a period, the tendency to gain electrons increases due to higher nuclear pull. Thus, non-metallic character increases from left to right."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Explain the trend of metallic character down a group.",
+      "answer": "Down a group, a new shell is added, increasing the atomic size. This increases the distance between the nucleus and valence electrons, reducing the nuclear attraction. Consequently, it becomes easier for the atom to lose electrons. Therefore, the metallic character (electropositivity) increases as we go down a group."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "What is Valency and how does it vary in the periodic table?",
+      "answer": "Valency is the combining capacity of an element, determined by valence electrons. In a period, valency first increases from 1 to 4 and then decreases to 0 (for noble gases). For example, in the 2nd period: Li(1), Be(2), B(3), C(4), N(3), O(2), F(1), Ne(0). In a group, all elements have the same number of valence electrons, so they exhibit the same valency (e.g., all Group 1 elements have valency 1)."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "Discuss the position of isotopes in Mendeleev's and Modern Periodic Tables.",
+      "answer": "In Mendeleev's table, isotopes posed a challenge. Since classification was based on atomic mass, isotopes of the same element (having different masses) should theoretically get different places, but their chemical properties are identical. In the Modern Periodic Table, classification is based on atomic number. Since all isotopes of an element have the same atomic number, they occupy the same position, resolving the anomaly."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Why do elements in the same group show similar chemical properties?",
+      "answer": "Elements in the same group have the same number of valence electrons (electrons in the outermost shell). Chemical properties are largely determined by the electronic configuration of the outermost shell and the tendency to lose, gain, or share these electrons. Since the valence configuration is identical for the group, they exhibit similar chemical behaviors and form similar types of compounds."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Explain the zig-zag line in the modern periodic table.",
+      "answer": "A zig-zag line in the p-block of the modern periodic table separates metals from non-metals. Elements bordering this line show properties of both metals and non-metals and are called metalloids. Examples include Boron, Silicon, Germanium, Arsenic, etc. Metals lie to the left of this line, and non-metals lie to the right."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "Write a short note on Halogens (Group 17).",
+      "answer": "Group 17 elements are known as Halogens (Fluorine, Chlorine, Bromine, Iodine). They have 7 valence electrons and a valency of 1. They are highly reactive non-metals forming diatomic molecules (e.g., Cl2). Their physical state varies: Fluorine and Chlorine are gases, Bromine is a liquid, and Iodine is a solid. They react with metals to form salts. Their reactivity decreases down the group."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Why are Noble gases placed in a separate group?",
+      "answer": "Noble gases (Helium, Neon, Argon, etc.) have their outermost shells completely filled with electrons (duplet for He, octet for others). This stable electronic configuration makes them chemically inert or unreactive under normal conditions. Since they do not react like other elements and have distinct properties (valency 0), they are placed in a separate group, Group 18, at the end of each period."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Explain the concept of Periodic Trends.",
+      "answer": "Periodic trends refer to the regular variations in the properties of elements with their increasing atomic number. These trends are observed across periods and down groups. Key properties showing trends include atomic radius, valency, metallic/non-metallic character, electronegativity, and ionization energy. These trends arise due to the predictable changes in electronic configuration and nuclear charge."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "How did Mendeleev predict the existence of undiscovered elements?",
+      "answer": "Mendeleev noticed gaps in his periodic table where no known element fit the trend of atomic masses and properties. He boldly predicted that these gaps belonged to undiscovered elements. He named them Eka-boron, Eka-aluminium, and Eka-silicon based on their neighbors. He also predicted their atomic masses and physical/chemical properties. Later discoveries of Scandium, Gallium, and Germanium matched these predictions remarkably."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "Why is the atomic size of Potassium larger than Sodium?",
+      "answer": "Both Potassium (K) and Sodium (Na) belong to Group 1. Sodium is in Period 3 (electronic config 2,8,1) and has 3 shells. Potassium is in Period 4 (electronic config 2,8,8,1) and has 4 shells. Moving down a group, a new electron shell is added. This addition increases the distance between the nucleus and the valence electron, making the atomic size of Potassium larger than Sodium."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "Differentiate between s-block and p-block elements.",
+      "answer": "s-block elements consist of Group 1 and 2. Their valence electrons enter the 's' subshell. They are all metals (except Hydrogen). p-block elements consist of Groups 13 to 18. Their valence electrons enter the 'p' subshell. This block contains metals, non-metals, and metalloids. While s-block elements are generally highly reactive metals, p-block contains varied reactivity including inert gases."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Why does the electronegativity decrease down a group?",
+      "answer": "Electronegativity is the ability of an atom to attract shared electrons. Down a group, atomic size increases due to added shells. The increased distance from the nucleus and the shielding effect of inner shells reduce the nucleus's pull on the outermost or shared electrons. Consequently, the ability to attract electrons decreases, leading to lower electronegativity down a group."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "Why does the atomic radius decrease from left to right in a period?",
+      "answer": "As we move across a period, one proton is added to the nucleus and one electron to the valence shell at each step. The number of shells remains constant. The increasing positive charge in the nucleus exerts a stronger pull on the electrons, drawing the shell closer to the nucleus. This increased effective nuclear charge results in the contraction of the atom, thus decreasing the atomic radius."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "Discuss the position of Hydrogen in the Modern Periodic Table.",
+      "answer": "In the Modern Periodic Table, Hydrogen is placed at the top of Group 1 because its electronic configuration (1s1) resembles alkali metals. Like them, it can lose an electron to form a cation (H+). However, it is a non-metal and also resembles halogens (Group 17) as it can gain an electron to form a hydride (H-). Because of this unique dual nature, its position is sometimes considered anomalous, but it is traditionally placed in Group 1."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "What is the relationship between electronic configuration and valency?",
+      "answer": "Valency is determined by the number of valence electrons, which is clear from the electronic configuration. If an element has 1, 2, 3, or 4 valence electrons, its valency is usually equal to that number (tendency to lose or share). If it has 5, 6, or 7, its valency is 8 minus that number (tendency to gain). For 8 valence electrons (noble gases), valency is 0. Thus, electronic configuration directly dictates combining capacity."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "Why are 'd-block' elements called Transition Elements?",
+      "answer": "d-block elements are located between the s-block (highly electropositive metals) and the p-block (mostly electronegative non-metals). Their properties represent a transition from metallic to non-metallic behavior across the table. Also, in these elements, the last electron enters the penultimate (d) shell, while the outermost shell remains incomplete, which corresponds to a transitional state in filling orbitals."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "Why is Silicon classified as a metalloid?",
+      "answer": "Silicon (Si, atomic number 14) is in Group 14. It exhibits properties intermediate between metals and non-metals. Like non-metals, it forms covalent bonds and is not a good conductor in its pure state (it's a semiconductor). However, it has a metallic luster and its conductivity increases with temperature, unlike metals. Because it shares characteristics of both groups, it sits on the zig-zag line and is called a metalloid."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "What is the trend of reactivity in Group 1 elements?",
+      "answer": "Group 1 elements are alkali metals. Their reactivity depends on the ease of losing the single valence electron. As we move down the group, atomic size increases and nuclear attraction on the valence electron decreases. This makes it easier to lose the electron. Therefore, reactivity increases down the group. Lithium is the least reactive, while Francium is the most reactive."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "What is the trend of reactivity in Group 17 elements?",
+      "answer": "Group 17 elements are Halogens (non-metals). Their reactivity depends on the ease of gaining an electron to complete the octet. As we move down the group, atomic size increases and the nucleus's pull on incoming electrons decreases due to distance and shielding. This makes it harder to gain an electron. Therefore, reactivity decreases down the group. Fluorine is the most reactive."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "Explain the significance of Henry Moseley's work.",
+      "answer": "Henry Moseley's experiments with X-ray spectra of elements revealed that the atomic number (Z), which represents the number of protons, is a more fundamental property than atomic mass. This discovery corrected the flaws in Mendeleev's table caused by using atomic mass. It led to the formulation of the Modern Periodic Law, stating properties are periodic functions of atomic number, which is the basis of the current periodic table."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "Describe the merits of the long form of the periodic table.",
+      "answer": "The long form (Modern Periodic Table) is based on atomic number, solving isotope issues. It relates position to electronic configuration, making properties predictable. It clearly separates metals, non-metals, and metalloids. It provides clear positions for transition and inner transition elements. It is easy to remember and reproduce due to its logical organization based on subshells (s, p, d, f)."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "Why are cations smaller than their parent atoms?",
+      "answer": "A cation is formed when an atom loses electrons. For example, Na becomes Na+. When electrons are lost, the remaining electrons are pulled more strongly by the nucleus (as the number of protons remains same but electrons decrease). Also, losing valence electrons often means the loss of an entire outer shell. Both factors cause the cation to shrink, making it smaller than the neutral parent atom."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "Why are anions larger than their parent atoms?",
+      "answer": "An anion is formed when an atom gains electrons. For example, Cl becomes Cl-. The number of protons remains the same, but the number of electrons increases. This increases the inter-electronic repulsion in the valence shell, pushing the electrons further apart. Also, the effective nuclear charge per electron decreases. This causes the electron cloud to expand, making the anion larger than the neutral atom."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "Discuss the grading of Halogens based on their physical state.",
+      "answer": "Group 17 (Halogens) shows a clear gradation in physical state at room temperature due to increasing intermolecular forces (Van der Waals forces) as atomic mass increases down the group. Fluorine (F2) and Chlorine (Cl2) are gases. Bromine (Br2) is a liquid. Iodine (I2) is a solid. This trend illustrates how physical properties change systematically within a group."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "What are 'Alkaline Earth Metals' and list their general properties.",
+      "answer": "Alkaline Earth Metals belong to Group 2 (e.g., Be, Mg, Ca). They have 2 valence electrons and a valency of 2. They are metals, harder and denser than alkali metals. They react with water to form hydroxides (alkaline solutions) and release hydrogen, though less vigorously than Group 1. Their reactivity increases down the group. They form ionic compounds."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "Explain the variation of metallic character in Group 1 vs Group 17.",
+      "answer": "In Group 1 (Alkali metals), metallic character (tendency to lose electrons) increases down the group because atomic size increases, making electron loss easier. In Group 17 (Halogens), elements are non-metals. Their non-metallic character (tendency to gain electrons) decreases down the group because increased size weakens the nuclear pull. Thus, the bottom elements of Group 17 (like Iodine) show some metallic luster."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "How does the shell structure relate to the period number?",
+      "answer": "The period number of an element corresponds directly to the number of electron shells occupied in its atom. Elements in Period 1 have 1 shell (K). Elements in Period 2 have 2 shells (K, L). Period 3 elements have 3 shells (K, L, M), and so on. As we move down the table to a new period, a new principal energy level (shell) begins filling."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "Why is the 3rd period containing only 8 elements?",
+      "answer": "The 3rd period corresponds to the filling of the M shell. While the M shell can hold 18 electrons (2n^2), the outermost shell of an atom cannot hold more than 8 electrons (Octet rule). Filling the 3s and 3p subshells takes 2 + 6 = 8 electrons. The filling of the 3d subshell begins only in the 4th period according to energy levels. Thus, the 3rd period closes with Argon after 8 elements."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "What is the similarity between Fluorine and Chlorine?",
+      "answer": "Fluorine (F) and Chlorine (Cl) both belong to Group 17 (Halogens). They both have 7 valence electrons. They both have a valency of 1. Both are non-metals and exist as diatomic gas molecules (F2, Cl2) at room temperature. They show similar chemical properties, such as forming salts with metals (NaF, NaCl) and acidic hydrides (HF, HCl)."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "Explain the term 'periodicity' in properties.",
+      "answer": "Periodicity refers to the recurrence of elements with similar properties at regular intervals when arranged by atomic number. This happens because similar electronic configurations recur. For example, after every interval of 2, 8, 8, 18... elements, we encounter an element with the same number of valence electrons. This leads to the periodic repetition of chemical and physical properties like valency and atomic size."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "Discuss the anomalous pairs in Mendeleev's periodic table.",
+      "answer": "Mendeleev arranged elements by increasing atomic mass. However, to group elements with similar properties, he sometimes inverted this order. For example, Cobalt (atomic mass 58.9) was placed before Nickel (atomic mass 58.7). Similarly, Tellurium (127.6) was placed before Iodine (126.9). These were anomalies because the heavier element came first to fit the chemical grouping, violating his own periodic law."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "How does the Modern Periodic Table reflect electronic configuration?",
+      "answer": "The structure of the Modern Periodic Table is a direct reflection of electronic configuration. The period number indicates the outermost shell. The group number indicates the number of valence electrons (for main groups). The division into s, p, d, f blocks corresponds to the subshell being filled. For example, Group 1 elements all end in ns1, showing why they share properties. The table organizes elements based on how their electrons are arranged."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "Why does Lithium, Sodium, and Potassium float on water?",
+      "answer": "Lithium, Sodium, and Potassium are alkali metals (Group 1). They have very low densities compared to other metals and even water. Lithium is the lightest metal. Because their density is lower than water (1 g/cm3), they float. Additionally, they react vigorously with water, moving around the surface while releasing hydrogen gas."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "What are Lanthanides and Actinides?",
+      "answer": "Lanthanides are the series of 15 metallic chemical elements with atomic numbers 57-71, from Lanthanum to Lutetium. They are chemically similar. Actinides are the series of 15 metallic elements with atomic numbers 89-103, from Actinium to Lawrencium. Both series involve the filling of f-orbitals and are placed at the bottom of the periodic table to keep it compact. Actinides are all radioactive."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "Explain why atomic radius decreases in a period but increases in a group.",
+      "answer": "In a period, electrons are added to the same shell while protons increase, increasing the nuclear pull and shrinking the atom (radius decreases). In a group, although nuclear charge increases, a completely new electron shell is added at each step. The shielding effect of inner shells and the increased distance of the new shell outweigh the nuclear pull, expanding the atom (radius increases)."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "Compare Mendeleev's Periodic Law and Modern Periodic Law.",
+      "answer": "Mendeleev's Periodic Law states: 'The physical and chemical properties of elements are a periodic function of their atomic masses.' It focused on mass as the fundamental property. The Modern Periodic Law states: 'The physical and chemical properties of elements are a periodic function of their atomic numbers.' It focuses on atomic number (proton count) which relates directly to electronic configuration, making it more accurate."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "What is the importance of the Periodic Table?",
+      "answer": "The Periodic Table is a fundamental tool in chemistry. It organizes all known elements in a logical pattern, making it easy to study their properties. It helps predict the behavior of elements and compounds. It reveals trends in properties like reactivity and size. It aids in discovering new elements by highlighting gaps. It connects atomic structure with chemical behavior."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "Why did Newlands' Law of Octaves fail?",
+      "answer": "Newlands' Law failed because: 1) It worked only for lighter elements up to Calcium. Heavier elements didn't follow the octave pattern. 2) He forced elements like Cobalt and Nickel into the same slot to fit the pattern. 3) He placed elements with unlike properties (e.g., Co and Ni with halogens) in the same column. 4) It could not accommodate newly discovered noble gases."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "How are elements classified into blocks?",
+      "answer": "Elements are classified into blocks based on the subshell in which the last electron enters. s-block: last electron in s-subshell (Groups 1, 2). p-block: last electron in p-subshell (Groups 13-18). d-block: last electron in d-subshell (Groups 3-12). f-block: last electron in f-subshell (Lanthanides, Actinides). This classification correlates with their chemical properties."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "Describe the chemical reactivity trend of Period 3 elements.",
+      "answer": "In Period 3, reactivity starts high with Sodium (a reactive metal losing 1 electron). It decreases across the metals (Mg, Al) to Silicon (least reactive metalloid). Then, reactivity increases again with the non-metals Phosphorus, Sulfur, and Chlorine (highly reactive gaining 1 electron). Finally, Argon is inert. Thus, reactivity is high at the extremes and low in the middle."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "Why is the size of an atom important in determining its chemical properties?",
+      "answer": "Atomic size determines the distance between the nucleus and valence electrons. This distance affects the force of attraction. A larger size means weaker attraction, making it easier to lose electrons (high metallic reactivity). A smaller size means stronger attraction, making it easier to gain electrons (high non-metallic reactivity). Thus, size directly influences ionization energy and chemical bonding behavior."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "Explain the reaction of Group 2 elements with water.",
+      "answer": "Group 2 elements (Alkaline Earth Metals) react with water to form metal hydroxides and hydrogen gas. Beryllium does not react with water. Magnesium reacts with hot water. Calcium, Strontium, and Barium react with cold water with increasing vigor down the group. General reaction: M + 2H2O -> M(OH)2 + H2. The reactivity increases as the metallic character increases down the group."
+    }
+  ]
+}

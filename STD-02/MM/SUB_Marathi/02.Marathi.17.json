@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.17",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "दिनदर्शिका"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "दिनदर्शिकेत काय दाखवलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त चित्रे", "is_correct": false },
+        { "option_id": 2, "text": "महिने, दिवस आणि तारीखा", "is_correct": true },
+        { "option_id": 3, "text": "गोष्ट", "is_correct": false },
+        { "option_id": 4, "text": "कविता", "is_correct": false }
+      ],
+      "answer": "महिने, दिवस आणि तारीखा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वर्षात एकूण किती महिने असतात?",
+      "options": [
+        { "option_id": 1, "text": "६", "is_correct": false },
+        { "option_id": 2, "text": "१०", "is_correct": false },
+        { "option_id": 3, "text": "१२", "is_correct": true },
+        { "option_id": 4, "text": "८", "is_correct": false }
+      ],
+      "answer": "१२"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "एका आठवड्यात किती दिवस असतात?",
+      "options": [
+        { "option_id": 1, "text": "५", "is_correct": false },
+        { "option_id": 2, "text": "६", "is_correct": false },
+        { "option_id": 3, "text": "७", "is_correct": true },
+        { "option_id": 4, "text": "८", "is_correct": false }
+      ],
+      "answer": "७"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "दिनदर्शिकेत कोणती माहिती मिळते?",
+      "options": [
+        { "option_id": 1, "text": "कथा", "is_correct": false },
+        { "option_id": 2, "text": "सण आणि सुट्ट्या", "is_correct": true },
+        { "option_id": 3, "text": "गाणी", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "सण आणि सुट्ट्या"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "जानेवारीनंतर कोणता महिना येतो?",
+      "options": [
+        { "option_id": 1, "text": "मार्च", "is_correct": false },
+        { "option_id": 2, "text": "एप्रिल", "is_correct": false },
+        { "option_id": 3, "text": "फेब्रुवारी", "is_correct": true },
+        { "option_id": 4, "text": "मे", "is_correct": false }
+      ],
+      "answer": "फेब्रुवारी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "रविवारी सहसा मुलांना काय असते?",
+      "options": [
+        { "option_id": 1, "text": "शाळा", "is_correct": false },
+        { "option_id": 2, "text": "सुट्टी", "is_correct": true },
+        { "option_id": 3, "text": "परीक्षा", "is_correct": false },
+        { "option_id": 4, "text": "उपक्रम", "is_correct": false }
+      ],
+      "answer": "सुट्टी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "दिनदर्शिका आपल्याला कशात मदत करते?",
+      "options": [
+        { "option_id": 1, "text": "खेळायला", "is_correct": false },
+        { "option_id": 2, "text": "वेळ आणि दिवस समजायला", "is_correct": true },
+        { "option_id": 3, "text": "चित्र काढायला", "is_correct": false },
+        { "option_id": 4, "text": "गाणी म्हणायला", "is_correct": false }
+      ],
+      "answer": "वेळ आणि दिवस समजायला"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वर्षातील पहिला महिना कोणता?",
+      "options": [
+        { "option_id": 1, "text": "डिसेंबर", "is_correct": false },
+        { "option_id": 2, "text": "जानेवारी", "is_correct": true },
+        { "option_id": 3, "text": "मे", "is_correct": false },
+        { "option_id": 4, "text": "ऑगस्ट", "is_correct": false }
+      ],
+      "answer": "जानेवारी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "महिन्यात काय बदलते?",
+      "options": [
+        { "option_id": 1, "text": "दिवस आणि तारीख", "is_correct": true },
+        { "option_id": 2, "text": "घड्याळ", "is_correct": false },
+        { "option_id": 3, "text": "रंग", "is_correct": false },
+        { "option_id": 4, "text": "शाळा", "is_correct": false }
+      ],
+      "answer": "दिवस आणि तारीख"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "दिनदर्शिकेतील आकडे कशासाठी असतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळायला", "is_correct": false },
+        { "option_id": 2, "text": "तारीख दाखवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "चित्रे काढण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "गाणी लिहिण्यासाठी", "is_correct": false }
+      ],
+      "answer": "तारीख दाखवण्यासाठी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "दिनदर्शिका मुख्यतः कुठे लावली जाते?",
+      "options": [
+        { "option_id": 1, "text": "भिंतीवर", "is_correct": true },
+        { "option_id": 2, "text": "जमिनीवर", "is_correct": false },
+        { "option_id": 3, "text": "खिडकीवर", "is_correct": false },
+        { "option_id": 4, "text": "पिशवीत", "is_correct": false }
+      ],
+      "answer": "भिंतीवर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "दिनदर्शिकेत कोणत्या गोष्टी अधोरेखित केल्या जातात?",
+      "options": [
+        { "option_id": 1, "text": "खेळ", "is_correct": false },
+        { "option_id": 2, "text": "महत्त्वाच्या तारीखा", "is_correct": true },
+        { "option_id": 3, "text": "चित्रकला", "is_correct": false },
+        { "option_id": 4, "text": "गाणी", "is_correct": false }
+      ],
+      "answer": "महत्त्वाच्या तारीखा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "दिनदर्शिकेतून आपल्याला काय कळते?",
+      "options": [
+        { "option_id": 1, "text": "खाणे-पिणे", "is_correct": false },
+        { "option_id": 2, "text": "दिवस, महिना आणि तारीख", "is_correct": true },
+        { "option_id": 3, "text": "खेळ", "is_correct": false },
+        { "option_id": 4, "text": "प्रवास", "is_correct": false }
+      ],
+      "answer": "दिवस, महिना आणि तारीख"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "दिनदर्शिकेचा उपयोग कधी होतो?",
+      "options": [
+        { "option_id": 1, "text": "सण आणि सुट्ट्या पाहताना", "is_correct": true },
+        { "option_id": 2, "text": "खेळताना", "is_correct": false },
+        { "option_id": 3, "text": "गीत गाताना", "is_correct": false },
+        { "option_id": 4, "text": "कविता म्हणताना", "is_correct": false }
+      ],
+      "answer": "सण आणि सुट्ट्या पाहताना"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "दिनदर्शिका कोणत्या विषयाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "वेळ आणि दिनक्रम", "is_correct": true },
+        { "option_id": 2, "text": "खेळ", "is_correct": false },
+        { "option_id": 3, "text": "पर्यटन", "is_correct": false },
+        { "option_id": 4, "text": "क्रीडा", "is_correct": false }
+      ],
+      "answer": "वेळ आणि दिनक्रम"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "दिनदर्शिका म्हणजे काय?",
+      "answer": "महिने, दिवस आणि तारखा दाखवणारे साधन म्हणजे दिनदर्शिका."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "दिनदर्शिकेचा एक उपयोग लिहा.",
+      "answer": "सण आणि सुट्ट्या कळण्यासाठी दिनदर्शिकेचा उपयोग होतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "एका आठवड्यात किती दिवस असतात?",
+      "answer": "एका आठवड्यात ७ दिवस असतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "वर्षात किती महिने असतात?",
+      "answer": "वर्षात १२ महिने असतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "दिनदर्शिका कुठे लावतात?",
+      "answer": "दिनदर्शिका भिंतीवर लावतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "दिनदर्शिकेत काय लिहिलेले असते?",
+      "answer": "दिवस, महिने, तारखा आणि सण लिहिलेले असतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "तुला दिनदर्शिकेत काय पाहायला आवडते?",
+      "answer": "मला सण आणि सुट्ट्या पाहायला आवडतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "दिनदर्शिकेतून काय समजते?",
+      "answer": "आज कोणती तारीख आणि कोणता दिवस आहे हे समजते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "दोन महिने लिहा.",
+      "answer": "जानेवारी आणि फेब्रुवारी."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "दोन आठवड्याचे दिवस लिहा.",
+      "answer": "सोमवार आणि मंगळवार."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "दिनदर्शिकेतील तारीख का महत्वाची असते?",
+      "answer": "कारण त्यावर आपले दैनंदिन कामकाज ठरते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "दिनदर्शिकेत अधोरेखित केलेल्या तारखा कोणत्या असतात?",
+      "answer": "महत्त्वाचे सण आणि विशेष दिवस."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "तुला कोणता महिना आवडतो? का?",
+      "answer": "मला दिवाळीचा महिना आवडतो कारण तेव्हा सुट्टी असते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "दिनदर्शिका आपल्यासाठी कशी उपयुक्त आहे?",
+      "answer": "ती आपल्याला दिवस, महिना आणि सुट्ट्या समजायला मदत करते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्यातून तुला काय शिकायला मिळाले?",
+      "answer": "दिनदर्शिका वाचणे आणि वेळेचे महत्त्व समजले."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.08",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "ओळख खेळांची"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'कबड्डी-कबड्डी' असे म्हणत कोणता खेळ खेळतात?",
+      "options": [
+        { "option_id": 1, "text": "खो-खो", "is_correct": false },
+        { "option_id": 2, "text": "कबड्डी", "is_correct": true },
+        { "option_id": 3, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 4, "text": "लगोरी", "is_correct": false }
+      ],
+      "answer": "कबड्डी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खो-खो खेळताना बसलेल्या खेळाडूला उठवण्यासाठी पाठीवर काय देतात?",
+      "options": [
+        { "option_id": 1, "text": "धक्का", "is_correct": false },
+        { "option_id": 2, "text": "खो", "is_correct": true },
+        { "option_id": 3, "text": "टाळी", "is_correct": false },
+        { "option_id": 4, "text": "चेंडू", "is_correct": false }
+      ],
+      "answer": "खो"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "लगोरीच्या खेळात एकमेकांवर काय रचले जाते?",
+      "options": [
+        { "option_id": 1, "text": "विटा किंवा दगडाचे तुकडे", "is_correct": true },
+        { "option_id": 2, "text": "पुस्तके", "is_correct": false },
+        { "option_id": 3, "text": "चेंडू", "is_correct": false },
+        { "option_id": 4, "text": "काठ्या", "is_correct": false }
+      ],
+      "answer": "विटा किंवा दगडाचे तुकडे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "क्रिकेट खेळण्यासाठी कशाची आवश्यकता असते?",
+      "options": [
+        { "option_id": 1, "text": "रॅकेट", "is_correct": false },
+        { "option_id": 2, "text": "बॅट आणि बॉल", "is_correct": true },
+        { "option_id": 3, "text": "हॉकी स्टिक", "is_correct": false },
+        { "option_id": 4, "text": "जाळी", "is_correct": false }
+      ],
+      "answer": "बॅट आणि बॉल"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मैदानावर खेळल्या जाणाऱ्या खेळांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बैठे खेळ", "is_correct": false },
+        { "option_id": 2, "text": "मैदानी खेळ", "is_correct": true },
+        { "option_id": 3, "text": "संगणक खेळ", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यातील खेळ", "is_correct": false }
+      ],
+      "answer": "मैदानी खेळ"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "लगोरी फोडण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "दगडाचा", "is_correct": false },
+        { "option_id": 2, "text": "चेंडूचा (Ball)", "is_correct": true },
+        { "option_id": 3, "text": "काठीचा", "is_correct": false },
+        { "option_id": 4, "text": "पायाचा", "is_correct": false }
+      ],
+      "answer": "चेंडूचा (Ball)"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "दोरीउड्या मारताना दोरी कोठून फिरवली जाते?",
+      "options": [
+        { "option_id": 1, "text": "पायाखालून आणि डोक्यावरून", "is_correct": true },
+        { "option_id": 2, "text": "फक्त हाताने", "is_correct": false },
+        { "option_id": 3, "text": "कमरेभोवती", "is_correct": false },
+        { "option_id": 4, "text": "गळ्याभोवती", "is_correct": false }
+      ],
+      "answer": "पायाखालून आणि डोक्यावरून"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पतंग हवेत उडवण्यासाठी काय लागते?",
+      "options": [
+        { "option_id": 1, "text": "इंधन", "is_correct": false },
+        { "option_id": 2, "text": "वारा", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "वीज", "is_correct": false }
+      ],
+      "answer": "वारा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "चेंडू फेणे आणि झेलणे कोणत्या खेळात जास्त होते?",
+      "options": [
+        { "option_id": 1, "text": "कॅरम", "is_correct": false },
+        { "option_id": 2, "text": "क्रिकेट", "is_correct": true },
+        { "option_id": 3, "text": "कुस्ती", "is_correct": false },
+        { "option_id": 4, "text": "धावणे", "is_correct": false }
+      ],
+      "answer": "क्रिकेट"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "खो-खो आणि कबड्डी हे कोणते खेळ आहेत?",
+      "options": [
+        { "option_id": 1, "text": "विदेशी खेळ", "is_correct": false },
+        { "option_id": 2, "text": "भारतीय खेळ", "is_correct": true },
+        { "option_id": 3, "text": "बैठे खेळ", "is_correct": false },
+        { "option_id": 4, "text": "एकल खेळ", "is_correct": false }
+      ],
+      "answer": "भारतीय खेळ"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भोवरा फिरवण्यासाठी काय लागते?",
+      "options": [
+        { "option_id": 1, "text": "बॅट", "is_correct": false },
+        { "option_id": 2, "text": "दोरी/जाळी", "is_correct": true },
+        { "option_id": 3, "text": "रॅकेट", "is_correct": false },
+        { "option_id": 4, "text": "चेंडू", "is_correct": false }
+      ],
+      "answer": "दोरी/जाळी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कबड्डी खेळात प्रतिस्पर्धी संघाच्या भागात जाणाऱ्या खेळाडूला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "गोलंदाज", "is_correct": false },
+        { "option_id": 2, "text": "चढाईपटू (Raider)", "is_correct": true },
+        { "option_id": 3, "text": "यष्टीरक्षक", "is_correct": false },
+        { "option_id": 4, "text": "पंच", "is_correct": false }
+      ],
+      "answer": "चढाईपटू (Raider)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'फुगा' हवेत का उडतो?",
+      "options": [
+        { "option_id": 1, "text": "त्यात पाणी असते म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "त्यात हलका वायू/हवा असते म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "तो जड असतो म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "त्याला पंख असतात म्हणून", "is_correct": false }
+      ],
+      "answer": "त्यात हलका वायू/हवा असते म्हणून"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता खेळ घरात बसून खेळता येतो?",
+      "options": [
+        { "option_id": 1, "text": "कबड्डी", "is_correct": false },
+        { "option_id": 2, "text": "सापशिडी", "is_correct": true },
+        { "option_id": 3, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 4, "text": "खो-खो", "is_correct": false }
+      ],
+      "answer": "सापशिडी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "लगोरी खेळताना किती संघ असतात?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कोणत्याही दोन मैदानी खेळांची नावे लिहा.",
+      "answer": "कबड्डी आणि क्रिकेट (किंवा खो-खो, लगोरी)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "खो-खो खेळात खेळाडू कसे बसतात?",
+      "answer": "खो-खो खेळात खेळाडू एका रांगेत विरुद्ध दिशेला तोंड करून बसतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "लगोरी खेळात चेंडू कोणाला लागतो?",
+      "answer": "लगोरी खेळात चेंडू दगडांना (लगोरीला) किंवा पळणाऱ्या खेळाडूंना लागतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "क्रिकेटमध्ये चेंडू फेकणाऱ्याला काय म्हणतात?",
+      "answer": "क्रिकेटमध्ये चेंडू फेकणाऱ्याला 'गोलंदाज' (Bowler) म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वाक्य पूर्ण करा: '_____ कबड्डी छान खेळतो.'",
+      "answer": "वाक्य पूर्ण: (मित्राचे नाव) कबड्डी छान खेळतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "चेंडू अचूक फेकणे म्हणजे काय?",
+      "answer": "चेंडू अचूक फेकणे म्हणजे बरोबर नेम धरून फेकणे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "भोवरा फिरवताना आपण काय करतो?",
+      "answer": "भोवरा फिरवताना आपण दोरी वेगाने ओढतो आणि भोवरा जमिनीवर सोडतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पतंग कापण्यासाठी कशाचा वापर करतात?",
+      "answer": "पतंग कापण्यासाठी मांजाचा (धारदार दोऱ्याचा) वापर करतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "खेळ खेळल्याने काय फायदा होतो?",
+      "answer": "खेळ खेळल्याने शरीर तंदुरुस्त राहते आणि मन आनंदी होते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "तुम्ही तुमच्या मित्रासोबत कोणता खेळ खेळता?",
+      "answer": "मी माझ्या मित्रासोबत लपाछपी (किंवा कोणताही खेळ) खेळतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "चेंडूने खेळल्या जाणाऱ्या दोन खेळांची नावे सांगा.",
+      "answer": "क्रिकेट, फुटबॉल, लगोरी (कोणतेही दोन)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कबड्डी खेळात श्वास रोखून काय म्हणावे लागते?",
+      "answer": "कबड्डी खेळात श्वास रोखून 'कबड्डी-कबड्डी' म्हणावे लागते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "'खेळ' या शब्दाचे अनेकवचन काय?",
+      "answer": "'खेळ' या शब्दाचे अनेकवचन 'खेळ' हेच राहते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "लगोरी म्हणजे काय?",
+      "answer": "एकावर एक रचलेले ७ दगड किंवा लाकडी तुकडे म्हणजे लगोरी होय."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "मुले संध्याकाळी कोठे खेळायला जातात?",
+      "answer": "मुले संध्याकाळी मैदानावर किंवा बागेत खेळायला जातात."
+    }
+  ]
+}

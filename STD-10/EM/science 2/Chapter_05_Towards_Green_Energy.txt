@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.05",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Towards Green Energy"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Most electric power plants are based on which principle invented by Michael Faraday?",
+      "options": [
+        { "option_id": 1, "text": "Electrostatic induction", "is_correct": false },
+        { "option_id": 2, "text": "Electromagnetic induction", "is_correct": true },
+        { "option_id": 3, "text": "Gravitational force", "is_correct": false },
+        { "option_id": 4, "text": "Nuclear fission", "is_correct": false }
+      ],
+      "answer": "Electromagnetic induction"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which machine is used to convert mechanical energy into electrical energy using the principle of electromagnetic induction?",
+      "options": [
+        { "option_id": 1, "text": "Electric motor", "is_correct": false },
+        { "option_id": 2, "text": "Electric generator", "is_correct": true },
+        { "option_id": 3, "text": "Voltmeter", "is_correct": false },
+        { "option_id": 4, "text": "Galvanometer", "is_correct": false }
+      ],
+      "answer": "Electric generator"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "In a thermal power plant, what is used to rotate the turbine?",
+      "options": [
+        { "option_id": 1, "text": "Wind", "is_correct": false },
+        { "option_id": 2, "text": "Running water", "is_correct": false },
+        { "option_id": 3, "text": "Steam", "is_correct": true },
+        { "option_id": 4, "text": "Solar radiation", "is_correct": false }
+      ],
+      "answer": "Steam"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which fuel is generally used in thermal power plants?",
+      "options": [
+        { "option_id": 1, "text": "Uranium", "is_correct": false },
+        { "option_id": 2, "text": "Coal", "is_correct": true },
+        { "option_id": 3, "text": "Natural Gas", "is_correct": false },
+        { "option_id": 4, "text": "Plutonium", "is_correct": false }
+      ],
+      "answer": "Coal"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In a thermal power plant, chemical energy in coal is converted into __________ energy.",
+      "options": [
+        { "option_id": 1, "text": "Electrical", "is_correct": false },
+        { "option_id": 2, "text": "Thermal", "is_correct": true },
+        { "option_id": 3, "text": "Sound", "is_correct": false },
+        { "option_id": 4, "text": "Light", "is_correct": false }
+      ],
+      "answer": "Thermal"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which tower is used to convert steam back to water in a thermal power plant?",
+      "options": [
+        { "option_id": 1, "text": "Chimney", "is_correct": false },
+        { "option_id": 2, "text": "Cooling tower", "is_correct": true },
+        { "option_id": 3, "text": "Stack", "is_correct": false },
+        { "option_id": 4, "text": "Control pod", "is_correct": false }
+      ],
+      "answer": "Cooling tower"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which harmful gas is NOT released during the burning of coal?",
+      "options": [
+        { "option_id": 1, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 2, "text": "Sulphur oxide", "is_correct": false },
+        { "option_id": 3, "text": "Nitrogen oxide", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen", "is_correct": true }
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Nuclear power plants use which element as fuel?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Uranium", "is_correct": true },
+        { "option_id": 3, "text": "Silicon", "is_correct": false },
+        { "option_id": 4, "text": "Copper", "is_correct": false }
+      ],
+      "answer": "Uranium"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What process is used to release energy from atomic nuclei in a nuclear reactor?",
+      "options": [
+        { "option_id": 1, "text": "Nuclear fusion", "is_correct": false },
+        { "option_id": 2, "text": "Nuclear fission", "is_correct": true },
+        { "option_id": 3, "text": "Chemical combustion", "is_correct": false },
+        { "option_id": 4, "text": "Ionization", "is_correct": false }
+      ],
+      "answer": "Nuclear fission"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "When a neutron bombards Uranium-235, it converts into which unstable isotope?",
+      "options": [
+        { "option_id": 1, "text": "Uranium-234", "is_correct": false },
+        { "option_id": 2, "text": "Uranium-236", "is_correct": true },
+        { "option_id": 3, "text": "Uranium-238", "is_correct": false },
+        { "option_id": 4, "text": "Plutonium-239", "is_correct": false }
+      ],
+      "answer": "Uranium-236"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How many neutrons are released during the fission of Uranium-236?",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": false },
+        { "option_id": 2, "text": "2", "is_correct": false },
+        { "option_id": 3, "text": "3", "is_correct": true },
+        { "option_id": 4, "text": "4", "is_correct": false }
+      ],
+      "answer": "3"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Power generation plants based on natural gas are more efficient than those based on __________.",
+      "options": [
+        { "option_id": 1, "text": "Hydroelectric energy", "is_correct": false },
+        { "option_id": 2, "text": "Coal", "is_correct": true },
+        { "option_id": 3, "text": "Solar energy", "is_correct": false },
+        { "option_id": 4, "text": "Wind energy", "is_correct": false }
+      ],
+      "answer": "Coal"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of the following does NOT contain sulphur, resulting in less pollution?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Diesel", "is_correct": false },
+        { "option_id": 3, "text": "Natural Gas", "is_correct": true },
+        { "option_id": 4, "text": "Crude Oil", "is_correct": false }
+      ],
+      "answer": "Natural Gas"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which energy source is considered 'Green Energy'?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Natural Gas", "is_correct": false },
+        { "option_id": 3, "text": "Wind", "is_correct": true },
+        { "option_id": 4, "text": "Nuclear", "is_correct": false }
+      ],
+      "answer": "Wind"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "In hydroelectric power plants, what energy of water is converted into kinetic energy?",
+      "options": [
+        { "option_id": 1, "text": "Thermal energy", "is_correct": false },
+        { "option_id": 2, "text": "Potential energy", "is_correct": true },
+        { "option_id": 3, "text": "Chemical energy", "is_correct": false },
+        { "option_id": 4, "text": "Electrical energy", "is_correct": false }
+      ],
+      "answer": "Potential energy"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of the following is a problem associated with hydroelectric power plants?",
+      "options": [
+        { "option_id": 1, "text": "Air pollution", "is_correct": false },
+        { "option_id": 2, "text": "Radioactive waste", "is_correct": false },
+        { "option_id": 3, "text": "Submerging of forests and fertile land", "is_correct": true },
+        { "option_id": 4, "text": "Emission of soot particles", "is_correct": false }
+      ],
+      "answer": "Submerging of forests and fertile land"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the function of a gear-box in a wind turbine?",
+      "options": [
+        { "option_id": 1, "text": "To stop the turbine", "is_correct": false },
+        { "option_id": 2, "text": "To increase rotations per unit time", "is_correct": true },
+        { "option_id": 3, "text": "To decrease wind velocity", "is_correct": false },
+        { "option_id": 4, "text": "To store energy", "is_correct": false }
+      ],
+      "answer": "To increase rotations per unit time"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Solar photovoltaic cells convert solar energy directly into __________.",
+      "options": [
+        { "option_id": 1, "text": "Thermal energy", "is_correct": false },
+        { "option_id": 2, "text": "AC electrical energy", "is_correct": false },
+        { "option_id": 3, "text": "DC electrical energy", "is_correct": true },
+        { "option_id": 4, "text": "Chemical energy", "is_correct": false }
+      ],
+      "answer": "DC electrical energy"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What material is typically used to make solar cells?",
+      "options": [
+        { "option_id": 1, "text": "Copper", "is_correct": false },
+        { "option_id": 2, "text": "Silicon", "is_correct": true },
+        { "option_id": 3, "text": "Iron", "is_correct": false },
+        { "option_id": 4, "text": "Aluminum", "is_correct": false }
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "If two solar cells are connected in series, what happens to the potential difference?",
+      "options": [
+        { "option_id": 1, "text": "It remains the same", "is_correct": false },
+        { "option_id": 2, "text": "It becomes zero", "is_correct": false },
+        { "option_id": 3, "text": "It is the sum of individual potential differences", "is_correct": true },
+        { "option_id": 4, "text": "It decreases", "is_correct": false }
+      ],
+      "answer": "It is the sum of individual potential differences"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "To convert DC power from solar panels to AC power, which device is used?",
+      "options": [
+        { "option_id": 1, "text": "Transformer", "is_correct": false },
+        { "option_id": 2, "text": "Rectifier", "is_correct": false },
+        { "option_id": 3, "text": "Inverter", "is_correct": true },
+        { "option_id": 4, "text": "Capacitor", "is_correct": false }
+      ],
+      "answer": "Inverter"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "In a solar thermal power plant, what is used to reflect and concentrate solar radiation?",
+      "options": [
+        { "option_id": 1, "text": "Absorbers", "is_correct": false },
+        { "option_id": 2, "text": "Reflectors/Concentrators", "is_correct": true },
+        { "option_id": 3, "text": "Solar panels", "is_correct": false },
+        { "option_id": 4, "text": "Inverters", "is_correct": false }
+      ],
+      "answer": "Reflectors/Concentrators"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the potential difference generated by a single silicon solar cell of dimension 1 sq cm?",
+      "options": [
+        { "option_id": 1, "text": "0.5 V", "is_correct": true },
+        { "option_id": 2, "text": "1.5 V", "is_correct": false },
+        { "option_id": 3, "text": "5 V", "is_correct": false },
+        { "option_id": 4, "text": "12 V", "is_correct": false }
+      ],
+      "answer": "0.5 V"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which state has the 'Kudankulam' nuclear power plant?",
+      "options": [
+        { "option_id": 1, "text": "Maharashtra", "is_correct": false },
+        { "option_id": 2, "text": "Tamil Nadu", "is_correct": true },
+        { "option_id": 3, "text": "Gujarat", "is_correct": false },
+        { "option_id": 4, "text": "Rajasthan", "is_correct": false }
+      ],
+      "answer": "Tamil Nadu"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The efficiency of a good solar cell is around __________.",
+      "options": [
+        { "option_id": 1, "text": "100%", "is_correct": false },
+        { "option_id": 2, "text": "50%", "is_correct": false },
+        { "option_id": 3, "text": "15%", "is_correct": true },
+        { "option_id": 4, "text": "90%", "is_correct": false }
+      ],
+      "answer": "15%"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a stage in a natural gas power plant?",
+      "options": [
+        { "option_id": 1, "text": "Compressor for pressurized air", "is_correct": false },
+        { "option_id": 2, "text": "Combustion chamber", "is_correct": false },
+        { "option_id": 3, "text": "Gas turbine", "is_correct": false },
+        { "option_id": 4, "text": "Nuclear reactor", "is_correct": true }
+      ],
+      "answer": "Nuclear reactor"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Burning of fossil fuels like coal leads to the emission of __________ which causes global warming.",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Incomplete combustion of fuels leads to the formation of __________.",
+      "options": [
+        { "option_id": 1, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 2, "text": "Carbon monoxide", "is_correct": true },
+        { "option_id": 3, "text": "Sulphur dioxide", "is_correct": false },
+        { "option_id": 4, "text": "Nitrogen dioxide", "is_correct": false }
+      ],
+      "answer": "Carbon monoxide"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which source of energy is 'perpetual' or never-ending?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Natural Gas", "is_correct": false },
+        { "option_id": 3, "text": "Solar Energy", "is_correct": true },
+        { "option_id": 4, "text": "Nuclear Energy", "is_correct": false }
+      ],
+      "answer": "Solar Energy"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The Koyana Dam hydroelectric plant is located in which state?",
+      "options": [
+        { "option_id": 1, "text": "Uttarakhand", "is_correct": false },
+        { "option_id": 2, "text": "Andhra Pradesh", "is_correct": false },
+        { "option_id": 3, "text": "Maharashtra", "is_correct": true },
+        { "option_id": 4, "text": "Himachal Pradesh", "is_correct": false }
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Many solar strings connected in parallel form a __________.",
+      "options": [
+        { "option_id": 1, "text": "Solar panel", "is_correct": false },
+        { "option_id": 2, "text": "Solar array", "is_correct": true },
+        { "option_id": 3, "text": "Solar module", "is_correct": false },
+        { "option_id": 4, "text": "Solar cell", "is_correct": false }
+      ],
+      "answer": "Solar array"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which type of energy conversion occurs in a solar thermal power plant?",
+      "options": [
+        { "option_id": 1, "text": "Solar to Electric (Direct)", "is_correct": false },
+        { "option_id": 2, "text": "Solar to Thermal to Electric", "is_correct": true },
+        { "option_id": 3, "text": "Chemical to Thermal to Electric", "is_correct": false },
+        { "option_id": 4, "text": "Potential to Kinetic to Electric", "is_correct": false }
+      ],
+      "answer": "Solar to Thermal to Electric"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What is the approximate capacity of the Vindhyanagar thermal power plant?",
+      "options": [
+        { "option_id": 1, "text": "4760 MW", "is_correct": true },
+        { "option_id": 2, "text": "3340 MW", "is_correct": false },
+        { "option_id": 3, "text": "4000 MW", "is_correct": false },
+        { "option_id": 4, "text": "4620 MW", "is_correct": false }
+      ],
+      "answer": "4760 MW"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Acid rain is caused by __________ generated due to burning of fuels.",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Helium", "is_correct": false },
+        { "option_id": 4, "text": "Hydrogen", "is_correct": false }
+      ],
+      "answer": "Nitrogen dioxide"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The principle of electromagnetic induction states that a potential difference is generated when __________ changes.",
+      "options": [
+        { "option_id": 1, "text": "Temperature", "is_correct": false },
+        { "option_id": 2, "text": "Magnetic field around a conductor", "is_correct": true },
+        { "option_id": 3, "text": "Air pressure", "is_correct": false },
+        { "option_id": 4, "text": "Light intensity", "is_correct": false }
+      ],
+      "answer": "Magnetic field around a conductor"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What is the main problem with disposing of nuclear waste?",
+      "options": [
+        { "option_id": 1, "text": "It is too heavy", "is_correct": false },
+        { "option_id": 2, "text": "It emits harmful radiation", "is_correct": true },
+        { "option_id": 3, "text": "It smells bad", "is_correct": false },
+        { "option_id": 4, "text": "It is flammable", "is_correct": false }
+      ],
+      "answer": "It emits harmful radiation"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which country relies on coal for 41% of its electrical power generation?",
+      "options": [
+        { "option_id": 1, "text": "India", "is_correct": false },
+        { "option_id": 2, "text": "World Average (Global)", "is_correct": true },
+        { "option_id": 3, "text": "USA", "is_correct": false },
+        { "option_id": 4, "text": "China", "is_correct": false }
+      ],
+      "answer": "World Average (Global)"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is the advantage of connecting solar cells in parallel?",
+      "options": [
+        { "option_id": 1, "text": "Increases potential difference", "is_correct": false },
+        { "option_id": 2, "text": "Increases current", "is_correct": true },
+        { "option_id": 3, "text": "Decreases efficiency", "is_correct": false },
+        { "option_id": 4, "text": "Changes DC to AC", "is_correct": false }
+      ],
+      "answer": "Increases current"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What drives the turbine in a hydroelectric power plant?",
+      "options": [
+        { "option_id": 1, "text": "Steam", "is_correct": false },
+        { "option_id": 2, "text": "Flowing water", "is_correct": true },
+        { "option_id": 3, "text": "Wind", "is_correct": false },
+        { "option_id": 4, "text": "Combustion gas", "is_correct": false }
+      ],
+      "answer": "Flowing water"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a renewable source of energy?",
+      "options": [
+        { "option_id": 1, "text": "Wind", "is_correct": false },
+        { "option_id": 2, "text": "Solar", "is_correct": false },
+        { "option_id": 3, "text": "Natural Gas", "is_correct": true },
+        { "option_id": 4, "text": "Hydroelectric", "is_correct": false }
+      ],
+      "answer": "Natural Gas"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "In a nuclear reactor, control of the chain reaction is necessary to prevent __________.",
+      "options": [
+        { "option_id": 1, "text": "Electricity generation", "is_correct": false },
+        { "option_id": 2, "text": "Accidents/Explosions", "is_correct": true },
+        { "option_id": 3, "text": "Cooling", "is_correct": false },
+        { "option_id": 4, "text": "Steam formation", "is_correct": false }
+      ],
+      "answer": "Accidents/Explosions"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Where is the Tarapur nuclear power plant located?",
+      "options": [
+        { "option_id": 1, "text": "Gujarat", "is_correct": false },
+        { "option_id": 2, "text": "Maharashtra", "is_correct": true },
+        { "option_id": 3, "text": "Rajasthan", "is_correct": false },
+        { "option_id": 4, "text": "Karnataka", "is_correct": false }
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Soot particles released from burning coal cause problems related to which system?",
+      "options": [
+        { "option_id": 1, "text": "Digestive system", "is_correct": false },
+        { "option_id": 2, "text": "Respiratory system", "is_correct": true },
+        { "option_id": 3, "text": "Nervous system", "is_correct": false },
+        { "option_id": 4, "text": "Circulatory system", "is_correct": false }
+      ],
+      "answer": "Respiratory system"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which of the following locations has a natural gas based power plant?",
+      "options": [
+        { "option_id": 1, "text": "Anjanvel", "is_correct": true },
+        { "option_id": 2, "text": "Tarapur", "is_correct": false },
+        { "option_id": 3, "text": "Koyana", "is_correct": false },
+        { "option_id": 4, "text": "Tehari", "is_correct": false }
+      ],
+      "answer": "Anjanvel"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Wind turbines with large fins are used to capture __________.",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Kinetic energy of wind", "is_correct": true },
+        { "option_id": 3, "text": "Potential energy of wind", "is_correct": false },
+        { "option_id": 4, "text": "Thermal energy of air", "is_correct": false }
+      ],
+      "answer": "Kinetic energy of wind"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Offshore wind turbines typically have a blade length of __________.",
+      "options": [
+        { "option_id": 1, "text": "1.5 m", "is_correct": false },
+        { "option_id": 2, "text": "50 m", "is_correct": false },
+        { "option_id": 3, "text": "100 m", "is_correct": true },
+        { "option_id": 4, "text": "10 m", "is_correct": false }
+      ],
+      "answer": "100 m"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "A silicon solar cell of 100 sq cm dimension generates a current of about __________.",
+      "options": [
+        { "option_id": 1, "text": "30 mA", "is_correct": false },
+        { "option_id": 2, "text": "300 mA", "is_correct": false },
+        { "option_id": 3, "text": "3 A", "is_correct": true },
+        { "option_id": 4, "text": "30 A", "is_correct": false }
+      ],
+      "answer": "3 A"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the primary function of a transformer in a solar power station?",
+      "options": [
+        { "option_id": 1, "text": "To generate electricity", "is_correct": false },
+        { "option_id": 2, "text": "To convert DC to AC", "is_correct": false },
+        { "option_id": 3, "text": "To transform voltage and current levels", "is_correct": true },
+        { "option_id": 4, "text": "To store energy", "is_correct": false }
+      ],
+      "answer": "To transform voltage and current levels"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Coal reserves in the world are expected to last for another __________ years.",
+      "options": [
+        { "option_id": 1, "text": "100", "is_correct": false },
+        { "option_id": 2, "text": "200", "is_correct": true },
+        { "option_id": 3, "text": "500", "is_correct": false },
+        { "option_id": 4, "text": "1000", "is_correct": false }
+      ],
+      "answer": "200"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which forms of energy are mentioned as 'Green Energy'?",
+      "options": [
+        { "option_id": 1, "text": "Thermal and Nuclear", "is_correct": false },
+        { "option_id": 2, "text": "Hydroelectric, Wind, Solar", "is_correct": true },
+        { "option_id": 3, "text": "Coal and Petroleum", "is_correct": false },
+        { "option_id": 4, "text": "Natural Gas and Diesel", "is_correct": false }
+      ],
+      "answer": "Hydroelectric, Wind, Solar"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define 'Electric Generator'.",
+      "answer": "A machine that converts mechanical energy into electrical energy based on the principle of electromagnetic induction is called an electric generator."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is electromagnetic induction?",
+      "answer": "It is a principle where a potential difference is generated across a conductor whenever the magnetic field around it changes."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name two ways to change the magnetic field around a conductor.",
+      "answer": "The field can be changed by rotating a magnet while the conductor is stationary, or by moving the conductor while the magnet is stationary."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the function of a turbine in power generation?",
+      "answer": "A turbine is used to rotate the magnet in the electric generator using the kinetic energy of a liquid or gas flow."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why are thermal power plants called so?",
+      "answer": "They are called thermal power plants because thermal energy (from burning fuel) is used to generate electrical energy."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "List the sequence of energy transformation in a thermal power plant.",
+      "answer": "Chemical energy in coal -> Thermal energy -> Kinetic energy in steam -> Kinetic energy in turbine -> Electrical energy."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the role of the boiler in a thermal power plant?",
+      "answer": "The boiler is used for the conversion of water into steam using the thermal energy released from burning coal."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the function of the condenser in a thermal power plant?",
+      "answer": "The condenser converts steam back into water by removing heat from it using water from the cooling tower."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name two major thermal power plants in India.",
+      "answer": "Vindhyanagar (Madhya Pradesh) and Mundra (Gujarat) are major thermal power plants."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What air pollutants are released by burning coal?",
+      "answer": "Burning coal releases gases like carbon dioxide, sulphur oxide, and nitrogen oxide."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What health problem is caused by soot particles?",
+      "answer": "Soot particles can cause problems related to the respiratory system, such as asthma."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What fuels are used in nuclear power plants?",
+      "answer": "Atoms of Uranium or Plutonium are used as fuel in nuclear power plants."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Define Nuclear Fission.",
+      "answer": "Nuclear fission is a process where the nucleus of an atom splits into smaller nuclei, releasing energy and neutrons."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is a chain reaction in nuclear fission?",
+      "answer": "It is a self-sustaining process where neutrons released from the fission of one atom trigger the fission of other atoms, continuing the reaction."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "List the energy transformation sequence in a nuclear power plant.",
+      "answer": "Nuclear energy -> Thermal energy -> Kinetic energy in steam -> Kinetic energy in turbine -> Electrical energy."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is nuclear waste?",
+      "answer": "Nuclear waste consists of the radioactive products left over after the fission of nuclear fuel, which emit harmful radiation."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is accident prevention crucial in nuclear power plants?",
+      "answer": "Accidents can lead to the release of very harmful radioactive radiation, which can be fatal."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name three main sections of a natural gas power plant.",
+      "answer": "Compressor (for pressurized air), Combustion chamber, and Gas turbine."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why is natural gas considered more eco-friendly than coal?",
+      "answer": "Natural gas does not contain sulphur, so its burning results in less pollution compared to coal."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the efficiency benefit of natural gas plants?",
+      "answer": "The efficiency of natural gas power generation plants is higher than that of coal-based plants."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is 'Green Energy'?",
+      "answer": "Energy generated from sources that are eco-friendly, never-ending, and do not cause environmental problems is called green energy."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Give examples of green energy sources.",
+      "answer": "Hydroelectric energy, wind energy, solar energy, and biofuels are examples of green energy sources."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How is electricity generated in a hydroelectric power plant?",
+      "answer": "Potential energy of water stored in a dam is converted to kinetic energy, which rotates a turbine to drive a generator."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What are the advantages of hydroelectric power?",
+      "answer": "No fuel is burnt (no pollution), and electricity can be generated whenever necessary if water is available."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "State one environmental concern regarding hydroelectric dams.",
+      "answer": "Large dams can submerge forests and fertile land, and displace large populations."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Name a major hydroelectric plant in Maharashtra.",
+      "answer": "The Koyana hydroelectric plant is a major plant in Maharashtra."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is a wind turbine?",
+      "answer": "A machine that converts the kinetic energy of wind into electrical energy."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Where is wind velocity usually high?",
+      "answer": "Wind velocity is usually high on sea shores."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the limitation of wind energy?",
+      "answer": "The wind velocity necessary for energy generation is not available everywhere."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the solar photovoltaic effect?",
+      "answer": "The process of converting solar radiation energy directly into electrical energy is called the solar photovoltaic effect."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What kind of current is generated by solar photovoltaic cells?",
+      "answer": "Solar photovoltaic cells generate DC (Direct Current) electrical energy."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How are solar panels formed?",
+      "answer": "Many solar cells are connected in series and parallel to form a solar panel."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is a solar string?",
+      "answer": "Many solar panels connected in series form a solar string."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is a solar array?",
+      "answer": "Many solar strings connected in parallel form a solar array."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is an inverter used in solar power systems?",
+      "answer": "An inverter converts the DC power generated by solar panels into AC power for domestic and industrial use."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is a solar thermal power plant?",
+      "answer": "A plant that converts solar radiation into thermal energy to generate steam and drive a turbine for electricity."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the role of concentrators in solar thermal plants?",
+      "answer": "Concentrators collect and focus sunlight onto absorbers."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is the role of absorbers in solar thermal plants?",
+      "answer": "Absorbers absorb the concentrated sunlight to generate heat."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Compare the current in series vs parallel connection of solar cells.",
+      "answer": "In series, current remains the same; in parallel, the total current is the sum of individual currents."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Compare the potential difference in series vs parallel connection of solar cells.",
+      "answer": "In series, potential differences add up; in parallel, the potential difference remains the same."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the main advantage of solar energy generation?",
+      "answer": "Electricity is generated without fuel combustion, causing no air pollution."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the main limitation of solar energy?",
+      "answer": "Solar energy is available and can generate electricity during day-time only."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How much of India's energy comes from coal?",
+      "answer": "About 60% of India's electrical power generation comes from coal."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How much of India's energy comes from renewable sources?",
+      "answer": "About 15.7% of India's electrical power generation comes from renewable sources."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the estimated lifespan of natural gas reserves?",
+      "answer": "Natural gas reserves are estimated to last for about 200-300 years."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why is the construction of turbines different for different power plants?",
+      "answer": "Turbines are designed differently depending on the type of energy source (steam, gas, water, wind) used to rotate them."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is 'Lake Tapping'?",
+      "answer": "It is a process associated with hydroelectric dams (mentioned as a 'Find out' activity, implying significance)."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Can solar energy be used for high-power applications?",
+      "answer": "Yes, by connecting many solar panels, MW capacity power stations can be built."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the potential difference from a solar panel with 36 cells in series?",
+      "answer": "It will give a potential difference of 18 V (36 cells * 0.5 V/cell)."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the current from a solar panel with cells generating 3A connected in series?",
+      "answer": "The current remains 3 A."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Explain the working of a Thermal Power Plant with a flowchart.",
+      "answer": "In a thermal power plant, coal is burned in a boiler to release thermal energy. This energy heats water to produce high-temperature, high-pressure steam. The steam rotates a turbine, which drives a generator to produce electricity. The steam is then cooled in a condenser and converted back to water, which is recirculated to the boiler. The flowchart is: Fuel Coal -> Boiler -> Steam Turbine -> Generator -> Electrical Energy."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Discuss the environmental problems associated with thermal power plants.",
+      "answer": "Thermal power plants cause air pollution by emitting CO2 (global warming), Sulphur oxide, and Nitrogen oxide (acid rain). They release soot particles causing respiratory issues. Additionally, coal is a non-renewable fossil fuel with limited reserves expected to last only about 200 years."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Explain the energy transformation in a Nuclear Power Plant.",
+      "answer": "In a nuclear power plant, nuclear energy is released by the fission of Uranium or Plutonium nuclei. This nuclear energy is converted into thermal energy to heat water and create steam. The kinetic energy of the steam rotates a turbine. The kinetic energy of the turbine is then converted into electrical energy by the generator."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Describe the process of Nuclear Fission of Uranium-235.",
+      "answer": "When a neutron bombards a Uranium-235 atom, it absorbs the neutron and becomes unstable Uranium-236. It then splits into Barium and Krypton, releasing energy (200 MeV) and three neutrons. These neutrons trigger fission in other Uranium atoms, creating a chain reaction."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "What are the problems associated with Nuclear Power Plants?",
+      "answer": "The main problems are the disposal of nuclear waste, which is radioactive and harmful. Safe disposal is a major challenge. Secondly, there is a risk of accidents in the plant, which can lead to the release of fatal radioactive radiation."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Explain the working of a Natural Gas Power Plant.",
+      "answer": "Pressurized air is introduced into a combustion chamber using a compressor. Natural gas burns in the presence of this air. The resulting high-temperature and high-pressure gas runs a gas turbine. The turbine drives a generator to produce electricity. Energy transformation: Chemical -> Kinetic (gas) -> Kinetic (turbine) -> Electrical."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Why is natural gas power generation considered more eco-friendly than coal?",
+      "answer": "Natural gas combustion is more efficient and results in less pollution because it does not contain sulphur. Burning coal releases sulphur oxides and soot, whereas natural gas burns cleaner. However, it still releases CO2, unlike renewable sources."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Describe the structure and working of a Hydroelectric Power Plant.",
+      "answer": "A hydroelectric plant uses the potential energy of water stored in a dam. Fast-flowing water is directed to a turbine at the bottom of the dam. The kinetic energy of the water rotates the turbine, which drives a generator to produce electricity. It is a renewable source as the water reservoir is replenished by rain."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Discuss the advantages and disadvantages of Hydroelectric Power.",
+      "answer": "Advantages: No fuel combustion, no air pollution, renewable source, and capability to generate power on demand. Disadvantages: Displacement of people due to back-water submerging villages, submergence of forests and fertile land, and adverse effects on aquatic life due to river flow obstruction."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Explain how electricity is generated using Wind Energy.",
+      "answer": "Wind energy uses the kinetic energy of wind. Wind strikes the blades of a wind turbine, causing them to rotate. The axle is connected to a generator via a gearbox to increase rotation speed. The rotating blades drive the generator to produce electricity. It is a clean energy source but depends on wind velocity."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "Describe the construction and working of a Solar Photovoltaic Cell.",
+      "answer": "Solar photovoltaic cells are made of semiconductors like silicon. They convert solar radiation directly into DC electrical energy via the photovoltaic effect. A single cell generates about 0.5V. Cells are connected in series and parallel to form panels, strings, and arrays to generate required voltage and current."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Explain the difference between series and parallel connection of solar cells.",
+      "answer": "When connected in series, the potential difference (voltage) of individual cells adds up, but the current remains the same as one cell. When connected in parallel, the currents of individual cells add up, but the potential difference remains the same as one cell. Both connections are used to achieve desired power output."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Explain the concept of a Solar Thermal Power Plant.",
+      "answer": "Solar thermal plants generate electricity by converting solar energy into thermal energy. Reflectors (concentrators) focus sunlight onto absorbers. This heat converts water into steam. The steam drives a turbine, which runs a generator. It is similar to thermal plants but uses sunlight instead of fuel."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "What is the difference between Conventional and Non-conventional sources of energy?",
+      "answer": "Conventional sources (Coal, Natural Gas, Nuclear) are exhaustible, often polluting, and have been used for a long time. Non-conventional sources (Solar, Wind, Hydro) are renewable, eco-friendly (green energy), and are being increasingly adopted to reduce environmental impact."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Compare Thermal and Solar Thermal electricity generation.",
+      "answer": "Both use thermal energy to create steam and drive a turbine. Thermal plants burn coal to produce heat, causing pollution and using limited resources. Solar thermal plants use concentrated sunlight to produce heat, which is pollution-free and renewable, but limited to daytime operation."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Why is it said that 'Energy obtained from fossil fuels is not green energy'?",
+      "answer": "Fossil fuels like coal and natural gas release harmful gases (CO2, NOx, SOx) and particulates upon burning, causing air pollution, acid rain, and global warming. Their extraction degrades the environment, and they are non-renewable. Green energy must be eco-friendly and sustainable, which fossil fuels are not."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "Explain the need for saving energy.",
+      "answer": "Energy demand is increasing, but primary sources like fossil fuels are depleting and cause environmental damage. Saving energy reduces the strain on these resources, lowers pollution, and combats global warming. Since green energy transitions take time, conservation is the immediate 'need of the hour'."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "Describe the stages in an electric generator using wind energy.",
+      "answer": "1. Wind with required velocity strikes the turbine. 2. Wind turbine with large fins rotates. 3. The rotation is transferred to a shaft. 4. A gearbox increases the speed of rotation. 5. The generator converts this mechanical kinetic energy into electrical energy."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "Calculate the output of a solar array.",
+      "answer": "One solar panel gives 18V and 3A. To get 72V, connect 4 panels in series (18V * 4 = 72V). This string gives 72V and 3A. To get 9A, connect 3 such strings in parallel (3A * 3 = 9A). Thus, a solar array with 3 parallel strings of 4 series panels each (Total 12 panels) gives 72V and 9A."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Why are control pods used in nuclear reactors?",
+      "answer": "Control pods (rods) are used to control the rate of the chain reaction. They absorb excess neutrons released during fission. By adjusting their position, the number of neutrons available for further fission is regulated, preventing an uncontrolled explosion and managing energy output."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "Explain the role of the cooling tower in thermal power plants.",
+      "answer": "The cooling tower is essential for the condensation process. Hot water from the condenser enters the cooling tower and releases heat to the atmosphere via vapor and hot air. The cooled water is then recirculated back to the condenser to cool the steam exiting the turbine."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "Discuss the Schematic of a Solar Photovoltaic Station.",
+      "answer": "Solar arrays generate DC power from sunlight. This power flows to an inverter, which converts it to AC power. A transformer then steps up the voltage/current levels for transmission. The energy is finally fed into the power grid for distribution."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "What is the significance of the phrase 'Internet is my friend' in the textbook?",
+      "answer": "It encourages students to use the internet to gather current data, such as the capacity of power plants (Kudankulam, Tarapur) or locations of wind farms, promoting self-learning and research beyond static textbook content."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "Why is the turbine design different for different energy sources?",
+      "answer": "Turbine design depends on the fluid properties (steam, gas, water, wind) driving it. Steam turbines need to withstand high heat/pressure. Water turbines handle high density/thrust. Wind turbines need large blades for low-density air. The specific kinetic energy characteristics dictate the optimal blade shape and structure."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "Explain the energy conversion in a hydroelectric plant with a block diagram description.",
+      "answer": "Potential energy in water reservoir -> Kinetic energy in flowing water -> Kinetic energy in turbine -> Electrical energy. Water flows from the reservoir (PE) through a penstock (KE), hitting the turbine (KE), which spins the generator to produce electricity."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "Discuss the current status of energy sources in India vs the World.",
+      "answer": "India relies heavily on coal (60%) compared to the world average (41%). India uses less nuclear energy (2%) than the world (11%) but has a comparable/higher share of renewable sources (15.7% vs 6%). This highlights India's dependence on fossil fuels and the push for renewables."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "Why are solar cells made of semiconductors?",
+      "answer": "Semiconductors like Silicon have properties that allow them to generate an electric current when exposed to light (photovoltaic effect). They can be doped to create a p-n junction, which separates charge carriers generated by photons, creating a potential difference."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "What is the impact of burning coal on health?",
+      "answer": "Burning coal releases fine soot particles and harmful gases (SO2, NOx). Inhaling soot causes respiratory diseases like asthma. The gases contribute to poor air quality and acid rain, which can harm skin, eyes, and lungs, leading to long-term health issues."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "Explain the term 'Thermal Energy' in the context of power generation.",
+      "answer": "Thermal energy refers to heat energy used to produce steam. In coal plants, it comes from chemical combustion. In nuclear plants, from fission. In solar thermal, from sunlight. This heat is the intermediate form of energy crucial for driving steam turbines."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "Why is it important to control the fission reaction?",
+      "answer": "An uncontrolled fission reaction releases energy exponentially (chain reaction), leading to a massive explosion (like an atomic bomb). In a power plant, the energy release must be steady and manageable to safely generate electricity without destroying the reactor."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "Describe the environmental benefits of Wind Energy.",
+      "answer": "Wind energy is clean and renewable. It produces no greenhouse gases (CO2) or air pollutants (SOx, NOx) during operation. It does not consume water for cooling like thermal plants. It helps mitigate climate change and reduces dependence on fossil fuels."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "Explain the setup of a wind farm.",
+      "answer": "A wind farm consists of many wind turbines installed in a specific location with high wind velocity. The electricity generated by each turbine is combined. Turbines of various capacities (kW to MW) are used depending on the scale. They can be onshore or offshore."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "How does a solar cell work?",
+      "answer": "A solar cell works on the photovoltaic effect. When photons from sunlight hit the silicon semiconductor, they knock electrons loose. If an external circuit is connected, these electrons flow as a current. This direct conversion requires no moving parts."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "What determines the output power of a solar panel?",
+      "answer": "The output depends on the number of solar cells, their connection (series/parallel), the efficiency of the cells (typically 15%), and the intensity of solar radiation received. The area of the panel also directly correlates to the current generated."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Why do we need to store energy from solar cells?",
+      "answer": "Solar energy is intermittent; it is only available during the day and varies with weather. Electricity demand exists at night too. Therefore, energy must be stored in batteries (for small systems) or fed into the grid (for large plants) to ensure continuous supply."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "Compare the schematic of a Thermal Power Plant and a Nuclear Power Plant.",
+      "answer": "Similarities: Both use steam to drive a turbine and generator, and both have condensers and cooling towers. Difference: Thermal plants use a boiler and coal combustion to heat water. Nuclear plants use a nuclear reactor and fission of uranium to generate heat for steam."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'step-by-step energy transformation'.",
+      "answer": "Power generation involves converting energy from one form to another in stages. For example, in thermal plants: Chemical -> Thermal -> Kinetic (steam) -> Kinetic (turbine) -> Electrical. Understanding these steps helps in optimizing efficiency and identifying energy losses."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "What is the function of the combustion chamber in a Gas Power Plant?",
+      "answer": "In the combustion chamber, pressurized air from the compressor mixes with natural gas. The mixture is ignited/burned to produce high-temperature, high-pressure gas. This energetic gas is what drives the gas turbine."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "Discuss the future of energy generation.",
+      "answer": "The future is heading towards green energy. Due to pollution and depletion of fossil fuels, the world is shifting to renewables like solar, wind, and hydro. Technology is improving to make these sources more efficient and reliable, reducing the carbon footprint of civilization."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "Why are hydroelectric plants considered renewable?",
+      "answer": "They rely on the water cycle. Water from the reservoir runs the turbine and flows downstream, but the reservoir is refilled by rain. Since the water is not 'consumed' or destroyed but cycled, the source is replenished naturally, making it renewable."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "What are the limitations of solar thermal power plants?",
+      "answer": "They require large land areas for reflectors. They depend on direct sunlight, so efficiency drops on cloudy days and is zero at night. They are often more expensive to build than conventional plants and require maintenance of the reflective surfaces."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "Explain the operation of a solar array for domestic use.",
+      "answer": "For a home, solar panels (array) on the roof generate DC electricity. An inverter converts this to AC, which powers appliances. Any excess power can be stored in batteries or exported to the grid. This reduces electricity bills and carbon footprint."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "How does the height of a dam affect power generation?",
+      "answer": "The height determines the potential energy of the stored water. Higher dams create higher water pressure (head). When this water falls, it converts to greater kinetic energy, spinning the turbine faster and generating more electricity."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "What is the difference between an electric motor and an electric generator?",
+      "answer": "An electric generator converts mechanical energy into electrical energy using electromagnetic induction. An electric motor does the reverse: it converts electrical energy into mechanical energy to produce motion."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "Why is Silicon used in solar cells?",
+      "answer": "Silicon is a semiconductor with suitable electronic properties for the photovoltaic effect. It is abundant (found in sand) and its technology is well-developed. While not the most efficient, it offers a good balance of cost, performance, and durability."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "Discuss the 'Find Out' activity regarding major solar plants in India.",
+      "answer": "India has massive solar parks like Bhadla (Rajasthan) and Pavagada (Karnataka). These plants have capacities in thousands of MWs. Gathering this info helps students understand the scale of India's commitment to renewable energy."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "Explain the role of the Generator in all power plants.",
+      "answer": "The generator is the final component in the conversion chain. Regardless of the source (steam, wind, water), a rotating shaft turns the generator's magnet inside a coil (or vice versa). This changing magnetic field induces a potential difference, creating electricity."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "What are the social issues related to building large dams?",
+      "answer": "Building dams often requires flooding large areas. This forces the migration of local communities (villages/towns), leading to loss of homes and livelihoods. Rehabilitation of these displaced people is a complex social and economic challenge."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "Why is wind energy availability limited?",
+      "answer": "Wind energy requires specific wind speeds to be viable. These conditions are found only in certain geographic locations (like coasts or hills). Wind is also inconsistent. This geographical and intermittent nature limits where wind farms can be effectively placed."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "Summarize the chapter 'Towards Green Energy'.",
+      "answer": "The chapter explores how electricity is generated. It covers traditional polluting methods (Thermal, Nuclear) and their drawbacks. It then emphasizes 'Green Energy' sources (Hydro, Wind, Solar) which are renewable and eco-friendly. It details the working principles, energy transformations, and environmental impacts of each method."
+    }
+  ]
+}

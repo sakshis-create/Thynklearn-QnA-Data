@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.05",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Nu-jo's Project"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where is Nu-jo from?",
+      "options": [
+        { "option_id": 1, "text": "Planet Earth", "is_correct": false },
+        { "option_id": 2, "text": "Planet Mars", "is_correct": true },
+        { "option_id": 3, "text": "Planet Jupiter", "is_correct": false },
+        { "option_id": 4, "text": "The Moon", "is_correct": false }
+      ],
+      "answer": "Planet Mars"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the purpose of Nu-jo's school project?",
+      "options": [
+        { "option_id": 1, "text": "To study Earth's weather", "is_correct": false },
+        { "option_id": 2, "text": "To study human body parts", "is_correct": true },
+        { "option_id": 3, "text": "To collect Earth rocks", "is_correct": false },
+        { "option_id": 4, "text": "To learn English", "is_correct": false }
+      ],
+      "answer": "To study human body parts"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where does Nu-jo's spaceship settle?",
+      "options": [
+        { "option_id": 1, "text": "In a forest", "is_correct": false },
+        { "option_id": 2, "text": "On a mountain", "is_correct": false },
+        { "option_id": 3, "text": "In front of Akshay's house", "is_correct": true },
+        { "option_id": 4, "text": "At a school", "is_correct": false }
+      ],
+      "answer": "In front of Akshay's house"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which joint can Akshay turn 360 degrees?",
+      "options": [
+        { "option_id": 1, "text": "Elbow joint", "is_correct": false },
+        { "option_id": 2, "text": "Knee joint", "is_correct": false },
+        { "option_id": 3, "text": "Shoulder joint", "is_correct": true },
+        { "option_id": 4, "text": "Wrist joint", "is_correct": false }
+      ],
+      "answer": "Shoulder joint"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which part is found on an elephant but not a human?",
+      "options": [
+        { "option_id": 1, "text": "Shoulder", "is_correct": false },
+        { "option_id": 2, "text": "Trunk", "is_correct": true },
+        { "option_id": 3, "text": "Wrist", "is_correct": false },
+        { "option_id": 4, "text": "Forehead", "is_correct": false }
+      ],
+      "answer": "Trunk"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does a lion have on its neck?",
+      "options": [
+        { "option_id": 1, "text": "Whiskers", "is_correct": false },
+        { "option_id": 2, "text": "Mane", "is_correct": true },
+        { "option_id": 3, "text": "Beak", "is_correct": false },
+        { "option_id": 4, "text": "Tusk", "is_correct": false }
+      ],
+      "answer": "Mane"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these is part of the human eye area?",
+      "options": [
+        { "option_id": 1, "text": "Nostril", "is_correct": false },
+        { "option_id": 2, "text": "Eyelashes", "is_correct": true },
+        { "option_id": 3, "text": "Palm", "is_correct": false },
+        { "option_id": 4, "text": "Chin", "is_correct": false }
+      ],
+      "answer": "Eyelashes"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What part do birds use to fly?",
+      "options": [
+        { "option_id": 1, "text": "Claws", "is_correct": false },
+        { "option_id": 2, "text": "Beak", "is_correct": false },
+        { "option_id": 3, "text": "Wings", "is_correct": true },
+        { "option_id": 4, "text": "Tail", "is_correct": false }
+      ],
+      "answer": "Wings"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which animal has hooves?",
+      "options": [
+        { "option_id": 1, "text": "Lion", "is_correct": false },
+        { "option_id": 2, "text": "Cow/Buffalo", "is_correct": true },
+        { "option_id": 3, "text": "Bird", "is_correct": false },
+        { "option_id": 4, "text": "Fish", "is_correct": false }
+      ],
+      "answer": "Cow/Buffalo"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does Nu-jo find on a snail?",
+      "options": [
+        { "option_id": 1, "text": "Wings", "is_correct": false },
+        { "option_id": 2, "text": "Antennae", "is_correct": true },
+        { "option_id": 3, "text": "Paws", "is_correct": false },
+        { "option_id": 4, "text": "Mane", "is_correct": false }
+      ],
+      "answer": "Antennae"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which part of a plant is usually underground?",
+      "options": [
+        { "option_id": 1, "text": "Flower", "is_correct": false },
+        { "option_id": 2, "text": "Fruit", "is_correct": false },
+        { "option_id": 3, "text": "Roots", "is_correct": true },
+        { "option_id": 4, "text": "Bud", "is_correct": false }
+      ],
+      "answer": "Roots"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What are inside the fruit (tomato)?",
+      "options": [
+        { "option_id": 1, "text": "Roots", "is_correct": false },
+        { "option_id": 2, "text": "Seeds", "is_correct": true },
+        { "option_id": 3, "text": "Leaves", "is_correct": false },
+        { "option_id": 4, "text": "Buds", "is_correct": false }
+      ],
+      "answer": "Seeds"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What type of sentence is 'Come here'?",
+      "options": [
+        { "option_id": 1, "text": "Statement", "is_correct": false },
+        { "option_id": 2, "text": "Question", "is_correct": false },
+        { "option_id": 3, "text": "Command/Order", "is_correct": true },
+        { "option_id": 4, "text": "Exclamation", "is_correct": false }
+      ],
+      "answer": "Command or order"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Why does Nu-jo have to leave suddenly?",
+      "options": [
+        { "option_id": 1, "text": "He is scared", "is_correct": false },
+        { "option_id": 2, "text": "His buzzer is ringing", "is_correct": true },
+        { "option_id": 3, "text": "He finished his project", "is_correct": false },
+        { "option_id": 4, "text": "Akshay is mean", "is_correct": false }
+      ],
+      "answer": "His buzzer is ringing; his time on Earth is up."
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these is a facial part?",
+      "options": [
+        { "option_id": 1, "text": "Waist", "is_correct": false },
+        { "option_id": 2, "text": "Thigh", "is_correct": false },
+        { "option_id": 3, "text": "Cheek", "is_correct": true },
+        { "option_id": 4, "text": "Ankle", "is_correct": false }
+      ],
+      "answer": "Cheek"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the part between the hand and the arm?",
+      "options": [
+        { "option_id": 1, "text": "Elbow", "is_correct": false },
+        { "option_id": 2, "text": "Wrist", "is_correct": true },
+        { "option_id": 3, "text": "Shoulder", "is_correct": false },
+        { "option_id": 4, "text": "Palm", "is_correct": false }
+      ],
+      "answer": "Wrist"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the name of the 'feet' of a lion?",
+      "options": [
+        { "option_id": 1, "text": "Hooves", "is_correct": false },
+        { "option_id": 2, "text": "Paws", "is_correct": true },
+        { "option_id": 3, "text": "Hands", "is_correct": false },
+        { "option_id": 4, "text": "Claws", "is_correct": false }
+      ],
+      "answer": "Paws"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which part does a bird have instead of a mouth?",
+      "options": [
+        { "option_id": 1, "text": "Trunk", "is_correct": false },
+        { "option_id": 2, "text": "Beak/Bill", "is_correct": true },
+        { "option_id": 3, "text": "Tusk", "is_correct": false },
+        { "option_id": 4, "text": "Mane", "is_correct": false }
+      ],
+      "answer": "Beak/Bill"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the fleshy part of the hand?",
+      "options": [
+        { "option_id": 1, "text": "Palm", "is_correct": true },
+        { "option_id": 2, "text": "Wrist", "is_correct": false },
+        { "option_id": 3, "text": "Nail", "is_correct": false },
+        { "option_id": 4, "text": "Elbow", "is_correct": false }
+      ],
+      "answer": "Palm"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of these is used for smelling?",
+      "options": [
+        { "option_id": 1, "text": "Chin", "is_correct": false },
+        { "option_id": 2, "text": "Nostril", "is_correct": true },
+        { "option_id": 3, "text": "Eyelid", "is_correct": false },
+        { "option_id": 4, "text": "Throat", "is_correct": false }
+      ],
+      "answer": "Nostril"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Do birds have feathers?",
+      "options": [
+        { "option_id": 1, "text": "No, they have fur", "is_correct": false },
+        { "option_id": 2, "text": "Yes, they do", "is_correct": true },
+        { "option_id": 3, "text": "Only some do", "is_correct": false },
+        { "option_id": 4, "text": "They have scales", "is_correct": false }
+      ],
+      "answer": "Yes, they do"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which animal has a tusk?",
+      "options": [
+        { "option_id": 1, "text": "Bird", "is_correct": false },
+        { "option_id": 2, "text": "Lion", "is_correct": false },
+        { "option_id": 3, "text": "Elephant", "is_correct": true },
+        { "option_id": 4, "text": "Snail", "is_correct": false }
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Alphabetical order: Which comes first?",
+      "options": [
+        { "option_id": 1, "text": "Eyelid", "is_correct": false },
+        { "option_id": 2, "text": "Eyebrow", "is_correct": true },
+        { "option_id": 3, "text": "Eyelash", "is_correct": false },
+        { "option_id": 4, "text": "Elbow", "is_correct": false }
+      ],
+      "answer": "Elbow (Note: In alphabetical order, Elbow comes before Eyebrow/Eyelash/Eyelid)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the part above the eyes?",
+      "options": [
+        { "option_id": 1, "text": "Chin", "is_correct": false },
+        { "option_id": 2, "text": "Forehead", "is_correct": true },
+        { "option_id": 3, "text": "Throat", "is_correct": false },
+        { "option_id": 4, "text": "Cheek", "is_correct": false }
+      ],
+      "answer": "Forehead"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Can a bull move its horn?",
+      "options": [
+        { "option_id": 1, "text": "Yes, it can", "is_correct": false },
+        { "option_id": 2, "text": "No, it can't", "is_correct": true },
+        { "option_id": 3, "text": "Only when it's angry", "is_correct": false },
+        { "option_id": 4, "text": "I don't know", "is_correct": false }
+      ],
+      "answer": "No, it can't"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who is the main character from another planet?",
+      "answer": "Nu-jo is the main character from Mars."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What did Akshay see in front of his house?",
+      "answer": "Akshay saw a spaceship and a strange light."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What items did Akshay offer to help Nu-jo with his project?",
+      "answer": "Akshay offered charts, models, books, and a tablet."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Name three parts of the human face mentioned in the chapter.",
+      "answer": "Forehead, cheek, and chin."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What are the hair-like parts on the edge of the eyelid called?",
+      "answer": "They are called eyelashes."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is the difference between an eyebrow and an eyelash?",
+      "answer": "An eyebrow is the line of hair above the eye, while eyelashes are hairs on the edge of the eyelid."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Which part of the body connects the head to the chest?",
+      "answer": "The neck (and throat)."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is the joint in the middle of the leg called?",
+      "answer": "It is called the knee."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is the part below the waist but above the knee?",
+      "answer": "The thigh."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Name the parts of the human foot mentioned.",
+      "answer": "Ankle, heel, and toes (including the big toe)."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What did Akshay say about his elbow joint?",
+      "answer": "He said he can move it one way but not the other way."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What is special about the human shoulder joint according to Akshay?",
+      "answer": "He can turn it in 360 degrees."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What are the long hairs on a lion's face called?",
+      "answer": "They are called whiskers."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is the long nose of an elephant called?",
+      "answer": "It is called a trunk."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What do we call the sharp 'teeth' of an elephant?",
+      "answer": "They are called tusks."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What are the sharp 'nails' of a bird called?",
+      "answer": "They are called claws."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Which animal has a tail?",
+      "answer": "Animals like elephants, lions, and birds have tails."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the difference between front legs and hind legs?",
+      "answer": "Front legs are at the front of the animal, and hind legs are at the back."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What does a snail have on its head?",
+      "answer": "It has antennae."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Why did Nu-jo leave Earth?",
+      "answer": "His buzzer was ringing because his time on Earth was up."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "How did Nu-jo and Akshay say goodbye?",
+      "answer": "Nu-jo said 'Thanks, friend. Bye' and Akshay said 'Let's meet again'."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What are the four types of sentences mentioned?",
+      "answer": "Statements, Questions, Commands/Orders, and Exclamations."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Give an example of an exclamation from the story.",
+      "answer": "'Oh! You too have projects!' or 'How nice!'"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Name the visible parts of a plant.",
+      "answer": "Flower, bud, fruit, leaves, and stem."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What are the two parts shown inside the tomato?",
+      "answer": "Flesh and seeds."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Do lions have trunks?",
+      "answer": "No, lions do not have trunks; elephants have trunks."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Can a bull move its head?",
+      "answer": "Yes, a bull can move its head."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Can lions fly?",
+      "answer": "No, lions cannot fly."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which hand does Akshay use to write?",
+      "answer": "Akshay can write with his right hand, but not his left."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Alphabetize: cheek, chin, chest.",
+      "answer": "Cheek, chest, chin."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Alphabetize: tusk, tail, trunk.",
+      "answer": "Tail, trunk, tusk."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is a 'bud' on a plant?",
+      "answer": "A bud is a small part of a plant that grows into a flower or leaf."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What do trees give us according to Tara's friends?",
+      "answer": "Trees give us shade."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What did the cat find near the tree?",
+      "answer": "The cat (Bittu) found an earthworm and a caterpillar."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the 'bark' of a tree?",
+      "answer": "The bark is the rough outer covering of the tree trunk."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is a 'mane'?",
+      "answer": "A mane is the long hair on the neck of a lion or horse."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What part of the plant holds it in the soil?",
+      "answer": "The roots."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which body part do humans use for walking?",
+      "answer": "Humans use their legs and feet for walking."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Does a buffalo have tusks?",
+      "answer": "No, a buffalo has horns, not tusks."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Does a fish have ears?",
+      "answer": "No, it doesn't."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What part do humans have that is called a 'palm'?",
+      "answer": "The flat, inner surface of the hand."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the part above the foot and below the leg?",
+      "answer": "The ankle."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Where are 'whiskers' located?",
+      "answer": "They are located on the face of animals like lions and cats."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Identify the type of sentence: 'I'm Nu-jo from the planet Mars.'",
+      "answer": "It is a statement."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Identify the type of sentence: 'Are you real?'",
+      "answer": "It is a question."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What does a bird use to eat?",
+      "answer": "A bird uses its beak (or bill)."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which animal part is a 'hoof'?",
+      "answer": "A hoof is the hard part of the foot of animals like cows or horses."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is 'flesh' in the context of a tomato?",
+      "answer": "The soft part of the fruit under the skin."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is a 'trunk' of a tree?",
+      "answer": "The main woody stem of a tree."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is Nu-jo's buzzer for?",
+      "answer": "It signals that his time on Earth is up and he must return to Mars."
+    }
+  ]
+}

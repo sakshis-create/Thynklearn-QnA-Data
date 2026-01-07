@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.02",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "देवा तुझे किती"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कवितेत देवा तुझे किती सुंदर कोणते आकाश म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "निळे आकाश", "is_correct": true },
+        { "option_id": 2, "text": "काळे आकाश", "is_correct": false },
+        { "option_id": 3, "text": "ढगाळ आकाश", "is_correct": false },
+        { "option_id": 4, "text": "पांढरे आकाश", "is_correct": false }
+      ],
+      "answer": "निळे आकाश"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सुंदर प्रकाश कोण देतो असे कवितेत म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "चंद्र", "is_correct": false },
+        { "option_id": 2, "text": "तारे", "is_correct": false },
+        { "option_id": 3, "text": "सूर्य", "is_correct": true },
+        { "option_id": 4, "text": "ढग", "is_correct": false }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सुंदर चांदणे कोण पाडतो असे कवितेत आहे?",
+      "options": [
+        { "option_id": 1, "text": "सूर्य", "is_correct": false },
+        { "option_id": 2, "text": "चंद्र", "is_correct": true },
+        { "option_id": 3, "text": "तारे", "is_correct": false },
+        { "option_id": 4, "text": "पाऊस", "is_correct": false }
+      ],
+      "answer": "चंद्र"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सुंदर ही झाडे आणि सुंदर पाखरे काय गातात?",
+      "options": [
+        { "option_id": 1, "text": "कथा", "is_correct": false },
+        { "option_id": 2, "text": "कविता", "is_correct": false },
+        { "option_id": 3, "text": "गाणे", "is_correct": true },
+        { "option_id": 4, "text": "शब्द", "is_correct": false }
+      ],
+      "answer": "गाणे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणती फुले सुंदर म्हटली आहेत?",
+      "options": [
+        { "option_id": 1, "text": "सुंदर वेलींची फुले", "is_correct": true },
+        { "option_id": 2, "text": "कृत्रिम फुले", "is_correct": false },
+        { "option_id": 3, "text": "कोरडी फुले", "is_correct": false },
+        { "option_id": 4, "text": "कागदी फुले", "is_correct": false }
+      ],
+      "answer": "सुंदर वेलींची फुले"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवितेतील ‘तशी आम्ही मुले’ या ओळीत मुलांची तुलना कोणाशी केली आहे?",
+      "options": [
+        { "option_id": 1, "text": "फुलांशी", "is_correct": true },
+        { "option_id": 2, "text": "झाडांशी", "is_correct": false },
+        { "option_id": 3, "text": "चंद्राशी", "is_correct": false },
+        { "option_id": 4, "text": "सूर्याशी", "is_correct": false }
+      ],
+      "answer": "फुलांशी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवितेतील कवी कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "ग. ह. पाटील", "is_correct": true },
+        { "option_id": 2, "text": "वि. स. खांडेकर", "is_correct": false },
+        { "option_id": 3, "text": "पु. ल. देशपांडे", "is_correct": false },
+        { "option_id": 4, "text": "ना. धो. महानोर", "is_correct": false }
+      ],
+      "answer": "ग. ह. पाटील"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवितेत देवाला कोणाबद्दल कृतज्ञता व्यक्त केली आहे?",
+      "options": [
+        { "option_id": 1, "text": "सुंदर निसर्गाबद्दल", "is_correct": true },
+        { "option_id": 2, "text": "खेळण्यांबद्दल", "is_correct": false },
+        { "option_id": 3, "text": "पुस्तकांबद्दल", "is_correct": false },
+        { "option_id": 4, "text": "शाळेबद्दल", "is_correct": false }
+      ],
+      "answer": "सुंदर निसर्गाबद्दल"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवितेत पाखरे कशी असल्याचे सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "रागीट", "is_correct": false },
+        { "option_id": 2, "text": "गोड", "is_correct": true },
+        { "option_id": 3, "text": "मूक", "is_correct": false },
+        { "option_id": 4, "text": "मोठी", "is_correct": false }
+      ],
+      "answer": "गोड"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "‘सुंदर प्रकाश’ या शब्दसमूहात ‘प्रकाश’ हा कोणता शब्दप्रकार आहे?",
+      "options": [
+        { "option_id": 1, "text": "क्रियापद", "is_correct": false },
+        { "option_id": 2, "text": "नाम", "is_correct": true },
+        { "option_id": 3, "text": "सर्वनाम", "is_correct": false },
+        { "option_id": 4, "text": "अव्यय", "is_correct": false }
+      ],
+      "answer": "नाम"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘सुंदर’ हा शब्द कवितेत कोणत्या गोष्टींसाठी वापरला आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त आकाशासाठी", "is_correct": false },
+        { "option_id": 2, "text": "फक्त मुलांसाठी", "is_correct": false },
+        { "option_id": 3, "text": "निसर्गातील अनेक गोष्टींसाठी", "is_correct": true },
+        { "option_id": 4, "text": "फक्त पाखरांसाठी", "is_correct": false }
+      ],
+      "answer": "निसर्गातील अनेक गोष्टींसाठी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणता ग्रह रात्री दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "सूर्य", "is_correct": false },
+        { "option_id": 2, "text": "चंद्र", "is_correct": true },
+        { "option_id": 3, "text": "पृथ्वी", "is_correct": false },
+        { "option_id": 4, "text": "मंगळ", "is_correct": false }
+      ],
+      "answer": "चंद्र"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "‘तशी आम्ही मुले’ या ओळीत काय अभिव्यक्त होते?",
+      "options": [
+        { "option_id": 1, "text": "दुःख", "is_correct": false },
+        { "option_id": 2, "text": "राग", "is_correct": false },
+        { "option_id": 3, "text": "आनंद आणि निरागसता", "is_correct": true },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "आनंद आणि निरागसता"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "सुंदर वेलींची आणि फुलांची तुलना कोणाशी केली आहे?",
+      "options": [
+        { "option_id": 1, "text": "झाडांशी", "is_correct": false },
+        { "option_id": 2, "text": "मुलांशी", "is_correct": true },
+        { "option_id": 3, "text": "ताऱ्यांशी", "is_correct": false },
+        { "option_id": 4, "text": "नदीशी", "is_correct": false }
+      ],
+      "answer": "मुलांशी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या विषयाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "शाळा", "is_correct": false },
+        { "option_id": 2, "text": "निसर्ग आणि देवाबद्दल कृतज्ञता", "is_correct": true },
+        { "option_id": 3, "text": "खेळ", "is_correct": false },
+        { "option_id": 4, "text": "घरातील कामे", "is_correct": false }
+      ],
+      "answer": "निसर्ग आणि देवाबद्दल कृतज्ञता"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवितेत ‘सुंदर आकाश’ का म्हटले असेल?",
+      "answer": "आकाश निळे, स्वच्छ आणि निसर्गरम्य असल्यामुळे त्याला सुंदर म्हटले आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कवितेत सूर्याचे वर्णन कसे केले आहे?",
+      "answer": "सूर्य सुंदर प्रकाश देतो असे वर्णन केले आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "चंद्राबद्दल कवितेत काय सांगितले आहे?",
+      "answer": "चंद्र सुंदर चांदणे पाडतो असे सांगितले आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "सुंदर झाडे आणि पाखरांचा उल्लेख का केला आहे?",
+      "answer": "निसर्गातील सौंदर्य आणि आनंद दाखवण्यासाठी झाडे व पाखरे यांचा उल्लेख केला आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पाखरे काय करतात असे कवितेत म्हटले आहे?",
+      "answer": "पाखरे गोड गाणे गातात असे म्हटले आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "वेली आणि फुलांबद्दल दोन वाक्ये लिहा.",
+      "answer": "सुंदर वेलींची सुंदर फुले आहेत. ती निसर्गाला शोभा आणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कवितेत मुलांची तुलना फुलांशी का केली आहे?",
+      "answer": "मुलं निरागस, कोमल आणि सुंदर असल्यामुळे त्यांची तुलना फुलांशी केली आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "देवाबद्दल कृतज्ञता का व्यक्त केली आहे?",
+      "answer": "देवाने सुंदर निसर्ग, प्रकाश, चांदणे आणि आनंद दिला म्हणून कृतज्ञता व्यक्त केली आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कवितेतील दोन सुंदर गोष्टी लिहा.",
+      "answer": "सुंदर आकाश आणि सुंदर चांदणे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "‘सुंदर’ या शब्दाचा एक समानार्थी शब्द लिहा.",
+      "answer": "मनोरम / मोहक"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "ही कविता वाचून तुला कसा अनुभव आला?",
+      "answer": "ही कविता वाचून आनंद आणि निसर्गाबद्दल प्रेम वाटते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "तुला निसर्गातील कोणती गोष्ट आवडते? कारण लिहा.",
+      "answer": "मला चांदणे आवडते कारण ते शांत आणि सुंदर वाटते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कवितेतून निसर्गाबद्दल कोणता बोध मिळतो?",
+      "answer": "निसर्गाची कदर करावी आणि त्याबद्दल कृतज्ञ असावे हा बोध मिळतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "‘देवा तुझे किती’ या शीर्षकाचा अर्थ लिहा.",
+      "answer": "देवा, तू दिलेल्या सुंदर निसर्गाबद्दल आम्ही आभारी आहोत असा अर्थ आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कवितेतील तुला सर्वात आवडलेली ओळ लिहा.",
+      "answer": "सुंदर चांदण्या । चंद्र हा सुंदर"
+    }
+  ]
+}

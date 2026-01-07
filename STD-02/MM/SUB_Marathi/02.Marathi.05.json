@@ -1,0 +1,284 @@
+
+  {
+    "chapter_metadata": {
+      "chapter_id": "2.MAR.05",
+      "standard": "2",
+      "subject": "Marathi",
+      "medium": "Marathi",
+      "chapter_name": "फुलपाखरू"
+    },
+    "questions": [
+      {
+        "question_id": 1,
+        "question_type": "MCQ",
+        "question": "फुलपाखरू कुठे दंग आहे असे कवितेत म्हटले आहे?",
+        "options": [
+          { "option_id": 1, "text": "डोंगरावर", "is_correct": false },
+          { "option_id": 2, "text": "फुलांच्या दुनियेत", "is_correct": true },
+          { "option_id": 3, "text": "नदीकाठी", "is_correct": false },
+          { "option_id": 4, "text": "शेतात", "is_correct": false }
+        ],
+        "answer": "फुलांच्या दुनियेत"
+      },
+      {
+        "question_id": 2,
+        "question_type": "MCQ",
+        "question": "फुलपाखरू काय टिपते?",
+        "options": [
+          { "option_id": 1, "text": "फुले", "is_correct": false },
+          { "option_id": 2, "text": "पाने", "is_correct": false },
+          { "option_id": 3, "text": "फुलांचे रंग", "is_correct": true },
+          { "option_id": 4, "text": "फांद्या", "is_correct": false }
+        ],
+        "answer": "फुलांचे रंग"
+      },
+      {
+        "question_id": 3,
+        "question_type": "MCQ",
+        "question": "फुलपाखरू कुठे बसते?",
+        "options": [
+          { "option_id": 1, "text": "पानावर", "is_correct": false },
+          { "option_id": 2, "text": "फुलावर", "is_correct": true },
+          { "option_id": 3, "text": "जमिनीवर", "is_correct": false },
+          { "option_id": 4, "text": "दगडावर", "is_correct": false }
+        ],
+        "answer": "फुलावर"
+      },
+      {
+        "question_id": 4,
+        "question_type": "MCQ",
+        "question": "फुलपाखरू कसे हसते असे म्हटले आहे?",
+        "options": [
+          { "option_id": 1, "text": "मोठ्याने", "is_correct": false },
+          { "option_id": 2, "text": "रडत", "is_correct": false },
+          { "option_id": 3, "text": "खुदकन", "is_correct": true },
+          { "option_id": 4, "text": "शांत", "is_correct": false }
+        ],
+        "answer": "खुदकन"
+      },
+      {
+        "question_id": 5,
+        "question_type": "MCQ",
+        "question": "फुलांचे रंग फुलपाखरू कुठे फासते?",
+        "options": [
+          { "option_id": 1, "text": "फुलांवर", "is_correct": false },
+          { "option_id": 2, "text": "पानांवर", "is_correct": false },
+          { "option_id": 3, "text": "पंखांना", "is_correct": true },
+          { "option_id": 4, "text": "झाडावर", "is_correct": false }
+        ],
+        "answer": "पंखांना"
+      },
+      {
+        "question_id": 6,
+        "question_type": "MCQ",
+        "question": "कवितेत कोणते रंग उल्लेखिले आहेत?",
+        "options": [
+          { "option_id": 1, "text": "निळसर-जांभळे", "is_correct": true },
+          { "option_id": 2, "text": "काळे-पांढरे", "is_correct": false },
+          { "option_id": 3, "text": "तपकिरी-करडे", "is_correct": false },
+          { "option_id": 4, "text": "पिवळे-हिरवे", "is_correct": false }
+        ],
+        "answer": "निळसर-जांभळे"
+      },
+      {
+        "question_id": 7,
+        "question_type": "MCQ",
+        "question": "कवितेत पंखांवर कसे ठिपके आहेत?",
+        "options": [
+          { "option_id": 1, "text": "मोठे", "is_correct": false },
+          { "option_id": 2, "text": "जाड", "is_correct": false },
+          { "option_id": 3, "text": "छान", "is_correct": true },
+          { "option_id": 4, "text": "कुरूप", "is_correct": false }
+        ],
+        "answer": "छान"
+      },
+      {
+        "question_id": 8,
+        "question_type": "MCQ",
+        "question": "सोनेरी रंगाची कोणती कमान असल्याचे सांगितले आहे?",
+        "options": [
+          { "option_id": 1, "text": "डोंगरावरची", "is_correct": false },
+          { "option_id": 2, "text": "इंद्रधनुष्याची", "is_correct": false },
+          { "option_id": 3, "text": "सुंदर कमान", "is_correct": true },
+          { "option_id": 4, "text": "घराची", "is_correct": false }
+        ],
+        "answer": "सुंदर कमान"
+      },
+      {
+        "question_id": 9,
+        "question_type": "MCQ",
+        "question": "ही कविता कोणत्या विषयाशी संबंधित आहे?",
+        "options": [
+          { "option_id": 1, "text": "शाळा", "is_correct": false },
+          { "option_id": 2, "text": "निसर्ग आणि फुलपाखरू", "is_correct": true },
+          { "option_id": 3, "text": "खेळ", "is_correct": false },
+          { "option_id": 4, "text": "प्रवास", "is_correct": false }
+        ],
+        "answer": "निसर्ग आणि फुलपाखरू"
+      },
+      {
+        "question_id": 10,
+        "question_type": "MCQ",
+        "question": "‘फुलांच्या दुनियेत’ या ओळीतला ‘दुनिया’ शब्द कोणता?",
+        "options": [
+          { "option_id": 1, "text": "नाम", "is_correct": true },
+          { "option_id": 2, "text": "क्रियापद", "is_correct": false },
+          { "option_id": 3, "text": "सर्वनाम", "is_correct": false },
+          { "option_id": 4, "text": "अव्यय", "is_correct": false }
+        ],
+        "answer": "नाम"
+      },
+      {
+        "question_id": 11,
+        "question_type": "MCQ",
+        "question": "फुलपाखरू कसे हळूच रंग टिपते?",
+        "options": [
+          { "option_id": 1, "text": "जलद", "is_correct": false },
+          { "option_id": 2, "text": "हळूच", "is_correct": true },
+          { "option_id": 3, "text": "रागाने", "is_correct": false },
+          { "option_id": 4, "text": "जोमाने", "is_correct": false }
+        ],
+        "answer": "हळूच"
+      },
+      {
+        "question_id": 12,
+        "question_type": "MCQ",
+        "question": "कवितेतील कवी कोण आहेत?",
+        "options": [
+          { "option_id": 1, "text": "ग. ह. पाटील", "is_correct": false },
+          { "option_id": 2, "text": "दादासाहेब कोते", "is_correct": true },
+          { "option_id": 3, "text": "वि. स. खांडेकर", "is_correct": false },
+          { "option_id": 4, "text": "ना. धो. महानोर", "is_correct": false }
+        ],
+        "answer": "दादासाहेब कोते"
+      },
+      {
+        "question_id": 13,
+        "question_type": "MCQ",
+        "question": "‘फुलांचे रंग पंखांना फासते’ या ओळीत काय व्यक्त होते?",
+        "options": [
+          { "option_id": 1, "text": "राग", "is_correct": false },
+          { "option_id": 2, "text": "आनंद आणि सौंदर्य", "is_correct": true },
+          { "option_id": 3, "text": "भीती", "is_correct": false },
+          { "option_id": 4, "text": "दुःख", "is_correct": false }
+        ],
+        "answer": "आनंद आणि सौंदर्य"
+      },
+      {
+        "question_id": 14,
+        "question_type": "MCQ",
+        "question": "फुलपाखरू कोणत्या जगात रमते?",
+        "options": [
+          { "option_id": 1, "text": "खेळण्यांच्या जगात", "is_correct": false },
+          { "option_id": 2, "text": "फुलांच्या दुनियेत", "is_correct": true },
+          { "option_id": 3, "text": "समुद्रात", "is_correct": false },
+          { "option_id": 4, "text": "गावात", "is_correct": false }
+        ],
+        "answer": "फुलांच्या दुनियेत"
+      },
+      {
+        "question_id": 15,
+        "question_type": "MCQ",
+        "question": "ही कविता मुलांमध्ये कोणती जाणीव निर्माण करते?",
+        "options": [
+          { "option_id": 1, "text": "निसर्गाविषयी प्रेम", "is_correct": true },
+          { "option_id": 2, "text": "राग", "is_correct": false },
+          { "option_id": 3, "text": "भांडण", "is_correct": false },
+          { "option_id": 4, "text": "भीती", "is_correct": false }
+        ],
+        "answer": "निसर्गाविषयी प्रेम"
+      },
+
+      {
+        "question_id": 51,
+        "question_type": "SHORT",
+        "question": "कवितेतील फुलपाखराचे दोन गुण लिहा.",
+        "answer": "फुलपाखरू रंगीबेरंगी आणि आनंदी आहे."
+      },
+      {
+        "question_id": 52,
+        "question_type": "SHORT",
+        "question": "फुलपाखरू फुलांचे रंग कसे टिपते?",
+        "answer": "फुलपाखरू हळूच फुलांवर बसून रंग टिपते."
+      },
+      {
+        "question_id": 53,
+        "question_type": "SHORT",
+        "question": "‘खुदकन हसते’ या ओळीचा अर्थ लिहा.",
+        "answer": "फुलपाखरू आनंदाने हलकेसे हसते."
+      },
+      {
+        "question_id": 54,
+        "question_type": "SHORT",
+        "question": "कवितेत उल्लेख केलेला एक रंग लिहा.",
+        "answer": "जांभळा / निळसर"
+      },
+      {
+        "question_id": 55,
+        "question_type": "SHORT",
+        "question": "फुलपाखराचे पंख कसे असतात?",
+        "answer": "फुलपाखराचे पंख रंगीबेरंगी आणि ठिपक्यांनी सजलेले असतात."
+      },
+      {
+        "question_id": 56,
+        "question_type": "SHORT",
+        "question": "फुलांच्या दुनियेत फुलपाखरू का दंग झाले आहे?",
+        "answer": "कारण तिथे सुंदर फुले आणि रंग आहेत."
+      },
+      {
+        "question_id": 57,
+        "question_type": "SHORT",
+        "question": "कवितेतून कोणता बोध मिळतो?",
+        "answer": "निसर्गाचे सौंदर्य अनुभवावे आणि त्याचे कौतुक करावे."
+      },
+      {
+        "question_id": 58,
+        "question_type": "SHORT",
+        "question": "फुलपाखरू फुलांवर का बसते?",
+        "answer": "फुलांचा गोड सुगंध आणि रंग अनुभवण्यासाठी."
+      },
+      {
+        "question_id": 59,
+        "question_type": "SHORT",
+        "question": "तुला फुलपाखरू का आवडते?",
+        "answer": "कारण ते सुंदर, रंगीबेरंगी आणि हलके उडते."
+      },
+      {
+        "question_id": 60,
+        "question_type": "SHORT",
+        "question": "कवितेतील तुझे आवडते शब्द लिहा.",
+        "answer": "सुंदर कमान / फुलांचे रंग"
+      },
+      {
+        "question_id": 61,
+        "question_type": "SHORT",
+        "question": "फुलपाखरू निसर्गाला कशी शोभा आणते?",
+        "answer": "त्याच्या रंगीबेरंगी पंखांमुळे निसर्ग अधिक सुंदर दिसतो."
+      },
+      {
+        "question_id": 62,
+        "question_type": "SHORT",
+        "question": "कवितेत वर्णन केलेले फुलपाखराचे पंख कसे आहेत?",
+        "answer": "निळसर-जांभळे आणि छान ठिपक्यांनी सजलेले."
+      },
+      {
+        "question_id": 63,
+        "question_type": "SHORT",
+        "question": "कवितेतून निसर्गाविषयी काय शिकवले आहे?",
+        "answer": "निसर्गावर प्रेम करावे आणि त्याचा आनंद घ्यावा."
+      },
+      {
+        "question_id": 64,
+        "question_type": "SHORT",
+        "question": "फुलांचे रंग पंखांना फासण्याचा अर्थ काय?",
+        "answer": "फुलांचे सौंदर्य पंखांवर उमटल्यासारखे दिसते."
+      },
+      {
+        "question_id": 65,
+        "question_type": "SHORT",
+        "question": "ही कविता तुला का आवडली?",
+        "answer": "कारण ती सुंदर, गोड आणि निसर्गाचे सौंदर्य दाखवणारी आहे."
+      }
+    ]
+  }
+  

@@ -1,0 +1,1216 @@
+{ 
+"voyage": "Voyage Four", 
+"lessons": [ 
+"Sleep, My Treasure", 
+"The Story of Gautama’s Quest", 
+"Mr Nobody", 
+"A Mad Tea Party", 
+"If I can stop one heart from breaking…", 
+"The Phantom Tollbooth (A Book Review)", 
+"The Sword in the Stone", 
+"An Autumn Greeting" 
+], 
+"total_questions": 150, 
+"questions": [ 
+{ 
+"question_id": 1, 
+"question_type": "MCQ", 
+"question": "In the poem 'Sleep, My Treasure', what is sleep compared to?", 
+"options": [ 
+{ "option_id": 1, "text": "A restless wind", "is_correct": false }, 
+{ "option_id": 2, "text": "A precious possession", "is_correct": true }, 
+{ "option_id": 3, "text": "A wandering dream", "is_correct": false }, 
+{ "option_id": 4, "text": "A passing shadow", "is_correct": false } 
+], 
+"answer": "A precious possession" 
+}, 
+{ 
+"question_id": 2, 
+"question_type": "MCQ", 
+"question": "What feeling dominates the tone of 'Sleep, My Treasure'?", 
+"options": [ 
+{ "option_id": 1, "text": "Anxiety", "is_correct": false }, 
+{ "option_id": 2, "text": "Tender care and calmness", "is_correct": true }, 
+{ "option_id": 3, "text": "Fear", "is_correct": false }, 
+{ "option_id": 4, "text": "Excitement", "is_correct": false } 
+], 
+"answer": "Tender care and calmness" 
+}, 
+{ 
+"question_id": 3, 
+"question_type": "MCQ", 
+"question": "Why does the speaker in 'Sleep, My Treasure' urge the child to sleep?", 
+"options": [ 
+{ "option_id": 1, "text": "To avoid work", "is_correct": false }, 
+{ "option_id": 2, "text": "To regain strength and peace", "is_correct": true }, 
+{ "option_id": 3, "text": "To escape fear", "is_correct": false }, 
+{ "option_id": 4, "text": "To pass time", "is_correct": false } 
+], 
+"answer": "To regain strength and peace" 
+}, 
+{ 
+"question_id": 4, 
+"question_type": "MCQ", 
+"question": "What did Gautama see that disturbed him deeply?", 
+"options": [ 
+{ "option_id": 1, "text": "Wealth and luxury", "is_correct": false }, 
+{ "option_id": 2, "text": "Old age, sickness and death", "is_correct": true }, 
+{ "option_id": 3, "text": "War and destruction", "is_correct": false }, 
+{ "option_id": 4, "text": "Natural disasters", "is_correct": false } 
+], 
+"answer": "Old age, sickness and death" 
+}, 
+{ 
+"question_id": 5, 
+"question_type": "MCQ", 
+"question": "What was Gautama’s main purpose in leaving his palace?", 
+"options": [ 
+{ "option_id": 1, "text": "To gain power", "is_correct": false }, 
+{ "option_id": 2, "text": "To seek the cause of human suffering", "is_correct": true }, 
+{ "option_id": 3, "text": "To travel the world", "is_correct": false }, 
+{ "option_id": 4, "text": "To escape responsibility", "is_correct": false } 
+], 
+"answer": "To seek the cause of human suffering" 
+}, 
+{ 
+"question_id": 6, 
+"question_type": "MCQ", 
+"question": "Which quality of Gautama is highlighted in his quest?", 
+"options": [ 
+{ "option_id": 1, "text": "Pride", "is_correct": false }, 
+{ "option_id": 2, "text": "Compassion", "is_correct": true }, 
+{ "option_id": 3, "text": "Anger", "is_correct": false }, 
+{ "option_id": 4, "text": "Ambition", "is_correct": false } 
+], 
+"answer": "Compassion" 
+}, 
+{ 
+"question_id": 7, 
+"question_type": "MCQ", 
+"question": "What does the poem 'Mr Nobody' suggest about small mistakes?", 
+"options": [ 
+{ "option_id": 1, "text": "They are unimportant", "is_correct": false }, 
+{ "option_id": 2, "text": "They often go unnoticed", "is_correct": true }, 
+{ "option_id": 3, "text": "They are always intentional", "is_correct": false }, 
+{ "option_id": 4, "text": "They cause major disasters", "is_correct": false } 
+], 
+"answer": "They often go unnoticed" 
+}, 
+{ 
+"question_id": 8, 
+"question_type": "MCQ", 
+"question": "Who is blamed for unnoticed mistakes in the poem 'Mr Nobody'?", 
+"options": [ 
+{ "option_id": 1, "text": "The speaker", "is_correct": false }, 
+{ "option_id": 2, "text": "Mr Nobody", "is_correct": true }, 
+{ "option_id": 3, "text": "Children", "is_correct": false }, 
+{ "option_id": 4, "text": "Parents", "is_correct": false } 
+], 
+"answer": "Mr Nobody" 
+}, 
+{ 
+"question_id": 9, 
+"question_type": "MCQ", 
+"question": "What is the main mood of 'Mr Nobody'?", 
+"options": [ 
+{ "option_id": 1, "text": "Serious", "is_correct": false }, 
+{ "option_id": 2, "text": "Humorous", "is_correct": true }, 
+{ "option_id": 3, "text": "Tragic", "is_correct": false }, 
+{ "option_id": 4, "text": "Angry", "is_correct": false } 
+], 
+"answer": "Humorous" 
+}, 
+{ 
+"question_id": 10, 
+"question_type": "MCQ", 
+"question": "In 'A Mad Tea Party', what makes the tea party unusual?", 
+"options": [ 
+{ "option_id": 1, "text": "It is very formal", "is_correct": false }, 
+{ "option_id": 2, "text": "It follows strange rules and conversations", "is_correct": true }, 
+{ "option_id": 3, "text": "It is very quiet", "is_correct": false }, 
+{ "option_id": 4, "text": "It ends quickly", "is_correct": false } 
+], 
+"answer": "It follows strange rules and conversations" 
+}, 
+{ 
+"question_id": 11, 
+"question_type": "MCQ", 
+"question": "Which character keeps time stuck during the tea party?", 
+"options": [ 
+{ "option_id": 1, "text": "Alice", "is_correct": false }, 
+{ "option_id": 2, "text": "The Mad Hatter", "is_correct": true }, 
+{ "option_id": 3, "text": "The Queen", "is_correct": false }, 
+{ "option_id": 4, "text": "The King", "is_correct": false } 
+], 
+"answer": "The Mad Hatter" 
+}, 
+{ 
+"question_id": 12, 
+"question_type": "MCQ", 
+"question": "How does Alice react to the behaviour at the tea party?", 
+"options": [ 
+{ "option_id": 1, "text": "She enjoys it fully", "is_correct": false }, 
+{ "option_id": 2, "text": "She feels confused and irritated", "is_correct": true }, 
+{ "option_id": 3, "text": "She ignores it", "is_correct": false }, 
+{ "option_id": 4, "text": "She encourages it", "is_correct": false } 
+], 
+"answer": "She feels confused and irritated" 
+}, 
+{ 
+"question_id": 13, 
+"question_type": "MCQ", 
+"question": "What idea is central to the poem 'If I can stop one heart from breaking…'?", 
+"options": [ 
+{ "option_id": 1, "text": "Personal success", "is_correct": false }, 
+{ "option_id": 2, "text": "The value of kindness", "is_correct": true }, 
+{ "option_id": 3, "text": "Fear of loss", "is_correct": false }, 
+{ "option_id": 4, "text": "Power of wealth", "is_correct": false } 
+], 
+"answer": "The value of kindness" 
+}, 
+{ 
+"question_id": 14, 
+"question_type": "MCQ", 
+"question": "According to the poem, when is life considered worthwhile?", 
+"options": [ 
+{ "option_id": 1, "text": "When one becomes famous", "is_correct": false }, 
+{ "option_id": 2, "text": "When one reduces another’s pain", "is_correct": true }, 
+{ "option_id": 3, "text": "When one gains riches", "is_correct": false }, 
+{ "option_id": 4, "text": "When one avoids suffering", "is_correct": false } 
+], 
+"answer": "When one reduces another’s pain" 
+}, 
+{ 
+"question_id": 15, 
+"question_type": "MCQ", 
+"question": "What type of book is 'The Phantom Tollbooth' as described?", 
+"options": [ 
+{ "option_id": 1, "text": "Historical account", "is_correct": false }, 
+{ "option_id": 2, "text": "Fantasy adventure", "is_correct": true }, 
+{ "option_id": 3, "text": "Scientific text", "is_correct": false }, 
+{ "option_id": 4, "text": "Biography", "is_correct": false } 
+], 
+"answer": "Fantasy adventure" 
+}, 
+{ 
+"question_id": 16, 
+"question_type": "MCQ", 
+"question": "What change occurs in the protagonist through the journey in 'The Phantom Tollbooth'?", 
+"options": [ 
+{ "option_id": 1, "text": "He becomes richer", "is_correct": false }, 
+{ "option_id": 2, "text": "He develops curiosity and learning", "is_correct": true }, 
+{ "option_id": 3, "text": "He becomes famous", "is_correct": false }, 
+{ "option_id": 4, "text": "He becomes powerful", "is_correct": false } 
+], 
+"answer": "He develops curiosity and learning" 
+}, 
+{ 
+"question_id": 17, 
+"question_type": "MCQ", 
+"question": "What quality is praised in the review of 'The Phantom Tollbooth'?", 
+"options": [ 
+{ "option_id": 1, "text": "Complex language", "is_correct": false }, 
+{ "option_id": 2, "text": "Imaginative storytelling", "is_correct": true }, 
+{ "option_id": 3, "text": "Historical accuracy", "is_correct": false }, 
+{ "option_id": 4, "text": "Technical detail", "is_correct": false } 
+], 
+"answer": "Imaginative storytelling" 
+}, 
+{ 
+"question_id": 18, 
+"question_type": "MCQ", 
+"question": "What test proves Arthur’s true identity in 'The Sword in the Stone'?", 
+"options": [ 
+{ "option_id": 1, "text": "Winning a battle", "is_correct": false }, 
+{ "option_id": 2, "text": "Pulling the sword from the stone", "is_correct": true }, 
+{ "option_id": 3, "text": "Solving a riddle", "is_correct": false }, 
+{ "option_id": 4, "text": "Defeating rivals", "is_correct": false } 
+], 
+"answer": "Pulling the sword from the stone" 
+}, 
+{ 
+"question_id": 19, 
+"question_type": "MCQ", 
+"question": "What trait of Arthur is highlighted by his action?", 
+"options": [ 
+{ "option_id": 1, "text": "Pride", "is_correct": false }, 
+{ "option_id": 2, "text": "Humility and innocence", "is_correct": true }, 
+{ "option_id": 3, "text": "Cunning", "is_correct": false }, 
+{ "option_id": 4, "text": "Aggression", "is_correct": false } 
+], 
+"answer": "Humility and innocence" 
+}, 
+{ 
+"question_id": 20, 
+"question_type": "MCQ", 
+"question": "What season is celebrated in 'An Autumn Greeting'?", 
+"options": [ 
+{ "option_id": 1, "text": "Spring", "is_correct": false }, 
+{ "option_id": 2, "text": "Autumn", "is_correct": true }, 
+{ "option_id": 3, "text": "Winter", "is_correct": false }, 
+{ "option_id": 4, "text": "Summer", "is_correct": false } 
+], 
+"answer": "Autumn" 
+}, 
+{ 
+"question_id": 21, 
+"question_type": "MCQ", 
+"question": "What mood does 'An Autumn Greeting' convey?", 
+"options": [ 
+{ "option_id": 1, "text": "Joyful appreciation", "is_correct": true }, 
+{ "option_id": 2, "text": "Fearful tension", "is_correct": false }, 
+{ "option_id": 3, "text": "Deep sorrow", "is_correct": false }, 
+{ "option_id": 4, "text": "Anger", "is_correct": false } 
+], 
+"answer": "Joyful appreciation" 
+}, 
+{ 
+"question_id": 22, 
+"question_type": "MCQ", 
+"question": "Which natural change is highlighted in 'An Autumn Greeting'?", 
+"options": [ 
+{ "option_id": 1, "text": "Blooming flowers", "is_correct": false }, 
+{ "option_id": 2, "text": "Falling leaves", "is_correct": true }, 
+{ "option_id": 3, "text": "Melting snow", "is_correct": false }, 
+{ "option_id": 4, "text": "Heavy rain", "is_correct": false } 
+], 
+"answer": "Falling leaves" 
+}, 
+{ 
+"question_id": 23, 
+"question_type": "MCQ", 
+"question": "What common idea links many lessons in Voyage Four?", 
+"options": [ 
+{ "option_id": 1, "text": "Power and dominance", "is_correct": false }, 
+{ "option_id": 2, "text": "Reflection and inner growth", "is_correct": true }, 
+{ "option_id": 3, "text": "Conflict and war", "is_correct": false }, 
+{ "option_id": 4, "text": "Material success", "is_correct": false } 
+], 
+"answer": "Reflection and inner growth" 
+}, 
+{ 
+"question_id": 24, 
+"question_type": "MCQ", 
+"question": "Which lesson uses humour to convey responsibility?", 
+"options": [ 
+{ "option_id": 1, "text": "Sleep, My Treasure", "is_correct": false }, 
+{ "option_id": 2, "text": "Mr Nobody", "is_correct": true }, 
+{ "option_id": 3, "text": "The Sword in the Stone", "is_correct": false }, 
+{ "option_id": 4, "text": "An Autumn Greeting", "is_correct": false } 
+], 
+"answer": "Mr Nobody" 
+}, 
+{ 
+"question_id": 25, 
+"question_type": "MCQ", 
+"question": "Which lesson emphasizes compassion for all living beings?", 
+"options": [ 
+{ "option_id": 1, "text": "The Story of Gautama’s Quest", "is_correct": true }, 
+{ "option_id": 2, "text": "A Mad Tea Party", "is_correct": false }, 
+{ "option_id": 3, "text": "Mr Nobody", "is_correct": false }, 
+{ "option_id": 4, "text": "An Autumn Greeting", "is_correct": false } 
+], 
+"answer": "The Story of Gautama’s Quest" 
+}, 
+{ 
+"question_id": 26, 
+"question_type": "MCQ", 
+"question": "What causes confusion at the Mad Tea Party?", 
+"options": [ 
+{ "option_id": 1, "text": "Silence", "is_correct": false }, 
+{ "option_id": 2, "text": "Illogical speech and actions", "is_correct": true }, 
+{ "option_id": 3, "text": "Strict rules", "is_correct": false }, 
+{ "option_id": 4, "text": "Fear of punishment", "is_correct": false } 
+], 
+"answer": "Illogical speech and actions" 
+}, 
+{ 
+"question_id": 27, 
+"question_type": "MCQ", 
+"question": "What does pulling the sword signify in the story?", 
+"options": [ 
+{ "option_id": 1, "text": "Physical strength only", "is_correct": false }, 
+{ "option_id": 2, "text": "Right to leadership", "is_correct": true }, 
+{ "option_id": 3, "text": "Magic skill", "is_correct": false }, 
+{ "option_id": 4, "text": "Luck alone", "is_correct": false } 
+], 
+"answer": "Right to leadership" 
+}, 
+{ 
+"question_id": 28, 
+"question_type": "MCQ", 
+"question": "Which emotion is gently expressed in 'Sleep, My Treasure'?", 
+"options": [ 
+{ "option_id": 1, "text": "Anger", "is_correct": false }, 
+{ "option_id": 2, "text": "Affection", "is_correct": true }, 
+{ "option_id": 3, "text": "Jealousy", "is_correct": false }, 
+{ "option_id": 4, "text": "Pride", "is_correct": false } 
+], 
+"answer": "Affection" 
+}, 
+{ 
+"question_id": 29, 
+"question_type": "MCQ", 
+"question": "What lesson does 'Mr Nobody' teach readers?", 
+"options": [ 
+{ "option_id": 1, "text": "Ignore mistakes", "is_correct": false }, 
+{ "option_id": 2, "text": "Take responsibility for small actions", "is_correct": true }, 
+{ "option_id": 3, "text": "Blame others", "is_correct": false }, 
+{ "option_id": 4, "text": "Avoid work", "is_correct": false } 
+], 
+"answer": "Take responsibility for small actions" 
+}, 
+{ 
+"question_id": 30, 
+"question_type": "MCQ", 
+"question": "What change in perspective does Gautama achieve?", 
+"options": [ 
+{ "option_id": 1, "text": "Desire for luxury", "is_correct": false }, 
+{ "option_id": 2, "text": "Understanding of suffering and peace", "is_correct": true }, 
+{ "option_id": 3, "text": "Hatred for society", "is_correct": false }, 
+{ "option_id": 4, "text": "Fear of the world", "is_correct": false } 
+], 
+"answer": "Understanding of suffering and peace" 
+}, 
+{ 
+"question_id": 31, 
+"question_type": "MCQ", 
+"question": "What kind of journey is described in 'The Phantom Tollbooth'?", 
+"options": [ 
+{ "option_id": 1, "text": "Physical only", "is_correct": false }, 
+{ "option_id": 2, "text": "Both physical and mental", "is_correct": true }, 
+{ "option_id": 3, "text": "Historical", "is_correct": false }, 
+{ "option_id": 4, "text": "Scientific", "is_correct": false } 
+], 
+"answer": "Both physical and mental" 
+}, 
+{ 
+"question_id": 32, 
+"question_type": "MCQ", 
+"question": "Which quality does Arthur display unknowingly?", 
+"options": [ 
+{ "option_id": 1, "text": "Greed", "is_correct": false }, 
+{ "option_id": 2, "text": "Natural leadership", "is_correct": true }, 
+{ "option_id": 3, "text": "Cruelty", "is_correct": false }, 
+{ "option_id": 4, "text": "Arrogance", "is_correct": false } 
+], 
+"answer": "Natural leadership" 
+}, 
+{ 
+"question_id": 33, 
+"question_type": "MCQ", 
+"question": "What does autumn symbolize in the poem?", 
+"options": [ 
+{ "option_id": 1, "text": "End without hope", "is_correct": false }, 
+{ "option_id": 2, "text": "Change and maturity", "is_correct": true }, 
+{ "option_id": 3, "text": "Fear", "is_correct": false }, 
+{ "option_id": 4, "text": "Loneliness only", "is_correct": false } 
+], 
+"answer": "Change and maturity" 
+}, 
+{ 
+"question_id": 34, 
+"question_type": "MCQ", 
+"question": "Which lesson focuses on imaginative nonsense?", 
+"options": [ 
+{ "option_id": 1, "text": "A Mad Tea Party", "is_correct": true }, 
+{ "option_id": 2, "text": "Mr Nobody", "is_correct": false }, 
+{ "option_id": 3, "text": "Sleep, My Treasure", "is_correct": false }, 
+{ "option_id": 4, "text": "An Autumn Greeting", "is_correct": false } 
+], 
+"answer": "A Mad Tea Party" 
+}, 
+{ 
+"question_id": 35, 
+"question_type": "MCQ", 
+"question": "What does the poem 'If I can stop one heart from breaking…' value most?", 
+"options": [ 
+{ "option_id": 1, "text": "Personal gain", "is_correct": false }, 
+{ "option_id": 2, "text": "Service to others", "is_correct": true }, 
+{ "option_id": 3, "text": "Recognition", "is_correct": false }, 
+{ "option_id": 4, "text": "Comfort", "is_correct": false } 
+], 
+"answer": "Service to others" 
+}, 
+{ 
+"question_id": 36, 
+"question_type": "MCQ", 
+"question": "What does sleep symbolize in the poem?", 
+"options": [ 
+{ "option_id": 1, "text": "Escape", "is_correct": false }, 
+{ "option_id": 2, "text": "Rest and renewal", "is_correct": true }, 
+{ "option_id": 3, "text": "Fear", "is_correct": false }, 
+{ "option_id": 4, "text": "Weakness", "is_correct": false } 
+], 
+"answer": "Rest and renewal" 
+}, 
+{ 
+"question_id": 37, 
+"question_type": "MCQ", 
+"question": "Which character questions logic during the tea party?", 
+"options": [ 
+{ "option_id": 1, "text": "The Mad Hatter", "is_correct": false }, 
+{ "option_id": 2, "text": "Alice", "is_correct": true }, 
+{ "option_id": 3, "text": "The Dormouse", "is_correct": false }, 
+{ "option_id": 4, "text": "The Queen", "is_correct": false } 
+], 
+"answer": "Alice" 
+}, 
+{ 
+"question_id": 38, 
+"question_type": "MCQ", 
+"question": "What inspires readers in Gautama’s story?", 
+"options": [ 
+{ "option_id": 1, "text": "Luxury", "is_correct": false }, 
+{ "option_id": 2, "text": "Renunciation and empathy", "is_correct": true }, 
+{ "option_id": 3, "text": "Victory", "is_correct": false }, 
+{ "option_id": 4, "text": "Revenge", "is_correct": false } 
+], 
+"answer": "Renunciation and empathy" 
+}, 
+{ 
+"question_id": 39, 
+"question_type": "MCQ", 
+"question": "What makes 'Mr Nobody' memorable?", 
+"options": [ 
+{ "option_id": 1, "text": "Its tragic ending", "is_correct": false }, 
+{ "option_id": 2, "text": "Its playful explanation of faults", "is_correct": true }, 
+{ "option_id": 3, "text": "Its complex language", "is_correct": false }, 
+{ "option_id": 4, "text": "Its serious tone", "is_correct": false } 
+], 
+"answer": "Its playful explanation of faults" 
+}, 
+{ 
+"question_id": 40, 
+"question_type": "MCQ", 
+"question": "What lesson does Arthur’s success convey?", 
+"options": [ 
+{ "option_id": 1, "text": "Power comes from strength alone", "is_correct": false }, 
+{ "option_id": 2, "text": "True worth is revealed naturally", "is_correct": true }, 
+{ "option_id": 3, "text": "Luck decides everything", "is_correct": false }, 
+{ "option_id": 4, "text": "Experience is unnecessary", "is_correct": false } 
+], 
+"answer": "True worth is revealed naturally" 
+}, 
+{ 
+"question_id": 41, 
+"question_type": "MCQ", 
+"question": "What role does imagination play in Voyage Four?", 
+"options": [ 
+{ "option_id": 1, "text": "It distracts from learning", "is_correct": false }, 
+{ "option_id": 2, "text": "It enhances understanding", "is_correct": true }, 
+{ "option_id": 3, "text": "It causes confusion only", "is_correct": false }, 
+{ "option_id": 4, "text": "It is discouraged", "is_correct": false } 
+], 
+"answer": "It enhances understanding" 
+}, 
+{ 
+"question_id": 42, 
+"question_type": "MCQ", 
+"question": "Which poem focuses on care for a child?", 
+"options": [ 
+{ "option_id": 1, "text": "Mr Nobody", "is_correct": false }, 
+{ "option_id": 2, "text": "Sleep, My Treasure", "is_correct": true }, 
+{ "option_id": 3, "text": "An Autumn Greeting", "is_correct": false }, 
+{ "option_id": 4, "text": "If I can stop one heart from breaking…", "is_correct": false } 
+], 
+"answer": "Sleep, My Treasure" 
+}, 
+{ 
+"question_id": 43, 
+"question_type": "MCQ", 
+"question": "What does Alice find difficult to accept?", 
+"options": [ 
+{ "option_id": 1, "text": "Kindness", "is_correct": false }, 
+{ "option_id": 2, "text": "Illogical behaviour", "is_correct": true }, 
+{ "option_id": 3, "text": "Silence", "is_correct": false }, 
+{ "option_id": 4, "text": "Rules", "is_correct": false } 
+], 
+"answer": "Illogical behaviour" 
+}, 
+{ 
+"question_id": 44, 
+"question_type": "MCQ", 
+"question": "What is the underlying message of 'An Autumn Greeting'?", 
+"options": [ 
+{ "option_id": 1, "text": "Fear change", "is_correct": false }, 
+{ "option_id": 2, "text": "Welcome change gracefully", "is_correct": true }, 
+{ "option_id": 3, "text": "Avoid nature", "is_correct": false }, 
+{ "option_id": 4, "text": "Mourn loss", "is_correct": false } 
+], 
+"answer": "Welcome change gracefully" 
+}, 
+{ 
+"question_id": 45, 
+"question_type": "MCQ", 
+"question": "Which lesson highlights personal responsibility?", 
+"options": [ 
+{ "option_id": 1, "text": "Mr Nobody", "is_correct": true }, 
+{ "option_id": 2, "text": "A Mad Tea Party", "is_correct": false }, 
+{ "option_id": 3, "text": "Sleep, My Treasure", "is_correct": false }, 
+{ "option_id": 4, "text": "The Phantom Tollbooth", "is_correct": false } 
+], 
+"answer": "Mr Nobody" 
+}, 
+{ 
+"question_id": 46, 
+"question_type": "MCQ", 
+"question": "What draws readers into 'The Phantom Tollbooth'?", 
+"options": [ 
+{ "option_id": 1, "text": "Realism", "is_correct": false }, 
+{ "option_id": 2, "text": "Creative fantasy", "is_correct": true }, 
+{ "option_id": 3, "text": "Historical detail", "is_correct": false }, 
+{ "option_id": 4, "text": "Scientific facts", "is_correct": false } 
+], 
+"answer": "Creative fantasy" 
+}, 
+{ 
+"question_id": 47, 
+"question_type": "MCQ", 
+"question": "What does Arthur not seek but gains?", 
+"options": [ 
+{ "option_id": 1, "text": "Wealth", "is_correct": false }, 
+{ "option_id": 2, "text": "Kingship", "is_correct": true }, 
+{ "option_id": 3, "text": "Fame", "is_correct": false }, 
+{ "option_id": 4, "text": "Revenge", "is_correct": false } 
+], 
+"answer": "Kingship" 
+}, 
+{ 
+"question_id": 48, 
+"question_type": "MCQ", 
+"question": "What emotion is common in the poems of Voyage Four?", 
+"options": [ 
+{ "option_id": 1, "text": "Violence", "is_correct": false }, 
+{ "option_id": 2, "text": "Gentleness", "is_correct": true }, 
+{ "option_id": 3, "text": "Hatred", "is_correct": false }, 
+{ "option_id": 4, "text": "Fear", "is_correct": false } 
+], 
+"answer": "Gentleness" 
+}, 
+{ 
+"question_id": 49, 
+"question_type": "MCQ", 
+"question": "Which lesson encourages thoughtful living?", 
+"options": [ 
+{ "option_id": 1, "text": "If I can stop one heart from breaking…", "is_correct": true }, 
+{ "option_id": 2, "text": "A Mad Tea Party", "is_correct": false }, 
+{ "option_id": 3, "text": "Mr Nobody", "is_correct": false }, 
+{ "option_id": 4, "text": "Sleep, My Treasure", "is_correct": false } 
+], 
+"answer": "If I can stop one heart from breaking…" 
+}, 
+{ 
+"question_id": 50, 
+"question_type": "MCQ", 
+"question": "What overall value does Voyage Four promote?", 
+"options": [ 
+{ "option_id": 1, "text": "Material success", "is_correct": false }, 
+{ "option_id": 2, "text": "Inner growth and empathy", "is_correct": true }, 
+{ "option_id": 3, "text": "Competition", "is_correct": false }, 
+{ "option_id": 4, "text": "Authority", "is_correct": false } 
+], 
+"answer": "Inner growth and empathy" 
+}, 
+{ 
+"question_id": 51, 
+"question_type": "SHORT", 
+"question": "Why does the speaker call sleep a treasure in the poem?", 
+"answer": "The speaker calls sleep a treasure because it provides peace, rest, and renewal, making it precious and valuable." 
+}, 
+{ 
+"question_id": 52, 
+"question_type": "SHORT", 
+"question": "How does the poem ‘Sleep, My Treasure’ reflect parental care?", 
+"answer": "The poem reflects parental care through its gentle tone and concern for the child’s comfort and well-being." 
+}, 
+{ 
+"question_id": 53, 
+"question_type": "SHORT", 
+"question": "What disturbed Gautama when he stepped outside the palace?", 
+"answer": "Gautama was disturbed by the sights of old age, sickness, and death, which revealed the reality of human suffering." 
+}, 
+{ 
+"question_id": 54, 
+"question_type": "SHORT", 
+"question": "Why did Gautama renounce a life of luxury?", 
+"answer": "Gautama renounced luxury to search for truth and understand the cause of suffering in human life." 
+}, 
+{ 
+"question_id": 55, 
+"question_type": "SHORT", 
+"question": "What goal did Gautama set for himself after leaving the palace?", 
+"answer": "Gautama aimed to find a path that would free human beings from sorrow and suffering." 
+}, 
+{ 
+"question_id": 56, 
+"question_type": "SHORT", 
+"question": "How does ‘Mr Nobody’ explain small daily mistakes?", 
+"answer": "The poem explains small daily mistakes by humorously blaming them on an imaginary character named Mr Nobody." 
+}, 
+{ 
+"question_id": 57, 
+"question_type": "SHORT", 
+"question": "What human habit is criticized in the poem ‘Mr Nobody’?", 
+"answer": "The poem criticizes the habit of avoiding responsibility for one’s own small mistakes." 
+}, 
+{ 
+"question_id": 58, 
+"question_type": "SHORT", 
+"question": "Why is humor effective in conveying the message of ‘Mr Nobody’?", 
+"answer": "Humor makes the message memorable and gently reminds readers to accept responsibility without sounding harsh." 
+}, 
+{ 
+"question_id": 59, 
+"question_type": "SHORT", 
+"question": "What makes the conversation in ‘A Mad Tea Party’ confusing?", 
+"answer": "The conversation is confusing because it lacks logic and follows no clear order or reasoning." 
+}, 
+{ 
+"question_id": 60, 
+"question_type": "SHORT", 
+"question": "How does Alice respond to the strange behaviour at the tea party?", 
+"answer": "Alice responds with confusion and frustration as she struggles to understand the illogical actions and speech." 
+}, 
+{ 
+"question_id": 61, 
+"question_type": "SHORT", 
+"question": "What does the stopped time symbolize in ‘A Mad Tea Party’?", 
+"answer": "Stopped time symbolizes stagnation and the absence of progress or meaningful order." 
+}, 
+{ 
+"question_id": 62, 
+"question_type": "SHORT", 
+"question": "What belief does the poem ‘If I can stop one heart from breaking…’ express?", 
+"answer": "The poem expresses the belief that helping others and easing their pain gives true meaning to life." 
+}, 
+{ 
+"question_id": 63, 
+"question_type": "SHORT", 
+"question": "How does the poet define a worthwhile life?", 
+"answer": "A worthwhile life is defined as one that brings comfort, relief, or happiness to others." 
+}, 
+{ 
+"question_id": 64, 
+"question_type": "SHORT", 
+"question": "What feeling dominates the poem ‘If I can stop one heart from breaking…’?", 
+"answer": "The dominant feeling in the poem is compassion toward suffering beings." 
+}, 
+{ 
+"question_id": 65, 
+"question_type": "SHORT", 
+"question": "Who is the central character discussed in ‘The Phantom Tollbooth’ review?", 
+"answer": "The central character discussed is a young boy who embarks on a journey of learning and discovery." 
+}, 
+{ 
+"question_id": 66, 
+"question_type": "SHORT", 
+"question": "What change occurs in the protagonist during the journey in ‘The Phantom Tollbooth’?", 
+"answer": "The protagonist changes from being bored and indifferent to becoming curious and eager to learn." 
+}, 
+{ 
+"question_id": 67, 
+"question_type": "SHORT", 
+"question": "Why is imagination important in ‘The Phantom Tollbooth’?", 
+"answer": "Imagination helps transform ordinary experiences into meaningful lessons and adventures." 
+}, 
+{ 
+"question_id": 68, 
+"question_type": "SHORT", 
+"question": "What lesson does the review highlight about learning?", 
+"answer": "The review highlights that learning becomes enjoyable when curiosity and imagination are involved." 
+}, 
+{ 
+"question_id": 69, 
+"question_type": "SHORT", 
+"question": "How does Arthur unknowingly prove his worth?", 
+"answer": "Arthur proves his worth by effortlessly pulling the sword from the stone without seeking recognition." 
+}, 
+{ 
+"question_id": 70, 
+"question_type": "SHORT", 
+"question": "What does the sword represent in ‘The Sword in the Stone’?", 
+"answer": "The sword represents rightful authority and destiny." 
+}, 
+{ 
+"question_id": 71, 
+"question_type": "SHORT", 
+"question": "Why is Arthur’s success considered remarkable?", 
+"answer": "Arthur’s success is remarkable because it comes from humility rather than ambition or strength." 
+}, 
+{ 
+"question_id": 72, 
+"question_type": "SHORT", 
+"question": "What natural beauty is admired in ‘An Autumn Greeting’?", 
+"answer": "The poem admires falling leaves and the gentle transformation of nature during autumn." 
+}, 
+{ 
+"question_id": 73, 
+"question_type": "SHORT", 
+"question": "How does the poet describe the arrival of autumn?", 
+"answer": "The poet describes autumn as a pleasant and graceful change welcomed by nature." 
+}, 
+{ 
+"question_id": 74, 
+"question_type": "SHORT", 
+"question": "What emotion does ‘An Autumn Greeting’ evoke?", 
+"answer": "The poem evokes a sense of calm appreciation and joy." 
+}, 
+{ 
+"question_id": 75, 
+"question_type": "SHORT", 
+"question": "How does Voyage Four encourage inner reflection?", 
+"answer": "Voyage Four encourages inner reflection through themes of compassion, responsibility, and personal growth." 
+}, 
+{ 
+"question_id": 76, 
+"question_type": "SHORT", 
+"question": "Which lesson teaches responsibility for small actions?", 
+"answer": "The poem ‘Mr Nobody’ teaches responsibility for small actions." 
+}, 
+{ 
+"question_id": 77, 
+"question_type": "SHORT", 
+"question": "How does humor help learning in Voyage Four?", 
+"answer": "Humor makes lessons engaging and helps readers understand serious ideas easily." 
+}, 
+{ 
+"question_id": 78, 
+"question_type": "SHORT", 
+"question": "What common value connects the poems in Voyage Four?", 
+"answer": "A common value connecting the poems is empathy and thoughtful living." 
+}, 
+{ 
+"question_id": 79, 
+"question_type": "SHORT", 
+"question": "Why does Gautama’s story inspire readers?", 
+"answer": "Gautama’s story inspires readers through his compassion and dedication to understanding suffering." 
+}, 
+{ 
+"question_id": 80, 
+"question_type": "SHORT", 
+"question": "What role does questioning play in Gautama’s quest?", 
+"answer": "Questioning leads Gautama to seek truth beyond material comfort." 
+}, 
+{ 
+"question_id": 81, 
+"question_type": "SHORT", 
+"question": "Why is Alice unable to adjust to the tea party?", 
+"answer": "Alice cannot adjust because she expects logic and order, which are absent at the tea party." 
+}, 
+{ 
+"question_id": 82, 
+"question_type": "SHORT", 
+"question": "What does the tea party reveal about nonsense?", 
+"answer": "The tea party reveals how nonsense disrupts understanding and communication." 
+}, 
+{ 
+"question_id": 83, 
+"question_type": "SHORT", 
+"question": "How does the poet express kindness in ‘If I can stop one heart from breaking…’?", 
+"answer": "The poet expresses kindness by valuing small acts that reduce pain and suffering." 
+}, 
+{ 
+"question_id": 84, 
+"question_type": "SHORT", 
+"question": "What role does care play in ‘Sleep, My Treasure’?", 
+"answer": "Care is shown through the speaker’s gentle concern for rest and peace." 
+}, 
+{ 
+"question_id": 85, 
+"question_type": "SHORT", 
+"question": "How does sleep support well-being in the poem?", 
+"answer": "Sleep supports well-being by restoring energy and calming the mind." 
+}, 
+{ 
+"question_id": 86, 
+"question_type": "SHORT", 
+"question": "What makes ‘The Phantom Tollbooth’ appealing to young readers?", 
+"answer": "Its imaginative journey and meaningful lessons make it appealing to young readers." 
+}, 
+{ 
+"question_id": 87, 
+"question_type": "SHORT", 
+"question": "How is learning portrayed as an adventure?", 
+"answer": "Learning is portrayed as an adventure through imaginative experiences and discoveries." 
+}, 
+{ 
+"question_id": 88, 
+"question_type": "SHORT", 
+"question": "What moral lesson does Arthur’s story convey?", 
+"answer": "The moral lesson is that true leadership emerges naturally from humility and goodness." 
+}, 
+{ 
+"question_id": 89, 
+"question_type": "SHORT", 
+"question": "Why is autumn welcomed in the poem?", 
+"answer": "Autumn is welcomed for its beauty and gentle transformation of nature." 
+}, 
+{ 
+"question_id": 90, 
+"question_type": "SHORT", 
+"question": "What does the poem suggest about change?", 
+"answer": "The poem suggests that change should be accepted with grace and appreciation." 
+}, 
+{ 
+"question_id": 91, 
+"question_type": "SHORT", 
+"question": "How does Voyage Four address emotional growth?", 
+"answer": "It addresses emotional growth by highlighting empathy, reflection, and kindness." 
+}, 
+{ 
+"question_id": 92, 
+"question_type": "SHORT", 
+"question": "Which lesson uses fantasy to teach meaning?", 
+"answer": "The Phantom Tollbooth uses fantasy to teach meaningful lessons about learning." 
+}, 
+{ 
+"question_id": 93, 
+"question_type": "SHORT", 
+"question": "What contrast is shown between sense and nonsense in Voyage Four?", 
+"answer": "Sense represents order and learning, while nonsense creates confusion and stagnation." 
+}, 
+{ 
+"question_id": 94, 
+"question_type": "SHORT", 
+"question": "How does responsibility shape character in the lessons?", 
+"answer": "Responsibility helps individuals become aware of their actions and grow morally." 
+}, 
+{ 
+"question_id": 95, 
+"question_type": "SHORT", 
+"question": "Why are small actions important according to Voyage Four?", 
+"answer": "Small actions influence character and affect others positively or negatively." 
+}, 
+{ 
+"question_id": 96, 
+"question_type": "SHORT", 
+"question": "What role does observation play in Gautama’s journey?", 
+"answer": "Observation helps Gautama understand the realities of life beyond luxury." 
+}, 
+{ 
+"question_id": 97, 
+"question_type": "SHORT", 
+"question": "How does Voyage Four promote thoughtful living?", 
+"answer": "It promotes thoughtful living through reflection on actions, compassion, and awareness." 
+}, 
+{ 
+"question_id": 98, 
+"question_type": "SHORT", 
+"question": "What lesson does kindness teach according to the poems?", 
+"answer": "Kindness teaches that easing others’ suffering gives purpose to life." 
+}, 
+{ 
+"question_id": 99, 
+"question_type": "SHORT", 
+"question": "Why is imagination linked with wisdom in Voyage Four?", 
+"answer": "Imagination allows deeper understanding and creative thinking, leading to wisdom." 
+}, 
+{ 
+"question_id": 100, 
+"question_type": "SHORT", 
+"question": "How do the lessons collectively shape moral understanding?", 
+"answer": "They shape moral understanding by emphasizing empathy, responsibility, and inner growth." 
+}, 
+{ 
+"question_id": 101, 
+"question_type": "SHORT", 
+"question": "How does gentle language enhance the theme of ‘Sleep, My Treasure’?", 
+"answer": "Gentle language reinforces the theme of care and creates a soothing atmosphere that reflects affection and protection." 
+}, 
+{ 
+"question_id": 102, 
+"question_type": "SHORT", 
+"question": "What truth about life does Gautama discover through suffering?", 
+"answer": "Gautama discovers that suffering is universal and arises from human attachment and desire." 
+}, 
+{ 
+"question_id": 103, 
+"question_type": "SHORT", 
+"question": "Why is Gautama’s renunciation considered an act of courage?", 
+"answer": "It is considered courageous because he willingly gave up comfort and power to seek truth for humanity." 
+}, 
+{ 
+"question_id": 104, 
+"question_type": "SHORT", 
+"question": "What warning does ‘Mr Nobody’ give to readers?", 
+"answer": "The poem warns readers against ignoring their own mistakes and shifting blame." 
+}, 
+{ 
+"question_id": 105, 
+"question_type": "SHORT", 
+"question": "How does ‘Mr Nobody’ reflect everyday family life?", 
+"answer": "It reflects everyday life by portraying common household mistakes humorously." 
+}, 
+{ 
+"question_id": 106, 
+"question_type": "SHORT", 
+"question": "What literary effect is created by nonsense in ‘A Mad Tea Party’?", 
+"answer": "Nonsense creates humor while highlighting the absurdity of conversations without logic." 
+}, 
+{ 
+"question_id": 107, 
+"question_type": "SHORT", 
+"question": "Why does Alice eventually leave the tea party?", 
+"answer": "Alice leaves because she finds the behaviour meaningless and frustrating." 
+}, 
+{ 
+"question_id": 108, 
+"question_type": "SHORT", 
+"question": "What moral duty does the poet express in ‘If I can stop one heart from breaking…’?", 
+"answer": "The poet expresses the duty to relieve pain and bring comfort to others." 
+}, 
+{ 
+"question_id": 109, 
+"question_type": "SHORT", 
+"question": "How does the poem measure the value of human life?", 
+"answer": "Human life is valued by its ability to reduce suffering and spread kindness." 
+}, 
+{ 
+"question_id": 110, 
+"question_type": "SHORT", 
+"question": "What role does boredom play at the beginning of ‘The Phantom Tollbooth’?", 
+"answer": "Boredom highlights the protagonist’s lack of curiosity before the journey begins." 
+}, 
+{ 
+"question_id": 111, 
+"question_type": "SHORT", 
+"question": "How does the journey in ‘The Phantom Tollbooth’ change the protagonist’s outlook?", 
+"answer": "The journey transforms his outlook by making learning meaningful and enjoyable." 
+}, 
+{ 
+"question_id": 112, 
+"question_type": "SHORT", 
+"question": "Why is fantasy effective in teaching lessons in the book review?", 
+"answer": "Fantasy presents lessons creatively, making abstract ideas easier to understand." 
+}, 
+{ 
+"question_id": 113, 
+"question_type": "SHORT", 
+"question": "What quality enables Arthur to succeed where others fail?", 
+"answer": "Arthur’s innocence and humility enable his success." 
+}, 
+{ 
+"question_id": 114, 
+"question_type": "SHORT", 
+"question": "How does destiny operate in ‘The Sword in the Stone’?", 
+"answer": "Destiny reveals itself naturally through Arthur’s simple action." 
+}, 
+{ 
+"question_id": 115, 
+"question_type": "SHORT", 
+"question": "Why is Arthur unaware of his importance?", 
+"answer": "Arthur is unaware because he acts without ambition or desire for power." 
+}, 
+{ 
+"question_id": 116, 
+"question_type": "SHORT", 
+"question": "What aspect of nature is personified in ‘An Autumn Greeting’?", 
+"answer": "Nature is personified as welcoming and graceful during autumn." 
+}, 
+{ 
+"question_id": 117, 
+"question_type": "SHORT", 
+"question": "How does the poet view seasonal change?", 
+"answer": "Seasonal change is viewed as a natural and positive transformation." 
+}, 
+{ 
+"question_id": 118, 
+"question_type": "SHORT", 
+"question": "What inner quality does autumn encourage according to the poem?", 
+"answer": "Autumn encourages calm acceptance and reflection." 
+}, 
+{ 
+"question_id": 119, 
+"question_type": "SHORT", 
+"question": "How does Voyage Four portray growth?", 
+"answer": "Growth is portrayed as emotional, moral, and intellectual development." 
+}, 
+{ 
+"question_id": 120, 
+"question_type": "SHORT", 
+"question": "Why is responsibility a recurring idea in Voyage Four?", 
+"answer": "Responsibility shapes character and influences personal growth." 
+}, 
+{ 
+"question_id": 121, 
+"question_type": "SHORT", 
+"question": "What lesson does gentle care teach in ‘Sleep, My Treasure’?", 
+"answer": "It teaches the importance of nurturing and emotional security." 
+}, 
+{ 
+"question_id": 122, 
+"question_type": "SHORT", 
+"question": "How does Gautama’s story encourage empathy?", 
+"answer": "It encourages empathy by showing deep concern for human suffering." 
+}, 
+{ 
+"question_id": 123, 
+"question_type": "SHORT", 
+"question": "Why are mistakes treated lightly in ‘Mr Nobody’?", 
+"answer": "They are treated lightly to remind readers gently rather than criticize harshly." 
+}, 
+{ 
+"question_id": 124, 
+"question_type": "SHORT", 
+"question": "What lesson does the tea party indirectly teach?", 
+"answer": "It teaches the importance of sense and order in communication." 
+}, 
+{ 
+"question_id": 125, 
+"question_type": "SHORT", 
+"question": "How does kindness define success in the poem by Emily Dickinson?", 
+"answer": "Success is defined by reducing pain and offering compassion." 
+}, 
+{ 
+"question_id": 126, 
+"question_type": "SHORT", 
+"question": "What does imagination replace in ‘The Phantom Tollbooth’?", 
+"answer": "Imagination replaces boredom and indifference." 
+}, 
+{ 
+"question_id": 127, 
+"question_type": "SHORT", 
+"question": "How does curiosity function as a driving force in the journey?", 
+"answer": "Curiosity motivates exploration and learning." 
+}, 
+{ 
+"question_id": 128, 
+"question_type": "SHORT", 
+"question": "What ethical idea is reinforced through Arthur’s kingship?", 
+"answer": "True leadership is based on virtue rather than power." 
+}, 
+{ 
+"question_id": 129, 
+"question_type": "SHORT", 
+"question": "How does humility influence destiny in the lesson?", 
+"answer": "Humility allows destiny to unfold naturally." 
+}, 
+{ 
+"question_id": 130, 
+"question_type": "SHORT", 
+"question": "Why is autumn associated with maturity?", 
+"answer": "Autumn reflects completion and thoughtful change." 
+}, 
+{ 
+"question_id": 131, 
+"question_type": "SHORT", 
+"question": "What philosophical idea connects Gautama’s quest and Dickinson’s poem?", 
+"answer": "Both emphasize compassion as a path to meaning." 
+}, 
+{ 
+"question_id": 132, 
+"question_type": "SHORT", 
+"question": "How does Voyage Four treat silence and calm?", 
+"answer": "Silence and calm are treated as sources of peace and understanding." 
+}, 
+{ 
+"question_id": 133, 
+"question_type": "SHORT", 
+"question": "What role does awareness play across the lessons?", 
+"answer": "Awareness leads to responsible and empathetic living." 
+}, 
+{ 
+"question_id": 134, 
+"question_type": "SHORT", 
+"question": "How does humor prevent moral lessons from becoming heavy?", 
+"answer": "Humor makes moral lessons engaging and approachable." 
+}, 
+{ 
+"question_id": 135, 
+"question_type": "SHORT", 
+"question": "Why is empathy shown as transformative?", 
+"answer": "Empathy transforms individuals by deepening understanding and kindness." 
+}, 
+{ 
+"question_id": 136, 
+"question_type": "SHORT", 
+"question": "How does Voyage Four promote balance in life?", 
+"answer": "It promotes balance through reflection, care, and responsibility." 
+}, 
+{ 
+"question_id": 137, 
+"question_type": "SHORT", 
+"question": "What lesson connects sleep and compassion?", 
+"answer": "Both restore and heal emotional well-being." 
+}, 
+{ 
+"question_id": 138, 
+"question_type": "SHORT", 
+"question": "How does fantasy reveal truth in Voyage Four?", 
+"answer": "Fantasy presents truth through imaginative situations." 
+}, 
+{ 
+"question_id": 139, 
+"question_type": "SHORT", 
+"question": "Why is personal growth emphasized more than achievement?", 
+"answer": "Personal growth leads to lasting fulfillment and moral strength." 
+}, 
+{ 
+"question_id": 140, 
+"question_type": "SHORT", 
+"question": "What inner change defines the end of Gautama’s quest?", 
+"answer": "The realization of peace through understanding suffering." 
+}, 
+{ 
+"question_id": 141, 
+"question_type": "SHORT", 
+"question": "How does Voyage Four address human responsibility?", 
+"answer": "It stresses accountability for actions and choices." 
+}, 
+{ 
+"question_id": 142, 
+"question_type": "SHORT", 
+"question": "What lesson does autumn teach about letting go?", 
+"answer": "Letting go is natural and necessary for renewal." 
+}, 
+{ 
+"question_id": 143, 
+"question_type": "SHORT", 
+"question": "Why is kindness described as sufficient purpose?", 
+"answer": "Because it brings comfort and reduces suffering." 
+}, 
+{ 
+"question_id": 144, 
+"question_type": "SHORT", 
+"question": "How does imagination guide moral insight?", 
+"answer": "It allows deeper reflection beyond literal events." 
+}, 
+{ 
+"question_id": 145, 
+"question_type": "SHORT", 
+"question": "What shared message emerges from all lessons?", 
+"answer": "A life of empathy, awareness, and growth is meaningful." 
+}, 
+{ 
+"question_id": 146, 
+"question_type": "SHORT", 
+"question": "How does Voyage Four redefine success?", 
+"answer": "Success is redefined as inner fulfillment and compassion." 
+}, 
+{ 
+"question_id": 147, 
+"question_type": "SHORT", 
+"question": "Why is reflection essential in the voyage?", 
+"answer": "Reflection helps individuals understand themselves and others." 
+}, 
+{ 
+"question_id": 148, 
+"question_type": "SHORT", 
+"question": "What lasting impression does Voyage Four leave?", 
+"answer": "It leaves an impression of thoughtful and empathetic living." 
+}, 
+{ 
+"question_id": 149, 
+"question_type": "SHORT", 
+"question": "How does literature guide moral awareness in this voyage?", 
+"answer": "Literature presents values through stories and emotions." 
+}, 
+{ 
+"question_id": 150, 
+"question_type": "SHORT", 
+"question": "Why is Voyage Four significant in the textbook?", 
+"answer": "It consolidates moral, emotional, and intellectual growth." 
+} 
+] 
+} 

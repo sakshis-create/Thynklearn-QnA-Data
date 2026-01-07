@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.10",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "चिंटू रुसला... चिंटू हसला"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "चिंटू रोज कोणती चूक करायचा?",
+      "options": [
+        { "option_id": 1, "text": "उशीरा झोपायचा", "is_correct": false },
+        { "option_id": 2, "text": "रोज उशिरा उठायचा", "is_correct": true },
+        { "option_id": 3, "text": "शाळेत जायचा नाही", "is_correct": false },
+        { "option_id": 4, "text": "खेळायला जायचा नाही", "is_correct": false }
+      ],
+      "answer": "रोज उशिरा उठायचा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "चिंटू शाळेत कसा जायचा?",
+      "options": [
+        { "option_id": 1, "text": "शांतपणे", "is_correct": false },
+        { "option_id": 2, "text": "खूप लवकर", "is_correct": false },
+        { "option_id": 3, "text": "धावतपळत", "is_correct": true },
+        { "option_id": 4, "text": "हळू चालत", "is_correct": false }
+      ],
+      "answer": "धावतपळत"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "चिंटूच्या विस्कटलेल्या केसांवर आणि चुरगळलेल्या कपड्यांवर मुले काय करायची?",
+      "options": [
+        { "option_id": 1, "text": "त्याचे कौतुक करायची", "is_correct": false },
+        { "option_id": 2, "text": "रडायची", "is_correct": false },
+        { "option_id": 3, "text": "हसायची आणि चिडवायची", "is_correct": true },
+        { "option_id": 4, "text": "खेळायची", "is_correct": false }
+      ],
+      "answer": "हसायची आणि चिडवायची"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "चिंटूला अभ्यास करताना कसे वाटायचे?",
+      "options": [
+        { "option_id": 1, "text": "खूप आवडायचे", "is_correct": false },
+        { "option_id": 2, "text": "आनंद वाटायचा नाही", "is_correct": true },
+        { "option_id": 3, "text": "मजा वाटायची", "is_correct": false },
+        { "option_id": 4, "text": "अभिमान वाटायचा", "is_correct": false }
+      ],
+      "answer": "आनंद वाटायचा नाही"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मुले चिंटूसोबत का खेळत नसत?",
+      "options": [
+        { "option_id": 1, "text": "तो भांडायचा", "is_correct": false },
+        { "option_id": 2, "text": "तो रडायचा", "is_correct": false },
+        { "option_id": 3, "text": "तो विस्कळीत दिसायचा", "is_correct": true },
+        { "option_id": 4, "text": "तो आजारी होता", "is_correct": false }
+      ],
+      "answer": "तो विस्कळीत दिसायचा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "चिंटूच्या जवळ कोण आली?",
+      "options": [
+        { "option_id": 1, "text": "आजोबा", "is_correct": false },
+        { "option_id": 2, "text": "मित्र", "is_correct": false },
+        { "option_id": 3, "text": "ऋतुजाताई", "is_correct": true },
+        { "option_id": 4, "text": "शिक्षक", "is_correct": false }
+      ],
+      "answer": "ऋतुजाताई"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ऋतुजाताईंनी चिंटूला पहिला कोणता सल्ला दिला?",
+      "options": [
+        { "option_id": 1, "text": "रोज अभ्यास करायचा", "is_correct": false },
+        { "option_id": 2, "text": "खेळायचे", "is_correct": false },
+        { "option_id": 3, "text": "रोज सकाळी लवकर उठायचे", "is_correct": true },
+        { "option_id": 4, "text": "मित्रांना रागवायचे", "is_correct": false }
+      ],
+      "answer": "रोज सकाळी लवकर उठायचे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ऋतुजाताईंनी सांगितलेल्या सवयींपैकी कोणती सवय आहे?",
+      "options": [
+        { "option_id": 1, "text": "केस विस्कटायचे", "is_correct": false },
+        { "option_id": 2, "text": "दात घासायचे", "is_correct": true },
+        { "option_id": 3, "text": "शाळा टाळायची", "is_correct": false },
+        { "option_id": 4, "text": "खेळायचे नाही", "is_correct": false }
+      ],
+      "answer": "दात घासायचे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "दुसऱ्या दिवशी चिंटू काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "पुन्हा उशिरा उठतो", "is_correct": false },
+        { "option_id": 2, "text": "शाळेत जात नाही", "is_correct": false },
+        { "option_id": 3, "text": "लवकर उठून सगळे काम नीट करतो", "is_correct": true },
+        { "option_id": 4, "text": "खेळायला जातो", "is_correct": false }
+      ],
+      "answer": "लवकर उठून सगळे काम नीट करतो"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आरशात स्वतःकडे पाहून चिंटूला कसे वाटले?",
+      "options": [
+        { "option_id": 1, "text": "वाईट", "is_correct": false },
+        { "option_id": 2, "text": "रडू आले", "is_correct": false },
+        { "option_id": 3, "text": "सुंदर वाटले आणि आनंद झाला", "is_correct": true },
+        { "option_id": 4, "text": "राग आला", "is_correct": false }
+      ],
+      "answer": "सुंदर वाटले आणि आनंद झाला"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "शाळेत चिंटूभोवती काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "कोणी आले नाही", "is_correct": false },
+        { "option_id": 2, "text": "मुले दूर गेली", "is_correct": false },
+        { "option_id": 3, "text": "मुले गोळा झाली", "is_correct": true },
+        { "option_id": 4, "text": "शिक्षक रागावले", "is_correct": false }
+      ],
+      "answer": "मुले गोळा झाली"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "शिक्षकांनी चिंटूचे काय केले?",
+      "options": [
+        { "option_id": 1, "text": "रागावले", "is_correct": false },
+        { "option_id": 2, "text": "दंड केला", "is_correct": false },
+        { "option_id": 3, "text": "कौतुक केले", "is_correct": true },
+        { "option_id": 4, "text": "शाळेतून काढले", "is_correct": false }
+      ],
+      "answer": "कौतुक केले"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शेवटी चिंटू कसा झाला?",
+      "options": [
+        { "option_id": 1, "text": "रुसलेला", "is_correct": false },
+        { "option_id": 2, "text": "दुःखी", "is_correct": false },
+        { "option_id": 3, "text": "आनंदी आणि हसरा", "is_correct": true },
+        { "option_id": 4, "text": "घाबरलेला", "is_correct": false }
+      ],
+      "answer": "आनंदी आणि हसरा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या गोष्टीत मुख्य संदेश कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "उशीरा उठावे", "is_correct": false },
+        { "option_id": 2, "text": "शाळेत न जायचे", "is_correct": false },
+        { "option_id": 3, "text": "स्वच्छता आणि शिस्त महत्त्वाची आहे", "is_correct": true },
+        { "option_id": 4, "text": "मित्रांवर रागवायचे", "is_correct": false }
+      ],
+      "answer": "स्वच्छता आणि शिस्त महत्त्वाची आहे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘व्यवस्थितपणा म्हणजेच सुंदरता’ — याचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "काम विस्कळीत करणे", "is_correct": false },
+        { "option_id": 2, "text": "रागावणे", "is_correct": false },
+        { "option_id": 3, "text": "काम वेळच्या वेळी आणि नीट करणे", "is_correct": true },
+        { "option_id": 4, "text": "शाळेत न जाणे", "is_correct": false }
+      ],
+      "answer": "काम वेळच्या वेळी आणि नीट करणे"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "चिंटूला मित्र नव्हते, कारण काय?",
+      "answer": "कारण तो विस्कळीत, उशिरा आणि अस्ताव्यस्त शाळेत जायचा."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "चिंटू रुसून काय करायचा?",
+      "answer": "तो स्वतःवर रुसायचा आणि एकटाच बसून विचार करायचा."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ऋतुजाताईंनी चिंटूला काय सांगितले?",
+      "answer": "स्वच्छ राहणे, लवकर उठणे, दात घासणे, अभ्यास करणे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "दुसऱ्या दिवशी चिंटूने काय बदल केले?",
+      "answer": "तो लवकर उठला, स्वच्छ राहिला आणि अभ्यास केला."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "आरशात स्वतःकडे पाहून चिंटूला काय वाटले?",
+      "answer": "तो नीटनेटका आणि सुंदर दिसत होता, म्हणून आनंद झाला."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शाळेत चिंटूभोवती मुले का गोळा झाली?",
+      "answer": "कारण चिंटू स्वच्छ, आनंदी आणि नीट दिसत होता."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "शिक्षकांनी चिंटूचे कौतुक का केले?",
+      "answer": "कारण त्याने स्वच्छ आणि शिस्तप्रिय सवयी अंगीकारल्या."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "व्यवस्थितपणाचे दोन उदाहरणे लिहा.",
+      "answer": "वस्तू जागेवर ठेवणे, रांगेत उभे राहणे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "तुला मित्र मिळावेत तर काय करावे?",
+      "answer": "स्वच्छ राहावे, शिस्तीने वागावे आणि प्रेमाने बोलावे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "चिंटू शेवटी हसू लागला, कारण काय?",
+      "answer": "कारण त्याला नवे मित्र मिळाले आणि कौतुक झाले."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तू सकाळी शाळेत जाण्यापूर्वी कोणती दोन कामे करतोस?",
+      "answer": "दात घासतो, अंघोळ करतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "स्वच्छ राहण्याचे एक फायदे लिहा.",
+      "answer": "मित्र मिळतात आणि सर्वजण आपल्यावर प्रेम करतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "उशीरा झोपलो तर काय होईल?",
+      "answer": "उशिरा उठू आणि शाळेला उशीर होईल."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "चिंटूने आयुष्यात कोणता बदल केला?",
+      "answer": "त्याने शिस्त, स्वच्छता आणि व्यवस्थितपणा स्वीकारला."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या गोष्टीतून तुला काय शिकायला मिळाले?",
+      "answer": "व्यवस्थित, स्वच्छ आणि शिस्तीने राहणे आवश्यक आहे."
+    }
+  ]
+}

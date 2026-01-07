@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.KKS.12",
+    "standard": "2",
+    "subject": "Khelu_Karu_Shiku",
+    "medium": "Marathi",
+    "chapter_name": "शिल्प"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "शिल्प बनवण्यासाठी मुख्यतः कोणता पदार्थ वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "लाकूड", "is_correct": false },
+        { "option_id": 2, "text": "माती", "is_correct": true },
+        { "option_id": 3, "text": "कागद", "is_correct": false },
+        { "option_id": 4, "text": "धातू", "is_correct": false }
+      ],
+      "answer": "माती"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मातीचे शिल्प बनवताना हात कसे असावेत?",
+      "options": [
+        { "option_id": 1, "text": "ओले", "is_correct": false },
+        { "option_id": 2, "text": "स्वच्छ आणि कोरडे", "is_correct": true },
+        { "option_id": 3, "text": "रेतीने भरलेले", "is_correct": false },
+        { "option_id": 4, "text": "रंगलेले", "is_correct": false }
+      ],
+      "answer": "स्वच्छ आणि कोरडे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "माती मळल्यावर ती कशी होते?",
+      "options": [
+        { "option_id": 1, "text": "कडक", "is_correct": false },
+        { "option_id": 2, "text": "मऊ आणि लवचिक", "is_correct": true },
+        { "option_id": 3, "text": "खडबडीत", "is_correct": false },
+        { "option_id": 4, "text": "तुटकी", "is_correct": false }
+      ],
+      "answer": "मऊ आणि लवचिक"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शिल्प तयार करताना काय प्रथम बनवावे?",
+      "options": [
+        { "option_id": 1, "text": "छोटे भाग", "is_correct": false },
+        { "option_id": 2, "text": "आकाराचा मूलभूत ढाचा", "is_correct": true },
+        { "option_id": 3, "text": "रंग", "is_correct": false },
+        { "option_id": 4, "text": "केस", "is_correct": false }
+      ],
+      "answer": "आकाराचा मूलभूत ढाचा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "शिल्प वाळवताना कुठे ठेवावे?",
+      "options": [
+        { "option_id": 1, "text": "सूर्यप्रकाशात", "is_correct": true },
+        { "option_id": 2, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 3, "text": "फ्रीजमध्ये", "is_correct": false },
+        { "option_id": 4, "text": "ओल्या जमिनीवर", "is_correct": false }
+      ],
+      "answer": "सूर्यप्रकाशात"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मातीचे शिल्प बनवताना कशी बसावे?",
+      "options": [
+        { "option_id": 1, "text": "वाकून", "is_correct": false },
+        { "option_id": 2, "text": "सरळ आणि आरामात", "is_correct": true },
+        { "option_id": 3, "text": "उभे राहून", "is_correct": false },
+        { "option_id": 4, "text": "धावत", "is_correct": false }
+      ],
+      "answer": "सरळ आणि आरामात"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शिल्प बनवताना सर्वात आधी कोणता आकार तयार करतात?",
+      "options": [
+        { "option_id": 1, "text": "लहान तपशील", "is_correct": false },
+        { "option_id": 2, "text": "मोठा बाह्य आकार", "is_correct": true },
+        { "option_id": 3, "text": "डोळे", "is_correct": false },
+        { "option_id": 4, "text": "नाक", "is_correct": false }
+      ],
+      "answer": "मोठा बाह्य आकार"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शिल्पावर रंग कधी करावा?",
+      "options": [
+        { "option_id": 1, "text": "ओले असताना", "is_correct": false },
+        { "option_id": 2, "text": "पूर्ण वाळल्यानंतर", "is_correct": true },
+        { "option_id": 3, "text": "माती मळण्याआधी", "is_correct": false },
+        { "option_id": 4, "text": "माती फोडल्यानंतर", "is_correct": false }
+      ],
+      "answer": "पूर्ण वाळल्यानंतर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "शिल्प बनवताना कोणती गोष्ट टाळावी?",
+      "options": [
+        { "option_id": 1, "text": "माती फेकणे", "is_correct": true },
+        { "option_id": 2, "text": "हळूवार आकार देणे", "is_correct": false },
+        { "option_id": 3, "text": "समतोल ठेवणे", "is_correct": false },
+        { "option_id": 4, "text": "जपून काम करणे", "is_correct": false }
+      ],
+      "answer": "माती फेकणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "माती शिल्पासाठी का वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "ती जड असते", "is_correct": false },
+        { "option_id": 2, "text": "ती मऊ आणि आकार बदलू शकते", "is_correct": true },
+        { "option_id": 3, "text": "ती कडक असते", "is_correct": false },
+        { "option_id": 4, "text": "ती पाणी बनते", "is_correct": false }
+      ],
+      "answer": "ती मऊ आणि आकार बदलू शकते"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "शिल्पाला आधार का देतात?",
+      "options": [
+        { "option_id": 1, "text": "ते पडू नये म्हणून", "is_correct": true },
+        { "option_id": 2, "text": "ते तुटावे म्हणून", "is_correct": false },
+        { "option_id": 3, "text": "रंग वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "आवाज करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "ते पडू नये म्हणून"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मातीवर जास्त दाब दिल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "शिल्प नीट उभे राहते", "is_correct": false },
+        { "option_id": 2, "text": "आकार विस्कळीत होतो", "is_correct": true },
+        { "option_id": 3, "text": "रंग वाढतो", "is_correct": false },
+        { "option_id": 4, "text": "माती चमकते", "is_correct": false }
+      ],
+      "answer": "आकार विस्कळीत होतो"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शिल्प तयार करताना काय विकसित होते?",
+      "options": [
+        { "option_id": 1, "text": "सर्जनशीलता व कल्पनाशक्ती", "is_correct": true },
+        { "option_id": 2, "text": "राग", "is_correct": false },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "भांडण", "is_correct": false }
+      ],
+      "answer": "सर्जनशीलता व कल्पनाशक्ती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "शिल्प तयार करताना काय पाळावे?",
+      "options": [
+        { "option_id": 1, "text": "शिस्त आणि स्वच्छता", "is_correct": true },
+        { "option_id": 2, "text": "गोंधळ", "is_correct": false },
+        { "option_id": 3, "text": "घाई", "is_correct": false },
+        { "option_id": 4, "text": "अस्वच्छता", "is_correct": false }
+      ],
+      "answer": "शिस्त आणि स्वच्छता"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "शिल्प बनवण्याचा मुख्य फायदा कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "लेखनकौशल्य वाढते", "is_correct": false },
+        { "option_id": 2, "text": "कलात्मक कौशल्य वाढते", "is_correct": true },
+        { "option_id": 3, "text": "धावण्याची गती वाढते", "is_correct": false },
+        { "option_id": 4, "text": "खेळ कमी होतो", "is_correct": false }
+      ],
+      "answer": "कलात्मक कौशल्य वाढते"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "शिल्प म्हणजे काय?",
+      "answer": "माती किंवा इतर पदार्थ वापरून तयार केलेला आकार किंवा मूर्ती म्हणजे शिल्प."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "माती मळणे का गरजेचे आहे?",
+      "answer": "माती मळल्याने ती मऊ आणि लवचिक होते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "शिल्प बनवताना कशी जागा निवडावी?",
+      "answer": "स्वच्छ, मोकळी आणि सुरक्षित जागा निवडावी."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "शिल्पाला आधार देणे का महत्त्वाचे आहे?",
+      "answer": "आधार दिल्याने शिल्प पडत नाही आणि स्थिर राहते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "शिल्प वाळवल्यानंतर काय करतात?",
+      "answer": "शिल्प वाळवल्यानंतर त्यावर रंग करतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मातीचे शिल्प सांभाळून का ठेवावे?",
+      "answer": "कारण ते तुटण्याची शक्यता असते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "शिल्प बनवताना आपसात सहकार्य का आवश्यक आहे?",
+      "answer": "सहकार्याने काम सोपे व आनंददायक होते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "मातीवर जास्त दाब का देऊ नये?",
+      "answer": "जास्त दाब दिल्यास आकार बिघडतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "शिल्पकलेत कल्पकता कशी उपयोगी पडते?",
+      "answer": "नवीन आणि सुंदर आकार तयार करण्यास मदत होते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "शिल्प करताना स्वच्छता का महत्त्वाची आहे?",
+      "answer": "स्वच्छतेमुळे काम नीटनेटके आणि सुरक्षित होते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तुला कोणते शिल्प बनवायला आवडेल? का?",
+      "answer": "मला प्राण्यांचे शिल्प बनवायला आवडेल कारण ते मजेदार आणि सुंदर दिसते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "शिल्प बनवताना संयम का आवश्यक आहे?",
+      "answer": "संयम ठेवल्यास शिल्प अधिक सुंदर तयार होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "शिल्पकला मुलांसाठी कशी उपयुक्त आहे?",
+      "answer": "शिल्पकलेमुळे सर्जनशीलता आणि एकाग्रता वाढते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मातीऐवजी कोणता दुसरा पदार्थ वापरता येतो?",
+      "answer": "प्ले-डो किंवा मातीसारखे पर्यायी मऊ पदार्थ वापरता येतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्याची मुख्य शिकवण काय?",
+      "answer": "शिल्पकलेत संयम, स्वच्छता, सर्जनशीलता आणि सहकार्य महत्त्वाचे आहेत."
+    }
+  ]
+}

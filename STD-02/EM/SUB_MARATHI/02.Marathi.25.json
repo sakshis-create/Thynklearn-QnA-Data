@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.25",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "कोण कोठे?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'वर' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "खाली", "is_correct": true },
+        { "option_id": 2, "text": "आत", "is_correct": false },
+        { "option_id": 3, "text": "बाहेर", "is_correct": false },
+        { "option_id": 4, "text": "जवळ", "is_correct": false }
+      ],
+      "answer": "खाली"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आकाश डोक्याच्या _____ असते.",
+      "options": [
+        { "option_id": 1, "text": "खाली", "is_correct": false },
+        { "option_id": 2, "text": "वर", "is_correct": true },
+        { "option_id": 3, "text": "आत", "is_correct": false },
+        { "option_id": 4, "text": "जवळ", "is_correct": false }
+      ],
+      "answer": "वर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "'आत' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "बाहेर", "is_correct": true },
+        { "option_id": 2, "text": "वर", "is_correct": false },
+        { "option_id": 3, "text": "खाली", "is_correct": false },
+        { "option_id": 4, "text": "दूर", "is_correct": false }
+      ],
+      "answer": "बाहेर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आपण घरात _____ राहतो.",
+      "options": [
+        { "option_id": 1, "text": "बाहेर", "is_correct": false },
+        { "option_id": 2, "text": "आत", "is_correct": true },
+        { "option_id": 3, "text": "दूर", "is_correct": false },
+        { "option_id": 4, "text": "वर", "is_correct": false }
+      ],
+      "answer": "आत"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'जवळ' च्या विरुद्ध शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "दूर", "is_correct": true },
+        { "option_id": 2, "text": "खाली", "is_correct": false },
+        { "option_id": 3, "text": "आत", "is_correct": false },
+        { "option_id": 4, "text": "समोर", "is_correct": false }
+      ],
+      "answer": "दूर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "झाडावरून फळ तुटल्यावर कोठे पडते?",
+      "options": [
+        { "option_id": 1, "text": "वर", "is_correct": false },
+        { "option_id": 2, "text": "खाली", "is_correct": true },
+        { "option_id": 3, "text": "आत", "is_correct": false },
+        { "option_id": 4, "text": "बाहेर", "is_correct": false }
+      ],
+      "answer": "खाली"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शाळा सुटल्यावर मुले वर्गाच्या _____ येतात.",
+      "options": [
+        { "option_id": 1, "text": "आत", "is_correct": false },
+        { "option_id": 2, "text": "बाहेर", "is_correct": true },
+        { "option_id": 3, "text": "वर", "is_correct": false },
+        { "option_id": 4, "text": "खाली", "is_correct": false }
+      ],
+      "answer": "बाहेर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सूर्य आपल्यापासून _____ आहे.",
+      "options": [
+        { "option_id": 1, "text": "जवळ", "is_correct": false },
+        { "option_id": 2, "text": "दूर", "is_correct": true },
+        { "option_id": 3, "text": "खाली", "is_correct": false },
+        { "option_id": 4, "text": "आत", "is_correct": false }
+      ],
+      "answer": "दूर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मांजर टेबलाच्या _____ बसू शकते.",
+      "options": [
+        { "option_id": 1, "text": "खाली", "is_correct": true },
+        { "option_id": 2, "text": "आत", "is_correct": false },
+        { "option_id": 3, "text": "बाहेर", "is_correct": false },
+        { "option_id": 4, "text": "दूर", "is_correct": false }
+      ],
+      "answer": "खाली"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पुस्तक दप्तराच्या _____ ठेवतात.",
+      "options": [
+        { "option_id": 1, "text": "बाहेर", "is_correct": false },
+        { "option_id": 2, "text": "आत", "is_correct": true },
+        { "option_id": 3, "text": "वर", "is_correct": false },
+        { "option_id": 4, "text": "खाली", "is_correct": false }
+      ],
+      "answer": "आत"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पतंग कोठे उडतो?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 2, "text": "आकाशात (वर)", "is_correct": true },
+        { "option_id": 3, "text": "जमिनीखाली", "is_correct": false },
+        { "option_id": 4, "text": "घरात", "is_correct": false }
+      ],
+      "answer": "आकाशात (वर)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मासे कोठे राहतात?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याच्या आत", "is_correct": true },
+        { "option_id": 2, "text": "पाण्याच्या बाहेर", "is_correct": false },
+        { "option_id": 3, "text": "झाडावर", "is_correct": false },
+        { "option_id": 4, "text": "आकाशात", "is_correct": false }
+      ],
+      "answer": "पाण्याच्या आत"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "तुमचा मित्र तुमच्या शेजारी बसला असेल तर तो _____ आहे.",
+      "options": [
+        { "option_id": 1, "text": "दूर", "is_correct": false },
+        { "option_id": 2, "text": "जवळ", "is_correct": true },
+        { "option_id": 3, "text": "वर", "is_correct": false },
+        { "option_id": 4, "text": "खाली", "is_correct": false }
+      ],
+      "answer": "जवळ"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "डोंगर आपल्यापासून कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "जवळ", "is_correct": false },
+        { "option_id": 2, "text": "दूर", "is_correct": true },
+        { "option_id": 3, "text": "आत", "is_correct": false },
+        { "option_id": 4, "text": "खाली", "is_correct": false }
+      ],
+      "answer": "दूर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या पाठात आपण काय शिकलो?",
+      "options": [
+        { "option_id": 1, "text": "फळांची नावे", "is_correct": false },
+        { "option_id": 2, "text": "जागा/ठिकाण दर्शवणारे शब्द", "is_correct": true },
+        { "option_id": 3, "text": "प्राण्यांची नावे", "is_correct": false },
+        { "option_id": 4, "text": "फुलांची नावे", "is_correct": false }
+      ],
+      "answer": "जागा/ठिकाण दर्शवणारे शब्द"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "'वर' आणि 'खाली' हे शब्द वापरून एक उदाहरण दया.",
+      "answer": "पंख वर फिरतो आणि आपण खाली बसतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पाणी माठाच्या कोठे असते?",
+      "answer": "पाणी माठाच्या 'आत' असते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "चंद्र कोठे असतो, वर की खाली?",
+      "answer": "चंद्र 'वर' आकाशात असतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "तुमची शाळा घरापासून जवळ आहे की दूर?",
+      "answer": "माझी शाळा घरापासून जवळ (किंवा दूर) आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "चपला आपण घराच्या कोठे काढतो?",
+      "answer": "चपला आपण घराच्या 'बाहेर' काढतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "'जवळ' चा विरुद्धार्थी शब्द सांगा.",
+      "answer": "दूर."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "'बाहेर' च्या विरुद्धार्थी शब्द कोणता?",
+      "answer": "आत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पक्षी घरट्याच्या कोठे राहतात?",
+      "answer": "पक्षी घरट्याच्या 'आत' राहतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "विमान कोठून उडते?",
+      "answer": "विमान 'वर' आकाशातून उडते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "झाडाच्या 'खाली' कोण बसू शकते?",
+      "answer": "झाडाच्या 'खाली' माणूस किंवा प्राणी बसू शकतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तुम्ही बागेत गेल्यावर गेटच्या कोठे असता?",
+      "answer": "आम्ही बागेत गेल्यावर गेटच्या 'आत' असतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "तुमचे पुस्तक बाकाच्या (Bench) कोठे आहे?",
+      "answer": "माझे पुस्तक बाकाच्या 'वर' (किंवा 'आत' दप्तरात) आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "या पाठाचे नाव काय आहे?",
+      "answer": "या पाठाचे नाव 'कोण कोठे?' आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "शिक्षक वर्गाच्या _____ आहेत.",
+      "answer": "शिक्षक वर्गाच्या 'आत' आहेत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "नदी पुलाच्या कोठून वाहते?",
+      "answer": "नदी पुलाच्या 'खालून' (खाली) वाहते."
+    }
+  ]
+}

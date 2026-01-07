@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.2.6",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Science and Spirituality"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does Dr. Kalam say science provides?",
+      "options": [
+        { "option_id": 1, "text": "Perspective", "is_correct": false },
+        { "option_id": 2, "text": "Focus", "is_correct": true },
+        { "option_id": 3, "text": "Faith", "is_correct": false },
+        { "option_id": 4, "text": "Solace", "is_correct": false }
+      ],
+      "answer": "Focus"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does Dr. Kalam say faith provides?",
+      "options": [
+        { "option_id": 1, "text": "Focus", "is_correct": false },
+        { "option_id": 2, "text": "Perspective", "is_correct": true },
+        { "option_id": 3, "text": "Technology", "is_correct": false },
+        { "option_id": 4, "text": "Inventions", "is_correct": false }
+      ],
+      "answer": "Perspective"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who was Dr. Kalam's father?",
+      "options": [
+        { "option_id": 1, "text": "A scientist", "is_correct": false },
+        { "option_id": 2, "text": "A teacher", "is_correct": false },
+        { "option_id": 3, "text": "A boatman and an imam", "is_correct": true },
+        { "option_id": 4, "text": "A doctor", "is_correct": false }
+      ],
+      "answer": "A boatman and an imam"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who was the head priest of the Rameswara temple mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Father Bodal", "is_correct": false },
+        { "option_id": 2, "text": "Pakshi Lakshmana Shastrigal", "is_correct": true },
+        { "option_id": 3, "text": "Sri Sri Shivakumara Mahaswamiji", "is_correct": false },
+        { "option_id": 4, "text": "Pramukh Swamiji", "is_correct": false }
+      ],
+      "answer": "Pakshi Lakshmana Shastrigal"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Where did Dr. Kalam join in the 1960s?",
+      "options": [
+        { "option_id": 1, "text": "NASA", "is_correct": false },
+        { "option_id": 2, "text": "IIMA", "is_correct": false },
+        { "option_id": 3, "text": "ISRO", "is_correct": true },
+        { "option_id": 4, "text": "DRDO", "is_correct": false }
+      ],
+      "answer": "ISRO"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which site was selected for the space research facility in Kerala?",
+      "options": [
+        { "option_id": 1, "text": "Kochi", "is_correct": false },
+        { "option_id": 2, "text": "Thumba", "is_correct": true },
+        { "option_id": 3, "text": "Trivandrum", "is_correct": false },
+        { "option_id": 4, "text": "Alleppey", "is_correct": false }
+      ],
+      "answer": "Thumba"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why was Thumba selected as the site?",
+      "options": [
+        { "option_id": 1, "text": "It was near the sea", "is_correct": false },
+        { "option_id": 2, "text": "It was near the magnetic equator", "is_correct": true },
+        { "option_id": 3, "text": "It had a lot of land", "is_correct": false },
+        { "option_id": 4, "text": "It was a religious place", "is_correct": false }
+      ],
+      "answer": "It was near the magnetic equator"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who was the bishop of the region where the space centre was to be built?",
+      "options": [
+        { "option_id": 1, "text": "Father Bodal", "is_correct": false },
+        { "option_id": 2, "text": "Reverend Peter Bernard Pereira", "is_correct": true },
+        { "option_id": 3, "text": "Swami Sivananda", "is_correct": false },
+        { "option_id": 4, "text": "Vikram Sarabhai", "is_correct": false }
+      ],
+      "answer": "Reverend Peter Bernard Pereira"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What day did Dr. Kalam and Dr. Sarabhai approach Father Pereira?",
+      "options": [
+        { "option_id": 1, "text": "Sunday morning", "is_correct": false },
+        { "option_id": 2, "text": "Saturday evening", "is_correct": true },
+        { "option_id": 3, "text": "Friday afternoon", "is_correct": false },
+        { "option_id": 4, "text": "Monday morning", "is_correct": false }
+      ],
+      "answer": "Saturday evening"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who invited Dr. Sarabhai to the dais at the church?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Kalam", "is_correct": false },
+        { "option_id": 2, "text": "The government officials", "is_correct": false },
+        { "option_id": 3, "text": "Reverend Peter Bernard Pereira", "is_correct": true },
+        { "option_id": 4, "text": "The fishermen", "is_correct": false }
+      ],
+      "answer": "Reverend Peter Bernard Pereira"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was the Director of ISRO in the early 1980s?",
+      "options": [
+        { "option_id": 1, "text": "Vikram Sarabhai", "is_correct": false },
+        { "option_id": 2, "text": "Satish Dhawan", "is_correct": true },
+        { "option_id": 3, "text": "A.P.J. Abdul Kalam", "is_correct": false },
+        { "option_id": 4, "text": "Brahma Prakash", "is_correct": false }
+      ],
+      "answer": "Satish Dhawan"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What did Professor Dhawan compare academic brilliance to?",
+      "options": [
+        { "option_id": 1, "text": "A diamond", "is_correct": false },
+        { "option_id": 2, "text": "A mirror", "is_correct": true },
+        { "option_id": 3, "text": "A light bulb", "is_correct": false },
+        { "option_id": 4, "text": "A calm sea", "is_correct": false }
+      ],
+      "answer": "A mirror"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where did Dr. Kalam meet Srijan Pal Singh after his graduation?",
+      "options": [
+        { "option_id": 1, "text": "ISRO", "is_correct": false },
+        { "option_id": 2, "text": "IIMA", "is_correct": true },
+        { "option_id": 3, "text": "Tumkur", "is_correct": false },
+        { "option_id": 4, "text": "Rameswaram", "is_correct": false }
+      ],
+      "answer": "IIMA"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which birthday of Dr. Sri Sri Shivakumara Mahaswamiji did Dr. Kalam attend?",
+      "options": [
+        { "option_id": 1, "text": "100th", "is_correct": false },
+        { "option_id": 2, "text": "102nd", "is_correct": true },
+        { "option_id": 3, "text": "90th", "is_correct": false },
+        { "option_id": 4, "text": "105th", "is_correct": false }
+      ],
+      "answer": "102nd"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Where is the ashram of Dr. Sri Sri Shivakumara Mahaswamiji located?",
+      "options": [
+        { "option_id": 1, "text": "Thumba", "is_correct": false },
+        { "option_id": 2, "text": "Tumkur, Karnataka", "is_correct": true },
+        { "option_id": 3, "text": "Rishikesh", "is_correct": false },
+        { "option_id": 4, "text": "Ahmedabad", "is_correct": false }
+      ],
+      "answer": "Tumkur, Karnataka"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What was the most astonishing aspect of the 102nd birthday event?",
+      "options": [
+        { "option_id": 1, "text": "The number of people", "is_correct": false },
+        { "option_id": 2, "text": "The Swamiji standing without support", "is_correct": true },
+        { "option_id": 3, "text": "The food served", "is_correct": false },
+        { "option_id": 4, "text": "The speech by Dr. Kalam", "is_correct": false }
+      ],
+      "answer": "The Swamiji standing without support"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who espoused the value of 'giving back'?",
+      "options": [
+        { "option_id": 1, "text": "Professor Dhawan", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Kalam's father", "is_correct": true },
+        { "option_id": 3, "text": "Srijan Pal Singh", "is_correct": false },
+        { "option_id": 4, "text": "Vikram Sarabhai", "is_correct": false }
+      ],
+      "answer": "Dr. Kalam's father"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What keeps Mahaswamiji standing tall according to Dr. Kalam?",
+      "options": [
+        { "option_id": 1, "text": "His diet", "is_correct": false },
+        { "option_id": 2, "text": "His genetics", "is_correct": false },
+        { "option_id": 3, "text": "His munificence (giving)", "is_correct": true },
+        { "option_id": 4, "text": "His medicines", "is_correct": false }
+      ],
+      "answer": "His munificence (giving)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the reverse of 'What can I give'?",
+      "options": [
+        { "option_id": 1, "text": "What can I do?", "is_correct": false },
+        { "option_id": 2, "text": "What can I take?", "is_correct": true },
+        { "option_id": 3, "text": "Who will help me?", "is_correct": false },
+        { "option_id": 4, "text": "Why should I give?", "is_correct": false }
+      ],
+      "answer": "What can I take?"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which movement was launched in 2012?",
+      "options": [
+        { "option_id": 1, "text": "Clean India", "is_correct": false },
+        { "option_id": 2, "text": "What Can I Give", "is_correct": true },
+        { "option_id": 3, "text": "Save Earth", "is_correct": false },
+        { "option_id": 4, "text": "Education for All", "is_correct": false }
+      ],
+      "answer": "What Can I Give"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The study of the basic nature of knowledge, reality and existence is called _____.",
+      "options": [
+        { "option_id": 1, "text": "Science", "is_correct": false },
+        { "option_id": 2, "text": "Theology", "is_correct": false },
+        { "option_id": 3, "text": "Philosophy", "is_correct": true },
+        { "option_id": 4, "text": "Religion", "is_correct": false }
+      ],
+      "answer": "Philosophy"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "According to the text, science without religion is _____.",
+      "options": [
+        { "option_id": 1, "text": "blind", "is_correct": false },
+        { "option_id": 2, "text": "lame", "is_correct": true },
+        { "option_id": 3, "text": "deaf", "is_correct": false },
+        { "option_id": 4, "text": "mute", "is_correct": false }
+      ],
+      "answer": "lame"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "According to the text, religion without science is _____.",
+      "options": [
+        { "option_id": 1, "text": "blind", "is_correct": true },
+        { "option_id": 2, "text": "lame", "is_correct": false },
+        { "option_id": 3, "text": "weak", "is_correct": false },
+        { "option_id": 4, "text": "strong", "is_correct": false }
+      ],
+      "answer": "blind"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Dr. Kalam believes science and faith must coexist for _____.",
+      "options": [
+        { "option_id": 1, "text": "financial gain", "is_correct": false },
+        { "option_id": 2, "text": "the human good", "is_correct": true },
+        { "option_id": 3, "text": "political power", "is_correct": false },
+        { "option_id": 4, "text": "personal fame", "is_correct": false }
+      ],
+      "answer": "the human good"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What curbs the progress of science within reasonable limitations?",
+      "options": [
+        { "option_id": 1, "text": "Government", "is_correct": false },
+        { "option_id": 2, "text": "Faith", "is_correct": true },
+        { "option_id": 3, "text": "Money", "is_correct": false },
+        { "option_id": 4, "text": "Technology", "is_correct": false }
+      ],
+      "answer": "Faith"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'fledgling'?",
+      "options": [
+        { "option_id": 1, "text": "Old and established", "is_correct": false },
+        { "option_id": 2, "text": "New and inexperienced", "is_correct": true },
+        { "option_id": 3, "text": "Flying high", "is_correct": false },
+        { "option_id": 4, "text": "Large and vast", "is_correct": false }
+      ],
+      "answer": "New and inexperienced"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who was the forever-inquisitive disciple mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Vikram Sarabhai", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Kalam", "is_correct": true },
+        { "option_id": 3, "text": "Srijan Pal Singh", "is_correct": false },
+        { "option_id": 4, "text": "Satish Dhawan", "is_correct": false }
+      ],
+      "answer": "Dr. Kalam"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The Reverend Father Bodal built the first _____ on Rameswara Island.",
+      "options": [
+        { "option_id": 1, "text": "temple", "is_correct": false },
+        { "option_id": 2, "text": "church", "is_correct": true },
+        { "option_id": 3, "text": "mosque", "is_correct": false },
+        { "option_id": 4, "text": "school", "is_correct": false }
+      ],
+      "answer": "church"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Dr. Kalam's first launch in 1970 was _____.",
+      "options": [
+        { "option_id": 1, "text": "successful", "is_correct": false },
+        { "option_id": 2, "text": "unsuccessful", "is_correct": true },
+        { "option_id": 3, "text": "delayed", "is_correct": false },
+        { "option_id": 4, "text": "cancelled", "is_correct": false }
+      ],
+      "answer": "unsuccessful"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Dr. Kalam's launch in 1980 was _____.",
+      "options": [
+        { "option_id": 1, "text": "successful", "is_correct": true },
+        { "option_id": 2, "text": "unsuccessful", "is_correct": false },
+        { "option_id": 3, "text": "delayed", "is_correct": false },
+        { "option_id": 4, "text": "cancelled", "is_correct": false }
+      ],
+      "answer": "successful"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What diminishes the brilliance of a mirror according to Prof. Dhawan?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Light", "is_correct": false },
+        { "option_id": 3, "text": "A coating of dust", "is_correct": true },
+        { "option_id": 4, "text": "Scratches", "is_correct": false }
+      ],
+      "answer": "A coating of dust"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "The 'What Can I Give' movement aims to combat _____.",
+      "options": [
+        { "option_id": 1, "text": "corruption and environmental degradation", "is_correct": true },
+        { "option_id": 2, "text": "poverty only", "is_correct": false },
+        { "option_id": 3, "text": "illiteracy only", "is_correct": false },
+        { "option_id": 4, "text": "unemployment only", "is_correct": false }
+      ],
+      "answer": "corruption and environmental degradation"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who is the author/narrator of this text?",
+      "options": [
+        { "option_id": 1, "text": "A.P.J. Abdul Kalam", "is_correct": false },
+        { "option_id": 2, "text": "Srijan Pal Singh", "is_correct": true },
+        { "option_id": 3, "text": "Vikram Sarabhai", "is_correct": false },
+        { "option_id": 4, "text": "Satish Dhawan", "is_correct": false }
+      ],
+      "answer": "Srijan Pal Singh"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'famished'?",
+      "options": [
+        { "option_id": 1, "text": "Famous", "is_correct": false },
+        { "option_id": 2, "text": "Rich", "is_correct": false },
+        { "option_id": 3, "text": "Extremely hungry", "is_correct": true },
+        { "option_id": 4, "text": "Tired", "is_correct": false }
+      ],
+      "answer": "Extremely hungry"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What does 'circumspectly' mean?",
+      "options": [
+        { "option_id": 1, "text": "Loudly", "is_correct": false },
+        { "option_id": 2, "text": "Cautiously", "is_correct": true },
+        { "option_id": 3, "text": "Happily", "is_correct": false },
+        { "option_id": 4, "text": "Angrily", "is_correct": false }
+      ],
+      "answer": "Cautiously"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What does 'inequity' mean?",
+      "options": [
+        { "option_id": 1, "text": "Equality", "is_correct": false },
+        { "option_id": 2, "text": "Injustice", "is_correct": true },
+        { "option_id": 3, "text": "Honesty", "is_correct": false },
+        { "option_id": 4, "text": "Wealth", "is_correct": false }
+      ],
+      "answer": "Injustice"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What was the collective response of the people in the church?",
+      "options": [
+        { "option_id": 1, "text": "No", "is_correct": false },
+        { "option_id": 2, "text": "Amen", "is_correct": true },
+        { "option_id": 3, "text": "Silence", "is_correct": false },
+        { "option_id": 4, "text": "Wait", "is_correct": false }
+      ],
+      "answer": "Amen"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "How many children does Mahaswamiji's ashram educate?",
+      "options": [
+        { "option_id": 1, "text": "More than nine thousand", "is_correct": true },
+        { "option_id": 2, "text": "Five thousand", "is_correct": false },
+        { "option_id": 3, "text": "One lakh", "is_correct": false },
+        { "option_id": 4, "text": "One thousand", "is_correct": false }
+      ],
+      "answer": "More than nine thousand"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Where did the narrator meet Dr. Kalam in 2009?",
+      "options": [
+        { "option_id": 1, "text": "ISRO", "is_correct": false },
+        { "option_id": 2, "text": "IIMA", "is_correct": true },
+        { "option_id": 3, "text": "Tumkur", "is_correct": false },
+        { "option_id": 4, "text": "Delhi", "is_correct": false }
+      ],
+      "answer": "IIMA"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'munificence'?",
+      "options": [
+        { "option_id": 1, "text": "Intelligence", "is_correct": false },
+        { "option_id": 2, "text": "Generosity", "is_correct": true },
+        { "option_id": 3, "text": "Strength", "is_correct": false },
+        { "option_id": 4, "text": "Weakness", "is_correct": false }
+      ],
+      "answer": "Generosity"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which word means 'echoed loudly'?",
+      "options": [
+        { "option_id": 1, "text": "Resonated", "is_correct": false },
+        { "option_id": 2, "text": "Reverberated", "is_correct": true },
+        { "option_id": 3, "text": "Whispered", "is_correct": false },
+        { "option_id": 4, "text": "Stated", "is_correct": false }
+      ],
+      "answer": "Reverberated"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What is 'ethos'?",
+      "options": [
+        { "option_id": 1, "text": "Characteristic spirit of a culture", "is_correct": true },
+        { "option_id": 2, "text": "A type of science", "is_correct": false },
+        { "option_id": 3, "text": "A religious book", "is_correct": false },
+        { "option_id": 4, "text": "A place of worship", "is_correct": false }
+      ],
+      "answer": "Characteristic spirit of a culture"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What did Dr. Kalam attribute his humility to?",
+      "options": [
+        { "option_id": 1, "text": "His education", "is_correct": false },
+        { "option_id": 2, "text": "His father", "is_correct": true },
+        { "option_id": 3, "text": "His success", "is_correct": false },
+        { "option_id": 4, "text": "His friends", "is_correct": false }
+      ],
+      "answer": "His father"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What does 'astounding' mean?",
+      "options": [
+        { "option_id": 1, "text": "Boring", "is_correct": false },
+        { "option_id": 2, "text": "Amazing/Surprisingly impressive", "is_correct": true },
+        { "option_id": 3, "text": "Simple", "is_correct": false },
+        { "option_id": 4, "text": "Common", "is_correct": false }
+      ],
+      "answer": "Amazing/Surprisingly impressive"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What is the noun form of 'solve'?",
+      "options": [
+        { "option_id": 1, "text": "Solver", "is_correct": false },
+        { "option_id": 2, "text": "Solving", "is_correct": false },
+        { "option_id": 3, "text": "Solution", "is_correct": true },
+        { "option_id": 4, "text": "Solvable", "is_correct": false }
+      ],
+      "answer": "Solution"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What is the noun form of 'divine'?",
+      "options": [
+        { "option_id": 1, "text": "Divinity", "is_correct": true },
+        { "option_id": 2, "text": "Divine", "is_correct": false },
+        { "option_id": 3, "text": "Divination", "is_correct": false },
+        { "option_id": 4, "text": "Divinely", "is_correct": false }
+      ],
+      "answer": "Divinity"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What is the noun form of 'tranquil'?",
+      "options": [
+        { "option_id": 1, "text": "Tranquilize", "is_correct": false },
+        { "option_id": 2, "text": "Tranquility", "is_correct": true },
+        { "option_id": 3, "text": "Tranquilly", "is_correct": false },
+        { "option_id": 4, "text": "Tranquilness", "is_correct": false }
+      ],
+      "answer": "Tranquility"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "In 'The hostess served tea', 'tea' is the _____.",
+      "options": [
+        { "option_id": 1, "text": "Subject", "is_correct": false },
+        { "option_id": 2, "text": "Verb", "is_correct": false },
+        { "option_id": 3, "text": "Object", "is_correct": true },
+        { "option_id": 4, "text": "Adverb", "is_correct": false }
+      ],
+      "answer": "Object"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "In 'The kite soared upwards', 'upwards' is the _____.",
+      "options": [
+        { "option_id": 1, "text": "Object", "is_correct": false },
+        { "option_id": 2, "text": "Complement", "is_correct": false },
+        { "option_id": 3, "text": "Adverbial", "is_correct": true },
+        { "option_id": 4, "text": "Verb", "is_correct": false }
+      ],
+      "answer": "Adverbial"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What was the profession of Father Bodal?",
+      "options": [
+        { "option_id": 1, "text": "Scientist", "is_correct": false },
+        { "option_id": 2, "text": "Imam", "is_correct": false },
+        { "option_id": 3, "text": "Priest", "is_correct": true },
+        { "option_id": 4, "text": "Fisherman", "is_correct": false }
+      ],
+      "answer": "Priest"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does science provide according to Dr. Kalam?",
+      "answer": "Science provides focus, which helps solve questions, discover the truth, and conceive inventions."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does faith provide according to Dr. Kalam?",
+      "answer": "Faith provides perspective, which helps us see how our creations and discoveries impact societies."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name Dr. Kalam's two best friends from his childhood.",
+      "answer": "His two best friends were Pakshi Lakshmana Shastrigal (Hindu) and Father Bodal (Christian)."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What profession did Dr. Kalam's father hold?",
+      "answer": "Dr. Kalam's father was a boatman and also served as an imam at their local mosque."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What did the three religious leaders discuss?",
+      "answer": "They used to sit and discuss the community's problems and find solutions."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the result of science and faith working together?",
+      "answer": "They work together for the betterment of humanity; science accelerates progress and faith curbs it within reasonable limitations."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What trait did Dr. Kalam attribute to his father?",
+      "answer": "Dr. Kalam attributed his humility to his father."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What did Kalam see in his father?",
+      "answer": "He saw how simplicity and divinity could go together."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What can lift a person out of confusion or misery according to Kalam's father?",
+      "answer": "Leading a spiritual life can lift a person out of confusion, misery, or failure."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "When did Dr. Kalam join ISRO?",
+      "answer": "Dr. Kalam joined ISRO in the 1960s."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who shaped Dr. Kalam's thoughts on religion at ISRO?",
+      "answer": "His thoughts were shaped by Professor Vikram Sarabhai and Reverend Peter Bernard Pereira."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why was Thumba selected for the space research facility?",
+      "answer": "Thumba was selected because of its proximity to the magnetic equator."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What was the major obstacle in acquiring the site at Thumba?",
+      "answer": "The site was a fishing ground and housed an old church, a bishop's house, and a school."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What did Father Pereira tell Dr. Sarabhai initially?",
+      "answer": "He said Dr. Sarabhai was asking for his children's abode, his abode, and God's abode."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What did Father Pereira do on Sunday morning?",
+      "answer": "He invited Dr. Sarabhai to the dais after the prayer service to speak to the people."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How does science help according to Father Pereira?",
+      "answer": "Science develops devices to light homes, technological advancements for communication, and medical science to treat patients."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does a preacher do according to Father Pereira?",
+      "answer": "A preacher prays for the people, their well-being, and their peace."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the common goal of science and spirituality according to Father Pereira?",
+      "answer": "Both seek the Almighty's blessings for the prosperity of the human mind and body."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What did Father Pereira ask the congregation?",
+      "answer": "He asked if they could give up God's abode for a great scientific mission."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What was the congregation's response?",
+      "answer": "The whole church reverberated with the deafening noise of a collective 'amen'."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What was done for the people displaced at Thumba?",
+      "answer": "Alternate accommodation was offered to the affected fishermen, the church, and the Reverend Pereira."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Who provided soul-shaping wisdom to Dr. Kalam in the 1980s?",
+      "answer": "Professor Satish Dhawan provided him with soul-shaping wisdom."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What question did Kalam ask Prof. Dhawan?",
+      "answer": "He asked how one can become so academically accomplished."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What was Prof. Dhawan's answer regarding academic brilliance?",
+      "answer": "He said academic brilliance is like a mirror; dust diminishes it, but removing the dust makes the reflection clear."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How can we remove the impurities obscuring our souls?",
+      "answer": "By living pure and ethical lives and by serving humanity."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What advice did Dr. Kalam give to Srijan Pal Singh?",
+      "answer": "He advised him to use his degree and gold medal to transform the society he lived in."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Who was Dr. Sri Sri Shivakumara Mahaswamiji?",
+      "answer": "He was a remarkable person who dedicated his life to the service of humanity and established a free education system."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What astonished Dr. Kalam at the birthday celebration?",
+      "answer": "The 102-year-old Swamiji stood on his feet without any support and looked steady and alert."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What statistic about centenarians did Srijan share?",
+      "answer": "He shared that only four out of 1 lakh people cross the age of 100."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What query did Dr. Kalam raise about the Swamiji?",
+      "answer": "He wondered what powers kept the Swamiji so strong at such an advanced age."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who taught Dr. Kalam the tenet of goodness of action?",
+      "answer": "Pramukh Swamiji."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What did Dr. Kalam gather from the shores of Mahapragyaji?",
+      "answer": "He gathered the sands of conscience to be our guide and best friend."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What lesson did Father Pereira and Dr. Sarabhai teach?",
+      "answer": "They taught the lesson of selflessness in service."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What quality did Dr. Kalam see in Swami Sivananda?",
+      "answer": "He saw great tranquility."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What fuels Mahaswamiji's strength according to Dr. Kalam?",
+      "answer": "His munificence fuels his strength."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What keeps Mahaswamiji standing tall?",
+      "answer": "The spirit of giving keeps him standing tall."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the essence of a happy life?",
+      "answer": "The essence is the question 'What can I give?'."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What thought is responsible for all the wrong around us?",
+      "answer": "The thought 'What can I take?'."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What does the attitude of 'taking' lead to?",
+      "answer": "It leads to environmental destruction, corruption, inequity, and destruction of families."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "How can we keep the planet liveable?",
+      "answer": "By replacing 'what can I take' with 'what can I give'."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What became Srijan's silent motivation?",
+      "answer": "The challenge and gravity of the message 'What can I give'."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What did the 'What Can I Give' movement try to combat?",
+      "answer": "It tried to combat corruption, environmental degradation, and social evils."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Where lies the truth of humanity?",
+      "answer": "It lies in the answer to the question 'What can I give?'."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Identify the tense: 'Dr Kalam had made his first unsuccessful launch'.",
+      "answer": "Past Perfect Tense."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Identify the tense: 'We are discussing the number'.",
+      "answer": "Present Continuous Tense."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Identify the part of speech of the word 'indisputable'.",
+      "answer": "Adjective."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Give the noun form of 'advanced'.",
+      "answer": "Advancement."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Give the noun form of 'solve'.",
+      "answer": "Solution."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Punctuate: 'dr a pj abdul kalam was the past president of india'",
+      "answer": "Dr. A. P. J. Abdul Kalam was the past President of India."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Who said: 'What is the reverse of \"What can I give?\"'?",
+      "answer": "Dr. Kalam said this to Srijan Pal Singh."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Explain Dr. Kalam's view on the coexistence of science and faith.",
+      "answer": "Dr. Kalam believed that science and faith must coexist for human good. He stated that science provides focus, which helps solve questions and discover truths. Faith, on the other hand, provides perspective, helping us see the impact of our discoveries. Science accelerates progress, while faith keeps it within reasonable limits. Together, they work for the betterment of humanity."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Describe the conflict and resolution regarding the Thumba space research site.",
+      "answer": "The selected site for the space research facility in Thumba was a fishing ground and housed a church, a bishop's house, and a school. Relocating the people and destroying religious institutions seemed impossible. However, Dr. Sarabhai approached Father Pereira. The Father, in a Sunday sermon, explained how science and spirituality both seek human prosperity. He asked the congregation if they could give up God's abode for science. The people agreed with a collective 'amen', resolving the conflict."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "What lesson did Dr. Kalam learn from Professor Satish Dhawan?",
+      "answer": "Dr. Kalam learned about the importance of a pure soul from Professor Dhawan. When asked how to become academically accomplished, Dhawan compared academic brilliance to a mirror coated with dust. He explained that just as a mirror shines when dust is removed, God shines through us when we remove the impurities obscuring our souls by living pure, ethical lives and serving humanity."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Describe the interaction between Dr. Kalam and Srijan regarding Mahaswamiji's strength.",
+      "answer": "After witnessing the 102-year-old Mahaswamiji standing steady without support, Dr. Kalam and Srijan discussed the source of his strength. Srijan suggested diet or genetics. Dr. Kalam reflected deeply, recalling lessons from various spiritual guides. He concluded that Mahaswamiji's strength came from the spirit of 'What Can I Give'. His constant giving of education and food fueled his strength and kept him active."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "What is the significance of the question 'What can I give?'?",
+      "answer": "The question 'What can I give?' is described as the essence of a happy life and a peaceful society. It encourages an attitude of giving and selflessness. It stands in contrast to 'What can I take?', which leads to corruption, environmental destruction, and social evils. Dr. Kalam believed that replacing the taking attitude with the giving attitude is essential for the survival of the planet and humanity."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Sketch the character of Dr. Kalam's father.",
+      "answer": "Dr. Kalam's father was a boatman and an imam at the local mosque. He was a man of simplicity and divinity. Despite his humble profession, he shared the same values as his son who became President. He maintained close friendships with people of other faiths, like the Hindu priest and the Christian father. He instilled humility and the value of giving back in Dr. Kalam."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Sketch the character of Reverend Peter Bernard Pereira.",
+      "answer": "Reverend Peter Bernard Pereira was a visionary and broad-minded bishop. When approached for the church land for a scientific cause, he didn't reject it outright. Instead, he saw the common goal of science and spirituality—human prosperity. He successfully convinced his congregation to give up their church and homes for the nation's scientific progress, showing great leadership and selflessness."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Explain the mirror analogy used by Professor Dhawan.",
+      "answer": "Professor Dhawan used the analogy of a mirror to explain academic brilliance and spiritual purity. He said a mirror shines and reflects clearly only when the dust coating it is removed. Similarly, academic brilliance shines through only when the soul is pure. We must remove the 'dust' or impurities obscuring our souls by living ethically and serving humanity to let God shine through us."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "How did Dr. Kalam's childhood influence his views on religion?",
+      "answer": "Dr. Kalam's childhood was nourished by multiple faiths. His father was an imam, and his best friends were a Hindu and a Christian. He witnessed his father, the head priest of the Rameswara temple, and the church builder discussing community problems together. This upbringing taught him that different religions can coexist harmoniously and work together for the community, shaping his secular and inclusive worldview."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "What is the 'What Can I Give' movement?",
+      "answer": "The 'What Can I Give' movement was launched in 2012, inspired by the philosophy that giving is the essence of a happy life. Dr. Kalam initiated this movement to combat corruption, environmental degradation, and social evils. It aims to shift the human mindset from a selfish 'What can I take?' attitude to a selfless 'What can I give?' attitude, thereby solving many societal problems."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "Compare the impact of the 'taking' attitude vs the 'giving' attitude.",
+      "answer": "The 'taking' attitude leads to greed, corruption, inequity, and environmental destruction. It destroys families and societies by prioritizing self-interest. In contrast, the 'giving' attitude fuels strength, happiness, and peace. It fosters a supportive community and sustains the planet. Dr. Kalam emphasizes that for the human race to thrive, we must replace 'taking' with 'giving'."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "How does the text describe the relationship between science and spirituality?",
+      "answer": "The text describes science and spirituality as complementary rather than conflicting. Science focuses on questions, discovery, and invention (lighting up homes, treating patients). Spirituality focuses on perspective, inner peace, and moral guidance. Both aim for the prosperity and well-being of mind and body. Together, they create a vital combination for the success of societies."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Describe the sermon given by Father Pereira.",
+      "answer": "Father Pereira addressed the congregation, introducing Dr. Sarabhai as a scientist. He explained that science benefits us through technology and medicine, improving life quality. He then stated that as a preacher, he prays for peace and well-being. He concluded that both science and spirituality do the same job—seeking God's blessings for humanity. He then asked the difficult question: 'Can we give up God's abode for a great scientific mission?', which moved the people to agree."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "What qualities of Dr. Sri Sri Shivakumara Mahaswamiji are highlighted?",
+      "answer": "The text highlights Mahaswamiji's remarkable dedication to humanity, particularly through his free residential education system for thousands of children. His physical fitness and alertness at the age of 102 are emphasized. His munificence (generosity) is identified as the source of his strength. He is portrayed as a living example of the 'What Can I Give' philosophy."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "How did Srijan Pal Singh interpret Dr. Kalam's advice after meeting Prof. Dhawan?",
+      "answer": "After hearing Prof. Dhawan's mirror analogy about soul purity, Srijan recalled Dr. Kalam's advice from his graduation in 2009. Kalam had told him to use his degree to transform society. Srijan realized that Kalam's advice was a direct resonance of Prof. Dhawan's beliefs. He understood that Kalam's wisdom was an accumulation of learnings from many great minds he had worked with."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Why is dialogue among cultures and religions important according to Dr. Kalam?",
+      "answer": "Dr. Kalam felt that a frank dialogue among cultures, religions, and civilizations is needed now more than ever. Drawing from his childhood experience of seeing leaders of different faiths solve community problems together, he believed that such unity is essential for national and global harmony. It helps bridge gaps, resolve conflicts, and work towards common human goals."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "Discuss the role of mentors in Dr. Kalam's life.",
+      "answer": "Dr. Kalam's life was shaped by various mentors. His father taught him simplicity and divinity. Prof. Vikram Sarabhai and Father Pereira taught him the true meaning of religious service and selflessness. Prof. Satish Dhawan taught him about academic brilliance and ethical living. Pramukh Swamiji and others contributed to his spiritual growth. Kalam absorbed wisdom from all these great minds to become the visionary he was."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "How did the event at Thumba demonstrate national integration?",
+      "answer": "The event at Thumba showed a Hindu scientist (Dr. Sarabhai), a Muslim scientist (Dr. Kalam), and a Christian priest (Father Pereira) working together for a national cause. The Christian community voluntarily gave up their church for a space research centre. This collaboration across religious lines for the nation's scientific progress is a powerful example of national integration and unity."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "What is the 'Spirit of What Can I Give'?",
+      "answer": "The 'Spirit of What Can I Give' is a philosophy of selflessness and generosity. It means living life with the intention of contributing to others and society rather than taking from them. It involves giving education, food, help, or care. This spirit fuels inner strength and happiness. It is the antidote to the destructive 'What can I take' attitude."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Explain the significance of the title 'Science and Spirituality'.",
+      "answer": "The title 'Science and Spirituality' captures the central theme of the text. It explores how these two seemingly different fields can and should coexist. Through anecdotes from Dr. Kalam's life, the text shows that science (facts, focus, progress) and spirituality (faith, perspective, ethics) are partners in human development. The title reflects the synthesis of material progress and inner values."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "How does the text define the role of a teacher/preacher vs. a scientist?",
+      "answer": "The text, through Father Pereira's words, defines a scientist as someone who develops devices and technology to improve the comfort and quality of life (light, medicine). A preacher is defined as someone who prays for the peace and well-being of people. However, the text ultimately converges their roles, stating that both are doing the same job—seeking blessings and prosperity for humanity."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "What were the 'sands of conscience' Dr. Kalam gathered?",
+      "answer": "The phrase 'sands of conscience' is a metaphor for the accumulated wisdom and moral values Dr. Kalam gathered from various spiritual teachers. It refers to the lessons of goodness of action from Pramukh Swamiji, purity from Prof. Brahma Prakash, selflessness from Father Pereira, and simplicity from his father. These collective values formed his conscience, guiding his life."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "Why is the phrase 'pin-drop silence' used in the text?",
+      "answer": "The phrase 'pin-drop silence' is used to describe the moment in the church after Father Pereira asked the congregation if they could give up God's abode. It emphasizes the gravity and weight of the request. It marks a moment of deep contemplation and hesitation before the people made their momentous decision to agree. It highlights the tension before the resolution."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "What does the text say about 'academic brilliance'?",
+      "answer": "The text states that academic brilliance is not an end in itself. Prof. Dhawan compares it to the brilliance of a mirror. Just having degrees is not enough if the soul is obscured by impurities (dust). True brilliance shines only when one lives a pure, ethical life and serves humanity. Character and values are as important as academic achievements."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "How does Dr. Kalam link 'giving' to 'strength'?",
+      "answer": "Dr. Kalam observed that Mahaswamiji, despite his age, was strong because he constantly gave to others. He stated that 'munificence fuels strength'. The act of giving generates a positive energy and sense of purpose that revitalizes the giver. Self-centeredness drains energy, while selflessness and contribution provide a boundless source of inner strength and vitality."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "Discuss the environmental message in the text.",
+      "answer": "The text touches upon environmental degradation as a consequence of the 'What can I take' attitude. It states that humans think they can take from the environment and destroy it indiscriminately. To keep the planet liveable, we need to shift to a 'giving' mindset—protecting and nurturing nature. The 'What Can I Give' movement also aimed to combat environmental issues."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "What is the 'Great Scientific Mission' mentioned?",
+      "answer": "The 'Great Scientific Mission' refers to the establishment of India's space research program. Specifically, it was the setting up of the Thumba Equatorial Rocket Launching Station (TERLS). This mission aimed to advance India's capabilities in science and technology. It was deemed important enough to ask a community to relocate, symbolizing the nation's prioritization of scientific progress."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "How did Srijan Pal Singh prepare for the discussion on longevity?",
+      "answer": "Srijan Pal Singh prepared by 'googling the subject beforehand'. He researched statistics on centenarians, finding out that only four out of 1 lakh people live past 100. This preparation allowed him to have an informed discussion with Dr. Kalam about the rarity and significance of Mahaswamiji's health and longevity."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "Why did Dr. Kalam feel he was learning from 'countless great minds'?",
+      "answer": "Dr. Kalam felt this because the wisdom he shared was not just his own but a synthesis of what he had learned from his mentors. When he spoke to Srijan, he was channeling the lessons of Prof. Dhawan, Dr. Sarabhai, Father Pereira, and others. He saw himself as a vessel passing on the collective wisdom of these great figures he had interacted with."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "Explain the meaning of 'Science accelerates progress and faith curbs it within reasonable limitations'.",
+      "answer": "This statement means that science drives development, innovation, and speed ('accelerates'). However, unchecked progress can be dangerous (e.g., weapons, environmental damage). Faith or spirituality provides the moral compass or ethical boundary ('curbs'). It ensures that scientific power is used responsibly and for the good of humanity, preventing destruction. It balances capability with conscience."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "Describe the atmosphere in Rameswaram during Kalam's childhood.",
+      "answer": "The atmosphere in Rameswaram was one of communal harmony and inter-faith dialogue. It was a place where a temple priest, a mosque imam, and a church father were close friends. They respected each other's attire and beliefs and worked together for the community. This peaceful, inclusive environment deeply influenced Kalam's character and his belief in the unity of religions."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "What is the significance of the date 'Saturday evening' in the text?",
+      "answer": "Saturday evening was when Dr. Sarabhai and Dr. Kalam approached Father Pereira. This timing was crucial because the Father invited them to the Sunday morning prayer service the next day. The quick turnaround from the request on Saturday to the resolution on Sunday highlights the urgency of the mission and the decisive leadership of the Bishop."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "How does the text portray the fishermen of Thumba?",
+      "answer": "The text implicitly portrays the fishermen as sacrificing and cooperative citizens. Though it was their fishing grounds and their church at stake, they ultimately agreed to the relocation for the greater good of the nation. Their collective 'amen' signifies their willingness to support the scientific mission, making a significant contribution to India's space history."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "What is the role of 'ethics' in Dr. Kalam's philosophy?",
+      "answer": "Ethics play a central role in Dr. Kalam's philosophy. He believed that academic or professional success is hollow without ethical living. Drawing from Prof. Dhawan, he argued that living a pure and ethical life is necessary to remove the 'dust' from one's soul. Ethics provide the foundation for true brilliance and for becoming a useful member of society."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Why did government officials predict the relocation would be impossible?",
+      "answer": "Government officials predicted it would be impossible because the site was inhabited by a large community of fishermen and contained important religious institutions (church, bishop's house, school). Relocating people is difficult, but asking them to give up their place of worship is highly sensitive and usually met with strong resistance. They underestimated the power of visionary leadership."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "Explain the phrase 'God's abode'.",
+      "answer": "'God's abode' refers to the church of St. Mary Magdalene. It is a place of worship and spiritual significance for the community. Father Pereira emphasizes this to highlight the magnitude of the request—asking for the house of God. Giving it up was not just a physical loss but a spiritual sacrifice, making the final agreement even more profound."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "What does 'fledgling organization' tell us about ISRO in the 1960s?",
+      "answer": "The term 'fledgling organization' tells us that ISRO (then INCOSPAR) was in its very early, developmental stages in the 1960s. It was new, inexperienced, and just starting to grow (like a young bird). It lacked the infrastructure and established status it has today, which is why acquiring a site like Thumba was such a critical and difficult step for its foundation."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "How does the text define 'True Meaning of Religious Service'?",
+      "answer": "The text defines the true meaning of religious service not just as rituals or prayers, but as service to humanity and the nation. Father Pereira exemplified this by sacrificing the church for a scientific cause that would benefit the country. Similarly, Mahaswamiji's service was providing education and food. True religion is shown to be about selfless contribution to the well-being of others."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "What is the connection between 'silence' and 'motivation' in the text?",
+      "answer": "After Dr. Kalam explained the concept of 'giving' vs 'taking', Srijan was struck by the gravity of the message. He fell silent. This silence was not emptiness but a period of deep internal processing. The text says 'This challenge became my silent motivation'. It implies that profound truths often lead to silent introspection, which then transforms into a strong, internal drive for action."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "Describe the 'Attire' mentioned in Part I.",
+      "answer": "The text mentions the 'unique attire of their religion'. This refers to the distinct clothing worn by the three friends: the Hindu priest likely in dhoti/angavastram, the Imam in traditional Muslim dress, and the Christian Father in his cassock. This visual detail emphasizes that despite their different outward appearances and religious identities, they were united in spirit and purpose."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "How does the text use the metaphor of 'Swimming in silence'?",
+      "answer": "The text uses the metaphor 'swimming in silence to the shores of Mahapragyaji' to describe Dr. Kalam's deep contemplation. It suggests his mind was traveling back in time or into a deep state of meditation to retrieve wisdom. 'Swimming' implies an effort to navigate through thoughts, and 'shores' represents the source of wisdom he reached. It illustrates his thoughtful nature."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "What is the importance of 'Frank Dialogue'?",
+      "answer": "Dr. Kalam emphasizes the need for 'frank dialogue among cultures, religions and civilizations'. This means open, honest, and direct communication without fear or prejudice. Such dialogue is important to understand each other, dispel misunderstandings, and find common ground. In a divided world, it is the key to resolving conflicts and building a peaceful global community."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "How did Dr. Kalam's view on 'Divinity' relate to 'Simplicity'?",
+      "answer": "Dr. Kalam saw 'simplicity and divinity' go together in his father. He believed that one does not need to be complex or powerful to be divine. A simple life, lived with integrity and connection to God, is divine. This view shaped his own lifestyle; despite being President, he remained humble and simple, believing that spirituality thrives in simplicity, not grandeur."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "What does 'Scientific Facilities' refer to in Part II?",
+      "answer": "'Scientific Facilities' refers to the infrastructure needed for space research, such as launch pads, laboratories, and administrative buildings. Dr. Sarabhai wanted to build these at Thumba. These facilities were the physical foundation for India's space ambitions. The text contrasts these modern, technical structures with the traditional, spiritual structure of the church they were replacing."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "Why is 'Generosity' (Munificence) considered a power?",
+      "answer": "In the context of Mahaswamiji, generosity is considered a power because it sustained him. It is not just a moral virtue but a source of vitality. The act of giving energy, resources, and care to others generates a reciprocal energy that keeps the giver strong. It is a spiritual power that transcends physical limitations, allowing a 102-year-old to stand tall."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "Discuss the 'Space-time of memory'.",
+      "answer": "The phrase 'space-time of memory' suggests that memory acts like a dimension where one can travel. Dr. Kalam traveled through this dimension to recall his mentors. It implies that wisdom from the past is not lost but exists in this memory space, accessible when needed. It connects the past teachings to the present moment of decision-making."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "What is the 'truth of humanity' mentioned at the end?",
+      "answer": "The 'truth of humanity' lies in the answer to the question 'What can I give?'. It suggests that the fundamental nature and purpose of human beings is to give and contribute. We are not designed just to consume but to create and share. Realizing this truth leads to a meaningful, ethical, and happy life. It is the ultimate realization for a better world."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "How does the text challenge the conflict between science and religion?",
+      "answer": "The text challenges the conflict by providing concrete examples of cooperation. It shows a scientist (Sarabhai) and a priest (Pereira) agreeing on a common goal. It quotes Kalam saying they must coexist. It defines their roles as complementary (focus vs perspective). It argues that both serve the same ultimate purpose—human prosperity. The entire narrative is a proof that the conflict is unnecessary."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "What is the role of 'Youth' in the text?",
+      "answer": "While not explicitly the main subject, youth is represented by Srijan Pal Singh (the narrator) and the children Mahaswamiji educates. Dr. Kalam advises Srijan to use his education for society. The text implies that the values of 'giving' and 'integration of science and faith' must be passed on to the youth (like Srijan) to build a better future. They are the torchbearers of these legacies."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "Write a speech on 'Science and Spirituality can go hand in hand'.",
+      "answer": "Respected teachers and friends, today I stand to support the view that Science and Spirituality can go hand in hand. Often seen as opposites, they are actually two sides of the same coin. Science explores the outer world, giving us comfort and knowledge. Spirituality explores the inner world, giving us peace and values. As Dr. Kalam said, science gives focus, faith gives perspective. Without values, science can be destructive. Without reason, faith can be blind. Together, they create a balanced, prosperous society. Let us embrace both to progress with a conscience. Thank you."
+    }
+  ]
+}

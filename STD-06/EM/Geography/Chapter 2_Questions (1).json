@@ -1,0 +1,2009 @@
+{
+" Chapter 2": " Let us Use the Graticule",
+"lessons": [
+"2. Let us Use the Graticule"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "66° 30' North parallel means",
+"options": [
+{
+"option_id": 1,
+"text": "Arctic Circle",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Antarctic Circle",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Equator",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Tropic of Cancer",
+"is_correct": false
+}
+],
+"answer": "Arctic Circle"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "Which parallel bisects the earth?",
+"options": [
+{
+"option_id": 1,
+"text": "Tropic of Cancer",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Tropic of Capricorn",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Equator",
+"is_correct": true
+},
+{
+"option_id": 4,
+"text": "Arctic Circle",
+"is_correct": false
+}
+],
+"answer": "Equator"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "What is the angular distance of the Arctic Circle from North Pole?",
+"options": [
+{
+"option_id": 1,
+"text": "66° 30'",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "90°",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "23° 30'",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "0°",
+"is_correct": false
+}
+],
+"answer": "90°"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "Where do the Prime Meridian and the equator intersect each other?",
+"options": [
+{
+"option_id": 1,
+"text": "Southern Ocean",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Atlantic Ocean",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "African Continent",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Pacific Ocean",
+"is_correct": false
+}
+],
+"answer": "Atlantic Ocean"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Up to which parallels from the equator can the sun's rays be perpendicular?",
+"options": [
+{
+"option_id": 1,
+"text": "Tropic of Cancer and Tropic of Capricorn",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Arctic and Antarctic Circles",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "North and South Poles",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Equator only",
+"is_correct": false
+}
+],
+"answer": "Tropic of Cancer and Tropic of Capricorn"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "What would be the latitude of a place on the South Pole?",
+"options": [
+{
+"option_id": 1,
+"text": "90° S",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "90° N",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "0°",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "66° 30' S",
+"is_correct": false
+}
+],
+"answer": "90° S"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "What are horizontal lines on globe called?",
+"options": [
+{
+"option_id": 1,
+"text": "Meridians",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Parallels",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Graticule",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Great circles",
+"is_correct": false
+}
+],
+"answer": "Parallels"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "At which two parallels do all meridians converge?",
+"options": [
+{
+"option_id": 1,
+"text": "Equator and Tropic of Cancer",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "North Pole and South Pole",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Arctic and Antarctic Circles",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Tropics",
+"is_correct": false
+}
+],
+"answer": "North Pole and South Pole"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "To describe location of a place, consider?",
+"options": [
+{
+"option_id": 1,
+"text": "One parallel and one meridian",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Two parallels",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "One meridian only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Centre point",
+"is_correct": false
+}
+],
+"answer": "One parallel and one meridian"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Delhi's location example?",
+"options": [
+{
+"option_id": 1,
+"text": "28°36' 50'' N, 77°12' 3'' E",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "10°30' S, 113° E",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "0°45' S, 33°26' E",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "31°12' N, 29°55' E",
+"is_correct": false
+}
+],
+"answer": "28°36' 50'' N, 77°12' 3'' E"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "Australia's extent example?",
+"options": [
+{
+"option_id": 1,
+"text": "10°30' S to 43°39' S, 113° E to 153° E",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "5°15' N to 33°45' S",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "23°30' N to 23°30' S",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "66°30' N to 66°30' S",
+"is_correct": false
+}
+],
+"answer": "10°30' S to 43°39' S, 113° E to 153° E"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "For linear features like river, consider?",
+"options": [
+{
+"option_id": 1,
+"text": "Terminal points latitudes longitudes",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Centre latitude",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Extreme parallels only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Map only",
+"is_correct": false
+}
+],
+"answer": "Terminal points latitudes longitudes"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "River Nile originates?",
+"options": [
+{
+"option_id": 1,
+"text": "Lake Victoria",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Alexandria",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Brasil",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Delhi",
+"is_correct": false
+}
+],
+"answer": "Lake Victoria"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "River Nile meets?",
+"options": [
+{
+"option_id": 1,
+"text": "Mediterranean Sea near Alexandria",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Indian Ocean",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Atlantic Ocean",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Pacific Ocean",
+"is_correct": false
+}
+],
+"answer": "Mediterranean Sea near Alexandria"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Lake Victoria location?",
+"options": [
+{
+"option_id": 1,
+"text": "0°45'21'' S, 33°26'18'' E",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "31°12' N, 29°55'07'' E",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "28°36'50'' N, 77°12'3'' E",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "41°54'30'' N, 12°21'30'' E",
+"is_correct": false
+}
+],
+"answer": "0°45'21'' S, 33°26'18'' E"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "Alexandria location?",
+"options": [
+{
+"option_id": 1,
+"text": "31°12' N, 29°55'07'' E",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "0°45'21'' S, 33°26'18'' E",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "10°30' S, 113° E",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "5°15' N",
+"is_correct": false
+}
+],
+"answer": "31°12' N, 29°55'07'' E"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "Parallels receiving perpendicular rays on two days?",
+"options": [
+{
+"option_id": 1,
+"text": "23°30' N and S",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "66°30' N and S",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "90° N and S",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "0°",
+"is_correct": false
+}
+],
+"answer": "23°30' N and S"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "Tropic of Cancer latitude?",
+"options": [
+{
+"option_id": 1,
+"text": "23°30' N",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "23°30' S",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "66°30' N",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "0°",
+"is_correct": false
+}
+],
+"answer": "23°30' N"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Antarctic Circle latitude?",
+"options": [
+{
+"option_id": 1,
+"text": "66°30' S",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "66°30' N",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "23°30' S",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "90° S",
+"is_correct": false
+}
+],
+"answer": "66°30' S"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "Daytime >24 hours between?",
+"options": [
+{
+"option_id": 1,
+"text": "Polar circles and poles",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Tropics and equator",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Equator and tropics",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Within 24 hours always",
+"is_correct": false
+}
+],
+"answer": "Polar circles and poles"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "Sun at poles six months?",
+"options": [
+{
+"option_id": 1,
+"text": "Visible spiraling horizon",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Perpendicular always",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "24 hours day",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "No sun",
+"is_correct": false
+}
+],
+"answer": "Visible spiraling horizon"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "Cause of important parallels?",
+"options": [
+{
+"option_id": 1,
+"text": "Earth's axis inclination 23°30'",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Earth rotation",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Spherical shape",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Revolution",
+"is_correct": false
+}
+],
+"answer": "Earth's axis inclination 23°30'"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Vatican City area?",
+"options": [
+{
+"option_id": 1,
+"text": "0.44 sq km",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "125 sq km",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "10 sq km",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "1 sq km",
+"is_correct": false
+}
+],
+"answer": "0.44 sq km"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "Vatican within?",
+"options": [
+{
+"option_id": 1,
+"text": "Italy",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Brazil",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "India",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Egypt",
+"is_correct": false
+}
+],
+"answer": "Italy"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "Prime Meridian purpose?",
+"options": [
+{
+"option_id": 1,
+"text": "Global standard time",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Date line",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Perpendicular rays",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Shortest path",
+"is_correct": false
+}
+],
+"answer": "Global standard time"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Prime Meridian also called?",
+"options": [
+{
+"option_id": 1,
+"text": "Greenwich Meridian",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "International Date Line",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Equator",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Arctic Circle",
+"is_correct": false
+}
+],
+"answer": "Greenwich Meridian"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "Global standard time?",
+"options": [
+{
+"option_id": 1,
+"text": "GMT",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "IST",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "PST",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "CST",
+"is_correct": false
+}
+],
+"answer": "GMT"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "180° meridian reference for?",
+"options": [
+{
+"option_id": 1,
+"text": "International Date Line",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "GMT",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Perpendicular rays",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Temperature zones",
+"is_correct": false
+}
+],
+"answer": "International Date Line"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "Great Circles used for?",
+"options": [
+{
+"option_id": 1,
+"text": "Minimum distance between places",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Standard time",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Day length",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Temperature",
+"is_correct": false
+}
+],
+"answer": "Minimum distance between places"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "Great Circles include?",
+"options": [
+{
+"option_id": 1,
+"text": "Equator and opposite meridian pairs",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Only equator",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Only poles",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Polar circles",
+"is_correct": false
+}
+],
+"answer": "Equator and opposite meridian pairs"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "Effect of sunlight intensity variation?",
+"options": [
+{
+"option_id": 1,
+"text": "Temperature zones and pressure belts",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Only day length",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Only plant life",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "No effect",
+"is_correct": false
+}
+],
+"answer": "Temperature zones and pressure belts"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Regional diversity due to sunlight?",
+"options": [
+{
+"option_id": 1,
+"text": "Plant and animal life",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Only temperature",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Only pressure",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Meridians",
+"is_correct": false
+}
+],
+"answer": "Plant and animal life"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Smallest country Vatican extent difference?",
+"options": [
+{
+"option_id": 1,
+"text": "Seconds only",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Degrees",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Minutes",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Parallels",
+"is_correct": false
+}
+],
+"answer": "Seconds only"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Oceans in all four hemispheres?",
+"options": [
+{
+"option_id": 1,
+"text": "Atlantic and Pacific",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Indian only",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Arctic only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Southern only",
+"is_correct": false
+}
+],
+"answer": "Atlantic and Pacific"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Continents in all four hemispheres?",
+"options": [
+{
+"option_id": 1,
+"text": "Africa",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Australia",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Asia",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Antarctica",
+"is_correct": false
+}
+],
+"answer": "Africa"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "For region extent, consider?",
+"options": [
+{
+"option_id": 1,
+"text": "Two parallels and two meridians",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "One parallel",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Centre only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Road map",
+"is_correct": false
+}
+],
+"answer": "Two parallels and two meridians"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "Daytime limit between polar circles?",
+"options": [
+{
+"option_id": 1,
+"text": "24 hours",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": ">24 hours",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "6 months",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Perpendicular",
+"is_correct": false
+}
+],
+"answer": "24 hours"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Areas never perpendicular rays?",
+"options": [
+{
+"option_id": 1,
+"text": "Beyond tropics",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Between tropics",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Equator",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Poles",
+"is_correct": false
+}
+],
+"answer": "Beyond tropics"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Tropic of Capricorn?",
+"options": [
+{
+"option_id": 1,
+"text": "23°30' S",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "23°30' N",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "66°30' S",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "90° S",
+"is_correct": false
+}
+],
+"answer": "23°30' S"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "Arctic Circle?",
+"options": [
+{
+"option_id": 1,
+"text": "66°30' N",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "66°30' S",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "23°30' N",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "0°",
+"is_correct": false
+}
+],
+"answer": "66°30' N"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Mentioning only meridian sufficient for location?",
+"options": [
+{
+"option_id": 1,
+"text": "No",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Yes",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Only for rivers",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "For regions",
+"is_correct": false
+}
+],
+"answer": "No"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "For region extent, assume centre?",
+"options": [
+{
+"option_id": 1,
+"text": "No, extreme ends",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Yes",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "For places",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "For roads",
+"is_correct": false
+}
+],
+"answer": "No, extreme ends"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Road location described only with map?",
+"options": [
+{
+"option_id": 1,
+"text": "No",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Yes",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Only terminal",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Centre",
+"is_correct": false
+}
+],
+"answer": "No"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "0° East and 180° East same?",
+"options": [
+{
+"option_id": 1,
+"text": "No, opposite",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Yes",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Prime",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Equator",
+"is_correct": false
+}
+],
+"answer": "No, opposite"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "River extent source latitude end longitude?",
+"options": [
+{
+"option_id": 1,
+"text": "No, both lat long terminal points",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Yes",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Only source",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Map",
+"is_correct": false
+}
+],
+"answer": "No, both lat long terminal points"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "8°4' N to 37°66' N correct location?",
+"options": [
+{
+"option_id": 1,
+"text": "No",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Yes",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "For extent",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Place",
+"is_correct": false
+}
+],
+"answer": "No"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Opposite to 90° E?",
+"options": [
+{
+"option_id": 1,
+"text": "90° W",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "90° E",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "180°",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "0°",
+"is_correct": false
+}
+],
+"answer": "90° W"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Shortest distance Kolkata Chicago?",
+"options": [
+{
+"option_id": 1,
+"text": "Great circle",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Along equator",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Prime meridian",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Straight line map",
+"is_correct": false
+}
+],
+"answer": "Great circle"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Important parallel through India?",
+"options": [
+{
+"option_id": 1,
+"text": "Tropic of Cancer",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Equator",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Arctic Circle",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Antarctic Circle",
+"is_correct": false
+}
+],
+"answer": "Tropic of Cancer"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Perpendicular rays two days year?",
+"options": [
+{
+"option_id": 1,
+"text": "Between tropics",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Poles",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Polar regions",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Equator only",
+"is_correct": false
+}
+],
+"answer": "Between tropics"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "What are horizontal lines on the globe called?",
+"answer": "Parallels."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "Intersection of 0° meridian and 0° parallel?",
+"answer": "Atlantic Ocean."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "Oceans spread in all four hemispheres?",
+"answer": "Atlantic Ocean and Pacific Ocean."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "Continents spread in all four hemispheres?",
+"answer": "Africa."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "All meridians converge at?",
+"answer": "North Pole and South Pole."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "How to describe place location?",
+"answer": "One parallel and one meridian."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Delhi latitude longitude?",
+"answer": "28°36'50'' N 77°12'3'' E."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "Region extent how described?",
+"answer": "Two parallels and two meridians extreme ends."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "Australia latitudinal extent?",
+"answer": "10°30' S to 43°39' S."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "Australia longitudinal extent?",
+"answer": "113° E to 153° E."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Linear feature extent?",
+"answer": "Latitude longitude terminal points."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "River Nile origin?",
+"answer": "Lake Victoria 0°45'21''S 33°26'18''E."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "River Nile mouth?",
+"answer": "Alexandria 31°12'N 29°55'07''E."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Brasil capital location?",
+"answer": "Brasilia specific lat long from figure 2.3."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "Brazil N-S hemispheres?",
+"answer": "Northern and Southern."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Brazil E-W hemisphere?",
+"answer": "Western."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Tropic Cancer latitude?",
+"answer": "23°30' N."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Tropic Capricorn?",
+"answer": "23°30' S."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "Arctic Circle?",
+"answer": "66°30' N."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Antarctic Circle?",
+"answer": "66°30' S."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "Perpendicular rays between?",
+"answer": "23°30' N and S."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Day >24 hrs where?",
+"answer": "Between polar circles and poles."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Sun at poles duration?",
+"answer": "Six months."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Earth axis inclination?",
+"answer": "23°30'."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "Vatican City smallest country area?",
+"answer": "0.44 sq km."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Vatican located within?",
+"answer": "Italy."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Prime Meridian main purpose?",
+"answer": "Fix global standard time."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "GMT stands for?",
+"answer": "Greenwich Mean Time."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "180° meridian opposite to?",
+"answer": "Prime Meridian."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "International Date Line reference?",
+"answer": "180° meridian."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Great Circles for?",
+"answer": "Minimum distance."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Sunlight variation causes?",
+"answer": "Temperature zones pressure belts."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "Diversity in plant animal life due to?",
+"answer": "Sunlight intensity."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Vatican extent difference in?",
+"answer": "Seconds."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Meridians marked up to from Prime?",
+"answer": "180° east west."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Opposite meridians form?",
+"answer": "Great Circles."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Shortest path Kolkata Chicago?",
+"answer": "Great circle."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "India important parallel?",
+"answer": "Tropic of Cancer."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "No perpendicular rays areas?",
+"answer": "Beyond tropics."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Perpendicular rays region?",
+"answer": "Two days in year between tropics."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Location place needs?",
+"answer": "Parallel and meridian."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "Region extent extreme?",
+"answer": "Two parallels two meridians."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "River course extent?",
+"answer": "Terminal points lat long."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Meridian sufficient alone?",
+"answer": "No."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Road described only map?",
+"answer": "No."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "0° E 180° E?",
+"answer": "Different."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "River source lat end long?",
+"answer": "No both."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "37°66' N correct?",
+"answer": "No."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Opposite 170° W?",
+"answer": "10° E."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "School location activity?",
+"answer": "Lat long display."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Equator passes continents?",
+"answer": "South America Africa Asia Australia? From observe."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Equator oceans?",
+"answer": "Pacific Atlantic Indian."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Graticule use purpose?",
+"answer": "Describe location extent precisely."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Brazil longitudinal extent?",
+"answer": "From figure approx 35°W to 75°W."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "River Sao Francisco extent?",
+"answer": "Parallels meridians terminal."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Marajo island location?",
+"answer": "Graticule mouth Amazon."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Sun spiral poles?",
+"answer": "Yes during six months."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Axis inclination cause?",
+"answer": "Important parallels."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Vatican N lat?",
+"answer": "41°54'30'' N to 41°54'00'' N."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Vatican E long?",
+"answer": "12°21'30'' E to 12°21'00'' E."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Small units use idea?",
+"answer": "Vatican seconds difference."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Prime Meridian coordinates standard times?",
+"answer": "Yes."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "180° opposite Prime?",
+"answer": "Yes."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Equator great circle?",
+"answer": "Yes."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Opposite meridian pair?",
+"answer": "Great circle."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Aeroplane shortest Kolkata Chicago?",
+"answer": "Great circle direction."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Show important on map?",
+"answer": "Yes."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Identify important parallels meridians?",
+"answer": "Yes."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Describe world place extent?",
+"answer": "Precisely graticule."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "India map regions colour?",
+"answer": "Perpendicular rays no rays."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Trans Siberian start?",
+"answer": "St. Petersburg."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "End Vladivostok.",
+"answer": "Yes."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Maharashtra extent find?",
+"answer": "Internet lat long."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Chile country extent?",
+"answer": "Long narrow lat long."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Sri Lanka island?",
+"answer": "Extent small."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Draw parallels meridians protractor?",
+"answer": "90N 90S 0 equator tropics circles."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "School lat long?",
+"answer": "Teacher help."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Display school location?",
+"answer": "Board."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Opposite 30° E?",
+"answer": "30° W."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Opposite 20° W?",
+"answer": "20° E."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Observe opposites?",
+"answer": "180° apart."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Area very slanting rays?",
+"answer": "Duration day >24 hrs."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Slanting rays?",
+"answer": "Day up to 24 hrs."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Perpendicular rays area?",
+"answer": "Tropics."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "St. Peter's Basilica in?",
+"answer": "Vatican."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Vatican Radio?",
+"answer": "In map."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Websites reference?",
+"answer": "kidsgeog.com wikihow.com etc."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Activity graticule ball?",
+"answer": "Draw."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Cities lat long Mumbai?",
+"answer": "Find globe map."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Guwahati?",
+"answer": "Find."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Srinagar lat long?",
+"answer": "Find."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Bhopal?",
+"answer": "Find."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Chennai?",
+"answer": "Find."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Ottawa?",
+"answer": "Find."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Tokyo?",
+"answer": "Find."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Johannesburg?",
+"answer": "Find."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "New York?",
+"answer": "Find."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "London?",
+"answer": "Find."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Important meridians table?",
+"answer": "Prime 180°."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Important parallels?",
+"answer": "Equator tropics polar circles."
+}
+]
+}

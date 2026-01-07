@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Geo.02",
+    "standard": "8",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "पृथ्वीचे अंतरंग"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पृथ्वीची निर्मिती सुमारे किती वर्षांपूर्वी झाली?",
+      "options": [
+        { "option_id": 1, "text": "४६० कोटी वर्षांपूर्वी", "is_correct": true },
+        { "option_id": 2, "text": "१०० कोटी वर्षांपूर्वी", "is_correct": false },
+        { "option_id": 3, "text": "२०० कोटी वर्षांपूर्वी", "is_correct": false },
+        { "option_id": 4, "text": "५००० वर्षांपूर्वी", "is_correct": false }
+      ],
+      "answer": "४६० कोटी वर्षांपूर्वी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पृथ्वी सुरुवातीला कोणत्या स्वरूपात होती?",
+      "options": [
+        { "option_id": 1, "text": "घनरूप", "is_correct": false },
+        { "option_id": 2, "text": "द्रवरूप", "is_correct": false },
+        { "option_id": 3, "text": "वायुरूप", "is_correct": true },
+        { "option_id": 4, "text": "घन-द्रव मिश्र", "is_correct": false }
+      ],
+      "answer": "वायुरूप"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या सर्वांत बाह्य थराला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "गाभा", "is_correct": false },
+        { "option_id": 2, "text": "प्रावरण", "is_correct": false },
+        { "option_id": 3, "text": "भूकवच", "is_correct": true },
+        { "option_id": 4, "text": "शिलावरण", "is_correct": false }
+      ],
+      "answer": "भूकवच"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भूकवचाची सरासरी जाडी किती आहे?",
+      "options": [
+        { "option_id": 1, "text": "५–१० किमी", "is_correct": false },
+        { "option_id": 2, "text": "३०–३५ किमी", "is_correct": true },
+        { "option_id": 3, "text": "१०० किमी", "is_correct": false },
+        { "option_id": 4, "text": "५०० किमी", "is_correct": false }
+      ],
+      "answer": "३०–३५ किमी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भूकवचाचे किती उपविभाग आहेत?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "खंडीय कवच मुख्यतः कोणत्या मूलद्रव्यांपासून बनलेले आहे?",
+      "options": [
+        { "option_id": 1, "text": "सिलिका व अॅल्युमिनिअम", "is_correct": true },
+        { "option_id": 2, "text": "सिलिका व मॅग्नेशिअम", "is_correct": false },
+        { "option_id": 3, "text": "लोह व निकेल", "is_correct": false },
+        { "option_id": 4, "text": "हायड्रोजन व ऑक्सिजन", "is_correct": false }
+      ],
+      "answer": "सिलिका व अॅल्युमिनिअम"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "महासागरीय कवचात कोणते खडक प्रामुख्याने आढळतात?",
+      "options": [
+        { "option_id": 1, "text": "ग्रॅनाईट", "is_correct": false },
+        { "option_id": 2, "text": "बेसॉल्ट व गॅब्रो", "is_correct": true },
+        { "option_id": 3, "text": "संगमरवर", "is_correct": false },
+        { "option_id": 4, "text": "चुनखडी", "is_correct": false }
+      ],
+      "answer": "बेसॉल्ट व गॅब्रो"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भूकवच व प्रावरण यांतील विलगतेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कॉनरॅड विलगता", "is_correct": false },
+        { "option_id": 2, "text": "मोहो विलगता", "is_correct": true },
+        { "option_id": 3, "text": "गटेनबर्ग विलगता", "is_correct": false },
+        { "option_id": 4, "text": "निफे विलगता", "is_correct": false }
+      ],
+      "answer": "मोहो विलगता"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खंडीय व महासागरीय कवच यांतील विलगता कोणत्या शास्त्रज्ञाने शोधली?",
+      "options": [
+        { "option_id": 1, "text": "मोहोरोव्हिसिक", "is_correct": false },
+        { "option_id": 2, "text": "गटेनबर्ग", "is_correct": false },
+        { "option_id": 3, "text": "कॉनरॅड", "is_correct": true },
+        { "option_id": 4, "text": "न्यूटन", "is_correct": false }
+      ],
+      "answer": "कॉनरॅड"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "भूकवचाखाली कोणता थर आढळतो?",
+      "options": [
+        { "option_id": 1, "text": "गाभा", "is_correct": false },
+        { "option_id": 2, "text": "प्रावरण", "is_correct": true },
+        { "option_id": 3, "text": "चुंबकावरण", "is_correct": false },
+        { "option_id": 4, "text": "वायुमंडल", "is_correct": false }
+      ],
+      "answer": "प्रावरण"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "प्रावरणाला दुर्बलावरण असे का म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "ते खूप थंड असते", "is_correct": false },
+        { "option_id": 2, "text": "ते प्रवाही असते", "is_correct": true },
+        { "option_id": 3, "text": "ते वायुरूप असते", "is_correct": false },
+        { "option_id": 4, "text": "ते पूर्ण घन असते", "is_correct": false }
+      ],
+      "answer": "ते प्रवाही असते"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "ज्वालामुखीच्या उद्रेकात कोणता पदार्थ बाहेर पडतो?",
+      "options": [
+        { "option_id": 1, "text": "थंड पाणी", "is_correct": false },
+        { "option_id": 2, "text": "लाव्हारस", "is_correct": true },
+        { "option_id": 3, "text": "बर्फ", "is_correct": false },
+        { "option_id": 4, "text": "धूळ", "is_correct": false }
+      ],
+      "answer": "लाव्हारस"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "लाव्हारस थंड झाल्यावर कोणते खडक तयार होतात?",
+      "options": [
+        { "option_id": 1, "text": "अवसादी खडक", "is_correct": false },
+        { "option_id": 2, "text": "रूपांतरित खडक", "is_correct": false },
+        { "option_id": 3, "text": "अग्निजन्य खडक", "is_correct": true },
+        { "option_id": 4, "text": "जीवाश्म खडक", "is_correct": false }
+      ],
+      "answer": "अग्निजन्य खडक"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "भूकंपलहरींचा अभ्यास कशासाठी केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "हवामान जाणण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "पृथ्वीच्या अंतरंगाची रचना समजण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "समुद्राची खोली मोजण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "तापमान मोजण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पृथ्वीच्या अंतरंगाची रचना समजण्यासाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "दुय्यम (S) लहरी कोणत्या माध्यमातून जाऊ शकत नाहीत?",
+      "options": [
+        { "option_id": 1, "text": "घन", "is_correct": false },
+        { "option_id": 2, "text": "द्रव", "is_correct": true },
+        { "option_id": 3, "text": "घन व द्रव", "is_correct": false },
+        { "option_id": 4, "text": "वायू", "is_correct": false }
+      ],
+      "answer": "द्रव"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "प्रावरण व गाभा यांतील विलगतेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मोहो विलगता", "is_correct": false },
+        { "option_id": 2, "text": "कॉनरॅड विलगता", "is_correct": false },
+        { "option_id": 3, "text": "गटेनबर्ग विलगता", "is_correct": true },
+        { "option_id": 4, "text": "निफे विलगता", "is_correct": false }
+      ],
+      "answer": "गटेनबर्ग विलगता"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "गाभ्याचे किती भाग आहेत?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "बाह्यगाभा कोणत्या अवस्थेत असतो?",
+      "options": [
+        { "option_id": 1, "text": "घन", "is_correct": false },
+        { "option_id": 2, "text": "द्रव", "is_correct": true },
+        { "option_id": 3, "text": "वायू", "is_correct": false },
+        { "option_id": 4, "text": "घन-द्रव", "is_correct": false }
+      ],
+      "answer": "द्रव"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "अंतर्गाभा कोणत्या अवस्थेत असतो?",
+      "options": [
+        { "option_id": 1, "text": "द्रव", "is_correct": false },
+        { "option_id": 2, "text": "घन", "is_correct": true },
+        { "option_id": 3, "text": "वायू", "is_correct": false },
+        { "option_id": 4, "text": "अर्धद्रव", "is_correct": false }
+      ],
+      "answer": "घन"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "गाभ्यात प्रामुख्याने कोणती मूलद्रव्ये आढळतात?",
+      "options": [
+        { "option_id": 1, "text": "सिलिका व अॅल्युमिनिअम", "is_correct": false },
+        { "option_id": 2, "text": "लोह व निकेल", "is_correct": true },
+        { "option_id": 3, "text": "मॅग्नेशिअम व ऑक्सिजन", "is_correct": false },
+        { "option_id": 4, "text": "हायड्रोजन व हीलियम", "is_correct": false }
+      ],
+      "answer": "लोह व निकेल"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या कोणत्या थरात तापमान सर्वाधिक असते?",
+      "options": [
+        { "option_id": 1, "text": "भूकवच", "is_correct": false },
+        { "option_id": 2, "text": "प्रावरण", "is_correct": false },
+        { "option_id": 3, "text": "गाभा", "is_correct": true },
+        { "option_id": 4, "text": "चुंबकावरण", "is_correct": false }
+      ],
+      "answer": "गाभा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "भूकवचाच्या खालच्या भागात कोणता खडक आढळतो?",
+      "options": [
+        { "option_id": 1, "text": "ग्रॅनाईट", "is_correct": false },
+        { "option_id": 2, "text": "बेसॉल्ट", "is_correct": true },
+        { "option_id": 3, "text": "चुनखडी", "is_correct": false },
+        { "option_id": 4, "text": "संगमरवर", "is_correct": false }
+      ],
+      "answer": "बेसॉल्ट"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "दुर्बलावरण कोणत्या थराशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "भूकवच", "is_correct": false },
+        { "option_id": 2, "text": "प्रावरण", "is_correct": true },
+        { "option_id": 3, "text": "गाभा", "is_correct": false },
+        { "option_id": 4, "text": "वायुमंडल", "is_correct": false }
+      ],
+      "answer": "प्रावरण"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "भूकंपलहरींचा वेग कोणत्या थरात जास्त असतो?",
+      "options": [
+        { "option_id": 1, "text": "द्रव थरात", "is_correct": false },
+        { "option_id": 2, "text": "घन थरात", "is_correct": true },
+        { "option_id": 3, "text": "वायू थरात", "is_correct": false },
+        { "option_id": 4, "text": "चुंबकावरणात", "is_correct": false }
+      ],
+      "answer": "घन थरात"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "प्राथमिक (P) लहरी कोणत्या माध्यमातून जाऊ शकतात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त घन", "is_correct": false },
+        { "option_id": 2, "text": "घन व द्रव", "is_correct": false },
+        { "option_id": 3, "text": "घन, द्रव व वायू", "is_correct": true },
+        { "option_id": 4, "text": "फक्त द्रव", "is_correct": false }
+      ],
+      "answer": "घन, द्रव व वायू"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "भूकंपाच्या केंद्रबिंदूला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "उत्केंद्र", "is_correct": false },
+        { "option_id": 2, "text": "उद्गमबिंदू", "is_correct": true },
+        { "option_id": 3, "text": "भूकवच", "is_correct": false },
+        { "option_id": 4, "text": "भूकंपकेंद्र", "is_correct": false }
+      ],
+      "answer": "उद्गमबिंदू"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "भूकंपमापक यंत्राला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "थर्मामीटर", "is_correct": false },
+        { "option_id": 2, "text": "सिस्मोग्राफ", "is_correct": true },
+        { "option_id": 3, "text": "बॅरोमीटर", "is_correct": false },
+        { "option_id": 4, "text": "हायड्रोमीटर", "is_correct": false }
+      ],
+      "answer": "सिस्मोग्राफ"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "ज्वालामुखी उद्रेकाचा थेट संबंध कोणत्या थराशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "भूकवच", "is_correct": false },
+        { "option_id": 2, "text": "प्रावरण", "is_correct": true },
+        { "option_id": 3, "text": "गाभा", "is_correct": false },
+        { "option_id": 4, "text": "वायुमंडल", "is_correct": false }
+      ],
+      "answer": "प्रावरण"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "लाव्हारस बाहेर येण्याचे मुख्य कारण काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "अधिक दाब", "is_correct": true },
+        { "option_id": 2, "text": "थंड तापमान", "is_correct": false },
+        { "option_id": 3, "text": "पाण्याचा दाब", "is_correct": false },
+        { "option_id": 4, "text": "वायुदाब कमी होणे", "is_correct": false }
+      ],
+      "answer": "अधिक दाब"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "अग्निजन्य खडकांची निर्मिती कशामुळे होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी साचल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "लाव्हारस थंड झाल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "वाऱ्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "हिमनद्यांमुळे", "is_correct": false }
+      ],
+      "answer": "लाव्हारस थंड झाल्यामुळे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "गाभ्याचे तापमान सुमारे किती असते?",
+      "options": [
+        { "option_id": 1, "text": "१०००°C", "is_correct": false },
+        { "option_id": 2, "text": "३०००°C", "is_correct": false },
+        { "option_id": 3, "text": "५०००°C", "is_correct": true },
+        { "option_id": 4, "text": "१००°C", "is_correct": false }
+      ],
+      "answer": "५०००°C"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या गाभ्यामुळे कोणते क्षेत्र निर्माण होते?",
+      "options": [
+        { "option_id": 1, "text": "गुरुत्वक्षेत्र", "is_correct": false },
+        { "option_id": 2, "text": "चुंबकीय क्षेत्र", "is_correct": true },
+        { "option_id": 3, "text": "उष्णक्षेत्र", "is_correct": false },
+        { "option_id": 4, "text": "वायूक्षेत्र", "is_correct": false }
+      ],
+      "answer": "चुंबकीय क्षेत्र"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "चुंबकीय क्षेत्राचे संरक्षण करणाऱ्या थराला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "भूकवच", "is_correct": false },
+        { "option_id": 2, "text": "चुंबकावरण", "is_correct": true },
+        { "option_id": 3, "text": "प्रावरण", "is_correct": false },
+        { "option_id": 4, "text": "वायुमंडल", "is_correct": false }
+      ],
+      "answer": "चुंबकावरण"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "भूकंपाच्या तीव्रतेचे मापन कोणत्या प्रमाणावर केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "सेल्सियस", "is_correct": false },
+        { "option_id": 2, "text": "रिख्टर प्रमाण", "is_correct": true },
+        { "option_id": 3, "text": "मीटर", "is_correct": false },
+        { "option_id": 4, "text": "पॅस्कल", "is_correct": false }
+      ],
+      "answer": "रिख्टर प्रमाण"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "भूकंपाचे केंद्र पृथ्वीच्या कोणत्या थरात असते?",
+      "options": [
+        { "option_id": 1, "text": "भूकवच", "is_correct": true },
+        { "option_id": 2, "text": "प्रावरण", "is_correct": false },
+        { "option_id": 3, "text": "गाभा", "is_correct": false },
+        { "option_id": 4, "text": "चुंबकावरण", "is_correct": false }
+      ],
+      "answer": "भूकवच"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "प्रावरणातील प्रवाहामुळे कोणती प्रक्रिया घडते?",
+      "options": [
+        { "option_id": 1, "text": "प्लेट हालचाल", "is_correct": true },
+        { "option_id": 2, "text": "हवामान बदल", "is_correct": false },
+        { "option_id": 3, "text": "पर्जन्य", "is_correct": false },
+        { "option_id": 4, "text": "ध्रुव बदल", "is_correct": false }
+      ],
+      "answer": "प्लेट हालचाल"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "प्लेट विवर्तनिकी सिद्धांत कोणत्या घटनेचे स्पष्टीकरण देतो?",
+      "options": [
+        { "option_id": 1, "text": "हवामान बदल", "is_correct": false },
+        { "option_id": 2, "text": "भूकंप व ज्वालामुखी", "is_correct": true },
+        { "option_id": 3, "text": "ऋतू बदल", "is_correct": false },
+        { "option_id": 4, "text": "पर्जन्यमान", "is_correct": false }
+      ],
+      "answer": "भूकंप व ज्वालामुखी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "भूकवचातील प्लेट्स कोणत्या थरावर तरंगतात?",
+      "options": [
+        { "option_id": 1, "text": "गाभा", "is_correct": false },
+        { "option_id": 2, "text": "दुर्बलावरण", "is_correct": true },
+        { "option_id": 3, "text": "चुंबकावरण", "is_correct": false },
+        { "option_id": 4, "text": "वायुमंडल", "is_correct": false }
+      ],
+      "answer": "दुर्बलावरण"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "भूकंपलहरी पृथ्वीच्या कोणत्या भागात प्रवेश करत नाहीत?",
+      "options": [
+        { "option_id": 1, "text": "घन भाग", "is_correct": false },
+        { "option_id": 2, "text": "द्रव गाभा (S लहरी)", "is_correct": true },
+        { "option_id": 3, "text": "भूकवच", "is_correct": false },
+        { "option_id": 4, "text": "प्रावरण", "is_correct": false }
+      ],
+      "answer": "द्रव गाभा (S लहरी)"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या अंतरंगाचा अभ्यास करण्यासाठी सर्वाधिक उपयोगी साधन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "उपग्रह", "is_correct": false },
+        { "option_id": 2, "text": "भूकंपलहरी", "is_correct": true },
+        { "option_id": 3, "text": "नकाशे", "is_correct": false },
+        { "option_id": 4, "text": "हवामान मापन", "is_correct": false }
+      ],
+      "answer": "भूकंपलहरी"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "खंडीय कवच महासागरीय कवचापेक्षा कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "पातळ", "is_correct": false },
+        { "option_id": 2, "text": "जाड व हलके", "is_correct": true },
+        { "option_id": 3, "text": "जड", "is_correct": false },
+        { "option_id": 4, "text": "प्रवाही", "is_correct": false }
+      ],
+      "answer": "जाड व हलके"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "महासागरीय कवच खंडीय कवचापेक्षा कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "हलके", "is_correct": false },
+        { "option_id": 2, "text": "जाड", "is_correct": false },
+        { "option_id": 3, "text": "जड व पातळ", "is_correct": true },
+        { "option_id": 4, "text": "प्रवाही", "is_correct": false }
+      ],
+      "answer": "जड व पातळ"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "भूकवचाचे सरासरी तापमान कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "अत्यंत जास्त", "is_correct": false },
+        { "option_id": 2, "text": "मध्यम", "is_correct": true },
+        { "option_id": 3, "text": "अत्यंत कमी", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर", "is_correct": false }
+      ],
+      "answer": "मध्यम"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "प्रावरणाचा मुख्य घटक कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "सिलिका", "is_correct": false },
+        { "option_id": 2, "text": "मॅग्नेशिअम", "is_correct": true },
+        { "option_id": 3, "text": "निकेल", "is_correct": false },
+        { "option_id": 4, "text": "हायड्रोजन", "is_correct": false }
+      ],
+      "answer": "मॅग्नेशिअम"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "गाभ्याचा रासायनिक संकेत कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "सियल", "is_correct": false },
+        { "option_id": 2, "text": "सिमा", "is_correct": false },
+        { "option_id": 3, "text": "निफे", "is_correct": true },
+        { "option_id": 4, "text": "मॅग्मा", "is_correct": false }
+      ],
+      "answer": "निफे"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "निफे हा शब्द कोणत्या दोन मूलद्रव्यांपासून बनला आहे?",
+      "options": [
+        { "option_id": 1, "text": "निकेल व लोह", "is_correct": true },
+        { "option_id": 2, "text": "सिलिका व लोह", "is_correct": false },
+        { "option_id": 3, "text": "मॅग्नेशिअम व लोह", "is_correct": false },
+        { "option_id": 4, "text": "निकेल व सिलिका", "is_correct": false }
+      ],
+      "answer": "निकेल व लोह"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "भूकंपाची तीव्रता जास्त असण्याचे मुख्य कारण काय?",
+      "options": [
+        { "option_id": 1, "text": "हवामान", "is_correct": false },
+        { "option_id": 2, "text": "ऊर्जेचे जास्त मुक्त होणे", "is_correct": true },
+        { "option_id": 3, "text": "पर्जन्यमान", "is_correct": false },
+        { "option_id": 4, "text": "उंची", "is_correct": false }
+      ],
+      "answer": "ऊर्जेचे जास्त मुक्त होणे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "ज्वालामुखी मुख्यतः कुठे आढळतात?",
+      "options": [
+        { "option_id": 1, "text": "प्लेट सीमांवर", "is_correct": true },
+        { "option_id": 2, "text": "ध्रुवांवर", "is_correct": false },
+        { "option_id": 3, "text": "समतल प्रदेशात", "is_correct": false },
+        { "option_id": 4, "text": "वाळवंटात", "is_correct": false }
+      ],
+      "answer": "प्लेट सीमांवर"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "भूकंपलहरींच्या अभ्यासामुळे पृथ्वीचा कोणता थर द्रव असल्याचे सिद्ध झाले?",
+      "options": [
+        { "option_id": 1, "text": "भूकवच", "is_correct": false },
+        { "option_id": 2, "text": "प्रावरण", "is_correct": false },
+        { "option_id": 3, "text": "बाह्यगाभा", "is_correct": true },
+        { "option_id": 4, "text": "अंतर्गाभा", "is_correct": false }
+      ],
+      "answer": "बाह्यगाभा"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या अंतरंगाचा अभ्यास कोणत्या विज्ञान शाखेशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "खगोलशास्त्र", "is_correct": false },
+        { "option_id": 2, "text": "भूशास्त्र", "is_correct": true },
+        { "option_id": 3, "text": "जीवशास्त्र", "is_correct": false },
+        { "option_id": 4, "text": "हवामानशास्त्र", "is_correct": false }
+      ],
+      "answer": "भूशास्त्र"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे अंतरंग म्हणजे काय?",
+      "answer": "पृथ्वीच्या पृष्ठभागाखाली असलेल्या विविध थरांना पृथ्वीचे अंतरंग म्हणतात. हे थर भूकवच, प्रावरण आणि गाभा असे तीन आहेत. या थरांचा अभ्यास भूशास्त्रात केला जातो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पृथ्वीची निर्मिती कशी झाली?",
+      "answer": "पृथ्वीची निर्मिती सुमारे ४६० कोटी वर्षांपूर्वी झाली. सुरुवातीला पृथ्वी वायुरूप अवस्थेत होती. कालांतराने ती थंड होत गेली आणि थरांची निर्मिती झाली."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "भूकवच म्हणजे काय?",
+      "answer": "पृथ्वीचा सर्वांत बाह्य थर म्हणजे भूकवच होय. आपण ज्या जमिनीवर राहतो तो हा थर आहे. याची जाडी कमी असून खडकांनी बनलेला आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भूकवचाचे प्रकार कोणते?",
+      "answer": "भूकवचाचे दोन प्रकार आहेत. एक खंडीय कवच व दुसरे महासागरीय कवच. खंडीय कवच जाड व हलके असते तर महासागरीय कवच पातळ व जड असते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "खंडीय कवचाची वैशिष्ट्ये सांगा.",
+      "answer": "खंडीय कवच जाड व हलके असते. ते प्रामुख्याने सिलिका व अॅल्युमिनिअमपासून बनलेले असते. यावर खंड व पठारे आढळतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "महासागरीय कवचाची वैशिष्ट्ये सांगा.",
+      "answer": "महासागरीय कवच पातळ व जड असते. ते प्रामुख्याने बेसॉल्ट खडकांपासून बनलेले असते. हे कवच महासागरांच्या तळाशी आढळते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "मोहो विलगता म्हणजे काय?",
+      "answer": "भूकवच व प्रावरण यांच्यातील सीमारेषेला मोहो विलगता म्हणतात. या सीमारेषेवर खडकांच्या गुणधर्मात बदल दिसतो. ती भूकंपलहरींनी शोधली गेली."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "प्रावरण म्हणजे काय?",
+      "answer": "भूकवचाखाली असलेला थर म्हणजे प्रावरण होय. हा थर अर्धद्रव अवस्थेत असतो. पृथ्वीतील अनेक अंतर्गत क्रिया येथे घडतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "दुर्बलावरण का म्हणतात?",
+      "answer": "प्रावरणाचा काही भाग अर्धद्रव व प्रवाही असतो. या भागावर भूकवचाच्या प्लेट्स तरंगतात. म्हणून याला दुर्बलावरण म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "गाभा म्हणजे काय?",
+      "answer": "पृथ्वीचा सर्वांत आतला थर म्हणजे गाभा होय. येथे तापमान व दाब खूप जास्त असतो. गाभा लोह व निकेलपासून बनलेला असतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "गाभ्याचे किती भाग आहेत?",
+      "answer": "गाभ्याचे दोन भाग आहेत – बाह्यगाभा आणि अंतर्गाभा. बाह्यगाभा द्रव अवस्थेत असतो. अंतर्गाभा घन अवस्थेत असतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "गटेनबर्ग विलगता म्हणजे काय?",
+      "answer": "प्रावरण व गाभा यांच्यातील सीमारेषेला गटेनबर्ग विलगता म्हणतात. येथे भूकंपलहरींच्या वेगात बदल दिसतो. यावरून गाभ्याची रचना समजते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगाचा अभ्यास कसा केला जातो?",
+      "answer": "थेट पृथ्वीच्या अंतरंगात जाणे शक्य नसते. त्यामुळे भूकंपलहरींच्या साहाय्याने अभ्यास केला जातो. लहरींच्या गतीवरून थरांची माहिती मिळते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "भूकंपलहरी म्हणजे काय?",
+      "answer": "भूकंपाच्या वेळी निर्माण होणाऱ्या ऊर्जा लहरींना भूकंपलहरी म्हणतात. या लहरी पृथ्वीच्या आतून प्रवास करतात. त्यावरून पृथ्वीची रचना समजते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "P लहरींची वैशिष्ट्ये सांगा.",
+      "answer": "P लहरी सर्वांत वेगवान असतात. त्या घन, द्रव व वायू माध्यमातून जाऊ शकतात. त्या प्रथम नोंदवल्या जातात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "S लहरींची वैशिष्ट्ये सांगा.",
+      "answer": "S लहरी घन माध्यमातूनच जाऊ शकतात. त्या द्रव माध्यमातून जाऊ शकत नाहीत. त्यामुळे बाह्यगाभा द्रव असल्याचे सिद्ध झाले."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय?",
+      "answer": "पृथ्वीच्या अंतर्गत हालचालींमुळे होणाऱ्या कंपांना भूकंप म्हणतात. भूकवचातील प्लेट्सच्या हालचालींमुळे भूकंप होतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "भूकंपाची तीव्रता कशी मोजली जाते?",
+      "answer": "भूकंपाची तीव्रता रिख्टर प्रमाणावर मोजली जाते. ही मोजणी भूकंपात मुक्त झालेल्या ऊर्जेवर आधारित असते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी म्हणजे काय?",
+      "answer": "पृथ्वीच्या अंतरंगातून लाव्हारस, वायू व राख बाहेर पडते त्यास ज्वालामुखी म्हणतात. हे प्रामुख्याने प्लेट सीमांवर आढळतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "अग्निजन्य खडक कसे तयार होतात?",
+      "answer": "लाव्हारस थंड होऊन घन झाल्यावर अग्निजन्य खडक तयार होतात. हे खडक सर्वांत जुने मानले जातात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "प्लेट विवर्तनिकी म्हणजे काय?",
+      "answer": "भूकवच मोठ्या प्लेट्समध्ये विभागलेले आहे. या प्लेट्स दुर्बलावरणावर तरंगतात. त्यांच्या हालचालींना प्लेट विवर्तनिकी म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "प्लेट हालचालींचे परिणाम काय होतात?",
+      "answer": "प्लेट हालचालींमुळे भूकंप व ज्वालामुखी होतात. पर्वतनिर्मिती व महासागर निर्मितीही यामुळे होते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या गाभ्याचे महत्त्व काय आहे?",
+      "answer": "गाभ्यामुळे पृथ्वीचे चुंबकीय क्षेत्र निर्माण होते. हे क्षेत्र पृथ्वीचे संरक्षण करते. जीवन टिकण्यासाठी ते महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "चुंबकावरण म्हणजे काय?",
+      "answer": "पृथ्वीभोवती असलेल्या चुंबकीय क्षेत्राला चुंबकावरण म्हणतात. ते सूर्याच्या हानिकारक किरणांपासून पृथ्वीचे संरक्षण करते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "भूकवच व प्रावरण यांतील फरक सांगा.",
+      "answer": "भूकवच हा बाह्य थर असून घन आहे. प्रावरण हा त्याखालील अर्धद्रव थर आहे. दोन्ही थरांची रचना व कार्य वेगवेगळे आहेत."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "भूकंपलहरी पृथ्वीच्या कोणत्या थरात जात नाहीत?",
+      "answer": "S लहरी द्रव माध्यमातून जात नाहीत. त्यामुळे त्या बाह्यगाभ्यात प्रवेश करत नाहीत. यावरून गाभ्याची रचना समजते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "गाभ्यात तापमान जास्त का असते?",
+      "answer": "पृथ्वीच्या आत खोल जाताना दाब वाढतो. या दाबामुळे तापमान वाढते. त्यामुळे गाभ्यात तापमान फार जास्त असते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "भूकंपमापक यंत्राचे कार्य काय आहे?",
+      "answer": "भूकंपमापक यंत्र भूकंपलहरी नोंदवते. त्यावरून भूकंपाची तीव्रता व वेळ कळते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगाचा अभ्यास महत्त्वाचा का आहे?",
+      "answer": "भूकंप व ज्वालामुखी समजण्यासाठी तो आवश्यक आहे. नैसर्गिक आपत्तींचा अंदाज घेता येतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "या धड्याचा मुख्य आशय काय आहे?",
+      "answer": "या धड्यात पृथ्वीच्या अंतर्गत रचनेची माहिती दिली आहे. भूकवच, प्रावरण व गाभा यांचा अभ्यास करण्यात आला आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "भूकवचाचे मानवी जीवनातील महत्त्व काय आहे?",
+      "answer": "भूकवचावर मानवी वस्ती, शेती व उद्योगधंदे विकसित झाले आहेत. नैसर्गिक साधनसंपत्ती याच थरात आढळते. त्यामुळे मानवी जीवनासाठी भूकवच अत्यंत महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "प्रावरणातील प्रवाही हालचालींचे परिणाम काय होतात?",
+      "answer": "प्रावरणातील प्रवाही हालचालींमुळे प्लेट्स हालचाल करतात. यामुळे भूकंप, ज्वालामुखी व पर्वतनिर्मिती होते. पृथ्वीच्या पृष्ठभागात बदल घडतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगात दाब वाढत जाण्याचे कारण काय आहे?",
+      "answer": "पृथ्वीच्या आत खोल जाताना वरच्या थरांचा भार वाढतो. त्यामुळे दाब सतत वाढत जातो. याचा थेट परिणाम तापमानावरही होतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "अंतर्गाभा घन अवस्थेत का आहे?",
+      "answer": "अंतर्गाभ्यात तापमान जास्त असले तरी दाब अत्यंत जास्त असतो. या प्रचंड दाबामुळे पदार्थ घन अवस्थेत राहतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "बाह्यगाभा द्रव अवस्थेत असण्याचे महत्त्व काय आहे?",
+      "answer": "बाह्यगाभा द्रव अवस्थेत असल्यामुळे पृथ्वीचे चुंबकीय क्षेत्र निर्माण होते. हे चुंबकीय क्षेत्र पृथ्वीवरील जीवनाचे संरक्षण करते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या चुंबकीय क्षेत्राचे महत्त्व काय आहे?",
+      "answer": "चुंबकीय क्षेत्र सूर्याच्या हानिकारक किरणांपासून पृथ्वीचे संरक्षण करते. त्यामुळे जीवसृष्टी सुरक्षित राहते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "भूकंपाचा मानवावर काय परिणाम होतो?",
+      "answer": "भूकंपामुळे जीवित व मालमत्तेचे मोठे नुकसान होते. इमारती, पूल व रस्ते उद्ध्वस्त होतात. सामाजिक व आर्थिक नुकसान होते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखीचा पर्यावरणावर काय परिणाम होतो?",
+      "answer": "ज्वालामुखीमुळे वातावरणात राख व वायू पसरतात. काही वेळा शेतीस उपयुक्त माती तयार होते. तर कधी मोठी हानीही होते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "प्लेट सीमांवरच ज्वालामुखी का आढळतात?",
+      "answer": "प्लेट सीमांवर ताण व दाब जास्त असतो. त्यामुळे लाव्हारस बाहेर पडण्यास मार्ग मिळतो. म्हणून ज्वालामुखी प्रामुख्याने तिथे आढळतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगाचा अभ्यास आपत्ती व्यवस्थापनासाठी कसा उपयुक्त आहे?",
+      "answer": "भूकंप व ज्वालामुखी समजल्यामुळे आपत्तीचा अंदाज घेता येतो. योग्य नियोजन करता येते. त्यामुळे हानी कमी करता येते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "भूकंपलहरींच्या गतीत बदल का होतो?",
+      "answer": "वेगवेगळ्या थरांमध्ये घनता व अवस्था बदलते. त्यामुळे लहरींच्या वेगात बदल दिसतो. यावरून थरांची माहिती मिळते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "भूकंपमापक यंत्राचा उपयोग काय आहे?",
+      "answer": "भूकंपमापक यंत्र भूकंपलहरी नोंदवते. भूकंपाची तीव्रता व केंद्र ओळखण्यास मदत करते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगातील उष्णतेचा उपयोग कसा केला जातो?",
+      "answer": "भूऔष्णिक ऊर्जा निर्मितीसाठी या उष्णतेचा उपयोग होतो. काही देशांत वीज निर्मितीसाठी ती वापरली जाते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "प्लेट विवर्तनिकी सिद्धांताचे महत्त्व काय आहे?",
+      "answer": "हा सिद्धांत भूकंप, ज्वालामुखी व पर्वतनिर्मिती स्पष्ट करतो. पृथ्वीवरील हालचाली समजण्यास मदत करतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "भूकवचाचे जाड व पातळ भाग कशामुळे तयार झाले?",
+      "answer": "प्लेट हालचाली व खडकांची रचना यामुळे भूकवचाची जाडी बदलते. खंडीय भाग जाड तर महासागरीय भाग पातळ असतो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगाचा अभ्यास थेट का करता येत नाही?",
+      "answer": "अत्यंत जास्त तापमान व दाबामुळे पृथ्वीच्या आत थेट जाणे अशक्य आहे. म्हणून अप्रत्यक्ष साधनांचा वापर करावा लागतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "भूकंप केंद्र व उद्गमबिंदू यात फरक काय?",
+      "answer": "उद्गमबिंदू पृथ्वीच्या आत असतो जिथून भूकंप सुरू होतो. त्याच्या थेट वर पृष्ठभागावर असलेला बिंदू म्हणजे भूकंप केंद्र."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगामुळे हवामानावर काही परिणाम होतो का?",
+      "answer": "थेट परिणाम होत नाही. मात्र ज्वालामुखी उद्रेकामुळे वातावरणात बदल होतात. काही काळ हवामान बदलते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "भूकवचातील खडकांचे मानवी जीवनातील उपयोग काय आहेत?",
+      "answer": "खडकांपासून खनिजे मिळतात. बांधकाम साहित्य तयार होते. उद्योगधंद्यांचा विकास होतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे अंतरंग अभ्यासण्याचे शैक्षणिक महत्त्व काय आहे?",
+      "answer": "विद्यार्थ्यांना पृथ्वीची रचना समजते. नैसर्गिक प्रक्रियांची माहिती मिळते. भूगोलाचे ज्ञान वाढते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "भूकंप प्रवण क्षेत्रे कशी ओळखली जातात?",
+      "answer": "भूकंपलहरींच्या नोंदी व भूतकाळातील घटनांवरून ही क्षेत्रे ओळखली जातात. प्लेट सीमांजवळ ही क्षेत्रे आढळतात."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखीची सुप्त अवस्था म्हणजे काय?",
+      "answer": "ज्वालामुखी काही काळ निष्क्रिय राहतो. पण भविष्यात पुन्हा उद्रेक होण्याची शक्यता असते. अशा अवस्थेला सुप्त अवस्था म्हणतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "सक्रिय ज्वालामुखी म्हणजे काय?",
+      "answer": "ज्यांतून सध्या किंवा अलीकडे लाव्हारस बाहेर पडला आहे अशा ज्वालामुखींना सक्रिय ज्वालामुखी म्हणतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "भूकंपाची वारंवारता वाढण्याची कारणे काय?",
+      "answer": "प्लेट हालचाली व अंतर्गत दाब वाढल्यामुळे भूकंप होतात. काही प्रदेश भूगर्भीय दृष्ट्या सक्रिय असतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगाचा अभ्यास भविष्यासाठी कसा उपयुक्त आहे?",
+      "answer": "नैसर्गिक आपत्तींचा अंदाज घेता येतो. संसाधनांचा योग्य वापर करता येतो. मानवाचे संरक्षण शक्य होते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "भूकवच व गाभा यांचा परस्पर संबंध काय आहे?",
+      "answer": "गाभ्यातील उष्णतेमुळे प्रावरणात प्रवाह तयार होतात. त्यामुळे भूकवचातील प्लेट्स हालचाल करतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगामुळे खनिज संपत्ती कशी निर्माण होते?",
+      "answer": "अंतर्गत उष्णता व दाबामुळे खनिजांची निर्मिती होते. ही खनिजे भूकवचात साचतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "भूकंपलहरींचा अभ्यास वैज्ञानिकांसाठी का महत्त्वाचा आहे?",
+      "answer": "पृथ्वीच्या आतल्या रचनेची माहिती मिळते. थरांची जाडी व अवस्था समजते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगाचा मानवी संस्कृतीवर काय परिणाम झाला?",
+      "answer": "नैसर्गिक आपत्तींमुळे मानवी वस्तीची रचना बदलली. पर्वत व पठारांमुळे संस्कृती विकसित झाल्या."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "भूकंप व ज्वालामुखी अभ्यासण्याची गरज का आहे?",
+      "answer": "मानवी हानी टाळण्यासाठी त्यांचा अभ्यास आवश्यक आहे. सुरक्षितता उपाययोजना करता येतात."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "भूकवचातील प्लेट्स का तुटतात?",
+      "answer": "अंतर्गत उष्णता व दाबामुळे ताण निर्माण होतो. त्यामुळे प्लेट्स तुटतात किंवा सरकतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "भूकंपाची तीव्रता व परिणाम यांचा संबंध काय?",
+      "answer": "तीव्रता जास्त असेल तर नुकसान जास्त होते. कमी तीव्रतेचे भूकंप कमी हानी करतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगामुळे भूआकार कसे बदलतात?",
+      "answer": "प्लेट हालचालींमुळे पर्वत, दऱ्या व महासागर तयार होतात. भूआकार सतत बदलत राहतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "भूकंप अभ्यासाचा समाजासाठी काय उपयोग आहे?",
+      "answer": "सुरक्षित इमारती बांधता येतात. आपत्ती व्यवस्थापन सुधारता येते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी माती शेतीस उपयुक्त का ठरते?",
+      "answer": "ज्वालामुखी राखीत खनिजे भरपूर असतात. त्यामुळे माती सुपीक बनते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगातील उष्णतेचा स्रोत कोणता आहे?",
+      "answer": "रेडिओधर्मी पदार्थांचे विघटन व पृथ्वीच्या निर्मितीतील उष्णता हे मुख्य स्रोत आहेत."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "भूकंपलहरींच्या छायाक्षेत्राचा अर्थ काय?",
+      "answer": "काही भागात विशिष्ट लहरी पोहोचत नाहीत. या भागांना छायाक्षेत्र म्हणतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगामुळे ऊर्जा निर्मिती कशी शक्य आहे?",
+      "answer": "भूऔष्णिक ऊर्जेचा उपयोग करून वीज निर्मिती केली जाते. ही ऊर्जा स्वच्छ व नूतनीकरणीय आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "भूकंप व ज्वालामुखी यांचा परस्पर संबंध काय?",
+      "answer": "दोन्ही प्लेट हालचालींमुळे होतात. जिथे प्लेट ताण जास्त असतो तिथे दोन्ही घटना घडतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगाचा अभ्यास का आवश्यक आहे?",
+      "answer": "नैसर्गिक प्रक्रियांचे ज्ञान मिळते. मानवाचे संरक्षण व संसाधनांचा योग्य वापर शक्य होतो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगाचा अभ्यास अप्रत्यक्ष पद्धतीने का केला जातो?",
+      "answer": "पृथ्वीच्या आत तापमान व दाब अत्यंत जास्त असल्यामुळे थेट अभ्यास करणे शक्य नाही. त्यामुळे भूकंपलहरी, ज्वालामुखी आणि खडकांचा अभ्यास करून अप्रत्यक्ष माहिती मिळवली जाते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "भूकंपलहरींच्या अभ्यासामुळे पृथ्वीच्या थरांची माहिती कशी मिळते?",
+      "answer": "भूकंपलहरी वेगवेगळ्या थरांत वेगवेगळ्या गतीने प्रवास करतात. काही लहरी विशिष्ट थरांत जात नाहीत. यावरून थरांची अवस्था व रचना समजते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "भूकवच मानवी जीवनासाठी सर्वाधिक उपयुक्त का आहे?",
+      "answer": "भूकवचावर मानवी वस्ती, शेती आणि उद्योगधंदे विकसित झाले आहेत. नैसर्गिक साधनसंपत्ती याच थरात आढळते. त्यामुळे मानवी जीवनासाठी हा थर महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "प्रावरणातील उष्णतेचा भूकवचावर काय परिणाम होतो?",
+      "answer": "प्रावरणातील उष्णतेमुळे प्रवाही हालचाली निर्माण होतात. त्यामुळे भूकवचातील प्लेट्स हालचाल करतात. यामुळे भूकंप व ज्वालामुखी घडतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगामुळे पर्वतनिर्मिती कशी होते?",
+      "answer": "प्लेट्स एकमेकांवर धडकल्या की दाब निर्माण होतो. त्यामुळे भूपृष्ठ उंचावते. अशा प्रकारे पर्वतरांगा तयार होतात."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "बाह्यगाभ्याच्या द्रव अवस्थेचा पृथ्वीवर काय परिणाम होतो?",
+      "answer": "बाह्यगाभ्याच्या द्रव हालचालींमुळे पृथ्वीचे चुंबकीय क्षेत्र तयार होते. हे क्षेत्र सूर्याच्या हानिकारक किरणांपासून पृथ्वीचे संरक्षण करते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "अंतर्गाभा घन असूनही तापमान जास्त का असते?",
+      "answer": "अंतर्गाभ्यात तापमान खूप जास्त असते, पण दाब प्रचंड असल्यामुळे पदार्थ घन अवस्थेत राहतात. दाबामुळे वितळणे शक्य होत नाही."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "भूकंप व ज्वालामुखी यांचा पृथ्वीच्या अंतरंगाशी काय संबंध आहे?",
+      "answer": "दोन्ही घटना पृथ्वीच्या अंतर्गत उष्णता व प्लेट हालचालींमुळे घडतात. या घटना अंतरंगातील शक्ती बाहेर व्यक्त करतात."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "प्लेट विवर्तनिकी सिद्धांतामुळे पृथ्वीची रचना कशी स्पष्ट होते?",
+      "answer": "हा सिद्धांत भूकवच प्लेट्समध्ये विभागलेले असल्याचे सांगतो. प्लेट हालचालींमुळे भूआकार बदलतात. त्यामुळे पृथ्वीची गतिशील रचना समजते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "भूकंप प्रवण प्रदेश ओळखण्याचे महत्त्व काय आहे?",
+      "answer": "या प्रदेशांमध्ये सुरक्षित इमारती बांधता येतात. आपत्ती व्यवस्थापनाची तयारी करता येते. मानवी व मालमत्तेचे नुकसान कमी करता येते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी उद्रेकाचे सकारात्मक परिणाम कोणते?",
+      "answer": "ज्वालामुखी राखेमुळे माती सुपीक होते. नवीन भूभाग तयार होतो. काही खनिज संसाधने उपलब्ध होतात."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "ज्वालामुखी उद्रेकाचे नकारात्मक परिणाम कोणते?",
+      "answer": "उद्रेकामुळे जीवित व मालमत्तेचे नुकसान होते. हवामानात बदल होतो. शेती व वस्ती उद्ध्वस्त होऊ शकते."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "भूकंपलहरींच्या छायाक्षेत्राचा उपयोग काय आहे?",
+      "answer": "छायाक्षेत्रामुळे पृथ्वीच्या गाभ्याची अवस्था समजते. कोणत्या लहरी कुठे पोहोचत नाहीत हे लक्षात येते."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगाचा अभ्यास भूशास्त्रासाठी का महत्त्वाचा आहे?",
+      "answer": "पृथ्वीची निर्मिती, रचना व अंतर्गत प्रक्रिया समजतात. नैसर्गिक आपत्तींचा अभ्यास करता येतो."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "भूकवचातील खनिज संपत्ती कशी तयार होते?",
+      "answer": "अंतर्गत उष्णता व दाबामुळे खनिजे तयार होतात. ती भूकवचात साचतात आणि मानवासाठी उपयुक्त ठरतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगामुळे भूआकार सतत का बदलतात?",
+      "answer": "अंतर्गत शक्ती व प्लेट हालचाली सतत चालू असतात. त्यामुळे पर्वत, दऱ्या व पठारे तयार होतात."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "भूकंप अभ्यासाचा मानवी सुरक्षेसाठी काय उपयोग आहे?",
+      "answer": "भूकंपाचा धोका ओळखता येतो. सुरक्षित बांधकाम करता येते. आपत्तीमध्ये जीवितहानी कमी करता येते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "भूऔष्णिक ऊर्जेचा पृथ्वीच्या अंतरंगाशी काय संबंध आहे?",
+      "answer": "पृथ्वीच्या अंतरंगातील उष्णतेचा उपयोग करून भूऔष्णिक ऊर्जा मिळवली जाते. ही स्वच्छ व नूतनीकरणीय ऊर्जा आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "भूकवच व प्रावरण यांच्या सीमारेषांचे महत्त्व काय आहे?",
+      "answer": "या सीमारेषांवर खडकांच्या गुणधर्मात बदल दिसतो. भूकंपलहरींच्या अभ्यासासाठी त्या महत्त्वाच्या आहेत."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगामुळे नैसर्गिक आपत्ती का घडतात?",
+      "answer": "अंतर्गत उष्णता व दाबामुळे प्लेट हालचाली होतात. त्यामुळे भूकंप व ज्वालामुखी उद्रेक घडतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगाचा अभ्यास भविष्यकालीन नियोजनासाठी कसा उपयुक्त आहे?",
+      "answer": "नैसर्गिक आपत्तींचा अंदाज घेता येतो. सुरक्षित विकास नियोजन करता येते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "भूकंपलहरींच्या वेगावर कोणते घटक परिणाम करतात?",
+      "answer": "थरांची घनता, अवस्था आणि रासायनिक रचना यावर लहरींचा वेग अवलंबून असतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगामुळे मानवाला कोणते फायदे मिळाले?",
+      "answer": "खनिज संपत्ती, ऊर्जा साधने व सुपीक माती मिळाली. मानवी विकास शक्य झाला."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "भूकंप व ज्वालामुखी अभ्यास का आवश्यक आहे?",
+      "answer": "मानवी जीवनाचे संरक्षण करण्यासाठी हा अभ्यास आवश्यक आहे. आपत्ती व्यवस्थापन सुधारते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगामुळे भूगोल विषय कसा समृद्ध होतो?",
+      "answer": "भूआकार निर्मिती व नैसर्गिक प्रक्रिया समजतात. भूगोलाचे शास्त्रीय ज्ञान वाढते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "भूकवचातील प्लेट्स हलल्यास काय परिणाम होतात?",
+      "answer": "भूकंप, ज्वालामुखी व पर्वतनिर्मिती होते. भूपृष्ठावर मोठे बदल घडतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या अंतरंगाचा अभ्यास विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+      "answer": "पृथ्वीची रचना व प्रक्रिया समजतात. वैज्ञानिक दृष्टिकोन विकसित होतो."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "भूकंपलहरींच्या अभ्यासामुळे कोणते वैज्ञानिक निष्कर्ष निघाले?",
+      "answer": "पृथ्वीचा बाह्यगाभा द्रव आहे हे सिद्ध झाले. थरांची जाडी समजली."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे अंतरंग समजणे मानवासाठी का आवश्यक आहे?",
+      "answer": "नैसर्गिक आपत्ती समजतात. संसाधनांचा योग्य वापर करता येतो. सुरक्षित जीवन शक्य होते."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे अंतरंग एका वाक्यात स्पष्ट करा.",
+      "answer": "पृथ्वीच्या पृष्ठभागाखाली असलेले भूकवच, प्रावरण व गाभा हे तीन थर म्हणजे पृथ्वीचे अंतरंग होय."
+    }
+  ]
+}

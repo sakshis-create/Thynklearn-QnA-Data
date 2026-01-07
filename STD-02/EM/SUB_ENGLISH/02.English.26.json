@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.26",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Reading Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who lost their glasses?",
+      "options": [
+        { "option_id": 1, "text": "The boy", "is_correct": false },
+        { "option_id": 2, "text": "Nani", "is_correct": true },
+        { "option_id": 3, "text": "Mother", "is_correct": false },
+        { "option_id": 4, "text": "Father", "is_correct": false }
+      ],
+      "answer": "Nani"
+    }
+  ]
+}

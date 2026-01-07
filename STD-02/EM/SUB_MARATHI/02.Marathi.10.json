@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.10",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "भाजी घ्या, भाजी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या कवितेत कशाबद्दल सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "फळे", "is_correct": false },
+        { "option_id": 2, "text": "भाज्या", "is_correct": true },
+        { "option_id": 3, "text": "खेळ", "is_correct": false },
+        { "option_id": 4, "text": "प्राणी", "is_correct": false }
+      ],
+      "answer": "भाज्या"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भाजी कशी घ्यायला सांगितली आहे?",
+      "options": [
+        { "option_id": 1, "text": "कोमेजलेली", "is_correct": false },
+        { "option_id": 2, "text": "ताजी ताजी", "is_correct": true },
+        { "option_id": 3, "text": "कडू", "is_correct": false },
+        { "option_id": 4, "text": "शिजवलेली", "is_correct": false }
+      ],
+      "answer": "ताजी ताजी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कोणती भाजी तिखट आहे?",
+      "options": [
+        { "option_id": 1, "text": "मेथी", "is_correct": false },
+        { "option_id": 2, "text": "मिरची", "is_correct": true },
+        { "option_id": 3, "text": "पालक", "is_correct": false },
+        { "option_id": 4, "text": "कोथिंबीर", "is_correct": false }
+      ],
+      "answer": "मिरची"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पालक आणि मेथी कशा आहेत?",
+      "options": [
+        { "option_id": 1, "text": "कोरड्या", "is_correct": false },
+        { "option_id": 2, "text": "हिरव्या पातीच्या", "is_correct": true },
+        { "option_id": 3, "text": "पिवळ्या", "is_correct": false },
+        { "option_id": 4, "text": "कडू", "is_correct": false }
+      ],
+      "answer": "हिरव्या पातीच्या"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मुळा, गाजर आणि कांदा कशासाठी आणले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "चविष्ट भाजीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "विकण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "लपवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "चविष्ट भाजीसाठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "वांगी आणि टोमॅटो कशासाठी आहेत?",
+      "options": [
+        { "option_id": 1, "text": "नाटकासाठी", "is_correct": false },
+        { "option_id": 2, "text": "भाजी बनवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "सजावटीसाठी", "is_correct": false }
+      ],
+      "answer": "भाजी बनवण्यासाठी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कोथिंबीर कशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "कडू", "is_correct": false },
+        { "option_id": 2, "text": "छान", "is_correct": true },
+        { "option_id": 3, "text": "आंबट", "is_correct": false },
+        { "option_id": 4, "text": "कोरडी", "is_correct": false }
+      ],
+      "answer": "छान"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        { "option_id": 1, "text": "कथा", "is_correct": false },
+        { "option_id": 2, "text": "कविता", "is_correct": true },
+        { "option_id": 3, "text": "संवाद", "is_correct": false },
+        { "option_id": 4, "text": "निबंध", "is_correct": false }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भाज्या खाल्ल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "आजारी पडतो", "is_correct": false },
+        { "option_id": 2, "text": "आरोग्य चांगले राहते", "is_correct": true },
+        { "option_id": 3, "text": "थकवा येतो", "is_correct": false },
+        { "option_id": 4, "text": "आळस येतो", "is_correct": false }
+      ],
+      "answer": "आरोग्य चांगले राहते"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कवितेत किती प्रकारच्या भाज्या सांगितल्या आहेत?",
+      "options": [
+        { "option_id": 1, "text": "तीन", "is_correct": false },
+        { "option_id": 2, "text": "पाच", "is_correct": false },
+        { "option_id": 3, "text": "अनेक", "is_correct": true },
+        { "option_id": 4, "text": "दोन", "is_correct": false }
+      ],
+      "answer": "अनेक"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भाजी कुठून घेतली जाते?",
+      "options": [
+        { "option_id": 1, "text": "शाळेतून", "is_correct": false },
+        { "option_id": 2, "text": "भाजी बाजारातून", "is_correct": true },
+        { "option_id": 3, "text": "घरातून", "is_correct": false },
+        { "option_id": 4, "text": "शेतातून", "is_correct": false }
+      ],
+      "answer": "भाजी बाजारातून"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "ही कविता कशासाठी उपयुक्त आहे?",
+      "options": [
+        { "option_id": 1, "text": "भाजी ओळखण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "नाच शिकण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "लिहिण्यासाठी", "is_correct": false }
+      ],
+      "answer": "भाजी ओळखण्यासाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणती भाजी कडू नाही?",
+      "options": [
+        { "option_id": 1, "text": "मेथी", "is_correct": false },
+        { "option_id": 2, "text": "मिरची", "is_correct": false },
+        { "option_id": 3, "text": "गाजर", "is_correct": true },
+        { "option_id": 4, "text": "कांदा", "is_correct": false }
+      ],
+      "answer": "गाजर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्यांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "लहान मुलांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "शेतकऱ्यांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "व्यापाऱ्यांसाठी", "is_correct": false }
+      ],
+      "answer": "लहान मुलांसाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "भाजी घ्यावी कशी?",
+      "options": [
+        { "option_id": 1, "text": "जुनी", "is_correct": false },
+        { "option_id": 2, "text": "ताजी", "is_correct": true },
+        { "option_id": 3, "text": "कोरडी", "is_correct": false },
+        { "option_id": 4, "text": "शिजवलेली", "is_correct": false }
+      ],
+      "answer": "ताजी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "या धड्याचे नाव काय आहे?",
+      "answer": "या धड्याचे नाव ‘भाजी घ्या, भाजी’ आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणकोणत्या भाज्यांची नावे आली आहेत?",
+      "answer": "पालक, मेथी, मिरची, मुळा, गाजर, कांदा, वांगी, टोमॅटो आणि कोथिंबीर."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "भाजी कशी घ्यायला सांगितली आहे?",
+      "answer": "भाजी ताजी ताजी घ्यायला सांगितली आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मिरची कशी आहे?",
+      "answer": "मिरची तिखट आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हिरव्या पातीच्या भाज्या कोणत्या?",
+      "answer": "पालक आणि मेथी या हिरव्या पातीच्या भाज्या आहेत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "भाज्या का खाव्यात?",
+      "answer": "भाज्या आरोग्यासाठी चांगल्या असतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कवितेत भाजी कुठून आणली आहे?",
+      "answer": "कवितेत भाजी बाजारातून आणली आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "वांगी आणि टोमॅटो कशासाठी वापरले जातात?",
+      "answer": "वांगी आणि टोमॅटो भाजी बनवण्यासाठी वापरले जातात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कोथिंबीर कशी आहे?",
+      "answer": "कोथिंबीर छान आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ही कविता कशावर आधारित आहे?",
+      "answer": "ही कविता भाज्यांवर आधारित आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "भाजी घ्यायची सवय का चांगली आहे?",
+      "answer": "भाजी घ्यायची सवय आरोग्य चांगले ठेवते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "या कवितेतून काय शिकायला मिळते?",
+      "answer": "या कवितेतून भाज्यांची नावे व महत्त्व शिकायला मिळते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ही कविता कशी आहे?",
+      "answer": "ही कविता सोपी आणि मजेदार आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मुलांनी भाज्या का खाव्यात?",
+      "answer": "मुलांनी निरोगी राहण्यासाठी भाज्या खाव्यात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या वर्गासाठी आहे?",
+      "answer": "हा धडा दुसरीच्या विद्यार्थ्यांसाठी आहे."
+    }
+  ]
+}

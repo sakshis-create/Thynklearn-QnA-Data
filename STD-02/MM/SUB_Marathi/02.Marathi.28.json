@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.26",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "माझरंची दहीहंडी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या धड्यातील दहीहंडी कोण साजरी करतात?",
+      "options": [
+        { "option_id": 1, "text": "माकडे", "is_correct": false },
+        { "option_id": 2, "text": "माझरे (मांजरे)", "is_correct": true },
+        { "option_id": 3, "text": "कुत्रे", "is_correct": false },
+        { "option_id": 4, "text": "उंदीर", "is_correct": false }
+      ],
+      "answer": "माझरे (मांजरे)"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "दहीहंडी कोणत्या सणाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "दिवाळी", "is_correct": false },
+        { "option_id": 2, "text": "होळी", "is_correct": false },
+        { "option_id": 3, "text": "जन्माष्टमी", "is_correct": true },
+        { "option_id": 4, "text": "गुढीपाडवा", "is_correct": false }
+      ],
+      "answer": "जन्माष्टमी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "दहीहंडी फोडण्यासाठी मांजरे काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "गाणे म्हणतात", "is_correct": false },
+        { "option_id": 2, "text": "मंडळ बनवतात", "is_correct": true },
+        { "option_id": 3, "text": "खेळ खेळतात", "is_correct": false },
+        { "option_id": 4, "text": "नाचतात", "is_correct": false }
+      ],
+      "answer": "मंडळ बनवतात"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "दहीहंडी कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "जमिनीवर ठेवलेली", "is_correct": false },
+        { "option_id": 2, "text": "छतावर ठेवलेली", "is_correct": false },
+        { "option_id": 3, "text": "उंच बांधलेली", "is_correct": true },
+        { "option_id": 4, "text": "बागेत ठेवलेली", "is_correct": false }
+      ],
+      "answer": "उंच बांधलेली"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मांजरी एकमेकांना कशासाठी मदत करतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळायला", "is_correct": false },
+        { "option_id": 2, "text": "खाण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "हंडी फोडण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "हंडी फोडण्यासाठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "दहीहंडी फोडल्यावर मांजरींना काय मिळते?",
+      "options": [
+        { "option_id": 1, "text": "फुले", "is_correct": false },
+        { "option_id": 2, "text": "दही आणि लोणी", "is_correct": true },
+        { "option_id": 3, "text": "खेळणी", "is_correct": false },
+        { "option_id": 4, "text": "चॉकलेट", "is_correct": false }
+      ],
+      "answer": "दही आणि लोणी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "मांजरी हंडीपर्यंत पोहोचण्यासाठी काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "शिडी आणतात", "is_correct": false },
+        { "option_id": 2, "text": "मनोरा बनवतात", "is_correct": true },
+        { "option_id": 3, "text": "उड्या मारतात", "is_correct": false },
+        { "option_id": 4, "text": "दोऱ्याने चढतात", "is_correct": false }
+      ],
+      "answer": "मनोरा बनवतात"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मनोऱ्याच्या वर कोण बसते?",
+      "options": [
+        { "option_id": 1, "text": "सर्वात छोटी मांजर", "is_correct": true },
+        { "option_id": 2, "text": "मोठी मांजर", "is_correct": false },
+        { "option_id": 3, "text": "बिल्ली आई", "is_correct": false },
+        { "option_id": 4, "text": "कोणीही नाही", "is_correct": false }
+      ],
+      "answer": "सर्वात छोटी मांजर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मांजरींच्या दहीहंडीमध्ये काय दिसते?",
+      "options": [
+        { "option_id": 1, "text": "भांडण", "is_correct": false },
+        { "option_id": 2, "text": "स्पर्धा", "is_correct": true },
+        { "option_id": 3, "text": "उदासीनता", "is_correct": false },
+        { "option_id": 4, "text": "रडणे", "is_correct": false }
+      ],
+      "answer": "स्पर्धा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "दहीहंडी फोडताना मांजरे कशी वाटतात?",
+      "options": [
+        { "option_id": 1, "text": "घाबरलेली", "is_correct": false },
+        { "option_id": 2, "text": "रागावलेली", "is_correct": false },
+        { "option_id": 3, "text": "आनंदी आणि उत्साही", "is_correct": true },
+        { "option_id": 4, "text": "थकलेली", "is_correct": false }
+      ],
+      "answer": "आनंदी आणि उत्साही"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "मांजरी दहीहंडी का फोडतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळ जिंकण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "प्रसिद्ध होण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "दही आणि लोणी खाण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "नाचण्यासाठी", "is_correct": false }
+      ],
+      "answer": "दही आणि लोणी खाण्यासाठी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मनोऱ्यातील मांजरे कशी उभी असतात?",
+      "options": [
+        { "option_id": 1, "text": "गोल फिरून", "is_correct": false },
+        { "option_id": 2, "text": "एकावर एक चढून", "is_correct": true },
+        { "option_id": 3, "text": "लांब रांगेत", "is_correct": false },
+        { "option_id": 4, "text": "जमिनीवर बसून", "is_correct": false }
+      ],
+      "answer": "एकावर एक चढून"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मांजरे एकमेकांना कशी मदत करतात?",
+      "options": [
+        { "option_id": 1, "text": "ढकलून", "is_correct": false },
+        { "option_id": 2, "text": "ओढून", "is_correct": false },
+        { "option_id": 3, "text": "खांद्यांवर चढू देऊन", "is_correct": true },
+        { "option_id": 4, "text": "लपून बसून", "is_correct": false }
+      ],
+      "answer": "खांद्यांवर चढू देऊन"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "दहीहंडी फोडल्यानंतर मांजरे काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "पळून जातात", "is_correct": false },
+        { "option_id": 2, "text": "भांडतात", "is_correct": false },
+        { "option_id": 3, "text": "दही आणि लोणी खातात", "is_correct": true },
+        { "option_id": 4, "text": "झोपतात", "is_correct": false }
+      ],
+      "answer": "दही आणि लोणी खातात"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या धड्यातून कोणती शिकवण मिळते?",
+      "options": [
+        { "option_id": 1, "text": "एकट्याने काम करावे", "is_correct": false },
+        { "option_id": 2, "text": "स्पर्धा करु नये", "is_correct": false },
+        { "option_id": 3, "text": "एकीने काम केल्यास यश मिळते", "is_correct": true },
+        { "option_id": 4, "text": "मदत करु नये", "is_correct": false }
+      ],
+      "answer": "एकीने काम केल्यास यश मिळते"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "दहीहंडी फोडण्यासाठी मांजरे काय बनवतात?",
+      "answer": "दहीहंडी फोडण्यासाठी मांजरे मनोरा बनवतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "दहीहंडी कुठे बांधलेली असते?",
+      "answer": "दहीहंडी उंचावर बांधलेली असते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मनोऱ्याच्या वर कोण बसते?",
+      "answer": "मनोऱ्याच्या वर सर्वात छोटी मांजर बसते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मांजरे हंडीपर्यंत कशी पोहोचतात?",
+      "answer": "एकावर एक चढून मांजरे हंडीपर्यंत पोहोचतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "दहीहंडी फोडल्यावर काय मिळते?",
+      "answer": "दही, लोणी आणि गोड पदार्थ मिळतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मांजरे एकमेकांना कशी मदत करतात?",
+      "answer": "खांद्यावर चढायला आणि उभे राहायला मदत करतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "दहीहंडी कोणत्या सणाशी संबंधित आहे?",
+      "answer": "दहीहंडी जन्माष्टमी सणाशी संबंधित आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "दहीहंडी स्पर्धेत काय दिसते?",
+      "answer": "एकी, मेहनत आणि सहकार्य दिसते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मांजरे हंडी का फोडतात?",
+      "answer": "दही आणि लोणी खाण्यासाठी मांजरे हंडी फोडतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ही गोष्ट तुला कशी वाटली?",
+      "answer": "ही गोष्ट मजेदार आणि उत्साही वाटली."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तुला दहीहंडी पाहायला आवडते का? का?",
+      "answer": "हो, कारण ती आनंददायक आणि रोमांचक असते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "या धड्यातील दोन प्राण्यांची नावे लिहा.",
+      "answer": "मांजर आणि उंदीर."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "या धड्यातून तुला काय शिकायला मिळाले?",
+      "answer": "एकीने काम केल्यास यश मिळते हे शिकायला मिळाले."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "दहीहंडी फोडणे सोपे आहे का? का?",
+      "answer": "नाही, कारण त्यासाठी मेहनत आणि सहकार्य लागते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "तू मनोऱ्यातील कोणत्या जागी उभा राहशील?",
+      "answer": "मी माझ्या मित्रांना आधार देण्यासाठी खालच्या रांगेत उभा राहीन."
+    }
+  ]
+}

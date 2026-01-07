@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.16",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "आपला परिसर - २"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आजारी माणसांना कोठे नेतात?",
+      "options": [
+        { "option_id": 1, "text": "शाळेत", "is_correct": false },
+        { "option_id": 2, "text": "दवाखान्यात", "is_correct": true },
+        { "option_id": 3, "text": "उद्यानात", "is_correct": false },
+        { "option_id": 4, "text": "रेल्वेस्थानकावर", "is_correct": false }
+      ],
+      "answer": "दवाखान्यात"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "बस पकडण्यासाठी प्रवासी कोठे जातात?",
+      "options": [
+        { "option_id": 1, "text": "बसस्थानकावर", "is_correct": true },
+        { "option_id": 2, "text": "दवाखान्यात", "is_correct": false },
+        { "option_id": 3, "text": "बँकेत", "is_correct": false },
+        { "option_id": 4, "text": "पोलीस स्टेशनमध्ये", "is_correct": false }
+      ],
+      "answer": "बसस्थानकावर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "आगगाडी (Train) थांबण्याच्या जागेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बसस्थानक", "is_correct": false },
+        { "option_id": 2, "text": "रेल्वेस्थानक", "is_correct": true },
+        { "option_id": 3, "text": "विमानतळ", "is_correct": false },
+        { "option_id": 4, "text": "रस्ता", "is_correct": false }
+      ],
+      "answer": "रेल्वेस्थानक"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "खेळण्यासाठी आणि फिरण्यासाठी मुले कोठे जातात?",
+      "options": [
+        { "option_id": 1, "text": "दवाखान्यात", "is_correct": false },
+        { "option_id": 2, "text": "उद्यानात (बागेत)", "is_correct": true },
+        { "option_id": 3, "text": "कचेरीत", "is_correct": false },
+        { "option_id": 4, "text": "दुकानात", "is_correct": false }
+      ],
+      "answer": "उद्यानात (बागेत)"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "रुग्णांची तपासणी कोण करते?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 2, "text": "डॉक्टर", "is_correct": true },
+        { "option_id": 3, "text": "पोलीस", "is_correct": false },
+        { "option_id": 4, "text": "चालक", "is_correct": false }
+      ],
+      "answer": "डॉक्टर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "रेल्वे धावण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याची", "is_correct": false },
+        { "option_id": 2, "text": "रुळांची (Tracks)", "is_correct": true },
+        { "option_id": 3, "text": "मातीची", "is_correct": false },
+        { "option_id": 4, "text": "डांबराची", "is_correct": false }
+      ],
+      "answer": "रुळांची (Tracks)"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "एका गावातून दुसऱ्या गावाला जाण्यासाठी कोणते वाहन वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "सायकल", "is_correct": false },
+        { "option_id": 2, "text": "बस (ST Bus)", "is_correct": true },
+        { "option_id": 3, "text": "बैलगाडी", "is_correct": false },
+        { "option_id": 4, "text": "हातगाडी", "is_correct": false }
+      ],
+      "answer": "बस (ST Bus)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "उद्यानात खालीलपैकी काय असते?",
+      "options": [
+        { "option_id": 1, "text": "फळे आणि भाजीपाला", "is_correct": false },
+        { "option_id": 2, "text": "खेळणी, झाडे आणि फुले", "is_correct": true },
+        { "option_id": 3, "text": "पुस्तके", "is_correct": false },
+        { "option_id": 4, "text": "औषधे", "is_correct": false }
+      ],
+      "answer": "खेळणी, झाडे आणि फुले"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "प्रवासाचे तिकीट कोठे मिळते?",
+      "options": [
+        { "option_id": 1, "text": "शाळेत", "is_correct": false },
+        { "option_id": 2, "text": "तिकीट खिडकीवर", "is_correct": true },
+        { "option_id": 3, "text": "घरी", "is_correct": false },
+        { "option_id": 4, "text": "बागेत", "is_correct": false }
+      ],
+      "answer": "तिकीट खिडकीवर"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "रुग्णांना औषध कोठून मिळते?",
+      "options": [
+        { "option_id": 1, "text": "दवाखान्यातून", "is_correct": true },
+        { "option_id": 2, "text": "पोस्टातून", "is_correct": false },
+        { "option_id": 3, "text": "शेतातून", "is_correct": false },
+        { "option_id": 4, "text": "बँकेतून", "is_correct": false }
+      ],
+      "answer": "दवाखान्यातून"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'लाल परी' कोणाला म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पोलीस व्हॅन", "is_correct": false },
+        { "option_id": 2, "text": "एस.टी. बस", "is_correct": true },
+        { "option_id": 3, "text": "रुग्णवाहिका", "is_correct": false },
+        { "option_id": 4, "text": "सायकल", "is_correct": false }
+      ],
+      "answer": "एस.टी. बस"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मुलांना खेळण्यासाठी घसरगुंडी कोठे असते?",
+      "options": [
+        { "option_id": 1, "text": "दवाखान्यात", "is_correct": false },
+        { "option_id": 2, "text": "उद्यानात", "is_correct": true },
+        { "option_id": 3, "text": "बँकेत", "is_correct": false },
+        { "option_id": 4, "text": "ऑफिसमध्ये", "is_correct": false }
+      ],
+      "answer": "उद्यानात"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "रेल्वेस्थानकावर प्रवाशांचे सामान वाहून नेणाऱ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "हमाल (कुली)", "is_correct": true },
+        { "option_id": 2, "text": "डॉक्टर", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 4, "text": "वकील", "is_correct": false }
+      ],
+      "answer": "हमाल (कुली)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "बसस्थानकावर बस कोठे उभी राहते?",
+      "options": [
+        { "option_id": 1, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 2, "text": "फलाटावर (Platform)", "is_correct": true },
+        { "option_id": 3, "text": "शेतात", "is_correct": false },
+        { "option_id": 4, "text": "घरासमोर", "is_correct": false }
+      ],
+      "answer": "फलाटावर (Platform)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक ठिकाणी आपण कचरा कोठे टाकावा?",
+      "options": [
+        { "option_id": 1, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 2, "text": "कचराकुंडीत", "is_correct": true },
+        { "option_id": 3, "text": "बसमध्ये", "is_correct": false },
+        { "option_id": 4, "text": "बागेत", "is_correct": false }
+      ],
+      "answer": "कचराकुंडीत"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पाठात दिलेल्या चार सार्वजनिक ठिकाणांची नावे सांगा.",
+      "answer": "दवाखाना, बसस्थानक, रेल्वेस्थानक आणि उद्यान."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "डॉक्टर कोणाला तपासत आहेत?",
+      "answer": "डॉक्टर रुग्णांना (आजारी माणसांना) तपासत आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "बसस्थानकावर आपल्याला काय दिसते?",
+      "answer": "बसस्थानकावर अनेक बसेस आणि प्रवासी दिसतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "रेल्वे कोठून धावते?",
+      "answer": "रेल्वे रुळांवरून धावते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "उद्यानात मुले कशावर खेळत आहेत?",
+      "answer": "उद्यानात मुले घसरगुंडी आणि झोक्यावर खेळत आहेत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "रुग्णाची काळजी कोण घेते?",
+      "answer": "रुग्णाची काळजी डॉक्टर आणि परिचारिका (Nurse) घेतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "प्रवाशी बसची वाट कोठे पाहतात?",
+      "answer": "प्रवाशी बसची वाट बसस्थानकावर पाहतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रेल्वे पुलाचा (Bridge) उपयोग कशासाठी करतात?",
+      "answer": "एका फलाटावरून (Platform) दुसऱ्या फलाटावर जाण्यासाठी रेल्वे पुलाचा उपयोग करतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "उद्यानात फुगेवाला काय करत आहे?",
+      "answer": "उद्यानात फुगेवाला फुगे विकत आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सुट्टीत मुले कोठे फिरायला जातात?",
+      "answer": "सुट्टीत मुले उद्यानात किंवा गावाला फिरायला जातात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "दवाखान्यात गेल्यावर आपण शांत का बसावे?",
+      "answer": "कारण तिथे इतर रुग्णांना त्रास होऊ नये म्हणून शांत बसावे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "उद्यानात गेल्यावर आपण झाडांची पाने-फुले तोडावीत का?",
+      "answer": "नाही, उद्यानात गेल्यावर झाडांची पाने-फुले तोडू नयेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "रेल्वेचा आवाज कसा येतो?",
+      "answer": "रेल्वे 'झुक-झुक' किंवा 'कु-कु' असा आवाज करते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "बस कोण चालवतो?",
+      "answer": "बस चालक (Driver) चालवतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या पाठाचे नाव काय आहे?",
+      "answer": "या पाठाचे नाव 'आपला परिसर - २' आहे."
+    }
+  ]
+}

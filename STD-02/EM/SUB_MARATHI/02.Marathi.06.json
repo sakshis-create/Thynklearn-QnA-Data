@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.06",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "फळे मोजूया"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'Apple' या फळाला मराठीत काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पेरू", "is_correct": false },
+        { "option_id": 2, "text": "सफरचंद", "is_correct": true },
+        { "option_id": 3, "text": "पपई", "is_correct": false },
+        { "option_id": 4, "text": "केळी", "is_correct": false }
+      ],
+      "answer": "सफरचंद"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते फळ बाहेरून हिरवे आणि आतून लाल असते?",
+      "options": [
+        { "option_id": 1, "text": "कलिंगड", "is_correct": true },
+        { "option_id": 2, "text": "चिकू", "is_correct": false },
+        { "option_id": 3, "text": "केळी", "is_correct": false },
+        { "option_id": 4, "text": "सफरचंद", "is_correct": false }
+      ],
+      "answer": "कलिंगड"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "'आंबा' या फळाचा रंग साधारणपणे कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "निळा", "is_correct": false },
+        { "option_id": 2, "text": "काळा", "is_correct": false },
+        { "option_id": 3, "text": "पिवळा/केशरी", "is_correct": true },
+        { "option_id": 4, "text": "जांभळा", "is_correct": false }
+      ],
+      "answer": "पिवळा/केशरी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "'Guava' म्हणजे मराठीत काय?",
+      "options": [
+        { "option_id": 1, "text": "सफरचंद", "is_correct": false },
+        { "option_id": 2, "text": "पेरू", "is_correct": true },
+        { "option_id": 3, "text": "अननस", "is_correct": false },
+        { "option_id": 4, "text": "चिकू", "is_correct": false }
+      ],
+      "answer": "पेरू"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणत्या फळाला काटे असतात?",
+      "options": [
+        { "option_id": 1, "text": "केळी", "is_correct": false },
+        { "option_id": 2, "text": "अननस", "is_correct": true },
+        { "option_id": 3, "text": "आंबा", "is_correct": false },
+        { "option_id": 4, "text": "सफरचंद", "is_correct": false }
+      ],
+      "answer": "अननस"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "'केळी' हे कोणत्या शब्दाचे अनेकवचन आहे?",
+      "options": [
+        { "option_id": 1, "text": "केळा", "is_correct": false },
+        { "option_id": 2, "text": "केळे", "is_correct": true },
+        { "option_id": 3, "text": "केळू", "is_correct": false },
+        { "option_id": 4, "text": "केळ", "is_correct": false }
+      ],
+      "answer": "केळे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सफरचंदाचा रंग कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "लाल", "is_correct": true },
+        { "option_id": 2, "text": "निळा", "is_correct": false },
+        { "option_id": 3, "text": "काळा", "is_correct": false },
+        { "option_id": 4, "text": "पांढरा", "is_correct": false }
+      ],
+      "answer": "लाल"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'चिकू' या फळाचा रंग कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "हिरवा", "is_correct": false },
+        { "option_id": 2, "text": "लाल", "is_correct": false },
+        { "option_id": 3, "text": "तपकिरी (Brown)", "is_correct": true },
+        { "option_id": 4, "text": "निळा", "is_correct": false }
+      ],
+      "answer": "तपकिरी (Brown)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "फळांचा राजा कोणाला म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "आंबा", "is_correct": true },
+        { "option_id": 2, "text": "गाजर", "is_correct": false },
+        { "option_id": 3, "text": "लिंबू", "is_correct": false },
+        { "option_id": 4, "text": "बटाटा", "is_correct": false }
+      ],
+      "answer": "आंबा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'पपई' कापल्यावर आतील बिया कोणत्या रंगाच्या असतात?",
+      "options": [
+        { "option_id": 1, "text": "पांढऱ्या", "is_correct": false },
+        { "option_id": 2, "text": "काळ्या", "is_correct": true },
+        { "option_id": 3, "text": "लाल", "is_correct": false },
+        { "option_id": 4, "text": "हिरव्या", "is_correct": false }
+      ],
+      "answer": "काळ्या"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "फळे मोजण्यासाठी आपण कशाचा वापर करतो?",
+      "options": [
+        { "option_id": 1, "text": "अक्षरांचा", "is_correct": false },
+        { "option_id": 2, "text": "अंकांचा (Numbers)", "is_correct": true },
+        { "option_id": 3, "text": "रंगांचा", "is_correct": false },
+        { "option_id": 4, "text": "चित्रांचा", "is_correct": false }
+      ],
+      "answer": "अंकांचा (Numbers)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'एक' या संख्येसाठी मराठी अंक कोणता?",
+      "options": [
+        { "option_id": 1, "text": "१", "is_correct": true },
+        { "option_id": 2, "text": "२", "is_correct": false },
+        { "option_id": 3, "text": "३", "is_correct": false },
+        { "option_id": 4, "text": "४", "is_correct": false }
+      ],
+      "answer": "१"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'Mango' या शब्दाचा मराठी अर्थ ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "पेरू", "is_correct": false },
+        { "option_id": 2, "text": "आंबा", "is_correct": true },
+        { "option_id": 3, "text": "अननस", "is_correct": false },
+        { "option_id": 4, "text": "सफरचंद", "is_correct": false }
+      ],
+      "answer": "आंबा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कोणते फळ आकाराने खूप मोठे आणि गोल असते?",
+      "options": [
+        { "option_id": 1, "text": "केळी", "is_correct": false },
+        { "option_id": 2, "text": "कलिंगड", "is_correct": true },
+        { "option_id": 3, "text": "चिकू", "is_correct": false },
+        { "option_id": 4, "text": "पेरू", "is_correct": false }
+      ],
+      "answer": "कलिंगड"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "अननसाची चव साधारणपणे कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "तिखट", "is_correct": false },
+        { "option_id": 2, "text": "आंबट-गोड", "is_correct": true },
+        { "option_id": 3, "text": "कडू", "is_correct": false },
+        { "option_id": 4, "text": "तुरट", "is_correct": false }
+      ],
+      "answer": "आंबट-गोड"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कोणत्याही दोन पिवळ्या रंगाच्या फळांची नावे लिहा.",
+      "answer": "आंबा आणि केळी (किंवा पपई)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "'सफरचंद' या शब्दातील शेवटचे अक्षर कोणते?",
+      "answer": "'सफरचंद' या शब्दातील शेवटचे अक्षर 'द' आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "तुम्हाला आवडणाऱ्या एका फळाचे नाव सांगा.",
+      "answer": "मला आंबा (किंवा पेरू/सफरचंद) आवडतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पेरू खाताना आपण काय लावून खातो?",
+      "answer": "पेरू खाताना आपण अनेकदा मीठ-तिखट लावून खातो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "फळांपासून आपल्याला काय मिळते?",
+      "answer": "फळांपासून आपल्याला ताकद आणि जीवनसत्त्वे मिळतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "'Watermelon' ला मराठीत काय म्हणतात?",
+      "answer": "Watermelon ला मराठीत 'कलिंगड' म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "'आंबे' या शब्दाचे एकवचन लिहा.",
+      "answer": "आंबा."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "'Pineapple' म्हणजे मराठीत काय?",
+      "answer": "'Pineapple' म्हणजे मराठीत 'अननस'."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "केळ्याची साल कोणत्या रंगाची असते?",
+      "answer": "पिकलेल्या केळ्याची साल पिवळ्या रंगाची असते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कोणते फळ कापून फोडी करून खाल्ले जाते?",
+      "answer": "कलिंगड किंवा पपई कापून फोडी करून खाल्ले जाते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "'चिकू' च्या आत काय असते?",
+      "answer": "चिकूच्या आत काळ्या रंगाच्या बिया असतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "सकाळी नाश्त्यात फळे खाणे चांगले की वाईट?",
+      "answer": "सकाळी नाश्त्यात फळे खाणे तब्येतीसाठी चांगले असते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कच्च्या पेरूचा रंग कोणता असतो?",
+      "answer": "कच्च्या पेरूचा रंग हिरवा असतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कोणते फळ गोड असते?",
+      "answer": "आंबा, चिकू, केळी (कोणतेही एक उत्तर बरोबर आहे)."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "'फळे' या शब्दाचा इंग्रजी अर्थ काय?",
+      "answer": "'फळे' या शब्दाचा इंग्रजी अर्थ 'Fruits' असा होतो."
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.21",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "आपला भारत"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भारत देश कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "लहान देश", "is_correct": false },
+        { "option_id": 2, "text": "सुंदर आणि विविधतेने भरलेला देश", "is_correct": true },
+        { "option_id": 3, "text": "फक्त पर्वतांचा देश", "is_correct": false },
+        { "option_id": 4, "text": "फक्त शहरांचा देश", "is_correct": false }
+      ],
+      "answer": "सुंदर आणि विविधतेने भरलेला देश"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भारतात काय आढळते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त वाळवंट", "is_correct": false },
+        { "option_id": 2, "text": "फक्त समुद्र", "is_correct": false },
+        { "option_id": 3, "text": "उंच पर्वत, नद्या आणि जंगले", "is_correct": true },
+        { "option_id": 4, "text": "फक्त शहरे", "is_correct": false }
+      ],
+      "answer": "उंच पर्वत, नद्या आणि जंगले"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "नद्यांकाठी कोणती ठिकाणे असतात?",
+      "options": [
+        { "option_id": 1, "text": "कारखाने", "is_correct": false },
+        { "option_id": 2, "text": "गावे", "is_correct": true },
+        { "option_id": 3, "text": "डेरे", "is_correct": false },
+        { "option_id": 4, "text": "वाळवंट", "is_correct": false }
+      ],
+      "answer": "गावे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भारतातील लोकांचे पोशाख कसे असतात?",
+      "options": [
+        { "option_id": 1, "text": "सारखे", "is_correct": false },
+        { "option_id": 2, "text": "वेगवेगळे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त पांढरे", "is_correct": false },
+        { "option_id": 4, "text": "एकसारख्या रंगाचे", "is_correct": false }
+      ],
+      "answer": "वेगवेगळे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भारतातील लोक कोणत्या गोष्टी वेगवेगळ्या साजऱ्या करतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळ", "is_correct": false },
+        { "option_id": 2, "text": "सण", "is_correct": true },
+        { "option_id": 3, "text": "उत्सव नाही", "is_correct": false },
+        { "option_id": 4, "text": "भेटी", "is_correct": false }
+      ],
+      "answer": "सण"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "भारतात कोणती धान्ये पिकतात?",
+      "options": [
+        { "option_id": 1, "text": "गहू, तांदूळ, ज्वारी, बाजरी", "is_correct": true },
+        { "option_id": 2, "text": "फक्त गहू", "is_correct": false },
+        { "option_id": 3, "text": "फक्त मक्याचे पीक", "is_correct": false },
+        { "option_id": 4, "text": "फक्त फुले", "is_correct": false }
+      ],
+      "answer": "गहू, तांदूळ, ज्वारी, बाजरी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भारतातील कडधान्ये कोणती?",
+      "options": [
+        { "option_id": 1, "text": "केळी, संत्री", "is_correct": false },
+        { "option_id": 2, "text": "हरभरा, तूर, मूग, वाटाणा", "is_correct": true },
+        { "option_id": 3, "text": "सफरचंद, मोसंबी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त मूग", "is_correct": false }
+      ],
+      "answer": "हरभरा, तूर, मूग, वाटाणा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भारतात कोणती फळे पिकतात?",
+      "options": [
+        { "option_id": 1, "text": "केळी, डाळिंब, संत्री, मोसंबी", "is_correct": true },
+        { "option_id": 2, "text": "फक्त केळी", "is_correct": false },
+        { "option_id": 3, "text": "फक्त सफरचंद", "is_correct": false },
+        { "option_id": 4, "text": "फक्त मोसंबी", "is_correct": false }
+      ],
+      "answer": "केळी, डाळिंब, संत्री, मोसंबी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "आपल्या भारताचा राष्ट्रध्वज कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकरंगी", "is_correct": false },
+        { "option_id": 2, "text": "चौकटीदार", "is_correct": false },
+        { "option_id": 3, "text": "तिरंगा", "is_correct": true },
+        { "option_id": 4, "text": "निळा", "is_correct": false }
+      ],
+      "answer": "तिरंगा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आपले राष्ट्रगीत कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "वंदे मातरम्", "is_correct": false },
+        { "option_id": 2, "text": "जनगणमन", "is_correct": true },
+        { "option_id": 3, "text": "सारे जहाँ से अच्छा", "is_correct": false },
+        { "option_id": 4, "text": "जय भारत", "is_correct": false }
+      ],
+      "answer": "जनगणमन"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "शेतकरी कुठे काम करतात?",
+      "options": [
+        { "option_id": 1, "text": "कारखान्यात", "is_correct": false },
+        { "option_id": 2, "text": "शेतात", "is_correct": true },
+        { "option_id": 3, "text": "बाजारात", "is_correct": false },
+        { "option_id": 4, "text": "शाळेत", "is_correct": false }
+      ],
+      "answer": "शेतात"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सैनिक काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळ खेळतात", "is_correct": false },
+        { "option_id": 2, "text": "आपले रक्षण करतात", "is_correct": true },
+        { "option_id": 3, "text": "पीक कापतात", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षण देतात", "is_correct": false }
+      ],
+      "answer": "आपले रक्षण करतात"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कामगार कुठे काम करतात?",
+      "options": [
+        { "option_id": 1, "text": "शाळेत", "is_correct": false },
+        { "option_id": 2, "text": "कारखान्यात", "is_correct": true },
+        { "option_id": 3, "text": "शेतात", "is_correct": false },
+        { "option_id": 4, "text": "दवाखान्यात", "is_correct": false }
+      ],
+      "answer": "कारखान्यात"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "प्रत्येकाला भारताबद्दल काय वाटते?",
+      "options": [
+        { "option_id": 1, "text": "भारत माझा देश नाही", "is_correct": false },
+        { "option_id": 2, "text": "भारत माझा देश आहे", "is_correct": true },
+        { "option_id": 3, "text": "भारत लहान आहे", "is_correct": false },
+        { "option_id": 4, "text": "भारत चांगला नाही", "is_correct": false }
+      ],
+      "answer": "भारत माझा देश आहे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "लेखकाला कशाचा अभिमान आहे?",
+      "options": [
+        { "option_id": 1, "text": "मी परदेशी आहे", "is_correct": false },
+        { "option_id": 2, "text": "मी भारतीय आहे", "is_correct": true },
+        { "option_id": 3, "text": "मी विद्यार्थी आहे", "is_correct": false },
+        { "option_id": 4, "text": "मी सैनिक आहे", "is_correct": false }
+      ],
+      "answer": "मी भारतीय आहे"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "भारतातील भूप्रदेशात कोणती स्थळे आढळतात?",
+      "answer": "उंच पर्वत, घनदाट जंगले, नद्या आणि नद्यांजवळील गावे आढळतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "भारतातील लोकांची भाषा कशी असते?",
+      "answer": "लोकांच्या भाषा वेगवेगळ्या असतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "भारतातील दोन धान्यांची नावे लिहा.",
+      "answer": "गहू आणि तांदूळ."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भारतातील दोन कडधान्यांची नावे लिहा.",
+      "answer": "हरभरा आणि मूग."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "भारतातील दोन फळांची नावे लिहा.",
+      "answer": "केळी आणि संत्री."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "आपला राष्ट्रध्वज कसा आहे?",
+      "answer": "आपला राष्ट्रध्वज तिरंगा आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "आपले राष्ट्रगीत कोणते आहे?",
+      "answer": "आपले राष्ट्रगीत ‘जनगणमन’ आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "शेतकरी काय करतात?",
+      "answer": "शेतकरी शेतात कष्ट करून शेती करतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कामगार काय करतात?",
+      "answer": "कामगार कारखान्यात काम करतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सैनिकांची जबाबदारी काय असते?",
+      "answer": "सैनिक आपले रक्षण करतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "भारतातील लोकांच्या आहारात काय असते?",
+      "answer": "धान्ये, कडधान्ये, भाज्या आणि फळे असतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "भारत विविधतेचा देश का आहे?",
+      "answer": "कारण येथे वेगवेगळे पोशाख, भाषा, सण आणि पिके आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "तुला भारताबद्दल काय अभिमान वाटतो?",
+      "answer": "मी भारतीय आहे याचा मला अभिमान वाटतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "‘भारत माझा देश आहे’ या वाक्याचा अर्थ लिहा.",
+      "answer": "आपण भारतात राहतो आणि आपण भारतीय आहोत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्यातून तुला काय शिकायला मिळाले?",
+      "answer": "देशप्रेम, कष्टाचे महत्त्व आणि विविधतेचा सन्मान करायला शिकलो."
+    }
+  ]
+}

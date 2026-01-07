@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.01",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "चित्रवाचन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पान क्रमांक ४ वरील चित्रात मुले कोणता खेळ खेळताना दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "लपंडाव", "is_correct": false },
+        { "option_id": 2, "text": "लगोरी", "is_correct": false },
+        { "option_id": 3, "text": "डोळे बांधून धर पकड", "is_correct": true },
+        { "option_id": 4, "text": "कबड्डी", "is_correct": false }
+      ],
+      "answer": "डोळे बांधून धर पकड"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "चित्रवाचन या धड्याचा मुख्य उद्देश कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "कविता पाठ करणे", "is_correct": false },
+        { "option_id": 2, "text": "चित्र पाहून निरीक्षण व वर्णन करणे", "is_correct": true },
+        { "option_id": 3, "text": "नाटक सादर करणे", "is_correct": false },
+        { "option_id": 4, "text": "अक्षरलेखन करणे", "is_correct": false }
+      ],
+      "answer": "चित्र पाहून निरीक्षण व वर्णन करणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘माझे खेळ’ या उपक्रियेत मुलांना काय सांगायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "त्यांची आवडती पुस्तके", "is_correct": false },
+        { "option_id": 2, "text": "त्यांना आवडणारे खेळ", "is_correct": true },
+        { "option_id": 3, "text": "त्यांची शाळा", "is_correct": false },
+        { "option_id": 4, "text": "त्यांची खेळणी", "is_correct": false }
+      ],
+      "answer": "त्यांना आवडणारे खेळ"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पान क्रमांक ५ वरील चित्रात कोणता खेळ दाखवलेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "क्रिकेट", "is_correct": true },
+        { "option_id": 2, "text": "हॉकी", "is_correct": false },
+        { "option_id": 3, "text": "फुटबॉल", "is_correct": false },
+        { "option_id": 4, "text": "बास्केटबॉल", "is_correct": false }
+      ],
+      "answer": "क्रिकेट"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पान क्रमांक ६ वरील ‘लोभी कुत्रा’ या गोष्टीत कुत्र्याच्या तोंडात काय होते?",
+      "options": [
+        { "option_id": 1, "text": "दात", "is_correct": false },
+        { "option_id": 2, "text": "हाड", "is_correct": true },
+        { "option_id": 3, "text": "चेंडू", "is_correct": false },
+        { "option_id": 4, "text": "लाकूड", "is_correct": false }
+      ],
+      "answer": "हाड"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "‘लोभी’ या शब्दाचा अर्थ कोणता?",
+      "options": [
+        { "option_id": 1, "text": "दयाळू", "is_correct": false },
+        { "option_id": 2, "text": "समंजस", "is_correct": false },
+        { "option_id": 3, "text": "जास्त मिळवण्याची लालसा असलेला", "is_correct": true },
+        { "option_id": 4, "text": "शूर", "is_correct": false }
+      ],
+      "answer": "जास्त मिळवण्याची लालसा असलेला"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कुत्र्याने पाण्यात स्वतःची सावली कशासारखी समजली?",
+      "options": [
+        { "option_id": 1, "text": "दुसऱ्या कुत्र्यासारखी", "is_correct": true },
+        { "option_id": 2, "text": "माश्यासारखी", "is_correct": false },
+        { "option_id": 3, "text": "पाखरासारखी", "is_correct": false },
+        { "option_id": 4, "text": "माणसासारखी", "is_correct": false }
+      ],
+      "answer": "दुसऱ्या कुत्र्यासारखी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "‘चित्रांत काय काय दिसते ते सांग’ ही क्रिया कोणत्या कौशल्यासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाचन कौशल्य", "is_correct": false },
+        { "option_id": 2, "text": "बोलणे व वर्णन कौशल्य", "is_correct": true },
+        { "option_id": 3, "text": "गणित कौशल्य", "is_correct": false },
+        { "option_id": 4, "text": "लेखन कौशल्य", "is_correct": false }
+      ],
+      "answer": "बोलणे व वर्णन कौशल्य"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "‘भाग-१ थोडे पक्के करूया’ या ओळीचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "नवीन विषय सुरू करूया", "is_correct": false },
+        { "option_id": 2, "text": "आधी शिकलेले घटक मजबूत करूया", "is_correct": true },
+        { "option_id": 3, "text": "खेळ खेळूया", "is_correct": false },
+        { "option_id": 4, "text": "कथा लिहूया", "is_correct": false }
+      ],
+      "answer": "आधी शिकलेले घटक मजबूत करूया"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "‘माझे खेळ’ या शीर्षकात ‘माझे’ हा कोणता शब्दप्रकार आहे?",
+      "options": [
+        { "option_id": 1, "text": "क्रियापद", "is_correct": false },
+        { "option_id": 2, "text": "सर्वनाम", "is_correct": true },
+        { "option_id": 3, "text": "विशेषण", "is_correct": false },
+        { "option_id": 4, "text": "उभयान्वयी अव्यय", "is_correct": false }
+      ],
+      "answer": "सर्वनाम"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता खेळ घराबाहेर खेळला जातो?",
+      "options": [
+        { "option_id": 1, "text": "घराघर", "is_correct": false },
+        { "option_id": 2, "text": "कार्ड्स", "is_correct": false },
+        { "option_id": 3, "text": "कबड्डी", "is_correct": true },
+        { "option_id": 4, "text": "सापशिडी", "is_correct": false }
+      ],
+      "answer": "कबड्डी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "‘कुत्रा पुलावरून चालत होता’ या वाक्यात ‘पुलावरून’ हा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "क्रियाविशेषण", "is_correct": false },
+        { "option_id": 2, "text": "संबंध सूचक अव्यय", "is_correct": true },
+        { "option_id": 3, "text": "सर्वनाम", "is_correct": false },
+        { "option_id": 4, "text": "नाम", "is_correct": false }
+      ],
+      "answer": "संबंध सूचक अव्यय"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कुत्र्याने तोंड उघडल्यावर काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "त्याला आणखी हाड मिळाले", "is_correct": false },
+        { "option_id": 2, "text": "हाड पाण्यात पडले", "is_correct": true },
+        { "option_id": 3, "text": "पूल तुटला", "is_correct": false },
+        { "option_id": 4, "text": "तो घाबरला", "is_correct": false }
+      ],
+      "answer": "हाड पाण्यात पडले"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या गोष्टीतून कोणता बोध मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "जास्त बोलावे", "is_correct": false },
+        { "option_id": 2, "text": "इतरांची वस्तू घ्यावी", "is_correct": false },
+        { "option_id": 3, "text": "लोभ करु नये", "is_correct": true },
+        { "option_id": 4, "text": "खेळू नये", "is_correct": false }
+      ],
+      "answer": "लोभ करु नये"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘चित्रवाचन’ या शब्दात ‘वाचन’ या शब्दाचा अर्थ कोणता?",
+      "options": [
+        { "option_id": 1, "text": "ऐकणे", "is_correct": false },
+        { "option_id": 2, "text": "बोलणे", "is_correct": false },
+        { "option_id": 3, "text": "निरीक्षण करून अर्थ समजून घेणे", "is_correct": true },
+        { "option_id": 4, "text": "लिहिणे", "is_correct": false }
+      ],
+      "answer": "निरीक्षण करून अर्थ समजून घेणे"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पान क्रमांक ४ वरील चित्रामधील एक खेळ वर्णन करा.",
+      "answer": "चित्रात मुले डोळे बांधून धर पकड खेळताना दिसतात. एक मुलगा डोळे बांधून इतर मुलांना पकडण्याचा प्रयत्न करतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "‘माझे खेळ’ या उपक्रियेत तुला कोणता खेळ आवडतो आणि का?",
+      "answer": "मला क्रिकेट खेळ आवडतो कारण तो मैदानी खेळ आहे आणि त्यातून एकत्र खेळण्याची सवय लागते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "‘लोभी कुत्रा’ या गोष्टीची सुरुवात कशी होते?",
+      "answer": "कुत्र्याच्या तोंडात एक हाड असते आणि तो ते घेऊन पुलावरून चालत असतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कुत्र्याने पाण्यात काय पाहिले?",
+      "answer": "त्याने पाण्यात स्वतःची सावली पाहिली आणि ती दुसरा कुत्रा आहे असे समजले."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कुत्र्याने तोंड उघडल्यावर काय झाले?",
+      "answer": "कुत्र्याने तोंड उघडताच त्याच्या तोंडातील हाड पाण्यात पडले."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "या गोष्टीतून कोणता धडा मिळतो?",
+      "answer": "या गोष्टीतून लोभ करु नये हा धडा मिळतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "चित्रवाचन करताना कोणत्या गोष्टी लक्षात ठेवाव्यात?",
+      "answer": "चित्रातील व्यक्ती, कृती, जागा आणि त्यातील घटना यांचे निरीक्षण करून अर्थ लावावा."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "‘खेळ’ या शब्दाचे दोन समानार्थी शब्द लिहा.",
+      "answer": "क्रीडा, क्रीडाप्रकार"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "‘लोभी’ या शब्दाचा विरुद्ध अर्थ लिहा.",
+      "answer": "समाधानी / अलोभी"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "चित्रातून गोष्ट सांगण्याचा फायदा कोणता?",
+      "answer": "चित्रातून गोष्ट सांगितल्याने कल्पनाशक्ती वाढते आणि निरीक्षणशक्ती विकसित होते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘कुत्रा पुलावरून चालत होता’ या वाक्यातील क्रियापद कोणते?",
+      "answer": "चालत होता"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "तुला कोणता मैदानी खेळ आवडतो? कारण लिहा.",
+      "answer": "मला कबड्डी खेळ आवडतो कारण त्यातून शारीरिक ताकद आणि संघभावना वाढते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "चित्रांतील व्यक्तींच्या भावभावना लिहा.",
+      "answer": "मुले आनंदाने खेळताना दिसतात, त्यांच्या चेहऱ्यावर हसू आणि उत्साह दिसतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पाण्यातील सावली खरी वस्तू आहे का? स्पष्ट करा.",
+      "answer": "नाही, पाण्यातील सावली खरी वस्तू नसून तिचे प्रतिबिंब असते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "चित्र पाहून कथानक तयार करण्याची प्रक्रिया लिहा.",
+      "answer": "प्रथम चित्रातील घटना ओळखायची, नंतर त्यांचा क्रम लावून सुरुवात, मध्य आणि शेवट असा गोषवारा तयार करायचा."
+    }
+  ]
+}

@@ -1,0 +1,2016 @@
+{
+"Chapter 8 ": " Our Skeletal System and the Skin",
+"lessons": [
+"8.1 Organ systems and the human skeleton",
+"8.2 A boy with a fractured bone",
+"8.3 An X-ray image",
+"8.4 Skeletons of various animals",
+"8.5 Parts of the human skeletal system",
+"8.6 Skull, rib cage and spinal column",
+"8.7 Some types of joints",
+"8.8 Structure of the skin"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "What is a broken bone called?",
+"options": [
+{
+"option_id": 1,
+"text": "sprain",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "fracture",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "dislocation",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "bruise",
+"is_correct": false
+}
+],
+"answer": "fracture"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "Fracture causes what immediately?",
+"options": [
+{
+"option_id": 1,
+"text": "swelling and severe pain",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "itching",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "redness only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "nothing",
+"is_correct": false
+}
+],
+"answer": "swelling and severe pain"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "After accident with fracture, first do what?",
+"options": [
+{
+"option_id": 1,
+"text": "move the part",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "immobilize and get medical help",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "apply heat",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "ignore",
+"is_correct": false
+}
+],
+"answer": "immobilize and get medical help"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "Who discovered X-rays?",
+"options": [
+{
+"option_id": 1,
+"text": "Wilhelm Conrad Roentgen",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Charles Goodyear",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "Casimir Funk",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Isaac Newton",
+"is_correct": false
+}
+],
+"answer": "Wilhelm Conrad Roentgen"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Human skeleton is what for internal organs?",
+"options": [
+{
+"option_id": 1,
+"text": "decorative",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "protective shell",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "support only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "shape giver",
+"is_correct": false
+}
+],
+"answer": "protective shell"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "Hard part felt at centre of chest.",
+"options": [
+{
+"option_id": 1,
+"text": "spine",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "sternum",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "rib",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "skull",
+"is_correct": false
+}
+],
+"answer": "sternum"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "Hard bumps on back are what?",
+"options": [
+{
+"option_id": 1,
+"text": "ribs",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "vertebrae",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "cartilage",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "joints",
+"is_correct": false
+}
+],
+"answer": "vertebrae"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "X-ray image shows what?",
+"options": [
+{
+"option_id": 1,
+"text": "if bone broken and exact spot",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "skin colour",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "muscles",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "blood",
+"is_correct": false
+}
+],
+"answer": "if bone broken and exact spot"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "All bones together form what?",
+"options": [
+{
+"option_id": 1,
+"text": "muscles",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "skeleton",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "skin",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "joints",
+"is_correct": false
+}
+],
+"answer": "skeleton"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Skeletal system includes what?",
+"options": [
+{
+"option_id": 1,
+"text": "bones and cartilage",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "bones only",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "skin",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "muscles",
+"is_correct": false
+}
+],
+"answer": "bones and cartilage"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "Bones composed of biotic and abiotic what?",
+"options": [
+{
+"option_id": 1,
+"text": "bone cells biotic, minerals abiotic",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "calcium biotic",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "cartilage only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "skin cells",
+"is_correct": false
+}
+],
+"answer": "bone cells biotic, minerals abiotic"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "Calcium imparts what to bones?",
+"options": [
+{
+"option_id": 1,
+"text": "flexibility",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "strength",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "colour",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "softness",
+"is_correct": false
+}
+],
+"answer": "strength"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "Functions of skeletal system.",
+"options": [
+{
+"option_id": 1,
+"text": "shape, support, protect organs",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "digest food",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "breathe",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "sense touch",
+"is_correct": false
+}
+],
+"answer": "shape, support, protect organs"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "How many types of bones?",
+"options": [
+{
+"option_id": 1,
+"text": "two",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "four",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "three",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "five",
+"is_correct": false
+}
+],
+"answer": "four"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Types of bones.",
+"options": [
+{
+"option_id": 1,
+"text": "flat, small, irregular, long",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "movable, immovable",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "axial, appendicular",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "hinge, ball socket",
+"is_correct": false
+}
+],
+"answer": "flat, small, irregular, long"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "Skeletal system divided into how many parts?",
+"options": [
+{
+"option_id": 1,
+"text": "two",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "three",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "one",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "four",
+"is_correct": false
+}
+],
+"answer": "two"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "Axial skeleton consists of what?",
+"options": [
+{
+"option_id": 1,
+"text": "skull, spine, rib cage",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "arms, legs",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "skin",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "joints",
+"is_correct": false
+}
+],
+"answer": "skull, spine, rib cage"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "Appendicular skeleton.",
+"options": [
+{
+"option_id": 1,
+"text": "bones of upper and lower limbs",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "central axis",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "skull",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "spine",
+"is_correct": false
+}
+],
+"answer": "bones of upper and lower limbs"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Skull has how many bones?",
+"options": [
+{
+"option_id": 1,
+"text": "22",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "33",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "12",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "25",
+"is_correct": false
+}
+],
+"answer": "22"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "Which skull bone moves?",
+"options": [
+{
+"option_id": 1,
+"text": "lower jaw",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "cranium",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "all",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "none",
+"is_correct": false
+}
+],
+"answer": "lower jaw"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "Skull protects what?",
+"options": [
+{
+"option_id": 1,
+"text": "heart",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "brain",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "lungs",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "intestines",
+"is_correct": false
+}
+],
+"answer": "brain"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "Rib cage has how many bones?",
+"options": [
+{
+"option_id": 1,
+"text": "25",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "22",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "33",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "12",
+"is_correct": false
+}
+],
+"answer": "25"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Rib cage components.",
+"options": [
+{
+"option_id": 1,
+"text": "sternum, 12 pairs ribs",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "vertebrae only",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "skull bones",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "arm bones",
+"is_correct": false
+}
+],
+"answer": "sternum, 12 pairs ribs"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "Spine has how many bones?",
+"options": [
+{
+"option_id": 1,
+"text": "33 vertebrae",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "22",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "25",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "14",
+"is_correct": false
+}
+],
+"answer": "33 vertebrae"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "Spine protects what?",
+"options": [
+{
+"option_id": 1,
+"text": "spinal cord",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "heart",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "lungs",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "stomach",
+"is_correct": false
+}
+],
+"answer": "spinal cord"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Each ear has how many bones?",
+"options": [
+{
+"option_id": 1,
+"text": "three",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "one",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "two",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "four",
+"is_correct": false
+}
+],
+"answer": "three"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "Smallest bone in body.",
+"options": [
+{
+"option_id": 1,
+"text": "stirrup",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "femur",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "vertebra",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "rib",
+"is_correct": false
+}
+],
+"answer": "stirrup"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Longest bone in body.",
+"options": [
+{
+"option_id": 1,
+"text": "femur",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "stirrup",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "skull",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "rib",
+"is_correct": false
+}
+],
+"answer": "femur"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "Bones connected by what?",
+"options": [
+{
+"option_id": 1,
+"text": "ligaments",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "muscles",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "skin",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "nerves",
+"is_correct": false
+}
+],
+"answer": "ligaments"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "Place where bones connected.",
+"options": [
+{
+"option_id": 1,
+"text": "joints",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "muscles",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "cartilage",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "skin",
+"is_correct": false
+}
+],
+"answer": "joints"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "Types of joints.",
+"options": [
+{
+"option_id": 1,
+"text": "movable, immovable",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "flat, long",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "axial, appendicular",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "biotic, abiotic",
+"is_correct": false
+}
+],
+"answer": "movable, immovable"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Immovable joint example.",
+"options": [
+{
+"option_id": 1,
+"text": "skull bones except lower jaw",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "elbow",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "knee",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "shoulder",
+"is_correct": false
+}
+],
+"answer": "skull bones except lower jaw"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Hinge joint examples.",
+"options": [
+{
+"option_id": 1,
+"text": "elbow, knee",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "shoulder, hip",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "wrist, ankle",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "skull",
+"is_correct": false
+}
+],
+"answer": "elbow, knee"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Ball and socket joint angle.",
+"options": [
+{
+"option_id": 1,
+"text": "360 degrees",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "180 degrees",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "90 degrees",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "0 degrees",
+"is_correct": false
+}
+],
+"answer": "360 degrees"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Gliding joint examples.",
+"options": [
+{
+"option_id": 1,
+"text": "wrist, ankle",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "elbow",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "hip",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "jaw",
+"is_correct": false
+}
+],
+"answer": "wrist, ankle"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "Organ for sense of touch.",
+"options": [
+{
+"option_id": 1,
+"text": "skin",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "eyes",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "ears",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "nose",
+"is_correct": false
+}
+],
+"answer": "skin"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "Skin has what at finger tips?",
+"options": [
+{
+"option_id": 1,
+"text": "nails",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "hair only",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "sweat glands",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "bones",
+"is_correct": false
+}
+],
+"answer": "nails"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Skin becomes wet after playing in sun due to what?",
+"options": [
+{
+"option_id": 1,
+"text": "sweat",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "oil",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "dirt",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "paint",
+"is_correct": false
+}
+],
+"answer": "sweat"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Sweat glands secrete what?",
+"options": [
+{
+"option_id": 1,
+"text": "sweat",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "melanin",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "calcium",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "vitamin D",
+"is_correct": false
+}
+],
+"answer": "sweat"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "Normal body temperature.",
+"options": [
+{
+"option_id": 1,
+"text": "37°C",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "40°C",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "30°C",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "42°C",
+"is_correct": false
+}
+],
+"answer": "37°C"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Skin layers.",
+"options": [
+{
+"option_id": 1,
+"text": "epidermis, dermis",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "axial, appendicular",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "flat, long",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "movable, immovable",
+"is_correct": false
+}
+],
+"answer": "epidermis, dermis"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "Pigment in epidermis cells.",
+"options": [
+{
+"option_id": 1,
+"text": "melanin",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "calcium",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "sweat",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "vitamin D",
+"is_correct": false
+}
+],
+"answer": "melanin"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Melanin synthesized where?",
+"options": [
+{
+"option_id": 1,
+"text": "glands in skin",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "bones",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "muscles",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "intestines",
+"is_correct": false
+}
+],
+"answer": "glands in skin"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "Melanin protects from what?",
+"options": [
+{
+"option_id": 1,
+"text": "ultraviolet sunrays",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "cold",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "water",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "dirt",
+"is_correct": false
+}
+],
+"answer": "ultraviolet sunrays"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "Skin colour depends on what?",
+"options": [
+{
+"option_id": 1,
+"text": "percentage of melanin, climate",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "food",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "exercise",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "age only",
+"is_correct": false
+}
+],
+"answer": "percentage of melanin, climate"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "Wrinkles in old skin due to what?",
+"options": [
+{
+"option_id": 1,
+"text": "reduced fat, skin doesn't shrink",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "more melanin",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "sweat glands",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "nails",
+"is_correct": false
+}
+],
+"answer": "reduced fat, skin doesn't shrink"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Functions of skin: how many listed?",
+"options": [
+{
+"option_id": 1,
+"text": "six",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "four",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "five",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "seven",
+"is_correct": false
+}
+],
+"answer": "six"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Skin function: synthesizing what?",
+"options": [
+{
+"option_id": 1,
+"text": "vitamin D",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "calcium",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "melanin only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "sweat",
+"is_correct": false
+}
+],
+"answer": "vitamin D"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Subcutaneous layer does what?",
+"options": [
+{
+"option_id": 1,
+"text": "maintains body temperature",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "senses touch",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "produces melanin",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "protects bones",
+"is_correct": false
+}
+],
+"answer": "maintains body temperature"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Melanin in hair: jet black due to what?",
+"options": [
+{
+"option_id": 1,
+"text": "pure melanin",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "sulphur",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "iron",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "calcium",
+"is_correct": false
+}
+],
+"answer": "pure melanin"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "What causes severe pain and swelling in fracture?",
+"answer": "fracture of bone"
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "Immediate action for fractured leg.",
+"answer": "prevent movement, immobilize, medical help"
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "Hospital step after accident.",
+"answer": "take X-ray of swollen part"
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "X-ray inventor.",
+"answer": "Wilhelm Conrad Roentgen"
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "Skeleton protects what?",
+"answer": "various organs safe within body cavity"
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Hard part on chest centre.",
+"answer": "sternum"
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Hard bumps on back.",
+"answer": "vertebrae"
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "X-ray purpose.",
+"answer": "shows if bone broken, exact spot"
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "Skeleton definition.",
+"answer": "framework of all bones"
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "Skeletal system components.",
+"answer": "all bones along with cartilage"
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "Bone constituents biotic.",
+"answer": "bone cells"
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "Bone constituents abiotic.",
+"answer": "calcium carbonate, calcium phosphate, minerals, salts"
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "Calcium role in bones.",
+"answer": "imparts strength"
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "Bone types number.",
+"answer": "four"
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "Bone types names.",
+"answer": "flat bones, small bones, irregular bones, long bones"
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Skeletal parts.",
+"answer": "axial skeleton, appendicular skeleton"
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Axial skeleton parts.",
+"answer": "skull, spine, rib cage"
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Appendicular skeleton.",
+"answer": "bones of arms and legs"
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "Skull bone count.",
+"answer": "22 bones, 8 head, 14 face"
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Movable skull bone.",
+"answer": "lower jaw"
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "Rib cage bone count.",
+"answer": "25 bones"
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Sternum description.",
+"answer": "one vertical flat bone in chest"
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Ribs number.",
+"answer": "twelve pairs"
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Spine bone shape.",
+"answer": "padlock-shaped"
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "Vertebra number.",
+"answer": "33"
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Ear bones per ear.",
+"answer": "three"
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Stirrup characteristics.",
+"answer": "smallest, rice grain size, hollow, stirrup shape"
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Thigh bone name.",
+"answer": "femur"
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "Bone connections.",
+"answer": "ligaments"
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "Joint definition.",
+"answer": "place where two or more bones connected"
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Movable joint examples.",
+"answer": "bones of arms and legs"
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Hinge joint movement.",
+"answer": "one direction, 180 degree angle"
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "Ball and socket examples.",
+"answer": "shoulder, hip"
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Gliding joint movement.",
+"answer": "bones slide over each other"
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Sense hot, cold, rough, smooth organ.",
+"answer": "skin"
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Skin has hair and what?",
+"answer": "nails on fingers and toes"
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Skin sensory function.",
+"answer": "sense of touch"
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "Sweat released when?",
+"answer": "body temperature rises after sun or labour"
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Sweat function.",
+"answer": "reduce body temperature"
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Outermost skin layer.",
+"answer": "epidermis"
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Inner skin layer.",
+"answer": "dermis"
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "Below dermis.",
+"answer": "network of blood vessels and nerve fibres"
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Pigment deciding skin fairness.",
+"answer": "melanin"
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Melanin protection.",
+"answer": "from ultraviolet sunrays"
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Skin colour factors.",
+"answer": "melanin percentage, climate"
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Old skin wrinkles cause.",
+"answer": "fat reduces, skin taut no longer shrinks"
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "Skin functions number.",
+"answer": "six"
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Skin function 1.",
+"answer": "protect internal parts like muscles, bones, organs"
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Skin function 3.",
+"answer": "synthesizing vitamin D"
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Skin function 4.",
+"answer": "releasing sweat to regulate temperature"
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Jet black hair melanin.",
+"answer": "pure melanin"
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Brown hair melanin.",
+"answer": "sulphur in melanin"
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Reddish hair melanin.",
+"answer": "iron in melanin"
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Skeletal system protects body and what?",
+"answer": "internal parts"
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Skin outer covering called.",
+"answer": "epidermis"
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Care for skin health.",
+"answer": "keep clean"
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Avoid discriminating on what?",
+"answer": "skin colour"
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Main parts of skeletal system.",
+"answer": "skull, rib cage, backbone, arm and leg bones"
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Skin layers two.",
+"answer": "epidermis and dermis"
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Subcutis hypodermis.",
+"answer": "under dermis network"
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "If no backbone what happens?",
+"answer": "spinal cord unprotected"
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "If no joints what?",
+"answer": "no body movement"
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "If no melanin what?",
+"answer": "no protection from sunrays"
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "If one straight bone instead of 33 vertebrae.",
+"answer": "no flexibility"
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "To keep bones strong.",
+"answer": "diet with calcium, exercise"
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Reasons bones break.",
+"answer": "fall, accident"
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Skin function touch.",
+"answer": "sensory organ"
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Sweat lowers temperature how?",
+"answer": "evaporation cools body"
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Darker skin protection.",
+"answer": "greater from sun rays"
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Plaster for fracture.",
+"answer": "immobilize bone"
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Chest bone vertical.",
+"answer": "sternum"
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Back bone other name.",
+"answer": "vertebral column"
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Cranium part of.",
+"answer": "skull"
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Mandible is what?",
+"answer": "lower jaw"
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Hinge joint angle.",
+"answer": "180 degrees"
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Ball socket directions.",
+"answer": "two or more, 360 degrees"
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "Skin wet why in sun.",
+"answer": "sweat from glands"
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Epidermis layers.",
+"answer": "various layers"
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Skin function 2.",
+"answer": "preserve body moisture"
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Skin function 5.",
+"answer": "protection from heat and cold"
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Avoid artificial fairness why?",
+"answer": "temptation unscientific"
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Bones not flexible why?",
+"answer": "hard"
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Spine arrangement.",
+"answer": "flexibly one above other"
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Arms legs bones.",
+"answer": "several connected by joints"
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "Bone growth till when?",
+"answer": "certain limit"
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Taller people bones.",
+"answer": "longer"
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Joints movable types.",
+"answer": "hinge, ball socket, gliding"
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Skin important large organ.",
+"answer": "of all living things"
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Subcutis location.",
+"answer": "under dermis"
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Melanin in hair too.",
+"answer": "determines colour"
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Skeletal skin function.",
+"answer": "protect body internal parts"
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Care skeletal system.",
+"answer": "take care"
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Skull bones shape.",
+"answer": "flat strong"
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Rib cage joined where?",
+"answer": "spine at back"
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Vertebra each called.",
+"answer": "vertebra"
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Stirrup in.",
+"answer": "ears"
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Femur description.",
+"answer": "longest strongest"
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "Bend turn places.",
+"answer": "joints"
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Skin wet tired sun.",
+"answer": "sweat"
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Discrimination skin colour.",
+"answer": "unscientific wrong"
+}
+]
+}

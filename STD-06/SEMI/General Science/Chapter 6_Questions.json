@@ -1,0 +1,2012 @@
+{
+" Chapter 6": " Substances in Daily Use",
+"lessons": [
+"6.1 Different objects",
+"6.2 Production of substances",
+"6.3 Artificial threads",
+"6.4 Uses of artificial threads"
+],
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "All substances are made up of what?",
+"options": [
+{
+"option_id": 1,
+"text": "large particles",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "very small particles",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "visible molecules",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "atoms only",
+"is_correct": false
+}
+],
+"answer": "very small particles"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "Objects are made up of what?",
+"options": [
+{
+"option_id": 1,
+"text": "particles",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "substances",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "shapes",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "materials",
+"is_correct": false
+}
+],
+"answer": "substances"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "Objects have a specific shape due to what?",
+"options": [
+{
+"option_id": 1,
+"text": "random arrangement",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "specific arrangement of parts",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "color",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "size",
+"is_correct": false
+}
+],
+"answer": "specific arrangement of parts"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "Which substances are used to make a table, chair or cupboard?",
+"options": [
+{
+"option_id": 1,
+"text": "glass, rubber",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "wood, plastic or steel",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "cotton, wool",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "sand, water",
+"is_correct": false
+}
+],
+"answer": "wood, plastic or steel"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "Why do substances like wood have strength for making articles?",
+"options": [
+{
+"option_id": 1,
+"text": "they are soft",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "they have the strength required",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "they are liquid",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "they are colorful",
+"is_correct": false
+}
+],
+"answer": "they have the strength required"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "What can be given a desired shape for making things?",
+"options": [
+{
+"option_id": 1,
+"text": "liquids only",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "selected substances",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "gases",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "all particles",
+"is_correct": false
+}
+],
+"answer": "selected substances"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "The same substance can be used to make many what?",
+"options": [
+{
+"option_id": 1,
+"text": "particles",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "objects",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "shapes",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "substances",
+"is_correct": false
+}
+],
+"answer": "objects"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "Cotton is used to make which of the following?",
+"options": [
+{
+"option_id": 1,
+"text": "steel bars",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "cloth, sarees, quilts",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "kitchen utensils",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "electrical cables",
+"is_correct": false
+}
+],
+"answer": "cloth, sarees, quilts"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "Iron is used for making which items?",
+"options": [
+{
+"option_id": 1,
+"text": "handkerchiefs",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "construction steel bars, tawa",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "pillows",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "mattresses",
+"is_correct": false
+}
+],
+"answer": "construction steel bars, tawa"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Aluminium is used to make what?",
+"options": [
+{
+"option_id": 1,
+"text": "quilts",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "kitchen utensils, electrical cables",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "sarees",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "handkerchiefs",
+"is_correct": false
+}
+],
+"answer": "kitchen utensils, electrical cables"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "By studying properties of substances, we can do what?",
+"options": [
+{
+"option_id": 1,
+"text": "ignore them",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "select suitable ones for purposes",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "discard them",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "mix them randomly",
+"is_correct": false
+}
+],
+"answer": "select suitable ones for purposes"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "Substances in everyday use are mainly of how many kinds?",
+"options": [
+{
+"option_id": 1,
+"text": "one",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "two - natural and man-made",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "three",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "four",
+"is_correct": false
+}
+],
+"answer": "two - natural and man-made"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "Substances available in nature are called what?",
+"options": [
+{
+"option_id": 1,
+"text": "man-made substances",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "natural substances",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "synthetic substances",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "artificial substances",
+"is_correct": false
+}
+],
+"answer": "natural substances"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "Substances obtained from living things are called what?",
+"options": [
+{
+"option_id": 1,
+"text": "abiotic substances",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "biotic substances",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "man-made substances",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "polymers",
+"is_correct": false
+}
+],
+"answer": "biotic substances"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Air, soil, water are examples of what?",
+"options": [
+{
+"option_id": 1,
+"text": "biotic substances",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "abiotic substances",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "synthetic fibres",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "vulcanized rubber",
+"is_correct": false
+}
+],
+"answer": "abiotic substances"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "Leather and wool are obtained from what?",
+"options": [
+{
+"option_id": 1,
+"text": "plants",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "animals",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "minerals",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "soil",
+"is_correct": false
+}
+],
+"answer": "animals"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "Jute and cotton are substances of what origin?",
+"options": [
+{
+"option_id": 1,
+"text": "animal origin",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "plant origin",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "mineral origin",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "synthetic origin",
+"is_correct": false
+}
+],
+"answer": "plant origin"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "Do we find plastic or nylon in nature?",
+"options": [
+{
+"option_id": 1,
+"text": "yes",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "no",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "only plastic",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "only nylon",
+"is_correct": false
+}
+],
+"answer": "no"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "New substances produced by processing natural substances are called what?",
+"options": [
+{
+"option_id": 1,
+"text": "natural substances",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "man-made substances",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "biotic substances",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "abiotic substances",
+"is_correct": false
+}
+],
+"answer": "man-made substances"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "Man-made substances are easier to use because they can be made available how?",
+"options": [
+{
+"option_id": 1,
+"text": "in scarcity",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "in plenty at low cost",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "at high cost",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "in small quantities",
+"is_correct": false
+}
+],
+"answer": "in plenty at low cost"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "In construction, natural substances include what?",
+"options": [
+{
+"option_id": 1,
+"text": "brick, cement",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "bamboo, stone, wood",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "nylon, rayon",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "plastic sheets only",
+"is_correct": false
+}
+],
+"answer": "bamboo, stone, wood"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "Man-made substances for writing material include what?",
+"options": [
+{
+"option_id": 1,
+"text": "tree bark",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "pens, pencils, paper",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "stone slates",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "soil colours",
+"is_correct": false
+}
+],
+"answer": "pens, pencils, paper"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Man-made substances for threads include what?",
+"options": [
+{
+"option_id": 1,
+"text": "cotton, silk",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "nylon, rayon",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "wool only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "jute",
+"is_correct": false
+}
+],
+"answer": "nylon, rayon"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "Raincoats and school bags are made from what?",
+"options": [
+{
+"option_id": 1,
+"text": "grass",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "plastic",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "cotton",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "wool",
+"is_correct": false
+}
+],
+"answer": "plastic"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "Man-made substances like plastic are what?",
+"options": [
+{
+"option_id": 1,
+"text": "heavy",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "waterproof or water resistant",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "absorbent",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "fragile",
+"is_correct": false
+}
+],
+"answer": "waterproof or water resistant"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Changes in properties during making man-made substances are what?",
+"options": [
+{
+"option_id": 1,
+"text": "reversible",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "irreversible changes",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "temporary",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "physical only",
+"is_correct": false
+}
+],
+"answer": "irreversible changes"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "Who invented vulcanization?",
+"options": [
+{
+"option_id": 1,
+"text": "Isaac Newton",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Charles Goodyear",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Alexander Graham Bell",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Thomas Edison",
+"is_correct": false
+}
+],
+"answer": "Charles Goodyear"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Natural rubber is obtained from what?",
+"options": [
+{
+"option_id": 1,
+"text": "leaves",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "latex of certain tree",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "roots",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "flowers",
+"is_correct": false
+}
+],
+"answer": "latex of certain tree"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "Rubber trees are found in abundance where?",
+"options": [
+{
+"option_id": 1,
+"text": "India",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Brazil",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "USA",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "China",
+"is_correct": false
+}
+],
+"answer": "Brazil"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "Botanical name of rubber tree is what?",
+"options": [
+{
+"option_id": 1,
+"text": "Pinus sylvestris",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Hevea brasiliensis",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Bombyx mori",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Gossypium",
+"is_correct": false
+}
+],
+"answer": "Hevea brasiliensis"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "In India, maximum rubber production is in which state?",
+"options": [
+{
+"option_id": 1,
+"text": "Maharashtra",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "Kerala",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Madhya Pradesh",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Gujarat",
+"is_correct": false
+}
+],
+"answer": "Kerala"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Natural rubber sap is called what?",
+"options": [
+{
+"option_id": 1,
+"text": "gum",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "latex",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "pulp",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "fibre",
+"is_correct": false
+}
+],
+"answer": "latex"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "What is the color of latex?",
+"options": [
+{
+"option_id": 1,
+"text": "black",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "white",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "brown",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "yellow",
+"is_correct": false
+}
+],
+"answer": "white"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Vulcanization involves heating rubber with what?",
+"options": [
+{
+"option_id": 1,
+"text": "water",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "sulphur",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "sodium hydroxide",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "calcium carbonate",
+"is_correct": false
+}
+],
+"answer": "sulphur"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Vulcanization takes how long?",
+"options": [
+{
+"option_id": 1,
+"text": "one hour",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "three to four hours",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "ten minutes",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "one day",
+"is_correct": false
+}
+],
+"answer": "three to four hours"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "Proportion of sulphur in rubber mixture depends on what?",
+"options": [
+{
+"option_id": 1,
+"text": "color",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "purpose for which rubber is used",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "taste",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "smell",
+"is_correct": false
+}
+],
+"answer": "purpose for which rubber is used"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "Rubber bands have very small proportion of what?",
+"options": [
+{
+"option_id": 1,
+"text": "rubber",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "sulphur",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "latex",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "tree sap",
+"is_correct": false
+}
+],
+"answer": "sulphur"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Paper is formed due to intertwining of what?",
+"options": [
+{
+"option_id": 1,
+"text": "proteins",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "cellulose fibres",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "minerals",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "sulphur",
+"is_correct": false
+}
+],
+"answer": "cellulose fibres"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Trees used to make paper are like what?",
+"options": [
+{
+"option_id": 1,
+"text": "mango trees",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "coniferous trees like pine",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "rubber trees",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "coconut trees",
+"is_correct": false
+}
+],
+"answer": "coniferous trees like pine"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "First step in paper making is what?",
+"options": [
+{
+"option_id": 1,
+"text": "adding dyes",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "removing bark from logs",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "winding on reels",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "pressing pulp",
+"is_correct": false
+}
+],
+"answer": "removing bark from logs"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Wood pieces and chemicals are kept soaking to form what?",
+"options": [
+{
+"option_id": 1,
+"text": "latex",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "pulp",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "thread",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "rubber",
+"is_correct": false
+}
+],
+"answer": "pulp"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "After chemical process, what is separated from wood pulp?",
+"options": [
+{
+"option_id": 1,
+"text": "bark",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "fibrous substances",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "sulphur",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "dyes",
+"is_correct": false
+}
+],
+"answer": "fibrous substances"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Pulp is passed through what to form paper?",
+"options": [
+{
+"option_id": 1,
+"text": "sulphur",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "rollers",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "strainer",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "trees",
+"is_correct": false
+}
+],
+"answer": "rollers"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "Silk is obtained from what?",
+"options": [
+{
+"option_id": 1,
+"text": "latex",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "cocoons of silk worms",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "wood pulp",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "mineral oil",
+"is_correct": false
+}
+],
+"answer": "cocoons of silk worms"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "From one silk cocoon, thread length is between what?",
+"options": [
+{
+"option_id": 1,
+"text": "100 to 200 metres",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "500 to 1300 metres",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "10 to 50 metres",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "2000 metres",
+"is_correct": false
+}
+],
+"answer": "500 to 1300 metres"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "Silk was first produced on large scale where?",
+"options": [
+{
+"option_id": 1,
+"text": "India",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "China",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "Brazil",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "USA",
+"is_correct": false
+}
+],
+"answer": "China"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Nylon was named from initials of what?",
+"options": [
+{
+"option_id": 1,
+"text": "New York and London",
+"is_correct": true
+},
+{
+"option_id": 2,
+"text": "Natural Yarn Long",
+"is_correct": false
+},
+{
+"option_id": 3,
+"text": "New Latex Only",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "Nylon Yarn London",
+"is_correct": false
+}
+],
+"answer": "New York and London"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Nylon threads are used to manufacture what?",
+"options": [
+{
+"option_id": 1,
+"text": "tables",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "clothes, fishing nets, ropes",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "bricks",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "cement",
+"is_correct": false
+}
+],
+"answer": "clothes, fishing nets, ropes"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Rayon is made by dissolving cotton and wood pulp in what?",
+"options": [
+{
+"option_id": 1,
+"text": "sulphur",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "sodium hydroxide",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "calcium carbonate",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "hydrocarbons",
+"is_correct": false
+}
+],
+"answer": "sodium hydroxide"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "Rayon is also known as what?",
+"options": [
+{
+"option_id": 1,
+"text": "synthetic cotton",
+"is_correct": false
+},
+{
+"option_id": 2,
+"text": "synthetic silk",
+"is_correct": true
+},
+{
+"option_id": 3,
+"text": "vulcanized rubber",
+"is_correct": false
+},
+{
+"option_id": 4,
+"text": "natural latex",
+"is_correct": false
+}
+],
+"answer": "synthetic silk"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "What are all substances made up of?",
+"answer": "very small particles"
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "What are objects made up of?",
+"answer": "substances"
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "How do we identify objects?",
+"answer": "by their specific shape and specific arrangement of parts"
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "Give examples of substances used to make table, chair or cupboard.",
+"answer": "wood, plastic or steel"
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "Why do we consider properties of substances when making things?",
+"answer": "to select substances with required strength that can be given desired shape"
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Name objects made from cotton.",
+"answer": "cloth, fibre or thread, sarees, handkerchiefs, quilts, mattresses, pillows"
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "Name objects made from iron.",
+"answer": "construction steel bars, griddles, tawa, parts of automobiles, electric poles, tables, cupboards"
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "Name objects made from aluminium.",
+"answer": "kitchen utensils, electrical cables"
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "What are the two main kinds of substances in everyday use?",
+"answer": "natural and man-made substances"
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "What are natural substances?",
+"answer": "substances available in nature"
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "What are biotic substances?",
+"answer": "substances obtained from living things"
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "Give examples of abiotic substances.",
+"answer": "air, soil, water"
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "What is the origin of leather and wool?",
+"answer": "animal origin"
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "What is the origin of jute and cotton?",
+"answer": "plant origin"
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "What are man-made substances?",
+"answer": "new substances produced by processing naturally available substances"
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Why did man start making man-made substances?",
+"answer": "to make life more comfortable, easier to use, available in plenty at low cost"
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Name natural substances for construction.",
+"answer": "bamboo, stone, soil, wood, coconut fronds, lime"
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "Name man-made substances for construction.",
+"answer": "brick, cement concrete, galvanized sheets, clay tiles, plastic asbestos sheets"
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "Name man-made substances for writing material.",
+"answer": "pens, pencils made from plastic and metal, paper, notebook"
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Name man-made threads.",
+"answer": "nylon, rayon"
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "What modern items are made from plastic?",
+"answer": "raincoat, school bags, book covers"
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Why are man-made substances like plastic used for packing?",
+"answer": "they are waterproof or water resistant, lightweight, easy to transport"
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "What kind of changes occur in making man-made substances?",
+"answer": "irreversible changes due to chemical reactions"
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "How did Charles Goodyear discover vulcanization?",
+"answer": "spilled mixture of rubber and sulphur on burning stove, noticed rubber harder"
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "What is vulcanization used for?",
+"answer": "to make rubber harder and less elastic for tyres"
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Where are rubber trees found in abundance?",
+"answer": "Brazil"
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "What is the botanical name of rubber tree?",
+"answer": "Hevea brasiliensis"
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Which state in India has maximum rubber production?",
+"answer": "Kerala"
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "What is latex?",
+"answer": "sap or gum of rubber trees, white in colour with peculiar odour"
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "How is vulcanization of rubber done?",
+"answer": "rubber heated with sulphur for three to four hours"
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "What determines sulphur proportion in vulcanized rubber?",
+"answer": "purpose for which the rubber will be used"
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Give examples of items with varying sulphur proportions.",
+"answer": "erasers, rubber balls, rubber toys, rubber bands"
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "What is paper?",
+"answer": "substance formed by intertwining cellulose fibres from grass, wood, rags or waste paper"
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "What trees are used for paper?",
+"answer": "coniferous trees like pine"
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Describe first steps in paper manufacturing.",
+"answer": "peel bark from logs, de-bark logs, break wood into small pieces"
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "What happens after soaking wood pieces with chemicals?",
+"answer": "forms pulp, chemical process completed, fibrous substances separated"
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "What is added to pulp before pressing?",
+"answer": "dyes"
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "Final steps in paper making.",
+"answer": "pulp pressed with rollers, dried, wound on reels"
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Why save paper?",
+"answer": "paper and wood are closely related, to save trees"
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Where was first newsprint factory in India?",
+"answer": "Nepanagar in Madhya Pradesh in 1955"
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Name paper factories in India.",
+"answer": "Songardh in Gujarat, Ballarpur near Chandrapur in Maharashtra"
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "What is silk?",
+"answer": "natural thread or fibre from cocoons of silk worms"
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Length of thread from one silk cocoon.",
+"answer": "500 metres to 1300 metres"
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Where was silk first produced on large scale?",
+"answer": "China"
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Why was nylon named so?",
+"answer": "invented simultaneously in New York and London, NY + LON"
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Properties of nylon threads.",
+"answer": "shine, strong, transparent, water resistant"
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "How is rayon made?",
+"answer": "cotton and wood pulp dissolved in sodium hydroxide, threads from solution using machines"
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Why is rayon called synthetic silk?",
+"answer": "threads have shine and strength"
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "How are dacron, terylene made?",
+"answer": "hydrocarbons from mineral oils make polymer chains, solution pressed through strainer, fibres cooled and twisted"
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Name synthetic threads.",
+"answer": "nylon, dacron, terylene, terene, polyester, rayon, acrylic"
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "What are hydrocarbons?",
+"answer": "substances obtained from mineral oil"
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "What are polymer chains?",
+"answer": "long continuous chains formed by small interlinked chemical units"
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Advantage 1 of synthetic fibres.",
+"answer": "manufactured on mass scale"
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Advantage 2 of synthetic fibres.",
+"answer": "cost less"
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Advantage 3 of synthetic fibres.",
+"answer": "strong and durable"
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Advantage 5 of synthetic fibres.",
+"answer": "water repellant, do not rot or get wet, dry easily"
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Advantage 7 of synthetic fibres.",
+"answer": "have shine, enhance appearance"
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "Advantage 8 of synthetic fibres.",
+"answer": "clothes wrinkle-free and scratch-free"
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Shortcoming 1 of synthetic fibres.",
+"answer": "water repellant, do not absorb sweat from skin"
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Shortcoming 2 of synthetic fibres.",
+"answer": "continuous use keeps skin moist, may cause skin diseases"
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Shortcoming 3 of synthetic fibres.",
+"answer": "uncomfortable in summer"
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Shortcoming 4 of synthetic fibres.",
+"answer": "catch fire easily"
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Shortcoming 6 of synthetic fibres.",
+"answer": "not decomposed by micro-organisms"
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "What are two types of materials we use?",
+"answer": "natural and man-made"
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Natural materials are biotic or abiotic.",
+"answer": "biotic or abiotic"
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "Biotic materials are of plant or animal origin.",
+"answer": "plant or animal origin"
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Name important man-made materials.",
+"answer": "rubber, paper, synthetic fibres"
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Why use paper economically?",
+"answer": "save trees to save nature"
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "How to recycle paper?",
+"answer": "make full use, cooperate with scrap collectors"
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Why use synthetic fibres properly?",
+"answer": "reduce load on natural resources despite disadvantages"
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Why do we study properties of substances?",
+"answer": "to select suitable substances for our purposes"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Classify leather, jute, wool, cotton.",
+"answer": "leather and wool animal origin, jute and cotton plant origin"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Give reason for need of man-made materials.",
+"answer": "population increase, clothing needs, comfortable life"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "What is vulcanization?",
+"answer": "process of heating rubber with sulphur to harden it"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "How is paper a network?",
+"answer": "intertwining of cellulose fibres"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Why coniferous trees for paper?",
+"answer": "used to make paper as per process described"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "Significance of vulcanization.",
+"answer": "revolutionary change in transportation with hard tyres"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Describe latex properties.",
+"answer": "white colour, peculiar odour"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Role of dyes in paper making.",
+"answer": "added to pulp before pressing"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Why nylon water resistant?",
+"answer": "property of nylon threads"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Cause of irreversible changes in man-made substances.",
+"answer": "chemical reactions change properties permanently"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Effect of synthetic clothes on skin.",
+"answer": "do not absorb sweat, cause moisture and diseases"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Purpose of polymer chains in threads.",
+"answer": "form long unbroken fibres from mineral oil hydrocarbons"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Why save blank pages of notebooks?",
+"answer": "do not tear or throw away, reuse"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "How to use advertising pamphlets?",
+"answer": "blank sides for notes, lists, book covers"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Significance of scrap paper collectors.",
+"answer": "help in proper recycling of resources"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Why rubber bands have small sulphur?",
+"answer": "need elasticity, small proportion for that purpose"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Narrative of Goodyear's discovery.",
+"answer": "spilled on stove, repeated systematically"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Outcome of vulcanization.",
+"answer": "hard and tough rubber tyres"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Why rayon shines like sun rays?",
+"answer": "named Rayon for shining bright like sun rays"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Classify natural substances: sand, soap, wool.",
+"answer": "sand natural abiotic, soap man-made, wool natural biotic"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Explain biotic vs abiotic.",
+"answer": "biotic from living things, abiotic not from living things"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Reason for man-made demand.",
+"answer": "large scale use, easier, plenty low cost"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Describe paper drying process.",
+"answer": "pulp passed through rollers, dried to form paper"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "Why uncomfortable synthetic clothes in summer?",
+"answer": "do not absorb sweat"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Fire hazard of synthetic fabric.",
+"answer": "catches fire easily, sticks to skin"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Environmental impact of synthetic fibres.",
+"answer": "not decomposed by micro-organisms"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "How to save trees.",
+"answer": "use paper sparingly, recycle used paper"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Use pencil and slate when possible.",
+"answer": "to save paper"Chapter_06_General-Science.pdf​
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "What we learnt: natural materials classification.",
+"answer": "biotic (plant/animal) or abiotic"Chapter_06_General-Science.pdf​
+}
+]
+}

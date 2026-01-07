@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "5.English.01",
+    "standard": "5",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Bridge"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Bridge'?",
+      "options": [
+        { "option_id": 1, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 2, "text": "Christina Rossetti", "is_correct": true },
+        { "option_id": 3, "text": "Robert Frost", "is_correct": false },
+        { "option_id": 4, "text": "John Keats", "is_correct": false }
+      ],
+      "answer": "Christina Rossetti"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What sail on the rivers according to the poem?",
+      "options": [
+        { "option_id": 1, "text": "Ships", "is_correct": false },
+        { "option_id": 2, "text": "Clouds", "is_correct": false },
+        { "option_id": 3, "text": "Boats", "is_correct": true },
+        { "option_id": 4, "text": "Bridges", "is_correct": false }
+      ],
+      "answer": "Boats"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What sail on the seas?",
+      "options": [
+        { "option_id": 1, "text": "Boats", "is_correct": false },
+        { "option_id": 2, "text": "Ships", "is_correct": true },
+        { "option_id": 3, "text": "Clouds", "is_correct": false },
+        { "option_id": 4, "text": "Bridges", "is_correct": false }
+      ],
+      "answer": "Ships"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which are said to be prettier than boats and ships?",
+      "options": [
+        { "option_id": 1, "text": "Bridges", "is_correct": false },
+        { "option_id": 2, "text": "Clouds", "is_correct": true },
+        { "option_id": 3, "text": "Rivers", "is_correct": false },
+        { "option_id": 4, "text": "Trees", "is_correct": false }
+      ],
+      "answer": "Clouds"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Where are the bridges mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "On the seas", "is_correct": false },
+        { "option_id": 2, "text": "On the rivers", "is_correct": true },
+        { "option_id": 3, "text": "In the sky", "is_correct": false },
+        { "option_id": 4, "text": "On the roads", "is_correct": false }
+      ],
+      "answer": "On the rivers"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does the 'bow that bridges heaven' refer to?",
+      "options": [
+        { "option_id": 1, "text": "A bridge", "is_correct": false },
+        { "option_id": 2, "text": "A cloud", "is_correct": false },
+        { "option_id": 3, "text": "A rainbow", "is_correct": true },
+        { "option_id": 4, "text": "A ship", "is_correct": false }
+      ],
+      "answer": "A rainbow"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the rainbow build according to the poem?",
+      "options": [
+        { "option_id": 1, "text": "A bridge on a river", "is_correct": false },
+        { "option_id": 2, "text": "A road from earth to sky", "is_correct": true },
+        { "option_id": 3, "text": "A house in heaven", "is_correct": false },
+        { "option_id": 4, "text": "A path in the forest", "is_correct": false }
+      ],
+      "answer": "A road from earth to sky"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word means 'rises above'?",
+      "options": [
+        { "option_id": 1, "text": "Across", "is_correct": false },
+        { "option_id": 2, "text": "Overtops", "is_correct": true },
+        { "option_id": 3, "text": "Prettier", "is_correct": false },
+        { "option_id": 4, "text": "Bridges", "is_correct": false }
+      ],
+      "answer": "Overtops"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the central theme of the poem?",
+      "options": [
+        { "option_id": 1, "text": "Adventure", "is_correct": false },
+        { "option_id": 2, "text": "Beauty of nature", "is_correct": true },
+        { "option_id": 3, "text": "Travel by ships", "is_correct": false },
+        { "option_id": 4, "text": "Construction of bridges", "is_correct": false }
+      ],
+      "answer": "Beauty of nature"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word in the poem is a comparative adjective?",
+      "options": [
+        { "option_id": 1, "text": "Across", "is_correct": false },
+        { "option_id": 2, "text": "Prettier", "is_correct": true },
+        { "option_id": 3, "text": "Heaven", "is_correct": false },
+        { "option_id": 4, "text": "Earth", "is_correct": false }
+      ],
+      "answer": "Prettier"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How many colours are shown in the rainbow activity?",
+      "options": [
+        { "option_id": 1, "text": "Five", "is_correct": false },
+        { "option_id": 2, "text": "Six", "is_correct": false },
+        { "option_id": 3, "text": "Seven", "is_correct": true },
+        { "option_id": 4, "text": "Eight", "is_correct": false }
+      ],
+      "answer": "Seven"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word relates to the sky?",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": false },
+        { "option_id": 2, "text": "Earth", "is_correct": false },
+        { "option_id": 3, "text": "Heaven", "is_correct": true },
+        { "option_id": 4, "text": "Bridge", "is_correct": false }
+      ],
+      "answer": "Heaven"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which natural object is described as the prettiest?",
+      "options": [
+        { "option_id": 1, "text": "River bridge", "is_correct": false },
+        { "option_id": 2, "text": "Clouds", "is_correct": false },
+        { "option_id": 3, "text": "Rainbow", "is_correct": true },
+        { "option_id": 4, "text": "Ships", "is_correct": false }
+      ],
+      "answer": "Rainbow"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word means 'from one side to the other'?",
+      "options": [
+        { "option_id": 1, "text": "Across", "is_correct": true },
+        { "option_id": 2, "text": "Overtops", "is_correct": false },
+        { "option_id": 3, "text": "Prettier", "is_correct": false },
+        { "option_id": 4, "text": "Heaven", "is_correct": false }
+      ],
+      "answer": "Across"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What type of poem is 'Bridge'?",
+      "options": [
+        { "option_id": 1, "text": "Humorous poem", "is_correct": false },
+        { "option_id": 2, "text": "Nature poem", "is_correct": true },
+        { "option_id": 3, "text": "Historical poem", "is_correct": false },
+        { "option_id": 4, "text": "War poem", "is_correct": false }
+      ],
+      "answer": "Nature poem"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who is the poet of the poem 'Bridge'?",
+      "answer": "The poet of the poem 'Bridge' is Christina Rossetti."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What sail on the rivers according to the poem?",
+      "answer": "Boats sail on the rivers."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What sail on the seas?",
+      "answer": "Ships sail on the seas."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is meant by the 'bow that bridges heaven'?",
+      "answer": "It refers to the rainbow."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What does the rainbow build?",
+      "answer": "The rainbow builds a road from earth to sky."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why are clouds said to be prettier than boats and ships?",
+      "answer": "Because clouds look more beautiful as they sail across the sky."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does the word 'overtops' mean?",
+      "answer": "It means rises above."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name any two colours of the rainbow.",
+      "answer": "Red and Blue."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the main idea of the poem?",
+      "answer": "The poem shows admiration for the beauty of nature."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which bridge is considered the prettiest in the poem?",
+      "answer": "The rainbow is considered the prettiest bridge."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Where does the rainbow appear?",
+      "answer": "The rainbow appears across the sky."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What activity is suggested after the poem?",
+      "answer": "Listening and reciting the poem with actions."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which two places does the rainbow connect?",
+      "answer": "The rainbow connects earth and sky."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which word in the poem is used to compare beauty?",
+      "answer": "The word 'prettier' is used to compare beauty."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why does the poet admire the rainbow?",
+      "answer": "The poet admires the rainbow because it is more beautiful than man-made bridges."
+    }
+  ]
+}

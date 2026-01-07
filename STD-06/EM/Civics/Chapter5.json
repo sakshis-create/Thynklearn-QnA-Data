@@ -1,0 +1,1215 @@
+{
+  "voyage": "District Administration",
+  "lessons": [
+    "The District Collector",
+    "The Chief of the District Police",
+    "District Courts"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which two authorities share the administration of a district in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Zilla Parishad and Taluka Court", "is_correct": false },
+        { "option_id": 2, "text": "District Collector and Zilla Parishad", "is_correct": true },
+        { "option_id": 3, "text": "State Government and Talathi", "is_correct": false },
+        { "option_id": 4, "text": "Union Government and Police Commissioner", "is_correct": false }
+      ],
+      "answer": "District Collector and Zilla Parishad"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who is the head of the district administration?",
+      "options": [
+        { "option_id": 1, "text": "Superintendent of Police", "is_correct": false },
+        { "option_id": 2, "text": "District Judge", "is_correct": false },
+        { "option_id": 3, "text": "District Collector", "is_correct": true },
+        { "option_id": 4, "text": "Deputy District Collector", "is_correct": false }
+      ],
+      "answer": "District Collector"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who appoints the District Collector?",
+      "options": [
+        { "option_id": 1, "text": "Union Government", "is_correct": false },
+        { "option_id": 2, "text": "State Government", "is_correct": true },
+        { "option_id": 3, "text": "Zilla Parishad", "is_correct": false },
+        { "option_id": 4, "text": "High Court", "is_correct": false }
+      ],
+      "answer": "State Government"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which responsibility is directly related to agriculture performed by the District Collector?",
+      "options": [
+        { "option_id": 1, "text": "Conducting elections", "is_correct": false },
+        { "option_id": 2, "text": "Collecting agricultural tax", "is_correct": true },
+        { "option_id": 3, "text": "Maintaining voter lists", "is_correct": false },
+        { "option_id": 4, "text": "Issuing court judgments", "is_correct": false }
+      ],
+      "answer": "Collecting agricultural tax"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which function of the District Collector helps during drought conditions?",
+      "options": [
+        { "option_id": 1, "text": "Updating voters’ lists", "is_correct": false },
+        { "option_id": 2, "text": "Providing relief in case of scarcity of fodder", "is_correct": true },
+        { "option_id": 3, "text": "Inspecting police units", "is_correct": false },
+        { "option_id": 4, "text": "Resolving court disputes", "is_correct": false }
+      ],
+      "answer": "Providing relief in case of scarcity of fodder"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which responsibility of the District Collector is linked to elections?",
+      "options": [
+        { "option_id": 1, "text": "Maintaining social harmony", "is_correct": false },
+        { "option_id": 2, "text": "Updating voters’ lists", "is_correct": true },
+        { "option_id": 3, "text": "Rehabilitation of disaster victims", "is_correct": false },
+        { "option_id": 4, "text": "Resolving land disputes", "is_correct": false }
+      ],
+      "answer": "Updating voters’ lists"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why is maintaining social harmony important?",
+      "options": [
+        { "option_id": 1, "text": "It increases agricultural tax", "is_correct": false },
+        { "option_id": 2, "text": "It prevents obstacles to progress", "is_correct": true },
+        { "option_id": 3, "text": "It speeds up elections", "is_correct": false },
+        { "option_id": 4, "text": "It increases police power", "is_correct": false }
+      ],
+      "answer": "It prevents obstacles to progress"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which authority can impose curfew to control unlawful assemblies?",
+      "options": [
+        { "option_id": 1, "text": "District Court", "is_correct": false },
+        { "option_id": 2, "text": "District Collector", "is_correct": true },
+        { "option_id": 3, "text": "Zilla Parishad", "is_correct": false },
+        { "option_id": 4, "text": "Talathi", "is_correct": false }
+      ],
+      "answer": "District Collector"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who assists the District Collector in maintaining law and order?",
+      "options": [
+        { "option_id": 1, "text": "District Judge", "is_correct": false },
+        { "option_id": 2, "text": "Superintendent of Police", "is_correct": true },
+        { "option_id": 3, "text": "Gram Sevak", "is_correct": false },
+        { "option_id": 4, "text": "Police Patil", "is_correct": false }
+      ],
+      "answer": "Superintendent of Police"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who is the chief police officer of a district in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Police Inspector", "is_correct": false },
+        { "option_id": 2, "text": "Deputy Superintendent of Police", "is_correct": false },
+        { "option_id": 3, "text": "Superintendent of Police", "is_correct": true },
+        { "option_id": 4, "text": "Police Commissioner", "is_correct": false }
+      ],
+      "answer": "Superintendent of Police"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who maintains law and order in cities?",
+      "options": [
+        { "option_id": 1, "text": "District Collector", "is_correct": false },
+        { "option_id": 2, "text": "Superintendent of Police", "is_correct": false },
+        { "option_id": 3, "text": "Police Commissioner", "is_correct": true },
+        { "option_id": 4, "text": "District Judge", "is_correct": false }
+      ],
+      "answer": "Police Commissioner"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who is the judicial officer responsible for maintaining peace in a taluka?",
+      "options": [
+        { "option_id": 1, "text": "Talathi", "is_correct": false },
+        { "option_id": 2, "text": "Tahsildar", "is_correct": true },
+        { "option_id": 3, "text": "District Judge", "is_correct": false },
+        { "option_id": 4, "text": "Police Inspector", "is_correct": false }
+      ],
+      "answer": "Tahsildar"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which responsibility of the Tahsildar is judicial in nature?",
+      "options": [
+        { "option_id": 1, "text": "Collecting taxes", "is_correct": false },
+        { "option_id": 2, "text": "Resolving conflicts at local level", "is_correct": true },
+        { "option_id": 3, "text": "Conducting elections", "is_correct": false },
+        { "option_id": 4, "text": "Inspecting police stations", "is_correct": false }
+      ],
+      "answer": "Resolving conflicts at local level"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT part of district police administration?",
+      "options": [
+        { "option_id": 1, "text": "Superintendent of Police", "is_correct": false },
+        { "option_id": 2, "text": "Police Sub Inspector", "is_correct": false },
+        { "option_id": 3, "text": "Talathi", "is_correct": true },
+        { "option_id": 4, "text": "Police Inspector", "is_correct": false }
+      ],
+      "answer": "Talathi"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which court hears appeals against judgments of the taluka court?",
+      "options": [
+        { "option_id": 1, "text": "Supreme Court", "is_correct": false },
+        { "option_id": 2, "text": "High Court", "is_correct": false },
+        { "option_id": 3, "text": "District Court", "is_correct": true },
+        { "option_id": 4, "text": "Revenue Court", "is_correct": false }
+      ],
+      "answer": "District Court"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who heads the District Court?",
+      "options": [
+        { "option_id": 1, "text": "Sessions Judge", "is_correct": false },
+        { "option_id": 2, "text": "Chief District Judge", "is_correct": true },
+        { "option_id": 3, "text": "Magistrate First Grade", "is_correct": false },
+        { "option_id": 4, "text": "Civil Judge", "is_correct": false }
+      ],
+      "answer": "Chief District Judge"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which judge deals with criminal cases in the district court?",
+      "options": [
+        { "option_id": 1, "text": "Civil Judge", "is_correct": false },
+        { "option_id": 2, "text": "Sessions Judge", "is_correct": true },
+        { "option_id": 3, "text": "Revenue Judge", "is_correct": false },
+        { "option_id": 4, "text": "Taluka Judge", "is_correct": false }
+      ],
+      "answer": "Sessions Judge"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which court system ensures independence of the judiciary?",
+      "options": [
+        { "option_id": 1, "text": "Executive system", "is_correct": false },
+        { "option_id": 2, "text": "Constitutional judiciary", "is_correct": true },
+        { "option_id": 3, "text": "Police administration", "is_correct": false },
+        { "option_id": 4, "text": "Revenue administration", "is_correct": false }
+      ],
+      "answer": "Constitutional judiciary"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which is the apex court of the Indian judiciary?",
+      "options": [
+        { "option_id": 1, "text": "High Court", "is_correct": false },
+        { "option_id": 2, "text": "District Court", "is_correct": false },
+        { "option_id": 3, "text": "Supreme Court of India", "is_correct": true },
+        { "option_id": 4, "text": "Sessions Court", "is_correct": false }
+      ],
+      "answer": "Supreme Court of India"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following is a lower court?",
+      "options": [
+        { "option_id": 1, "text": "Supreme Court", "is_correct": false },
+        { "option_id": 2, "text": "High Court", "is_correct": false },
+        { "option_id": 3, "text": "District Court", "is_correct": true },
+        { "option_id": 4, "text": "Constitution Bench", "is_correct": false }
+      ],
+      "answer": "District Court"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Why is disaster management important?",
+      "options": [
+        { "option_id": 1, "text": "It increases government revenue", "is_correct": false },
+        { "option_id": 2, "text": "It helps face disasters in an organized manner", "is_correct": true },
+        { "option_id": 3, "text": "It reduces elections", "is_correct": false },
+        { "option_id": 4, "text": "It limits public participation", "is_correct": false }
+      ],
+      "answer": "It helps face disasters in an organized manner"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of the following is a natural disaster mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Bomb blast", "is_correct": false },
+        { "option_id": 2, "text": "Flood", "is_correct": true },
+        { "option_id": 3, "text": "Riot", "is_correct": false },
+        { "option_id": 4, "text": "Dam break", "is_correct": false }
+      ],
+      "answer": "Flood"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which activity helps people prepare for disasters?",
+      "options": [
+        { "option_id": 1, "text": "Ignoring warnings", "is_correct": false },
+        { "option_id": 2, "text": "Displaying emergency contact numbers", "is_correct": true },
+        { "option_id": 3, "text": "Avoiding administration", "is_correct": false },
+        { "option_id": 4, "text": "Reducing communication", "is_correct": false }
+      ],
+      "answer": "Displaying emergency contact numbers"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which reform introduced the Single Window system?",
+      "options": [
+        { "option_id": 1, "text": "Dalvi Pattern", "is_correct": false },
+        { "option_id": 2, "text": "Chahande Pattern", "is_correct": false },
+        { "option_id": 3, "text": "Lakhina Pattern", "is_correct": true },
+        { "option_id": 4, "text": "Zero Pendency Pattern", "is_correct": false }
+      ],
+      "answer": "Lakhina Pattern"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What was the main aim of the Dalvi Pattern?",
+      "options": [
+        { "option_id": 1, "text": "Increase taxes", "is_correct": false },
+        { "option_id": 2, "text": "Speed up decision making", "is_correct": true },
+        { "option_id": 3, "text": "Increase police force", "is_correct": false },
+        { "option_id": 4, "text": "Reduce court cases", "is_correct": false }
+      ],
+      "answer": "Speed up decision making"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which pattern is also known as Zero Pendency Pattern?",
+      "options": [
+        { "option_id": 1, "text": "Lakhina Pattern", "is_correct": false },
+        { "option_id": 2, "text": "Dalvi Pattern", "is_correct": true },
+        { "option_id": 3, "text": "Chahande Pattern", "is_correct": false },
+        { "option_id": 4, "text": "District Pattern", "is_correct": false }
+      ],
+      "answer": "Dalvi Pattern"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which reform focused on people’s participation through ‘Gramastha Din’?",
+      "options": [
+        { "option_id": 1, "text": "Dalvi Pattern", "is_correct": false },
+        { "option_id": 2, "text": "Lakhina Pattern", "is_correct": false },
+        { "option_id": 3, "text": "Chahande Pattern", "is_correct": true },
+        { "option_id": 4, "text": "Single Window Pattern", "is_correct": false }
+      ],
+      "answer": "Chahande Pattern"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the objective of Gramastha Din?",
+      "options": [
+        { "option_id": 1, "text": "Conduct elections", "is_correct": false },
+        { "option_id": 2, "text": "Reduce gap between people and administration", "is_correct": true },
+        { "option_id": 3, "text": "Collect agricultural tax", "is_correct": false },
+        { "option_id": 4, "text": "Inspect courts", "is_correct": false }
+      ],
+      "answer": "Reduce gap between people and administration"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which disaster can be predicted with technological advances?",
+      "options": [
+        { "option_id": 1, "text": "Riots", "is_correct": false },
+        { "option_id": 2, "text": "Floods", "is_correct": true },
+        { "option_id": 3, "text": "Bomb blasts", "is_correct": false },
+        { "option_id": 4, "text": "Elections", "is_correct": false }
+      ],
+      "answer": "Floods"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which authority is involved in disaster management at district level?",
+      "options": [
+        { "option_id": 1, "text": "Only police department", "is_correct": false },
+        { "option_id": 2, "text": "Entire district machinery", "is_correct": true },
+        { "option_id": 3, "text": "Only courts", "is_correct": false },
+        { "option_id": 4, "text": "Only Zilla Parishad", "is_correct": false }
+      ],
+      "answer": "Entire district machinery"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which role ensures smooth conduct of elections in a district?",
+      "options": [
+        { "option_id": 1, "text": "Judicial role", "is_correct": false },
+        { "option_id": 2, "text": "Election Officer role of District Collector", "is_correct": true },
+        { "option_id": 3, "text": "Police Commissioner role", "is_correct": false },
+        { "option_id": 4, "text": "Zilla Parishad role", "is_correct": false }
+      ],
+      "answer": "Election Officer role of District Collector"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which authority updates voters’ lists?",
+      "options": [
+        { "option_id": 1, "text": "District Court", "is_correct": false },
+        { "option_id": 2, "text": "District Collector", "is_correct": true },
+        { "option_id": 3, "text": "Police Inspector", "is_correct": false },
+        { "option_id": 4, "text": "Tahsildar", "is_correct": false }
+      ],
+      "answer": "District Collector"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which position is responsible for maintaining peace at taluka level?",
+      "options": [
+        { "option_id": 1, "text": "District Collector", "is_correct": false },
+        { "option_id": 2, "text": "Tahsildar", "is_correct": true },
+        { "option_id": 3, "text": "Superintendent of Police", "is_correct": false },
+        { "option_id": 4, "text": "Police Patil", "is_correct": false }
+      ],
+      "answer": "Tahsildar"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which court resolves disputes at the earliest at district level?",
+      "options": [
+        { "option_id": 1, "text": "Taluka Court", "is_correct": false },
+        { "option_id": 2, "text": "District Court", "is_correct": true },
+        { "option_id": 3, "text": "High Court", "is_correct": false },
+        { "option_id": 4, "text": "Revenue Court", "is_correct": false }
+      ],
+      "answer": "District Court"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which authority deals with civil cases in district court?",
+      "options": [
+        { "option_id": 1, "text": "Sessions Judge", "is_correct": false },
+        { "option_id": 2, "text": "Civil Judge", "is_correct": true },
+        { "option_id": 3, "text": "Magistrate", "is_correct": false },
+        { "option_id": 4, "text": "Police Inspector", "is_correct": false }
+      ],
+      "answer": "Civil Judge"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which grade of magistrate is part of district court structure?",
+      "options": [
+        { "option_id": 1, "text": "Only first grade", "is_correct": false },
+        { "option_id": 2, "text": "First and second grade", "is_correct": true },
+        { "option_id": 3, "text": "Only second grade", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "First and second grade"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which disaster requires rehabilitation of affected people?",
+      "options": [
+        { "option_id": 1, "text": "Election delay", "is_correct": false },
+        { "option_id": 2, "text": "Earthquake", "is_correct": true },
+        { "option_id": 3, "text": "Court appeal", "is_correct": false },
+        { "option_id": 4, "text": "Tax revision", "is_correct": false }
+      ],
+      "answer": "Earthquake"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which factor improves citizens’ opinion about administration?",
+      "options": [
+        { "option_id": 1, "text": "Delay in services", "is_correct": false },
+        { "option_id": 2, "text": "Administrative reforms", "is_correct": true },
+        { "option_id": 3, "text": "Increase in disputes", "is_correct": false },
+        { "option_id": 4, "text": "Lack of communication", "is_correct": false }
+      ],
+      "answer": "Administrative reforms"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which reform emphasized simple language in rules?",
+      "options": [
+        { "option_id": 1, "text": "Dalvi Pattern", "is_correct": false },
+        { "option_id": 2, "text": "Chahande Pattern", "is_correct": false },
+        { "option_id": 3, "text": "Lakhina Pattern", "is_correct": true },
+        { "option_id": 4, "text": "Disaster Pattern", "is_correct": false }
+      ],
+      "answer": "Lakhina Pattern"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which authority ensures rehabilitation after disasters?",
+      "options": [
+        { "option_id": 1, "text": "Police Commissioner", "is_correct": false },
+        { "option_id": 2, "text": "District Collector", "is_correct": true },
+        { "option_id": 3, "text": "District Judge", "is_correct": false },
+        { "option_id": 4, "text": "Talathi", "is_correct": false }
+      ],
+      "answer": "District Collector"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which level of court is below the High Court?",
+      "options": [
+        { "option_id": 1, "text": "Supreme Court", "is_correct": false },
+        { "option_id": 2, "text": "District Court", "is_correct": true },
+        { "option_id": 3, "text": "Constitution Court", "is_correct": false },
+        { "option_id": 4, "text": "Election Tribunal", "is_correct": false }
+      ],
+      "answer": "District Court"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which officer is part of revenue administration?",
+      "options": [
+        { "option_id": 1, "text": "Police Sub Inspector", "is_correct": false },
+        { "option_id": 2, "text": "Talathi", "is_correct": true },
+        { "option_id": 3, "text": "Sessions Judge", "is_correct": false },
+        { "option_id": 4, "text": "Police Commissioner", "is_correct": false }
+      ],
+      "answer": "Talathi"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which body ensures disputes are resolved peacefully?",
+      "options": [
+        { "option_id": 1, "text": "Police Department", "is_correct": false },
+        { "option_id": 2, "text": "Judiciary", "is_correct": true },
+        { "option_id": 3, "text": "Zilla Parishad", "is_correct": false },
+        { "option_id": 4, "text": "Election Commission", "is_correct": false }
+      ],
+      "answer": "Judiciary"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which factor causes disturbance to social harmony?",
+      "options": [
+        { "option_id": 1, "text": "Peaceful discussions", "is_correct": false },
+        { "option_id": 2, "text": "Violent incidents", "is_correct": true },
+        { "option_id": 3, "text": "Administrative reforms", "is_correct": false },
+        { "option_id": 4, "text": "Public cooperation", "is_correct": false }
+      ],
+      "answer": "Violent incidents"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which activity reflects citizens’ duty in maintaining harmony?",
+      "options": [
+        { "option_id": 1, "text": "Ignoring conflicts", "is_correct": false },
+        { "option_id": 2, "text": "Helping administration", "is_correct": true },
+        { "option_id": 3, "text": "Avoiding dialogue", "is_correct": false },
+        { "option_id": 4, "text": "Spreading disputes", "is_correct": false }
+      ],
+      "answer": "Helping administration"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which administrative level handles disaster management directly?",
+      "options": [
+        { "option_id": 1, "text": "Village level", "is_correct": false },
+        { "option_id": 2, "text": "District level", "is_correct": true },
+        { "option_id": 3, "text": "State legislature", "is_correct": false },
+        { "option_id": 4, "text": "Parliament", "is_correct": false }
+      ],
+      "answer": "District level"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which system helps predict disasters in advance?",
+      "options": [
+        { "option_id": 1, "text": "Judicial system", "is_correct": false },
+        { "option_id": 2, "text": "Technological warning systems", "is_correct": true },
+        { "option_id": 3, "text": "Revenue system", "is_correct": false },
+        { "option_id": 4, "text": "Election system", "is_correct": false }
+      ],
+      "answer": "Technological warning systems"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which reform aimed to reduce file pendency?",
+      "options": [
+        { "option_id": 1, "text": "Lakhina Pattern", "is_correct": false },
+        { "option_id": 2, "text": "Dalvi Pattern", "is_correct": true },
+        { "option_id": 3, "text": "Chahande Pattern", "is_correct": false },
+        { "option_id": 4, "text": "Gramastha Pattern", "is_correct": false }
+      ],
+      "answer": "Dalvi Pattern"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which reform increased accountability towards people?",
+      "options": [
+        { "option_id": 1, "text": "Lakhina Pattern", "is_correct": false },
+        { "option_id": 2, "text": "Dalvi Pattern", "is_correct": false },
+        { "option_id": 3, "text": "Chahande Pattern", "is_correct": true },
+        { "option_id": 4, "text": "Zero Window Pattern", "is_correct": false }
+      ],
+      "answer": "Chahande Pattern"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which outcome resulted from administrative reforms in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Decrease in citizen participation", "is_correct": false },
+        { "option_id": 2, "text": "Improved public opinion and participation", "is_correct": true },
+        { "option_id": 3, "text": "More conflicts", "is_correct": false },
+        { "option_id": 4, "text": "Reduced services", "is_correct": false }
+      ],
+      "answer": "Improved public opinion and participation"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is meant by district administration?",
+      "answer": "District administration refers to the system through which the governance and management of a district are carried out by various authorities."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who heads the district administration?",
+      "answer": "The District Collector heads the district administration."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who appoints the District Collector?",
+      "answer": "The District Collector is appointed by the State Government."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Mention any one function of the District Collector related to agriculture.",
+      "answer": "The District Collector collects agricultural tax."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What role does the District Collector play during disasters?",
+      "answer": "The District Collector takes quick decisions, provides relief, and ensures rehabilitation during disasters."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How does the District Collector help in maintaining law and order?",
+      "answer": "He restricts unlawful assemblies, imposes curfew if required, and works to maintain social harmony."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is maintaining social harmony important for society?",
+      "answer": "Social harmony prevents conflicts and violence, which otherwise become obstacles to social progress."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "State one responsibility of the District Collector related to elections.",
+      "answer": "The District Collector ensures the smooth conduct of elections."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the role of the District Collector in updating voters’ lists?",
+      "answer": "He is responsible for updating and maintaining accurate voters’ lists."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Who is the Tahsildar?",
+      "answer": "The Tahsildar is a judicial officer responsible for maintaining peace and resolving local disputes at the taluka level."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What judicial function does the Tahsildar perform?",
+      "answer": "The Tahsildar gives judgments to resolve conflicts at the local level."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which authority maintains peace and order in a taluka?",
+      "answer": "The Tahsildar maintains peace and order in a taluka."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Who is the chief police officer of a district?",
+      "answer": "The Superintendent of Police is the chief police officer of a district."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How does the Superintendent of Police assist the District Collector?",
+      "answer": "He assists the District Collector in maintaining peace and order in the district."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Who is responsible for maintaining law and order in cities?",
+      "answer": "The Police Commissioner is responsible for maintaining law and order in cities."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the main function of district courts?",
+      "answer": "District courts resolve disputes, deliver judgments, and ensure timely justice."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the highest court in the Indian judicial system?",
+      "answer": "The Supreme Court of India is the highest court in the Indian judicial system."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name any two lower courts below the High Court.",
+      "answer": "District Courts and Taluka Courts are lower courts below the High Court."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Who heads the District Court?",
+      "answer": "The Chief District Judge heads the District Court."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Which judge handles criminal cases in the district court?",
+      "answer": "The Sessions Judge handles criminal cases in the district court."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Which judge deals with civil cases in the district court?",
+      "answer": "The Civil Judge deals with civil cases in the district court."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What right does a citizen have if dissatisfied with a taluka court judgment?",
+      "answer": "A citizen can appeal against the taluka court judgment in the District Court."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is meant by disaster management?",
+      "answer": "Disaster management is a process that enables handling disasters in a scientific and organized manner."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Name any two natural disasters mentioned in the chapter.",
+      "answer": "Floods and earthquakes are natural disasters mentioned in the chapter."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why is rehabilitation important after disasters?",
+      "answer": "Rehabilitation is important to resettle affected people and restore normal life."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How does technology help in disaster management?",
+      "answer": "Technology helps by predicting disasters and providing early warnings."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What precautionary advice is given to citizens during emergencies?",
+      "answer": "Citizens are advised to display emergency contact numbers prominently at home."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What was the aim of the Lakhina Pattern?",
+      "answer": "The aim was to improve administrative efficiency and quality of public services."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What administrative change was introduced under the Lakhina Pattern?",
+      "answer": "The Single Window system was introduced under the Lakhina Pattern."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What was the objective of the Dalvi Pattern?",
+      "answer": "The objective was to speed up decision-making by ensuring zero pendency of files."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why is the Dalvi Pattern called the Zero Pendency Pattern?",
+      "answer": "Because files were cleared on the same day without allowing pendency."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Who introduced the Chahande Pattern?",
+      "answer": "The Chahande Pattern was introduced by Dr. Sanjay Chahande."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is Gramastha Din?",
+      "answer": "Gramastha Din is a scheme where officials visit villages to interact with people and solve their problems."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What was the purpose of the Chahande Pattern?",
+      "answer": "Its purpose was to reduce the gap between people and administration and increase accountability."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How do administrative reforms improve public participation?",
+      "answer": "They make services efficient and accessible, increasing trust and participation."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the role of citizens in maintaining social harmony?",
+      "answer": "Citizens should cooperate with administration and resolve conflicts peacefully."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which authority is responsible for revenue administration at village level?",
+      "answer": "The Talathi is responsible for revenue administration at the village level."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why is the judiciary described as independent?",
+      "answer": "Because it functions independently to deliver impartial justice."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What type of cases are heard by magistrates?",
+      "answer": "Magistrates hear specific civil and criminal cases as per their grade."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "How does district administration ensure public safety?",
+      "answer": "By maintaining law and order, managing disasters, and resolving disputes."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the significance of peace and order in administration?",
+      "answer": "Peace and order ensure stability, development, and social progress."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why are courts essential in district administration?",
+      "answer": "Courts ensure justice by resolving disputes and delivering judgments."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How does district administration support democracy?",
+      "answer": "By conducting elections, maintaining law and order, and delivering public services."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What function of the District Collector relates to disaster prevention?",
+      "answer": "Issuing orders to disaster management units to minimize damage."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is coordination among district authorities necessary?",
+      "answer": "Coordination ensures efficient administration and effective service delivery."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is meant by public property?",
+      "answer": "Public property refers to assets owned and used by the public, such as roads and buildings."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why does violence damage public property?",
+      "answer": "Violence leads to destruction of common assets, affecting society at large."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How does efficient administration benefit citizens?",
+      "answer": "It improves service delivery and builds a positive opinion about governance."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What role does the District Collector play in social welfare?",
+      "answer": "He implements relief measures and welfare schemes for citizens."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is district administration important in daily life?",
+      "answer": "It ensures governance, justice, safety, and development at the local level."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why is the District Collector considered the pivot of district administration?",
+      "answer": "The District Collector coordinates revenue, law and order, elections, disaster management, and welfare activities, making him central to district administration."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does the District Collector balance administrative and social responsibilities?",
+      "answer": "He enforces laws while also promoting social harmony and providing relief during crises."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is the role of District Collector crucial during disasters?",
+      "answer": "He takes immediate decisions, coordinates relief efforts, and minimizes loss of life and property."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How does maintaining social harmony contribute to district development?",
+      "answer": "Social harmony prevents violence and disruptions, allowing continuous progress and protection of public property."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why must citizens cooperate with the District Collector to maintain peace?",
+      "answer": "Citizen cooperation helps prevent conflicts and supports effective administration."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How does the election-related role of the District Collector strengthen democracy?",
+      "answer": "By ensuring fair elections and accurate voters’ lists, he upholds democratic processes."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why is updating voters’ lists an important administrative function?",
+      "answer": "It ensures that eligible citizens can exercise their voting rights without errors or exclusions."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How does the Tahsildar contribute to conflict resolution at the local level?",
+      "answer": "By acting as a judicial officer, the Tahsildar resolves disputes quickly within the taluka."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why is the Tahsildar’s role important for maintaining peace in a taluka?",
+      "answer": "He addresses disputes early, preventing escalation into larger conflicts."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How does coordination between the District Collector and Superintendent of Police maintain law and order?",
+      "answer": "Their joint efforts ensure enforcement of laws and prevention of unlawful activities."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why is the Superintendent of Police essential in district administration?",
+      "answer": "He leads the police force and supports the administration in maintaining peace and security."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How does the Police Commissioner’s role differ from that of the Superintendent of Police?",
+      "answer": "The Police Commissioner maintains law and order in cities, while the Superintendent of Police does so in districts."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why are district courts important for ensuring justice at the local level?",
+      "answer": "They resolve disputes and deliver judgments promptly within the district."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How does the independence of the judiciary protect citizens’ rights?",
+      "answer": "An independent judiciary ensures impartial judgments free from external influence."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is the District Court placed below the High Court in the judicial hierarchy?",
+      "answer": "It functions as a lower court where appeals can later be taken to higher courts."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How does the Sessions Judge contribute to criminal justice?",
+      "answer": "The Sessions Judge hears criminal cases and delivers judgments at the district level."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why are civil cases handled separately by Civil Judges?",
+      "answer": "Specialization ensures proper handling of non-criminal disputes efficiently."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How does the right to appeal strengthen the judicial system?",
+      "answer": "It allows review of lower court decisions, ensuring fairness and accuracy."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why is disaster management described as a scientific and organized process?",
+      "answer": "It involves planning, coordination, and use of technology to handle disasters effectively."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How does advance warning technology reduce disaster impact?",
+      "answer": "Early warnings help people and authorities prepare in advance, reducing losses."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why is rehabilitation a key aspect of disaster management?",
+      "answer": "It helps affected people regain shelter, livelihood, and normal life."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How does involving the entire district machinery improve disaster response?",
+      "answer": "It ensures coordinated efforts and efficient use of resources."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why should citizens remain alert during emergencies?",
+      "answer": "Alertness helps them respond quickly and seek help when required."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How do administrative reforms improve governance quality?",
+      "answer": "They simplify procedures, reduce delays, and enhance service delivery."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why was the Lakhina Pattern significant for public services?",
+      "answer": "It standardized procedures and introduced the Single Window system for efficiency."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "How did the Single Window system benefit citizens?",
+      "answer": "It allowed completion of multiple tasks at one place, saving time and effort."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why is the Dalvi Pattern known as the Zero Pendency Pattern?",
+      "answer": "Because files were disposed of on the same day, eliminating backlog."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How does faster decision-making improve administration?",
+      "answer": "It increases efficiency and timely delivery of services to citizens."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why was people’s participation emphasized in the Chahande Pattern?",
+      "answer": "It reduced the gap between people and administration and increased accountability."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How does Gramastha Din strengthen trust in administration?",
+      "answer": "Direct interaction helps officials understand problems and resolve them promptly."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why is accountability important in district administration?",
+      "answer": "It ensures that officials act responsibly and in public interest."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How do reforms influence citizens’ perception of governance?",
+      "answer": "Efficient reforms create a favorable opinion and increase public participation."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is coordination among administrative, police, and judicial systems necessary?",
+      "answer": "Coordination ensures smooth functioning and effective governance."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How does district administration affect everyday life of citizens?",
+      "answer": "It ensures law and order, justice, disaster response, and welfare services."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is law and order a foundation of district development?",
+      "answer": "Without peace and security, social and economic development cannot progress."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How does efficient revenue administration support public welfare?",
+      "answer": "Collected revenue is used for development and relief measures."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why is protecting public property important during conflicts?",
+      "answer": "Public property serves society and its destruction hampers development."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How does district administration promote democratic values?",
+      "answer": "By ensuring free elections, justice, and citizen participation."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is the district considered a key unit of administration?",
+      "answer": "It connects state policies with local implementation."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "How does local dispute resolution reduce burden on higher courts?",
+      "answer": "Early resolution at district and taluka levels prevents escalation of cases."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why is preparedness essential in disaster management?",
+      "answer": "Preparedness reduces panic, damage, and loss of life."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "How does displaying emergency contact numbers help during crises?",
+      "answer": "It allows quick access to help and emergency services."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why should administrative rules be written in simple language?",
+      "answer": "Simple language makes procedures understandable to common citizens."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How do reforms reduce the gap between administration and people?",
+      "answer": "They encourage interaction, transparency, and responsiveness."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is citizen participation vital for successful administration?",
+      "answer": "Active participation supports implementation and accountability."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How does district administration contribute to social stability?",
+      "answer": "By maintaining law and order and resolving conflicts peacefully."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why must administrative decisions be timely?",
+      "answer": "Delays can worsen problems and reduce effectiveness of governance."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How does trust in administration strengthen democracy?",
+      "answer": "Trust encourages cooperation and participation of citizens."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is district-level governance critical during emergencies?",
+      "answer": "Immediate response and coordination are possible only at district level."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "How does effective district administration support overall state governance?",
+      "answer": "Efficient districts ensure smooth implementation of state policies."
+    }
+  ]
+}

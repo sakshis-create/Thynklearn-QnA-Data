@@ -1,0 +1,1223 @@
+{
+  " Chapter 5": " Temperature",
+  "lessons": [
+    "Effect of Sunrays on Temperature",
+    "Latitudinal Distribution of Temperature",
+    "Thermal Zones of the Earth",
+    "Heating and Cooling of Land and Water",
+    "Ocean Currents",
+    "Isotherms",
+    "Measurement of Temperature"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Why do perpendicular sunrays heat the Earth’s surface more?",
+      "options": [
+        { "option_id": 1, "text": "They travel longer distance", "is_correct": false },
+        { "option_id": 2, "text": "They occupy a smaller area", "is_correct": true },
+        { "option_id": 3, "text": "They lose more heat", "is_correct": false },
+        { "option_id": 4, "text": "They spread widely", "is_correct": false }
+      ],
+      "answer": "They occupy a smaller area"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What happens when sunrays fall slantingly on the Earth?",
+      "options": [
+        { "option_id": 1, "text": "More heat is received", "is_correct": false },
+        { "option_id": 2, "text": "Heat is distributed over a larger area", "is_correct": true },
+        { "option_id": 3, "text": "Air pressure increases", "is_correct": false },
+        { "option_id": 4, "text": "Temperature becomes uniform", "is_correct": false }
+      ],
+      "answer": "Heat is distributed over a larger area"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which part of the Earth receives perpendicular sunrays?",
+      "options": [
+        { "option_id": 1, "text": "Polar regions", "is_correct": false },
+        { "option_id": 2, "text": "Equatorial region", "is_correct": true },
+        { "option_id": 3, "text": "Temperate region", "is_correct": false },
+        { "option_id": 4, "text": "Mountainous region", "is_correct": false }
+      ],
+      "answer": "Equatorial region"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why does temperature decrease from the equator towards the poles?",
+      "options": [
+        { "option_id": 1, "text": "Increase in humidity", "is_correct": false },
+        { "option_id": 2, "text": "Sunrays become slanting", "is_correct": true },
+        { "option_id": 3, "text": "Increase in air pressure", "is_correct": false },
+        { "option_id": 4, "text": "Decrease in rainfall", "is_correct": false }
+      ],
+      "answer": "Sunrays become slanting"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which zone lies between 23°30' North and 23°30' South latitudes?",
+      "options": [
+        { "option_id": 1, "text": "Temperate Zone", "is_correct": false },
+        { "option_id": 2, "text": "Frigid Zone", "is_correct": false },
+        { "option_id": 3, "text": "Torrid Zone", "is_correct": true },
+        { "option_id": 4, "text": "Polar Zone", "is_correct": false }
+      ],
+      "answer": "Torrid Zone"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which thermal zone experiences extremely cold temperatures?",
+      "options": [
+        { "option_id": 1, "text": "Torrid Zone", "is_correct": false },
+        { "option_id": 2, "text": "Temperate Zone", "is_correct": false },
+        { "option_id": 3, "text": "Frigid Zone", "is_correct": true },
+        { "option_id": 4, "text": "Equatorial Zone", "is_correct": false }
+      ],
+      "answer": "Frigid Zone"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What causes unequal distribution of heat on the Earth?",
+      "options": [
+        { "option_id": 1, "text": "Rotation of the Earth", "is_correct": false },
+        { "option_id": 2, "text": "Spherical shape of the Earth", "is_correct": true },
+        { "option_id": 3, "text": "Atmospheric pressure", "is_correct": false },
+        { "option_id": 4, "text": "Wind direction", "is_correct": false }
+      ],
+      "answer": "Spherical shape of the Earth"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which factor is most useful for understanding the climate of a region?",
+      "options": [
+        { "option_id": 1, "text": "Longitude", "is_correct": false },
+        { "option_id": 2, "text": "Latitude", "is_correct": true },
+        { "option_id": 3, "text": "Population", "is_correct": false },
+        { "option_id": 4, "text": "Vegetation", "is_correct": false }
+      ],
+      "answer": "Latitude"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why does land heat up faster than water?",
+      "options": [
+        { "option_id": 1, "text": "Land absorbs less heat", "is_correct": false },
+        { "option_id": 2, "text": "Land cools slowly", "is_correct": false },
+        { "option_id": 3, "text": "Land heats and cools quickly", "is_correct": true },
+        { "option_id": 4, "text": "Land contains moisture", "is_correct": false }
+      ],
+      "answer": "Land heats and cools quickly"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why does water remain warm for a longer time than land?",
+      "options": [
+        { "option_id": 1, "text": "Water absorbs less heat", "is_correct": false },
+        { "option_id": 2, "text": "Water heats and cools slowly", "is_correct": true },
+        { "option_id": 3, "text": "Water reflects heat", "is_correct": false },
+        { "option_id": 4, "text": "Water has no convection", "is_correct": false }
+      ],
+      "answer": "Water heats and cools slowly"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which type of climate is found in coastal areas?",
+      "options": [
+        { "option_id": 1, "text": "Extreme climate", "is_correct": false },
+        { "option_id": 2, "text": "Equable climate", "is_correct": true },
+        { "option_id": 3, "text": "Dry climate", "is_correct": false },
+        { "option_id": 4, "text": "Cold climate", "is_correct": false }
+      ],
+      "answer": "Equable climate"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why is the diurnal range of temperature less in coastal regions?",
+      "options": [
+        { "option_id": 1, "text": "High altitude", "is_correct": false },
+        { "option_id": 2, "text": "Presence of sea water vapour", "is_correct": true },
+        { "option_id": 3, "text": "Low humidity", "is_correct": false },
+        { "option_id": 4, "text": "Low rainfall", "is_correct": false }
+      ],
+      "answer": "Presence of sea water vapour"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is diurnal range of temperature?",
+      "options": [
+        { "option_id": 1, "text": "Difference between annual temperatures", "is_correct": false },
+        { "option_id": 2, "text": "Difference between day and night temperatures", "is_correct": true },
+        { "option_id": 3, "text": "Average daily temperature", "is_correct": false },
+        { "option_id": 4, "text": "Monthly temperature variation", "is_correct": false }
+      ],
+      "answer": "Difference between day and night temperatures"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which region shows a higher diurnal temperature range?",
+      "options": [
+        { "option_id": 1, "text": "Coastal region", "is_correct": false },
+        { "option_id": 2, "text": "Continental region", "is_correct": true },
+        { "option_id": 3, "text": "Island region", "is_correct": false },
+        { "option_id": 4, "text": "Equatorial region", "is_correct": false }
+      ],
+      "answer": "Continental region"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is annual range of temperature?",
+      "options": [
+        { "option_id": 1, "text": "Difference between maximum and minimum daily temperature", "is_correct": false },
+        { "option_id": 2, "text": "Difference between mean summer and winter temperatures", "is_correct": true },
+        { "option_id": 3, "text": "Difference between coastal temperatures", "is_correct": false },
+        { "option_id": 4, "text": "Difference between equator and poles", "is_correct": false }
+      ],
+      "answer": "Difference between mean summer and winter temperatures"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Why is Mumbai’s climate described as equable?",
+      "options": [
+        { "option_id": 1, "text": "High altitude", "is_correct": false },
+        { "option_id": 2, "text": "Nearness to the sea", "is_correct": true },
+        { "option_id": 3, "text": "Low rainfall", "is_correct": false },
+        { "option_id": 4, "text": "Cold winds", "is_correct": false }
+      ],
+      "answer": "Nearness to the sea"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which place is an example of continental climate mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Nagpur", "is_correct": true },
+        { "option_id": 3, "text": "Vengurla", "is_correct": false },
+        { "option_id": 4, "text": "Konkan", "is_correct": false }
+      ],
+      "answer": "Nagpur"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Why does air near the surface become warmer?",
+      "options": [
+        { "option_id": 1, "text": "Air absorbs sunrays directly", "is_correct": false },
+        { "option_id": 2, "text": "Land and water radiate heat to air", "is_correct": true },
+        { "option_id": 3, "text": "Cloud cover heats air", "is_correct": false },
+        { "option_id": 4, "text": "Wind compresses air", "is_correct": false }
+      ],
+      "answer": "Land and water radiate heat to air"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What type of heat transfer occurs in water due to temperature difference?",
+      "options": [
+        { "option_id": 1, "text": "Radiation", "is_correct": false },
+        { "option_id": 2, "text": "Conduction", "is_correct": false },
+        { "option_id": 3, "text": "Convection", "is_correct": true },
+        { "option_id": 4, "text": "Reflection", "is_correct": false }
+      ],
+      "answer": "Convection"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which factor besides temperature causes ocean currents?",
+      "options": [
+        { "option_id": 1, "text": "Longitude", "is_correct": false },
+        { "option_id": 2, "text": "Winds and water density", "is_correct": true },
+        { "option_id": 3, "text": "Rainfall", "is_correct": false },
+        { "option_id": 4, "text": "Altitude", "is_correct": false }
+      ],
+      "answer": "Winds and water density"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What effect do warm ocean currents have on coastal temperatures?",
+      "options": [
+        { "option_id": 1, "text": "Decrease temperature", "is_correct": false },
+        { "option_id": 2, "text": "Increase temperature", "is_correct": true },
+        { "option_id": 3, "text": "No effect", "is_correct": false },
+        { "option_id": 4, "text": "Cause rainfall only", "is_correct": false }
+      ],
+      "answer": "Increase temperature"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What happens when cold ocean currents flow towards the torrid zone?",
+      "options": [
+        { "option_id": 1, "text": "Temperature increases", "is_correct": false },
+        { "option_id": 2, "text": "Temperature decreases", "is_correct": true },
+        { "option_id": 3, "text": "Rainfall increases", "is_correct": false },
+        { "option_id": 4, "text": "Humidity increases", "is_correct": false }
+      ],
+      "answer": "Temperature decreases"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Why do fisheries thrive where warm and cold currents meet?",
+      "options": [
+        { "option_id": 1, "text": "High salinity", "is_correct": false },
+        { "option_id": 2, "text": "Abundant plankton growth", "is_correct": true },
+        { "option_id": 3, "text": "Low temperature", "is_correct": false },
+        { "option_id": 4, "text": "High pressure", "is_correct": false }
+      ],
+      "answer": "Abundant plankton growth"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What are isotherms?",
+      "options": [
+        { "option_id": 1, "text": "Lines joining places of equal rainfall", "is_correct": false },
+        { "option_id": 2, "text": "Lines joining places of equal temperature", "is_correct": true },
+        { "option_id": 3, "text": "Lines joining equal pressure", "is_correct": false },
+        { "option_id": 4, "text": "Lines joining equal height", "is_correct": false }
+      ],
+      "answer": "Lines joining places of equal temperature"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Why do isotherms deviate more in the northern hemisphere?",
+      "options": [
+        { "option_id": 1, "text": "More oceans", "is_correct": false },
+        { "option_id": 2, "text": "Greater proportion of land", "is_correct": true },
+        { "option_id": 3, "text": "Uniform climate", "is_correct": false },
+        { "option_id": 4, "text": "Higher altitude", "is_correct": false }
+      ],
+      "answer": "Greater proportion of land"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which instrument is used to measure air temperature?",
+      "options": [
+        { "option_id": 1, "text": "Barometer", "is_correct": false },
+        { "option_id": 2, "text": "Thermometer", "is_correct": true },
+        { "option_id": 3, "text": "Anemometer", "is_correct": false },
+        { "option_id": 4, "text": "Hygrometer", "is_correct": false }
+      ],
+      "answer": "Thermometer"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which substance is commonly used in thermometers?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Oil", "is_correct": false },
+        { "option_id": 3, "text": "Mercury or alcohol", "is_correct": true },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ],
+      "answer": "Mercury or alcohol"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Why are mercury and alcohol used in thermometers?",
+      "options": [
+        { "option_id": 1, "text": "They freeze easily", "is_correct": false },
+        { "option_id": 2, "text": "They expand uniformly with temperature", "is_correct": true },
+        { "option_id": 3, "text": "They evaporate quickly", "is_correct": false },
+        { "option_id": 4, "text": "They are colourless", "is_correct": false }
+      ],
+      "answer": "They expand uniformly with temperature"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "In which unit is air temperature usually measured?",
+      "options": [
+        { "option_id": 1, "text": "Kelvin", "is_correct": false },
+        { "option_id": 2, "text": "Celsius", "is_correct": true },
+        { "option_id": 3, "text": "Millibar", "is_correct": false },
+        { "option_id": 4, "text": "Metre", "is_correct": false }
+      ],
+      "answer": "Celsius"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which scale is also shown on a thermometer besides Celsius?",
+      "options": [
+        { "option_id": 1, "text": "Kelvin", "is_correct": false },
+        { "option_id": 2, "text": "Fahrenheit", "is_correct": true },
+        { "option_id": 3, "text": "Bar", "is_correct": false },
+        { "option_id": 4, "text": "Pascal", "is_correct": false }
+      ],
+      "answer": "Fahrenheit"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What do the figures on a thermometer scale indicate?",
+      "options": [
+        { "option_id": 1, "text": "Wind speed", "is_correct": false },
+        { "option_id": 2, "text": "Temperature values", "is_correct": true },
+        { "option_id": 3, "text": "Pressure levels", "is_correct": false },
+        { "option_id": 4, "text": "Humidity percentage", "is_correct": false }
+      ],
+      "answer": "Temperature values"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why are isotherms drawn after avoiding the effect of height?",
+      "options": [
+        { "option_id": 1, "text": "To show rainfall", "is_correct": false },
+        { "option_id": 2, "text": "To represent true temperature distribution", "is_correct": true },
+        { "option_id": 3, "text": "To simplify maps", "is_correct": false },
+        { "option_id": 4, "text": "To show pressure", "is_correct": false }
+      ],
+      "answer": "To represent true temperature distribution"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Why are isotherms more parallel in the southern hemisphere?",
+      "options": [
+        { "option_id": 1, "text": "More landmass", "is_correct": false },
+        { "option_id": 2, "text": "Less landmass", "is_correct": true },
+        { "option_id": 3, "text": "Higher altitude", "is_correct": false },
+        { "option_id": 4, "text": "Stronger winds", "is_correct": false }
+      ],
+      "answer": "Less landmass"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the main reason for zigzag isotherms over continents?",
+      "options": [
+        { "option_id": 1, "text": "Ocean currents", "is_correct": false },
+        { "option_id": 2, "text": "Variation in land heating", "is_correct": true },
+        { "option_id": 3, "text": "Latitude lines", "is_correct": false },
+        { "option_id": 4, "text": "Rainfall distribution", "is_correct": false }
+      ],
+      "answer": "Variation in land heating"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which factor influences temperature locally besides latitude?",
+      "options": [
+        { "option_id": 1, "text": "Height above sea level", "is_correct": true },
+        { "option_id": 2, "text": "Longitude", "is_correct": false },
+        { "option_id": 3, "text": "Population", "is_correct": false },
+        { "option_id": 4, "text": "Soil type", "is_correct": false }
+      ],
+      "answer": "Height above sea level"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which factor helps retain heat in coastal air?",
+      "options": [
+        { "option_id": 1, "text": "Dry air", "is_correct": false },
+        { "option_id": 2, "text": "Water vapour", "is_correct": true },
+        { "option_id": 3, "text": "Cold winds", "is_correct": false },
+        { "option_id": 4, "text": "Low pressure", "is_correct": false }
+      ],
+      "answer": "Water vapour"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which climate is suitable for asthma patients as per the example?",
+      "options": [
+        { "option_id": 1, "text": "Humid coastal climate", "is_correct": false },
+        { "option_id": 2, "text": "Dry continental climate", "is_correct": true },
+        { "option_id": 3, "text": "Equatorial climate", "is_correct": false },
+        { "option_id": 4, "text": "Polar climate", "is_correct": false }
+      ],
+      "answer": "Dry continental climate"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What causes vertical movement of water during heating?",
+      "options": [
+        { "option_id": 1, "text": "Evaporation", "is_correct": false },
+        { "option_id": 2, "text": "Convection currents", "is_correct": true },
+        { "option_id": 3, "text": "Condensation", "is_correct": false },
+        { "option_id": 4, "text": "Radiation", "is_correct": false }
+      ],
+      "answer": "Convection currents"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which gas is responsible for the greenhouse effect mentioned?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Helium", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is global rise in temperature called?",
+      "options": [
+        { "option_id": 1, "text": "Climate variation", "is_correct": false },
+        { "option_id": 2, "text": "Global warming", "is_correct": true },
+        { "option_id": 3, "text": "Thermal inversion", "is_correct": false },
+        { "option_id": 4, "text": "Heat convection", "is_correct": false }
+      ],
+      "answer": "Global warming"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which gases trap heat in the atmosphere?",
+      "options": [
+        { "option_id": 1, "text": "Inert gases", "is_correct": false },
+        { "option_id": 2, "text": "Greenhouse gases", "is_correct": true },
+        { "option_id": 3, "text": "Rare gases", "is_correct": false },
+        { "option_id": 4, "text": "Noble gases", "is_correct": false }
+      ],
+      "answer": "Greenhouse gases"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which factor does NOT directly influence temperature distribution?",
+      "options": [
+        { "option_id": 1, "text": "Latitude", "is_correct": false },
+        { "option_id": 2, "text": "Altitude", "is_correct": false },
+        { "option_id": 3, "text": "Urbanization", "is_correct": false },
+        { "option_id": 4, "text": "Longitude", "is_correct": true }
+      ],
+      "answer": "Longitude"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which line connects places of equal pressure?",
+      "options": [
+        { "option_id": 1, "text": "Isotherm", "is_correct": false },
+        { "option_id": 2, "text": "Isobar", "is_correct": true },
+        { "option_id": 3, "text": "Isohyet", "is_correct": false },
+        { "option_id": 4, "text": "Contour", "is_correct": false }
+      ],
+      "answer": "Isobar"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which isoline represents rainfall distribution?",
+      "options": [
+        { "option_id": 1, "text": "Isotherm", "is_correct": false },
+        { "option_id": 2, "text": "Isobar", "is_correct": false },
+        { "option_id": 3, "text": "Isohyet", "is_correct": true },
+        { "option_id": 4, "text": "Contour", "is_correct": false }
+      ],
+      "answer": "Isohyet"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which isoline connects places of equal height?",
+      "options": [
+        { "option_id": 1, "text": "Isotherm", "is_correct": false },
+        { "option_id": 2, "text": "Contour", "is_correct": true },
+        { "option_id": 3, "text": "Isobar", "is_correct": false },
+        { "option_id": 4, "text": "Isohyet", "is_correct": false }
+      ],
+      "answer": "Contour"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Why are isolines useful on maps?",
+      "options": [
+        { "option_id": 1, "text": "They decorate maps", "is_correct": false },
+        { "option_id": 2, "text": "They clearly show distribution patterns", "is_correct": true },
+        { "option_id": 3, "text": "They reduce map size", "is_correct": false },
+        { "option_id": 4, "text": "They show directions", "is_correct": false }
+      ],
+      "answer": "They clearly show distribution patterns"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which temperature is recorded at district headquarters?",
+      "options": [
+        { "option_id": 1, "text": "Water temperature", "is_correct": false },
+        { "option_id": 2, "text": "Air temperature", "is_correct": true },
+        { "option_id": 3, "text": "Soil temperature", "is_correct": false },
+        { "option_id": 4, "text": "Sea temperature", "is_correct": false }
+      ],
+      "answer": "Air temperature"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which season is indicated by higher thermometer readings?",
+      "options": [
+        { "option_id": 1, "text": "Winter", "is_correct": false },
+        { "option_id": 2, "text": "Summer", "is_correct": true },
+        { "option_id": 3, "text": "Monsoon", "is_correct": false },
+        { "option_id": 4, "text": "Autumn", "is_correct": false }
+      ],
+      "answer": "Summer"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which gas besides carbon dioxide acts as a greenhouse gas?",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Water vapour", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Argon", "is_correct": false }
+      ],
+      "answer": "Water vapour"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Why is the study of temperature important in geography?",
+      "options": [
+        { "option_id": 1, "text": "It determines map scale", "is_correct": false },
+        { "option_id": 2, "text": "It influences climate and human life", "is_correct": true },
+        { "option_id": 3, "text": "It decides longitude", "is_correct": false },
+        { "option_id": 4, "text": "It controls earthquakes", "is_correct": false }
+      ],
+      "answer": "It influences climate and human life"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is temperature?",
+      "answer": "Temperature is the degree of hotness or coldness of the air."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why does the equatorial region experience high temperatures?",
+      "answer": "The equatorial region receives perpendicular sunrays throughout the year."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why do polar regions remain extremely cold?",
+      "answer": "Polar regions receive slanting sunrays which spread over a large area and provide less heat."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is latitudinal distribution of temperature?",
+      "answer": "It refers to the variation of temperature from the equator towards the poles."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name the three thermal zones of the Earth.",
+      "answer": "The Torrid Zone, the Temperate Zone and the Frigid Zone."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why is the Torrid Zone the hottest zone?",
+      "answer": "The Torrid Zone receives direct and perpendicular sunrays."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which thermal zone has moderate temperatures?",
+      "answer": "The Temperate Zone has moderate temperatures."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why does temperature decrease with height?",
+      "answer": "Air near the surface gets heat from the Earth, while upper air remains cooler."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why does land heat faster than water?",
+      "answer": "Land heats up quickly because it absorbs and releases heat faster than water."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why does water cool slowly compared to land?",
+      "answer": "Water has a high heat capacity and cools slowly due to convection."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is diurnal range of temperature?",
+      "answer": "It is the difference between day temperature and night temperature."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is diurnal range low in coastal areas?",
+      "answer": "The sea moderates temperature by heating and cooling slowly."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is annual range of temperature?",
+      "answer": "It is the difference between mean summer temperature and mean winter temperature."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why is annual temperature range high in continental regions?",
+      "answer": "Continental regions are away from the sea and experience extreme temperatures."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is an equable climate?",
+      "answer": "An equable climate is one with a small range of temperature."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why do coastal regions have equable climate?",
+      "answer": "The presence of sea moderates both summer and winter temperatures."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why does air near the ground get heated?",
+      "answer": "The Earth’s surface radiates heat which warms the air above it."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What type of heat transfer takes place in air?",
+      "answer": "Heat transfer in air mainly occurs through convection."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What are ocean currents?",
+      "answer": "Ocean currents are the continuous movement of ocean water in a definite direction."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Name one factor responsible for ocean currents.",
+      "answer": "Difference in temperature of ocean water causes ocean currents."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How do warm ocean currents affect coastal climate?",
+      "answer": "Warm ocean currents increase the temperature of coastal areas."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "How do cold ocean currents affect coastal regions?",
+      "answer": "Cold ocean currents lower the temperature of nearby coastal regions."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why are fishing grounds found where warm and cold currents meet?",
+      "answer": "Such areas have abundant plankton which attracts fish."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What are isotherms?",
+      "answer": "Isotherms are lines joining places having the same temperature."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why are isotherms drawn on maps?",
+      "answer": "They help in understanding the distribution of temperature."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why do isotherms bend over continents?",
+      "answer": "Land heats and cools faster, causing temperature variations."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why are isotherms straighter over oceans?",
+      "answer": "Oceans have uniform heating and cooling."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which instrument is used to measure temperature?",
+      "answer": "Temperature is measured using a thermometer."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which liquids are used in thermometers?",
+      "answer": "Mercury and alcohol are used in thermometers."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is mercury suitable for measuring temperature?",
+      "answer": "Mercury expands uniformly with temperature."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "In which unit is temperature commonly measured?",
+      "answer": "Temperature is commonly measured in degrees Celsius."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What does a thermometer scale indicate?",
+      "answer": "It indicates different temperature values."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is temperature an important climatic element?",
+      "answer": "Temperature influences climate, vegetation and human activities."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How does temperature affect human life?",
+      "answer": "Temperature affects clothing, food habits and shelter."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is temperature lower in hilly regions?",
+      "answer": "Temperature decreases with altitude in hilly regions."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why is Nagpur hotter than Mumbai?",
+      "answer": "Nagpur is inland and lacks the moderating effect of the sea."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why is Mumbai’s climate moderate?",
+      "answer": "Mumbai is close to the sea which moderates temperature."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "How does water vapour affect temperature?",
+      "answer": "Water vapour helps retain heat in the atmosphere."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is greenhouse effect?",
+      "answer": "It is the trapping of heat in the atmosphere by certain gases."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Name one greenhouse gas.",
+      "answer": "Carbon dioxide is a greenhouse gas."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is global warming?",
+      "answer": "Global warming is the gradual rise in Earth’s average temperature."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is global warming a concern?",
+      "answer": "It leads to climate changes and rising sea levels."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why is temperature recorded at district headquarters?",
+      "answer": "To study regional climatic conditions accurately."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How does temperature affect vegetation?",
+      "answer": "Temperature determines the type of plants that grow in a region."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is the study of temperature important in geography?",
+      "answer": "It helps understand climate patterns and human-environment interaction."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How does temperature influence rainfall indirectly?",
+      "answer": "Higher temperature increases evaporation, influencing rainfall."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why are deserts hot during the day?",
+      "answer": "Lack of moisture and clouds causes intense heating during the day."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why do deserts become cold at night?",
+      "answer": "Rapid heat loss occurs due to absence of clouds and moisture."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How does temperature affect soil formation?",
+      "answer": "Temperature controls weathering processes in soil formation."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "State one importance of temperature study.",
+      "answer": "It helps in understanding climate and planning human activities."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why do slanting sunrays provide less heat?",
+      "answer": "Slanting sunrays spread their energy over a larger area and lose heat while passing through the atmosphere."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is the Sun the main source of heat on Earth?",
+      "answer": "The Sun supplies solar energy which heats the Earth’s surface and atmosphere."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "How does Earth’s spherical shape affect temperature distribution?",
+      "answer": "Due to the spherical shape, sunrays fall differently at different latitudes causing unequal heating."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why do areas near the equator receive maximum heat?",
+      "answer": "Sunrays fall almost vertically near the equator, concentrating heat over a smaller area."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "How does latitude help in classifying thermal zones?",
+      "answer": "Latitude determines the angle of sunrays and the amount of heat received."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why are the temperate zones neither very hot nor very cold?",
+      "answer": "They receive moderately slanting sunrays, resulting in moderate temperatures."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why are frigid zones unsuitable for dense human population?",
+      "answer": "Extremely low temperatures and harsh climatic conditions limit human activities."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How does altitude modify local temperature?",
+      "answer": "With increase in altitude, air becomes thinner and temperature decreases."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why is air cooler on hilltops than in plains?",
+      "answer": "Hilltops are at higher altitude where air pressure and temperature are lower."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How does heating of land affect nearby air?",
+      "answer": "Heated land transfers heat to air above it, warming the lower atmosphere."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why does water absorb heat without rapid temperature rise?",
+      "answer": "Water has high heat capacity and distributes heat through convection."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How does differential heating of land and water influence climate?",
+      "answer": "It creates temperature differences that affect local winds and climate moderation."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why do continental interiors experience extreme temperatures?",
+      "answer": "They are far from seas and lack the moderating influence of water bodies."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How do oceans act as temperature regulators?",
+      "answer": "Oceans heat and cool slowly, reducing temperature extremes in nearby areas."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why are summers cooler in coastal regions?",
+      "answer": "Sea breeze and slow heating of water keep temperatures lower."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why are winters warmer in coastal regions?",
+      "answer": "Stored heat in seawater is released slowly during winter."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "How do ocean currents influence coastal climates?",
+      "answer": "They transfer heat, warming or cooling coastal regions."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why do cold currents reduce coastal temperatures?",
+      "answer": "Cold currents cool the overlying air, lowering coastal temperatures."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "How do warm currents affect rainfall potential?",
+      "answer": "Warm currents increase evaporation, raising moisture content in air."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why are fishing activities common near current meeting zones?",
+      "answer": "These zones support rich plankton growth, attracting fish."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What information do isotherms convey on maps?",
+      "answer": "They show areas having equal temperature values."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why are isotherms important in climate studies?",
+      "answer": "They help analyze spatial distribution of temperature."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why do isotherms curve near coastal areas?",
+      "answer": "The moderating effect of the sea alters temperature patterns."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How do mountains influence isotherm patterns?",
+      "answer": "Higher altitude lowers temperature, bending isotherms."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why are temperature records essential for climate analysis?",
+      "answer": "They provide long-term data to identify climate characteristics."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "How does temperature affect crop growth?",
+      "answer": "Temperature controls germination, growth rate and crop yield."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why are certain crops grown only in specific regions?",
+      "answer": "Each crop requires a specific temperature range for growth."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How does temperature influence human comfort?",
+      "answer": "Extreme temperatures cause discomfort and affect health."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why do people adapt clothing according to temperature?",
+      "answer": "Clothing helps protect the body from heat loss or heat gain."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How does temperature affect settlement patterns?",
+      "answer": "Moderate temperatures encourage dense human settlements."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why is temperature a key climatic element?",
+      "answer": "It directly influences weather, climate and living conditions."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How does temperature impact evaporation rates?",
+      "answer": "Higher temperature increases evaporation rate."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is temperature measurement important in meteorology?",
+      "answer": "It helps forecast weather and analyze climate."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How does temperature variation affect soil moisture?",
+      "answer": "Higher temperature increases evaporation, reducing soil moisture."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is mercury not used in very cold regions?",
+      "answer": "Mercury freezes at low temperatures, making readings inaccurate."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why is alcohol preferred in low-temperature thermometers?",
+      "answer": "Alcohol does not freeze easily and expands uniformly."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "How does temperature influence atmospheric circulation?",
+      "answer": "Temperature differences create pressure differences and air movement."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why is temperature lower during night?",
+      "answer": "The Earth loses heat by radiation after sunset."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "How does cloud cover affect night temperature?",
+      "answer": "Clouds reduce heat loss, keeping nights warmer."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why are clear nights colder than cloudy nights?",
+      "answer": "Clear skies allow rapid heat radiation from the Earth."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "How does temperature influence biodiversity?",
+      "answer": "It determines which plants and animals can survive in a region."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why are tropical regions rich in vegetation?",
+      "answer": "High temperature supports continuous plant growth."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "How does temperature affect human energy needs?",
+      "answer": "Extreme temperatures increase heating or cooling requirements."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why is temperature study useful for disaster preparedness?",
+      "answer": "It helps anticipate heat waves and cold waves."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "How does temperature affect tourism?",
+      "answer": "Tourism depends on pleasant temperature conditions."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why do people prefer hill stations during summer?",
+      "answer": "Hill stations have lower temperatures due to higher altitude."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "How does temperature influence water availability?",
+      "answer": "Temperature affects evaporation and snowmelt."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is long-term temperature data important?",
+      "answer": "It helps identify climate trends and changes."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "How does temperature affect natural vegetation distribution?",
+      "answer": "Different plants grow under specific temperature ranges."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "State one overall importance of studying temperature.",
+      "answer": "It helps understand climate patterns and human-environment interaction."
+    }
+  ]
+}

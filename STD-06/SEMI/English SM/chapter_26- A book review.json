@@ -1,0 +1,611 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.26",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "A Book Review"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the name of the book being reviewed in this chapter?",
+      "options": [
+        { "option_id": 1, "text": "George's Secret Key to the Universe", "is_correct": true },
+        { "option_id": 2, "text": "The Galactic Adventure", "is_correct": false },
+        { "option_id": 3, "text": "Cosmos and the Stars", "is_correct": false },
+        { "option_id": 4, "text": "Science for Kids", "is_correct": false }
+      ],
+      "answer": "George's Secret Key to the Universe"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who are the authors of the book?",
+      "options": [
+        { "option_id": 1, "text": "Lucy and Stephen Hawking", "is_correct": true },
+        { "option_id": 2, "text": "George and Eric", "is_correct": false },
+        { "option_id": 3, "text": "Garry Parsons", "is_correct": false },
+        { "option_id": 4, "text": "Annie Hawking", "is_correct": false }
+      ],
+      "answer": "Lucy and Stephen Hawking"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is George's Dad's profession/interest?",
+      "options": [
+        { "option_id": 1, "text": "Scientist", "is_correct": false },
+        { "option_id": 2, "text": "Environmentalist", "is_correct": true },
+        { "option_id": 3, "text": "Astronaut", "is_correct": false },
+        { "option_id": 4, "text": "Computer Engineer", "is_correct": false }
+      ],
+      "answer": "Environmentalist"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What do George's parents use instead of a car?",
+      "options": [
+        { "option_id": 1, "text": "A bus", "is_correct": false },
+        { "option_id": 2, "text": "A bicycle", "is_correct": true },
+        { "option_id": 3, "text": "A horse", "is_correct": false },
+        { "option_id": 4, "text": "They walk", "is_correct": false }
+      ],
+      "answer": "A bicycle"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of these is banned in George's house?",
+      "options": [
+        { "option_id": 1, "text": "Books", "is_correct": false },
+        { "option_id": 2, "text": "Computers", "is_correct": true },
+        { "option_id": 3, "text": "Vegetables", "is_correct": false },
+        { "option_id": 4, "text": "Bicycles", "is_correct": false }
+      ],
+      "answer": "Computers"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the 'super-intelligent computer' in the story?",
+      "options": [
+        { "option_id": 1, "text": "Eric", "is_correct": false },
+        { "option_id": 2, "text": "George", "is_correct": false },
+        { "option_id": 3, "text": "Cosmos", "is_correct": true },
+        { "option_id": 4, "text": "Apollo", "is_correct": false }
+      ],
+      "answer": "Cosmos"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who is Annie's father?",
+      "options": [
+        { "option_id": 1, "text": "Eric", "is_correct": true },
+        { "option_id": 2, "text": "Stephen", "is_correct": false },
+        { "option_id": 3, "text": "Cosmos", "is_correct": false },
+        { "option_id": 4, "text": "George's Dad", "is_correct": false }
+      ],
+      "answer": "Eric"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does Cosmos allow George and Annie to do?",
+      "options": [
+        { "option_id": 1, "text": "Play video games", "is_correct": false },
+        { "option_id": 2, "text": "Watch TV all day", "is_correct": false },
+        { "option_id": 3, "text": "Travel through the universe", "is_correct": true },
+        { "option_id": 4, "text": "Cook home-cooked meals", "is_correct": false }
+      ],
+      "answer": "Travel through the universe"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who drew the pictures for the book?",
+      "options": [
+        { "option_id": 1, "text": "Lucy Hawking", "is_correct": false },
+        { "option_id": 2, "text": "Garry Parsons", "is_correct": true },
+        { "option_id": 3, "text": "Stephen Hawking", "is_correct": false },
+        { "option_id": 4, "text": "Eric", "is_correct": false }
+      ],
+      "answer": "Garry Parsons"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The book contains not only a story but also what?",
+      "options": [
+        { "option_id": 1, "text": "Scientific facts", "is_correct": true },
+        { "option_id": 2, "text": "Cooking recipes", "is_correct": false },
+        { "option_id": 3, "text": "Poetry", "is_correct": false },
+        { "option_id": 4, "text": "History of England", "is_correct": false }
+      ],
+      "answer": "Scientific facts"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the 'nasty scientist' want to do?",
+      "options": [
+        { "option_id": 1, "text": "Befriend George", "is_correct": false },
+        { "option_id": 2, "text": "Steal Cosmos", "is_correct": true },
+        { "option_id": 3, "text": "Save the Earth", "is_correct": false },
+        { "option_id": 4, "text": "Fix a bicycle", "is_correct": false }
+      ],
+      "answer": "Steal Cosmos"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What kind of food do George's parents eat?",
+      "options": [
+        { "option_id": 1, "text": "Fast food", "is_correct": false },
+        { "option_id": 2, "text": "Vegetarian and home-cooked", "is_correct": true },
+        { "option_id": 3, "text": "Canned food", "is_correct": false },
+        { "option_id": 4, "text": "Only bread and biscuits", "is_correct": false }
+      ],
+      "answer": "Vegetarian and home-cooked"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why do George's parents use candles?",
+      "options": [
+        { "option_id": 1, "text": "To celebrate a birthday", "is_correct": false },
+        { "option_id": 2, "text": "To avoid using electricity", "is_correct": true },
+        { "option_id": 3, "text": "They don't have bulbs", "is_correct": false },
+        { "option_id": 4, "text": "Candles are cheaper", "is_correct": false }
+      ],
+      "answer": "To avoid using electricity"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "According to the review, what is the 'secret key' to the universe?",
+      "options": [
+        { "option_id": 1, "text": "A physical key", "is_correct": false },
+        { "option_id": 2, "text": "Cosmos the computer", "is_correct": true },
+        { "option_id": 3, "text": "George's bicycle", "is_correct": false },
+        { "option_id": 4, "text": "A magical wand", "is_correct": false }
+      ],
+      "answer": "Cosmos the computer"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "How did George meet Annie?",
+      "options": [
+        { "option_id": 1, "text": "At school", "is_correct": false },
+        { "option_id": 2, "text": "She is his next-door neighbour", "is_correct": true },
+        { "option_id": 3, "text": "Through a TV show", "is_correct": false },
+        { "option_id": 4, "text": "At the library", "is_correct": false }
+      ],
+      "answer": "She is his next-door neighbour"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Stephen Hawking is described as one of the greatest scientists of...",
+      "options": [
+        { "option_id": 1, "text": "All time", "is_correct": true },
+        { "option_id": 2, "text": "The 18th century", "is_correct": false },
+        { "option_id": 3, "text": "Green Valley", "is_correct": false },
+        { "option_id": 4, "text": "The ocean", "is_correct": false }
+      ],
+      "answer": "All time"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does George think about saving the Earth?",
+      "options": [
+        { "option_id": 1, "text": "It's impossible", "is_correct": false },
+        { "option_id": 2, "text": "Computers and internet can help", "is_correct": true },
+        { "option_id": 3, "text": "Science is the enemy", "is_correct": false },
+        { "option_id": 4, "text": "He doesn't care", "is_correct": false }
+      ],
+      "answer": "Computers and internet can help"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What can Cosmos NOT do?",
+      "options": [
+        { "option_id": 1, "text": "Open windows on the universe", "is_correct": false },
+        { "option_id": 2, "text": "Take you to a black hole", "is_correct": false },
+        { "option_id": 3, "text": "Talk and think", "is_correct": false },
+        { "option_id": 4, "text": "Bake a cake for George", "is_correct": true }
+      ],
+      "answer": "Bake a cake for George"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The book review suggests that the book is ideal for...",
+      "options": [
+        { "option_id": 1, "text": "Young readers", "is_correct": true },
+        { "option_id": 2, "text": "Only scientists", "is_correct": false },
+        { "option_id": 3, "text": "Toddlers", "is_correct": false },
+        { "option_id": 4, "text": "Grandparents only", "is_correct": false }
+      ],
+      "answer": "Young readers"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What are George's parents committed to?",
+      "options": [
+        { "option_id": 1, "text": "Making money", "is_correct": false },
+        { "option_id": 2, "text": "Saving the planet", "is_correct": true },
+        { "option_id": 3, "text": "Building computers", "is_correct": false },
+        { "option_id": 4, "text": "Traveling to space", "is_correct": false }
+      ],
+      "answer": "Saving the planet"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does the word 'ardent' mean in 'ardent environmentalist'?",
+      "options": [
+        { "option_id": 1, "text": "Lazy", "is_correct": false },
+        { "option_id": 2, "text": "Very enthusiastic", "is_correct": true },
+        { "option_id": 3, "text": "Bored", "is_correct": false },
+        { "option_id": 4, "text": "Wealthy", "is_correct": false }
+      ],
+      "answer": "Very enthusiastic"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "According to the review, what is Stephen Hawking's specific area of study?",
+      "options": [
+        { "option_id": 1, "text": "Botany", "is_correct": false },
+        { "option_id": 2, "text": "Cosmology", "is_correct": true },
+        { "option_id": 3, "text": "Zoology", "is_correct": false },
+        { "option_id": 4, "text": "Geography", "is_correct": false }
+      ],
+      "answer": "Cosmology"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the purpose of a 'book review'?",
+      "options": [
+        { "option_id": 1, "text": "To rewrite the story", "is_correct": false },
+        { "option_id": 2, "text": "To give information and opinion about a book", "is_correct": true },
+        { "option_id": 3, "text": "To sell the book for money", "is_correct": false },
+        { "option_id": 4, "text": "To draw new pictures", "is_correct": false }
+      ],
+      "answer": "To give information and opinion about a book"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of these objects is mentioned as part of the universe in the book?",
+      "options": [
+        { "option_id": 1, "text": "Comets", "is_correct": true },
+        { "option_id": 2, "text": "Submarines", "is_correct": false },
+        { "option_id": 3, "text": "Airplanes", "is_correct": false },
+        { "option_id": 4, "text": "Bicycles", "is_correct": false }
+      ],
+      "answer": "Comets"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "How does George feel because of his parents' strict rules?",
+      "options": [
+        { "option_id": 1, "text": "He feels proud", "is_correct": false },
+        { "option_id": 2, "text": "He suffers jeering and ridicule", "is_correct": true },
+        { "option_id": 3, "text": "He is the most popular kid", "is_correct": false },
+        { "option_id": 4, "text": "He is very angry at Annie", "is_correct": false }
+      ],
+      "answer": "He suffers jeering and ridicule"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the title of the book reviewed in Chapter 26?",
+      "answer": "The title is 'George's Secret Key to the Universe'."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Who are the authors of this book?",
+      "answer": "The authors are Lucy Hawking and Stephen Hawking."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What do George's parents believe about science and technology?",
+      "answer": "They believe that modern inventions of science and technology have caused a lot of damage on the earth."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Why does George have to suffer ridicule from his friends?",
+      "answer": "He suffers ridicule because his house has a ban on TV and computers, and they use candles instead of electricity."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What does George's Dad do to help the environment?",
+      "answer": "He is an environmentalist who uses a bicycle instead of a car and avoids using electricity."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Does George agree with his parents' view on computers?",
+      "answer": "No, George thinks it is possible to save the earth using computers and the internet."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Who is Annie?",
+      "answer": "Annie is George's new friend and next-door neighbour."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What is Eric's profession?",
+      "answer": "Eric is a brilliant scientist."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What is 'Cosmos' in the story?",
+      "answer": "Cosmos is a super-intelligent computer built by Eric."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Name three things Cosmos can show you in the universe.",
+      "answer": "Cosmos can show planets, stars, and black holes (or comets)."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Who is the illustrator of the book?",
+      "answer": "The illustrator is Garry Parsons."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What does the nasty scientist want from Eric?",
+      "answer": "The nasty scientist wants to steal Cosmos for his own evil purposes."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What makes this book different from other adventure stories?",
+      "answer": "It contains scientific facts about the universe in addition to an imaginary story."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is Stephen Hawking's contribution to the book?",
+      "answer": "He has presented the scientific information in the book."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What planet do we live on?",
+      "answer": "We live on planet Earth."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What kind of food is allowed in George's house?",
+      "answer": "Only vegetarian and home-cooked food is allowed."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What does 'jeering' mean?",
+      "answer": "Jeering means making rude and mocking remarks."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the 'secret key' mentioned in the title?",
+      "answer": "The 'secret key' refers to the computer Cosmos that opens the universe to George."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Who is the narrator of the book review?",
+      "answer": "The review is presented by an unnamed reviewer sharing their opinion with young readers."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Why can't George discuss global issues with his parents?",
+      "answer": "His parents think he is still too young to understand them."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Is the book 'George's Secret Key to the Universe' fiction or non-fiction?",
+      "answer": "It is a work of fiction (adventure story) but contains non-fiction scientific facts."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What are the parents committed to?",
+      "answer": "They are committed to the cause of saving the planet."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What does Cosmos literally open for the characters?",
+      "answer": "It literally opens windows on the universe."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What scientific objects are mentioned in the review?",
+      "answer": "Planets, stars, comets, and black holes are mentioned."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What does the reviewer say about the language used in the book?",
+      "answer": "The reviewer says the scientific information is told in a very simple and easy-to-understand manner."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is an environmentalist?",
+      "answer": "An environmentalist is someone who works to protect the natural environment."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why don't George's parents buy bread and biscuits?",
+      "answer": "They prefer home-cooked food to avoid modern processed items as part of their environmental beliefs."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What does 'incredible' mean?",
+      "answer": "Incredible means something that is difficult to believe or extraordinary."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What happens when George meets Annie and Eric?",
+      "answer": "His life changes as he finds a friend and a scientist willing to answer his questions."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the reviewer's final advice about the book?",
+      "answer": "The reviewer recommends that children read the book to find out what happens to George."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Give the opposite of 'expected' as used in the chapter.",
+      "answer": "The opposite is 'unexpected'."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Give the opposite of 'fortunate'.",
+      "answer": "The opposite is 'unfortunate'."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Give the opposite of 'ability'.",
+      "answer": "The opposite is 'disability'."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'ridicule'?",
+      "answer": "Ridicule means subjection to mockery or being laughed at."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Who is Stephen Hawking according to the review?",
+      "answer": "He is one of the greatest scientists of all time."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does 'ardent' imply about George's dad?",
+      "answer": "It implies he is very passionate and dedicated to his cause."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Can Cosmos talk?",
+      "answer": "Yes, Cosmos is an intelligent computer that can talk."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is a 'black hole' mentioned in the text?",
+      "answer": "A black hole is an object in the universe with gravity so strong that even light cannot escape it."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is 'Global Issues'?",
+      "answer": "Global issues are problems that affect the whole world."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does Eric do for George?",
+      "answer": "He is always willing to answer all of George's questions."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How do George's friends treat him because of his parents' lifestyle?",
+      "answer": "They jeer at him and make fun of him."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does George use candles for?",
+      "answer": "He uses candles to light the house."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name the four sections used to write a book review.",
+      "answer": "Name of book/author, Illustrator, What the book is about, and Your opinion."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Is 'Cosmos' a person?",
+      "answer": "No, Cosmos is a super-intelligent computer."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is Lucy Hawking mentioned?",
+      "answer": "She is one of the co-authors of the book."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What does 'jeering' mean?",
+      "answer": "It means making loud, rude remarks at someone."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the theme of the book review?",
+      "answer": "The theme is science, adventure, and space exploration."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How does George feel about TV?",
+      "answer": "George doesn't think TV is a bad thing."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What tool does George suggest to save the earth?",
+      "answer": "He suggests using computers and the internet."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the message regarding science in the book?",
+      "answer": "Science can be used for both good (saving the earth) and evil (the nasty scientist)."
+    }
+  ]
+}

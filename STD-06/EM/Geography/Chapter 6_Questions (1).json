@@ -1,0 +1,1214 @@
+{
+  "Chapter 6": "Importance of Oceans",
+  "lessons": [
+    "Hydrosphere and Distribution of Water",
+    "Salinity of Ocean Water",
+    "Oceans and Climate",
+    "Oceans as Resources",
+    "Oceanic Transport",
+    "Issues Related to Oceans"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which component of the hydrosphere contains the largest proportion of the earth’s water?",
+      "options": [
+        { "option_id": 1, "text": "Rivers", "is_correct": false },
+        { "option_id": 2, "text": "Glaciers", "is_correct": false },
+        { "option_id": 3, "text": "Oceans", "is_correct": true },
+        { "option_id": 4, "text": "Groundwater", "is_correct": false }
+      ],
+      "answer": "Oceans"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What percentage of the total global water is contained in oceans?",
+      "options": [
+        { "option_id": 1, "text": "68.4%", "is_correct": false },
+        { "option_id": 2, "text": "70.8%", "is_correct": false },
+        { "option_id": 3, "text": "97.7%", "is_correct": true },
+        { "option_id": 4, "text": "35%", "is_correct": false }
+      ],
+      "answer": "97.7%"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which ocean has the largest surface area according to the given data?",
+      "options": [
+        { "option_id": 1, "text": "Indian Ocean", "is_correct": false },
+        { "option_id": 2, "text": "Atlantic Ocean", "is_correct": false },
+        { "option_id": 3, "text": "Pacific Ocean", "is_correct": true },
+        { "option_id": 4, "text": "Southern Ocean", "is_correct": false }
+      ],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which ocean has the smallest area among the major oceans listed?",
+      "options": [
+        { "option_id": 1, "text": "Southern Ocean", "is_correct": false },
+        { "option_id": 2, "text": "Indian Ocean", "is_correct": false },
+        { "option_id": 3, "text": "Arctic Ocean", "is_correct": true },
+        { "option_id": 4, "text": "Atlantic Ocean", "is_correct": false }
+      ],
+      "answer": "Arctic Ocean"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why does ocean water taste salty?",
+      "options": [
+        { "option_id": 1, "text": "Due to dissolved gases", "is_correct": false },
+        { "option_id": 2, "text": "Due to presence of organic matter", "is_correct": false },
+        { "option_id": 3, "text": "Due to higher proportion of salts", "is_correct": true },
+        { "option_id": 4, "text": "Due to volcanic heat", "is_correct": false }
+      ],
+      "answer": "Due to higher proportion of salts"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What process increases the proportion of salts in ocean water over time?",
+      "options": [
+        { "option_id": 1, "text": "Condensation", "is_correct": false },
+        { "option_id": 2, "text": "Evaporation", "is_correct": true },
+        { "option_id": 3, "text": "Precipitation", "is_correct": false },
+        { "option_id": 4, "text": "Infiltration", "is_correct": false }
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "In which unit is ocean water salinity expressed?",
+      "options": [
+        { "option_id": 1, "text": "Percentage", "is_correct": false },
+        { "option_id": 2, "text": "Parts per hundred", "is_correct": false },
+        { "option_id": 3, "text": "Mils (particles per thousand)", "is_correct": true },
+        { "option_id": 4, "text": "Milligrams per litre", "is_correct": false }
+      ],
+      "answer": "Mils (particles per thousand)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the average salinity of oceanic water?",
+      "options": [
+        { "option_id": 1, "text": "10‰", "is_correct": false },
+        { "option_id": 2, "text": "25‰", "is_correct": false },
+        { "option_id": 3, "text": "35‰", "is_correct": true },
+        { "option_id": 4, "text": "70‰", "is_correct": false }
+      ],
+      "answer": "35‰"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which water body is known to have the maximum salinity?",
+      "options": [
+        { "option_id": 1, "text": "Arabian Sea", "is_correct": false },
+        { "option_id": 2, "text": "Caspian Sea", "is_correct": false },
+        { "option_id": 3, "text": "Dead Sea", "is_correct": true },
+        { "option_id": 4, "text": "Mediterranean Sea", "is_correct": false }
+      ],
+      "answer": "Dead Sea"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How is common salt obtained from ocean water?",
+      "options": [
+        { "option_id": 1, "text": "By filtration", "is_correct": false },
+        { "option_id": 2, "text": "By chemical treatment", "is_correct": false },
+        { "option_id": 3, "text": "By constructing salt pans", "is_correct": true },
+        { "option_id": 4, "text": "By freezing seawater", "is_correct": false }
+      ],
+      "answer": "By constructing salt pans"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which of the following minerals is obtained from the sea?",
+      "options": [
+        { "option_id": 1, "text": "Bauxite", "is_correct": false },
+        { "option_id": 2, "text": "Iodine", "is_correct": true },
+        { "option_id": 3, "text": "Quartz", "is_correct": false },
+        { "option_id": 4, "text": "Granite", "is_correct": false }
+      ],
+      "answer": "Iodine"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What happens to the remains of aquatic organisms after they die in oceans?",
+      "options": [
+        { "option_id": 1, "text": "They evaporate", "is_correct": false },
+        { "option_id": 2, "text": "They dissolve immediately", "is_correct": false },
+        { "option_id": 3, "text": "They accumulate and decompose", "is_correct": true },
+        { "option_id": 4, "text": "They are washed ashore", "is_correct": false }
+      ],
+      "answer": "They accumulate and decompose"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What do rivers mainly contribute to oceans?",
+      "options": [
+        { "option_id": 1, "text": "Freshwater only", "is_correct": false },
+        { "option_id": 2, "text": "Sediments and dissolved materials", "is_correct": true },
+        { "option_id": 3, "text": "Salt crystals", "is_correct": false },
+        { "option_id": 4, "text": "Ocean currents", "is_correct": false }
+      ],
+      "answer": "Sediments and dissolved materials"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which natural process adds minerals and gases directly into ocean water?",
+      "options": [
+        { "option_id": 1, "text": "River erosion", "is_correct": false },
+        { "option_id": 2, "text": "Ocean evaporation", "is_correct": false },
+        { "option_id": 3, "text": "Volcanic eruptions under the ocean", "is_correct": true },
+        { "option_id": 4, "text": "Wave action", "is_correct": false }
+      ],
+      "answer": "Volcanic eruptions under the ocean"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which type of ocean current moves from equatorial regions towards polar regions?",
+      "options": [
+        { "option_id": 1, "text": "Cold currents", "is_correct": false },
+        { "option_id": 2, "text": "Warm currents", "is_correct": true },
+        { "option_id": 3, "text": "Tidal currents", "is_correct": false },
+        { "option_id": 4, "text": "Local currents", "is_correct": false }
+      ],
+      "answer": "Warm currents"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "How do oceans help in controlling global temperature?",
+      "options": [
+        { "option_id": 1, "text": "By absorbing solar radiation permanently", "is_correct": false },
+        { "option_id": 2, "text": "By redistributing heat through currents", "is_correct": true },
+        { "option_id": 3, "text": "By blocking sunlight", "is_correct": false },
+        { "option_id": 4, "text": "By increasing land temperature", "is_correct": false }
+      ],
+      "answer": "By redistributing heat through currents"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which factor mainly causes winds that drive ocean currents?",
+      "options": [
+        { "option_id": 1, "text": "Earth’s rotation", "is_correct": false },
+        { "option_id": 2, "text": "Pressure differences in air", "is_correct": true },
+        { "option_id": 3, "text": "Ocean salinity", "is_correct": false },
+        { "option_id": 4, "text": "Gravitational pull", "is_correct": false }
+      ],
+      "answer": "Pressure differences in air"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Why do coastal regions experience an equable climate?",
+      "options": [
+        { "option_id": 1, "text": "Due to high altitude", "is_correct": false },
+        { "option_id": 2, "text": "Due to mixing of water vapour with air", "is_correct": true },
+        { "option_id": 3, "text": "Due to dense vegetation", "is_correct": false },
+        { "option_id": 4, "text": "Due to lack of winds", "is_correct": false }
+      ],
+      "answer": "Due to mixing of water vapour with air"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which occupation largely depends on oceans for food supply?",
+      "options": [
+        { "option_id": 1, "text": "Agriculture", "is_correct": false },
+        { "option_id": 2, "text": "Fishing", "is_correct": true },
+        { "option_id": 3, "text": "Mining", "is_correct": false },
+        { "option_id": 4, "text": "Forestry", "is_correct": false }
+      ],
+      "answer": "Fishing"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following marine animals is commonly consumed in India?",
+      "options": [
+        { "option_id": 1, "text": "Seal", "is_correct": false },
+        { "option_id": 2, "text": "Penguin", "is_correct": false },
+        { "option_id": 3, "text": "Pomfret", "is_correct": true },
+        { "option_id": 4, "text": "Walrus", "is_correct": false }
+      ],
+      "answer": "Pomfret"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Why is water transport preferred for bulky goods?",
+      "options": [
+        { "option_id": 1, "text": "It is faster than air transport", "is_correct": false },
+        { "option_id": 2, "text": "It is the cheapest mode of transport", "is_correct": true },
+        { "option_id": 3, "text": "It requires less infrastructure", "is_correct": false },
+        { "option_id": 4, "text": "It avoids international regulations", "is_correct": false }
+      ],
+      "answer": "It is the cheapest mode of transport"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which material is most suitable for transport by sea routes?",
+      "options": [
+        { "option_id": 1, "text": "Perishable flowers", "is_correct": false },
+        { "option_id": 2, "text": "Bulky food grains", "is_correct": true },
+        { "option_id": 3, "text": "Live animals", "is_correct": false },
+        { "option_id": 4, "text": "Electronic gadgets", "is_correct": false }
+      ],
+      "answer": "Bulky food grains"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which countries have gained importance due to oceanic trade routes?",
+      "options": [
+        { "option_id": 1, "text": "Landlocked countries", "is_correct": false },
+        { "option_id": 2, "text": "Countries with good coastlines", "is_correct": true },
+        { "option_id": 3, "text": "Polar countries", "is_correct": false },
+        { "option_id": 4, "text": "Desert countries", "is_correct": false }
+      ],
+      "answer": "Countries with good coastlines"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which resource is obtained from the ocean floor?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Manganese", "is_correct": true },
+        { "option_id": 3, "text": "Timber", "is_correct": false },
+        { "option_id": 4, "text": "Cotton", "is_correct": false }
+      ],
+      "answer": "Manganese"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which energy resource is mentioned as a future possibility from oceans?",
+      "options": [
+        { "option_id": 1, "text": "Solar energy", "is_correct": false },
+        { "option_id": 2, "text": "Wind energy", "is_correct": false },
+        { "option_id": 3, "text": "Tidal and wave energy", "is_correct": true },
+        { "option_id": 4, "text": "Nuclear energy", "is_correct": false }
+      ],
+      "answer": "Tidal and wave energy"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the main benefit of converting saline ocean water into drinking water?",
+      "options": [
+        { "option_id": 1, "text": "Increase in rainfall", "is_correct": false },
+        { "option_id": 2, "text": "Reduction of drinking water scarcity", "is_correct": true },
+        { "option_id": 3, "text": "Decrease in ocean salinity", "is_correct": false },
+        { "option_id": 4, "text": "Prevention of floods", "is_correct": false }
+      ],
+      "answer": "Reduction of drinking water scarcity"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which vegetation grows well in saline and humid coastal soils?",
+      "options": [
+        { "option_id": 1, "text": "Coniferous forests", "is_correct": false },
+        { "option_id": 2, "text": "Mangrove forests", "is_correct": true },
+        { "option_id": 3, "text": "Grasslands", "is_correct": false },
+        { "option_id": 4, "text": "Deciduous forests", "is_correct": false }
+      ],
+      "answer": "Mangrove forests"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Why are mangrove forests called the ‘lungs’ of coastal towns?",
+      "options": [
+        { "option_id": 1, "text": "They release oxygen into oceans", "is_correct": false },
+        { "option_id": 2, "text": "They protect biodiversity and coastal areas", "is_correct": true },
+        { "option_id": 3, "text": "They prevent river floods", "is_correct": false },
+        { "option_id": 4, "text": "They increase soil fertility inland", "is_correct": false }
+      ],
+      "answer": "They protect biodiversity and coastal areas"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which factor helps ships save fuel during ocean transport?",
+      "options": [
+        { "option_id": 1, "text": "High tides", "is_correct": false },
+        { "option_id": 2, "text": "Ocean currents", "is_correct": true },
+        { "option_id": 3, "text": "Salinity levels", "is_correct": false },
+        { "option_id": 4, "text": "Depth of ocean", "is_correct": false }
+      ],
+      "answer": "Ocean currents"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of the following is a major cause of ocean pollution?",
+      "options": [
+        { "option_id": 1, "text": "Natural evaporation", "is_correct": false },
+        { "option_id": 2, "text": "Oil spills", "is_correct": true },
+        { "option_id": 3, "text": "Ocean currents", "is_correct": false },
+        { "option_id": 4, "text": "Wave action", "is_correct": false }
+      ],
+      "answer": "Oil spills"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What impact does cutting of mangrove forests have on coastal regions?",
+      "options": [
+        { "option_id": 1, "text": "Increased agricultural land", "is_correct": false },
+        { "option_id": 2, "text": "Greater protection from waves", "is_correct": false },
+        { "option_id": 3, "text": "Increased coastal vulnerability", "is_correct": true },
+        { "option_id": 4, "text": "Improved fishing activity", "is_correct": false }
+      ],
+      "answer": "Increased coastal vulnerability"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which human activity threatens marine biodiversity?",
+      "options": [
+        { "option_id": 1, "text": "Sustainable fishing", "is_correct": false },
+        { "option_id": 2, "text": "Exploitative fishing", "is_correct": true },
+        { "option_id": 3, "text": "Mangrove conservation", "is_correct": false },
+        { "option_id": 4, "text": "Use of tidal energy", "is_correct": false }
+      ],
+      "answer": "Exploitative fishing"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which marine animal is mentioned as being under threat of extinction?",
+      "options": [
+        { "option_id": 1, "text": "Octopus", "is_correct": false },
+        { "option_id": 2, "text": "Blue whale", "is_correct": true },
+        { "option_id": 3, "text": "Sardine", "is_correct": false },
+        { "option_id": 4, "text": "Anchovy", "is_correct": false }
+      ],
+      "answer": "Blue whale"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which waste source directly increases pollution in seas?",
+      "options": [
+        { "option_id": 1, "text": "Forest litter", "is_correct": false },
+        { "option_id": 2, "text": "Sewage from cities", "is_correct": true },
+        { "option_id": 3, "text": "Desert dust", "is_correct": false },
+        { "option_id": 4, "text": "Volcanic ash only", "is_correct": false }
+      ],
+      "answer": "Sewage from cities"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What proportion of the earth’s surface is covered by water?",
+      "options": [
+        { "option_id": 1, "text": "50.4%", "is_correct": false },
+        { "option_id": 2, "text": "60.2%", "is_correct": false },
+        { "option_id": 3, "text": "70.8%", "is_correct": true },
+        { "option_id": 4, "text": "85.6%", "is_correct": false }
+      ],
+      "answer": "70.8%"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Why is the earth known as the ‘water planet’?",
+      "options": [
+        { "option_id": 1, "text": "Because of heavy rainfall", "is_correct": false },
+        { "option_id": 2, "text": "Because water occupies more area than land", "is_correct": true },
+        { "option_id": 3, "text": "Because oceans are deep", "is_correct": false },
+        { "option_id": 4, "text": "Because water is blue in colour", "is_correct": false }
+      ],
+      "answer": "Because water occupies more area than land"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which ocean extends from 60°S parallel to the Antarctic coast?",
+      "options": [
+        { "option_id": 1, "text": "Indian Ocean", "is_correct": false },
+        { "option_id": 2, "text": "Atlantic Ocean", "is_correct": false },
+        { "option_id": 3, "text": "Southern Ocean", "is_correct": true },
+        { "option_id": 4, "text": "Pacific Ocean", "is_correct": false }
+      ],
+      "answer": "Southern Ocean"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which factor mainly explains smaller temperature range in coastal areas?",
+      "options": [
+        { "option_id": 1, "text": "High altitude", "is_correct": false },
+        { "option_id": 2, "text": "Continentality", "is_correct": false },
+        { "option_id": 3, "text": "Nearness to the sea", "is_correct": true },
+        { "option_id": 4, "text": "Latitude", "is_correct": false }
+      ],
+      "answer": "Nearness to the sea"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What role do oceans play in the water cycle?",
+      "options": [
+        { "option_id": 1, "text": "Only storing water", "is_correct": false },
+        { "option_id": 2, "text": "Beginning and end of the water cycle", "is_correct": true },
+        { "option_id": 3, "text": "Only causing evaporation", "is_correct": false },
+        { "option_id": 4, "text": "Only receiving river water", "is_correct": false }
+      ],
+      "answer": "Beginning and end of the water cycle"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why is population density high in coastal regions?",
+      "options": [
+        { "option_id": 1, "text": "Due to fertile soil only", "is_correct": false },
+        { "option_id": 2, "text": "Due to equable climate and food availability", "is_correct": true },
+        { "option_id": 3, "text": "Due to low rainfall", "is_correct": false },
+        { "option_id": 4, "text": "Due to absence of industries", "is_correct": false }
+      ],
+      "answer": "Due to equable climate and food availability"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an ocean-based resource?",
+      "options": [
+        { "option_id": 1, "text": "Natural gas", "is_correct": false },
+        { "option_id": 2, "text": "Mineral oil", "is_correct": false },
+        { "option_id": 3, "text": "Iron ore", "is_correct": false },
+        { "option_id": 4, "text": "Coal seams on land", "is_correct": true }
+      ],
+      "answer": "Coal seams on land"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which product obtained from seas is used for ornamental purposes?",
+      "options": [
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Shells", "is_correct": true },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "Crude oil", "is_correct": false }
+      ],
+      "answer": "Shells"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which activity accelerates ships and reduces fuel consumption?",
+      "options": [
+        { "option_id": 1, "text": "Following ocean currents", "is_correct": true },
+        { "option_id": 2, "text": "Avoiding currents", "is_correct": false },
+        { "option_id": 3, "text": "Moving against winds", "is_correct": false },
+        { "option_id": 4, "text": "Anchoring at sea", "is_correct": false }
+      ],
+      "answer": "Following ocean currents"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which factor mainly causes formation of planetary winds?",
+      "options": [
+        { "option_id": 1, "text": "Unequal heating of the earth", "is_correct": true },
+        { "option_id": 2, "text": "Ocean depth", "is_correct": false },
+        { "option_id": 3, "text": "Salinity variations", "is_correct": false },
+        { "option_id": 4, "text": "Tidal forces", "is_correct": false }
+      ],
+      "answer": "Unequal heating of the earth"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which process links oceans to rainfall on land?",
+      "options": [
+        { "option_id": 1, "text": "Condensation over land", "is_correct": false },
+        { "option_id": 2, "text": "Evaporation from oceans", "is_correct": true },
+        { "option_id": 3, "text": "Groundwater flow", "is_correct": false },
+        { "option_id": 4, "text": "Surface runoff", "is_correct": false }
+      ],
+      "answer": "Evaporation from oceans"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which type of waste poses a serious threat to marine life?",
+      "options": [
+        { "option_id": 1, "text": "Organic manure", "is_correct": false },
+        { "option_id": 2, "text": "Industrial sewage", "is_correct": true },
+        { "option_id": 3, "text": "Rainwater", "is_correct": false },
+        { "option_id": 4, "text": "River silt", "is_correct": false }
+      ],
+      "answer": "Industrial sewage"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What happens to aquatic animals due to severe ocean pollution?",
+      "options": [
+        { "option_id": 1, "text": "Increase in population", "is_correct": false },
+        { "option_id": 2, "text": "Threat of extinction", "is_correct": true },
+        { "option_id": 3, "text": "Faster reproduction", "is_correct": false },
+        { "option_id": 4, "text": "Migration to land", "is_correct": false }
+      ],
+      "answer": "Threat of extinction"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which statement best describes the role of oceans in human life?",
+      "options": [
+        { "option_id": 1, "text": "They are barriers to transport", "is_correct": false },
+        { "option_id": 2, "text": "They provide food, minerals, and transport routes", "is_correct": true },
+        { "option_id": 3, "text": "They limit climatic changes", "is_correct": false },
+        { "option_id": 4, "text": "They prevent population growth", "is_correct": false }
+      ],
+      "answer": "They provide food, minerals, and transport routes"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which activity directly adds solid waste into oceans?",
+      "options": [
+        { "option_id": 1, "text": "River evaporation", "is_correct": false },
+        { "option_id": 2, "text": "Materials thrown from ships", "is_correct": true },
+        { "option_id": 3, "text": "Formation of tides", "is_correct": false },
+        { "option_id": 4, "text": "Coastal rainfall", "is_correct": false }
+      ],
+      "answer": "Materials thrown from ships"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the most appropriate way to protect ocean life?",
+      "options": [
+        { "option_id": 1, "text": "Increase exploitative fishing", "is_correct": false },
+        { "option_id": 2, "text": "Avoid pollution of ocean waters", "is_correct": true },
+        { "option_id": 3, "text": "Expand coastal industries", "is_correct": false },
+        { "option_id": 4, "text": "Cut mangrove forests", "is_correct": false }
+      ],
+      "answer": "Avoid pollution of ocean waters"
+    },
+{
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is meant by the hydrosphere?",
+      "answer": "The hydrosphere includes all the water bodies present on the earth such as oceans, seas, rivers, lakes, reservoirs and groundwater."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name the five major oceans of the world.",
+      "answer": "The five major oceans are the Pacific Ocean, Atlantic Ocean, Indian Ocean, Southern Ocean and Arctic Ocean."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is the living world in the hydrosphere more diverse than on land?",
+      "answer": "The hydrosphere supports a wide range of organisms from microscopic planktons to huge whales, resulting in greater diversity than on land."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What observation proves the presence of salts in water after evaporation?",
+      "answer": "After complete evaporation of water, a whitish salty layer remains, indicating the presence of dissolved salts."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why does drinking water not taste as salty as ocean water?",
+      "answer": "Drinking water contains a very low proportion of salts compared to ocean water, so it does not taste salty."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Define salinity of ocean water.",
+      "answer": "Salinity is the measure of the amount of salts present in ocean water and is expressed as particles per thousand."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "State the average salinity of ocean water.",
+      "answer": "The average salinity of ocean water is 35‰."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is the salinity of ocean water not the same everywhere?",
+      "answer": "Salinity varies due to differences in evaporation, freshwater inflow from rivers, and local climatic conditions."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why is the Dead Sea known for its high salinity?",
+      "answer": "The Dead Sea has extremely high salinity because of intense evaporation and very little inflow of fresh water."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How are salt pans used to obtain salt?",
+      "answer": "Salt pans allow seawater to evaporate naturally, leaving behind salt which is then collected."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Name any two minerals obtained from the oceans.",
+      "answer": "Two minerals obtained from the oceans are iodine and sulfates."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What happens to the remains of dead aquatic organisms in oceans?",
+      "answer": "The remains decompose in ocean water and release minerals and salts."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How do rivers contribute minerals to ocean water?",
+      "answer": "Rivers carry sediments, eroded soil, and organic remains into the oceans, adding minerals and salts."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What role do underwater volcanic eruptions play in ocean composition?",
+      "answer": "They add minerals, ashes, salts and gases to ocean water, increasing its mineral content."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are planetary winds?",
+      "answer": "Planetary winds are winds formed due to pressure differences created by unequal heating of the earth."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How are ocean currents formed?",
+      "answer": "Ocean currents are formed when planetary winds move oceanic water over long distances."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Differentiate between warm and cold ocean currents.",
+      "answer": "Warm currents move from equatorial regions towards colder areas, while cold currents move from polar regions towards warmer areas."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How do ocean currents help in redistribution of heat?",
+      "answer": "They transfer heat from warm equatorial regions to colder areas and vice versa, balancing global temperatures."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why do cold currents make coastal regions milder?",
+      "answer": "Cold currents lower the temperature of nearby coastal areas, preventing extreme heat."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "State one way in which oceans control global temperature.",
+      "answer": "Oceans regulate global temperature by redistributing heat through ocean currents."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why are oceans considered the source of rainfall?",
+      "answer": "Continuous evaporation from oceans supplies water vapour that later falls as rainfall."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Explain the role of oceans in the water cycle.",
+      "answer": "Water evaporates from oceans, falls as rain, flows through rivers, and returns to the oceans, completing the cycle."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why is the temperature range less in coastal regions?",
+      "answer": "The presence of water vapour absorbs and stores heat, keeping temperatures moderate."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is meant by continentality?",
+      "answer": "Continentality refers to greater temperature differences in regions located far away from the sea."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why is population density high in coastal areas?",
+      "answer": "Coastal areas have an equable climate, abundant food, and access to marine resources."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Name any two marine animals commonly consumed in India.",
+      "answer": "Pomfret and mackerel are commonly consumed marine animals in India."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Besides food, state one use of marine animals.",
+      "answer": "Marine animals are used in the production of fertilizers and pharmaceuticals."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why does the economy of some countries depend heavily on the sea?",
+      "answer": "Countries with long coastlines rely on fishing, transport and trade through oceans."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What makes ocean transport economical?",
+      "answer": "Ocean transport allows large-scale movement of goods at lower cost."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is water transport preferred for heavy and bulky goods?",
+      "answer": "It can carry large quantities at a lower cost compared to other transport modes."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How do ocean currents benefit water transport?",
+      "answer": "They increase ship speed and reduce fuel consumption."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Name two minerals obtained from the ocean floor.",
+      "answer": "Manganese and iron are obtained from the ocean floor."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Which energy resources are found in oceans?",
+      "answer": "Mineral oil and natural gas are found in oceans."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "State one future use of oceans mentioned in the chapter.",
+      "answer": "Electricity generation using ocean waves and tides."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is desalination of seawater important?",
+      "answer": "It helps reduce the scarcity of drinking water."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Where do mangrove forests grow?",
+      "answer": "Mangrove forests grow in swampy coastal areas and estuaries with saline soil."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why is mangrove wood useful?",
+      "answer": "Mangrove wood is light, oily, long-lasting and useful for fuel and ship-building."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "How do mangrove forests protect coastal regions?",
+      "answer": "They protect coastal areas from strong waves and reduce damage."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is meant by ocean pollution?",
+      "answer": "Ocean pollution is the contamination of ocean water due to human activities and waste."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Name any two causes of ocean pollution.",
+      "answer": "Oil spills and sewage discharge cause ocean pollution."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "How do oil spills affect marine life?",
+      "answer": "Oil spills harm aquatic animals and destroy their natural habitat."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is exploitative fishing?",
+      "answer": "Exploitative fishing refers to excessive and uncontrolled fishing that reduces fish population."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why are some coastal regions called death traps for aquatic animals?",
+      "answer": "Heavy pollution in these areas leads to mass death of aquatic life."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Name any two marine animals under threat of extinction.",
+      "answer": "Blue whale and sea turtles are under threat of extinction."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What happens when industrial waste is released into the sea?",
+      "answer": "It pollutes ocean water and harms marine ecosystems."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why should cutting of mangrove forests be avoided?",
+      "answer": "Cutting mangroves increases coastal erosion and loss of biodiversity."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is earth called the water planet?",
+      "answer": "Earth is called the water planet because most of its surface is covered by water."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why is water considered a boon for living beings?",
+      "answer": "Water supports all forms of life and is essential for survival."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What lesson does ocean pollution give to humans?",
+      "answer": "Humans must use oceans responsibly and avoid activities that harm marine life."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "State one measure to reduce ocean pollution.",
+      "answer": "Proper treatment of sewage before releasing it into the sea can reduce pollution."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Explain how continuous evaporation contributes to increasing salinity in ocean water.",
+      "answer": "Continuous evaporation removes water while leaving dissolved salts behind, gradually increasing the concentration of salts in ocean water."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does the accumulation of dead aquatic organisms alter the mineral content of oceans?",
+      "answer": "When aquatic organisms die, their remains decompose and release minerals and salts, enriching ocean water."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why do rivers play a long-term role in maintaining ocean salinity?",
+      "answer": "Rivers continuously carry sediments and dissolved minerals from land into oceans, adding salts over time."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How do submarine volcanic eruptions influence the chemical nature of ocean water?",
+      "answer": "They release minerals, ashes, salts and gases directly into seawater, increasing its mineral and salt content."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Explain why salinity values differ from one oceanic region to another.",
+      "answer": "Differences in evaporation rate, freshwater inflow from rivers, and local climatic conditions cause variations in salinity."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why is the Dead Sea an extreme example used to understand salinity?",
+      "answer": "It has exceptionally high salinity due to intense evaporation and minimal freshwater inflow."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Explain the link between unequal heating of the earth and the formation of ocean currents.",
+      "answer": "Unequal heating creates pressure belts and planetary winds, which push ocean water and form currents."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How do warm and cold ocean currents together help in balancing global temperatures?",
+      "answer": "Warm currents carry heat to colder regions while cold currents bring cooler water to warmer regions, redistributing heat."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why do coastal regions near cold currents experience milder summers?",
+      "answer": "Cold currents lower surrounding air temperatures, reducing extreme heat in nearby coastal areas."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How does the vast expanse of oceans strengthen their role in climate regulation?",
+      "answer": "Large ocean surfaces allow continuous evaporation and heat absorption, influencing rainfall and temperature patterns."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Explain why oceans are considered both the starting and ending point of the water cycle.",
+      "answer": "Water evaporates from oceans and eventually returns through rivers and streams after rainfall."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How does water vapour released from oceans moderate temperatures in coastal areas?",
+      "answer": "Water vapour absorbs and stores heat, preventing sharp temperature variations."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why do regions far from the sea experience greater temperature extremes?",
+      "answer": "Lack of nearby water bodies reduces heat storage, leading to larger differences between day and night temperatures."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Explain how equable climate influences human settlement in coastal regions.",
+      "answer": "Moderate temperatures and reliable resources make coastal areas more suitable for dense human settlement."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "How does marine biodiversity support human needs beyond food consumption?",
+      "answer": "Marine organisms are used in medicine, fertilizer production, research and other industries."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why has fishing remained an ancient and widespread occupation?",
+      "answer": "Oceans provide abundant and renewable food resources, sustaining fishing across generations."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Explain why countries with long coastlines gain economic importance.",
+      "answer": "They benefit from fishing, trade, transport routes and access to ocean resources."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How does ocean transport support international trade more effectively than land routes?",
+      "answer": "It allows large-scale, low-cost movement of goods across long distances."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why is water transport especially suitable for raw materials and fuel?",
+      "answer": "Such materials are heavy and bulky, making sea transport more economical."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Explain the role of ocean currents in reducing fuel consumption of ships.",
+      "answer": "Ships moving along currents face less resistance, increasing speed and saving fuel."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "How do mineral resources from the ocean floor contribute to industrial development?",
+      "answer": "Minerals like manganese and iron support manufacturing and technological industries."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why are oceans considered a potential source of future energy?",
+      "answer": "Waves and tides can be harnessed to generate renewable electricity."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Explain the significance of desalination in water-scarce regions.",
+      "answer": "It converts seawater into potable water, reducing dependence on limited freshwater sources."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why are mangrove forests well adapted to saline and humid coastal environments?",
+      "answer": "They can tolerate saline soils and waterlogged conditions typical of coastal and estuarine regions."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Explain how mangrove forests act as natural barriers against ocean waves.",
+      "answer": "Their dense roots and vegetation reduce wave energy and protect shorelines."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why is mangrove wood suitable for ship-building?",
+      "answer": "It is light, oily and durable, making it resistant to water damage."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How does large-scale pollution turn coastal regions into death traps for marine life?",
+      "answer": "Toxic waste reduces oxygen levels and contaminates habitats, leading to mass mortality."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Explain how oil spills disrupt the marine ecosystem.",
+      "answer": "Oil coats water surfaces and organisms, blocking oxygen exchange and poisoning marine life."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why is exploitative fishing a serious threat to ocean sustainability?",
+      "answer": "It reduces fish populations faster than they can naturally regenerate."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How does sewage disposal from cities affect ocean water quality?",
+      "answer": "It introduces pollutants and pathogens, degrading water quality and harming ecosystems."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Explain the long-term impact of cutting mangrove forests on coastal stability.",
+      "answer": "Loss of mangroves increases erosion, wave damage and biodiversity loss."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why are marine animals like blue whales vulnerable to extinction?",
+      "answer": "Pollution, habitat loss and human activities reduce their survival chances."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "How does human-generated waste alter the natural balance of ocean ecosystems?",
+      "answer": "It disrupts food chains and degrades habitats essential for marine life."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Explain why oceans are vital for maintaining life on earth.",
+      "answer": "They regulate climate, support biodiversity, provide resources and sustain the water cycle."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "How does ocean pollution ultimately affect human societies?",
+      "answer": "It threatens food security, health, livelihoods and coastal economies."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why is responsible use of ocean resources necessary for future generations?",
+      "answer": "Unsustainable use can permanently damage ecosystems and reduce available resources."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Explain the connection between ocean health and global biodiversity.",
+      "answer": "Healthy oceans support diverse species that maintain ecological balance."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How can reducing industrial waste help restore marine ecosystems?",
+      "answer": "Lower pollution allows natural recovery of habitats and aquatic life."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is protection of coastal ecosystems as important as inland conservation?",
+      "answer": "Coastal ecosystems support fisheries, protect land and regulate climate."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Explain how ocean resources support both local and global economies.",
+      "answer": "They provide food, minerals, energy and trade routes at multiple scales."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "How does overuse of ocean resources disrupt natural regeneration cycles?",
+      "answer": "Excessive extraction reduces the ability of ecosystems to recover naturally."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why should ocean conservation be a shared global responsibility?",
+      "answer": "Oceans connect nations and their degradation affects the entire planet."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Explain the importance of oceans in maintaining atmospheric moisture.",
+      "answer": "Evaporation from oceans supplies water vapour essential for clouds and rainfall."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How does marine pollution challenge sustainable development?",
+      "answer": "It damages resources needed for long-term economic and environmental stability."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is preventing ocean pollution more effective than curing its effects?",
+      "answer": "Pollution causes long-lasting damage that is difficult and costly to reverse."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Explain how oceans influence daily human life indirectly.",
+      "answer": "They affect weather, climate, food availability and economic activities."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "How does the concept of the earth as a water planet emphasize ocean importance?",
+      "answer": "It highlights that water dominance makes oceans central to earth’s life systems."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is protecting marine biodiversity essential for ecological balance?",
+      "answer": "Each species plays a role in maintaining stable food webs and ecosystems."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Explain the relationship between oceans and sustainable human progress.",
+      "answer": "Sustainable use of oceans ensures long-term availability of resources and environmental health."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Suggest why oceans must be preserved as shared natural heritage.",
+      "answer": "They support global life systems and must be protected for present and future generations."
+    }
+  ]
+}

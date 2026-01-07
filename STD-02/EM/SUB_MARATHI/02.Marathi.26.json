@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.26",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "सारखे काय?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'कावळा' आणि 'कान' या शब्दांत कोणते अक्षर सारखे आहे?",
+      "options": [
+        { "option_id": 1, "text": "व", "is_correct": false },
+        { "option_id": 2, "text": "ळा", "is_correct": false },
+        { "option_id": 3, "text": "का", "is_correct": true },
+        { "option_id": 4, "text": "न", "is_correct": false }
+      ],
+      "answer": "का"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "'मगर' आणि 'मासा' या शब्दांत कोणते अक्षर सारखे आहे?",
+      "options": [
+        { "option_id": 1, "text": "म", "is_correct": true },
+        { "option_id": 2, "text": "ग", "is_correct": false },
+        { "option_id": 3, "text": "र", "is_correct": false },
+        { "option_id": 4, "text": "सा", "is_correct": false }
+      ],
+      "answer": "म"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "'बदक' आणि 'बटाटा' या शब्दांची सुरुवात कोणत्या अक्षराने होते?",
+      "options": [
+        { "option_id": 1, "text": "क", "is_correct": false },
+        { "option_id": 2, "text": "ब", "is_correct": true },
+        { "option_id": 3, "text": "ट", "is_correct": false },
+        { "option_id": 4, "text": "द", "is_correct": false }
+      ],
+      "answer": "ब"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "'ससा' आणि 'कासव' यामध्ये 'स' अक्षर कोठे आले आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त ससा मध्ये", "is_correct": false },
+        { "option_id": 2, "text": "दोन्ही शब्दांत", "is_correct": true },
+        { "option_id": 3, "text": "फक्त कासव मध्ये", "is_correct": false },
+        { "option_id": 4, "text": "कोठेच नाही", "is_correct": false }
+      ],
+      "answer": "दोन्ही शब्दांत"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'अननस' या शब्दात 'न' किती वेळा आला आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकदा", "is_correct": false },
+        { "option_id": 2, "text": "दोनदा", "is_correct": true },
+        { "option_id": 3, "text": "तीनदा", "is_correct": false },
+        { "option_id": 4, "text": "चारदा", "is_correct": false }
+      ],
+      "answer": "दोनदा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "'आई' आणि 'आजी' या शब्दांत पहिले अक्षर कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "ई", "is_correct": false },
+        { "option_id": 2, "text": "आ", "is_correct": true },
+        { "option_id": 3, "text": "जी", "is_correct": false },
+        { "option_id": 4, "text": "का", "is_correct": false }
+      ],
+      "answer": "आ"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'पालक' आणि 'पपई' मध्ये समान अक्षर कोणते?",
+      "options": [
+        { "option_id": 1, "text": "ल", "is_correct": false },
+        { "option_id": 2, "text": "क", "is_correct": false },
+        { "option_id": 3, "text": "प", "is_correct": true },
+        { "option_id": 4, "text": "ई", "is_correct": false }
+      ],
+      "answer": "प"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'मोर' या शब्दाचा शेवटचा आवाज कोणता?",
+      "options": [
+        { "option_id": 1, "text": "म", "is_correct": false },
+        { "option_id": 2, "text": "मो", "is_correct": false },
+        { "option_id": 3, "text": "र", "is_correct": true },
+        { "option_id": 4, "text": "का", "is_correct": false }
+      ],
+      "answer": "र"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणत्या शब्दात 'ल' अक्षर आहे?",
+      "options": [
+        { "option_id": 1, "text": "कान", "is_correct": false },
+        { "option_id": 2, "text": "नाक", "is_correct": false },
+        { "option_id": 3, "text": "गाजर", "is_correct": false },
+        { "option_id": 4, "text": "पालक", "is_correct": true }
+      ],
+      "answer": "पालक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'काका' या शब्दात 'का' अक्षर किती वेळा आले आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकदा", "is_correct": false },
+        { "option_id": 2, "text": "दोनदा", "is_correct": true },
+        { "option_id": 3, "text": "तीनदा", "is_correct": false },
+        { "option_id": 4, "text": "शून्य", "is_correct": false }
+      ],
+      "answer": "दोनदा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'उंदीर' आणि 'उंट' या शब्दांची सुरुवात कोणत्या अक्षराने होते?",
+      "options": [
+        { "option_id": 1, "text": "अ", "is_correct": false },
+        { "option_id": 2, "text": "उं", "is_correct": true },
+        { "option_id": 3, "text": "क", "is_correct": false },
+        { "option_id": 4, "text": "म", "is_correct": false }
+      ],
+      "answer": "उं"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'गाजर' आणि 'गरम' यामध्ये सारखे अक्षर कोणते?",
+      "options": [
+        { "option_id": 1, "text": "ज", "is_correct": false },
+        { "option_id": 2, "text": "र", "is_correct": false },
+        { "option_id": 3, "text": "ग", "is_correct": true },
+        { "option_id": 4, "text": "म", "is_correct": false }
+      ],
+      "answer": "ग"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या पाठात आपण काय शिकलो?",
+      "options": [
+        { "option_id": 1, "text": "चित्रे काढणे", "is_correct": false },
+        { "option_id": 2, "text": "सारखी अक्षरे ओळखणे", "is_correct": true },
+        { "option_id": 3, "text": "गाणी गाणे", "is_correct": false },
+        { "option_id": 4, "text": "नृत्य करणे", "is_correct": false }
+      ],
+      "answer": "सारखी अक्षरे ओळखणे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'बसा' आणि 'हसा' या शब्दांत शेवटी कोणते अक्षर सारखे आहे?",
+      "options": [
+        { "option_id": 1, "text": "ब", "is_correct": false },
+        { "option_id": 2, "text": "ह", "is_correct": false },
+        { "option_id": 3, "text": "सा", "is_correct": true },
+        { "option_id": 4, "text": "क", "is_correct": false }
+      ],
+      "answer": "सा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'सायकल' या शब्दात किती अक्षरे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": false },
+        { "option_id": 3, "text": "चार", "is_correct": true },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "'बटाटा' या शब्दात 'टा' अक्षर किती वेळा आले आहे?",
+      "answer": "दोनदा."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "'कान' आणि 'छान' या शब्दांतील सारखे अक्षर कोणते?",
+      "answer": "'न'."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "'मगर' शब्दातील पहिले अक्षर कोणते?",
+      "answer": "'म'."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "'अननस' या शब्दाचे शेवटचे अक्षर सांगा.",
+      "answer": "'स'."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "'कासव' या शब्दात 'स' अक्षर कितव्या क्रमांकावर आहे?",
+      "answer": "दुसऱ्या."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "'आरसा' आणि 'कासव' मध्ये कोणते अक्षर सारखे आहे?",
+      "answer": "'स'."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "'पेरू' या शब्दात किती अक्षरे आहेत?",
+      "answer": "दोन (पे, रू)."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "'वडील' या शब्दातील मधले अक्षर कोणते?",
+      "answer": "'डी'."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "'पवन' आणि 'वजन' मध्ये 'व' अक्षर आहे का?",
+      "answer": "हो, दोन्ही शब्दांत 'व' अक्षर आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "'आजोबा' या शब्दाची सुरुवात कोणत्या अक्षराने होते?",
+      "answer": "'आ'."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "'गाजर' या शब्दातील 'ज' अक्षर काढून टाकल्यास कोणता शब्द तयार होईल?",
+      "answer": "'गार'."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "'बदक' शब्दातील शेवटचे अक्षर कोणते?",
+      "answer": "'क'."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "'टेबल' या शब्दात 'ब' अक्षर आहे का?",
+      "answer": "हो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "'ससा' या शब्दात दोन्ही अक्षरे सारखी आहेत का?",
+      "answer": "नाही, 'स' आणि 'सा' वेगवेगळी आहेत (स्वरचिन्ह)."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या पाठाचे नाव काय आहे?",
+      "answer": "या पाठाचे नाव 'सारखे काय?' आहे."
+    }
+  ]
+}

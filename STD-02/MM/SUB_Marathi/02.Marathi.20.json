@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.20",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "कणभर तळ"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘कणभर तळ’ या धड्यात कोणती भावना व्यक्त केली आहे?",
+      "options": [
+        { "option_id": 1, "text": "राग", "is_correct": false },
+        { "option_id": 2, "text": "मत्सर", "is_correct": false },
+        { "option_id": 3, "text": "दयाळूपणा", "is_correct": true },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "दयाळूपणा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कथेतील मुलाने कोणाला मदत केली?",
+      "options": [
+        { "option_id": 1, "text": "आपल्या मित्राला", "is_correct": false },
+        { "option_id": 2, "text": "एका भुकेल्या माणसाला", "is_correct": true },
+        { "option_id": 3, "text": "एका कुत्र्याला", "is_correct": false },
+        { "option_id": 4, "text": "एका पक्ष्याला", "is_correct": false }
+      ],
+      "answer": "एका भुकेल्या माणसाला"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "मुलाच्या डब्यात काय होते?",
+      "options": [
+        { "option_id": 1, "text": "फळे", "is_correct": false },
+        { "option_id": 2, "text": "लाडू", "is_correct": false },
+        { "option_id": 3, "text": "थोडे अन्न", "is_correct": true },
+        { "option_id": 4, "text": "दूध", "is_correct": false }
+      ],
+      "answer": "थोडे अन्न"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मुलाने भुकेल्या माणसाला काय दिले?",
+      "options": [
+        { "option_id": 1, "text": "खेळणे", "is_correct": false },
+        { "option_id": 2, "text": "पैसे", "is_correct": false },
+        { "option_id": 3, "text": "आपल्या डब्यातील अन्न", "is_correct": true },
+        { "option_id": 4, "text": "बिस्किट", "is_correct": false }
+      ],
+      "answer": "आपल्या डब्यातील अन्न"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भुकेल्या माणसाने मुलाला काय दिले?",
+      "options": [
+        { "option_id": 1, "text": "भेटवस्तू", "is_correct": false },
+        { "option_id": 2, "text": "आशीर्वाद", "is_correct": true },
+        { "option_id": 3, "text": "फळे", "is_correct": false },
+        { "option_id": 4, "text": "फुले", "is_correct": false }
+      ],
+      "answer": "आशीर्वाद"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मुलाने अन्न दिल्यावर त्याला कसे वाटले?",
+      "options": [
+        { "option_id": 1, "text": "दुःख", "is_correct": false },
+        { "option_id": 2, "text": "राग", "is_correct": false },
+        { "option_id": 3, "text": "आनंद", "is_correct": true },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "या धड्यात ‘कणभर’ शब्दाचा अर्थ काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "भरपूर", "is_correct": false },
+        { "option_id": 2, "text": "थोडेसे", "is_correct": true },
+        { "option_id": 3, "text": "मोठे", "is_correct": false },
+        { "option_id": 4, "text": "रिकामे", "is_correct": false }
+      ],
+      "answer": "थोडेसे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मुलाने अन्न का वाटले?",
+      "options": [
+        { "option_id": 1, "text": "कारण त्याला भीती वाटली", "is_correct": false },
+        { "option_id": 2, "text": "कारण त्याला सांगितले होते", "is_correct": false },
+        { "option_id": 3, "text": "कारण तो दयाळू होता", "is_correct": true },
+        { "option_id": 4, "text": "कारण त्याला हसू आले", "is_correct": false }
+      ],
+      "answer": "कारण तो दयाळू होता"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भुकेल्या माणसाने अन्न मिळताच काय केले?",
+      "options": [
+        { "option_id": 1, "text": "रडला", "is_correct": false },
+        { "option_id": 2, "text": "हसला आणि धन्यवाद दिले", "is_correct": true },
+        { "option_id": 3, "text": "पळून गेला", "is_correct": false },
+        { "option_id": 4, "text": "रागावला", "is_correct": false }
+      ],
+      "answer": "हसला आणि धन्यवाद दिले"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "या धड्यातील मुख्य संदेश कोणता?",
+      "options": [
+        { "option_id": 1, "text": "सर्वांसोबत खेळावे", "is_correct": false },
+        { "option_id": 2, "text": "इतरांची थट्टा करावी", "is_correct": false },
+        { "option_id": 3, "text": "थोडे जरी असेल तरी वाटावे", "is_correct": true },
+        { "option_id": 4, "text": "स्वतःसाठीच सर्व ठेवावे", "is_correct": false }
+      ],
+      "answer": "थोडे जरी असेल तरी वाटावे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "मुलाच्या वागणुकीत कोणता गुण दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "स्वार्थ", "is_correct": false },
+        { "option_id": 2, "text": "करुणा", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "मत्सर", "is_correct": false }
+      ],
+      "answer": "करुणा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "भुकेल्या माणसाची अवस्था कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "खूप श्रीमंत", "is_correct": false },
+        { "option_id": 2, "text": "भुका आणि थकलेला", "is_correct": true },
+        { "option_id": 3, "text": "आनंदी", "is_correct": false },
+        { "option_id": 4, "text": "रागीट", "is_correct": false }
+      ],
+      "answer": "भुका आणि थकलेला"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कथेतील मुलाने कोणता आदर्श दिला?",
+      "options": [
+        { "option_id": 1, "text": "वाटून खावे", "is_correct": true },
+        { "option_id": 2, "text": "एकटेच खावे", "is_correct": false },
+        { "option_id": 3, "text": "इतरांकडून घ्यावे", "is_correct": false },
+        { "option_id": 4, "text": "राग काढावा", "is_correct": false }
+      ],
+      "answer": "वाटून खावे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कथेतून आपण काय शिकतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त स्वतःचा विचार करावा", "is_correct": false },
+        { "option_id": 2, "text": "भुकेल्यांना दुर्लक्ष करावे", "is_correct": false },
+        { "option_id": 3, "text": "इतरांची मदत करावी", "is_correct": true },
+        { "option_id": 4, "text": "कोणालाही काही देऊ नये", "is_correct": false }
+      ],
+      "answer": "इतरांची मदत करावी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘कणभर तळ’ या शीर्षकातून काय सूचित होते?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्या मदतीची गरज", "is_correct": false },
+        { "option_id": 2, "text": "थोडी मदतही मौल्यवान असते", "is_correct": true },
+        { "option_id": 3, "text": "कोणी मदत करू नये", "is_correct": false },
+        { "option_id": 4, "text": "सर्वांनी भांडावे", "is_correct": false }
+      ],
+      "answer": "थोडी मदतही मौल्यवान असते"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "मुलाने भुकेल्या माणसाला काय दिले?",
+      "answer": "मुलाने आपल्या डब्यातील अन्न भुकेल्या माणसाला दिले."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "भुकेल्या माणसाने मुलाचे आभार का मानले?",
+      "answer": "कारण त्याला भूक लागली होती आणि मुलाने त्याला अन्न दिले."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मुलाने अन्न वाटले तेव्हा त्याला कसे वाटले?",
+      "answer": "त्याला खूप आनंद व समाधान वाटले."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "‘कणभर’ या शब्दाचा अर्थ लिहा.",
+      "answer": "खूप थोडी मात्रा किंवा लहानसा भाग."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "या धड्यातील एक चांगला गुण लिहा.",
+      "answer": "दयाळूपणा."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मुलाने मदत का केली?",
+      "answer": "कारण तो करुणामय आणि मदत करणारा होता."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "भुकेल्या माणसाची अवस्था कशी होती?",
+      "answer": "तो भुकेला, थकलेला आणि अशक्त होता."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "या धड्यातून कोणता संदेश मिळतो?",
+      "answer": "थोडी मदतही मोठा आधार ठरते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "‘वाटून खावे’ या वाक्याचा अर्थ लिहा.",
+      "answer": "स्वतःकडे असलेले इतरांशी शेअर करावे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "मुलाने शिकलेली एक गोष्ट लिहा.",
+      "answer": "दयाळूपणाने वागल्याने आनंद मिळतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तुझे डब्यातील अन्न कोणासोबत वाटशील?",
+      "answer": "गरजेला असलेल्या मित्रांशी किंवा भुकेल्यांशी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "या कथेतील पात्राचे नाव लिहा (मुख्य पात्र).",
+      "answer": "एक दयाळू मुलगा."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मदत केल्यावर मनाला कसे वाटते?",
+      "answer": "शांत, आनंदी आणि समाधान वाटते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "तुला या धड्यातील कोणता भाग आवडला?",
+      "answer": "मुलाने भुकेल्या माणसाला अन्न दिला तो भाग."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्यातून तू काय शिकला/शिकलास?",
+      "answer": "इतरांची मदत करावी आणि करुणेने वागावे."
+    }
+  ]
+}

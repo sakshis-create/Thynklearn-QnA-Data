@@ -1,0 +1,23 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.28",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Catch them, if you can!"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which birds are mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Ducks and Geese", "is_correct": false },
+        { "option_id": 2, "text": "Chickens and Hens", "is_correct": true },
+        { "option_id": 3, "text": "Sparrows and Crows", "is_correct": false },
+        { "option_id": 4, "text": "Parrots and Peacocks", "is_correct": false }
+      ],
+      "answer": "Chickens and Hens"
+    }
+  ]
+}

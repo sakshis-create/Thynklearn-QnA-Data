@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.16",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "चुलीवरची खीर"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘चुलीवरची खीर’ कोणाला हसली?",
+      "options": [
+        { "option_id": 1, "text": "पुरीला", "is_correct": true },
+        { "option_id": 2, "text": "ताईला", "is_correct": false },
+        { "option_id": 3, "text": "आईला", "is_correct": false },
+        { "option_id": 4, "text": "मुलीला", "is_correct": false }
+      ],
+      "answer": "पुरीला"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खीर कुठे होती?",
+      "options": [
+        { "option_id": 1, "text": "ताटात", "is_correct": false },
+        { "option_id": 2, "text": "वाटीत", "is_correct": false },
+        { "option_id": 3, "text": "कढईत", "is_correct": false },
+        { "option_id": 4, "text": "चुलीवर", "is_correct": true }
+      ],
+      "answer": "चुलीवर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पुरी कुठे बसली?",
+      "options": [
+        { "option_id": 1, "text": "ताटात", "is_correct": true },
+        { "option_id": 2, "text": "वाटीत", "is_correct": false },
+        { "option_id": 3, "text": "चुलीवर", "is_correct": false },
+        { "option_id": 4, "text": "शेल्फवर", "is_correct": false }
+      ],
+      "answer": "ताटात"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पुरीला काय टोचले?",
+      "options": [
+        { "option_id": 1, "text": "चमचा", "is_correct": false },
+        { "option_id": 2, "text": "झारा", "is_correct": true },
+        { "option_id": 3, "text": "काटा", "is_correct": false },
+        { "option_id": 4, "text": "वाटी", "is_correct": false }
+      ],
+      "answer": "झारा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पुरीच्या काळजाला काय डसले?",
+      "options": [
+        { "option_id": 1, "text": "राग", "is_correct": false },
+        { "option_id": 2, "text": "थट्टा", "is_correct": true },
+        { "option_id": 3, "text": "गाणे", "is_correct": false },
+        { "option_id": 4, "text": "कविता", "is_correct": false }
+      ],
+      "answer": "थट्टा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पुरीचे गाल कसे झाले?",
+      "options": [
+        { "option_id": 1, "text": "पांढरे", "is_correct": false },
+        { "option_id": 2, "text": "फुगले", "is_correct": true },
+        { "option_id": 3, "text": "काळे", "is_correct": false },
+        { "option_id": 4, "text": "ओले", "is_correct": false }
+      ],
+      "answer": "फुगले"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पुरीचे डोळे कसे झाले?",
+      "options": [
+        { "option_id": 1, "text": "झरू लागले", "is_correct": true },
+        { "option_id": 2, "text": "झोपले", "is_correct": false },
+        { "option_id": 3, "text": "चमकले", "is_correct": false },
+        { "option_id": 4, "text": "हसले", "is_correct": false }
+      ],
+      "answer": "झरू लागले"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "खीर कुठे बसून आली?",
+      "options": [
+        { "option_id": 1, "text": "ताटात", "is_correct": false },
+        { "option_id": 2, "text": "वाटीत", "is_correct": true },
+        { "option_id": 3, "text": "भांड्यात", "is_correct": false },
+        { "option_id": 4, "text": "कढईत", "is_correct": false }
+      ],
+      "answer": "वाटीत"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खीर पुरीला काय म्हणाली?",
+      "options": [
+        { "option_id": 1, "text": "रडू नकोस", "is_correct": false },
+        { "option_id": 2, "text": "माझे म्हणणे ऐक", "is_correct": true },
+        { "option_id": 3, "text": "जा दूर", "is_correct": false },
+        { "option_id": 4, "text": "हसू नको", "is_correct": false }
+      ],
+      "answer": "माझे म्हणणे ऐक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पुरीने खिरीचे बोलणे ऐकले का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "थोडे ऐकले", "is_correct": false },
+        { "option_id": 3, "text": "नाही", "is_correct": true },
+        { "option_id": 4, "text": "शेवटी ऐकले", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "खीर आणि पुरीची गट्टी कोणामुळे झाली?",
+      "options": [
+        { "option_id": 1, "text": "आईमुळे", "is_correct": false },
+        { "option_id": 2, "text": "ताईमुळे", "is_correct": true },
+        { "option_id": 3, "text": "मुलीमुळे", "is_correct": false },
+        { "option_id": 4, "text": "कवीमुळे", "is_correct": false }
+      ],
+      "answer": "ताईमुळे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "ताईने काय केली?",
+      "options": [
+        { "option_id": 1, "text": "थट्टा केली", "is_correct": false },
+        { "option_id": 2, "text": "युक्ती केली", "is_correct": true },
+        { "option_id": 3, "text": "रागावली", "is_correct": false },
+        { "option_id": 4, "text": "खीर खाल्ली", "is_correct": false }
+      ],
+      "answer": "युक्ती केली"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "खीर आणि पुरीची जोडी कशी झाली?",
+      "options": [
+        { "option_id": 1, "text": "ढिली", "is_correct": false },
+        { "option_id": 2, "text": "कमजोर", "is_correct": false },
+        { "option_id": 3, "text": "पक्की", "is_correct": true },
+        { "option_id": 4, "text": "तुटलेली", "is_correct": false }
+      ],
+      "answer": "पक्की"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणता भाव दाखवला आहे?",
+      "options": [
+        { "option_id": 1, "text": "रागाचा", "is_correct": false },
+        { "option_id": 2, "text": "मैत्रीचा", "is_correct": true },
+        { "option_id": 3, "text": "भीतीचा", "is_correct": false },
+        { "option_id": 4, "text": "दुःखाचा", "is_correct": false }
+      ],
+      "answer": "मैत्रीचा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या पदार्थांवर आहे?",
+      "options": [
+        { "option_id": 1, "text": "भात आणि आमटी", "is_correct": false },
+        { "option_id": 2, "text": "खीर आणि पुरी", "is_correct": true },
+        { "option_id": 3, "text": "भाजी आणि पोळी", "is_correct": false },
+        { "option_id": 4, "text": "लाडू आणि बर्फी", "is_correct": false }
+      ],
+      "answer": "खीर आणि पुरी"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "खीर पुरीला का हसली?",
+      "answer": "खीर पुरीची थट्टा करत असल्याने ती पुरीला हसली."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पुरी का रुसली?",
+      "answer": "पुरीची थट्टा झाल्यामुळे ती रुसली."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पुरी कुठे जाऊन बसली?",
+      "answer": "पुरी ताटात जाऊन बसली."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "खीर पुरीला काय सांगू इच्छित होती?",
+      "answer": "खीर पुरीला प्रेमाने आपले म्हणणे सांगू इच्छित होती."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "खीर थंड कशी झाली?",
+      "answer": "खीर वाटीत बसून थंड झाली."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "ताईने कोणती युक्ती केली?",
+      "answer": "ताईने दोघांना एकत्र आणून त्यांची गट्टी करून दिली."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "खीर आणि पुरीची जोडी कशी झाली?",
+      "answer": "त्यांची जोडी पक्की झाली."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेतून कोणती शिकवण मिळते?",
+      "answer": "भांडण न करता मैत्री करावी ही शिकवण मिळते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "‘रुसून बसणे’ याचा अर्थ लिहा.",
+      "answer": "राग आल्यामुळे शांतपणे वेगळे बसणे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "तुला खीर-पुरीची जोडी का आवडते?",
+      "answer": "कारण ती चविष्ट आणि गोड जोडी आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पुरीचे गाल का लाल झाले?",
+      "answer": "रुसल्यामुळे आणि रडू आल्यामुळे तिचे गाल लाल झाले."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवितेतील दोन पदार्थांची नावे लिहा.",
+      "answer": "खीर आणि पुरी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "खीर पुरीच्या जवळ का आली?",
+      "answer": "तिला पुरीशी मैत्री करायची होती."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "तुझ्या जेवणातील एखादी जोडी लिहा.",
+      "answer": "पोळी आणि भाजी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "ही कविता तुला का आवडली?",
+      "answer": "कारण ती गमतीदार आहे आणि मैत्रीचा सुंदर संदेश देते."
+    }
+  ]
+}

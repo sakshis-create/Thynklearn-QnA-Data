@@ -1,0 +1,731 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.1.1",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Where the Mind is Without Fear..."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'Where the Mind is Without Fear...'?",
+      "options": [
+        { "option_id": 1, "text": "Sarojini Naidu", "is_correct": false },
+        { "option_id": 2, "text": "Rabindranath Tagore", "is_correct": true },
+        { "option_id": 3, "text": "Walt Whitman", "is_correct": false },
+        { "option_id": 4, "text": "Robert Frost", "is_correct": false }
+      ],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In which year did Rabindranath Tagore win the Nobel Prize in Literature?",
+      "options": [
+        { "option_id": 1, "text": "1911", "is_correct": false },
+        { "option_id": 2, "text": "1913", "is_correct": true },
+        { "option_id": 3, "text": "1920", "is_correct": false },
+        { "option_id": 4, "text": "1941", "is_correct": false }
+      ],
+      "answer": "1913"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "From which anthology is the poem 'Where the Mind is Without Fear...' taken?",
+      "options": [
+        { "option_id": 1, "text": "Gitanjali", "is_correct": true },
+        { "option_id": 2, "text": "Kabuliwala", "is_correct": false },
+        { "option_id": 3, "text": "The Home Coming", "is_correct": false },
+        { "option_id": 4, "text": "Stray Birds", "is_correct": false }
+      ],
+      "answer": "Gitanjali"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The poem was originally composed in which language?",
+      "options": [
+        { "option_id": 1, "text": "Hindi", "is_correct": false },
+        { "option_id": 2, "text": "English", "is_correct": false },
+        { "option_id": 3, "text": "Bengali", "is_correct": true },
+        { "option_id": 4, "text": "Sanskrit", "is_correct": false }
+      ],
+      "answer": "Bengali"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who translated the poem into English?",
+      "options": [
+        { "option_id": 1, "text": "William Butler Yeats", "is_correct": false },
+        { "option_id": 2, "text": "Mahatma Gandhi", "is_correct": false },
+        { "option_id": 3, "text": "Rabindranath Tagore himself", "is_correct": true },
+        { "option_id": 4, "text": "Sarojini Naidu", "is_correct": false }
+      ],
+      "answer": "Rabindranath Tagore himself"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In the poem, what does 'narrow domestic walls' refer to?",
+      "options": [
+        { "option_id": 1, "text": "Small houses", "is_correct": false },
+        { "option_id": 2, "text": "Boundaries between houses", "is_correct": false },
+        { "option_id": 3, "text": "Divisions based on caste, religion, and class", "is_correct": true },
+        { "option_id": 4, "text": "Walls of a school", "is_correct": false }
+      ],
+      "answer": "Divisions based on caste, religion, and class"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does 'dead habit' compare to?",
+      "options": [
+        { "option_id": 1, "text": "Dreary desert sand", "is_correct": true },
+        { "option_id": 2, "text": "Clear stream", "is_correct": false },
+        { "option_id": 3, "text": "Ever-widening thought", "is_correct": false },
+        { "option_id": 4, "text": "Depth of truth", "is_correct": false }
+      ],
+      "answer": "Dreary desert sand"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is 'reason' compared to in the poem?",
+      "options": [
+        { "option_id": 1, "text": "A desert", "is_correct": false },
+        { "option_id": 2, "text": "A clear stream", "is_correct": true },
+        { "option_id": 3, "text": "A wall", "is_correct": false },
+        { "option_id": 4, "text": "A mountain", "is_correct": false }
+      ],
+      "answer": "A clear stream"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who is addressed as 'Thee' and 'My Father' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "The British Rulers", "is_correct": false },
+        { "option_id": 2, "text": "The Poet's Father", "is_correct": false },
+        { "option_id": 3, "text": "God / The Almighty", "is_correct": true },
+        { "option_id": 4, "text": "The Citizens of India", "is_correct": false }
+      ],
+      "answer": "God / The Almighty"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does 'tireless striving' stretch its arms towards?",
+      "options": [
+        { "option_id": 1, "text": "Freedom", "is_correct": false },
+        { "option_id": 2, "text": "Perfection", "is_correct": true },
+        { "option_id": 3, "text": "Success", "is_correct": false },
+        { "option_id": 4, "text": "Wealth", "is_correct": false }
+      ],
+      "answer": "Perfection"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The poem is a prayer for the poet's ________.",
+      "options": [
+        { "option_id": 1, "text": "Family", "is_correct": false },
+        { "option_id": 2, "text": "School", "is_correct": false },
+        { "option_id": 3, "text": "Country", "is_correct": true },
+        { "option_id": 4, "text": "Friends", "is_correct": false }
+      ],
+      "answer": "Country"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does 'head held high' signify?",
+      "options": [
+        { "option_id": 1, "text": "Arrogance", "is_correct": false },
+        { "option_id": 2, "text": "Self-respect and dignity", "is_correct": true },
+        { "option_id": 3, "text": "Looking at the sky", "is_correct": false },
+        { "option_id": 4, "text": "Fearlessness", "is_correct": false }
+      ],
+      "answer": "Self-respect and dignity"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Match the term: 'A rationalistic outlook towards humans rather than a divine or supernatural one.'",
+      "options": [
+        { "option_id": 1, "text": "Patriotism", "is_correct": false },
+        { "option_id": 2, "text": "Liberalism", "is_correct": false },
+        { "option_id": 3, "text": "Humanism", "is_correct": true },
+        { "option_id": 4, "text": "Internationalism", "is_correct": false }
+      ],
+      "answer": "Humanism"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is a 'Sonnet'?",
+      "options": [
+        { "option_id": 1, "text": "A poem of 14 lines", "is_correct": true },
+        { "option_id": 2, "text": "A long story-poem", "is_correct": false },
+        { "option_id": 3, "text": "A sad poem", "is_correct": false },
+        { "option_id": 4, "text": "A humorous poem", "is_correct": false }
+      ],
+      "answer": "A poem of 14 lines"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is an 'Epic'?",
+      "options": [
+        { "option_id": 1, "text": "A short funny poem", "is_correct": false },
+        { "option_id": 2, "text": "A long story-poem, often mythical", "is_correct": true },
+        { "option_id": 3, "text": "A poem with no rhyme", "is_correct": false },
+        { "option_id": 4, "text": "A song-like poem", "is_correct": false }
+      ],
+      "answer": "A long story-poem, often mythical"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What describes a 'Limerick'?",
+      "options": [
+        { "option_id": 1, "text": "A sad poem", "is_correct": false },
+        { "option_id": 2, "text": "A 5-line short funny poem with aabba rhyme scheme", "is_correct": true },
+        { "option_id": 3, "text": "A song-like poem", "is_correct": false },
+        { "option_id": 4, "text": "A poem about nature", "is_correct": false }
+      ],
+      "answer": "A 5-line short funny poem with aabba rhyme scheme"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is an 'Elegy'?",
+      "options": [
+        { "option_id": 1, "text": "A poem written to create humour", "is_correct": false },
+        { "option_id": 2, "text": "A poem with 14 lines", "is_correct": false },
+        { "option_id": 3, "text": "A sad poem, lamenting death of a loved one", "is_correct": true },
+        { "option_id": 4, "text": "A short story poem", "is_correct": false }
+      ],
+      "answer": "A sad poem, lamenting death of a loved one"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What does 'Idyll' refer to?",
+      "options": [
+        { "option_id": 1, "text": "A poem set in a picturesque, rustic background", "is_correct": true },
+        { "option_id": 2, "text": "A humorous poem", "is_correct": false },
+        { "option_id": 3, "text": "A poem with free verse", "is_correct": false },
+        { "option_id": 4, "text": "A mythical poem", "is_correct": false }
+      ],
+      "answer": "A poem set in a picturesque, rustic background"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What kind of freedom does Tagore appeal for in this poem?",
+      "options": [
+        { "option_id": 1, "text": "Only political freedom", "is_correct": false },
+        { "option_id": 2, "text": "Social, educational, and economic freedom", "is_correct": true },
+        { "option_id": 3, "text": "Freedom to travel", "is_correct": false },
+        { "option_id": 4, "text": "Freedom from work", "is_correct": false }
+      ],
+      "answer": "Social, educational, and economic freedom"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The phrase 'ever-widening thought and action' suggests ________.",
+      "options": [
+        { "option_id": 1, "text": "Broadening outlook and attitude", "is_correct": true },
+        { "option_id": 2, "text": "Thinking about the past", "is_correct": false },
+        { "option_id": 3, "text": "Working tirelessly", "is_correct": false },
+        { "option_id": 4, "text": "Talking loudly", "is_correct": false }
+      ],
+      "answer": "Broadening outlook and attitude"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Where does the poet wish the mind to be led forward to?",
+      "options": [
+        { "option_id": 1, "text": "Into the desert sand", "is_correct": false },
+        { "option_id": 2, "text": "Into ever-widening thought and action", "is_correct": true },
+        { "option_id": 3, "text": "Into narrow domestic walls", "is_correct": false },
+        { "option_id": 4, "text": "Into the depth of truth", "is_correct": false }
+      ],
+      "answer": "Into ever-widening thought and action"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "According to the poet, words should come out from ________.",
+      "options": [
+        { "option_id": 1, "text": "The mind", "is_correct": false },
+        { "option_id": 2, "text": "The depth of truth", "is_correct": true },
+        { "option_id": 3, "text": "Fear", "is_correct": false },
+        { "option_id": 4, "text": "Habit", "is_correct": false }
+      ],
+      "answer": "The depth of truth"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What figure of speech is used in 'dreary desert sand of dead habit'?",
+      "options": [
+        { "option_id": 1, "text": "Simile", "is_correct": false },
+        { "option_id": 2, "text": "Metaphor", "is_correct": true },
+        { "option_id": 3, "text": "Hyperbole", "is_correct": false },
+        { "option_id": 4, "text": "Personification", "is_correct": false }
+      ],
+      "answer": "Metaphor"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What figure of speech is used in 'clear stream of reason'?",
+      "options": [
+        { "option_id": 1, "text": "Metaphor", "is_correct": true },
+        { "option_id": 2, "text": "Simile", "is_correct": false },
+        { "option_id": 3, "text": "Apostrophe", "is_correct": false },
+        { "option_id": 4, "text": "Inversion", "is_correct": false }
+      ],
+      "answer": "Metaphor"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What figure of speech is used in 'Into that heaven of freedom, my Father, let my country awake'?",
+      "options": [
+        { "option_id": 1, "text": "Metaphor", "is_correct": false },
+        { "option_id": 2, "text": "Apostrophe", "is_correct": true },
+        { "option_id": 3, "text": "Simile", "is_correct": false },
+        { "option_id": 4, "text": "Alliteration", "is_correct": false }
+      ],
+      "answer": "Apostrophe"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The poem is written in which form?",
+      "options": [
+        { "option_id": 1, "text": "Sonnet", "is_correct": false },
+        { "option_id": 2, "text": "Free verse", "is_correct": true },
+        { "option_id": 3, "text": "Limerick", "is_correct": false },
+        { "option_id": 4, "text": "Ballad", "is_correct": false }
+      ],
+      "answer": "Free verse"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What does 'Quality of being patriotic: vigorous support for one's country' define?",
+      "options": [
+        { "option_id": 1, "text": "Liberalism", "is_correct": false },
+        { "option_id": 2, "text": "Patriotism", "is_correct": true },
+        { "option_id": 3, "text": "Humanism", "is_correct": false },
+        { "option_id": 4, "text": "Internationalism", "is_correct": false }
+      ],
+      "answer": "Patriotism"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What does 'Holding liberal views' define?",
+      "options": [
+        { "option_id": 1, "text": "Humanism", "is_correct": false },
+        { "option_id": 2, "text": "Patriotism", "is_correct": false },
+        { "option_id": 3, "text": "Liberalism", "is_correct": true },
+        { "option_id": 4, "text": "Environmentalism", "is_correct": false }
+      ],
+      "answer": "Liberalism"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is 'Ballad'?",
+      "options": [
+        { "option_id": 1, "text": "A short story poem with a message", "is_correct": true },
+        { "option_id": 2, "text": "A poem of 14 lines", "is_correct": false },
+        { "option_id": 3, "text": "A humorous poem", "is_correct": false },
+        { "option_id": 4, "text": "A long mythical story-poem", "is_correct": false }
+      ],
+      "answer": "A short story poem with a message"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What does 'Free verse' mean?",
+      "options": [
+        { "option_id": 1, "text": "A poem with aabba rhyme scheme", "is_correct": false },
+        { "option_id": 2, "text": "A poem with no uniformity of rhyme or rhythm", "is_correct": true },
+        { "option_id": 3, "text": "A poem set to music", "is_correct": false },
+        { "option_id": 4, "text": "A sad poem", "is_correct": false }
+      ],
+      "answer": "A poem with no uniformity of rhyme or rhythm"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What does the poet mean by 'head is held high'?",
+      "answer": "It means living with self-respect, dignity, and without fear."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Explain the phrase 'knowledge is free'.",
+      "answer": "It means education and knowledge should be accessible to all, irrespective of caste, class, or religion."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What are 'narrow domestic walls' according to the poem?",
+      "answer": "They are divisions in society based on caste, creed, religion, colour, or class."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What does 'tireless striving' mean?",
+      "answer": "It means continuous effort and struggle to achieve goals or perfection."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What is 'dead habit' compared to in the poem?",
+      "answer": "'Dead habit' is compared to the 'dreary desert sand'."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What does the 'clear stream' represent?",
+      "answer": "The 'clear stream' represents 'reason' or logical thinking."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What does 'dreary desert sand' represent?",
+      "answer": "It represents old, harmful traditions and customs that block progress."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Who is the poet addressing in the poem?",
+      "answer": "The poet is addressing God (The Almighty / Father)."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What kind of 'freedom' does the poet want for his country?",
+      "answer": "He wants a 'heaven of freedom' where there is no fear, knowledge is free, and people are rational and truthful."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What should words come out from?",
+      "answer": "Words should come out from the 'depth of truth'."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What does 'stretches its arms towards perfection' mean?",
+      "answer": "It means constantly aiming and working hard to achieve the highest level of excellence."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Why is the mind described as 'without fear'?",
+      "answer": "A fearless mind is essential for freedom, dignity, and expressing the truth."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is 'ever-widening thought and action'?",
+      "answer": "It refers to a progressive outlook where people's horizons and activities constantly expand and improve."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What country is the poet praying for?",
+      "answer": "The poet is praying for his country, India."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the rhyme scheme of the poem?",
+      "answer": "The poem is written in free verse, so it has no specific rhyme scheme."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'Where the world has not been broken up into fragments'.",
+      "answer": "Alliteration (repetition of 'w' and 'b' sounds)."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'Into the dreary desert sand of dead habit'.",
+      "answer": "Metaphor (habit compared to desert sand) and Alliteration ('d' sound)."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'Where tireless striving stretches its arms towards perfection'.",
+      "answer": "Personification (striving is given human quality of stretching arms)."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is 'Humanism'?",
+      "answer": "A rationalistic outlook towards humans rather than a divine or supernatural one."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is 'Internationalism'?",
+      "answer": "The state or process of being international."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is 'Environmentalism'?",
+      "answer": "Concern about and action aimed at protecting the environment."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Define 'Lyric' in the context of poems.",
+      "answer": "A song-like poem."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Define 'Humorous' poem.",
+      "answer": "A poem written just to create humour."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'fragment' in the poem?",
+      "answer": "A small part broken off or separated from something."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What happens when the 'stream of reason' loses its way?",
+      "answer": "People stop thinking logically and get stuck in harmful traditions (dead habit)."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How should the mind be led by God?",
+      "answer": "It should be led forward into ever-widening thought and action."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the expected situation for 'words' in the poem?",
+      "answer": "Words should come from the depth of truth (truthful speech)."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the present situation of 'habit' implied in the poem?",
+      "answer": "Habits are 'dead', meaning they are old, harmful rituals."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does the poet mean by 'let my country awake'?",
+      "answer": "He wants his countrymen to wake up from ignorance and slavery to a state of ideal freedom."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is the poem called a 'prayer'?",
+      "answer": "Because the poet is directly addressing God ('Thee', 'Father') and asking for guidance for his country."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the tone of the poem?",
+      "answer": "The tone is serious, patriotic, inspirational, and prayerful."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Who was the first non-European to win the Nobel Prize in Literature?",
+      "answer": "Rabindranath Tagore."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What period of Indian history does the poem reflect?",
+      "answer": "It reflects the period when India was under British rule and struggling for independence."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What effect does the repetition of the word 'Where' have?",
+      "answer": "It emphasizes the various qualities of the ideal nation the poet dreams of."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What should students keep themselves aloof from?",
+      "answer": "Students should keep themselves aloof from narrow-mindedness and sycophancy (implied from exercises)."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the social duty of every student?",
+      "answer": "To uproot narrow domestic walls (caste/class divisions) from society."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "When can everyone be literate?",
+      "answer": "When knowledge is free."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What can put a stop to dead habits?",
+      "answer": "Logical thinking and reasoning."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What leads to perfection?",
+      "answer": "Constant effort and strife (tireless striving)."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What does 'unbowed head' symbolize?",
+      "answer": "It symbolizes freedom and pride."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the central idea of the poem?",
+      "answer": "It is a prayer to God to guide India towards true freedom, covering social, intellectual, and spiritual aspects."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'Where the mind is led forward by Thee'.",
+      "answer": "Synecdoche (Mind represents the whole person/people)."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is 'Gitanjali'?",
+      "answer": "It is a collection (anthology) of poems by Rabindranath Tagore."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What does 'sincerity of heart' relate to in the poem?",
+      "answer": "It relates to words coming out from the 'depth of truth'."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which line indicates the poet's wish for unity?",
+      "answer": "'Where the world has not been broken up into fragments by narrow domestic walls'."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What does 'dreary' mean?",
+      "answer": "Dull, bleak, and lifeless."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'fear' mentioned in the poem?",
+      "answer": "Fearlessness or courage (Mind without fear)."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'perfection'?",
+      "answer": "Imperfection."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'widening'?",
+      "answer": "Narrowing."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What implies 'stagnation' in the poem?",
+      "answer": "'Dead habit' implies stagnation."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Write an appreciation of the poem 'Where the Mind is Without Fear...'.",
+      "answer": "The poem 'Where the Mind is Without Fear...' by Rabindranath Tagore is a prayer to God. It is taken from his Nobel Prize-winning anthology 'Gitanjali'. The poem is written in free verse without a specific rhyme scheme. The central idea is the poet's vision of an ideal India, not just free from British rule, but also from fear, ignorance, superstition, and division. Tagore uses metaphors like 'clear stream of reason' and 'dreary desert sand of dead habit' to contrast logic with harmful traditions. The tone is serious and inspirational. I like this poem because it is a timeless appeal for a progressive and united nation."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Explain the metaphors used in the poem.",
+      "answer": "Tagore uses strong metaphors to convey his message. 'Narrow domestic walls' metaphorically represents social divisions based on caste, creed, and religion that fragment the world. 'Clear stream of reason' compares logical thinking to a flowing river, signifying freshness and clarity. This is contrasted with 'dreary desert sand of dead habit', where 'dead habit' refers to outdated customs that dry up the flow of progress like sand absorbs a stream. These metaphors highlight the conflict between progressive thought and regressive tradition."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Describe the 'Heaven of Freedom' the poet dreams of.",
+      "answer": "The 'Heaven of Freedom' is Tagore's vision of an ideal state. In this heaven, the mind is fearless, and people have self-dignity ('head is held high'). Knowledge is free for all, not restricted by class. The society is united, not divided by 'narrow domestic walls'. People are truthful, and their words come from the heart. They strive tirelessly for perfection. Reason and logic prevail over superstitious habits. It is a place of dynamic progress ('ever-widening thought and action') guided by the Divine."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Why does the poet call 'habits' as 'dead'?",
+      "answer": "The poet calls habits 'dead' because blindly following old traditions without understanding their logic makes society stagnant. Like a dead thing, these habits have no life or progress in them. They block the 'clear stream of reason', preventing new ideas and growth. 'Dead habits' refer to superstitions and rituals that may have been relevant once but are now harmful and meaningless, turning the mind into a 'dreary desert'."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "How is the poem relevant to modern India?",
+      "answer": "Although written during the British rule, the poem remains highly relevant to modern India. We have achieved political freedom, but we are still fighting 'narrow domestic walls' of casteism, communalism, and regionalism. Superstitions ('dead habits') still exist in many parts of society. The plea for 'truth', 'tireless striving' for excellence, and 'free knowledge' is crucial for India's development today. The poem reminds us that true freedom lies in the mind and spirit, not just in governance."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Explain the line 'Where the world has not been broken up into fragments by narrow domestic walls'.",
+      "answer": "This line expresses Tagore's desire for unity and internationalism. 'Fragments' means pieces, implying a divided society. 'Narrow domestic walls' refer to the artificial barriers humans create, such as borders between countries, or internal divisions based on caste, religion, class, and colour. The poet wishes for a world where people are not separated by these prejudices but stand united as one humanity. It is a call against communalism and narrow-minded nationalism."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "What is the significance of the title 'Where the Mind is Without Fear...'?",
+      "answer": "The title, which is also the first line of the poem, sets the theme immediately. It emphasizes that fearlessness is the foundation of true freedom. If the mind is fearful—of oppressors, of society, or of speaking the truth—one cannot be truly free. The title suggests a state of mental liberation. It invites the reader to imagine a place where dignity and courage are paramount, which is the poet's prayer for his country."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Compose a short speech on 'India of my dreams' based on the poem's values.",
+      "answer": "Respected Principal, teachers, and friends, today I wish to speak on 'India of my dreams'. Inspired by Tagore, I dream of an India where every citizen walks with their head held high, free from fear and oppression. I dream of a nation where education is not a privilege but a right for all. I wish for an India where we are not divided by caste or religion but united as Indians. In my dream India, we value logic and science over superstition. We work hard to achieve perfection in every field. Let us pledge to build such a nation. Thank you."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Discuss the 'Warming Up' concepts: Humanism, Patriotism, and Internationalism.",
+      "answer": "The 'Warming Up' section introduces key concepts relevant to the poem. 'Humanism' is a rational outlook focusing on human value rather than the divine, emphasizing human potential. 'Patriotism' is the vigorous support for one's country, which Tagore displays in his prayer. 'Internationalism' is the belief in cooperation between nations. Tagore's poem blends patriotism (love for his country) with humanism (valuing reason and truth) and internationalism (breaking down narrow walls), showing they are interconnected values."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Compare 'Clear stream of reason' with 'Dreary desert sand of dead habit'.",
+      "answer": "The poet uses a contrast between a 'clear stream' and 'dreary desert sand'. The 'clear stream of reason' represents logical, fresh, and flowing thoughts that bring life and progress. It is dynamic and purifying. In contrast, 'dreary desert sand of dead habit' represents dry, lifeless, and unchanging customs. Just as sand absorbs and stops a stream, mindless rituals stop the flow of rational thinking. This contrast highlights the need to choose progress over stagnation."
+    }
+  ]
+}

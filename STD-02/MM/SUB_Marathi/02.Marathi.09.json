@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.09",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "हळूच ये, हळूच ये"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणाला ‘हळूच ये’ असे म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "वारा", "is_correct": false },
+        { "option_id": 2, "text": "पाऊस", "is_correct": true },
+        { "option_id": 3, "text": "सूर्य", "is_correct": false },
+        { "option_id": 4, "text": "चंद्र", "is_correct": false }
+      ],
+      "answer": "पाऊस"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पावसाला कसे यायला सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "जलद", "is_correct": false },
+        { "option_id": 2, "text": "मोठ्याने", "is_correct": false },
+        { "option_id": 3, "text": "हळूच", "is_correct": true },
+        { "option_id": 4, "text": "रागाने", "is_correct": false }
+      ],
+      "answer": "हळूच"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पाऊस कोणावर टपटप पडतो असे सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "फलकावर", "is_correct": false },
+        { "option_id": 2, "text": "शेतावर", "is_correct": false },
+        { "option_id": 3, "text": "छपरावर", "is_correct": true },
+        { "option_id": 4, "text": "रस्त्यावर", "is_correct": false }
+      ],
+      "answer": "छपरावर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पावसाच्या थेंबांचा आवाज कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोठा", "is_correct": false },
+        { "option_id": 2, "text": "ढणढण", "is_correct": false },
+        { "option_id": 3, "text": "टपटप", "is_correct": true },
+        { "option_id": 4, "text": "गडगड", "is_correct": false }
+      ],
+      "answer": "टपटप"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवितेतील लय कोणत्या गोष्टीशी जुळते?",
+      "options": [
+        { "option_id": 1, "text": "वाऱ्याशी", "is_correct": false },
+        { "option_id": 2, "text": "ढगांशी", "is_correct": false },
+        { "option_id": 3, "text": "पावसाच्या थेंबांशी", "is_correct": true },
+        { "option_id": 4, "text": "पानांशी", "is_correct": false }
+      ],
+      "answer": "पावसाच्या थेंबांशी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाऊस कसा पडावा असे कवीला वाटते?",
+      "options": [
+        { "option_id": 1, "text": "वादळासारखा", "is_correct": false },
+        { "option_id": 2, "text": "गारा घेऊन", "is_correct": false },
+        { "option_id": 3, "text": "हळुवार", "is_correct": true },
+        { "option_id": 4, "text": "मोठ्याने", "is_correct": false }
+      ],
+      "answer": "हळुवार"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणता ऋतू दाखवला आहे?",
+      "options": [
+        { "option_id": 1, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 2, "text": "ग्रीष्म", "is_correct": false },
+        { "option_id": 3, "text": "पावसाळा", "is_correct": true },
+        { "option_id": 4, "text": "वसंत", "is_correct": false }
+      ],
+      "answer": "पावसाळा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘हळूच’ हा शब्द कशासाठी वापरला आहे?",
+      "options": [
+        { "option_id": 1, "text": "वेगासाठी", "is_correct": false },
+        { "option_id": 2, "text": "आकारासाठी", "is_correct": false },
+        { "option_id": 3, "text": "क्रिया सौम्य दाखवण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "रंगासाठी", "is_correct": false }
+      ],
+      "answer": "क्रिया सौम्य दाखवण्यासाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पावसाळ्यात मुलांना काय करायला आवडते?",
+      "options": [
+        { "option_id": 1, "text": "घरात बसणे", "is_correct": false },
+        { "option_id": 2, "text": "खेळणे आणि पावसात भिजणे", "is_correct": true },
+        { "option_id": 3, "text": "झोपणे", "is_correct": false },
+        { "option_id": 4, "text": "भांडी धुणे", "is_correct": false }
+      ],
+      "answer": "खेळणे आणि पावसात भिजणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कवितेत पाऊस कोणत्या भावनेने बोलावला आहे?",
+      "options": [
+        { "option_id": 1, "text": "रागाने", "is_correct": false },
+        { "option_id": 2, "text": "दुःखाने", "is_correct": false },
+        { "option_id": 3, "text": "आनंदाने आणि प्रेमाने", "is_correct": true },
+        { "option_id": 4, "text": "भीतीने", "is_correct": false }
+      ],
+      "answer": "आनंदाने आणि प्रेमाने"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कवितेतील ‘टपटप’ हा कोणता शब्द आहे?",
+      "options": [
+        { "option_id": 1, "text": "नाम", "is_correct": false },
+        { "option_id": 2, "text": "सर्वनाम", "is_correct": false },
+        { "option_id": 3, "text": "अनुकरणीय शब्द", "is_correct": true },
+        { "option_id": 4, "text": "विशेषण", "is_correct": false }
+      ],
+      "answer": "अनुकरणीय शब्द"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाऊस का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "नदीसाठी", "is_correct": false },
+        { "option_id": 3, "text": "पिके आणि निसर्गासाठी", "is_correct": true },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पिके आणि निसर्गासाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कवितेत पावसाची हाक कशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "आज्ञा", "is_correct": false },
+        { "option_id": 2, "text": "विनंती", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "विनंती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवितेतून कोणती भावना जाणवते?",
+      "options": [
+        { "option_id": 1, "text": "राग", "is_correct": false },
+        { "option_id": 2, "text": "तणाव", "is_correct": false },
+        { "option_id": 3, "text": "आनंद आणि उत्सुकता", "is_correct": true },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "आनंद आणि उत्सुकता"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ही कविता प्रामुख्याने कोणत्या विषयावर आहे?",
+      "options": [
+        { "option_id": 1, "text": "शाळा", "is_correct": false },
+        { "option_id": 2, "text": "प्रवास", "is_correct": false },
+        { "option_id": 3, "text": "पाऊस आणि निसर्ग", "is_correct": true },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "पाऊस आणि निसर्ग"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवी पावसाला कसे येण्यास सांगतो?",
+      "answer": "कवी पावसाला ‘हळूच ये’ असे प्रेमाने सांगतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "‘टपटप’ या शब्दाचा अर्थ लिहा.",
+      "answer": "पावसाच्या हळुवार थेंबांचा आवाज."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कवितेतून कोणती भावना व्यक्त होते?",
+      "answer": "पावसाबद्दल प्रेम आणि आनंद."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पावसाळा मुलांसाठी का आवडता असतो?",
+      "answer": "कारण त्यांना पावसात खेळायला व भिजायला आवडते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कवितेतील दोन अनुकरणीय शब्द लिहा.",
+      "answer": "टपटप, हळूच."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पावसाचे दोन फायदे लिहा.",
+      "answer": "पिकांना पाणी मिळते आणि निसर्ग हिरवा होतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कवितेतील पाऊस कसा आहे?",
+      "answer": "हळुवार आणि शांत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेत पावसाला कोण हाक मारते?",
+      "answer": "कवी किंवा लहान मूल."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ही कविता आपल्याला काय शिकवते?",
+      "answer": "निसर्गाचा आनंद शांतपणे घ्यावा."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पावसाचा आवाज कसा असतो?",
+      "answer": "हळुवार टपटप असा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तुला पावसाळा का आवडतो?",
+      "answer": "कारण पाऊस थंडावा आणतो आणि मजा येते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवितेतला आवडलेला शब्द लिहा.",
+      "answer": "हळूच."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "निसर्गात पावसाचे स्थान काय?",
+      "answer": "पाऊस जीवनासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "‘हळूच’ या शब्दाचा विरुद्धार्थी शब्द लिहा.",
+      "answer": "जोरात / वेगात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कवितेतील एक ओळ अर्थासह लिहा.",
+      "answer": "‘हळूच ये’ — पावसाला प्रेमाने आणि शांतपणे येण्याची विनंती."
+    }
+  ]
+}

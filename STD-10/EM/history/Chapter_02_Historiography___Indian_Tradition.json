@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.History.02",
+    "standard": "10",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Historiography : Indian Tradition"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which script on Harappan seals has not yet been successfully deciphered?",
+      "options": [
+        { "option_id": 1, "text": "Brahmi", "is_correct": false },
+        { "option_id": 2, "text": "Harappan", "is_correct": true },
+        { "option_id": 3, "text": "Kharosthi", "is_correct": false },
+        { "option_id": 4, "text": "Devanagari", "is_correct": false }
+      ],
+      "answer": "Harappan"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The earliest known written documents of historical nature found in India are in the form of ________.",
+      "options": [
+        { "option_id": 1, "text": "Manuscripts", "is_correct": false },
+        { "option_id": 2, "text": "Copper plates", "is_correct": false },
+        { "option_id": 3, "text": "Inscriptions", "is_correct": true },
+        { "option_id": 4, "text": "Coins", "is_correct": false }
+      ],
+      "answer": "Inscriptions"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The Sohagaura Copper-plate was found in which state?",
+      "options": [
+        { "option_id": 1, "text": "Maharashtra", "is_correct": false },
+        { "option_id": 2, "text": "Uttar Pradesh", "is_correct": true },
+        { "option_id": 3, "text": "Bihar", "is_correct": false },
+        { "option_id": 4, "text": "Gujarat", "is_correct": false }
+      ],
+      "answer": "Uttar Pradesh"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Harshacharit', the biography of King Harsha?",
+      "options": [
+        { "option_id": 1, "text": "Kalhana", "is_correct": false },
+        { "option_id": 2, "text": "Banabhatta", "is_correct": true },
+        { "option_id": 3, "text": "Abul Fazl", "is_correct": false },
+        { "option_id": 4, "text": "Ziauddin Barani", "is_correct": false }
+      ],
+      "answer": "Banabhatta"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which book written by Kalhana is the history of Kashmir?",
+      "options": [
+        { "option_id": 1, "text": "Rajtarangini", "is_correct": true },
+        { "option_id": 2, "text": "Akbarnama", "is_correct": false },
+        { "option_id": 3, "text": "Tuzuk-i-Babari", "is_correct": false },
+        { "option_id": 4, "text": "Harshacharit", "is_correct": false }
+      ],
+      "answer": "Rajtarangini"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who wrote the book 'Tarikh-i-Phiruz Shahi'?",
+      "options": [
+        { "option_id": 1, "text": "Alberuni", "is_correct": false },
+        { "option_id": 2, "text": "Ziauddin Barani", "is_correct": true },
+        { "option_id": 3, "text": "Amir Khusrau", "is_correct": false },
+        { "option_id": 4, "text": "Hasan Nizami", "is_correct": false }
+      ],
+      "answer": "Ziauddin Barani"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Tuzuk-i-Babari'?",
+      "options": [
+        { "option_id": 1, "text": "Akbar", "is_correct": false },
+        { "option_id": 2, "text": "Babur", "is_correct": true },
+        { "option_id": 3, "text": "Jahangir", "is_correct": false },
+        { "option_id": 4, "text": "Aurangzeb", "is_correct": false }
+      ],
+      "answer": "Babur"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which text is written by Abul Fazl?",
+      "options": [
+        { "option_id": 1, "text": "Tajul-Ma'asir", "is_correct": false },
+        { "option_id": 2, "text": "Akbarnama", "is_correct": true },
+        { "option_id": 3, "text": "Tuzuk-i-Timuri", "is_correct": false },
+        { "option_id": 4, "text": "Padmavat", "is_correct": false }
+      ],
+      "answer": "Akbarnama"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is an important type of historical document of medieval times?",
+      "options": [
+        { "option_id": 1, "text": "Novel", "is_correct": false },
+        { "option_id": 2, "text": "Bakhar", "is_correct": true },
+        { "option_id": 3, "text": "Gazetteer", "is_correct": false },
+        { "option_id": 4, "text": "Short Story", "is_correct": false }
+      ],
+      "answer": "Bakhar"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Sabhasad Bakhar'?",
+      "options": [
+        { "option_id": 1, "text": "Krishnaji Anant Sabhasad", "is_correct": true },
+        { "option_id": 2, "text": "Malhar Ramrao Chitnis", "is_correct": false },
+        { "option_id": 3, "text": "Dattaji Trimbak", "is_correct": false },
+        { "option_id": 4, "text": "Bhausaheb", "is_correct": false }
+      ],
+      "answer": "Krishnaji Anant Sabhasad"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was the first Director General of the Archaeological Survey of India?",
+      "options": [
+        { "option_id": 1, "text": "John Marshall", "is_correct": false },
+        { "option_id": 2, "text": "Alexander Cunningham", "is_correct": true },
+        { "option_id": 3, "text": "William Jones", "is_correct": false },
+        { "option_id": 4, "text": "James Mill", "is_correct": false }
+      ],
+      "answer": "Alexander Cunningham"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Harappan Civilisation was discovered during the tenure of ________.",
+      "options": [
+        { "option_id": 1, "text": "Sir John Marshall", "is_correct": true },
+        { "option_id": 2, "text": "Colonel Todd", "is_correct": false },
+        { "option_id": 3, "text": "Grant Duff", "is_correct": false },
+        { "option_id": 4, "text": "Mountstuart Elphinstone", "is_correct": false }
+      ],
+      "answer": "Sir John Marshall"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who wrote 'The History of British India'?",
+      "options": [
+        { "option_id": 1, "text": "James Mill", "is_correct": true },
+        { "option_id": 2, "text": "James Grant Duff", "is_correct": false },
+        { "option_id": 3, "text": "Mountstuart Elphinstone", "is_correct": false },
+        { "option_id": 4, "text": "William Wilson Hunter", "is_correct": false }
+      ],
+      "answer": "James Mill"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who wrote 'The History of India'?",
+      "options": [
+        { "option_id": 1, "text": "James Mill", "is_correct": false },
+        { "option_id": 2, "text": "Mountstuart Elphinstone", "is_correct": true },
+        { "option_id": 3, "text": "Colonel Todd", "is_correct": false },
+        { "option_id": 4, "text": "William Jones", "is_correct": false }
+      ],
+      "answer": "Mountstuart Elphinstone"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who wrote 'A History of the Mahrattas'?",
+      "options": [
+        { "option_id": 1, "text": "Grant Duff", "is_correct": true },
+        { "option_id": 2, "text": "James Mill", "is_correct": false },
+        { "option_id": 3, "text": "S.A. Dange", "is_correct": false },
+        { "option_id": 4, "text": "Ranjit Guha", "is_correct": false }
+      ],
+      "answer": "Grant Duff"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who founded the Asiatic Society in Kolkata?",
+      "options": [
+        { "option_id": 1, "text": "Sir William Jones", "is_correct": true },
+        { "option_id": 2, "text": "Max Muller", "is_correct": false },
+        { "option_id": 3, "text": "Alexander Cunningham", "is_correct": false },
+        { "option_id": 4, "text": "Lord Curzon", "is_correct": false }
+      ],
+      "answer": "Sir William Jones"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who translated the Sanskrit text of 'Hitopadesh' into German?",
+      "options": [
+        { "option_id": 1, "text": "William Jones", "is_correct": false },
+        { "option_id": 2, "text": "Friedrich Max Muller", "is_correct": true },
+        { "option_id": 3, "text": "Edward Said", "is_correct": false },
+        { "option_id": 4, "text": "James Mill", "is_correct": false }
+      ],
+      "answer": "Friedrich Max Muller"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who compiled and edited 22 volumes of 'Marathyanchya Itihasachi Sadhane'?",
+      "options": [
+        { "option_id": 1, "text": "V.K. Rajwade", "is_correct": true },
+        { "option_id": 2, "text": "V.D. Savarkar", "is_correct": false },
+        { "option_id": 3, "text": "G.S. Sardesai", "is_correct": false },
+        { "option_id": 4, "text": "Tarabai Shinde", "is_correct": false }
+      ],
+      "answer": "V.K. Rajwade"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who wrote 'The Indian War of Independence, 1857'?",
+      "options": [
+        { "option_id": 1, "text": "Mahatma Gandhi", "is_correct": false },
+        { "option_id": 2, "text": "Vinayak Damodar Savarkar", "is_correct": true },
+        { "option_id": 3, "text": "Subhash Chandra Bose", "is_correct": false },
+        { "option_id": 4, "text": "Jawaharlal Nehru", "is_correct": false }
+      ],
+      "answer": "Vinayak Damodar Savarkar"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who wrote the book 'Primitive Communism to Slavery'?",
+      "options": [
+        { "option_id": 1, "text": "Comrade S.A. Dange", "is_correct": true },
+        { "option_id": 2, "text": "D.D. Kosambi", "is_correct": false },
+        { "option_id": 3, "text": "R.S. Sharma", "is_correct": false },
+        { "option_id": 4, "text": "Sharad Patil", "is_correct": false }
+      ],
+      "answer": "Comrade S.A. Dange"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who played a major role in establishing Subaltern History?",
+      "options": [
+        { "option_id": 1, "text": "Ranjit Guha", "is_correct": true },
+        { "option_id": 2, "text": "Antonio Gramsci", "is_correct": false },
+        { "option_id": 3, "text": "Karl Marx", "is_correct": false },
+        { "option_id": 4, "text": "Georg Hegel", "is_correct": false }
+      ],
+      "answer": "Ranjit Guha"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Gulamgiri'?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Babasaheb Ambedkar", "is_correct": false },
+        { "option_id": 2, "text": "Mahatma Jyotirao Phule", "is_correct": true },
+        { "option_id": 3, "text": "Tarabai Shinde", "is_correct": false },
+        { "option_id": 4, "text": "Pandita Ramabai", "is_correct": false }
+      ],
+      "answer": "Mahatma Jyotirao Phule"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who wrote the book 'Who Were the Shudras'?",
+      "options": [
+        { "option_id": 1, "text": "Mahatma Phule", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Babasaheb Ambedkar", "is_correct": true },
+        { "option_id": 3, "text": "Periyar", "is_correct": false },
+        { "option_id": 4, "text": "Narayan Guru", "is_correct": false }
+      ],
+      "answer": "Dr. Babasaheb Ambedkar"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Stripurush Tulana'?",
+      "options": [
+        { "option_id": 1, "text": "Pandita Ramabai", "is_correct": false },
+        { "option_id": 2, "text": "Tarabai Shinde", "is_correct": true },
+        { "option_id": 3, "text": "Savitribai Phule", "is_correct": false },
+        { "option_id": 4, "text": "Meera Kosambi", "is_correct": false }
+      ],
+      "answer": "Tarabai Shinde"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who wrote 'The High Caste Hindu Woman'?",
+      "options": [
+        { "option_id": 1, "text": "Tarabai Shinde", "is_correct": false },
+        { "option_id": 2, "text": "Pandita Ramabai", "is_correct": true },
+        { "option_id": 3, "text": "Dr. Rukhamabai", "is_correct": false },
+        { "option_id": 4, "text": "Meera Kosambi", "is_correct": false }
+      ],
+      "answer": "Pandita Ramabai"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which book is written by Govind Sakharam Sardesai?",
+      "options": [
+        { "option_id": 1, "text": "Marathi Riyasat", "is_correct": true },
+        { "option_id": 2, "text": "Marathyanchya Itihasachi Sadhane", "is_correct": false },
+        { "option_id": 3, "text": "Panipatachi Bakhar", "is_correct": false },
+        { "option_id": 4, "text": "Gulamgiri", "is_correct": false }
+      ],
+      "answer": "Marathi Riyasat"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The 'Rise of Maratha Power' was written by ________.",
+      "options": [
+        { "option_id": 1, "text": "Justice Mahadev Govind Ranade", "is_correct": true },
+        { "option_id": 2, "text": "V.K. Rajwade", "is_correct": false },
+        { "option_id": 3, "text": "V.D. Savarkar", "is_correct": false },
+        { "option_id": 4, "text": "G.S. Sardesai", "is_correct": false }
+      ],
+      "answer": "Justice Mahadev Govind Ranade"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which historian wrote 'Crossing Thresholds: Feminist Essays in Social History'?",
+      "options": [
+        { "option_id": 1, "text": "Meera Kosambi", "is_correct": true },
+        { "option_id": 2, "text": "Sharmila Rege", "is_correct": false },
+        { "option_id": 3, "text": "Tarabai Shinde", "is_correct": false },
+        { "option_id": 4, "text": "Pandita Ramabai", "is_correct": false }
+      ],
+      "answer": "Meera Kosambi"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who founded 'Bharat Itihas Samshodhak Mandal'?",
+      "options": [
+        { "option_id": 1, "text": "V.K. Rajwade", "is_correct": true },
+        { "option_id": 2, "text": "V.D. Savarkar", "is_correct": false },
+        { "option_id": 3, "text": "Lokmanya Tilak", "is_correct": false },
+        { "option_id": 4, "text": "G.S. Sardesai", "is_correct": false }
+      ],
+      "answer": "V.K. Rajwade"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Subaltern history means history of the ________.",
+      "options": [
+        { "option_id": 1, "text": "Kings", "is_correct": false },
+        { "option_id": 2, "text": "Elite class", "is_correct": false },
+        { "option_id": 3, "text": "Bottommost ranks", "is_correct": true },
+        { "option_id": 4, "text": "Middle class", "is_correct": false }
+      ],
+      "answer": "Bottommost ranks"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The custom of adding suitable poetic quotes and pictures in historical writings was introduced by ________.",
+      "options": [
+        { "option_id": 1, "text": "Mughal historians", "is_correct": true },
+        { "option_id": 2, "text": "British historians", "is_correct": false },
+        { "option_id": 3, "text": "Maratha historians", "is_correct": false },
+        { "option_id": 4, "text": "Ancient historians", "is_correct": false }
+      ],
+      "answer": "Mughal historians"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT an example of Colonial Historiography?",
+      "options": [
+        { "option_id": 1, "text": "The History of British India", "is_correct": false },
+        { "option_id": 2, "text": "A History of the Mahrattas", "is_correct": false },
+        { "option_id": 3, "text": "The Indian War of Independence 1857", "is_correct": true },
+        { "option_id": 4, "text": "Cambridge History of India", "is_correct": false }
+      ],
+      "answer": "The Indian War of Independence 1857"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who translated Rigveda into German?",
+      "options": [
+        { "option_id": 1, "text": "Max Muller", "is_correct": true },
+        { "option_id": 2, "text": "William Jones", "is_correct": false },
+        { "option_id": 3, "text": "James Mill", "is_correct": false },
+        { "option_id": 4, "text": "Grant Duff", "is_correct": false }
+      ],
+      "answer": "Max Muller"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which scholar re-evaluated Orientalist writings and threw light on imperialistic interests?",
+      "options": [
+        { "option_id": 1, "text": "Edward Said", "is_correct": true },
+        { "option_id": 2, "text": "Ranjit Guha", "is_correct": false },
+        { "option_id": 3, "text": "Karl Marx", "is_correct": false },
+        { "option_id": 4, "text": "Michel Foucault", "is_correct": false }
+      ],
+      "answer": "Edward Said"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Vishnushastri Chiplunkar inspired which type of historiography in Maharashtra?",
+      "options": [
+        { "option_id": 1, "text": "Colonial", "is_correct": false },
+        { "option_id": 2, "text": "Nationalistic", "is_correct": true },
+        { "option_id": 3, "text": "Marxist", "is_correct": false },
+        { "option_id": 4, "text": "Subaltern", "is_correct": false }
+      ],
+      "answer": "Nationalistic"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of these is a book by Dr. Babasaheb Ambedkar?",
+      "options": [
+        { "option_id": 1, "text": "The Untouchables", "is_correct": true },
+        { "option_id": 2, "text": "Gulamgiri", "is_correct": false },
+        { "option_id": 3, "text": "Discovery of India", "is_correct": false },
+        { "option_id": 4, "text": "My Experiments with Truth", "is_correct": false }
+      ],
+      "answer": "The Untouchables"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Writing Caste, Writing Gender: Reading Dalit Women's Testimonies'?",
+      "options": [
+        { "option_id": 1, "text": "Sharmila Rege", "is_correct": true },
+        { "option_id": 2, "text": "Meera Kosambi", "is_correct": false },
+        { "option_id": 3, "text": "Tarabai Shinde", "is_correct": false },
+        { "option_id": 4, "text": "Pandita Ramabai", "is_correct": false }
+      ],
+      "answer": "Sharmila Rege"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Bhausahebanchi Bakhar describes which battle?",
+      "options": [
+        { "option_id": 1, "text": "Battle of Plassey", "is_correct": false },
+        { "option_id": 2, "text": "Battle of Panipat", "is_correct": true },
+        { "option_id": 3, "text": "Battle of Haldighati", "is_correct": false },
+        { "option_id": 4, "text": "Battle of Buxar", "is_correct": false }
+      ],
+      "answer": "Battle of Panipat"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Holkaranchi Kaiphiyat'?",
+      "options": [
+        { "option_id": 1, "text": "It is a Bakhar about Holkars", "is_correct": true },
+        { "option_id": 2, "text": "It is a Bakhar about Bhosales", "is_correct": false },
+        { "option_id": 3, "text": "It is a Bakhar about Peshwas", "is_correct": false },
+        { "option_id": 4, "text": "It is a Bakhar about Shindes", "is_correct": false }
+      ],
+      "answer": "It is a Bakhar about Holkars"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which historian wrote without embracing a particular ideology?",
+      "options": [
+        { "option_id": 1, "text": "Sir Jadunath Sarkar", "is_correct": true },
+        { "option_id": 2, "text": "Comrade Dange", "is_correct": false },
+        { "option_id": 3, "text": "Ranjit Guha", "is_correct": false },
+        { "option_id": 4, "text": "James Mill", "is_correct": false }
+      ],
+      "answer": "Sir Jadunath Sarkar"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "From which century did inscriptions begin to occur on copper plates?",
+      "options": [
+        { "option_id": 1, "text": "1st century C.E.", "is_correct": true },
+        { "option_id": 2, "text": "3rd century B.C.E.", "is_correct": false },
+        { "option_id": 3, "text": "5th century C.E.", "is_correct": false },
+        { "option_id": 4, "text": "10th century C.E.", "is_correct": false }
+      ],
+      "answer": "1st century C.E."
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which script is used in the Sohagaura Copper-plate?",
+      "options": [
+        { "option_id": 1, "text": "Brahmi", "is_correct": true },
+        { "option_id": 2, "text": "Kharosthi", "is_correct": false },
+        { "option_id": 3, "text": "Devanagari", "is_correct": false },
+        { "option_id": 4, "text": "Persian", "is_correct": false }
+      ],
+      "answer": "Brahmi"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Alberuni wrote in which language?",
+      "options": [
+        { "option_id": 1, "text": "Persian", "is_correct": false },
+        { "option_id": 2, "text": "Arabic", "is_correct": true },
+        { "option_id": 3, "text": "Urdu", "is_correct": false },
+        { "option_id": 4, "text": "Turkish", "is_correct": false }
+      ],
+      "answer": "Arabic"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "The symbol 'Tree-in-railing' is found on which artifact?",
+      "options": [
+        { "option_id": 1, "text": "Sohagaura Copper-plate", "is_correct": true },
+        { "option_id": 2, "text": "Ashoka's Pillar", "is_correct": false },
+        { "option_id": 3, "text": "Taj Mahal", "is_correct": false },
+        { "option_id": 4, "text": "Qutub Minar", "is_correct": false }
+      ],
+      "answer": "Sohagaura Copper-plate"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Tarikh-i-Mubarakshahi'?",
+      "options": [
+        { "option_id": 1, "text": "Yahya Bin Ahmad Sirhindi", "is_correct": true },
+        { "option_id": 2, "text": "Minhaj-i-Siraj", "is_correct": false },
+        { "option_id": 3, "text": "Hasan Nizami", "is_correct": false },
+        { "option_id": 4, "text": "Ibn Battuta", "is_correct": false }
+      ],
+      "answer": "Yahya Bin Ahmad Sirhindi"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which foreign traveller visited India during the medieval period?",
+      "options": [
+        { "option_id": 1, "text": "Megasthenes", "is_correct": false },
+        { "option_id": 2, "text": "Ibn Battuta", "is_correct": true },
+        { "option_id": 3, "text": "Fa-Hien", "is_correct": false },
+        { "option_id": 4, "text": "Hiuen Tsang", "is_correct": false }
+      ],
+      "answer": "Ibn Battuta"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which ideology influenced the historians in the courts of Muslim rulers?",
+      "options": [
+        { "option_id": 1, "text": "Arabic and Persian", "is_correct": true },
+        { "option_id": 2, "text": "Greek and Roman", "is_correct": false },
+        { "option_id": 3, "text": "Chinese and Japanese", "is_correct": false },
+        { "option_id": 4, "text": "English and French", "is_correct": false }
+      ],
+      "answer": "Arabic and Persian"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who founded the Indian Communist Party?",
+      "options": [
+        { "option_id": 1, "text": "Comrade Dange", "is_correct": true },
+        { "option_id": 2, "text": "Mahatma Gandhi", "is_correct": false },
+        { "option_id": 3, "text": "Jawaharlal Nehru", "is_correct": false },
+        { "option_id": 4, "text": "Sardar Patel", "is_correct": false }
+      ],
+      "answer": "Comrade Dange"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The concept of 'Subaltern History' was developed by ________.",
+      "options": [
+        { "option_id": 1, "text": "Antonio Gramsci", "is_correct": true },
+        { "option_id": 2, "text": "Karl Marx", "is_correct": false },
+        { "option_id": 3, "text": "Rene Descartes", "is_correct": false },
+        { "option_id": 4, "text": "Voltaire", "is_correct": false }
+      ],
+      "answer": "Antonio Gramsci"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The work of Dr. Sharmila Rege is associated with ________.",
+      "options": [
+        { "option_id": 1, "text": "Dalit Women's History", "is_correct": true },
+        { "option_id": 2, "text": "Colonial History", "is_correct": false },
+        { "option_id": 3, "text": "Orientalist History", "is_correct": false },
+        { "option_id": 4, "text": "Maratha History", "is_correct": false }
+      ],
+      "answer": "Dalit Women's History"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "How were historical memories preserved in the ancient period in India?",
+      "answer": "They were preserved with the help of oral recitals."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "When did Indians master the art of writing?",
+      "answer": "Indians mastered the art of writing as early as the third millennium B.C.E."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are the earliest known written documents in India?",
+      "answer": "The earliest known written documents are inscriptions from the 3rd century B.C.E."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Whose edicts are inscribed on natural rocks and stone pillars?",
+      "answer": "Emperor Ashok Maurya's edicts are inscribed on natural rocks and stone pillars."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Where was the Sohagaura Copper-plate found?",
+      "answer": "It was found at Sohagaura, District Gorakhpur, Uttar Pradesh."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What does the inscription on the Sohagaura Copper-plate record?",
+      "answer": "It records a royal order about the careful distribution of grains stored in the granary."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the importance of 'Harshacharit'?",
+      "answer": "It portrays a realistic picture of the social, economic, political, religious, and cultural life of King Harsha's times."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which book did Kalhana write?",
+      "answer": "Kalhana wrote 'Rajtarangini', the history of Kashmir."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How did Kalhana write his text?",
+      "answer": "He wrote it after critically examining inscriptions, coins, monuments, records, and local traditions."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Who was Ziauddin Barani?",
+      "answer": "Ziauddin Barani was a historian in the court of Muslim rulers who wrote 'Tarikh-i-Phiruz Shahi'."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What did Barani say about a historian's duty?",
+      "answer": "He said a historian should write about both the ruler's valour/welfare policies and their failings/incorrect policies."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What did Babur record in his autobiography?",
+      "answer": "He recorded battle descriptions and observations of regions, cities, economy, customs, and flora."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is 'Akbarnama' important?",
+      "answer": "It is important because Abul Fazl's method of collecting authentic documents is considered realistic and unbiased."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is a 'Bakhar'?",
+      "answer": "Bakhar is a type of historical document from medieval times containing eulogies and stories of events and battles."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Who wrote 'Sabhasad Bakhar'?",
+      "answer": "Krishnaji Anant Sabhasad wrote it during the reign of Chhatrapati Rajaram Maharaj."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does 'Bhausahebanchi Bakhar' describe?",
+      "answer": "It describes the Battle of Panipat."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "When did Indian archaeological exploration start?",
+      "answer": "It started in the 20th century under British rule."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Who discovered the Harappan Civilisation?",
+      "answer": "It was discovered during the tenure of Sir John Marshall."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Who wrote 'The History of British India'?",
+      "answer": "James Mill wrote 'The History of British India'."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What does James Mill's writing reflect?",
+      "answer": "It reflects an absence of objective perspective and prejudice about Indian culture."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who wrote 'The History of India'?",
+      "answer": "Mountstuart Elphinstone, Governor of Bombay, wrote it."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What did Grant Duff write?",
+      "answer": "Grant Duff wrote 'A History of the Mahrattas'."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Who exposed the limitations of Grant Duff's writings?",
+      "answer": "Nilkanth Janardan Kirtane and V.K. Rajwade exposed his limitations."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is 'Colonial Historiography'?",
+      "answer": "It refers to history written by British officers and missionaries, often justifying colonial rule and ridiculing Indian culture."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is 'Orientalist Historiography'?",
+      "answer": "It refers to writings by European scholars who had curiosity, admiration, and respect for Eastern civilizations."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Who founded the Asiatic Society?",
+      "answer": "Sir William Jones founded the Asiatic Society in Kolkata in 1784."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What was Friedrich Max Muller's opinion on Sanskrit?",
+      "answer": "He believed Sanskrit was the most ancient language of the Indo-European languages."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What did Edward Said say about Orientalist scholars?",
+      "answer": "He threw light on the imperialistic interests of Orientalist scholars."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is 'Nationalistic Historiography'?",
+      "answer": "It refers to writings by Indian historians aiming to restore pride in India's ancient glory and self-esteem."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Who inspired nationalistic writings in Maharashtra?",
+      "answer": "Vishnushastri Chiplunkar inspired nationalistic writings in Maharashtra."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What did Justice M.G. Ranade explain in his book?",
+      "answer": "He explained the background of the rise of Maratha power, stating it wasn't a sudden event."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What was V.K. Rajwade's opinion on writing history?",
+      "answer": "He firmly believed that we should write our own history using authentic documents."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What did Rajwade compile?",
+      "answer": "He compiled and edited 22 volumes of 'Marathyanchya Itihasachi Sadhane'."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What institution did Rajwade found?",
+      "answer": "He founded 'Bharat Itihas Samshodhak Mandal' in Pune in 1910."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is V.D. Savarkar's book important?",
+      "answer": "His book 'The Indian War of Independence, 1857' helped trigger the independence movement."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What are the three main ideological schools of post-independence historiography?",
+      "answer": "They are Marxist History, Subaltern History, and Feminist History."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the focus of Marxist History?",
+      "answer": "It focuses on the means of production, modes of production, and industrial relations."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Name two Indian Marxist historians.",
+      "answer": "Damodar Dharmanand Kosambi and Comrade Shripad Amrut Dange are Marxist historians."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is 'Subaltern History'?",
+      "answer": "It is the history written starting from the bottommost ranks of people in the society."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Who played a major role in establishing Subaltern History?",
+      "answer": "Ranjit Guha played a major role in establishing Subaltern History."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What did Mahatma Phule write in 'Gulamgiri'?",
+      "answer": "He unfolded the history of the 'shudratishudra' communities and drew attention to their exploitation."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Name two books by Dr. Babasaheb Ambedkar on subaltern history.",
+      "answer": "'Who Were the Shudras' and 'The Untouchables' are two such books."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why was Feminist History important?",
+      "answer": "It was important because women's role in history had been neglected by male scholars."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who was Tarabai Shinde?",
+      "answer": "She was a woman author who wrote 'Stripurush Tulana', attacking the male-dominated social system."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is 'Stripurush Tulana' acknowledged as?",
+      "answer": "It is acknowledged as the first feminist book in India."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What did Pandita Ramabai write?",
+      "answer": "She wrote 'The High Caste Hindu Woman'."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What does Meera Kosambi's book contain?",
+      "answer": "It contains essays on the lives of women like Pandita Ramabai and Dr. Rukhamabai."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is Dr. Sharmila Rege's work about?",
+      "answer": "Her work focuses on the history and autobiographies of Dalit women."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Who was known as 'Riyasatkar'?",
+      "answer": "Govind Sakharam Sardesai was known as 'Riyasatkar'."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the achievement of G.S. Sardesai?",
+      "answer": "He published several volumes of Maratha history titled 'Marathi Riyasat'."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Explain the tradition of historiography in the ancient period in India.",
+      "answer": "In ancient India, history was preserved through oral recitals of ancestor's deeds and mythology. Harappan inscriptions show writing existed early but isn't deciphered. The earliest written documents are Ashokan inscriptions on rocks and pillars from the 3rd century B.C.E. Later, inscriptions on coins, metal images, and copper plates provided information about kings, dates, and administration. Ancient literature like epics and Puranas also served as sources."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Describe the Sohagaura Copper-plate.",
+      "answer": "The Sohagaura Copper-plate was found in Uttar Pradesh and is from the Mauryan period. It has an inscription in Brahmi script. It features symbols like 'Tree-in-railing' and 'Mountain'. A structure on four pillars indicates a granary. The inscription records a royal order to distribute stored grains carefully, suggesting precautions against famine."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "What was the style of historiography in the medieval period?",
+      "answer": "Medieval historiography was influenced by Arabic and Persian styles used in Muslim courts. Kalhana's 'Rajtarangini' in the 12th century was a critical text examining various sources. Historians like Ziauddin Barani defined the purpose of history to include both rulers' successes and failings. Mughal historians focused on praising emperors, often adding poetry and pictures. Babur's autobiography and Abul Fazl's 'Akbarnama' are key examples."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Explain the contribution of Ziauddin Barani to historiography.",
+      "answer": "Ziauddin Barani wrote 'Tarikh-i-Phiruz Shahi' and expanded the scope of historiography. He believed a historian's duty wasn't just to praise rulers but to critique their failings and incorrect policies. He also emphasized the need to write about the impact of saints, the learned, and the wise on society. He broadened history to include the cultural life of the people."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "What is 'Bakhar' and why is it important?",
+      "answer": "'Bakhar' is a type of historical document from medieval Marathi literature. It contains eulogies of heroes and stories of historic events, battles, and great men. There are various types like Sabhasad Bakhar (about Shivaji Maharaj), Bhausahebanchi Bakhar (about Panipat), etc. They are important sources for understanding the Maratha rule and history, though some may lack critical analysis."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Discuss the characteristics of Colonial Historiography.",
+      "answer": "Colonial Historiography was written mainly by British officers and missionaries. It often reflected prejudice against Indian culture, ridiculing it to justify British rule. Examples include James Mill's 'The History of British India', which lacked objectivity. Grant Duff's history of Marathas also showed a tendency to condemn Indian culture. These writings supported the colonial narrative."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "What was the Orientalist perspective on Indian history?",
+      "answer": "Orientalist scholars were Europeans curious about and admiring of Eastern civilizations. They studied Sanskrit and its links to European languages. William Jones founded the Asiatic Society to research ancient Indian literature. Max Muller translated Sanskrit texts like Hitopadesh and Rigveda. While they respected the culture, scholars like Edward Said later pointed out their hidden imperialistic interests."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Explain the rise and purpose of Nationalistic Historiography.",
+      "answer": "Nationalistic Historiography arose among Indian historians trained in the British system who wanted to restore pride in India's ancient glory. Inspired by Vishnushastri Chiplunkar, they criticized prejudiced British history. Historians like V.D. Savarkar and M.G. Ranade wrote to boost self-esteem and trigger the independence movement. They sought to present a golden era of Indian history, sometimes ignoring critical analysis."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Describe the contribution of V.K. Rajwade to historiography.",
+      "answer": "V.K. Rajwade was a staunch advocate of writing India's history using authentic local sources. He founded the 'Bharat Itihas Samshodhak Mandal' and compiled 22 volumes of Maratha history. He insisted on using only authentic documents. He defined history as the all-inclusive image of past societies, not just political events. He emphasized the importance of Time, Space, and Personalities in history."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "What is Marxist Historiography in the Indian context?",
+      "answer": "Marxist historiography focuses on the means and modes of production and industrial relations. Indian Marxist historians like D.D. Kosambi and S.A. Dange studied social transitions and the caste system through this lens. Dange's book 'Primitive Communism to Slavery' is a key example. They analyzed the impact of social events on the common people and economic structures."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "Explain the concept of Subaltern History.",
+      "answer": "Subaltern History is the history of the bottommost ranks of society. Seeds of this were found in Marxist history and developed by Antonio Gramsci and Ranjit Guha. It uses folklore as a source. In India, Mahatma Phule and Dr. Ambedkar wrote subaltern histories (e.g., Gulamgiri, Who Were the Shudras), highlighting the exploitation of lower castes and women."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "What is Feminist Historiography and who were its key contributors?",
+      "answer": "Feminist Historiography focuses on the role and achievements of women, which were previously neglected. It involves studying women's writings and rethinking their position in history. Key contributors include Tarabai Shinde (Stripurush Tulana), Pandita Ramabai (The High Caste Hindu Woman), and later scholars like Meera Kosambi and Sharmila Rege who highlighted issues of employment, treatment, and caste."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Discuss the work of Mahatma Phule in historiography.",
+      "answer": "Mahatma Jyotirao Phule wrote 'Gulamgiri', unfolding the history of the 'shudratishudra' communities. He criticized the exploitation of women and lower castes under the name of religion. He drew attention to the role of these communities in shaping India's culture, which was ignored in other historiographies. His work is a precursor to subaltern history."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "What were Dr. Babasaheb Ambedkar's views on history?",
+      "answer": "Dr. Ambedkar focused on the fact that the role of Dalit castes was not acknowledged in colonial or nationalistic history. He consistently wrote about the history of the downtrodden. His books 'Who Were the Shudras' and 'The Untouchables' analyze the caste system and the history of marginalized groups, serving as prime examples of subaltern history."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Explain the significance of the book 'The Indian War of Independence, 1857'.",
+      "answer": "Written by Vinayak Damodar Savarkar, this book is significant in Nationalistic Historiography. It reinterpreted the 1857 event not as a mere mutiny (as British historians claimed) but as the first war of independence. It helped trigger the independence movement by restoring national pride. It provided a momentum to writing regional histories as well."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "How did the British archaeological exploration influence Indian history?",
+      "answer": "British archaeological exploration, led by Alexander Cunningham and John Marshall, uncovered ancient sites like Harappa. This pushed the antiquity of Indian history back to the 3rd millennium B.C.E. It provided material evidence for ancient civilizations, moving beyond just literary sources. It laid the foundation for a more scientific understanding of India's past."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "What are the various types of Bakhars?",
+      "answer": "Bakhars are divided into various types based on their content. Some are biographies of kings (e.g., Sabhasad Bakhar). Others focus on specific events like battles (e.g., Bhausahebanchi Bakhar). There are also bakhars about dynastic history, history of a sect, autobiographies, mythologies, and state administration (e.g., Rajniti). They serve as important medieval resources."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "Discuss the writing style of Tarabai Shinde.",
+      "answer": "Tarabai Shinde was a pioneering feminist writer. In her book 'Stripurush Tulana' (1882), she fiercely attacked the male-dominated social system and the caste system. Her writing was bold and critical of the patriarchal norms of her time. It is acknowledged as the first feminist book in India, highlighting the grievances of women."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "What is the contribution of Govind Sakharam Sardesai?",
+      "answer": "Govind Sakharam Sardesai, known as 'Riyasatkar', dedicated his life to compiling Maratha history. He published 'Marathi Riyasat' in several volumes. His work was a momentous achievement that provided a detailed and structured account of Maratha history. He is counted among the historians who wrote without embracing a specific ideology."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Explain the transition from Colonial to Post-Independence Historiography.",
+      "answer": "Colonial historiography justified British rule and prejudiced Indian culture. Nationalistic historiography countered this by glorifying India's past. In the post-independence era, the focus shifted to more diverse subjects. Historians started writing about communities, economy, science, and culture. New ideologies like Marxist, Subaltern, and Feminist history emerged to analyse society from different angles, moving beyond just dynastic politics."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "What did Abul Fazl contribute to the method of historiography?",
+      "answer": "Abul Fazl, in his 'Akbarnama', adopted a meticulous method of collecting authentic historical documents. He scrutinized these documents to ensure their validity. His approach is considered critical and realistic because it was devoid of bias. This methodology makes 'Akbarnama' an important text from the viewpoint of critical historiography in the medieval period."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "How did foreign travellers contribute to Indian history?",
+      "answer": "Foreign travellers like Megasthenes, Ibn Battuta, Marco Polo, and others visited India and wrote travelogues. Their accounts provide valuable firsthand information about the social, political, and economic conditions of their respective times. They offer an outsider's perspective, which serves as an important source for historians to cross-reference and understand medieval India."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "Explain the role of 'oral recitals' in ancient Indian history.",
+      "answer": "Before the widespread use of writing, ancient Indians preserved their history through oral traditions. Memories of ancestors' deeds, mythological lore, and social transitions were passed down generations via oral recitals. This tradition kept the cultural and historical heritage alive until it could be recorded in written forms like inscriptions and manuscripts."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "Discuss the 'Cambridge History of India'.",
+      "answer": "The 'Cambridge History of India', published in five volumes between 1922-1937, is a prime example of Colonial Historiography. Written mainly by British scholars, it reflects the colonial perspective. It aimed to document Indian history but often justified British rule and presented Indian culture through a prejudiced lens, lacking the objectivity of modern history."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "What are the characteristics of 'Marxist History'?",
+      "answer": "Marxist History analyses history through the lens of class struggle and economic relations. It focuses on the means and modes of production. It examines how social events impact different classes. In India, it specifically studied the caste system as a form of class structure. It moves away from political history to social and economic history."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "Why did V.K. Rajwade define history as an 'all-inclusive image'?",
+      "answer": "V.K. Rajwade believed history was not just about kings, wars, and politics. He stated it is the 'all-inclusive image of past societies'. This means history should cover social structure, culture, economy, and the lives of common people. He opposed the narrow focus on political conspiracies and insisted on a holistic view of the past."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "How did 'Orientalist' scholars view Sanskrit?",
+      "answer": "Orientalist scholars like William Jones and Max Muller were fascinated by Sanskrit. They saw similarities between Sanskrit and European languages like Greek and Latin. They proposed that Sanskrit could be the mother of all Indo-European languages. They studied Vedic texts to understand the origins of Aryan civilization, viewing Sanskrit as a key to ancient knowledge."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "What is the importance of 'Feminist Essays in Social History'?",
+      "answer": "This book by Meera Kosambi is important as it contributes to Feminist Historiography. It contains essays on the lives of pioneering women like Pandita Ramabai and Dr. Rukhamabai. By focusing on their stories, it highlights the struggles and achievements of women in social history, filling the gap left by male-dominated historical narratives."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "Discuss the impact of 'The Rise of Maratha Power' by Ranade.",
+      "answer": "Justice Ranade's book 'The Rise of Maratha Power' provided a deep analysis of Maratha history. He countered the view that Maratha power was a sudden accident (like a forest fire). He explained that it was the result of a long social, cultural, and religious awakening in Maharashtra. This gave a logical and dignified context to Maratha history."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "What was the role of 'Bharat Itihas Samshodhak Mandal'?",
+      "answer": "Founded by V.K. Rajwade in Pune in 1910, this institution played a crucial role in facilitating historical research. It collected and preserved historical documents, manuscripts, and artefacts. It provided a platform for Indian historians to conduct research and publish their findings, promoting the scientific method in Indian historiography."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "How did regional history gain momentum?",
+      "answer": "The rise of Nationalistic Historiography inspired historians to look at their own regions with pride. They felt the need to correct the prejudiced accounts of British historians. This led to a focus on the geographic conditions and specific histories of regions like South India. It resulted in a more detailed and diverse understanding of India's past."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "What is the criticism against Nationalistic Historians?",
+      "answer": "While Nationalistic Historians restored national pride, they are sometimes criticized for ignoring critical analysis. In their attempt to seek a 'golden era' and glorify the past, they occasionally overlooked historical truths or glossed over social inequalities. Their work was sometimes reactive to colonial history rather than purely objective."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "Describe the content of 'Gulamgiri'.",
+      "answer": "'Gulamgiri' by Mahatma Phule is a seminal text in Subaltern History. It critiques the caste system and the slavery imposed by the upper castes on the 'shudras' and 'atishudras'. It highlights the exploitation done in the name of religion. It rewrites history from the perspective of the oppressed, demanding social equality and justice."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "What is the significance of inscriptions found in India?",
+      "answer": "Inscriptions are the earliest written historical documents in India, dating back to Ashoka. They provide concrete evidence of dates, kings, dynasties, and territorial extent. They also shed light on administration, social organization, and climate of the time. Being engraved on stone or metal, they are durable and authentic sources of history."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Explain the different ideological frameworks in Indian Historiography.",
+      "answer": "Indian historiography has been shaped by various frameworks. Colonial history justified British rule. Orientalist history admired ancient culture but had imperialist undertones. Nationalistic history sought to restore pride. Marxist history focused on class struggle. Subaltern history focused on the common people. Feminist history focused on women. Each framework provides a different lens to view the same historical events."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "Who were the historians of Aurangzeb's times?",
+      "answer": "Historians like Ishwardas Nagar, Bhimsen Saxena, Khafi Khan, and Niccolao Manucci wrote during Aurangzeb's time. Their accounts are vital sources for understanding Mughal history, specifically the reign of Aurangzeb. They recorded political events, administration, and the conflicts of that era, providing a contemporary perspective."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "How did the printing press affect Indian historiography?",
+      "answer": "Although not explicitly detailed in the text, the context implies that the publication of books like 'The History of British India' and 'Marathi Riyasat' was made possible by printing. It allowed for the wide dissemination of historical knowledge. It enabled scholars to access texts, criticize them, and publish their own research, democratizing history."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "Discuss the contribution of Dr. Ambedkar to Subaltern History.",
+      "answer": "Dr. Ambedkar was a key figure in Subaltern History. He focused on the history of Dalits and untouchables, who were ignored by mainstream history. His books 'Who Were the Shudras' and 'The Untouchables' investigate the origins of caste and untouchability. He used history as a tool for social emancipation and identity building for the oppressed."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "What is the 'genealogy' mentioned in inscriptions?",
+      "answer": "Genealogy refers to the study of family lineages and history. Inscriptions often recorded the dynastic genealogies of kings, listing their ancestors and successors. This helps historians construct the chronological order of rulers and understand the succession patterns of ancient Indian empires."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "Why is 'objectivity' important in history?",
+      "answer": "Objectivity ensures that history is a truthful representation of the past, not a biased version. Colonial historians lacked objectivity, creating a distorted image of India. Modern historiography, like that of Rajwade or Kalhana, emphasizes critical examination of sources to find the truth. Objectivity prevents history from becoming propaganda."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "What themes did Feminist historians focus on in the post-independence era?",
+      "answer": "In the post-independence era, feminist historians focused on issues relevant to women in modern society. These included employment rights, workplace treatment, and political equality. They also revisited historical narratives to highlight women's contributions. Literature like Dalit women's testimonies also became a part of this focus."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "How did the discovery of Harappa change Indian history?",
+      "answer": "The discovery of Harappa by John Marshall pushed the antiquity of Indian history back to the 3rd millennium B.C.E. Before this, it was believed Indian history started with the Vedic period. This discovery proved that India had an ancient, advanced urban civilization comparable to Mesopotamia and Egypt, boosting national pride."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "What is the role of 'folklore' in Subaltern History?",
+      "answer": "Folklore, including songs, myths, and oral traditions, is a crucial source for Subaltern History. Since the common people often didn't leave written records, their history lives in folklore. Historians use it to understand the lives, beliefs, and struggles of the bottommost ranks of society, which are missing from official court chronicles."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "Discuss the writing of 'The History of British India'.",
+      "answer": "James Mill wrote 'The History of British India' in three volumes, published in 1817. It was the first substantial history of India by a British author. However, it was heavily biased, reflecting a lack of objective perspective. It criticized Indian culture and civilization, serving to justify the 'civilizing mission' of British colonialism."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "What did Barani mean by the 'failings' of a ruler?",
+      "answer": "Barani believed a historian should be honest. Writing about a ruler's 'failings' means recording their mistakes, incorrect policies, and moral weaknesses, not just their victories. This approach ensures a balanced and realistic historical account, rather than mere sycophancy or praise."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "Explain the significance of the 3rd Century B.C.E. in Indian historiography.",
+      "answer": "The 3rd Century B.C.E. is significant because it marks the time of Emperor Ashoka Maurya. His edicts, inscribed on rocks and pillars, are the earliest known written documents of a historical nature in India. They provide authentic information about his reign, administration, and the spread of Buddhism, serving as a primary source."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "How did 'Grant Duff' portray Maratha history?",
+      "answer": "Grant Duff, a British officer, wrote 'A History of the Mahrattas'. While it was a significant work, it reflected the colonial tendency to condemn Indian culture. He portrayed Maratha history through a British lens, which often undermined the achievements and complexity of the Maratha empire. Indian historians later worked to correct this narrative."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "What is the 'Asiatic Society' and its goal?",
+      "answer": "The Asiatic Society was founded by Sir William Jones in Kolkata in 1784. Its goal was to promote the study of Asian civilizations, particularly India. It facilitated research in ancient Indian literature, history, and languages (Sanskrit). It opened the doors for European scholars to study India's past systematically."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "Discuss the recent contributions to modern Indian historiography.",
+      "answer": "In recent times, historians like Yashawant Dinkar Phadke and Ramchandra Guha have contributed extensively. They have written about modern Indian history, including the freedom struggle and post-independence politics. Their works continue the tradition of critical analysis and provide new insights into the making of modern India."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "Summarize the evolution of Indian Historiography.",
+      "answer": "Indian historiography evolved from ancient oral traditions and inscriptions to medieval court chronicles and bakhars. In the modern period, it was initially dominated by biased Colonial writing. This triggered Nationalistic history to restore pride. Post-independence, it diversified into Marxist, Subaltern, and Feminist schools, examining history from social, economic, and gender perspectives."
+    }
+  ]
+}

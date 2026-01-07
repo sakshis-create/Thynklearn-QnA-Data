@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.01",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Health"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What should we do before sunrise as part of a healthy routine?",
+      "options": [
+        { "option_id": 1, "text": "Play games", "is_correct": false },
+        { "option_id": 2, "text": "Wake up early", "is_correct": true },
+        { "option_id": 3, "text": "Watch television", "is_correct": false },
+        { "option_id": 4, "text": "Eat junk food", "is_correct": false }
+      ],
+      "answer": "Wake up early"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which activity helps keep our teeth clean?",
+      "options": [
+        { "option_id": 1, "text": "Eating chocolates", "is_correct": false },
+        { "option_id": 2, "text": "Brushing teeth", "is_correct": true },
+        { "option_id": 3, "text": "Drinking cold drinks", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Brushing teeth"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why should we take a bath every day?",
+      "options": [
+        { "option_id": 1, "text": "To feel sleepy", "is_correct": false },
+        { "option_id": 2, "text": "To stay clean and healthy", "is_correct": true },
+        { "option_id": 3, "text": "To waste water", "is_correct": false },
+        { "option_id": 4, "text": "To avoid school", "is_correct": false }
+      ],
+      "answer": "To stay clean and healthy"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What should we wear every day?",
+      "options": [
+        { "option_id": 1, "text": "Dirty clothes", "is_correct": false },
+        { "option_id": 2, "text": "Clean clothes", "is_correct": true },
+        { "option_id": 3, "text": "Wet clothes", "is_correct": false },
+        { "option_id": 4, "text": "Torn clothes", "is_correct": false }
+      ],
+      "answer": "Clean clothes"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why do we go to school?",
+      "options": [
+        { "option_id": 1, "text": "To play video games", "is_correct": false },
+        { "option_id": 2, "text": "To study and learn", "is_correct": true },
+        { "option_id": 3, "text": "To sleep", "is_correct": false },
+        { "option_id": 4, "text": "To eat junk food", "is_correct": false }
+      ],
+      "answer": "To study and learn"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which activity is good for our body?",
+      "options": [
+        { "option_id": 1, "text": "Playing outdoor games", "is_correct": true },
+        { "option_id": 2, "text": "Watching TV all day", "is_correct": false },
+        { "option_id": 3, "text": "Using mobile phones", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping all day", "is_correct": false }
+      ],
+      "answer": "Playing outdoor games"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "When should we wash our hands?",
+      "options": [
+        { "option_id": 1, "text": "Only in the morning", "is_correct": false },
+        { "option_id": 2, "text": "Before and after meals", "is_correct": true },
+        { "option_id": 3, "text": "Once a day", "is_correct": false },
+        { "option_id": 4, "text": "Only before sleep", "is_correct": false }
+      ],
+      "answer": "Before and after meals"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What do we use to wash our hands properly?",
+      "options": [
+        { "option_id": 1, "text": "Oil", "is_correct": false },
+        { "option_id": 2, "text": "Soap or hand wash", "is_correct": true },
+        { "option_id": 3, "text": "Mud", "is_correct": false },
+        { "option_id": 4, "text": "Milk", "is_correct": false }
+      ],
+      "answer": "Soap or hand wash"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which food is healthy?",
+      "options": [
+        { "option_id": 1, "text": "Pizza", "is_correct": false },
+        { "option_id": 2, "text": "Burger", "is_correct": false },
+        { "option_id": 3, "text": "Fruits and vegetables", "is_correct": true },
+        { "option_id": 4, "text": "Cold drinks", "is_correct": false }
+      ],
+      "answer": "Fruits and vegetables"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What should we drink daily to stay healthy?",
+      "options": [
+        { "option_id": 1, "text": "Cold drinks", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": true },
+        { "option_id": 3, "text": "Coffee", "is_correct": false },
+        { "option_id": 4, "text": "Tea", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which habit should we avoid?",
+      "options": [
+        { "option_id": 1, "text": "Exercising", "is_correct": false },
+        { "option_id": 2, "text": "Overuse of mobile phones", "is_correct": true },
+        { "option_id": 3, "text": "Playing outside", "is_correct": false },
+        { "option_id": 4, "text": "Drinking water", "is_correct": false }
+      ],
+      "answer": "Overuse of mobile phones"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is kept in a first aid box?",
+      "options": [
+        { "option_id": 1, "text": "Toys", "is_correct": false },
+        { "option_id": 2, "text": "Cotton and bandage", "is_correct": true },
+        { "option_id": 3, "text": "Books", "is_correct": false },
+        { "option_id": 4, "text": "Food items", "is_correct": false }
+      ],
+      "answer": "Cotton and bandage"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why should we keep our surroundings clean?",
+      "options": [
+        { "option_id": 1, "text": "To look dirty", "is_correct": false },
+        { "option_id": 2, "text": "To stay healthy", "is_correct": true },
+        { "option_id": 3, "text": "To attract insects", "is_correct": false },
+        { "option_id": 4, "text": "To waste time", "is_correct": false }
+      ],
+      "answer": "To stay healthy"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Where should we throw garbage?",
+      "options": [
+        { "option_id": 1, "text": "On the road", "is_correct": false },
+        { "option_id": 2, "text": "In the garbage bin", "is_correct": true },
+        { "option_id": 3, "text": "In water", "is_correct": false },
+        { "option_id": 4, "text": "Anywhere", "is_correct": false }
+      ],
+      "answer": "In the garbage bin"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which body part helps us to walk?",
+      "options": [
+        { "option_id": 1, "text": "Hands", "is_correct": false },
+        { "option_id": 2, "text": "Legs", "is_correct": true },
+        { "option_id": 3, "text": "Eyes", "is_correct": false },
+        { "option_id": 4, "text": "Ears", "is_correct": false }
+      ],
+      "answer": "Legs"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why should we wake up early?",
+      "answer": "Waking up early keeps us active and healthy."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why is brushing teeth important?",
+      "answer": "Brushing teeth keeps our mouth clean and prevents germs."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name two healthy foods.",
+      "answer": "Fruits and vegetables."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why should we wash our hands before eating?",
+      "answer": "To remove germs and stay healthy."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why should we drink water daily?",
+      "answer": "Water keeps our body healthy and active."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the use of a first aid box?",
+      "answer": "It helps treat small injuries."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why should we avoid junk food?",
+      "answer": "Junk food is unhealthy and makes us sick."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is cleanliness important?",
+      "answer": "Cleanliness keeps us healthy and prevents diseases."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What should we do after using the toilet?",
+      "answer": "We should flush and wash our hands."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name one bad habit to avoid.",
+      "answer": "Overuse of mobile phones."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why should we play outdoor games?",
+      "answer": "Outdoor games keep our body fit."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What should we do with garbage?",
+      "answer": "We should throw garbage in the bin."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why should we cut our nails regularly?",
+      "answer": "To keep our hands clean."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which body part is used to pick up things?",
+      "answer": "Hands are used to pick up things."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why should we sleep on time?",
+      "answer": "Sleeping on time keeps us healthy."
+    }
+  ]
+}

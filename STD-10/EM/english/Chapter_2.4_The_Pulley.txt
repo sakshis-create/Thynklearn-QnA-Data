@@ -1,0 +1,791 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.2.4",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Pulley"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'The Pulley'?",
+      "options": [
+        { "option_id": 1, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 2, "text": "George Herbert", "is_correct": true },
+        { "option_id": 3, "text": "Rabindranath Tagore", "is_correct": false },
+        { "option_id": 4, "text": "John Keats", "is_correct": false }
+      ],
+      "answer": "George Herbert"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "George Herbert was a ________ poet.",
+      "options": [
+        { "option_id": 1, "text": "Welsh", "is_correct": true },
+        { "option_id": 2, "text": "American", "is_correct": false },
+        { "option_id": 3, "text": "Indian", "is_correct": false },
+        { "option_id": 4, "text": "French", "is_correct": false }
+      ],
+      "answer": "Welsh"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What was George Herbert's profession?",
+      "options": [
+        { "option_id": 1, "text": "Teacher", "is_correct": false },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Priest", "is_correct": true },
+        { "option_id": 4, "text": "Lawyer", "is_correct": false }
+      ],
+      "answer": "Priest"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The poem 'The Pulley' conveys a religious notion through a ________ image.",
+      "options": [
+        { "option_id": 1, "text": "Religious", "is_correct": false },
+        { "option_id": 2, "text": "Scientific", "is_correct": true },
+        { "option_id": 3, "text": "Historical", "is_correct": false },
+        { "option_id": 4, "text": "Mythological", "is_correct": false }
+      ],
+      "answer": "Scientific"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What did God have standing by when He made man?",
+      "options": [
+        { "option_id": 1, "text": "A box of treasures", "is_correct": false },
+        { "option_id": 2, "text": "A glass of blessings", "is_correct": true },
+        { "option_id": 3, "text": "A list of rules", "is_correct": false },
+        { "option_id": 4, "text": "A jar of clay", "is_correct": false }
+      ],
+      "answer": "A glass of blessings"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "According to the poem, which gift made a way first?",
+      "options": [
+        { "option_id": 1, "text": "Wisdom", "is_correct": false },
+        { "option_id": 2, "text": "Beauty", "is_correct": false },
+        { "option_id": 3, "text": "Strength", "is_correct": true },
+        { "option_id": 4, "text": "Honour", "is_correct": false }
+      ],
+      "answer": "Strength"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which blessing did God withhold from man?",
+      "options": [
+        { "option_id": 1, "text": "Pleasure", "is_correct": false },
+        { "option_id": 2, "text": "Rest", "is_correct": true },
+        { "option_id": 3, "text": "Wisdom", "is_correct": false },
+        { "option_id": 4, "text": "Honour", "is_correct": false }
+      ],
+      "answer": "Rest"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Why did God withhold 'Rest'?",
+      "options": [
+        { "option_id": 1, "text": "He ran out of it", "is_correct": false },
+        { "option_id": 2, "text": "So man would adore gifts instead of God", "is_correct": false },
+        { "option_id": 3, "text": "So man would turn to God in weariness", "is_correct": true },
+        { "option_id": 4, "text": "He forgot to give it", "is_correct": false }
+      ],
+      "answer": "So man would turn to God in weariness"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the rhyme scheme of the poem?",
+      "options": [
+        { "option_id": 1, "text": "aabbc", "is_correct": false },
+        { "option_id": 2, "text": "ababa", "is_correct": true },
+        { "option_id": 3, "text": "abcbc", "is_correct": false },
+        { "option_id": 4, "text": "abccb", "is_correct": false }
+      ],
+      "answer": "ababa"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The poem suggests that God wants man to be ________.",
+      "options": [
+        { "option_id": 1, "text": "Rich and weary", "is_correct": true },
+        { "option_id": 2, "text": "Poor and happy", "is_correct": false },
+        { "option_id": 3, "text": "Rich and contented", "is_correct": false },
+        { "option_id": 4, "text": "Poor and tired", "is_correct": false }
+      ],
+      "answer": "Rich and weary"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does 'dispersed' mean in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Collected", "is_correct": false },
+        { "option_id": 2, "text": "Scattered", "is_correct": true },
+        { "option_id": 3, "text": "Hidden", "is_correct": false },
+        { "option_id": 4, "text": "Lost", "is_correct": false }
+      ],
+      "answer": "Scattered"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word in the poem means 'give as a gift to'?",
+      "options": [
+        { "option_id": 1, "text": "Contract", "is_correct": false },
+        { "option_id": 2, "text": "Perceive", "is_correct": false },
+        { "option_id": 3, "text": "Bestow", "is_correct": true },
+        { "option_id": 4, "text": "Repining", "is_correct": false }
+      ],
+      "answer": "Bestow"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the 'jewel' mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Wisdom", "is_correct": false },
+        { "option_id": 2, "text": "Rest", "is_correct": true },
+        { "option_id": 3, "text": "Strength", "is_correct": false },
+        { "option_id": 4, "text": "Honour", "is_correct": false }
+      ],
+      "answer": "Rest"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The phrase 'repining restlessness' is an example of which figure of speech?",
+      "options": [
+        { "option_id": 1, "text": "Metaphor", "is_correct": false },
+        { "option_id": 2, "text": "Alliteration", "is_correct": true },
+        { "option_id": 3, "text": "Simile", "is_correct": false },
+        { "option_id": 4, "text": "Hyperbole", "is_correct": false }
+      ],
+      "answer": "Alliteration"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which figure of speech is used in 'Rest in the bottom lay'?",
+      "options": [
+        { "option_id": 1, "text": "Pun", "is_correct": true },
+        { "option_id": 2, "text": "Metaphor", "is_correct": false },
+        { "option_id": 3, "text": "Personification", "is_correct": false },
+        { "option_id": 4, "text": "Antithesis", "is_correct": false }
+      ],
+      "answer": "Pun"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What does the word 'span' mean in the poem?",
+      "options": [
+        { "option_id": 1, "text": "A long time", "is_correct": false },
+        { "option_id": 2, "text": "A small space", "is_correct": true },
+        { "option_id": 3, "text": "A bridge", "is_correct": false },
+        { "option_id": 4, "text": "A large area", "is_correct": false }
+      ],
+      "answer": "A small space"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "God feared that man would rest in ________ instead of the God of Nature.",
+      "options": [
+        { "option_id": 1, "text": "Peace", "is_correct": false },
+        { "option_id": 2, "text": "Nature", "is_correct": true },
+        { "option_id": 3, "text": "Heaven", "is_correct": false },
+        { "option_id": 4, "text": "Wealth", "is_correct": false }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is 'Dramatic Monologue'?",
+      "options": [
+        { "option_id": 1, "text": "Talking to oneself audibly", "is_correct": true },
+        { "option_id": 2, "text": "A play with one actor", "is_correct": false },
+        { "option_id": 3, "text": "A silent speech", "is_correct": false },
+        { "option_id": 4, "text": "A dialogue between two people", "is_correct": false }
+      ],
+      "answer": "Talking to oneself audibly"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What acts as a 'pulley' to lift man to God?",
+      "options": [
+        { "option_id": 1, "text": "Strength", "is_correct": false },
+        { "option_id": 2, "text": "Wealth", "is_correct": false },
+        { "option_id": 3, "text": "Restlessness/Weariness", "is_correct": true },
+        { "option_id": 4, "text": "Wisdom", "is_correct": false }
+      ],
+      "answer": "Restlessness/Weariness"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Identify the figure of speech: 'Let him be rich and weary'.",
+      "options": [
+        { "option_id": 1, "text": "Paradox", "is_correct": true },
+        { "option_id": 2, "text": "Simile", "is_correct": false },
+        { "option_id": 3, "text": "Metaphor", "is_correct": false },
+        { "option_id": 4, "text": "Repetition", "is_correct": false }
+      ],
+      "answer": "Paradox"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Identify the figure of speech: 'Contract into a span'.",
+      "options": [
+        { "option_id": 1, "text": "Inversion", "is_correct": true },
+        { "option_id": 2, "text": "Alliteration", "is_correct": false },
+        { "option_id": 3, "text": "Metaphor", "is_correct": false },
+        { "option_id": 4, "text": "Pun", "is_correct": false }
+      ],
+      "answer": "Inversion"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Identify the figure of speech: 'Bestow this jewel also on my creature'.",
+      "options": [
+        { "option_id": 1, "text": "Metaphor", "is_correct": true },
+        { "option_id": 2, "text": "Simile", "is_correct": false },
+        { "option_id": 3, "text": "Personification", "is_correct": false },
+        { "option_id": 4, "text": "Paradox", "is_correct": false }
+      ],
+      "answer": "Metaphor"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The poem 'The Pulley' is considered a ________ poem.",
+      "options": [
+        { "option_id": 1, "text": "Romantic", "is_correct": false },
+        { "option_id": 2, "text": "Metaphysical", "is_correct": true },
+        { "option_id": 3, "text": "Modern", "is_correct": false },
+        { "option_id": 4, "text": "Narrative", "is_correct": false }
+      ],
+      "answer": "Metaphysical"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the past tense of 'lie' according to the word pyramid activity?",
+      "options": [
+        { "option_id": 1, "text": "Lied", "is_correct": false },
+        { "option_id": 2, "text": "Lay", "is_correct": true },
+        { "option_id": 3, "text": "Lain", "is_correct": false },
+        { "option_id": 4, "text": "Laid", "is_correct": false }
+      ],
+      "answer": "Lay"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which gift followed strength?",
+      "options": [
+        { "option_id": 1, "text": "Honour", "is_correct": false },
+        { "option_id": 2, "text": "Pleasure", "is_correct": false },
+        { "option_id": 3, "text": "Wisdom", "is_correct": false },
+        { "option_id": 4, "text": "Beauty", "is_correct": true }
+      ],
+      "answer": "Beauty"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "If goodness does not lead man to God, what will?",
+      "options": [
+        { "option_id": 1, "text": "Fear", "is_correct": false },
+        { "option_id": 2, "text": "Love", "is_correct": false },
+        { "option_id": 3, "text": "Weariness", "is_correct": true },
+        { "option_id": 4, "text": "Punishment", "is_correct": false }
+      ],
+      "answer": "Weariness"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What does God withhold to ensure man returns to Him?",
+      "options": [
+        { "option_id": 1, "text": "Contentment", "is_correct": true },
+        { "option_id": 2, "text": "Money", "is_correct": false },
+        { "option_id": 3, "text": "Health", "is_correct": false },
+        { "option_id": 4, "text": "Knowledge", "is_correct": false }
+      ],
+      "answer": "Contentment"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which word means 'love very much'?",
+      "options": [
+        { "option_id": 1, "text": "Perceive", "is_correct": false },
+        { "option_id": 2, "text": "Adore", "is_correct": true },
+        { "option_id": 3, "text": "Bestow", "is_correct": false },
+        { "option_id": 4, "text": "Contract", "is_correct": false }
+      ],
+      "answer": "Adore"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which word means 'notice or become conscious of'?",
+      "options": [
+        { "option_id": 1, "text": "Perceive", "is_correct": true },
+        { "option_id": 2, "text": "Dispersed", "is_correct": false },
+        { "option_id": 3, "text": "Repining", "is_correct": false },
+        { "option_id": 4, "text": "Toss", "is_correct": false }
+      ],
+      "answer": "Perceive"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What implies 'continuous anxiety due to dissatisfaction'?",
+      "options": [
+        { "option_id": 1, "text": "Weariness", "is_correct": false },
+        { "option_id": 2, "text": "Repining restlessness", "is_correct": true },
+        { "option_id": 3, "text": "Dispersed lie", "is_correct": false },
+        { "option_id": 4, "text": "Treasures", "is_correct": false }
+      ],
+      "answer": "Repining restlessness"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What is the central theme of the poem 'The Pulley'?",
+      "answer": "The central theme is that God withheld the gift of 'Rest' from man so that man, in his weariness and lack of contentment, would eventually turn back to God."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What gifts did God bestow upon man?",
+      "answer": "God bestowed strength, beauty, wisdom, honour, and pleasure upon man."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Why did God stop when almost all blessings were out?",
+      "answer": "God stopped because He perceived that 'Rest' was the only treasure left at the bottom of the glass."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What does the 'glass of blessings' symbolize?",
+      "answer": "It symbolizes the sum of all the good qualities and gifts God had prepared for mankind."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Why is 'Rest' called a 'jewel'?",
+      "answer": "It is called a jewel because it is precious, valuable, and represents peace and contentment."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What fear did God express if He gave man 'Rest'?",
+      "answer": "God feared man would adore His gifts (Nature) instead of Him (the God of Nature), and both would be losers."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What does the poet mean by 'So both should losers be'?",
+      "answer": "It means God would lose man's love, and man would lose spiritual connection with God."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What does 'rest' mean in the line 'Rest in the bottom lay'?",
+      "answer": "Here, 'rest' means the remaining part or the last item left."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What does 'rest' mean in the line 'And rest in Nature'?",
+      "answer": "Here, 'rest' means to find peace, satisfaction, or contentment."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What does 'rest' mean in the line 'Yet let him keep the rest'?",
+      "answer": "Here, 'rest' refers to the other gifts or blessings already given (strength, beauty, etc.)."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Explain the Pun in 'Rest in the bottom lay'.",
+      "answer": "The word 'Rest' has two meanings here: 1. The remaining part (last treasure). 2. The quality of peace/contentment."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Explain the Paradox 'Let him be rich and weary'.",
+      "answer": "It is contradictory because richness usually implies comfort, but here God wants man to have abundance (rich) yet be tired/dissatisfied (weary)."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the 'pulley' in the poem?",
+      "answer": "The 'pulley' is a metaphor for 'restlessness' or 'weariness' that God uses to lift or draw man back to Him."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What does 'repining restlessness' mean?",
+      "answer": "It means a state of continuous anxiety and dissatisfaction, where one complains or frets."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What will 'toss' man to God's breast?",
+      "answer": "Weariness (tiredness/lack of peace) will toss man to God's breast."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why is the poem called 'The Pulley'?",
+      "answer": "Because it uses the mechanical image of a pulley to explain how God lifts man towards Himself using restlessness as the force."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What literary device is 'Let us (said He) pour on him'?",
+      "answer": "It is Synecdoche, where 'He' (God) represents the creator speaking."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Give an example of Inversion from the poem.",
+      "answer": "'Rest in the bottom lay' (Correct order: Rest lay in the bottom)."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Give an example of Alliteration from the poem.",
+      "answer": "'Repining restlessness' (repetition of 'r' sound)."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What does 'contract into a span' mean?",
+      "answer": "It means to compress or collect a vast amount (world's riches) into a small space (man)."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who is the speaker in the poem?",
+      "answer": "The speaker is a narrator describing God's actions and thoughts (and quoting God)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What determines man's return to God?",
+      "answer": "If goodness doesn't lead him, weariness will."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the tone of the poem?",
+      "answer": "The tone is philosophical, reflective, and spiritual."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a 'conceit' in poetry?",
+      "answer": "A conceit is an extended, elaborate metaphor comparing two very dissimilar things (like God's plan and a pulley)."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the structure of the poem?",
+      "answer": "It consists of four stanzas of five lines each (quintains)."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What does 'perceiving' mean?",
+      "answer": "Noticing or becoming conscious of something."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'dispersed'?",
+      "answer": "Scattered or spread over a wide area."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How is God portrayed in the poem?",
+      "answer": "God is portrayed as a generous creator but also possessive and wise, wanting a relationship with His creation."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does 'toss' imply in the context of the poem?",
+      "answer": "It implies a rough or forceful movement, suggesting that weariness will inevitably drive man to God."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Identify the Pun: 'Writing with a broken pencil is pointless.'",
+      "answer": "'Pointless' means having no tip and also having no purpose."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What word in the poem means 'wealth' or 'bounties'?",
+      "answer": "Riches."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What word in the poem means 'valueable thing'?",
+      "answer": "Treasure (or jewel)."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "List the gifts mentioned in the second stanza.",
+      "answer": "Strength, beauty, wisdom, honour, pleasure."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the result of man being 'rich and weary'?",
+      "answer": "He will eventually seek God."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is the relationship between God and worshippers called 'two way'?",
+      "answer": "God gives gifts, and expects gratitude/devotion in return."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does the 'glass' represent?",
+      "answer": "It represents the container or source of all God's blessings."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does 'stay' mean in 'God made a stay'?",
+      "answer": "It means God paused or stopped."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What imagery is used in the first stanza?",
+      "answer": "Imagery of pouring blessings from a glass."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What word starting with 'a' means 'loveliness' (from word pyramid)?",
+      "answer": "Appeal (or possibly 'Allure' - though based on text clues, 'Beauty' is the gift, so word pyramid might refer to general vocab)."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What word starting with 'a' means 'in place of' (from word pyramid)?",
+      "answer": "Alternative (or 'Against' - context dependent)."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What word starting with 'a' means 'make much of' (from word pyramid)?",
+      "answer": "Adore."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What does the poet imply about human nature?",
+      "answer": "That humans are prone to forgetting the Creator and focusing on the gifts/creation."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the spiritual lesson of the poem?",
+      "answer": "That true peace and rest can only be found in God, not in worldly things."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What does 'my creature' refer to?",
+      "answer": "It refers to Man (created by God)."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Can scientific images convey religious notions?",
+      "answer": "Yes, as shown in this metaphysical poem using a 'pulley'."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the summary of Stanza 1?",
+      "answer": "God created man and decided to pour all blessings like strength onto him."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the summary of Stanza 2?",
+      "answer": "God gave beauty, wisdom, etc., but paused when only 'Rest' was left."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the summary of Stanza 3?",
+      "answer": "God feared that giving 'Rest' would make man love the gift and Nature, ignoring God."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the summary of Stanza 4?",
+      "answer": "God keeps 'Rest' so that man's weariness will eventually pull him back to God."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What does 'weary' mean?",
+      "answer": "Very tired."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explain the central idea of the poem 'The Pulley'.",
+      "answer": "The central idea of the poem 'The Pulley' by George Herbert is the relationship between God and man. The poet explains why man is always restless and dissatisfied despite having all the riches and blessings. God withheld the gift of 'Rest' or contentment to ensure that man does not forget his Creator. By keeping man 'rich and weary', God ensures that even if goodness doesn't lead man to Him, weariness eventually will. This 'restlessness' acts as a pulley lifting man back to God."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Discuss the use of the extended metaphor (conceit) in the poem.",
+      "answer": "George Herbert uses a 'conceit', an extended metaphor, comparing the spiritual relationship between God and man to a mechanical 'pulley'. A pulley is used to lift heavy objects. In the poem, the feeling of restlessness and weariness acts as the leverage or pulley that lifts man towards God. Just as a pulley applies force to move an object, the lack of 'Rest' forces man to seek solace in God. This scientific image effectively conveys a deep religious truth about human nature and divine love."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Analyze the significance of the title 'The Pulley'.",
+      "answer": "The title 'The Pulley' is significant as it encapsulates the main theme of the poem. Although the word 'pulley' never appears in the text, the mechanics of a pulley—using leverage to lift—is the central metaphor. God uses the weight of man's restlessness to draw him upwards. It suggests a mechanism of divine intervention where God manipulates the circumstances (giving vs withholding gifts) to ensure man remains connected to Him. It turns a spiritual concept into a tangible, mechanical image."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Explain the pun on the word 'Rest' used in the poem.",
+      "answer": "The poet uses the word 'Rest' as a pun, playing on its multiple meanings. 1. In 'Rest in the bottom lay', it means the 'remainder' or what is left over after other gifts were given. 2. In 'And rest in Nature', it means 'peace', 'sleep', or 'contentment'. 3. In 'Let him keep the rest', it refers to the other gifts given. This wordplay highlights the irony that God gives man everything (the rest) but withholds the one thing (Rest) that would make him independent of God."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "What is the message of the poem regarding human dissatisfaction?",
+      "answer": "The poem suggests that human dissatisfaction and restlessness are not accidental but divinely ordained. It implies that true contentment cannot be found in worldly gifts like beauty, wisdom, or honour. God intentionally designed man to be restless so that he would not become complacent or idolatrous (worshipping Nature). The message is that our lack of peace is actually a sign of God's love, meant to guide us back to the spiritual source of true rest."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Describe the creation of man as depicted in the first stanza.",
+      "answer": "In the first stanza, the creation of man is depicted as a deliberate and generous act by God. God is shown standing with a 'glass of blessings', ready to pour them onto man. He decides to compress the world's scattered riches into a 'span' (man). The first gift to make its way out is 'strength'. This imagery portrays God as a benevolent provider who wants to endow His creation with the best qualities available."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Why does God decide to withhold the 'jewel' of Rest?",
+      "answer": "God decides to withhold 'Rest' because He perceives a potential danger. He fears that if He gives this 'jewel' along with all other gifts, man will become self-sufficient and ungrateful. Man would 'adore' the gifts (Nature) rather than the Giver (God of Nature). This would result in a loss for both: God would lose man's devotion, and man would lose his spiritual connection. Withholding Rest ensures a continuous need for God."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Write a critical appreciation of the poem 'The Pulley'.",
+      "answer": "The poem 'The Pulley' by George Herbert is a metaphysical poem that explores the relationship between Creator and creation. The rhyme scheme is ababa. The central metaphor is the 'pulley', representing the force of restlessness that draws man to God. The poem uses rich imagery ('glass of blessings') and figures of speech like Pun ('Rest'), Paradox ('rich and weary'), and Synecdoche. The tone is reflective and theological. It explains the human condition of perpetual dissatisfaction as a divine strategy to ensure spiritual intimacy. It is a thought-provoking piece on why we never feel fully satisfied with material things."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Explain the Paradox: 'Let him be rich and weary'.",
+      "answer": "The line 'Let him be rich and weary' is a paradox because 'rich' usually implies having everything one needs, which should lead to satisfaction and comfort, not weariness. However, God intends for man to be 'rich' in blessings like strength and wisdom, but 'weary' in spirit due to a lack of peace. This contradiction serves a purpose: the richness gives man the capacity to enjoy life, but the weariness ensures he does not forget the source of that life. It highlights the limited nature of material wealth."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "What is a dramatic monologue and give examples from daily life?",
+      "answer": "A dramatic monologue is when a person speaks to themselves audibly, expressing their inner thoughts or feelings, often in a dramatic manner. It reveals the speaker's mind. Examples from daily life include: 1. 'Oh no! I left my keys inside!' (frustration). 2. 'I can do this. Just one more step.' (self-encouragement). 3. 'Why did I say that? It was so stupid.' (regret). 4. 'Finally! The bus is here.' (relief). These monologues happen when we articulate our internal dialogue."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "How does the poem explain the existence of suffering or restlessness in life?",
+      "answer": "The poem offers a theological explanation for human restlessness. It suggests that suffering or a sense of incompleteness is not a punishment, but a mechanism of divine love. It posits that if humans were perfectly happy with material things, they would have no need for the spiritual or the divine. Therefore, restlessness exists to prevent spiritual apathy and to keep the pathway to God open. It frames emotional struggle as a 'pulley' lifting us towards a higher state."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "What are the 'bestowals' mentioned in the poem and their sequence?",
+      "answer": "The poem lists the bestowals (gifts) in a specific sequence as they flowed from God's glass. First came 'Strength'. This was followed by 'Beauty', then 'Wisdom', 'Honour', and 'Pleasure'. These represent the physical, intellectual, and social endowments of mankind. The sequencing suggests a flow from fundamental physical traits to more complex human desires, leaving the most crucial spiritual gift—Rest—at the bottom."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Explain the lines: 'If goodness lead him not, yet weariness / May toss him to my breast.'",
+      "answer": "These lines summarize God's ultimate plan. God prefers that man comes to Him out of 'goodness'—love, gratitude, and righteousness. However, God knows human nature is flawed. So, if man fails to come to God through goodness, the backup plan is 'weariness'. The sheer exhaustion of living without spiritual peace will eventually force ('toss') man to seek refuge in God ('my breast'). It shows God's determination to be reunited with man."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Discuss the 'Word Pyramid' activity and its relevance to vocabulary building.",
+      "answer": "The Word Pyramid activity asks students to build a pyramid using words starting with a specific letter (e.g., 'a') based on clues. For example: 'a' (article), 'at' (preposition), 'ate' (verb), 'area' (measurement), 'adore' (love). This activity helps students expand their vocabulary, understand word forms (noun, verb, etc.), and think critically to match definitions. It visually organizes words by length, making learning engaging and structured."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Identify and explain the Figures of Speech in 'Then beauty flow'd, then wisdom, honour, pleasure'.",
+      "answer": "This line uses **Climax**, as the gifts are arranged in an increasing order of importance or complexity (from physical beauty to abstract pleasure). It also uses **Repetition** (of the word 'then'). It could also be seen as **Asyndeton** due to the lack of conjunctions between the list items, creating a rapid flow. It emphasizes the abundance of gifts God poured out."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "What is the rhyme scheme of the poem and how does it contribute to the poem's effect?",
+      "answer": "The rhyme scheme of the poem is **a-b-a-b-a** for each stanza (e.g., Man/by/can/lie/span). This tight, consistent rhyme scheme creates a musical and rhythmic quality. It mirrors the structured argument God is making. The recurring 'a' rhyme at the end of the stanza ties the thought back to the beginning, reinforcing the cyclical nature of man's relationship with God (leaving and returning)."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "How does the poem differentiate between 'Nature' and 'God of Nature'?",
+      "answer": "The poem distinguishes between the creation ('Nature') and the Creator ('God of Nature'). 'Nature' represents the material world and the gifts given to man (strength, beauty, etc.). 'God of Nature' is the source of these gifts. The danger God foresees is that man might settle for the created things (Nature) and forget the Creator. The poem argues that true rest is found in the Creator, not the creation."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Explain the significance of the Synecdoche 'May toss him to my breast'.",
+      "answer": "In this line, 'breast' is a Synecdoche, where a part of the body stands for the whole concept of God's love, comfort, and protection. 'Breast' signifies a place of refuge, like a mother holding a child. It implies intimacy and safety. The image suggests that man's ultimate destination and solace is in the close embrace of God."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Compare the 'bestowals' of God in the poem with the images in the 'Warming Up' section.",
+      "answer": "The 'Warming Up' section lists images like Strength, Wisdom, Beauty, Honour, which match the gifts mentioned in the poem. It also lists 'Sorrowful moments' and 'Storm', which align with the poem's concept of 'restlessness' and 'weariness'. The warming up activity prepares the reader to connect these abstract concepts to life experiences, helping them understand that both the positive gifts and the negative hardships are part of the divine plan described in the poem."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "What is the philosophical implication of 'So both should losers be'?",
+      "answer": "This line implies a mutual loss in a broken relationship. If man is content solely with material gifts, he loses the spiritual connection and eternal peace found in God. Simultaneously, God 'loses' the love and devotion of His creation. It highlights that the relationship is reciprocal. God desires man's love as much as man needs God's peace. The withholding of 'Rest' prevents this mutual loss."
+    }
+  ]
+}

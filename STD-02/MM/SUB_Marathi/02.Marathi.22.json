@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.22",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "चित्रवाचन — दिवस-रात्र"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "दिवसाच्या वेळी आकाशात काय दिसते?",
+      "options": [
+        { "option_id": 1, "text": "तारे", "is_correct": false },
+        { "option_id": 2, "text": "चंद्र", "is_correct": false },
+        { "option_id": 3, "text": "सूर्य", "is_correct": true },
+        { "option_id": 4, "text": "दिवे", "is_correct": false }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "रात्रीच्या वेळी आकाशात काय दिसते?",
+      "options": [
+        { "option_id": 1, "text": "सूर्य", "is_correct": false },
+        { "option_id": 2, "text": "इंद्रधनुष्य", "is_correct": false },
+        { "option_id": 3, "text": "चंद्र आणि तारे", "is_correct": true },
+        { "option_id": 4, "text": "पाऊस", "is_correct": false }
+      ],
+      "answer": "चंद्र आणि तारे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "दिवसाच्या वेळी बहुतेक मुले काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "झोपतात", "is_correct": false },
+        { "option_id": 2, "text": "शाळेत जातात", "is_correct": true },
+        { "option_id": 3, "text": "तारे पाहतात", "is_correct": false },
+        { "option_id": 4, "text": "रांगोळी काढतात", "is_correct": false }
+      ],
+      "answer": "शाळेत जातात"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "रात्री बहुतेक लोक काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळतात", "is_correct": false },
+        { "option_id": 2, "text": "शेती करतात", "is_correct": false },
+        { "option_id": 3, "text": "झोपतात व आराम करतात", "is_correct": true },
+        { "option_id": 4, "text": "शाळेत जातात", "is_correct": false }
+      ],
+      "answer": "झोपतात व आराम करतात"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "दिवसाला कशामुळे उजेड होतो?",
+      "options": [
+        { "option_id": 1, "text": "चंद्रामुळे", "is_correct": false },
+        { "option_id": 2, "text": "ताऱ्यांमुळे", "is_correct": false },
+        { "option_id": 3, "text": "सूर्यामुळे", "is_correct": true },
+        { "option_id": 4, "text": "ढगांमुळे", "is_correct": false }
+      ],
+      "answer": "सूर्यामुळे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "रात्री रस्त्यांवर उजेड कशामुळे होतो?",
+      "options": [
+        { "option_id": 1, "text": "सूर्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "वीज दिव्यांमुळे", "is_correct": true },
+        { "option_id": 3, "text": "ढगांमुळे", "is_correct": false },
+        { "option_id": 4, "text": "धुरामुळे", "is_correct": false }
+      ],
+      "answer": "वीज दिव्यांमुळे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "दिवसाच्या वेळी पक्षी काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "घरात झोपतात", "is_correct": false },
+        { "option_id": 2, "text": "उडतात आणि किलबिल करतात", "is_correct": true },
+        { "option_id": 3, "text": "रात्री गातात", "is_correct": false },
+        { "option_id": 4, "text": "समुद्रात पोहतात", "is_correct": false }
+      ],
+      "answer": "उडतात आणि किलबिल करतात"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "रात्री आकाशात तारे कसे दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "काळे", "is_correct": false },
+        { "option_id": 2, "text": "चमचमणारे", "is_correct": true },
+        { "option_id": 3, "text": "लाल", "is_correct": false },
+        { "option_id": 4, "text": "ढगांसारखे", "is_correct": false }
+      ],
+      "answer": "चमचमणारे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "दिवस-रात्र हा कोणत्या गोष्टीचा भाग आहे?",
+      "options": [
+        { "option_id": 1, "text": "आठवड्याचा", "is_correct": false },
+        { "option_id": 2, "text": "महिन्याचा", "is_correct": false },
+        { "option_id": 3, "text": "दिवसाच्या चक्राचा", "is_correct": true },
+        { "option_id": 4, "text": "सणांचा", "is_correct": false }
+      ],
+      "answer": "दिवसाच्या चक्राचा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सकाळी सूर्य उगवल्यावर काय होते?",
+      "options": [
+        { "option_id": 1, "text": "अंधार वाढतो", "is_correct": false },
+        { "option_id": 2, "text": "उजेड पसरतो", "is_correct": true },
+        { "option_id": 3, "text": "तारे चमकतात", "is_correct": false },
+        { "option_id": 4, "text": "रात्री सुरु होते", "is_correct": false }
+      ],
+      "answer": "उजेड पसरतो"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "रात्री घरे आणि इमारतींमध्ये काय लावलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "झेंडे", "is_correct": false },
+        { "option_id": 2, "text": "दिवे", "is_correct": true },
+        { "option_id": 3, "text": "फुले", "is_correct": false },
+        { "option_id": 4, "text": "रंगोळी", "is_correct": false }
+      ],
+      "answer": "दिवे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "दिवसाच्या वेळी शेतात कोणते काम चालू असते?",
+      "options": [
+        { "option_id": 1, "text": "उत्सव", "is_correct": false },
+        { "option_id": 2, "text": "शेतीची कामे", "is_correct": true },
+        { "option_id": 3, "text": "रात्रीची सजावट", "is_correct": false },
+        { "option_id": 4, "text": "झोप", "is_correct": false }
+      ],
+      "answer": "शेतीची कामे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "रात्री गाड्यांच्या पुढे काय लावलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "झाडे", "is_correct": false },
+        { "option_id": 2, "text": "हेडलाइट", "is_correct": true },
+        { "option_id": 3, "text": "झेंडे", "is_correct": false },
+        { "option_id": 4, "text": "घड्याळ", "is_correct": false }
+      ],
+      "answer": "हेडलाइट"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "दिवस-रात्र या संकल्पनेतून आपल्याला काय कळते?",
+      "options": [
+        { "option_id": 1, "text": "खेळांची माहिती", "is_correct": false },
+        { "option_id": 2, "text": "वेळ आणि निसर्गातील बदल", "is_correct": true },
+        { "option_id": 3, "text": "आहाराची माहिती", "is_correct": false },
+        { "option_id": 4, "text": "रंगांची ओळख", "is_correct": false }
+      ],
+      "answer": "वेळ आणि निसर्गातील बदल"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "रात्रीच्या चित्रात आपल्याला कोणते दृश्य दिसते?",
+      "options": [
+        { "option_id": 1, "text": "खेळणारी मुले", "is_correct": false },
+        { "option_id": 2, "text": "चांदणे आणि शांत परिसर", "is_correct": true },
+        { "option_id": 3, "text": "सूर्यप्रकाश", "is_correct": false },
+        { "option_id": 4, "text": "विजांचा कडकडाट", "is_correct": false }
+      ],
+      "answer": "चांदणे आणि शांत परिसर"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "दिवसाच्या वेळी आकाशात काय दिसते?",
+      "answer": "दिवसाच्या वेळी आकाशात सूर्य दिसतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "रात्री आकाशात काय दिसते?",
+      "answer": "रात्री आकाशात चंद्र आणि तारे दिसतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "दिवसाला उजेड का असतो?",
+      "answer": "कारण सूर्यप्रकाश पसरलेला असतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "रात्री लोक काय करतात?",
+      "answer": "रात्री लोक झोपतात आणि आराम करतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "दिवस-रात्र याला काय म्हणतात?",
+      "answer": "त्याला दिवसाचे नैसर्गिक चक्र म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "रात्री रस्त्यांवर उजेड कशामुळे होतो?",
+      "answer": "वीज दिव्यांमुळे उजेड होतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "दिवसाच्या वेळी मुले काय करतात?",
+      "answer": "मुले शाळेत जातात व अभ्यास करतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रात्री आकाशात तारे कसे दिसतात?",
+      "answer": "तारे चमचमणारे दिसतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "दिवसाच्या वेळी पक्षी काय करतात?",
+      "answer": "ते उडतात आणि किलबिल करतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सकाळी सूर्य उगवल्यावर काय होते?",
+      "answer": "उजेड पसरतो आणि दिवस सुरू होतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "रात्री गाड्यांवर हेडलाइट का असतात?",
+      "answer": "रस्त्यावर स्पष्ट दिसावे म्हणून."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "दिवस-रात्र चित्रातून तुला काय समजले?",
+      "answer": "निसर्गातील वेळेचे बदल समजले."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "रात्रीचे आकाश कसे दिसते?",
+      "answer": "शांत आणि चांदण्यांनी भरलेले दिसते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "दिवस-रात्र पाहताना आपण काय निरीक्षण करावे?",
+      "answer": "आकाश, प्रकाश, परिसर आणि क्रिया यांचे निरीक्षण करावे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्यातून तुला काय शिकायला मिळाले?",
+      "answer": "दिवस-रात्र यातील फरक आणि निसर्गातील बदल समजले."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.13",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "वाहने ओळखू, गणना करू"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या धड्यात कशाची ओळख करून दिली आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "फळे", "is_correct": false },
+        { "option_id": 3, "text": "वाहने", "is_correct": true },
+        { "option_id": 4, "text": "फुले", "is_correct": false }
+      ],
+      "answer": "वाहने"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "चित्रात रस्त्यावर कोणते वाहन दिसते?",
+      "options": [
+        { "option_id": 1, "text": "नौका", "is_correct": false },
+        { "option_id": 2, "text": "बस", "is_correct": true },
+        { "option_id": 3, "text": "रेल्वे", "is_correct": false },
+        { "option_id": 4, "text": "हेलिकॉप्टर", "is_correct": false }
+      ],
+      "answer": "बस"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "चित्रात आकाशात कोणते वाहन आहे?",
+      "options": [
+        { "option_id": 1, "text": "जहाज", "is_correct": false },
+        { "option_id": 2, "text": "विमान", "is_correct": true },
+        { "option_id": 3, "text": "बस", "is_correct": false },
+        { "option_id": 4, "text": "ट्रक", "is_correct": false }
+      ],
+      "answer": "विमान"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पाण्यात कोणते वाहन चालते?",
+      "options": [
+        { "option_id": 1, "text": "कार", "is_correct": false },
+        { "option_id": 2, "text": "जहाज", "is_correct": true },
+        { "option_id": 3, "text": "सायकल", "is_correct": false },
+        { "option_id": 4, "text": "बस", "is_correct": false }
+      ],
+      "answer": "जहाज"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "चित्रात पुलावर कोणते वाहन चालले आहे?",
+      "options": [
+        { "option_id": 1, "text": "रेल्वे", "is_correct": true },
+        { "option_id": 2, "text": "नौका", "is_correct": false },
+        { "option_id": 3, "text": "सायकल", "is_correct": false },
+        { "option_id": 4, "text": "विमान", "is_correct": false }
+      ],
+      "answer": "रेल्वे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर चालणारे वाहन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "जहाज", "is_correct": false },
+        { "option_id": 2, "text": "विमान", "is_correct": false },
+        { "option_id": 3, "text": "कार", "is_correct": true },
+        { "option_id": 4, "text": "नौका", "is_correct": false }
+      ],
+      "answer": "कार"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "या धड्यात मुलांनी काय करायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "लिहायचे", "is_correct": false },
+        { "option_id": 2, "text": "वाहने ओळखायची", "is_correct": true },
+        { "option_id": 3, "text": "गाणे म्हणायचे", "is_correct": false },
+        { "option_id": 4, "text": "कथा ऐकायची", "is_correct": false }
+      ],
+      "answer": "वाहने ओळखायची"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "चित्र पाहून काय करायला सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "गणना करायला", "is_correct": true },
+        { "option_id": 2, "text": "झोपायला", "is_correct": false },
+        { "option_id": 3, "text": "धावायला", "is_correct": false },
+        { "option_id": 4, "text": "गाण्यासाठी", "is_correct": false }
+      ],
+      "answer": "गणना करायला"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "या धड्यात कोणती कृती आहे?",
+      "options": [
+        { "option_id": 1, "text": "चित्र रंगवणे", "is_correct": false },
+        { "option_id": 2, "text": "वाहनांची चित्रे पाहणे", "is_correct": true },
+        { "option_id": 3, "text": "कविता म्हणणे", "is_correct": false },
+        { "option_id": 4, "text": "नाटक करणे", "is_correct": false }
+      ],
+      "answer": "वाहनांची चित्रे पाहणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "वाहने ओळखल्याने काय फायदा होतो?",
+      "options": [
+        { "option_id": 1, "text": "भूक लागते", "is_correct": false },
+        { "option_id": 2, "text": "ज्ञान वाढते", "is_correct": true },
+        { "option_id": 3, "text": "झोप येते", "is_correct": false },
+        { "option_id": 4, "text": "थकवा येतो", "is_correct": false }
+      ],
+      "answer": "ज्ञान वाढते"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "वाहनांची गणना कशासाठी केली जाते?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "मोजायला शिकण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "रडण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "पळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "मोजायला शिकण्यासाठी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "रेल्वे कुठे चालते?",
+      "options": [
+        { "option_id": 1, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 2, "text": "रेल्वे रुळावर", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 4, "text": "आकाशात", "is_correct": false }
+      ],
+      "answer": "रेल्वे रुळावर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या धड्यातील चित्रे कशासाठी आहेत?",
+      "options": [
+        { "option_id": 1, "text": "सजावटीसाठी", "is_correct": false },
+        { "option_id": 2, "text": "ओळख आणि गणनेसाठी", "is_correct": true },
+        { "option_id": 3, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "गाण्यासाठी", "is_correct": false }
+      ],
+      "answer": "ओळख आणि गणनेसाठी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "हा धडा कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "कठीण", "is_correct": false },
+        { "option_id": 2, "text": "सोप्या कृतींचा", "is_correct": true },
+        { "option_id": 3, "text": "भयानक", "is_correct": false },
+        { "option_id": 4, "text": "दुःखी", "is_correct": false }
+      ],
+      "answer": "सोप्या कृतींचा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्यांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "लहान मुलांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "चालकांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "व्यापाऱ्यांसाठी", "is_correct": false }
+      ],
+      "answer": "लहान मुलांसाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "या धड्याचे नाव काय आहे?",
+      "answer": "या धड्याचे नाव ‘वाहने ओळखू, गणना करू’ आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "या धड्यात कशाची ओळख करून दिली आहे?",
+      "answer": "या धड्यात वाहनांची ओळख करून दिली आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "आकाशात चालणारे वाहन कोणते?",
+      "answer": "आकाशात चालणारे वाहन म्हणजे विमान."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाण्यात चालणारे वाहन कोणते?",
+      "answer": "पाण्यात चालणारे वाहन म्हणजे जहाज."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "रस्त्यावर चालणारे एक वाहन सांगा.",
+      "answer": "रस्त्यावर चालणारे एक वाहन म्हणजे कार."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "या धड्यात मुलांना काय शिकायला मिळते?",
+      "answer": "या धड्यात मुलांना वाहने ओळखणे व मोजणे शिकायला मिळते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "चित्र पाहून काय करायला सांगितले आहे?",
+      "answer": "चित्र पाहून वाहने ओळखून त्यांची गणना करायला सांगितले आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रेल्वे कुठे चालते?",
+      "answer": "रेल्वे रेल्वे रुळावर चालते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "वाहने ओळखल्याने काय फायदा होतो?",
+      "answer": "वाहने ओळखल्याने आपले ज्ञान वाढते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "या धड्यातील एक कृती सांगा.",
+      "answer": "या धड्यातील एक कृती म्हणजे वाहनांची गणना करणे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "हा धडा कसा आहे?",
+      "answer": "हा धडा सोपा आणि उपयुक्त आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "या धड्यात कोणती वाहने दाखवली आहेत?",
+      "answer": "या धड्यात बस, कार, रेल्वे, जहाज आणि विमान दाखवली आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मुलांनी वाहने का ओळखायला हवीत?",
+      "answer": "दैनंदिन जीवनात वापर होतो म्हणून मुलांनी वाहने ओळखायला हवीत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "वाहनांची गणना कशासाठी उपयोगी आहे?",
+      "answer": "वाहनांची गणना मोजणी शिकण्यासाठी उपयोगी आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या वर्गासाठी आहे?",
+      "answer": "हा धडा दुसरीच्या विद्यार्थ्यांसाठी आहे."
+    }
+  ]
+}

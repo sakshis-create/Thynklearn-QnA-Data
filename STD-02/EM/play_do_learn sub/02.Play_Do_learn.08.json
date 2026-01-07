@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.08",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Skill Based Activities"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which item is mentioned to be made out of paper strips?",
+      "options": [
+        { "option_id": 1, "text": "A boat", "is_correct": false },
+        { "option_id": 2, "text": "A paper fan (twister)", "is_correct": true },
+        { "option_id": 3, "text": "A ball", "is_correct": false },
+        { "option_id": 4, "text": "A kite", "is_correct": false }
+      ],
+      "answer": "A paper fan (twister)"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What material is required to make a twister?",
+      "options": [
+        { "option_id": 1, "text": "Paper strips", "is_correct": true },
+        { "option_id": 2, "text": "Plastic bottles", "is_correct": false },
+        { "option_id": 3, "text": "Iron rods", "is_correct": false },
+        { "option_id": 4, "text": "Glass beads", "is_correct": false }
+      ],
+      "answer": "Paper strips"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of the following can be used to create beautiful patterns?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Groundnut shells", "is_correct": true },
+        { "option_id": 3, "text": "Smoke", "is_correct": false },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ],
+      "answer": "Groundnut shells"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is needed to stick the materials together?",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Glue", "is_correct": true },
+        { "option_id": 3, "text": "Sand", "is_correct": false },
+        { "option_id": 4, "text": "Air", "is_correct": false }
+      ],
+      "answer": "Glue"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which natural material is mentioned for making patterns?",
+      "options": [
+        { "option_id": 1, "text": "Dried leaves", "is_correct": true },
+        { "option_id": 2, "text": "Plastic spoons", "is_correct": false },
+        { "option_id": 3, "text": "Rubber bands", "is_correct": false },
+        { "option_id": 4, "text": "Steel wires", "is_correct": false }
+      ],
+      "answer": "Dried leaves"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What else can be used along with groundnut shells for patterns?",
+      "options": [
+        { "option_id": 1, "text": "Seeds", "is_correct": true },
+        { "option_id": 2, "text": "Bricks", "is_correct": false },
+        { "option_id": 3, "text": "Cement", "is_correct": false },
+        { "option_id": 4, "text": "Iron", "is_correct": false }
+      ],
+      "answer": "Seeds"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The activity of making a twister uses paper of ________.",
+      "options": [
+        { "option_id": 1, "text": "Only white colour", "is_correct": false },
+        { "option_id": 2, "text": "Different colours", "is_correct": true },
+        { "option_id": 3, "text": "Only black colour", "is_correct": false },
+        { "option_id": 4, "text": "Transparent colour", "is_correct": false }
+      ],
+      "answer": "Different colours"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where can we find materials like dried leaves and flowers?",
+      "options": [
+        { "option_id": 1, "text": "In the sky", "is_correct": false },
+        { "option_id": 2, "text": "Around us", "is_correct": true },
+        { "option_id": 3, "text": "In a factory", "is_correct": false },
+        { "option_id": 4, "text": "Under water", "is_correct": false }
+      ],
+      "answer": "Around us"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the main purpose of using groundnut shells and seeds?",
+      "options": [
+        { "option_id": 1, "text": "To eat them", "is_correct": false },
+        { "option_id": 2, "text": "To throw them away", "is_correct": false },
+        { "option_id": 3, "text": "To make beautiful patterns", "is_correct": true },
+        { "option_id": 4, "text": "To burn them", "is_correct": false }
+      ],
+      "answer": "To make beautiful patterns"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which tool is used to help the paper strips stick?",
+      "options": [
+        { "option_id": 1, "text": "Scissors", "is_correct": false },
+        { "option_id": 2, "text": "Stick glue", "is_correct": true },
+        { "option_id": 3, "text": "Pencil", "is_correct": false },
+        { "option_id": 4, "text": "Eraser", "is_correct": false }
+      ],
+      "answer": "Stick glue"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What kind of activity is making a paper fan?",
+      "options": [
+        { "option_id": 1, "text": "Skill based activity", "is_correct": true },
+        { "option_id": 2, "text": "Running activity", "is_correct": false },
+        { "option_id": 3, "text": "Singing activity", "is_correct": false },
+        { "option_id": 4, "text": "Dancing activity", "is_correct": false }
+      ],
+      "answer": "Skill based activity"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What type of leaves are used for the patterns?",
+      "options": [
+        { "option_id": 1, "text": "Fresh green leaves", "is_correct": false },
+        { "option_id": 2, "text": "Dried leaves", "is_correct": true },
+        { "option_id": 3, "text": "Plastic leaves", "is_correct": false },
+        { "option_id": 4, "text": "Wet leaves", "is_correct": false }
+      ],
+      "answer": "Dried leaves"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Are flowers used in making patterns?",
+      "options": [
+        { "option_id": 1, "text": "Yes, dried flowers", "is_correct": true },
+        { "option_id": 2, "text": "No, never", "is_correct": false },
+        { "option_id": 3, "text": "Only plastic flowers", "is_correct": false },
+        { "option_id": 4, "text": "Only fresh flowers", "is_correct": false }
+      ],
+      "answer": "Yes, dried flowers"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is another name used for the paper fan in the text?",
+      "options": [
+        { "option_id": 1, "text": "Roller", "is_correct": false },
+        { "option_id": 2, "text": "Twister", "is_correct": true },
+        { "option_id": 3, "text": "Glider", "is_correct": false },
+        { "option_id": 4, "text": "Spinner", "is_correct": false }
+      ],
+      "answer": "Twister"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What quality does the text say the patterns will have?",
+      "options": [
+        { "option_id": 1, "text": "Ugly", "is_correct": false },
+        { "option_id": 2, "text": "Beautiful", "is_correct": true },
+        { "option_id": 3, "text": "Boring", "is_correct": false },
+        { "option_id": 4, "text": "Scary", "is_correct": false }
+      ],
+      "answer": "Beautiful"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the main material used to make a twister?",
+      "answer": "Paper strips of different colours are used to make a twister."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "List three natural materials used for making patterns.",
+      "answer": "Groundnut shells, seeds, and dried leaves."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the use of glue in these activities?",
+      "answer": "Glue is used to stick different materials together to form shapes or patterns."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is another name for a paper fan mention in the chapter?",
+      "answer": "A paper fan is also called a twister."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Where can we find the material for making patterns?",
+      "answer": "The material can be easily found around us."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What should be the condition of the leaves used for patterns?",
+      "answer": "The leaves used for patterns should be dried."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the first step in making a paper fan?",
+      "answer": "The first step is to take paper strips of different colours."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Can we use seeds to make patterns?",
+      "answer": "Yes, seeds can be used to make beautiful patterns."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name one waste material mentioned that is used for patterns.",
+      "answer": "Groundnut shells."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What can be created by sticking different materials together?",
+      "answer": "A beautiful creation or pattern can be made."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What items are needed to make a twister?",
+      "answer": "Paper strips, a stick, and glue are needed."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Is paper used in making patterns?",
+      "answer": "Yes, paper can be used as a base or material for patterns."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What type of flowers should be used for the activity?",
+      "answer": "Dried flowers should be used."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why do we use different coloured paper strips for the fan?",
+      "answer": "To make the paper fan (twister) look colourful and attractive."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the general name of this chapter?",
+      "answer": "Skill Based Activities."
+    }
+  ]
+}

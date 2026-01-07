@@ -1,0 +1,1206 @@
+{
+" Chapter 5": " Substances in the Surroundings-Their States and Properties",
+"total_questions": 150,
+"questions": [
+{
+"question_id": 1,
+"question_type": "MCQ",
+"question": "What is the process called when a substance changes from one state to another?",
+"options": [
+{"option_id": 1, "text": "Chemical reaction", "is_correct": false},
+{"option_id": 2, "text": "Change of state", "is_correct": true},
+{"option_id": 3, "text": "Evaporation", "is_correct": false},
+{"option_id": 4, "text": "Freezing", "is_correct": false}
+],
+"answer": "Change of state"
+},
+{
+"question_id": 2,
+"question_type": "MCQ",
+"question": "Pieces of wax are heated on a candle or spirit lamp, what do they change into first?",
+"options": [
+{"option_id": 1, "text": "Gas", "is_correct": false},
+{"option_id": 2, "text": "Liquid", "is_correct": true},
+{"option_id": 3, "text": "Vapour", "is_correct": false},
+{"option_id": 4, "text": "Solid remains", "is_correct": false}
+],
+"answer": "Liquid"
+},
+{
+"question_id": 3,
+"question_type": "MCQ",
+"question": "When the bowl with melted wax is kept in cold water, what happens to the wax?",
+"options": [
+{"option_id": 1, "text": "It boils", "is_correct": false},
+{"option_id": 2, "text": "It solidifies", "is_correct": true},
+{"option_id": 3, "text": "It evaporates", "is_correct": false},
+{"option_id": 4, "text": "It sublimes", "is_correct": false}
+],
+"answer": "It solidifies"
+},
+{
+"question_id": 4,
+"question_type": "MCQ",
+"question": "Which scientist showed that properties depend on physical state and particle arrangement?",
+"options": [
+{"option_id": 1, "text": "Isaac Newton", "is_correct": false},
+{"option_id": 2, "text": "J. Willard Gibbs", "is_correct": true},
+{"option_id": 3, "text": "Albert Einstein", "is_correct": false},
+{"option_id": 4, "text": "Galileo", "is_correct": false}
+],
+"answer": "J. Willard Gibbs"
+},
+{
+"question_id": 5,
+"question_type": "MCQ",
+"question": "In which century did J. Willard Gibbs make his discovery?",
+"options": [
+{"option_id": 1, "text": "18th century", "is_correct": false},
+{"option_id": 2, "text": "19th century", "is_correct": true},
+{"option_id": 3, "text": "20th century", "is_correct": false},
+{"option_id": 4, "text": "21st century", "is_correct": false}
+],
+"answer": "19th century"
+},
+{
+"question_id": 6,
+"question_type": "MCQ",
+"question": "On gaining heat, a substance changes from solid to",
+"options": [
+{"option_id": 1, "text": "Gas", "is_correct": false},
+{"option_id": 2, "text": "Liquid", "is_correct": true},
+{"option_id": 3, "text": "Vapour", "is_correct": false},
+{"option_id": 4, "text": "Plasma", "is_correct": false}
+],
+"answer": "Liquid"
+},
+{
+"question_id": 7,
+"question_type": "MCQ",
+"question": "The unit of measuring temperature Degrees Celsius is written as",
+"options": [
+{"option_id": 1, "text": "°F", "is_correct": false},
+{"option_id": 2, "text": "°C", "is_correct": true},
+{"option_id": 3, "text": "K", "is_correct": false},
+{"option_id": 4, "text": "°R", "is_correct": false}
+],
+"answer": "°C"
+},
+{
+"question_id": 8,
+"question_type": "MCQ",
+"question": "What is used to measure temperature accurately?",
+"options": [
+{"option_id": 1, "text": "Hand", "is_correct": false},
+{"option_id": 2, "text": "Thermometer", "is_correct": true},
+{"option_id": 3, "text": "Finger", "is_correct": false},
+{"option_id": 4, "text": "Scale", "is_correct": false}
+],
+"answer": "Thermometer"
+},
+{
+"question_id": 9,
+"question_type": "MCQ",
+"question": "Solids have a shape of their own and",
+"options": [
+{"option_id": 1, "text": "No volume", "is_correct": false},
+{"option_id": 2, "text": "Definite volume", "is_correct": true},
+{"option_id": 3, "text": "Spread out", "is_correct": false},
+{"option_id": 4, "text": "No shape", "is_correct": false}
+],
+"answer": "Definite volume"
+},
+{
+"question_id": 10,
+"question_type": "MCQ",
+"question": "Liquids take the shape of the",
+"options": [
+{"option_id": 1, "text": "Room", "is_correct": false},
+{"option_id": 2, "text": "Container", "is_correct": true},
+{"option_id": 3, "text": "Earth", "is_correct": false},
+{"option_id": 4, "text": "Table", "is_correct": false}
+],
+"answer": "Container"
+},
+{
+"question_id": 11,
+"question_type": "MCQ",
+"question": "Gases occupy all the available",
+"options": [
+{"option_id": 1, "text": "Shape", "is_correct": false},
+{"option_id": 2, "text": "Space", "is_correct": true},
+{"option_id": 3, "text": "Volume only", "is_correct": false},
+{"option_id": 4, "text": "Bottom", "is_correct": false}
+],
+"answer": "Space"
+},
+{
+"question_id": 12,
+"question_type": "MCQ",
+"question": "The bulb of a thermometer is filled with",
+"options": [
+{"option_id": 1, "text": "Water", "is_correct": false},
+{"option_id": 2, "text": "Mercury", "is_correct": true},
+{"option_id": 3, "text": "Alcohol", "is_correct": false},
+{"option_id": 4, "text": "Air", "is_correct": false}
+],
+"answer": "Mercury"
+},
+{
+"question_id": 13,
+"question_type": "MCQ",
+"question": "At sea-level, pure water boils at",
+"options": [
+{"option_id": 1, "text": "0°C", "is_correct": false},
+{"option_id": 2, "text": "100°C", "is_correct": true},
+{"option_id": 3, "text": "50°C", "is_correct": false},
+{"option_id": 4, "text": "37°C", "is_correct": false}
+],
+"answer": "100°C"
+},
+{
+"question_id": 14,
+"question_type": "MCQ",
+"question": "The boiling point of water is the same as its",
+"options": [
+{"option_id": 1, "text": "Freezing point", "is_correct": false},
+{"option_id": 2, "text": "Condensation point", "is_correct": true},
+{"option_id": 3, "text": "Melting point", "is_correct": false},
+{"option_id": 4, "text": "Sublimation point", "is_correct": false}
+],
+"answer": "Condensation point"
+},
+{
+"question_id": 15,
+"question_type": "MCQ",
+"question": "Water freezes at",
+"options": [
+{"option_id": 1, "text": "100°C", "is_correct": false},
+{"option_id": 2, "text": "0°C", "is_correct": true},
+{"option_id": 3, "text": "-18°C", "is_correct": false},
+{"option_id": 4, "text": "37°C", "is_correct": false}
+],
+"answer": "0°C"
+},
+{
+"question_id": 16,
+"question_type": "MCQ",
+"question": "The temperature inside a freezer is around",
+"options": [
+{"option_id": 1, "text": "5°C", "is_correct": false},
+{"option_id": 2, "text": "-18°C", "is_correct": true},
+{"option_id": 3, "text": "35°C", "is_correct": false},
+{"option_id": 4, "text": "100°C", "is_correct": false}
+],
+"answer": "-18°C"
+},
+{
+"question_id": 17,
+"question_type": "MCQ",
+"question": "Ice melts at the same temperature it",
+"options": [
+{"option_id": 1, "text": "Boils", "is_correct": false},
+{"option_id": 2, "text": "Freezes", "is_correct": true},
+{"option_id": 3, "text": "Evaporates", "is_correct": false},
+{"option_id": 4, "text": "Sublimes", "is_correct": false}
+],
+"answer": "Freezes"
+},
+{
+"question_id": 18,
+"question_type": "MCQ",
+"question": "The change of solid directly into gas is called",
+"options": [
+{"option_id": 1, "text": "Melting", "is_correct": false},
+{"option_id": 2, "text": "Evaporation", "is_correct": false},
+{"option_id": 3, "text": "Sublimation", "is_correct": true},
+{"option_id": 4, "text": "Condensation", "is_correct": false}
+],
+"answer": "Sublimation"
+},
+{
+"question_id": 19,
+"question_type": "MCQ",
+"question": "Iodine crystals change directly to gaseous state on heating, this is",
+"options": [
+{"option_id": 1, "text": "Boiling", "is_correct": false},
+{"option_id": 2, "text": "Sublimation", "is_correct": true},
+{"option_id": 3, "text": "Freezing", "is_correct": false},
+{"option_id": 4, "text": "Melting", "is_correct": false}
+],
+"answer": "Sublimation"
+},
+{
+"question_id": 20,
+"question_type": "MCQ",
+"question": "Substances like chalk or glass break into pieces under pressure, this property is",
+"options": [
+{"option_id": 1, "text": "Elasticity", "is_correct": false},
+{"option_id": 2, "text": "Brittleness", "is_correct": true},
+{"option_id": 3, "text": "Hardness", "is_correct": false},
+{"option_id": 4, "text": "Fluidity", "is_correct": false}
+],
+"answer": "Brittleness"
+},
+{
+"question_id": 21,
+"question_type": "MCQ",
+"question": "Rubber band returns to original shape after stretching, this is",
+"options": [
+{"option_id": 1, "text": "Hardness", "is_correct": false},
+{"option_id": 2, "text": "Elasticity", "is_correct": true},
+{"option_id": 3, "text": "Brittleness", "is_correct": false},
+{"option_id": 4, "text": "Density", "is_correct": false}
+],
+"answer": "Elasticity"
+},
+{
+"question_id": 22,
+"question_type": "MCQ",
+"question": "Liquids flow downward on a sloping surface due to",
+"options": [
+{"option_id": 1, "text": "Elasticity", "is_correct": false},
+{"option_id": 2, "text": "Fluidity", "is_correct": true},
+{"option_id": 3, "text": "Solubility", "is_correct": false},
+{"option_id": 4, "text": "Transparency", "is_correct": false}
+],
+"answer": "Fluidity"
+},
+{
+"question_id": 23,
+"question_type": "MCQ",
+"question": "Iron block is heavier than wooden block of same size due to higher",
+"options": [
+{"option_id": 1, "text": "Volume", "is_correct": false},
+{"option_id": 2, "text": "Density", "is_correct": true},
+{"option_id": 3, "text": "Shape", "is_correct": false},
+{"option_id": 4, "text": "Transparency", "is_correct": false}
+],
+"answer": "Density"
+},
+{
+"question_id": 24,
+"question_type": "MCQ",
+"question": "Salt dissolves in water but not in kerosene, this property is",
+"options": [
+{"option_id": 1, "text": "Insolubility", "is_correct": false},
+{"option_id": 2, "text": "Solubility", "is_correct": true},
+{"option_id": 3, "text": "Transparency", "is_correct": false},
+{"option_id": 4, "text": "Brittleness", "is_correct": false}
+],
+"answer": "Solubility"
+},
+{
+"question_id": 25,
+"question_type": "MCQ",
+"question": "Glass and clean water allow seeing through, this is",
+"options": [
+{"option_id": 1, "text": "Opacity", "is_correct": false},
+{"option_id": 2, "text": "Transparency", "is_correct": true},
+{"option_id": 3, "text": "Density", "is_correct": false},
+{"option_id": 4, "text": "Elasticity", "is_correct": false}
+],
+"answer": "Transparency"
+},
+{
+"question_id": 26,
+"question_type": "MCQ",
+"question": "Copper, gold, iron, aluminium are examples of",
+"options": [
+{"option_id": 1, "text": "Non-metals", "is_correct": false},
+{"option_id": 2, "text": "Metals", "is_correct": true},
+{"option_id": 3, "text": "Liquids", "is_correct": false},
+{"option_id": 4, "text": "Gases", "is_correct": false}
+],
+"answer": "Metals"
+},
+{
+"question_id": 27,
+"question_type": "MCQ",
+"question": "Metals can be converted into sheets by hammering, this is",
+"options": [
+{"option_id": 1, "text": "Ductility", "is_correct": false},
+{"option_id": 2, "text": "Malleability", "is_correct": true},
+{"option_id": 3, "text": "Sonority", "is_correct": false},
+{"option_id": 4, "text": "Lustre", "is_correct": false}
+],
+"answer": "Malleability"
+},
+{
+"question_id": 28,
+"question_type": "MCQ",
+"question": "Metals can be drawn into wires, this property is",
+"options": [
+{"option_id": 1, "text": "Malleability", "is_correct": false},
+{"option_id": 2, "text": "Ductility", "is_correct": true},
+{"option_id": 3, "text": "Brittleness", "is_correct": false},
+{"option_id": 4, "text": "Solubility", "is_correct": false}
+],
+"answer": "Ductility"
+},
+{
+"question_id": 29,
+"question_type": "MCQ",
+"question": "Metals allow electricity to flow through them, this is",
+"options": [
+{"option_id": 1, "text": "Thermal conductivity", "is_correct": false},
+{"option_id": 2, "text": "Electrical conductivity", "is_correct": true},
+{"option_id": 3, "text": "Sonority", "is_correct": false},
+{"option_id": 4, "text": "Density", "is_correct": false}
+],
+"answer": "Electrical conductivity"
+},
+{
+"question_id": 30,
+"question_type": "MCQ",
+"question": "Metals produce a ringing sound, this property is",
+"options": [
+{"option_id": 1, "text": "Lustre", "is_correct": false},
+{"option_id": 2, "text": "Sonority", "is_correct": true},
+{"option_id": 3, "text": "Elasticity", "is_correct": false},
+{"option_id": 4, "text": "Fluidity", "is_correct": false}
+],
+"answer": "Sonority"
+},
+{
+"question_id": 31,
+"question_type": "MCQ",
+"question": "Human body temperature is approximately",
+"options": [
+{"option_id": 1, "text": "0°C", "is_correct": false},
+{"option_id": 2, "text": "37°C", "is_correct": true},
+{"option_id": 3, "text": "100°C", "is_correct": false},
+{"option_id": 4, "text": "-18°C", "is_correct": false}
+],
+"answer": "37°C"
+},
+{
+"question_id": 32,
+"question_type": "MCQ",
+"question": "Air temperature on a winter night can be",
+"options": [
+{"option_id": 1, "text": "35°C", "is_correct": false},
+{"option_id": 2, "text": "15°C", "is_correct": true},
+{"option_id": 3, "text": "100°C", "is_correct": false},
+{"option_id": 4, "text": "0°C", "is_correct": false}
+],
+"answer": "15°C"
+},
+{
+"question_id": 33,
+"question_type": "MCQ",
+"question": "Inside a fridge temperature is",
+"options": [
+{"option_id": 1, "text": "5°C", "is_correct": true},
+{"option_id": 2, "text": "-18°C", "is_correct": false},
+{"option_id": 3, "text": "37°C", "is_correct": false},
+{"option_id": 4, "text": "100°C", "is_correct": false}
+],
+"answer": "5°C"
+},
+{
+"question_id": 34,
+"question_type": "MCQ",
+"question": "Camphor smell spreads because of",
+"options": [
+{"option_id": 1, "text": "Boiling", "is_correct": false},
+{"option_id": 2, "text": "Sublimation", "is_correct": true},
+{"option_id": 3, "text": "Melting", "is_correct": false},
+{"option_id": 4, "text": "Freezing", "is_correct": false}
+],
+"answer": "Sublimation"
+},
+{
+"question_id": 35,
+"question_type": "MCQ",
+"question": "Naphthalene balls are an example of substances that",
+"options": [
+{"option_id": 1, "text": "Freeze in winter", "is_correct": false},
+{"option_id": 2, "text": "Sublimate", "is_correct": true},
+{"option_id": 3, "text": "Dissolve easily", "is_correct": false},
+{"option_id": 4, "text": "Melt quickly", "is_correct": false}
+],
+"answer": "Sublimate"
+},
+{
+"question_id": 36,
+"question_type": "MCQ",
+"question": "Adding salt to water changes its",
+"options": [
+{"option_id": 1, "text": "Freezing point", "is_correct": false},
+{"option_id": 2, "text": "Boiling point", "is_correct": true},
+{"option_id": 3, "text": "Density only", "is_correct": false},
+{"option_id": 4, "text": "Transparency", "is_correct": false}
+],
+"answer": "Boiling point"
+},
+{
+"question_id": 37,
+"question_type": "MCQ",
+"question": "Metals have a typical",
+"options": [
+{"option_id": 1, "text": "Dullness", "is_correct": false},
+{"option_id": 2, "text": "Shine or lustre", "is_correct": true},
+{"option_id": 3, "text": "Transparency", "is_correct": false},
+{"option_id": 4, "text": "Brittleness", "is_correct": false}
+],
+"answer": "Shine or lustre"
+},
+{
+"question_id": 38,
+"question_type": "MCQ",
+"question": "Electric boards are made of plastic or wood because they are",
+"options": [
+{"option_id": 1, "text": "Conductors", "is_correct": false},
+{"option_id": 2, "text": "Insulators", "is_correct": true},
+{"option_id": 3, "text": "Malleable", "is_correct": false},
+{"option_id": 4, "text": "Sonorous", "is_correct": false}
+],
+"answer": "Insulators"
+},
+{
+"question_id": 39,
+"question_type": "MCQ",
+"question": "Cooker handle is made of plastic because",
+"options": [
+{"option_id": 1, "text": "It conducts heat", "is_correct": false},
+{"option_id": 2, "text": "It is poor conductor of heat", "is_correct": true},
+{"option_id": 3, "text": "It is metal", "is_correct": false},
+{"option_id": 4, "text": "It sublimes", "is_correct": false}
+],
+"answer": "It is poor conductor of heat"
+},
+{
+"question_id": 40,
+"question_type": "MCQ",
+"question": "Metals like silver, gold are drawn into fine wires due to",
+"options": [
+{"option_id": 1, "text": "Malleability", "is_correct": false},
+{"option_id": 2, "text": "Ductility", "is_correct": true},
+{"option_id": 3, "text": "Brittleness", "is_correct": false},
+{"option_id": 4, "text": "Solubility", "is_correct": false}
+],
+"answer": "Ductility"
+},
+{
+"question_id": 41,
+"question_type": "MCQ",
+"question": "Striking metal produces ringing sound due to",
+"options": [
+{"option_id": 1, "text": "Dull thud", "is_correct": false},
+{"option_id": 2, "text": "Sonority", "is_correct": true},
+{"option_id": 3, "text": "Transparency", "is_correct": false},
+{"option_id": 4, "text": "Density", "is_correct": false}
+],
+"answer": "Sonority"
+},
+{
+"question_id": 42,
+"question_type": "MCQ",
+"question": "Dry ice is solid",
+"options": [
+{"option_id": 1, "text": "Water", "is_correct": false},
+{"option_id": 2, "text": "Carbon dioxide", "is_correct": true},
+{"option_id": 3, "text": "Nitrogen", "is_correct": false},
+{"option_id": 4, "text": "Oxygen", "is_correct": false}
+],
+"answer": "Carbon dioxide"
+},
+{
+"question_id": 43,
+"question_type": "MCQ",
+"question": "Liquid nitrogen is used in",
+"options": [
+{"option_id": 1, "text": "Cooking", "is_correct": false},
+{"option_id": 2, "text": "Animal husbandry", "is_correct": true},
+{"option_id": 3, "text": "Roofing", "is_correct": false},
+{"option_id": 4, "text": "Wiring", "is_correct": false}
+],
+"answer": "Animal husbandry"
+},
+{
+"question_id": 44,
+"question_type": "MCQ",
+"question": "Sand silica is melted to make",
+"options": [
+{"option_id": 1, "text": "Metals", "is_correct": false},
+{"option_id": 2, "text": "Glass", "is_correct": true},
+{"option_id": 3, "text": "Wires", "is_correct": false},
+{"option_id": 4, "text": "Ornaments", "is_correct": false}
+],
+"answer": "Glass"
+},
+{
+"question_id": 45,
+"question_type": "MCQ",
+"question": "Iron is melted to make",
+"options": [
+{"option_id": 1, "text": "Ornaments", "is_correct": false},
+{"option_id": 2, "text": "Tools", "is_correct": true},
+{"option_id": 3, "text": "Glass", "is_correct": false},
+{"option_id": 4, "text": "Ice cream", "is_correct": false}
+],
+"answer": "Tools"
+},
+{
+"question_id": 46,
+"question_type": "MCQ",
+"question": "Air summer afternoon temperature approx",
+"options": [
+{"option_id": 1, "text": "15°C", "is_correct": false},
+{"option_id": 2, "text": "35°C", "is_correct": true},
+{"option_id": 3, "text": "5°C", "is_correct": false},
+{"option_id": 4, "text": "100°C", "is_correct": false}
+],
+"answer": "35°C"
+},
+{
+"question_id": 47,
+"question_type": "MCQ",
+"question": "Coconut oil, ghee freeze in",
+"options": [
+{"option_id": 1, "text": "Summer", "is_correct": false},
+{"option_id": 2, "text": "Winter", "is_correct": true},
+{"option_id": 3, "text": "Rainy season", "is_correct": false},
+{"option_id": 4, "text": "Autumn", "is_correct": false}
+],
+"answer": "Winter"
+},
+{
+"question_id": 48,
+"question_type": "MCQ",
+"question": "Petrol, spirit change into vapour easily, they are",
+"options": [
+{"option_id": 1, "text": "Liquids", "is_correct": true},
+{"option_id": 2, "text": "Solids", "is_correct": false},
+{"option_id": 3, "text": "Gases", "is_correct": false},
+{"option_id": 4, "text": "Metals", "is_correct": false}
+],
+"answer": "Liquids"
+},
+{
+"question_id": 49,
+"question_type": "MCQ",
+"question": "Camphor, naphthalene balls, ammonium chloride directly change to gas, this is",
+"options": [
+{"option_id": 1, "text": "Melting", "is_correct": false},
+{"option_id": 2, "text": "Sublimation", "is_correct": true},
+{"option_id": 3, "text": "Boiling", "is_correct": false},
+{"option_id": 4, "text": "Condensation", "is_correct": false}
+],
+"answer": "Sublimation"
+},
+{
+"question_id": 50,
+"question_type": "MCQ",
+"question": "The state of substance changes on",
+"options": [
+{"option_id": 1, "text": "Heating or cooling", "is_correct": true},
+{"option_id": 2, "text": "Pressure only", "is_correct": false},
+{"option_id": 3, "text": "Light", "is_correct": false},
+{"option_id": 4, "text": "Sound", "is_correct": false}
+],
+"answer": "Heating or cooling"
+},
+{
+"question_id": 51,
+"question_type": "SHORT",
+"question": "Name the three states of water.",
+"answer": "Solid (ice), liquid (water), gaseous (water vapour)."
+},
+{
+"question_id": 52,
+"question_type": "SHORT",
+"question": "What happens to pieces of wax when heated?",
+"answer": "The pieces of wax melt."
+},
+{
+"question_id": 53,
+"question_type": "SHORT",
+"question": "What is the initial state of wax?",
+"answer": "Solid state."
+},
+{
+"question_id": 54,
+"question_type": "SHORT",
+"question": "Name substances that freeze in winter from the list: spirit, camphor, petrol, ghee.",
+"answer": "Ghee, coconut oil."
+},
+{
+"question_id": 55,
+"question_type": "SHORT",
+"question": "Which liquid changes into vapour easily?",
+"answer": "Spirit, petrol."
+},
+{
+"question_id": 56,
+"question_type": "SHORT",
+"question": "Name solids that directly change to gaseous state.",
+"answer": "Camphor, naphthalene balls, ammonium chloride."
+},
+{
+"question_id": 57,
+"question_type": "SHORT",
+"question": "On what does the characteristic properties of a substance depend?",
+"answer": "Its physical state and the arrangement of particles in it."
+},
+{
+"question_id": 58,
+"question_type": "SHORT",
+"question": "What causes change in physical state of substance?",
+"answer": "Amount of heat gained or lost."
+},
+{
+"question_id": 59,
+"question_type": "SHORT",
+"question": "Why not use hand to measure hot substances?",
+"answer": "Could get scalded; not accurate."
+},
+{
+"question_id": 60,
+"question_type": "SHORT",
+"question": "What fills the bulb of a laboratory thermometer?",
+"answer": "Mercury."
+},
+{
+"question_id": 61,
+"question_type": "SHORT",
+"question": "How to read temperature on thermometer?",
+"answer": "Figure near the level of mercury."
+},
+{
+"question_id": 62,
+"question_type": "SHORT",
+"question": "What is boiling of water called?",
+"answer": "Ebullition."
+},
+{
+"question_id": 63,
+"question_type": "SHORT",
+"question": "At what temperature does pure water boil at sea-level?",
+"answer": "100°C."
+},
+{
+"question_id": 64,
+"question_type": "SHORT",
+"question": "What is the process when water vapour cools to water?",
+"answer": "Condensation."
+},
+{
+"question_id": 65,
+"question_type": "SHORT",
+"question": "What is freezing point of water?",
+"answer": "0°C."
+},
+{
+"question_id": 66,
+"question_type": "SHORT",
+"question": "Temperature below 0°C is written as?",
+"answer": "Minus degrees, e.g., -18°C."
+},
+{
+"question_id": 67,
+"question_type": "SHORT",
+"question": "Each substance has specific what points?",
+"answer": "Boiling/condensation and melting/freezing points."
+},
+{
+"question_id": 68,
+"question_type": "SHORT",
+"question": "What happens to iodine crystals on heating with sand?",
+"answer": "Change directly to gaseous state."
+},
+{
+"question_id": 69,
+"question_type": "SHORT",
+"question": "What is sublimation?",
+"answer": "Change of solid directly into gas or vapour without becoming liquid."
+},
+{
+"question_id": 70,
+"question_type": "SHORT",
+"question": "Why does camphor smell spread from open box?",
+"answer": "Sublimation."
+},
+{
+"question_id": 71,
+"question_type": "SHORT",
+"question": "Substances break into pieces under pressure like chalk, this is?",
+"answer": "Brittleness."
+},
+{
+"question_id": 72,
+"question_type": "SHORT",
+"question": "Rubber band or sponge returns to shape after force, this is?",
+"answer": "Elasticity."
+},
+{
+"question_id": 73,
+"question_type": "SHORT",
+"question": "Property by which liquids flow down slope?",
+"answer": "Fluidity."
+},
+{
+"question_id": 74,
+"question_type": "SHORT",
+"question": "Why iron block heavier than wood of same size?",
+"answer": "Higher density."
+},
+{
+"question_id": 75,
+"question_type": "SHORT",
+"question": "Salt soluble in water but insoluble in?",
+"answer": "Kerosene."
+},
+{
+"question_id": 76,
+"question_type": "SHORT",
+"question": "Glass, clean water are what?",
+"answer": "Transparent."
+},
+{
+"question_id": 77,
+"question_type": "SHORT",
+"question": "Metals found deep in earth as?",
+"answer": "Minerals."
+},
+{
+"question_id": 78,
+"question_type": "SHORT",
+"question": "Hammering metal wire makes it?",
+"answer": "Flat sheet (malleability)."
+},
+{
+"question_id": 79,
+"question_type": "SHORT",
+"question": "Stretching metal into wire is?",
+"answer": "Ductility."
+},
+{
+"question_id": 80,
+"question_type": "SHORT",
+"question": "Metals conduct what two things?",
+"answer": "Electricity and heat."
+},
+{
+"question_id": 81,
+"question_type": "SHORT",
+"question": "Metals have characteristic what?",
+"answer": "Colour and shine (lustre)."
+},
+{
+"question_id": 82,
+"question_type": "SHORT",
+"question": "Sound from metal vs wood?",
+"answer": "Ringing sound (sonority)."
+},
+{
+"question_id": 83,
+"question_type": "SHORT",
+"question": "Candles made by?",
+"answer": "Melting paraffin wax."
+},
+{
+"question_id": 84,
+"question_type": "SHORT",
+"question": "Dry ice used to?",
+"answer": "Make ice cream and keep frozen."
+},
+{
+"question_id": 85,
+"question_type": "SHORT",
+"question": "Gold, silver melted for?",
+"answer": "Ornaments."
+},
+{
+"question_id": 86,
+"question_type": "SHORT",
+"question": "Observe blacksmith shop for what?",
+"answer": "Hammering hot iron into sheets."
+},
+{
+"question_id": 87,
+"question_type": "SHORT",
+"question": "Why plastic/wood for electric boards?",
+"answer": "Non-conductors of electricity."
+},
+{
+"question_id": 88,
+"question_type": "SHORT",
+"question": "Why plastic handle on cooker?",
+"answer": "Poor conductor of heat."
+},
+{
+"question_id": 89,
+"question_type": "SHORT",
+"question": "Three states of substances?",
+"answer": "Solid, liquid, gas."
+},
+{
+"question_id": 90,
+"question_type": "SHORT",
+"question": "Every substance found in which states?",
+"answer": "Solid, liquid, or gaseous."
+},
+{
+"question_id": 91,
+"question_type": "SHORT",
+"question": "Why water spilled on floor dries?",
+"answer": "Evaporation."
+},
+{
+"question_id": 92,
+"question_type": "SHORT",
+"question": "Evaporation occurs from where?",
+"answer": "Surface of water."
+},
+{
+"question_id": 93,
+"question_type": "SHORT",
+"question": "Boiling happens when?",
+"answer": "Evaporation in all parts of water body."
+},
+{
+"question_id": 94,
+"question_type": "SHORT",
+"question": "Water bubbles rise during what?",
+"answer": "Boiling."
+},
+{
+"question_id": 95,
+"question_type": "SHORT",
+"question": "Ice changes to liquid at?",
+"answer": "0°C (melting)."
+},
+{
+"question_id": 96,
+"question_type": "SHORT",
+"question": "Specific amount of heat needed for?",
+"answer": "Change of state."
+},
+{
+"question_id": 97,
+"question_type": "SHORT",
+"question": "Solids poured form?",
+"answer": "Heap."
+},
+{
+"question_id": 98,
+"question_type": "SHORT",
+"question": "Liquids flow downwards along?",
+"answer": "Slope."
+},
+{
+"question_id": 99,
+"question_type": "SHORT",
+"question": "Gas volume changes with?",
+"answer": "Pressure in closed container."
+},
+{
+"question_id": 100,
+"question_type": "SHORT",
+"question": "Digital thermometers are frequently used now.",
+"answer": "Yes."
+},
+{
+"question_id": 101,
+"question_type": "SHORT",
+"question": "Fragrance of incense spreads why?",
+"answer": "Evaporation/sublimation."
+},
+{
+"question_id": 102,
+"question_type": "SHORT",
+"question": "Kerosene open in dish disappears due to?",
+"answer": "Evaporation."
+},
+{
+"question_id": 103,
+"question_type": "SHORT",
+"question": "Coconut oil thickens in winter why?",
+"answer": "Freezing."
+},
+{
+"question_id": 104,
+"question_type": "SHORT",
+"question": "Sugar, sand solubility test in what?",
+"answer": "Water and kerosene."
+},
+{
+"question_id": 105,
+"question_type": "SHORT",
+"question": "Hardness determined by resistance to?",
+"answer": "Pushing through."
+},
+{
+"question_id": 106,
+"question_type": "SHORT",
+"question": "Nail pierces wet mud easily due to?",
+"answer": "Low hardness of mud."
+},
+{
+"question_id": 107,
+"question_type": "SHORT",
+"question": "Iron nail vs wood for piercing?",
+"answer": "Pierces wood with effort."
+},
+{
+"question_id": 108,
+"question_type": "SHORT",
+"question": "What is hardest known substance?",
+"answer": "Diamond."
+},
+{
+"question_id": 109,
+"question_type": "SHORT",
+"question": "Apply pressure on sponge, it?",
+"answer": "Returns to shape (elastic)."
+},
+{
+"question_id": 110,
+"question_type": "SHORT",
+"question": "Drop water, honey, gum on slope board, they?",
+"answer": "Flow down (fluidity)."
+},
+{
+"question_id": 111,
+"question_type": "SHORT",
+"question": "Solids like sugar, sand poured on flat surface?",
+"answer": "Form heap."
+},
+{
+"question_id": 112,
+"question_type": "SHORT",
+"question": "Property of getting dissolved?",
+"answer": "Solubility."
+},
+{
+"question_id": 113,
+"question_type": "SHORT",
+"question": "Beverages made using water and?",
+"answer": "Soluble substances."
+},
+{
+"question_id": 114,
+"question_type": "SHORT",
+"question": "Air is transparent yes/no?",
+"answer": "Yes."
+},
+{
+"question_id": 115,
+"question_type": "SHORT",
+"question": "Identify glass rod: plastic/steel/glass by?",
+"answer": "Transparency."
+},
+{
+"question_id": 116,
+"question_type": "SHORT",
+"question": "White powder salt/chalk by?",
+"answer": "Solubility."
+},
+{
+"question_id": 117,
+"question_type": "SHORT",
+"question": "Door wooden/glass by?",
+"answer": "Transparency."
+},
+{
+"question_id": 118,
+"question_type": "SHORT",
+"question": "Minerals processed to get?",
+"answer": "Metals."
+},
+{
+"question_id": 119,
+"question_type": "SHORT",
+"question": "Hammer copper wire, becomes?",
+"answer": "Thin sheet."
+},
+{
+"question_id": 120,
+"question_type": "SHORT",
+"question": "Hot iron hammered into?",
+"answer": "Thin sheets."
+},
+{
+"question_id": 121,
+"question_type": "SHORT",
+"question": "Iron bars revolve while hammered become?",
+"answer": "Longer."
+},
+{
+"question_id": 122,
+"question_type": "SHORT",
+"question": "Heat metal at one place, whole becomes?",
+"answer": "Hot (thermal conductivity)."
+},
+{
+"question_id": 123,
+"question_type": "SHORT",
+"question": "Strike metal spoon on steel box sound?",
+"answer": "Ringing."
+},
+{
+"question_id": 124,
+"question_type": "SHORT",
+"question": "Strike wood on table sound?",
+"answer": "Dull thud."
+},
+{
+"question_id": 125,
+"question_type": "SHORT",
+"question": "Do not touch exposed wires why?",
+"answer": "Electric shock."
+},
+{
+"question_id": 126,
+"question_type": "SHORT",
+"question": "Switch off appliances when not in use why?",
+"answer": "Save electricity, avoid danger."
+},
+{
+"question_id": 127,
+"question_type": "SHORT",
+"question": "Check electric wiring periodically why?",
+"answer": "Safety."
+},
+{
+"question_id": 128,
+"question_type": "SHORT",
+"question": "Read newspapers for?",
+"answer": "Science updates."
+},
+{
+"question_id": 129,
+"question_type": "SHORT",
+"question": "Research at what levels?",
+"answer": "State, national, global."
+},
+{
+"question_id": 130,
+"question_type": "SHORT",
+"question": "Ball in park is what state?",
+"answer": "Solid."
+},
+{
+"question_id": 131,
+"question_type": "SHORT",
+"question": "Tender coconut water state?",
+"answer": "Liquid."
+},
+{
+"question_id": 132,
+"question_type": "SHORT",
+"question": "Breeze and rain is?",
+"answer": "Gas."
+},
+{
+"question_id": 133,
+"question_type": "SHORT",
+"question": "Hot milk state?",
+"answer": "Liquid."
+},
+{
+"question_id": 134,
+"question_type": "SHORT",
+"question": "Water poured from bottle changes shape?",
+"answer": "No."
+},
+{
+"question_id": 135,
+"question_type": "SHORT",
+"question": "Stone in water dish changes shape?",
+"answer": "No."
+},
+{
+"question_id": 136,
+"question_type": "SHORT",
+"question": "Sickle to cut sugarcane made from?",
+"answer": "Iron."
+},
+{
+"question_id": 137,
+"question_type": "SHORT",
+"question": "Roofing sheets from?",
+"answer": "Metals."
+},
+{
+"question_id": 138,
+"question_type": "SHORT",
+"question": "Screwdriver from?",
+"answer": "Iron/steel."
+},
+{
+"question_id": 139,
+"question_type": "SHORT",
+"question": "Tongs from?",
+"answer": "Iron with rubber."
+},
+{
+"question_id": 140,
+"question_type": "SHORT",
+"question": "Electric cables have?",
+"answer": "Copper wires."
+},
+{
+"question_id": 141,
+"question_type": "SHORT",
+"question": "Ornaments from?",
+"answer": "Gold, silver."
+},
+{
+"question_id": 142,
+"question_type": "SHORT",
+"question": "Pots and pans from?",
+"answer": "Metals like aluminium."
+},
+{
+"question_id": 143,
+"question_type": "SHORT",
+"question": "Nails of plastic would?",
+"answer": "Not hard enough."
+},
+{
+"question_id": 144,
+"question_type": "SHORT",
+"question": "Bell of wood would?",
+"answer": "Not sonorous."
+},
+{
+"question_id": 145,
+"question_type": "SHORT",
+"question": "No rubber on tongs would?",
+"answer": "Burn hands (conduct heat)."
+},
+{
+"question_id": 146,
+"question_type": "SHORT",
+"question": "Knife of wood?",
+"answer": "Not hard."
+},
+{
+"question_id": 147,
+"question_type": "SHORT",
+"question": "Axe of rubber?",
+"answer": "Not effective."
+},
+{
+"question_id": 148,
+"question_type": "SHORT",
+"question": "Found in thermometer, measures temperature?",
+"answer": "Mercury."
+},
+{
+"question_id": 149,
+"question_type": "SHORT",
+"question": "Makes things hot or cold?",
+"answer": "Heat."
+},
+{
+"question_id": 150,
+"question_type": "SHORT",
+"question": "Dissolves in water not kerosene?",
+"answer": "Salt."
+}
+]
+}

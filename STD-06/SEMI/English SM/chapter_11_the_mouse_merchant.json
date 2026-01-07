@@ -1,0 +1,551 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.English.11",
+    "standard": "6",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Mouse Merchant"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What was the rich merchant doing at the beginning of the story?",
+      "options": [
+        { "option_id": 1, "text": "Praising his son", "is_correct": false },
+        { "option_id": 2, "text": "Scolding his lazy son", "is_correct": true },
+        { "option_id": 3, "text": "Feeding a cat", "is_correct": false },
+        { "option_id": 4, "text": "Selling wood", "is_correct": false }
+      ],
+      "answer": "Scolding his lazy son"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who was Somadatta?",
+      "options": [
+        { "option_id": 1, "text": "The merchant's son", "is_correct": false },
+        { "option_id": 2, "text": "A wealthy potter", "is_correct": false },
+        { "option_id": 3, "text": "A poor orphan boy", "is_correct": true },
+        { "option_id": 4, "text": "A goldsmith", "is_correct": false }
+      ],
+      "answer": "A poor orphan boy"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What did the merchant suggest a capable man could start a business with?",
+      "options": [
+        { "option_id": 1, "text": "A gold coin", "is_correct": false },
+        { "option_id": 2, "text": "A bag of gram", "is_correct": false },
+        { "option_id": 3, "text": "A dead mouse", "is_correct": true },
+        { "option_id": 4, "text": "Two sticks of wood", "is_correct": false }
+      ],
+      "answer": "A dead mouse"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What did Somadatta give the merchant in return for the dead mouse?",
+      "options": [
+        { "option_id": 1, "text": "A gold coin", "is_correct": false },
+        { "option_id": 2, "text": "A receipt", "is_correct": true },
+        { "option_id": 3, "text": "A bundle of sticks", "is_correct": false },
+        { "option_id": 4, "text": "Nothing", "is_correct": false }
+      ],
+      "answer": "A receipt"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What did the first shopkeeper give Somadatta for the mouse?",
+      "options": [
+        { "option_id": 1, "text": "Two sticks of wood", "is_correct": false },
+        { "option_id": 2, "text": "Two handfuls of gram", "is_correct": true },
+        { "option_id": 3, "text": "A pitcher of water", "is_correct": false },
+        { "option_id": 4, "text": "Cash", "is_correct": false }
+      ],
+      "answer": "Two handfuls of gram"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where did Somadatta stand with his roasted gram and water?",
+      "options": [
+        { "option_id": 1, "text": "In the market", "is_correct": false },
+        { "option_id": 2, "text": "At the crossroads", "is_correct": true },
+        { "option_id": 3, "text": "Near the river", "is_correct": false },
+        { "option_id": 4, "text": "At the merchant's house", "is_correct": false }
+      ],
+      "answer": "At the crossroads"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who were Somadatta's first customers?",
+      "options": [
+        { "option_id": 1, "text": "Potters", "is_correct": false },
+        { "option_id": 2, "text": "Labourers returning from the wood", "is_correct": true },
+        { "option_id": 3, "text": "Goldsmiths", "is_correct": false },
+        { "option_id": 4, "text": "Merchants", "is_correct": false }
+      ],
+      "answer": "Labourers returning from the wood"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What did the labourers give Somadatta in exchange for gram and water?",
+      "options": [
+        { "option_id": 1, "text": "Silver coins", "is_correct": false },
+        { "option_id": 2, "text": "Pots", "is_correct": false },
+        { "option_id": 3, "text": "Two sticks of wood each", "is_correct": true },
+        { "option_id": 4, "text": "Flowers", "is_correct": false }
+      ],
+      "answer": "Two sticks of wood each"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did the potter give Somadatta in exchange for wood?",
+      "options": [
+        { "option_id": 1, "text": "A golden mouse", "is_correct": false },
+        { "option_id": 2, "text": "Pots and pitchers", "is_correct": true },
+        { "option_id": 3, "text": "More gram", "is_correct": false },
+        { "option_id": 4, "text": "A horse", "is_correct": false }
+      ],
+      "answer": "Pots and pitchers"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Somadatta worked hard to sell wood in the morning and ______ in the evening.",
+      "options": [
+        { "option_id": 1, "text": "Cakes", "is_correct": false },
+        { "option_id": 2, "text": "Gram", "is_correct": true },
+        { "option_id": 3, "text": "Mice", "is_correct": false },
+        { "option_id": 4, "text": "Jewelry", "is_correct": false }
+      ],
+      "answer": "Gram"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What did Somadatta eventually set up in the market?",
+      "options": [
+        { "option_id": 1, "text": "A garden", "is_correct": false },
+        { "option_id": 2, "text": "His own shop", "is_correct": true },
+        { "option_id": 3, "text": "A school", "is_correct": false },
+        { "option_id": 4, "text": "A furnace", "is_correct": false }
+      ],
+      "answer": "His own shop"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "When customers could not pay cash, how did they pay Somadatta?",
+      "options": [
+        { "option_id": 1, "text": "They didn't pay", "is_correct": false },
+        { "option_id": 2, "text": "In kind (with articles)", "is_correct": true },
+        { "option_id": 3, "text": "With promises", "is_correct": false },
+        { "option_id": 4, "text": "In gold", "is_correct": false }
+      ],
+      "answer": "In kind (with articles)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What did Somadatta ask the goldsmith to make?",
+      "options": [
+        { "option_id": 1, "text": "A golden ring", "is_correct": false },
+        { "option_id": 2, "text": "A golden mouse", "is_correct": true },
+        { "option_id": 3, "text": "A golden statue", "is_correct": false },
+        { "option_id": 4, "text": "A golden pot", "is_correct": false }
+      ],
+      "answer": "A golden mouse"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Why did Somadatta return to the rich merchant?",
+      "options": [
+        { "option_id": 1, "text": "To scold him", "is_correct": false },
+        { "option_id": 2, "text": "To return the 'capital' he borrowed", "is_correct": true },
+        { "option_id": 3, "text": "To buy his shop", "is_correct": false },
+        { "option_id": 4, "text": "To ask for money", "is_correct": false }
+      ],
+      "answer": "To return the 'capital' he borrowed"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who was impressed by Somadatta's business skills?",
+      "options": [
+        { "option_id": 1, "text": "The merchant's son", "is_correct": false },
+        { "option_id": 2, "text": "The merchant's daughter", "is_correct": true },
+        { "option_id": 3, "text": "The potter", "is_correct": false },
+        { "option_id": 4, "text": "The cat", "is_correct": false }
+      ],
+      "answer": "The merchant's daughter"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'orphan'?",
+      "options": [
+        { "option_id": 1, "text": "A rich person", "is_correct": false },
+        { "option_id": 2, "text": "A person with no parents or close relatives", "is_correct": true },
+        { "option_id": 3, "text": "A lazy person", "is_correct": false },
+        { "option_id": 4, "text": "A clever businessman", "is_correct": false }
+      ],
+      "answer": "A person with no parents or close relatives"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'fare' in the context of the story?",
+      "options": [
+        { "option_id": 1, "text": "Ticket price", "is_correct": false },
+        { "option_id": 2, "text": "Food", "is_correct": true },
+        { "option_id": 3, "text": "Fair-skinned", "is_correct": false },
+        { "option_id": 4, "text": "Beautiful", "is_correct": false }
+      ],
+      "answer": "Food"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which of these traits helped Somadatta succeed?",
+      "options": [
+        { "option_id": 1, "text": "Laziness", "is_correct": false },
+        { "option_id": 2, "text": "Politeness", "is_correct": true },
+        { "option_id": 3, "text": "Anger", "is_correct": false },
+        { "option_id": 4, "text": "Luck alone", "is_correct": false }
+      ],
+      "answer": "Politeness"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the QR code text for Chapter 11?",
+      "options": [
+        { "option_id": 1, "text": "X20JXC", "is_correct": false },
+        { "option_id": 2, "text": "X2MFYZ", "is_correct": true },
+        { "option_id": 3, "text": "X24NVP", "is_correct": false },
+        { "option_id": 4, "text": "Z11ABC", "is_correct": false }
+      ],
+      "answer": "X2MFYZ"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the definition of an 'adjective' provided in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "A naming word", "is_correct": false },
+        { "option_id": 2, "text": "A word that describes a noun or pronoun", "is_correct": true },
+        { "option_id": 3, "text": "An action word", "is_correct": false },
+        { "option_id": 4, "text": "A joining word", "is_correct": false }
+      ],
+      "answer": "A word that describes a noun or pronoun"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT an adjective listed in the 'Learning about Language' section?",
+      "options": [
+        { "option_id": 1, "text": "Polite", "is_correct": false },
+        { "option_id": 2, "text": "Golden", "is_correct": false },
+        { "option_id": 3, "text": "Merchant", "is_correct": true },
+        { "option_id": 4, "text": "Lazy", "is_correct": false }
+      ],
+      "answer": "Merchant"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "In the dialogue between Anjita and Ranjita, what color is the big sharpener?",
+      "options": [
+        { "option_id": 1, "text": "Green", "is_correct": false },
+        { "option_id": 2, "text": "Blue", "is_correct": true },
+        { "option_id": 3, "text": "Red", "is_correct": false },
+        { "option_id": 4, "text": "Yellow", "is_correct": false }
+      ],
+      "answer": "Blue"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What adjective is used to describe the moments spent at Sagroli?",
+      "options": [
+        { "option_id": 1, "text": "Wonderful", "is_correct": false },
+        { "option_id": 2, "text": "Unforgettable", "is_correct": true },
+        { "option_id": 3, "text": "Clever", "is_correct": false },
+        { "option_id": 4, "text": "Fresh", "is_correct": false }
+      ],
+      "answer": "Unforgettable"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who said 'The sky is falling!' in the story starting points?",
+      "options": [
+        { "option_id": 1, "text": "Aneesh", "is_correct": false },
+        { "option_id": 2, "text": "Chicken Licken", "is_correct": true },
+        { "option_id": 3, "text": "Anisha", "is_correct": false },
+        { "option_id": 4, "text": "Sai", "is_correct": false }
+      ],
+      "answer": "Chicken Licken"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is a 'furnace' used for by the potter?",
+      "options": [
+        { "option_id": 1, "text": "To store water", "is_correct": false },
+        { "option_id": 2, "text": "To bake bricks and pots", "is_correct": true },
+        { "option_id": 3, "text": "To sleep in", "is_correct": false },
+        { "option_id": 4, "text": "To roast gram", "is_correct": false }
+      ],
+      "answer": "To bake bricks and pots"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What did the rich merchant call his son?",
+      "answer": "The rich merchant called his son 'lazy' and 'good for nothing'."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What 'capital' did Somadatta borrow to start his business?",
+      "answer": "Somadatta borrowed a dead mouse as capital."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Why did the shopkeeper want the dead mouse?",
+      "answer": "The shopkeeper wanted the dead mouse to feed his cat."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "How did Somadatta prepare the gram he received?",
+      "answer": "Somadatta roasted the gram well."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What did Somadatta offer the labourers along with the gram?",
+      "answer": "He offered them a pitcher of water."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "How many sticks of wood did each labourer give Somadatta?",
+      "answer": "Each labourer gave Somadatta two sticks of wood."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What did Somadatta do with the first bundle of sticks he collected?",
+      "answer": "He took the bundle to the market, sold it, and bought more gram with the money."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Why did Somadatta become well-known among the labourers?",
+      "answer": "He became well-known as the nice boy who offered tasty gram and refreshing water."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "What did the potter give in return for the sticks?",
+      "answer": "The potter gave Somadatta pots for his gram and a few pitchers for the water."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "At what times of the day did Somadatta sell his goods?",
+      "answer": "He sold wood in the morning and gram in the evening."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What did Somadatta do when he had enough money from the labourers' wood?",
+      "answer": "He bought all the wood from the labourers and sold it at a good price in the market."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "How did Somadatta treat his customers?",
+      "answer": "He was always polite to his customers."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What does 'paid in kind' mean?",
+      "answer": "'Paid in kind' means paying with things, articles, or grain instead of cash."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What did Somadatta become after a few years?",
+      "answer": "Somadatta became a wealthy merchant in the town."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Why did Somadatta go back to the rich merchant with a golden mouse?",
+      "answer": "He went back to return the 'capital' (the dead mouse) he had borrowed years ago."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Who did Somadatta marry?",
+      "answer": "Somadatta married the rich merchant's daughter."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What three qualities helped Somadatta earn money and respect?",
+      "answer": "He earned money and respect due to his intelligence, hard work, and politeness."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'scolding' as used in the story?",
+      "answer": "'Scolding' means shouting angrily at someone."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "List two nouns that can be described by the adjective 'beautiful'.",
+      "answer": "Examples include 'beautiful place' and 'beautiful flower'."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Find an adjective in the sentence: 'The jackal was very clever.'",
+      "answer": "The adjective is 'clever'."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'lazy' based on Somadatta's character?",
+      "answer": "The opposite of 'lazy' is 'hardworking' or 'capable'."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What happens in the starting point involving Aneesh?",
+      "answer": "Aneesh planted a mango seed on a hill."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What did Anisha build according to the story ideas?",
+      "answer": "Anisha built a robot to do her housework."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Where did Sai find an ear of corn?",
+      "answer": "Sai found an ear of corn in her backyard."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What does the word 'furnace' mean?",
+      "answer": "A furnace is a place where a potter bakes his bricks, pots, etc."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are describing words called in grammar?",
+      "answer": "Describing words are called adjectives."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Identify the adjectives: 'I am looking for my big blue sharpener.'",
+      "answer": "The adjectives are 'big' and 'blue'."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What adjective describes the vegetables in: 'I like fresh vegetables'?",
+      "answer": "The adjective is 'fresh'."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What did the merchant do when Somadatta first asked for the dead mouse?",
+      "answer": "The merchant burst out laughing."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How did Somadatta obtain pots and pitchers?",
+      "answer": "He obtained them from a potter in exchange for wood."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name the character who thought the dead mouse was 'useless'.",
+      "answer": "The rich merchant thought the dead mouse was useless."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What kind of boy was Somadatta at the start of the story?",
+      "answer": "He was a poor orphan boy."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What did Somadatta do every evening?",
+      "answer": "Every evening, he offered roast gram and water to labourers returning from the wood."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Did Somadatta waste any money?",
+      "answer": "No, Somadatta did not waste any money."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How many steps should the flowchart of Somadatta's progress have according to the pointers?",
+      "answer": "The flowchart should have 5 to 8 steps."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the meaning of the word 'fare' used in 'simple fare'?",
+      "answer": "'Fare' in this context means food."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What was the result of the labourers' cricket game in the street?",
+      "answer": "The children's ball went through Kale Aunty's window."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What did Somadatta write for the merchant before taking the mouse?",
+      "answer": "Somadatta wrote out a receipt for the merchant."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why was the rich merchant 'greatly surprised' at the end?",
+      "answer": "He was surprised because Somadatta returned a golden mouse for the dead one he had borrowed."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "In 'Learning about Language', what noun is paired with 'golden'?",
+      "answer": "The text suggests finding nouns, and Somadatta's story uses 'golden mouse'."
+    }
+  ]
+}

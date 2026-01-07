@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.12",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "पाऊसफुळे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "ससोबा कोणत्या दिवशी लवकर उठला?",
+      "options": [
+        { "option_id": 1, "text": "रविवार", "is_correct": false },
+        { "option_id": 2, "text": "शनिवार", "is_correct": true },
+        { "option_id": 3, "text": "सोमवार", "is_correct": false },
+        { "option_id": 4, "text": "शुक्रवार", "is_correct": false }
+      ],
+      "answer": "शनिवार"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "ससोबा आईला काय विचारतो?",
+      "options": [
+        { "option_id": 1, "text": "सूर्य कसा उगवला?", "is_correct": false },
+        { "option_id": 2, "text": "अजून रात्र आहे का?", "is_correct": true },
+        { "option_id": 3, "text": "बाबा कुठे आहेत?", "is_correct": false },
+        { "option_id": 4, "text": "शाळा सुटली का?", "is_correct": false }
+      ],
+      "answer": "अजून रात्र आहे का?"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "आई ससोबाला काय सांगते?",
+      "options": [
+        { "option_id": 1, "text": "आज ऊन आहे", "is_correct": false },
+        { "option_id": 2, "text": "आभाळ भरून आलंय", "is_correct": true },
+        { "option_id": 3, "text": "आज शाळा नाही", "is_correct": false },
+        { "option_id": 4, "text": "बाबा घरी आहेत", "is_correct": false }
+      ],
+      "answer": "आभाळ भरून आलंय"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आकाशात कोणते ढग आले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "पांढरे ढग", "is_correct": false },
+        { "option_id": 2, "text": "लाल ढग", "is_correct": false },
+        { "option_id": 3, "text": "काळे ढग", "is_correct": true },
+        { "option_id": 4, "text": "निळे ढग", "is_correct": false }
+      ],
+      "answer": "काळे ढग"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पहिला पाऊस कसा येईल असे आई सांगते?",
+      "options": [
+        { "option_id": 1, "text": "उष्ण", "is_correct": false },
+        { "option_id": 2, "text": "गारेगार", "is_correct": true },
+        { "option_id": 3, "text": "कोरडा", "is_correct": false },
+        { "option_id": 4, "text": "धुकट", "is_correct": false }
+      ],
+      "answer": "गारेगार"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "ससोबाचे बाबा कुठून येत होते?",
+      "options": [
+        { "option_id": 1, "text": "शाळेतून", "is_correct": false },
+        { "option_id": 2, "text": "शेतातून", "is_correct": false },
+        { "option_id": 3, "text": "बागेतून", "is_correct": true },
+        { "option_id": 4, "text": "बाजारातून", "is_correct": false }
+      ],
+      "answer": "बागेतून"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ससोबा बाबांना कोणती बातमी सांगायला पळाला?",
+      "options": [
+        { "option_id": 1, "text": "वाढदिवसाची", "is_correct": false },
+        { "option_id": 2, "text": "शाळेची", "is_correct": false },
+        { "option_id": 3, "text": "पहिल्या पावसाची", "is_correct": true },
+        { "option_id": 4, "text": "खेळाची", "is_correct": false }
+      ],
+      "answer": "पहिल्या पावसाची"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ससोबा दचकला कारण काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "विज चमकली आणि गडगडाट झाला", "is_correct": true },
+        { "option_id": 2, "text": "पाऊस थांबला", "is_correct": false },
+        { "option_id": 3, "text": "आई ओरडली", "is_correct": false },
+        { "option_id": 4, "text": "बाबा पडले", "is_correct": false }
+      ],
+      "answer": "विज चमकली आणि गडगडाट झाला"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पाऊस कसा वाजू लागला?",
+      "options": [
+        { "option_id": 1, "text": "शांत", "is_correct": false },
+        { "option_id": 2, "text": "टपटप", "is_correct": true },
+        { "option_id": 3, "text": "हळूच", "is_correct": false },
+        { "option_id": 4, "text": "गुलगुल", "is_correct": false }
+      ],
+      "answer": "टपटप"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ससोबाने बाबांना काय केले?",
+      "options": [
+        { "option_id": 1, "text": "रागावला", "is_correct": false },
+        { "option_id": 2, "text": "पळाला", "is_correct": false },
+        { "option_id": 3, "text": "घट्ट मिठी मारली", "is_correct": true },
+        { "option_id": 4, "text": "रडू लागला", "is_correct": false }
+      ],
+      "answer": "घट्ट मिठी मारली"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ससोबा, आई आणि बाबा काय केले?",
+      "options": [
+        { "option_id": 1, "text": "घरात बसले", "is_correct": false },
+        { "option_id": 2, "text": "बागेत झोपले", "is_correct": false },
+        { "option_id": 3, "text": "पावसात नाचले आणि भिजले", "is_correct": true },
+        { "option_id": 4, "text": "शाळेत गेले", "is_correct": false }
+      ],
+      "answer": "पावसात नाचले आणि भिजले"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "ससोबा आईला का म्हणतो की तुला भिजायला आणलं?",
+      "options": [
+        { "option_id": 1, "text": "कारण तिला खेळायचे होते", "is_correct": false },
+        { "option_id": 2, "text": "कारण गरम चहा प्यायचा होता", "is_correct": true },
+        { "option_id": 3, "text": "कारण शाळा सुटली होती", "is_correct": false },
+        { "option_id": 4, "text": "कारण प्रवास करायचा होता", "is_correct": false }
+      ],
+      "answer": "कारण गरम चहा प्यायचा होता"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "‘रिमझिम पाऊस’ या शब्दातून काय कळते?",
+      "options": [
+        { "option_id": 1, "text": "मोठा पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "हळुवार पडणारा पाऊस", "is_correct": true },
+        { "option_id": 3, "text": "वादळ", "is_correct": false },
+        { "option_id": 4, "text": "गारपीट", "is_correct": false }
+      ],
+      "answer": "हळुवार पडणारा पाऊस"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कथेतील भावनेचा प्रकार कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "भीती", "is_correct": false },
+        { "option_id": 2, "text": "राग", "is_correct": false },
+        { "option_id": 3, "text": "आनंद", "is_correct": true },
+        { "option_id": 4, "text": "मत्सर", "is_correct": false }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ही कथा कोणत्या ऋतूशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 2, "text": "उन्हाळा", "is_correct": false },
+        { "option_id": 3, "text": "पावसाळा", "is_correct": true },
+        { "option_id": 4, "text": "वसंत", "is_correct": false }
+      ],
+      "answer": "पावसाळा"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "ससोबाला अजून रात्र आहे असे का वाटले?",
+      "answer": "कारण आकाशात काळे ढग होते आणि प्रकाश पडला नव्हता."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "आईने पावसाचे कोणते प्रकार सांगितले?",
+      "answer": "रिमझिम पाऊस, तडतड पाऊस, मुसळधार पाऊस."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ससोबा बाबांकडे का धावत गेला?",
+      "answer": "पहिल्या पावसाची बातमी सांगण्यासाठी."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "विज चमकली तेव्हा ससोबा काय झाला?",
+      "answer": "तो दचकला आणि बाबांवर आपटला."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पाऊस पडताच ससोबाने काय केले?",
+      "answer": "त्याने बाबांना घट्ट मिठी मारली."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "आई, बाबा आणि ससोबा पावसात काय केले?",
+      "answer": "ते पावसात नाचले, गाणी गायले आणि भिजले."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "ससोबाने आईला का भिजायला आणले?",
+      "answer": "कारण भिजल्यानंतर आल्याचा गरम चहा प्यायचा होता."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "‘टपटप पाऊस वाजू लागला’ याचा अर्थ लिहा.",
+      "answer": "पावसाचे थेंब जोरात आणि सतत पडू लागले."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कथेतील दोन पात्रांची नावे लिहा.",
+      "answer": "ससोबा आणि आई."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ही कथा वाचून तुला कसे वाटले?",
+      "answer": "आनंद वाटला, कारण पावसात भिजण्याची मजा जाणवली."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "काळे ढग आल्यावर काय होते?",
+      "answer": "विज चमकते, गडगडाट होतो आणि पाऊस पडतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कथेतील दोन ऋतूसंबंधी शब्द लिहा.",
+      "answer": "पाऊस, गारेगार."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ससोबा आईच्या मिशांबद्दल काय म्हणतो?",
+      "answer": "‘‘आई… तुझ्या मिशा टोचतील हं मला’’ असे म्हणतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कथेतील आवडलेली एक ओळ लिहा.",
+      "answer": "‘‘पावसात नाचले. गाणी गायले.’’"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या कथेतून काय शिकायला मिळते?",
+      "answer": "निसर्गातील पावसाचा आनंद कुटुंबासोबत वाटून घ्यावा."
+    }
+  ]
+}

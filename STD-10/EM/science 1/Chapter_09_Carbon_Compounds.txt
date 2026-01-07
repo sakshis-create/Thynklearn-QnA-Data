@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.Science.09",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Carbon Compounds"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the atomic number of Carbon?",
+      "options": [
+        { "option_id": 1, "text": "4", "is_correct": false },
+        { "option_id": 2, "text": "6", "is_correct": true },
+        { "option_id": 3, "text": "12", "is_correct": false },
+        { "option_id": 4, "text": "14", "is_correct": false }
+      ],
+      "answer": "6"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What type of bond does Carbon generally form?",
+      "options": [
+        { "option_id": 1, "text": "Ionic bond", "is_correct": false },
+        { "option_id": 2, "text": "Hydrogen bond", "is_correct": false },
+        { "option_id": 3, "text": "Covalent bond", "is_correct": true },
+        { "option_id": 4, "text": "Metallic bond", "is_correct": false }
+      ],
+      "answer": "Covalent bond"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The property of carbon to form strong covalent bonds with other carbon atoms to form big molecules is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Isomerism", "is_correct": false },
+        { "option_id": 2, "text": "Catenation", "is_correct": true },
+        { "option_id": 3, "text": "Tetravalency", "is_correct": false },
+        { "option_id": 4, "text": "Polymerization", "is_correct": false }
+      ],
+      "answer": "Catenation"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of the following is an unsaturated hydrocarbon?",
+      "options": [
+        { "option_id": 1, "text": "Ethane", "is_correct": false },
+        { "option_id": 2, "text": "Methane", "is_correct": false },
+        { "option_id": 3, "text": "Ethene", "is_correct": true },
+        { "option_id": 4, "text": "Propane", "is_correct": false }
+      ],
+      "answer": "Ethene"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the general formula of Alkanes?",
+      "options": [
+        { "option_id": 1, "text": "CnH2n", "is_correct": false },
+        { "option_id": 2, "text": "CnH2n-2", "is_correct": false },
+        { "option_id": 3, "text": "CnH2n+2", "is_correct": true },
+        { "option_id": 4, "text": "CnHn", "is_correct": false }
+      ],
+      "answer": "CnH2n+2"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The functional group -COOH represents ________.",
+      "options": [
+        { "option_id": 1, "text": "Aldehyde", "is_correct": false },
+        { "option_id": 2, "text": "Ketone", "is_correct": false },
+        { "option_id": 3, "text": "Alcohol", "is_correct": false },
+        { "option_id": 4, "text": "Carboxylic Acid", "is_correct": true }
+      ],
+      "answer": "Carboxylic Acid"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "In a homologous series, the molecular mass increases by ________ for every successive member.",
+      "options": [
+        { "option_id": 1, "text": "12 u", "is_correct": false },
+        { "option_id": 2, "text": "14 u", "is_correct": true },
+        { "option_id": 3, "text": "16 u", "is_correct": false },
+        { "option_id": 4, "text": "18 u", "is_correct": false }
+      ],
+      "answer": "14 u"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the IUPAC name of Acetic Acid?",
+      "options": [
+        { "option_id": 1, "text": "Methanoic acid", "is_correct": false },
+        { "option_id": 2, "text": "Propanoic acid", "is_correct": false },
+        { "option_id": 3, "text": "Ethanoic acid", "is_correct": true },
+        { "option_id": 4, "text": "Butanoic acid", "is_correct": false }
+      ],
+      "answer": "Ethanoic acid"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which gas is the main component of Biogas and Natural Gas?",
+      "options": [
+        { "option_id": 1, "text": "Ethane", "is_correct": false },
+        { "option_id": 2, "text": "Methane", "is_correct": true },
+        { "option_id": 3, "text": "Propane", "is_correct": false },
+        { "option_id": 4, "text": "Butane", "is_correct": false }
+      ],
+      "answer": "Methane"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Ethanol is oxidised by alkaline potassium permanganate to form ________.",
+      "options": [
+        { "option_id": 1, "text": "Ethene", "is_correct": false },
+        { "option_id": 2, "text": "Ethane", "is_correct": false },
+        { "option_id": 3, "text": "Ethanoic acid", "is_correct": true },
+        { "option_id": 4, "text": "Methanoic acid", "is_correct": false }
+      ],
+      "answer": "Ethanoic acid"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the catalyst used in the hydrogenation of vegetable oils?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Nickel", "is_correct": true },
+        { "option_id": 3, "text": "Copper", "is_correct": false },
+        { "option_id": 4, "text": "Zinc", "is_correct": false }
+      ],
+      "answer": "Nickel"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The reaction of ethanol with sodium metal liberates ________ gas.",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": true },
+        { "option_id": 4, "text": "Nitrogen", "is_correct": false }
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "A 5-8% aqueous solution of acetic acid is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Spirit", "is_correct": false },
+        { "option_id": 2, "text": "Tincture", "is_correct": false },
+        { "option_id": 3, "text": "Vinegar", "is_correct": true },
+        { "option_id": 4, "text": "Gasohol", "is_correct": false }
+      ],
+      "answer": "Vinegar"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The reaction between a carboxylic acid and an alcohol to form an ester is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Saponification", "is_correct": false },
+        { "option_id": 2, "text": "Esterification", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogenation", "is_correct": false },
+        { "option_id": 4, "text": "Oxidation", "is_correct": false }
+      ],
+      "answer": "Esterification"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of the following is a natural polymer?",
+      "options": [
+        { "option_id": 1, "text": "Polystyrene", "is_correct": false },
+        { "option_id": 2, "text": "Polyethylene", "is_correct": false },
+        { "option_id": 3, "text": "Cellulose", "is_correct": true },
+        { "option_id": 4, "text": "Teflon", "is_correct": false }
+      ],
+      "answer": "Cellulose"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The monomer of Teflon is ________.",
+      "options": [
+        { "option_id": 1, "text": "Ethene", "is_correct": false },
+        { "option_id": 2, "text": "Styrene", "is_correct": false },
+        { "option_id": 3, "text": "Tetrafluoroethylene", "is_correct": true },
+        { "option_id": 4, "text": "Vinyl chloride", "is_correct": false }
+      ],
+      "answer": "Tetrafluoroethylene"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The functional group present in alcohol is ________.",
+      "options": [
+        { "option_id": 1, "text": "-CHO", "is_correct": false },
+        { "option_id": 2, "text": "-OH", "is_correct": true },
+        { "option_id": 3, "text": "-COOH", "is_correct": false },
+        { "option_id": 4, "text": "-CO-", "is_correct": false }
+      ],
+      "answer": "-OH"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which of the following has a triple bond?",
+      "options": [
+        { "option_id": 1, "text": "Propane", "is_correct": false },
+        { "option_id": 2, "text": "Propene", "is_correct": false },
+        { "option_id": 3, "text": "Propyne", "is_correct": true },
+        { "option_id": 4, "text": "Propanol", "is_correct": false }
+      ],
+      "answer": "Propyne"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Two carbon atoms joined by a double bond are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Alkanes", "is_correct": false },
+        { "option_id": 2, "text": "Alkenes", "is_correct": true },
+        { "option_id": 3, "text": "Alkynes", "is_correct": false },
+        { "option_id": 4, "text": "Alcohols", "is_correct": false }
+      ],
+      "answer": "Alkenes"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The molecular formula of benzene is ________.",
+      "options": [
+        { "option_id": 1, "text": "C6H12", "is_correct": false },
+        { "option_id": 2, "text": "C6H14", "is_correct": false },
+        { "option_id": 3, "text": "C6H6", "is_correct": true },
+        { "option_id": 4, "text": "C6H10", "is_correct": false }
+      ],
+      "answer": "C6H6"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Compounds having different structural formulae but the same molecular formula are called ________.",
+      "options": [
+        { "option_id": 1, "text": "Isotopes", "is_correct": false },
+        { "option_id": 2, "text": "Isomers", "is_correct": true },
+        { "option_id": 3, "text": "Allotropes", "is_correct": false },
+        { "option_id": 4, "text": "Homologues", "is_correct": false }
+      ],
+      "answer": "Isomers"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of these is used to artificially ripen fruits?",
+      "options": [
+        { "option_id": 1, "text": "Methane", "is_correct": false },
+        { "option_id": 2, "text": "Ethene", "is_correct": true },
+        { "option_id": 3, "text": "Ethane", "is_correct": false },
+        { "option_id": 4, "text": "Propane", "is_correct": false }
+      ],
+      "answer": "Ethene"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The melting point of pure ethanoic acid is ________.",
+      "options": [
+        { "option_id": 1, "text": "290 K", "is_correct": true },
+        { "option_id": 2, "text": "156 K", "is_correct": false },
+        { "option_id": 3, "text": "17 K", "is_correct": false },
+        { "option_id": 4, "text": "118 K", "is_correct": false }
+      ],
+      "answer": "290 K"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of an addition reaction?",
+      "options": [
+        { "option_id": 1, "text": "Combustion of methane", "is_correct": false },
+        { "option_id": 2, "text": "Hydrogenation of vegetable oil", "is_correct": true },
+        { "option_id": 3, "text": "Reaction of ethanol with sodium", "is_correct": false },
+        { "option_id": 4, "text": "Chlorination of methane", "is_correct": false }
+      ],
+      "answer": "Hydrogenation of vegetable oil"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The functional group of Ketone is ________.",
+      "options": [
+        { "option_id": 1, "text": "-OH", "is_correct": false },
+        { "option_id": 2, "text": "-CHO", "is_correct": false },
+        { "option_id": 3, "text": "-COOH", "is_correct": false },
+        { "option_id": 4, "text": "-CO-", "is_correct": true }
+      ],
+      "answer": "-CO-"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the suffix used for Aldehydes in IUPAC nomenclature?",
+      "options": [
+        { "option_id": 1, "text": "-ol", "is_correct": false },
+        { "option_id": 2, "text": "-al", "is_correct": true },
+        { "option_id": 3, "text": "-one", "is_correct": false },
+        { "option_id": 4, "text": "-oic acid", "is_correct": false }
+      ],
+      "answer": "-al"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which of the following compounds is an ester?",
+      "options": [
+        { "option_id": 1, "text": "Ethyl ethanoate", "is_correct": true },
+        { "option_id": 2, "text": "Ethanol", "is_correct": false },
+        { "option_id": 3, "text": "Ethanoic acid", "is_correct": false },
+        { "option_id": 4, "text": "Ethanal", "is_correct": false }
+      ],
+      "answer": "Ethyl ethanoate"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The reaction of an ester with a base to give alcohol and carboxylate salt is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Esterification", "is_correct": false },
+        { "option_id": 2, "text": "Saponification", "is_correct": true },
+        { "option_id": 3, "text": "Dehydration", "is_correct": false },
+        { "option_id": 4, "text": "Oxidation", "is_correct": false }
+      ],
+      "answer": "Saponification"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Polyethylene is a polymer of ________.",
+      "options": [
+        { "option_id": 1, "text": "Ethane", "is_correct": false },
+        { "option_id": 2, "text": "Ethene", "is_correct": true },
+        { "option_id": 3, "text": "Ethyne", "is_correct": false },
+        { "option_id": 4, "text": "Ethanol", "is_correct": false }
+      ],
+      "answer": "Ethene"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of these is used to make non-stick cookware?",
+      "options": [
+        { "option_id": 1, "text": "PVC", "is_correct": false },
+        { "option_id": 2, "text": "Polystyrene", "is_correct": false },
+        { "option_id": 3, "text": "Teflon", "is_correct": true },
+        { "option_id": 4, "text": "Polypropylene", "is_correct": false }
+      ],
+      "answer": "Teflon"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The general formula for Alkyne is ________.",
+      "options": [
+        { "option_id": 1, "text": "CnH2n", "is_correct": false },
+        { "option_id": 2, "text": "CnH2n+2", "is_correct": false },
+        { "option_id": 3, "text": "CnH2n-2", "is_correct": true },
+        { "option_id": 4, "text": "CnHn", "is_correct": false }
+      ],
+      "answer": "CnH2n-2"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "When ethanol is heated with excess concentrated sulphuric acid at 170°C, it forms ________.",
+      "options": [
+        { "option_id": 1, "text": "Ethane", "is_correct": false },
+        { "option_id": 2, "text": "Ethene", "is_correct": true },
+        { "option_id": 3, "text": "Ethyne", "is_correct": false },
+        { "option_id": 4, "text": "Ethanoic acid", "is_correct": false }
+      ],
+      "answer": "Ethene"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which test is used to detect the presence of a multiple bond in a carbon compound?",
+      "options": [
+        { "option_id": 1, "text": "Litmus test", "is_correct": false },
+        { "option_id": 2, "text": "Bromine water/Iodine test", "is_correct": true },
+        { "option_id": 3, "text": "Lime water test", "is_correct": false },
+        { "option_id": 4, "text": "Combustion test", "is_correct": false }
+      ],
+      "answer": "Bromine water/Iodine test"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the common name for Propanone?",
+      "options": [
+        { "option_id": 1, "text": "Formaldehyde", "is_correct": false },
+        { "option_id": 2, "text": "Acetone", "is_correct": true },
+        { "option_id": 3, "text": "Acetaldehyde", "is_correct": false },
+        { "option_id": 4, "text": "Spirit", "is_correct": false }
+      ],
+      "answer": "Acetone"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The protein monomer is ________.",
+      "options": [
+        { "option_id": 1, "text": "Glucose", "is_correct": false },
+        { "option_id": 2, "text": "Nucleotide", "is_correct": false },
+        { "option_id": 3, "text": "Amino acid", "is_correct": true },
+        { "option_id": 4, "text": "Isoprene", "is_correct": false }
+      ],
+      "answer": "Amino acid"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of these is a cyclic hydrocarbon?",
+      "options": [
+        { "option_id": 1, "text": "Propane", "is_correct": false },
+        { "option_id": 2, "text": "Isobutane", "is_correct": false },
+        { "option_id": 3, "text": "Cyclohexane", "is_correct": true },
+        { "option_id": 4, "text": "Butene", "is_correct": false }
+      ],
+      "answer": "Cyclohexane"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Tincture iodine is a solution of iodine in ________.",
+      "options": [
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Ethanol", "is_correct": true },
+        { "option_id": 3, "text": "Ethanoic acid", "is_correct": false },
+        { "option_id": 4, "text": "Propanone", "is_correct": false }
+      ],
+      "answer": "Ethanol"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which gas is evolved when ethanoic acid reacts with sodium carbonate?",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 4, "text": "Carbon monoxide", "is_correct": false }
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The bond angle in a methane molecule is approximately ________ (inferred from tetrahedral structure description).",
+      "options": [
+        { "option_id": 1, "text": "90 degrees", "is_correct": false },
+        { "option_id": 2, "text": "109.5 degrees", "is_correct": true },
+        { "option_id": 3, "text": "120 degrees", "is_correct": false },
+        { "option_id": 4, "text": "180 degrees", "is_correct": false }
+      ],
+      "answer": "109.5 degrees"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which of these is the monomer of natural rubber?",
+      "options": [
+        { "option_id": 1, "text": "Styrene", "is_correct": false },
+        { "option_id": 2, "text": "Isoprene", "is_correct": true },
+        { "option_id": 3, "text": "Vinyl chloride", "is_correct": false },
+        { "option_id": 4, "text": "Propylene", "is_correct": false }
+      ],
+      "answer": "Isoprene"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Saturated hydrocarbons generally burn with a ________ flame.",
+      "options": [
+        { "option_id": 1, "text": "Yellow", "is_correct": false },
+        { "option_id": 2, "text": "Blue", "is_correct": true },
+        { "option_id": 3, "text": "Red", "is_correct": false },
+        { "option_id": 4, "text": "Green", "is_correct": false }
+      ],
+      "answer": "Blue"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Unsaturated hydrocarbons burn with a ________ flame producing soot.",
+      "options": [
+        { "option_id": 1, "text": "Blue", "is_correct": false },
+        { "option_id": 2, "text": "Yellow", "is_correct": true },
+        { "option_id": 3, "text": "Transparent", "is_correct": false },
+        { "option_id": 4, "text": "White", "is_correct": false }
+      ],
+      "answer": "Yellow"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "PVC stands for ________.",
+      "options": [
+        { "option_id": 1, "text": "Poly Vinyl Carbonate", "is_correct": false },
+        { "option_id": 2, "text": "Poly Vinyl Chloride", "is_correct": true },
+        { "option_id": 3, "text": "Poly Vinyl Carbamate", "is_correct": false },
+        { "option_id": 4, "text": "Poly Vinyl Chlorine", "is_correct": false }
+      ],
+      "answer": "Poly Vinyl Chloride"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "DNA is a natural polymer made of ________.",
+      "options": [
+        { "option_id": 1, "text": "Amino acids", "is_correct": false },
+        { "option_id": 2, "text": "Glucose", "is_correct": false },
+        { "option_id": 3, "text": "Nucleotides", "is_correct": true },
+        { "option_id": 4, "text": "Isoprene", "is_correct": false }
+      ],
+      "answer": "Nucleotides"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Methanol mixed with ethanol is called ________ spirit.",
+      "options": [
+        { "option_id": 1, "text": "Rectified", "is_correct": false },
+        { "option_id": 2, "text": "Denatured", "is_correct": true },
+        { "option_id": 3, "text": "Absolute", "is_correct": false },
+        { "option_id": 4, "text": "Distilled", "is_correct": false }
+      ],
+      "answer": "Denatured"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "The number of electrons in the valence shell of Carbon is ________.",
+      "options": [
+        { "option_id": 1, "text": "2", "is_correct": false },
+        { "option_id": 2, "text": "4", "is_correct": true },
+        { "option_id": 3, "text": "6", "is_correct": false },
+        { "option_id": 4, "text": "8", "is_correct": false }
+      ],
+      "answer": "4"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which noble gas configuration does Carbon attain by sharing electrons?",
+      "options": [
+        { "option_id": 1, "text": "Helium", "is_correct": false },
+        { "option_id": 2, "text": "Neon", "is_correct": true },
+        { "option_id": 3, "text": "Argon", "is_correct": false },
+        { "option_id": 4, "text": "Krypton", "is_correct": false }
+      ],
+      "answer": "Neon"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the IUPAC name of Formaldehyde (HCHO)?",
+      "options": [
+        { "option_id": 1, "text": "Methanal", "is_correct": true },
+        { "option_id": 2, "text": "Ethanal", "is_correct": false },
+        { "option_id": 3, "text": "Propanal", "is_correct": false },
+        { "option_id": 4, "text": "Butanal", "is_correct": false }
+      ],
+      "answer": "Methanal"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which of these is a straight chain hydrocarbon?",
+      "options": [
+        { "option_id": 1, "text": "Isobutane", "is_correct": false },
+        { "option_id": 2, "text": "n-Butane", "is_correct": true },
+        { "option_id": 3, "text": "Benzene", "is_correct": false },
+        { "option_id": 4, "text": "Cyclohexane", "is_correct": false }
+      ],
+      "answer": "n-Butane"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "How many bonds are there between the two nitrogen atoms in an N2 molecule?",
+      "options": [
+        { "option_id": 1, "text": "Single", "is_correct": false },
+        { "option_id": 2, "text": "Double", "is_correct": false },
+        { "option_id": 3, "text": "Triple", "is_correct": true },
+        { "option_id": 4, "text": "Quadruple", "is_correct": false }
+      ],
+      "answer": "Triple"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is catenation?",
+      "answer": "Catenation is the unique ability of carbon to form strong covalent bonds with other carbon atoms, resulting in the formation of big molecules."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Define covalent bond.",
+      "answer": "A chemical bond formed by the sharing of two valence electrons between two atoms is called a covalent bond."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is carbon called a versatile element?",
+      "answer": "Carbon is versatile because it can form a huge number of compounds due to its properties of catenation and tetravalency."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a single bond?",
+      "answer": "A single bond is a covalent bond formed by the sharing of one pair of electrons between two atoms."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What are saturated hydrocarbons?",
+      "answer": "Saturated hydrocarbons are hydrocarbons in which all the carbon atoms are linked by single bonds only."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What are unsaturated hydrocarbons?",
+      "answer": "Unsaturated hydrocarbons are hydrocarbons that contain at least one double or triple bond between carbon atoms."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Define structural isomerism.",
+      "answer": "Structural isomerism is the phenomenon where compounds have the same molecular formula but different structural formulae."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is a heteroatom?",
+      "answer": "An atom of an element other than carbon and hydrogen that replaces hydrogen in a hydrocarbon chain is called a heteroatom."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is a functional group?",
+      "answer": "A functional group is an atom or group of atoms that imparts specific chemical properties to a carbon compound, regardless of the carbon chain length."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is a homologous series?",
+      "answer": "A homologous series is a series of compounds with the same functional group and similar chemical properties, where successive members differ by a -CH2- unit."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the difference in molecular mass between two successive members of a homologous series?",
+      "answer": "The difference in molecular mass between two successive members is 14 u."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Write the general formula for Alkanes.",
+      "answer": "The general formula for Alkanes is CnH2n+2."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Write the general formula for Alkenes.",
+      "answer": "The general formula for Alkenes is CnH2n."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Write the general formula for Alkynes.",
+      "answer": "The general formula for Alkynes is CnH2n-2."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is an oxidant?",
+      "answer": "An oxidant or oxidizing agent is a substance that gives oxygen to other substances or removes hydrogen from them during a chemical reaction."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What are the products of the complete combustion of hydrocarbons?",
+      "answer": "The products are carbon dioxide (CO2), water (H2O), heat, and light."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why do unsaturated hydrocarbons burn with a yellow flame?",
+      "answer": "They have a higher percentage of carbon, leading to incomplete combustion and the formation of unburnt carbon particles that glow yellow."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is an addition reaction?",
+      "answer": "An addition reaction is a reaction where an unsaturated compound combines with another substance to form a single saturated product."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is a substitution reaction?",
+      "answer": "A substitution reaction is a reaction where one type of atom or group of atoms in a molecule is replaced by another atom or group of atoms."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What catalyst is used in the hydrogenation of vegetable oils?",
+      "answer": "Nickel or Platinum is used as a catalyst."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the use of alkaline KMnO4 in the reaction with ethanol?",
+      "answer": "It acts as an oxidizing agent to convert ethanol to ethanoic acid."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is glacial acetic acid?",
+      "answer": "Pure ethanoic acid with a melting point of 17°C, which freezes during winter to look like ice, is called glacial acetic acid."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is esterification?",
+      "answer": "Esterification is the reaction between a carboxylic acid and an alcohol in the presence of an acid catalyst to form an ester and water."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is saponification?",
+      "answer": "Saponification is the reaction of an ester with a base (like NaOH) to form alcohol and the sodium salt of the carboxylic acid (soap)."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Define polymer.",
+      "answer": "A polymer is a macromolecule formed by the regular repetition of a small unit called a monomer."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Define monomer.",
+      "answer": "A monomer is the small molecule or unit that repeats regularly to form a polymer."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is polymerization?",
+      "answer": "Polymerization is the chemical reaction by which monomer molecules combine to form a polymer."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Name the polymer used to make carry bags.",
+      "answer": "Polyethylene is used to make carry bags."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is Teflon used for?",
+      "answer": "Teflon is used for coating non-stick cookware."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the full form of PVC?",
+      "answer": "PVC stands for Polyvinyl Chloride."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the monomer of Polyvinyl Chloride?",
+      "answer": "The monomer is Vinyl Chloride."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Name a natural polymer found in plants.",
+      "answer": "Cellulose or Starch."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Name a natural polymer found in animals.",
+      "answer": "Proteins or DNA."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is the monomer of proteins?",
+      "answer": "Alpha amino acids are the monomers of proteins."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the IUPAC name for CH3-CH2-OH?",
+      "answer": "The IUPAC name is Ethanol."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the IUPAC name for CH3-COOH?",
+      "answer": "The IUPAC name is Ethanoic acid."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the IUPAC name for HCHO?",
+      "answer": "The IUPAC name is Methanal."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is the common name for CH3COCH3?",
+      "answer": "The common name is Acetone (or Dimethyl ketone)."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What gas is released when ethanol reacts with sodium?",
+      "answer": "Hydrogen gas is released."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is denatured spirit?",
+      "answer": "Ethanol mixed with a poisonous substance like methanol and a blue dye to prevent misuse is called denatured spirit."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is gasohol?",
+      "answer": "A fuel mixture of petrol and ethanol (used as an additive) is called gasohol."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is the melting point of carbon compounds generally low?",
+      "answer": "Because the intermolecular attractive forces in carbon compounds are weak."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Are carbon compounds good conductors of electricity?",
+      "answer": "No, most carbon compounds are bad conductors of electricity as they do not form ions."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How many electrons does a carbon atom share to form a triple bond?",
+      "answer": "A carbon atom shares three electrons with another atom to form a triple bond."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the shape of a methane molecule?",
+      "answer": "The shape of a methane molecule is tetrahedral."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Draw the electron dot structure of Hydrogen molecule.",
+      "answer": "H : H (Two dots shared between two H symbols)."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the structural formula of Benzene?",
+      "answer": "It is a six-carbon ring with alternating double and single bonds (C6H6)."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What are aromatic compounds?",
+      "answer": "Compounds containing a benzene ring or similar cyclic unsaturated structures with specific stability are called aromatic compounds."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Write the molecular formula of Butane.",
+      "answer": "The molecular formula of Butane is C4H10."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the IUPAC prefix for a 5-carbon chain?",
+      "answer": "The prefix is 'Pent-'."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Explain the versatile nature of Carbon.",
+      "answer": "Carbon's versatile nature is due to: 1. Catenation: It can form strong covalent bonds with other carbon atoms to create long chains, branches, and rings. 2. Tetravalency: With a valency of 4, it can bond with four other atoms of carbon or other monovalent elements like H, Cl, O, N, S. 3. Isomerism: It can form compounds with same molecular formula but different structures. 4. Multiple Bonding: It can form single, double, or triple bonds."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Differentiate between Saturated and Unsaturated Hydrocarbons.",
+      "answer": "Saturated Hydrocarbons: 1. Contain only single bonds between carbon atoms. 2. Called Alkanes. 3. Less reactive. 4. Burn with a clear blue flame. Example: Ethane.\nUnsaturated Hydrocarbons: 1. Contain at least one double or triple bond. 2. Called Alkenes (double) or Alkynes (triple). 3. More reactive. 4. Burn with a yellow sooty flame. Example: Ethene, Ethyne."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Explain Homologous Series with characteristics.",
+      "answer": "A homologous series is a group of organic compounds having similar structure and chemical properties in which successive members differ by a -CH2 group. Characteristics: 1. General formula is same for all members. 2. Same functional group. 3. Gradation in physical properties like boiling point. 4. Similar chemical properties. 5. Successive members differ by 14 mass units."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Describe the rules for IUPAC nomenclature of carbon compounds.",
+      "answer": "1. Identify the longest continuous carbon chain (Parent chain). 2. Identify the functional group and use appropriate suffix/prefix. 3. Number the chain such that the functional group or substituent gets the lowest possible number. 4. Combine the prefix, root word (meth, eth, prop...), and suffix to form the name. 5. Use hyphens between numbers and letters, and commas between numbers."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Explain the combustion of Carbon Compounds with examples.",
+      "answer": "Combustion is the process of burning carbon compounds in oxygen to produce heat, light, CO2, and H2O. Saturated hydrocarbons burn completely with a blue flame. Unsaturated ones burn incompletely with a yellow sooty flame. Example: CH4 + 2O2 -> CO2 + 2H2O + Heat + Light. Ethanol also burns to give CO2 and water."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Explain the oxidation reaction of Ethanol.",
+      "answer": "Ethanol can be oxidized to Ethanoic acid using oxidizing agents like alkaline Potassium Permanganate (KMnO4) or acidified Potassium Dichromate. In this reaction, the alcohol group (-OH) is converted to a carboxylic acid group (-COOH). Equation: CH3-CH2-OH + [O] -> CH3-COOH + H2O (in presence of alk. KMnO4)."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Describe the addition reaction with an example.",
+      "answer": "Addition reaction occurs in unsaturated hydrocarbons where atoms or groups are added across the double or triple bond to form a saturated compound. It requires a catalyst like Nickel or Platinum. Example: Hydrogenation of vegetable oils. Ethene (CH2=CH2) + H2 -> Ethane (CH3-CH3) in presence of Ni catalyst. This is used to convert liquid oils into solid fats (vanaspati)."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Explain the substitution reaction of Methane with Chlorine.",
+      "answer": "In the presence of sunlight, saturated hydrocarbons undergo substitution reactions where hydrogen atoms are replaced by other atoms. Methane reacts with Chlorine to form Chloromethane and Hydrogen Chloride. CH4 + Cl2 -> CH3Cl + HCl. With excess chlorine, subsequent hydrogens are replaced to form CH2Cl2, CHCl3, and CCl4."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "What are the physical and chemical properties of Ethanol?",
+      "answer": "Physical: Liquid at room temperature, colourless, distinct smell, soluble in water, boiling point 78°C. Chemical: 1. Reacts with Sodium to form Sodium Ethoxide and Hydrogen gas. 2. Dehydration: Heated with conc. H2SO4 at 170°C to form Ethene. 3. Oxidation: Forms Ethanoic acid. 4. Combustion: Burns with blue flame."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "What are the physical and chemical properties of Ethanoic Acid?",
+      "answer": "Physical: Colourless liquid, sour taste, vinegar-like smell, boiling point 118°C, miscible with water, freezes at 17°C (glacial acetic acid). Chemical: 1. Reacts with bases to form salt and water. 2. Reacts with carbonates/bicarbonates to release CO2. 3. Reacts with alcohol to form Esters (Esterification)."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "Explain the reaction of Ethanoic acid with Sodium Carbonate and Sodium Bicarbonate.",
+      "answer": "Ethanoic acid reacts with carbonates and bicarbonates to form a salt (Sodium Ethanoate), Water, and Carbon Dioxide gas. This reaction is used to test for carboxylic acids as CO2 turns lime water milky. Equations: 2CH3COOH + Na2CO3 -> 2CH3COONa + H2O + CO2; CH3COOH + NaHCO3 -> CH3COONa + H2O + CO2."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "What is Esterification? Give the reaction and importance.",
+      "answer": "Esterification is the reaction of a carboxylic acid with an alcohol in the presence of an acid catalyst (Conc. H2SO4) to form an ester. Reaction: CH3COOH + C2H5OH -> CH3COOC2H5 (Ethyl Ethanoate) + H2O. Importance: Esters are sweet-smelling substances used in perfumes and flavouring agents."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "What are polymers? Explain with examples of natural and man-made polymers.",
+      "answer": "Polymers are macromolecules formed by joining repeated units called monomers. Natural Polymers: Found in nature, e.g., Cellulose (monomer: glucose), Proteins (monomer: amino acids), Rubber (monomer: isoprene). Man-made Polymers: Synthesized in labs, e.g., Polyethylene (monomer: ethene), PVC (monomer: vinyl chloride), Teflon."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "Explain the structural isomerism in Butane.",
+      "answer": "Butane (C4H10) exhibits structural isomerism. It has two isomers. 1. n-Butane: A straight chain of 4 carbon atoms. 2. Iso-butane (2-methylpropane): A branched chain where 3 carbons are in a line and one is attached to the middle carbon. Both have the same formula C4H10 but different structures and properties."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "How are soap and glycerin formed?",
+      "answer": "Soap and glycerin are formed by the Saponification reaction. When an ester (like fat or oil) is heated with an alkali (Sodium Hydroxide, NaOH), it breaks down to form the sodium salt of the carboxylic acid (Soap) and the alcohol (Glycerin/Glycerol). This is the reverse of esterification."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Discuss the use of polymers in daily life.",
+      "answer": "Polymers are ubiquitous. Polyethylene is used for bags. PVC is used for pipes and insulation. Polystyrene (Thermocol) is used for packaging. Teflon is used for non-stick cookware. Polypropylene is used for furniture. Natural polymers like cotton and wool are used for clothing. They are durable, lightweight, and versatile."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "Draw the electron dot structures of Methane and Ethene.",
+      "answer": "Methane (CH4): Carbon in center sharing 1 electron with each of 4 Hydrogens. Total 8 electrons around C, 2 around each H. Ethene (C2H4): Two carbons sharing 2 pairs of electrons (double bond) between them, and each C sharing 1 pair with 2 Hydrogens. (Diagram description required)."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "Explain the dehydration of Ethanol.",
+      "answer": "Dehydration means removal of water. When ethanol is heated with excess concentrated Sulphuric acid at 170°C, it loses a water molecule to form Ethene. The acid acts as a dehydrating agent. Reaction: CH3-CH2-OH -> CH2=CH2 + H2O (in presence of hot conc. H2SO4)."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "What is the difference between vegetable oil and vanaspati ghee?",
+      "answer": "Vegetable oil contains unsaturated fatty acids (long carbon chains with double bonds). It is liquid at room temperature and generally healthier. Vanaspati ghee is obtained by the hydrogenation of vegetable oil. It contains saturated fats (single bonds), is solid at room temperature, and is considered less healthy due to saturated fats."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Why does carbon not form C4+ or C4- ions?",
+      "answer": "Carbon has 4 valence electrons. To form C4-, it would need to gain 4 electrons, which would be difficult for the nucleus with 6 protons to hold (10 electrons). To form C4+, it would need to lose 4 electrons, which requires a huge amount of energy. Hence, carbon prefers to share electrons and form covalent bonds."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "Explain the reaction of Sodium with Ethanol with the equation.",
+      "answer": "Sodium is a reactive metal. When added to ethanol, it displaces the hydrogen from the hydroxyl (-OH) group. This results in the formation of Sodium Ethoxide and the liberation of Hydrogen gas bubbles. 2Na + 2CH3CH2OH -> 2CH3CH2ONa + H2."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "What are the harmful effects of alcohol consumption?",
+      "answer": "Alcohol (ethanol) depresses the central nervous system. It slows down metabolic processes. It impairs judgment, coordination, and reaction time. Long-term consumption leads to liver damage (cirrhosis), health problems, and social issues. Methanol consumption can cause blindness or death."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "Explain the structure of Benzene.",
+      "answer": "Benzene (C6H6) is a cyclic unsaturated hydrocarbon. It consists of a ring of 6 carbon atoms. There are alternate single and double bonds between the carbon atoms. Each carbon is also bonded to one hydrogen atom. It is the simplest aromatic compound."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "Explain the IUPAC naming for structural isomers of Pentane.",
+      "answer": "Pentane (C5H12) has 3 isomers. 1. n-Pentane: Straight chain. IUPAC name: Pentane. 2. Iso-pentane: 4 carbons in chain, 1 branch. IUPAC name: 2-methylbutane. 3. Neo-pentane: 3 carbons in chain, 2 branches on central carbon. IUPAC name: 2,2-dimethylpropane."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "Write the structural formulae for: 1. Ethanoic acid 2. Propanone 3. Butanal.",
+      "answer": "1. Ethanoic acid: CH3-C(=O)-OH. 2. Propanone: CH3-C(=O)-CH3. 3. Butanal: CH3-CH2-CH2-C(=O)-H."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "What happens when a piece of sodium is dropped into ethanoic acid?",
+      "answer": "When sodium reacts with ethanoic acid, the hydrogen of the carboxyl group is displaced. This forms Sodium Ethanoate (salt) and releases Hydrogen gas. Reaction: 2CH3COOH + 2Na -> 2CH3COONa + H2."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "How are polymers classified based on their source?",
+      "answer": "Polymers are classified into Natural and Artificial (Man-made). Natural polymers are obtained from plants (Cellulose, Starch, Rubber) or animals (Proteins, DNA). Man-made polymers are synthesized in factories (Polyethylene, PVC, Nylon, Teflon)."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "Explain the formation of Polyethylene.",
+      "answer": "Polyethylene is formed by the polymerization of Ethene (ethylene). Under high pressure and temperature, the double bonds of ethene molecules break, and they link together to form a long chain. Equation: n(CH2=CH2) -> [-CH2-CH2-]n."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "What is the role of Heteroatoms in carbon compounds?",
+      "answer": "Heteroatoms replace hydrogen in the hydrocarbon chain. They determine the chemical properties of the compound, forming functional groups. For example, Chlorine makes it a haloalkane, Oxygen can form alcohols, aldehydes, ketones, etc. They confer specific reactivity to the molecule."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "Describe the test to distinguish between saturated and unsaturated compounds using bromine water.",
+      "answer": "Take the sample in a test tube. Add a few drops of bromine water (brown color). If the compound is unsaturated (has double/triple bonds), it will undergo an addition reaction with bromine, decolorizing the water. If it is saturated, no reaction occurs, and the brown color persists."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "Identify the type of reaction: a. CH3-CH3 + Cl2 -> CH3-CH2-Cl + HCl, b. CH2=CH2 + H2 -> CH3-CH3.",
+      "answer": "a. Substitution Reaction: Chlorine replaces hydrogen in ethane. b. Addition Reaction: Hydrogen adds across the double bond of ethene to form ethane."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "Give the IUPAC names of: a. CH3-OH, b. CH3-CH2-Cl, c. CH3-CO-CH3.",
+      "answer": "a. Methanol (Parent alkane Methane - 'e' + 'ol'). b. Chloroethane (Prefix 'Chloro' + parent Ethane). c. Propanone (Parent Propane - 'e' + 'one')."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "Why is the flame of a candle yellow and sooty?",
+      "answer": "A candle is made of wax, which contains saturated hydrocarbons with high carbon content. When lit, the supply of oxygen is insufficient for complete combustion. This leads to incomplete combustion, producing unburnt carbon particles (soot) which glow yellow in the flame."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "Discuss the different types of functional groups containing Oxygen.",
+      "answer": "1. Alcohol (-OH): Hydroxyl group attached to carbon. 2. Aldehyde (-CHO): Carbonyl group at the end of a chain. 3. Ketone (-CO-): Carbonyl group in the middle of a chain. 4. Carboxylic Acid (-COOH): Carboxyl group. 5. Ether (-O-): Oxygen bridging two carbons. 6. Ester (-COO-): Carboxylate group linking two chains."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "What is the difference between Soap and Detergent?",
+      "answer": "(Contextual inference based on chapter themes, though not fully detailed in snippet). Soap is a sodium salt of fatty acids formed by saponification. It is biodegradable but not effective in hard water. Detergents are synthetic surfactants (like Sodium dodecyl benzene sulphate) that work well in hard water."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "Draw the structure of Cyclohexane.",
+      "answer": "Cyclohexane (C6H12) is a ring of 6 carbons connected by single bonds. Each carbon is bonded to two hydrogens. Structure is a hexagon with 'CH2' at each vertex. (Visual description required)."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "Explain the term 'Functional Group' with three examples.",
+      "answer": "A functional group is an atom or group of atoms that defines the characteristic reactions of an organic compound. Examples: 1. -OH (Alcohol) in Ethanol makes it react with Sodium. 2. -COOH (Acid) in Ethanoic Acid makes it react with bases. 3. -Cl (Halogen) makes haloalkanes undergo substitution."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "What are the uses of Ethanoic Acid?",
+      "answer": "1. As Vinegar (5-8% solution) for food preservation and flavouring. 2. For making esters used in perfumes. 3. As a solvent. 4. In the preparation of dyes and plastics."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "Why is the study of carbon compounds called Organic Chemistry?",
+      "answer": "Historically, it was believed that compounds found in living organisms (organic) could not be synthesized from non-living matter (inorganic) due to a 'vital force'. Although this theory was disproved by Wohler (synthesizing Urea), the classification persisted. Carbon is the basis of life, so its chemistry is called Organic Chemistry."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "Explain how the valency of carbon is satisfied in Ethene.",
+      "answer": "Carbon is tetravalent. In Ethene (C2H4), each carbon is bonded to two hydrogen atoms (using 2 valencies). To satisfy the remaining 2 valencies, the two carbon atoms form a double bond between themselves. Thus, each carbon has 4 bonds (2 with H, 2 with C)."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "Write the reaction for the combustion of Propane.",
+      "answer": "Propane (C3H8) reacts with Oxygen (O2) to form Carbon Dioxide (CO2) and Water (H2O) along with heat and light. Equation: C3H8 + 5O2 -> 3CO2 + 4H2O + Heat + Light."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "What are the uses of polymers like PVC and Polystyrene?",
+      "answer": "PVC (Polyvinyl Chloride): Used for making pipes, door mats, tubes, bags, and insulation for wires. Polystyrene: Used for making thermocol articles, packaging materials, and insulation."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "How does the straight chain structure of carbon differ from the ring structure?",
+      "answer": "In a straight chain, carbon atoms are linked one after another in a line (e.g., Propane). In a ring structure, the chain loops back on itself so that the first and last carbon atoms are bonded, forming a closed cycle (e.g., Cyclohexane)."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "Why does carbon form covalent bonds rather than ionic bonds?",
+      "answer": "To form ionic bonds, Carbon would need to lose 4 electrons (C4+) or gain 4 electrons (C4-). Losing 4 electrons requires too much energy. Gaining 4 electrons makes the nucleus unstable (6 protons holding 10 electrons). Therefore, sharing electrons to form covalent bonds is energetically favourable."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "Explain the bonding in a Nitrogen molecule.",
+      "answer": "Nitrogen (atomic number 7) has 5 valence electrons. It needs 3 more to complete its octet. Two nitrogen atoms come together and share 3 pairs of electrons between them. This results in the formation of a triple bond (N≡N), making the N2 molecule very stable."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "How is Ethanol prepared from Sugarcane?",
+      "answer": "Sugarcane juice is processed to make sugar. The remaining liquid is called molasses, which is rich in sucrose. Molasses is fermented using yeast (which contains enzymes). The fermentation process converts the sugars into Ethanol and Carbon Dioxide."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "What are the differences between diamond and graphite? (Context: Carbon Allotropes mentioned in passing)",
+      "answer": "Diamond: Hardest substance, each C bonded to 4 others, non-conductor, used in jewelry/cutting. Graphite: Soft and slippery, each C bonded to 3 others forming layers, good conductor of electricity, used as lubricant/pencil lead."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "Write the structural formula for Propan-2-ol and Pentan-2-one.",
+      "answer": "Propan-2-ol: CH3-CH(OH)-CH3. Pentan-2-one: CH3-C(=O)-CH2-CH2-CH3."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "What are the advantages of using IUPAC nomenclature over common names?",
+      "answer": "Common names are often based on source or history and can be confusing (e.g., many isomers having similar names). IUPAC provides a systematic, logical way to name every compound uniquely based on its structure, number of carbons, and functional groups. It avoids ambiguity."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Homopolymer' vs 'Copolymer'.",
+      "answer": "Homopolymer: A polymer formed from only one type of monomer repeating unit. Example: Polyethylene (from ethene). Copolymer: A polymer formed from two or more different types of monomers. Example: PET (Polyethylene terephthalate)."
+    }
+  ]
+}

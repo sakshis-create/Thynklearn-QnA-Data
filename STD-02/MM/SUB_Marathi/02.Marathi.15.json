@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.15",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "चित्रवाचन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "चित्रात मुले कुठे दिसत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "शेतात", "is_correct": false },
+        { "option_id": 2, "text": "शाळेत", "is_correct": true },
+        { "option_id": 3, "text": "बाजारात", "is_correct": false },
+        { "option_id": 4, "text": "घरात", "is_correct": false }
+      ],
+      "answer": "शाळेत"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "चित्रात मुले काय करत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "खेळत आहेत", "is_correct": true },
+        { "option_id": 2, "text": "झोपली आहेत", "is_correct": false },
+        { "option_id": 3, "text": "भांडत आहेत", "is_correct": false },
+        { "option_id": 4, "text": "जेवत आहेत", "is_correct": false }
+      ],
+      "answer": "खेळत आहेत"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "चित्रात कोणता ऋतू दाखवला आहे?",
+      "options": [
+        { "option_id": 1, "text": "उन्हाळा", "is_correct": false },
+        { "option_id": 2, "text": "पावसाळा", "is_correct": true },
+        { "option_id": 3, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 4, "text": "वसंत", "is_correct": false }
+      ],
+      "answer": "पावसाळा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "चित्रात जमिनीवर काय दिसत आहे?",
+      "options": [
+        { "option_id": 1, "text": "धूळ", "is_correct": false },
+        { "option_id": 2, "text": "पाणी", "is_correct": true },
+        { "option_id": 3, "text": "बर्फ", "is_correct": false },
+        { "option_id": 4, "text": "खडे", "is_correct": false }
+      ],
+      "answer": "पाणी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "चित्रात मुले कशी दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "दुःखी", "is_correct": false },
+        { "option_id": 2, "text": "भीतीने", "is_correct": false },
+        { "option_id": 3, "text": "आनंदी", "is_correct": true },
+        { "option_id": 4, "text": "रागाने", "is_correct": false }
+      ],
+      "answer": "आनंदी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "चित्रात जवळ काय दिसते?",
+      "options": [
+        { "option_id": 1, "text": "झाडे", "is_correct": true },
+        { "option_id": 2, "text": "डोंगर", "is_correct": false },
+        { "option_id": 3, "text": "समुद्र", "is_correct": false },
+        { "option_id": 4, "text": "रेल्वे", "is_correct": false }
+      ],
+      "answer": "झाडे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "चित्रात मुले कुठे उभी आहेत?",
+      "options": [
+        { "option_id": 1, "text": "बागेत", "is_correct": false },
+        { "option_id": 2, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 3, "text": "शाळेच्या मैदानात", "is_correct": true },
+        { "option_id": 4, "text": "घरासमोर", "is_correct": false }
+      ],
+      "answer": "शाळेच्या मैदानात"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "चित्रातील मुले कशात उड्या मारत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "काळ्या फळ्यावर", "is_correct": false },
+        { "option_id": 2, "text": "खड्ड्यातल्या पाण्यात", "is_correct": true },
+        { "option_id": 3, "text": "शेतात", "is_correct": false },
+        { "option_id": 4, "text": "ओढ्यात", "is_correct": false }
+      ],
+      "answer": "खड्ड्यातल्या पाण्यात"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "चित्र वाचताना काय समजते?",
+      "options": [
+        { "option_id": 1, "text": "सगळे भांडत आहेत", "is_correct": false },
+        { "option_id": 2, "text": "मुले घाबरली आहेत", "is_correct": false },
+        { "option_id": 3, "text": "मुले पावसात मजा करत आहेत", "is_correct": true },
+        { "option_id": 4, "text": "शाळा बंद आहे", "is_correct": false }
+      ],
+      "answer": "मुले पावसात मजा करत आहेत"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "चित्रवाचन का महत्त्वाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "मजकूर न वाचता अर्थ समजतो", "is_correct": true },
+        { "option_id": 2, "text": "चित्र काढावे लागतात", "is_correct": false },
+        { "option_id": 3, "text": "केवळ खेळायला मिळते", "is_correct": false },
+        { "option_id": 4, "text": "गाणी म्हणावी लागतात", "is_correct": false }
+      ],
+      "answer": "मजकूर न वाचता अर्थ समजतो"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "चित्र पाहून कोणती भावना दिसते?",
+      "options": [
+        { "option_id": 1, "text": "राग", "is_correct": false },
+        { "option_id": 2, "text": "दुःख", "is_correct": false },
+        { "option_id": 3, "text": "उत्साह", "is_correct": true },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "चित्रात आकाश कसे दिसत आहे?",
+      "options": [
+        { "option_id": 1, "text": "काळे ढगाळ", "is_correct": true },
+        { "option_id": 2, "text": "तप्त सूर्य", "is_correct": false },
+        { "option_id": 3, "text": "ताऱ्यांनी भरलेले", "is_correct": false },
+        { "option_id": 4, "text": "पूर्ण स्वच्छ", "is_correct": false }
+      ],
+      "answer": "काळे ढगाळ"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "चित्रातून कोणता ऋतू ओळखता येतो?",
+      "options": [
+        { "option_id": 1, "text": "शरद ऋतू", "is_correct": false },
+        { "option_id": 2, "text": "वसंत ऋतू", "is_correct": false },
+        { "option_id": 3, "text": "पावसाळा", "is_correct": true },
+        { "option_id": 4, "text": "ग्रीष्म ऋतू", "is_correct": false }
+      ],
+      "answer": "पावसाळा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "चित्र वाचताना काय लक्षात घ्यावे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त रंग", "is_correct": false },
+        { "option_id": 2, "text": "फक्त माणसे", "is_correct": false },
+        { "option_id": 3, "text": "संपूर्ण दृश्य", "is_correct": true },
+        { "option_id": 4, "text": "फक्त वस्तू", "is_correct": false }
+      ],
+      "answer": "संपूर्ण दृश्य"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "चित्रवाचनातून काय विकसित होते?",
+      "options": [
+        { "option_id": 1, "text": "कल्पनाशक्ती", "is_correct": true },
+        { "option_id": 2, "text": "राग", "is_correct": false },
+        { "option_id": 3, "text": "भय", "is_correct": false },
+        { "option_id": 4, "text": "आळस", "is_correct": false }
+      ],
+      "answer": "कल्पनाशक्ती"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "चित्रात मुले काय करत आहेत ते लिहा.",
+      "answer": "चित्रात मुले पावसात खेळत आणि उड्या मारत आहेत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "चित्रात दिसणाऱ्या दोन वस्तू लिहा.",
+      "answer": "झाडे आणि पाण्याचे खड्डे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "चित्र पाहून तुला कसे वाटले?",
+      "answer": "मला आनंद आणि उत्साह वाटला."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "चित्रवाचन म्हणजे काय?",
+      "answer": "चित्र पाहून त्याचा अर्थ समजणे म्हणजे चित्रवाचन."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पावसात खेळताना कोणती काळजी घ्यावी?",
+      "answer": "ओल्या जागी न घसरने आणि सुरक्षित राहणे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "चित्रातील दोन कृती शब्द लिहा.",
+      "answer": "उड्या मारत आहेत, खेळत आहेत."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "चित्रातून कोणता ऋतू ओळखला?",
+      "answer": "चित्रातून पावसाळा ओळखला."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "चित्रातील मुलांचा स्वभाव कसा वाटतो?",
+      "answer": "आनंदी आणि उत्साही."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "चित्रातून शिकलेली एक गोष्ट लिहा.",
+      "answer": "मित्रांसोबत खेळताना आनंद वाटतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "चित्रवाचन का करावे?",
+      "answer": "कारण त्यामुळे निरीक्षणशक्ती वाढते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "चित्र पाहून एक वाक्य लिहा.",
+      "answer": "मुले पावसात मजा करत आहेत."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "चित्रातील आवडलेला एक भाग लिहा.",
+      "answer": "मुलांनी पाण्यात उड्या मारणे मला आवडले."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "चित्रातील दोन नाम शब्द लिहा.",
+      "answer": "मुले, पाणी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "चित्रातून निसर्गाबद्दल काय कळते?",
+      "answer": "पावसाळ्यात निसर्ग सुंदर दिसतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "चित्रवाचनातून तुला काय शिकायला मिळाले?",
+      "answer": "चित्र पाहून कल्पना करणे आणि अर्थ समजून घेणे."
+    }
+  ]
+}

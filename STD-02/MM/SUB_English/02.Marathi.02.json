@@ -1,0 +1,921 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.ENG.02",
+    "standard": "2",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Unit 2 — Birds Can Fly"
+  },
+  "questions": [
+
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which animals in the lesson can fly?",
+      "options": [
+        { "option_id": 1, "text": "Dogs and cats", "is_correct": false },
+        { "option_id": 2, "text": "Birds", "is_correct": true },
+        { "option_id": 3, "text": "Cows and goats", "is_correct": false },
+        { "option_id": 4, "text": "Elephants", "is_correct": false }
+      ],
+      "answer": "Birds"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What do birds use to fly?",
+      "options": [
+        { "option_id": 1, "text": "Hands", "is_correct": false },
+        { "option_id": 2, "text": "Wings", "is_correct": true },
+        { "option_id": 3, "text": "Legs", "is_correct": false },
+        { "option_id": 4, "text": "Tails", "is_correct": false }
+      ],
+      "answer": "Wings"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which animal can run fast according to the lesson?",
+      "options": [
+        { "option_id": 1, "text": "Tortoise", "is_correct": false },
+        { "option_id": 2, "text": "Horse", "is_correct": true },
+        { "option_id": 3, "text": "Cow", "is_correct": false },
+        { "option_id": 4, "text": "Duck", "is_correct": false }
+      ],
+      "answer": "Horse"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which animal can swim in water?",
+      "options": [
+        { "option_id": 1, "text": "Duck", "is_correct": true },
+        { "option_id": 2, "text": "Cat", "is_correct": false },
+        { "option_id": 3, "text": "Goat", "is_correct": false },
+        { "option_id": 4, "text": "Hen", "is_correct": false }
+      ],
+      "answer": "Duck"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which animal in the lesson hops?",
+      "options": [
+        { "option_id": 1, "text": "Rabbit", "is_correct": true },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Sheep", "is_correct": false },
+        { "option_id": 4, "text": "Cow", "is_correct": false }
+      ],
+      "answer": "Rabbit"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which animal gives us milk?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": false },
+        { "option_id": 2, "text": "Cow", "is_correct": true },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Hen", "is_correct": false }
+      ],
+      "answer": "Cow"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which bird can talk in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "Crow", "is_correct": false },
+        { "option_id": 2, "text": "Parrot", "is_correct": true },
+        { "option_id": 3, "text": "Sparrow", "is_correct": false },
+        { "option_id": 4, "text": "Pigeon", "is_correct": false }
+      ],
+      "answer": "Parrot"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which animal guards our house?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": false },
+        { "option_id": 2, "text": "Dog", "is_correct": true },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Rabbit", "is_correct": false }
+      ],
+      "answer": "Dog"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which animal carries loads?",
+      "options": [
+        { "option_id": 1, "text": "Horse", "is_correct": false },
+        { "option_id": 2, "text": "Donkey", "is_correct": true },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Donkey"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which animal gives us wool?",
+      "options": [
+        { "option_id": 1, "text": "Sheep", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Goat", "is_correct": false },
+        { "option_id": 4, "text": "Dog", "is_correct": false }
+      ],
+      "answer": "Sheep"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which bird builds nests?",
+      "options": [
+        { "option_id": 1, "text": "Sparrow", "is_correct": true },
+        { "option_id": 2, "text": "Crow", "is_correct": false },
+        { "option_id": 3, "text": "Owl", "is_correct": false },
+        { "option_id": 4, "text": "Eagle", "is_correct": false }
+      ],
+      "answer": "Sparrow"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which animal can climb trees?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": false },
+        { "option_id": 2, "text": "Monkey", "is_correct": true },
+        { "option_id": 3, "text": "Cow", "is_correct": false },
+        { "option_id": 4, "text": "Sheep", "is_correct": false }
+      ],
+      "answer": "Monkey"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which bird sleeps during the day?",
+      "options": [
+        { "option_id": 1, "text": "Sparrow", "is_correct": false },
+        { "option_id": 2, "text": "Owl", "is_correct": true },
+        { "option_id": 3, "text": "Crow", "is_correct": false },
+        { "option_id": 4, "text": "Parrot", "is_correct": false }
+      ],
+      "answer": "Owl"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which animal in the picture has a trunk?",
+      "options": [
+        { "option_id": 1, "text": "Lion", "is_correct": false },
+        { "option_id": 2, "text": "Elephant", "is_correct": true },
+        { "option_id": 3, "text": "Tiger", "is_correct": false },
+        { "option_id": 4, "text": "Horse", "is_correct": false }
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What sound does a dog make?",
+      "options": [
+        { "option_id": 1, "text": "Moo", "is_correct": false },
+        { "option_id": 2, "text": "Barks", "is_correct": true },
+        { "option_id": 3, "text": "Meows", "is_correct": false },
+        { "option_id": 4, "text": "Bleats", "is_correct": false }
+      ],
+      "answer": "Barks"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What sound does a cat make?",
+      "options": [
+        { "option_id": 1, "text": "Meow", "is_correct": true },
+        { "option_id": 2, "text": "Bark", "is_correct": false },
+        { "option_id": 3, "text": "Moo", "is_correct": false },
+        { "option_id": 4, "text": "Neigh", "is_correct": false }
+      ],
+      "answer": "Meow"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which sentence is used to ask permission in Let’s Speak?",
+      "options": [
+        { "option_id": 1, "text": "Open the door.", "is_correct": false },
+        { "option_id": 2, "text": "May I come in?", "is_correct": true },
+        { "option_id": 3, "text": "Sit down.", "is_correct": false },
+        { "option_id": 4, "text": "Stand up.", "is_correct": false }
+      ],
+      "answer": "May I come in?"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the correct polite reply to 'May I come in?'",
+      "options": [
+        { "option_id": 1, "text": "No", "is_correct": false },
+        { "option_id": 2, "text": "Yes, come in", "is_correct": true },
+        { "option_id": 3, "text": "Go away", "is_correct": false },
+        { "option_id": 4, "text": "Sit down", "is_correct": false }
+      ],
+      "answer": "Yes, come in"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which sentence is used to ask for a book?",
+      "options": [
+        { "option_id": 1, "text": "Give me water.", "is_correct": false },
+        { "option_id": 2, "text": "May I borrow your book?", "is_correct": true },
+        { "option_id": 3, "text": "Stand up.", "is_correct": false },
+        { "option_id": 4, "text": "Come here.", "is_correct": false }
+      ],
+      "answer": "May I borrow your book?"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which pair are rhyming words from the Word Basket?",
+      "options": [
+        { "option_id": 1, "text": "cat – mat", "is_correct": true },
+        { "option_id": 2, "text": "dog – cow", "is_correct": false },
+        { "option_id": 3, "text": "hen – goat", "is_correct": false },
+        { "option_id": 4, "text": "bird – tree", "is_correct": false }
+      ],
+      "answer": "cat – mat"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'rat'?",
+      "options": [
+        { "option_id": 1, "text": "cat", "is_correct": true },
+        { "option_id": 2, "text": "cow", "is_correct": false },
+        { "option_id": 3, "text": "dog", "is_correct": false },
+        { "option_id": 4, "text": "hen", "is_correct": false }
+      ],
+      "answer": "cat"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'bag'?",
+      "options": [
+        { "option_id": 1, "text": "tag", "is_correct": true },
+        { "option_id": 2, "text": "rat", "is_correct": false },
+        { "option_id": 3, "text": "hat", "is_correct": false },
+        { "option_id": 4, "text": "mat", "is_correct": false }
+      ],
+      "answer": "tag"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'pig'?",
+      "options": [
+        { "option_id": 1, "text": "dig", "is_correct": true },
+        { "option_id": 2, "text": "dog", "is_correct": false },
+        { "option_id": 3, "text": "cat", "is_correct": false },
+        { "option_id": 4, "text": "cow", "is_correct": false }
+      ],
+      "answer": "dig"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which animal lives in a burrow?",
+      "options": [
+        { "option_id": 1, "text": "Rabbit", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Rabbit"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which animal eats grass?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": true },
+        { "option_id": 2, "text": "Tiger", "is_correct": false },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Dog", "is_correct": false }
+      ],
+      "answer": "Cow"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which sentence shows good manners?",
+      "options": [
+        { "option_id": 1, "text": "Give me your pencil.", "is_correct": false },
+        { "option_id": 2, "text": "May I use your pencil?", "is_correct": true },
+        { "option_id": 3, "text": "Take it.", "is_correct": false },
+        { "option_id": 4, "text": "Go away.", "is_correct": false }
+      ],
+      "answer": "May I use your pencil?"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which animal lives on land and in water?",
+      "options": [
+        { "option_id": 1, "text": "Frog", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Sheep", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Frog"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which animal is called the king of the jungle?",
+      "options": [
+        { "option_id": 1, "text": "Tiger", "is_correct": false },
+        { "option_id": 2, "text": "Lion", "is_correct": true },
+        { "option_id": 3, "text": "Elephant", "is_correct": false },
+        { "option_id": 4, "text": "Bear", "is_correct": false }
+      ],
+      "answer": "Lion"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which bird has a long neck?",
+      "options": [
+        { "option_id": 1, "text": "Ostrich", "is_correct": true },
+        { "option_id": 2, "text": "Crow", "is_correct": false },
+        { "option_id": 3, "text": "Sparrow", "is_correct": false },
+        { "option_id": 4, "text": "Hen", "is_correct": false }
+      ],
+      "answer": "Ostrich"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which animal has stripes on its body?",
+      "options": [
+        { "option_id": 1, "text": "Tiger", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Tiger"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which sentence is used to ask for permission to drink water?",
+      "options": [
+        { "option_id": 1, "text": "Give me water.", "is_correct": false },
+        { "option_id": 2, "text": "May I drink water?", "is_correct": true },
+        { "option_id": 3, "text": "Go and drink.", "is_correct": false },
+        { "option_id": 4, "text": "Drink now.", "is_correct": false }
+      ],
+      "answer": "May I drink water?"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which animal gives us eggs?",
+      "options": [
+        { "option_id": 1, "text": "Hen", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Hen"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which animal gives us meat?",
+      "options": [
+        { "option_id": 1, "text": "Goat", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Horse", "is_correct": false }
+      ],
+      "answer": "Goat"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which bird cannot fly?",
+      "options": [
+        { "option_id": 1, "text": "Ostrich", "is_correct": true },
+        { "option_id": 2, "text": "Sparrow", "is_correct": false },
+        { "option_id": 3, "text": "Crow", "is_correct": false },
+        { "option_id": 4, "text": "Parrot", "is_correct": false }
+      ],
+      "answer": "Ostrich"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which animal lives in water?",
+      "options": [
+        { "option_id": 1, "text": "Fish", "is_correct": true },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Cow", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Fish"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which action is shown in 'Look, listen and do'?",
+      "options": [
+        { "option_id": 1, "text": "Jumping", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping", "is_correct": false },
+        { "option_id": 3, "text": "Writing", "is_correct": false },
+        { "option_id": 4, "text": "Reading", "is_correct": false }
+      ],
+      "answer": "Jumping"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which skill is practiced through 'Let’s Speak'?",
+      "options": [
+        { "option_id": 1, "text": "Writing", "is_correct": false },
+        { "option_id": 2, "text": "Speaking", "is_correct": true },
+        { "option_id": 3, "text": "Drawing", "is_correct": false },
+        { "option_id": 4, "text": "Running", "is_correct": false }
+      ],
+      "answer": "Speaking"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which activity helps to improve pronunciation?",
+      "options": [
+        { "option_id": 1, "text": "Read aloud", "is_correct": true },
+        { "option_id": 2, "text": "Write fast", "is_correct": false },
+        { "option_id": 3, "text": "Run fast", "is_correct": false },
+        { "option_id": 4, "text": "Jump high", "is_correct": false }
+      ],
+      "answer": "Read aloud"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the main theme of 'Birds Can Fly'?",
+      "options": [
+        { "option_id": 1, "text": "Animals and their actions", "is_correct": true },
+        { "option_id": 2, "text": "Games and sports", "is_correct": false },
+        { "option_id": 3, "text": "Food and fruits", "is_correct": false },
+        { "option_id": 4, "text": "Seasons", "is_correct": false }
+      ],
+      "answer": "Animals and their actions"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which activity teaches students to observe pictures?",
+      "options": [
+        { "option_id": 1, "text": "Look and say", "is_correct": true },
+        { "option_id": 2, "text": "Write and copy", "is_correct": false },
+        { "option_id": 3, "text": "Sing and dance", "is_correct": false },
+        { "option_id": 4, "text": "Jump and run", "is_correct": false }
+      ],
+      "answer": "Look and say"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which bird lives in trees?",
+      "options": [
+        { "option_id": 1, "text": "Sparrow", "is_correct": true },
+        { "option_id": 2, "text": "Fish", "is_correct": false },
+        { "option_id": 3, "text": "Frog", "is_correct": false },
+        { "option_id": 4, "text": "Rabbit", "is_correct": false }
+      ],
+      "answer": "Sparrow"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which animal eats bananas?",
+      "options": [
+        { "option_id": 1, "text": "Monkey", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Monkey"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which animal jumps from tree to tree?",
+      "options": [
+        { "option_id": 1, "text": "Monkey", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Goat", "is_correct": false },
+        { "option_id": 4, "text": "Dog", "is_correct": false }
+      ],
+      "answer": "Monkey"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which animal eats fish?",
+      "options": [
+        { "option_id": 1, "text": "Cat", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Sheep", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Cat"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which animal gives us leather?",
+      "options": [
+        { "option_id": 1, "text": "Ox", "is_correct": true },
+        { "option_id": 2, "text": "Hen", "is_correct": false },
+        { "option_id": 3, "text": "Duck", "is_correct": false },
+        { "option_id": 4, "text": "Rabbit", "is_correct": false }
+      ],
+      "answer": "Ox"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which sentence is spoken when entering the classroom?",
+      "options": [
+        { "option_id": 1, "text": "Good morning, teacher.", "is_correct": true },
+        { "option_id": 2, "text": "Good night.", "is_correct": false },
+        { "option_id": 3, "text": "Sit down.", "is_correct": false },
+        { "option_id": 4, "text": "Run fast.", "is_correct": false }
+      ],
+      "answer": "Good morning, teacher."
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which action word best describes a bird?",
+      "options": [
+        { "option_id": 1, "text": "Fly", "is_correct": true },
+        { "option_id": 2, "text": "Swim", "is_correct": false },
+        { "option_id": 3, "text": "Hop", "is_correct": false },
+        { "option_id": 4, "text": "Run", "is_correct": false }
+      ],
+      "answer": "Fly"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which action word best describes a fish?",
+      "options": [
+        { "option_id": 1, "text": "Fly", "is_correct": false },
+        { "option_id": 2, "text": "Swim", "is_correct": true },
+        { "option_id": 3, "text": "Run", "is_correct": false },
+        { "option_id": 4, "text": "Climb", "is_correct": false }
+      ],
+      "answer": "Swim"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which action word best describes a rabbit?",
+      "options": [
+        { "option_id": 1, "text": "Hop", "is_correct": true },
+        { "option_id": 2, "text": "Swim", "is_correct": false },
+        { "option_id": 3, "text": "Fly", "is_correct": false },
+        { "option_id": 4, "text": "Crawl", "is_correct": false }
+      ],
+      "answer": "Hop"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the learning focus of Unit 2?",
+      "options": [
+        { "option_id": 1, "text": "Animals, birds, actions and speaking skills", "is_correct": true },
+        { "option_id": 2, "text": "Numbers and maths", "is_correct": false },
+        { "option_id": 3, "text": "Plants and trees", "is_correct": false },
+        { "option_id": 4, "text": "Games and sports", "is_correct": false }
+      ],
+      "answer": "Animals, birds, actions and speaking skills"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Name two animals that can fly.",
+      "answer": "Two animals that can fly are birds such as crow and parrot."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Name one animal that can swim.",
+      "answer": "Duck can swim."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Which animal can run fast?",
+      "answer": "The horse can run fast."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which animal gives us milk?",
+      "answer": "The cow gives us milk."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which animal guards our house?",
+      "answer": "The dog guards our house."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which animal carries loads?",
+      "answer": "The donkey carries loads."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Which animal gives us wool?",
+      "answer": "The sheep gives us wool."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Which bird can talk?",
+      "answer": "The parrot can talk."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Which bird builds nests?",
+      "answer": "The sparrow builds nests."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which animal hops?",
+      "answer": "The rabbit hops."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Write one sentence asking permission to enter the class.",
+      "answer": "May I come in?"
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Write a polite reply to 'May I come in?'",
+      "answer": "Yes, come in."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Write one sentence to ask for a book.",
+      "answer": "May I borrow your book?"
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Which sentence is used to ask for water?",
+      "answer": "May I drink water?"
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What does a bird use to fly?",
+      "answer": "A bird uses wings to fly."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What does a fish do?",
+      "answer": "A fish swims."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What does a rabbit do?",
+      "answer": "A rabbit hops."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Name one animal that lives in water.",
+      "answer": "Fish lives in water."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Name one animal that lives on land.",
+      "answer": "Cow lives on land."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Name one animal that lives on trees.",
+      "answer": "Monkey lives on trees."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Which animal eats bananas?",
+      "answer": "The monkey eats bananas."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Which animal has a trunk?",
+      "answer": "The elephant has a trunk."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Which animal has stripes?",
+      "answer": "The tiger has stripes."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Which animal lives in a burrow?",
+      "answer": "The rabbit lives in a burrow."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Which bird sleeps during the day?",
+      "answer": "The owl sleeps during the day."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Which animal gives us meat?",
+      "answer": "The goat gives us meat."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Which bird cannot fly?",
+      "answer": "The ostrich cannot fly."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Write one pair of rhyming words.",
+      "answer": "cat – mat"
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Write one more pair of rhyming words.",
+      "answer": "rat – cat"
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is the theme of the lesson?",
+      "answer": "The theme is animals and their actions."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Which activity helps in speaking practice?",
+      "answer": "Let’s Speak helps in speaking practice."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Which activity helps in observing pictures?",
+      "answer": "Look and say helps in observing pictures."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Which activity helps in pronunciation practice?",
+      "answer": "Read aloud helps in pronunciation practice."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Write one action of a bird.",
+      "answer": "A bird can fly."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Write one action of a fish.",
+      "answer": "A fish swims."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Write one action of a dog.",
+      "answer": "A dog runs."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Write one action of a monkey.",
+      "answer": "A monkey climbs."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Write one sentence about a cow.",
+      "answer": "A cow gives us milk."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Write one sentence about a parrot.",
+      "answer": "A parrot can talk."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Write one sentence about a sparrow.",
+      "answer": "A sparrow builds nests."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Write one sentence about a dog.",
+      "answer": "A dog guards our house."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Write one polite classroom sentence.",
+      "answer": "May I go out?"
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Write one polite reply sentence.",
+      "answer": "Yes, you may."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Write one rhyming word for pig.",
+      "answer": "dig"
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Write one rhyming word for bag.",
+      "answer": "tag"
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Write one rhyming word for cat.",
+      "answer": "rat"
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What skill do students learn in this unit?",
+      "answer": "Students learn reading, speaking and vocabulary skills."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What vocabulary topic is taught in this unit?",
+      "answer": "Vocabulary about animals and birds is taught."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What grammar element is used in Let’s Speak?",
+      "answer": "Polite question sentences are used."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the learning focus of Unit 2?",
+      "answer": "The learning focus is animals, actions, rhyming words and speaking skills."
+    }
+
+  ]
+}

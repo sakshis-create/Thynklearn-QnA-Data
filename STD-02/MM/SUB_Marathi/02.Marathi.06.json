@@ -1,0 +1,282 @@
+ {
+    "chapter_metadata": {
+      "chapter_id": "2.MAR.06",
+      "standard": "2",
+      "subject": "Marathi",
+      "medium": "Marathi",
+      "chapter_name": "चंपकला शाबासकी मिळाली"
+    },
+    "questions": [
+      {
+        "question_id": 1,
+        "question_type": "MCQ",
+        "question": "चंपक कुठे राहायचा?",
+        "options": [
+          { "option_id": 1, "text": "शहरात", "is_correct": false },
+          { "option_id": 2, "text": "डोंगरगावी", "is_correct": true },
+          { "option_id": 3, "text": "समुद्रकिनारी", "is_correct": false },
+          { "option_id": 4, "text": "जंगलात", "is_correct": false }
+        ],
+        "answer": "डोंगरगावी"
+      },
+      {
+        "question_id": 2,
+        "question_type": "MCQ",
+        "question": "चंपक कोणाकडे शिकायला गेला?",
+        "options": [
+          { "option_id": 1, "text": "मित्राकडे", "is_correct": false },
+          { "option_id": 2, "text": "काकांकडे", "is_correct": false },
+          { "option_id": 3, "text": "सुरेश मामांकडे", "is_correct": true },
+          { "option_id": 4, "text": "आजोबांकडे", "is_correct": false }
+        ],
+        "answer": "सुरेश मामांकडे"
+      },
+      {
+        "question_id": 3,
+        "question_type": "MCQ",
+        "question": "चंपकने काय केले?",
+        "options": [
+          { "option_id": 1, "text": "चॉकलेटची दुकान", "is_correct": false },
+          { "option_id": 2, "text": "फुलांची टोपली", "is_correct": false },
+          { "option_id": 3, "text": "केळीची गाडी", "is_correct": true },
+          { "option_id": 4, "text": "खेळण्यांचे दुकान", "is_correct": false }
+        ],
+        "answer": "केळीची गाडी"
+      },
+      {
+        "question_id": 4,
+        "question_type": "MCQ",
+        "question": "एका मुलाने काय केले?",
+        "options": [
+          { "option_id": 1, "text": "सगळी केळी खाल्ली", "is_correct": false },
+          { "option_id": 2, "text": "साल कचरापेटीत टाकली", "is_correct": false },
+          { "option_id": 3, "text": "साल सडकेवर टाकली", "is_correct": true },
+          { "option_id": 4, "text": "काहीच केले नाही", "is_correct": false }
+        ],
+        "answer": "साल सडकेवर टाकली"
+      },
+      {
+        "question_id": 5,
+        "question_type": "MCQ",
+        "question": "सालीवरून कोण घसरले?",
+        "options": [
+          { "option_id": 1, "text": "एक मुलगी", "is_correct": false },
+          { "option_id": 2, "text": "मामा", "is_correct": false },
+          { "option_id": 3, "text": "आजोबा", "is_correct": true },
+          { "option_id": 4, "text": "चंपक", "is_correct": false }
+        ],
+        "answer": "आजोबा"
+      },
+      {
+        "question_id": 6,
+        "question_type": "MCQ",
+        "question": "आजोबांना कोणी मदत केली?",
+        "options": [
+          { "option_id": 1, "text": "मामा", "is_correct": false },
+          { "option_id": 2, "text": "मुलगा", "is_correct": false },
+          { "option_id": 3, "text": "चंपक", "is_correct": true },
+          { "option_id": 4, "text": "शेजारी", "is_correct": false }
+        ],
+        "answer": "चंपक"
+      },
+      {
+        "question_id": 7,
+        "question_type": "MCQ",
+        "question": "चंपकने आजोबांची काय केली?",
+        "options": [
+          { "option_id": 1, "text": "शिक्षा", "is_correct": false },
+          { "option_id": 2, "text": "माफी मागितली", "is_correct": true },
+          { "option_id": 3, "text": "भांडण केले", "is_correct": false },
+          { "option_id": 4, "text": "त्यांना रागावले", "is_correct": false }
+        ],
+        "answer": "माफी मागितली"
+      },
+      {
+        "question_id": 8,
+        "question_type": "MCQ",
+        "question": "आजोबांनी चंपकला काय दिले?",
+        "options": [
+          { "option_id": 1, "text": "गाडी", "is_correct": false },
+          { "option_id": 2, "text": "शाबासकी", "is_correct": true },
+          { "option_id": 3, "text": "पैसे", "is_correct": false },
+          { "option_id": 4, "text": "खेळणी", "is_correct": false }
+        ],
+        "answer": "शाबासकी"
+      },
+      {
+        "question_id": 9,
+        "question_type": "MCQ",
+        "question": "चंपकने गाडी जवळ काय ठेवले?",
+        "options": [
+          { "option_id": 1, "text": "पाण्याची बादली", "is_correct": false },
+          { "option_id": 2, "text": "कचराकुंडी", "is_correct": true },
+          { "option_id": 3, "text": "पाटी", "is_correct": false },
+          { "option_id": 4, "text": "पिशवी", "is_correct": false }
+        ],
+        "answer": "कचराकुंडी"
+      },
+      {
+        "question_id": 10,
+        "question_type": "MCQ",
+        "question": "लोकांनी नंतर साली कुठे टाकल्या?",
+        "options": [
+          { "option_id": 1, "text": "सडकेवर", "is_correct": false },
+          { "option_id": 2, "text": "दुकानात", "is_correct": false },
+          { "option_id": 3, "text": "कचराकुंडीत", "is_correct": true },
+          { "option_id": 4, "text": "बागेत", "is_correct": false }
+        ],
+        "answer": "कचराकुंडीत"
+      },
+      {
+        "question_id": 11,
+        "question_type": "MCQ",
+        "question": "कचरा कोण घेऊन जाऊ लागले?",
+        "options": [
+          { "option_id": 1, "text": "शाळेची बस", "is_correct": false },
+          { "option_id": 2, "text": "नगरपालिकेची कचरागाडी", "is_correct": true },
+          { "option_id": 3, "text": "मुलांचा गट", "is_correct": false },
+          { "option_id": 4, "text": "पोलीस", "is_correct": false }
+        ],
+        "answer": "नगरपालिकेची कचरागाडी"
+      },
+      {
+        "question_id": 12,
+        "question_type": "MCQ",
+        "question": "सडक कशी राहू लागली?",
+        "options": [
+          { "option_id": 1, "text": "मळकी", "is_correct": false },
+          { "option_id": 2, "text": "ओलसर", "is_correct": false },
+          { "option_id": 3, "text": "साफ", "is_correct": true },
+          { "option_id": 4, "text": "तुटलेली", "is_correct": false }
+        ],
+        "answer": "साफ"
+      },
+      {
+        "question_id": 13,
+        "question_type": "MCQ",
+        "question": "चंपकला शेवटी कसे वाटले?",
+        "options": [
+          { "option_id": 1, "text": "दुःखी", "is_correct": false },
+          { "option_id": 2, "text": "राग आला", "is_correct": false },
+          { "option_id": 3, "text": "आनंद झाला", "is_correct": true },
+          { "option_id": 4, "text": "घाबरला", "is_correct": false }
+        ],
+        "answer": "आनंद झाला"
+      },
+      {
+        "question_id": 14,
+        "question_type": "MCQ",
+        "question": "चंपकने कोणती चूक आपली समजून घेतली?",
+        "options": [
+          { "option_id": 1, "text": "केळी देताना चूक", "is_correct": false },
+          { "option_id": 2, "text": "साल रस्त्यावर पडली", "is_correct": true },
+          { "option_id": 3, "text": "गाडी बंद होती", "is_correct": false },
+          { "option_id": 4, "text": "तो उशिरा आला", "is_correct": false }
+        ],
+        "answer": "साल रस्त्यावर पडली"
+      },
+      {
+        "question_id": 15,
+        "question_type": "MCQ",
+        "question": "ही गोष्ट कोणता बोध देते?",
+        "options": [
+          { "option_id": 1, "text": "भांडावे", "is_correct": false },
+          { "option_id": 2, "text": "जमिनीवर कचरा टाकावा", "is_correct": false },
+          { "option_id": 3, "text": "स्वच्छता व जबाबदारी महत्वाची", "is_correct": true },
+          { "option_id": 4, "text": "काम करू नये", "is_correct": false }
+        ],
+        "answer": "स्वच्छता व जबाबदारी महत्वाची"
+      },
+
+      {
+        "question_id": 51,
+        "question_type": "SHORT",
+        "question": "चंपकला काम करायला का आवडायचे?",
+        "answer": "कारण तो जबाबदार आणि मेहनती होता."
+      },
+      {
+        "question_id": 52,
+        "question_type": "SHORT",
+        "question": "चंपकने नगरपालिकेची परवानगी का घेतली?",
+        "answer": "केळीची गाडी लावण्यासाठी त्याने परवानगी घेतली."
+      },
+      {
+        "question_id": 53,
+        "question_type": "SHORT",
+        "question": "आजोबा कसे घसरले?",
+        "answer": "एका मुलाने टाकलेल्या केळीच्या सालीवरून."
+      },
+      {
+        "question_id": 54,
+        "question_type": "SHORT",
+        "question": "चंपकने आजोबांना कशी मदत केली?",
+        "answer": "त्यांना बसवले, पाणी दिले आणि माफी मागितली."
+      },
+      {
+        "question_id": 55,
+        "question_type": "SHORT",
+        "question": "आजोबांनी चंपकचे कौतुक का केले?",
+        "answer": "कारण चंपकने आपली चूक मान्य करून जबाबदारी घेतली."
+      },
+      {
+        "question_id": 56,
+        "question_type": "SHORT",
+        "question": "चंपकने गाडी जवळ काय ठेवले?",
+        "answer": "कचराकुंडी ठेवली."
+      },
+      {
+        "question_id": 57,
+        "question_type": "SHORT",
+        "question": "लोक साली कुठे टाकू लागले?",
+        "answer": "कचराकुंडीत टाकू लागले."
+      },
+      {
+        "question_id": 58,
+        "question_type": "SHORT",
+        "question": "सडक साफ का राहू लागली?",
+        "answer": "कारण कचरा कचरागाडी घेऊन जाऊ लागली."
+      },
+      {
+        "question_id": 59,
+        "question_type": "SHORT",
+        "question": "चंपकचा कोणता गुण तुला आवडला?",
+        "answer": "त्याची जबाबदारी आणि प्रामाणिकपणा."
+      },
+      {
+        "question_id": 60,
+        "question_type": "SHORT",
+        "question": "या गोष्टीतून काय शिकायला मिळते?",
+        "answer": "कचरा कचराकुंडीत टाकावा आणि स्वच्छता राखावी."
+      },
+      {
+        "question_id": 61,
+        "question_type": "SHORT",
+        "question": "गाव स्वच्छ ठेवण्यासाठी काय करावे?",
+        "answer": "कचरा रस्त्यावर न टाकता कचराकुंडीत टाकावा."
+      },
+      {
+        "question_id": 62,
+        "question_type": "SHORT",
+        "question": "चंपकला शाबासकी का मिळाली?",
+        "answer": "कारण त्याने स्वच्छतेची जबाबदारी स्वीकारली."
+      },
+      {
+        "question_id": 63,
+        "question_type": "SHORT",
+        "question": "चंपकला शेवटी कसे वाटले?",
+        "answer": "त्याला आनंद आणि समाधान वाटले."
+      },
+      {
+        "question_id": 64,
+        "question_type": "SHORT",
+        "question": "तुला स्वच्छता का महत्वाची वाटते?",
+        "answer": "कारण स्वच्छतेमुळे आपले आरोग्य चांगले राहते."
+      },
+      {
+        "question_id": 65,
+        "question_type": "SHORT",
+        "question": "तू चंपकप्रमाणे कोणता चांगला गुण आत्मसात करशील?",
+        "answer": "प्रामाणिकपणे जबाबदारी स्वीकारणे आणि स्वच्छता राखणे."
+      }
+    ]
+  }

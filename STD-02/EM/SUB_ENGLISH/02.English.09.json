@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.09",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Writing Skills"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is a picture composition?",
+      "options": [
+        { "option_id": 1, "text": "Singing a song about a picture", "is_correct": false },
+        { "option_id": 2, "text": "Describing a picture with meaningful sentences", "is_correct": true },
+        { "option_id": 3, "text": "Drawing a picture", "is_correct": false },
+        { "option_id": 4, "text": "Coloring a picture", "is_correct": false }
+      ],
+      "answer": "Describing a picture with meaningful sentences"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In the first picture, what place is described?",
+      "options": [
+        { "option_id": 1, "text": "A school", "is_correct": false },
+        { "option_id": 2, "text": "A big garden", "is_correct": true },
+        { "option_id": 3, "text": "A zoo", "is_correct": false },
+        { "option_id": 4, "text": "A market", "is_correct": false }
+      ],
+      "answer": "A big garden"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who is playing in the garden?",
+      "options": [
+        { "option_id": 1, "text": "Many dogs", "is_correct": false },
+        { "option_id": 2, "text": "Many children", "is_correct": true },
+        { "option_id": 3, "text": "Only one boy", "is_correct": false },
+        { "option_id": 4, "text": "Farmers", "is_correct": false }
+      ],
+      "answer": "Many children"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What game are some children playing in the garden?",
+      "options": [
+        { "option_id": 1, "text": "Football", "is_correct": false },
+        { "option_id": 2, "text": "Cricket", "is_correct": false },
+        { "option_id": 3, "text": "Hide and seek", "is_correct": true },
+        { "option_id": 4, "text": "Kho-kho", "is_correct": false }
+      ],
+      "answer": "Hide and seek"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is on the tree in the garden picture?",
+      "options": [
+        { "option_id": 1, "text": "Monkeys", "is_correct": false },
+        { "option_id": 2, "text": "Birds", "is_correct": true },
+        { "option_id": 3, "text": "Cats", "is_correct": false },
+        { "option_id": 4, "text": "Kites", "is_correct": false }
+      ],
+      "answer": "Birds"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is Bhaurao?",
+      "options": [
+        { "option_id": 1, "text": "A teacher", "is_correct": false },
+        { "option_id": 2, "text": "A farmer", "is_correct": true },
+        { "option_id": 3, "text": "A driver", "is_correct": false },
+        { "option_id": 4, "text": "A soldier", "is_correct": false }
+      ],
+      "answer": "A farmer"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does Bhaurao have?",
+      "options": [
+        { "option_id": 1, "text": "A big shop", "is_correct": false },
+        { "option_id": 2, "text": "A small farm", "is_correct": true },
+        { "option_id": 3, "text": "A big car", "is_correct": false },
+        { "option_id": 4, "text": "A new house", "is_correct": false }
+      ],
+      "answer": "A small farm"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How many trees are mentioned in the garden description?",
+      "options": [
+        { "option_id": 1, "text": "One tree", "is_correct": false },
+        { "option_id": 2, "text": "No trees", "is_correct": false },
+        { "option_id": 3, "text": "Many trees", "is_correct": true },
+        { "option_id": 4, "text": "Two trees", "is_correct": false }
+      ],
+      "answer": "Many trees"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the correct spelling of the farmer's name?",
+      "options": [
+        { "option_id": 1, "text": "Bhaurao", "is_correct": true },
+        { "option_id": 2, "text": "Baurao", "is_correct": false },
+        { "option_id": 3, "text": "Bhurao", "is_correct": false },
+        { "option_id": 4, "text": "Bahurao", "is_correct": false }
+      ],
+      "answer": "Bhaurao"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "In the garden picture, what is one girl sitting on?",
+      "options": [
+        { "option_id": 1, "text": "A swing", "is_correct": true },
+        { "option_id": 2, "text": "A slide", "is_correct": false },
+        { "option_id": 3, "text": "A bench", "is_correct": false },
+        { "option_id": 4, "text": "The grass", "is_correct": false }
+      ],
+      "answer": "A swing"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What animals are visible in Bhaurao's farm picture?",
+      "options": [
+        { "option_id": 1, "text": "Lions and tigers", "is_correct": false },
+        { "option_id": 2, "text": "Goats and a bullock", "is_correct": true },
+        { "option_id": 3, "text": "Elephants", "is_correct": false },
+        { "option_id": 4, "text": "Horses", "is_correct": false }
+      ],
+      "answer": "Goats and a bullock"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is Bhaurao holding on his shoulder?",
+      "options": [
+        { "option_id": 1, "text": "A bag", "is_correct": false },
+        { "option_id": 2, "text": "An axe/tool", "is_correct": true },
+        { "option_id": 3, "text": "A stick", "is_correct": false },
+        { "option_id": 4, "text": "A basket", "is_correct": false }
+      ],
+      "answer": "An axe/tool"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the woman in the farm picture carrying on her head?",
+      "options": [
+        { "option_id": 1, "text": "A pot/basket", "is_correct": true },
+        { "option_id": 2, "text": "A hat", "is_correct": false },
+        { "option_id": 3, "text": "Wood", "is_correct": false },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "A pot/basket"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the girl in the farm picture doing?",
+      "options": [
+        { "option_id": 1, "text": "Feeding the goat", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping", "is_correct": false },
+        { "option_id": 3, "text": "Running", "is_correct": false },
+        { "option_id": 4, "text": "Climbing a tree", "is_correct": false }
+      ],
+      "answer": "Feeding the goat"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word is a naming word (Noun) from the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Playing", "is_correct": false },
+        { "option_id": 2, "text": "Garden", "is_correct": true },
+        { "option_id": 3, "text": "Big", "is_correct": false },
+        { "option_id": 4, "text": "Sitting", "is_correct": false }
+      ],
+      "answer": "Garden"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the definition of picture composition given in the text?",
+      "answer": "Describing a picture with meaningful sentences."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are the children doing in the garden?",
+      "answer": "Many children are playing in the garden."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Where are the birds sitting?",
+      "answer": "The birds are sitting on the tree."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who is Bhaurao?",
+      "answer": "Bhaurao is a farmer."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Describe Bhaurao's farm size.",
+      "answer": "He has a small farm."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Identify two living things found in the garden picture.",
+      "answer": "Children and birds."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What specific game is mentioned in the garden description?",
+      "answer": "Hide and seek."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Write one sentence about the trees in the garden.",
+      "answer": "There are many trees in the garden."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Look at the farm picture. Who is feeding the goat?",
+      "answer": "A young girl (likely Bhaurao's daughter) is feeding the goat."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the woman wearing in the farm picture?",
+      "answer": "She is wearing a saree."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Name two animals you can see in Bhaurao's farm.",
+      "answer": "Goat and Bullock (or Cow/Ox)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the title of Chapter 1.9?",
+      "answer": "Writing Skills."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Create a sentence describing what the bullock is doing.",
+      "answer": "The bullock is standing in the field."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Is the garden described as small or big?",
+      "answer": "It is described as a big garden."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are grown in the background of Bhaurao's farm?",
+      "answer": "Crops (likely corn or maize) are growing in the background."
+    }
+  ]
+}

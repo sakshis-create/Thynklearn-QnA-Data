@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.Science.01",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Gravitation"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who discovered the phenomenon of gravitation?",
+      "options": [
+        { "option_id": 1, "text": "Kepler", "is_correct": false },
+        { "option_id": 2, "text": "Galileo", "is_correct": false },
+        { "option_id": 3, "text": "Sir Isaac Newton", "is_correct": true },
+        { "option_id": 4, "text": "Tycho Brahe", "is_correct": false }
+      ],
+      "answer": "Sir Isaac Newton"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The force acting on an object moving along a circle and directed towards the centre of the circle is called ________ force.",
+      "options": [
+        { "option_id": 1, "text": "Centrifugal", "is_correct": false },
+        { "option_id": 2, "text": "Gravitational", "is_correct": false },
+        { "option_id": 3, "text": "Centripetal", "is_correct": true },
+        { "option_id": 4, "text": "Magnetic", "is_correct": false }
+      ],
+      "answer": "Centripetal"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "According to Kepler's first law, the orbit of a planet is an ________.",
+      "options": [
+        { "option_id": 1, "text": "Circle", "is_correct": false },
+        { "option_id": 2, "text": "Ellipse", "is_correct": true },
+        { "option_id": 3, "text": "Parabola", "is_correct": false },
+        { "option_id": 4, "text": "Hyperbola", "is_correct": false }
+      ],
+      "answer": "Ellipse"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Kepler's second law states that the line joining the planet and the Sun sweeps ________.",
+      "options": [
+        { "option_id": 1, "text": "Equal distance in equal time", "is_correct": false },
+        { "option_id": 2, "text": "Equal areas in equal intervals of time", "is_correct": true },
+        { "option_id": 3, "text": "Unequal areas in equal time", "is_correct": false },
+        { "option_id": 4, "text": "Equal angles in equal time", "is_correct": false }
+      ],
+      "answer": "Equal areas in equal intervals of time"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "According to Kepler's third law, the square of the period of revolution is directly proportional to the ________.",
+      "options": [
+        { "option_id": 1, "text": "Square of the mean distance", "is_correct": false },
+        { "option_id": 2, "text": "Cube of the mean distance", "is_correct": true },
+        { "option_id": 3, "text": "Mean distance", "is_correct": false },
+        { "option_id": 4, "text": "Inverse of mean distance", "is_correct": false }
+      ],
+      "answer": "Cube of the mean distance"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The value of the Universal Gravitational Constant (G) is ________.",
+      "options": [
+        { "option_id": 1, "text": "9.8 m/s²", "is_correct": false },
+        { "option_id": 2, "text": "6.673 x 10^-11 Nm²/kg²", "is_correct": true },
+        { "option_id": 3, "text": "6.673 x 10^11 Nm²/kg²", "is_correct": false },
+        { "option_id": 4, "text": "9.77 m/s²", "is_correct": false }
+      ],
+      "answer": "6.673 x 10^-11 Nm²/kg²"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "If the mass of one object is doubled, the gravitational force between them ________.",
+      "options": [
+        { "option_id": 1, "text": "Remains same", "is_correct": false },
+        { "option_id": 2, "text": "Becomes half", "is_correct": false },
+        { "option_id": 3, "text": "Doubles", "is_correct": true },
+        { "option_id": 4, "text": "Quadruples", "is_correct": false }
+      ],
+      "answer": "Doubles"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "If the distance between two objects is doubled, the gravitational force ________.",
+      "options": [
+        { "option_id": 1, "text": "Decreases by a factor of 4", "is_correct": true },
+        { "option_id": 2, "text": "Increases by a factor of 4", "is_correct": false },
+        { "option_id": 3, "text": "Doubles", "is_correct": false },
+        { "option_id": 4, "text": "Becomes half", "is_correct": false }
+      ],
+      "answer": "Decreases by a factor of 4"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The value of 'g' at the centre of the earth is ________.",
+      "options": [
+        { "option_id": 1, "text": "9.8 m/s²", "is_correct": false },
+        { "option_id": 2, "text": "Infinite", "is_correct": false },
+        { "option_id": 3, "text": "Zero", "is_correct": true },
+        { "option_id": 4, "text": "9.77 m/s²", "is_correct": false }
+      ],
+      "answer": "Zero"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The value of 'g' is highest at the ________.",
+      "options": [
+        { "option_id": 1, "text": "Equator", "is_correct": false },
+        { "option_id": 2, "text": "Poles", "is_correct": true },
+        { "option_id": 3, "text": "Centre of earth", "is_correct": false },
+        { "option_id": 4, "text": "None of these", "is_correct": false }
+      ],
+      "answer": "Poles"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The value of 'g' is lowest at the ________.",
+      "options": [
+        { "option_id": 1, "text": "Equator", "is_correct": true },
+        { "option_id": 2, "text": "Poles", "is_correct": false },
+        { "option_id": 3, "text": "Mount Everest", "is_correct": false },
+        { "option_id": 4, "text": "Sea level", "is_correct": false }
+      ],
+      "answer": "Equator"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "As we go above the earth's surface, the value of 'g' ________.",
+      "options": [
+        { "option_id": 1, "text": "Increases", "is_correct": false },
+        { "option_id": 2, "text": "Decreases", "is_correct": true },
+        { "option_id": 3, "text": "Remains constant", "is_correct": false },
+        { "option_id": 4, "text": "Becomes zero immediately", "is_correct": false }
+      ],
+      "answer": "Decreases"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The value of gravitational acceleration 'g' on the Moon is ________ of the value on Earth.",
+      "options": [
+        { "option_id": 1, "text": "1/2", "is_correct": false },
+        { "option_id": 2, "text": "1/4", "is_correct": false },
+        { "option_id": 3, "text": "1/6", "is_correct": true },
+        { "option_id": 4, "text": "1/10", "is_correct": false }
+      ],
+      "answer": "1/6"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The SI unit of Mass is ________.",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "Kilogram", "is_correct": true },
+        { "option_id": 3, "text": "Joule", "is_correct": false },
+        { "option_id": 4, "text": "Pascal", "is_correct": false }
+      ],
+      "answer": "Kilogram"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Weight is a ________ quantity.",
+      "options": [
+        { "option_id": 1, "text": "Scalar", "is_correct": false },
+        { "option_id": 2, "text": "Vector", "is_correct": true },
+        { "option_id": 3, "text": "Fundamental", "is_correct": false },
+        { "option_id": 4, "text": "Dimensionless", "is_correct": false }
+      ],
+      "answer": "Vector"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The SI unit of Weight is ________.",
+      "options": [
+        { "option_id": 1, "text": "Kilogram", "is_correct": false },
+        { "option_id": 2, "text": "Newton", "is_correct": true },
+        { "option_id": 3, "text": "Dyne", "is_correct": false },
+        { "option_id": 4, "text": "Watt", "is_correct": false }
+      ],
+      "answer": "Newton"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "High and Low tides are caused by the gravitational force of the ________.",
+      "options": [
+        { "option_id": 1, "text": "Sun only", "is_correct": false },
+        { "option_id": 2, "text": "Moon only", "is_correct": true },
+        { "option_id": 3, "text": "Earth", "is_correct": false },
+        { "option_id": 4, "text": "Mars", "is_correct": false }
+      ],
+      "answer": "Moon only"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who predicted the existence of gravitational waves?",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "Kepler", "is_correct": false },
+        { "option_id": 3, "text": "Einstein", "is_correct": true },
+        { "option_id": 4, "text": "Galileo", "is_correct": false }
+      ],
+      "answer": "Einstein"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "LIGO stands for ________.",
+      "options": [
+        { "option_id": 1, "text": "Laser Interferometric Gravitational Wave Observatory", "is_correct": true },
+        { "option_id": 2, "text": "Light Interferometric Gravity Observation", "is_correct": false },
+        { "option_id": 3, "text": "Laser Intensity Gravity Observatory", "is_correct": false },
+        { "option_id": 4, "text": "Linear Interferometric Gravitational Observation", "is_correct": false }
+      ],
+      "answer": "Laser Interferometric Gravitational Wave Observatory"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "During free fall, the initial velocity of the object is ________.",
+      "options": [
+        { "option_id": 1, "text": "Maximum", "is_correct": false },
+        { "option_id": 2, "text": "Zero", "is_correct": true },
+        { "option_id": 3, "text": "9.8 m/s", "is_correct": false },
+        { "option_id": 4, "text": "Negative", "is_correct": false }
+      ],
+      "answer": "Zero"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "True free fall is possible only in ________.",
+      "options": [
+        { "option_id": 1, "text": "Air", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "Vacuum", "is_correct": true },
+        { "option_id": 4, "text": "Space station", "is_correct": false }
+      ],
+      "answer": "Vacuum"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "For an object thrown upwards, the acceleration is ________.",
+      "options": [
+        { "option_id": 1, "text": "Positive (g)", "is_correct": false },
+        { "option_id": 2, "text": "Negative (-g)", "is_correct": true },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Variable", "is_correct": false }
+      ],
+      "answer": "Negative (-g)"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The potential energy of an object on the surface of the earth is ________.",
+      "options": [
+        { "option_id": 1, "text": "mgh", "is_correct": false },
+        { "option_id": 2, "text": "-GMm/R", "is_correct": true },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Infinite", "is_correct": false }
+      ],
+      "answer": "-GMm/R"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The escape velocity on the surface of the earth is ________.",
+      "options": [
+        { "option_id": 1, "text": "11.2 m/s", "is_correct": false },
+        { "option_id": 2, "text": "11.2 km/s", "is_correct": true },
+        { "option_id": 3, "text": "9.8 km/s", "is_correct": false },
+        { "option_id": 4, "text": "2.37 km/s", "is_correct": false }
+      ],
+      "answer": "11.2 km/s"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The escape velocity on the moon is ________.",
+      "options": [
+        { "option_id": 1, "text": "11.2 km/s", "is_correct": false },
+        { "option_id": 2, "text": "2.37 km/s", "is_correct": true },
+        { "option_id": 3, "text": "9.8 m/s", "is_correct": false },
+        { "option_id": 4, "text": "Zero", "is_correct": false }
+      ],
+      "answer": "2.37 km/s"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who measured the value of G experimentally?",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "Henry Cavendish", "is_correct": true },
+        { "option_id": 3, "text": "Kepler", "is_correct": false },
+        { "option_id": 4, "text": "Galileo", "is_correct": false }
+      ],
+      "answer": "Henry Cavendish"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "In the formula F = G m1m2 / d^2, 'd' is the distance between ________.",
+      "options": [
+        { "option_id": 1, "text": "Surfaces", "is_correct": false },
+        { "option_id": 2, "text": "Centres of mass", "is_correct": true },
+        { "option_id": 3, "text": "Edges", "is_correct": false },
+        { "option_id": 4, "text": "Bottoms", "is_correct": false }
+      ],
+      "answer": "Centres of mass"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Weightlessness in a spacecraft is due to ________.",
+      "options": [
+        { "option_id": 1, "text": "Zero gravity", "is_correct": false },
+        { "option_id": 2, "text": "Free fall state", "is_correct": true },
+        { "option_id": 3, "text": "Distance from earth", "is_correct": false },
+        { "option_id": 4, "text": "Vacuum", "is_correct": false }
+      ],
+      "answer": "Free fall state"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which force decides the future of the Universe?",
+      "options": [
+        { "option_id": 1, "text": "Magnetic force", "is_correct": false },
+        { "option_id": 2, "text": "Gravitational force", "is_correct": true },
+        { "option_id": 3, "text": "Electrostatic force", "is_correct": false },
+        { "option_id": 4, "text": "Frictional force", "is_correct": false }
+      ],
+      "answer": "Gravitational force"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "An ellipse has how many focal points?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": true },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Infinite", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Newton's book where he gave his laws is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Astronomia Nova", "is_correct": false },
+        { "option_id": 2, "text": "Principia", "is_correct": true },
+        { "option_id": 3, "text": "Relativity", "is_correct": false },
+        { "option_id": 4, "text": "Cosmos", "is_correct": false }
+      ],
+      "answer": "Principia"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "The acceleration due to gravity does NOT depend on ________.",
+      "options": [
+        { "option_id": 1, "text": "Mass of the earth", "is_correct": false },
+        { "option_id": 2, "text": "Radius of the earth", "is_correct": false },
+        { "option_id": 3, "text": "Mass of the object", "is_correct": true },
+        { "option_id": 4, "text": "Universal gravitational constant", "is_correct": false }
+      ],
+      "answer": "Mass of the object"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "The value of 'g' at the surface of the earth is approximately ________.",
+      "options": [
+        { "option_id": 1, "text": "9.77 m/s²", "is_correct": true },
+        { "option_id": 2, "text": "8.8 m/s²", "is_correct": false },
+        { "option_id": 3, "text": "6.67 m/s²", "is_correct": false },
+        { "option_id": 4, "text": "100 m/s²", "is_correct": false }
+      ],
+      "answer": "9.77 m/s²"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "At the poles, the radius of the earth is ________.",
+      "options": [
+        { "option_id": 1, "text": "Largest", "is_correct": false },
+        { "option_id": 2, "text": "Smallest", "is_correct": true },
+        { "option_id": 3, "text": "Average", "is_correct": false },
+        { "option_id": 4, "text": "Infinite", "is_correct": false }
+      ],
+      "answer": "Smallest"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "If the value of 'g' becomes twice, it will be ________ to pull a heavy object.",
+      "options": [
+        { "option_id": 1, "text": "Easier", "is_correct": false },
+        { "option_id": 2, "text": "Two times more difficult", "is_correct": true },
+        { "option_id": 3, "text": "Four times more difficult", "is_correct": false },
+        { "option_id": 4, "text": "Same difficulty", "is_correct": false }
+      ],
+      "answer": "Two times more difficult"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Potential energy at infinite distance from the earth is ________.",
+      "options": [
+        { "option_id": 1, "text": "Maximum", "is_correct": false },
+        { "option_id": 2, "text": "Minimum", "is_correct": false },
+        { "option_id": 3, "text": "Zero", "is_correct": true },
+        { "option_id": 4, "text": "Negative", "is_correct": false }
+      ],
+      "answer": "Zero"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Galileo performed his experiment at the ________.",
+      "options": [
+        { "option_id": 1, "text": "Eiffel Tower", "is_correct": false },
+        { "option_id": 2, "text": "Leaning Tower of Pisa", "is_correct": true },
+        { "option_id": 3, "text": "Burj Khalifa", "is_correct": false },
+        { "option_id": 4, "text": "Statue of Liberty", "is_correct": false }
+      ],
+      "answer": "Leaning Tower of Pisa"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which force balances the gravitational force when we hold a stone in hand?",
+      "options": [
+        { "option_id": 1, "text": "Frictional force", "is_correct": false },
+        { "option_id": 2, "text": "Muscular force", "is_correct": true },
+        { "option_id": 3, "text": "Magnetic force", "is_correct": false },
+        { "option_id": 4, "text": "Electrostatic force", "is_correct": false }
+      ],
+      "answer": "Muscular force"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The direction of acceleration due to gravity is always ________.",
+      "options": [
+        { "option_id": 1, "text": "Vertically upwards", "is_correct": false },
+        { "option_id": 2, "text": "Vertically downwards", "is_correct": true },
+        { "option_id": 3, "text": "Horizontal", "is_correct": false },
+        { "option_id": 4, "text": "Tangential", "is_correct": false }
+      ],
+      "answer": "Vertically downwards"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Who formulated the Theory of Universal Gravity?",
+      "options": [
+        { "option_id": 1, "text": "Kepler", "is_correct": false },
+        { "option_id": 2, "text": "Newton", "is_correct": true },
+        { "option_id": 3, "text": "Einstein", "is_correct": false },
+        { "option_id": 4, "text": "Tycho Brahe", "is_correct": false }
+      ],
+      "answer": "Newton"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Newton invented a new branch of mathematics called ________.",
+      "options": [
+        { "option_id": 1, "text": "Algebra", "is_correct": false },
+        { "option_id": 2, "text": "Geometry", "is_correct": false },
+        { "option_id": 3, "text": "Calculus", "is_correct": true },
+        { "option_id": 4, "text": "Trigonometry", "is_correct": false }
+      ],
+      "answer": "Calculus"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "If the distance between two objects is tripled, the gravitational force will decrease by a factor of ________.",
+      "options": [
+        { "option_id": 1, "text": "3", "is_correct": false },
+        { "option_id": 2, "text": "6", "is_correct": false },
+        { "option_id": 3, "text": "9", "is_correct": true },
+        { "option_id": 4, "text": "12", "is_correct": false }
+      ],
+      "answer": "9"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "The center of mass of a spherical object having uniform density is at its ________.",
+      "options": [
+        { "option_id": 1, "text": "Surface", "is_correct": false },
+        { "option_id": 2, "text": "Geometrical centre", "is_correct": true },
+        { "option_id": 3, "text": "Bottom", "is_correct": false },
+        { "option_id": 4, "text": "Top", "is_correct": false }
+      ],
+      "answer": "Geometrical centre"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "The speed of a planet can be expressed in terms of period of revolution T as ________.",
+      "options": [
+        { "option_id": 1, "text": "2πr / T", "is_correct": true },
+        { "option_id": 2, "text": "πr² / T", "is_correct": false },
+        { "option_id": 3, "text": "2πr T", "is_correct": false },
+        { "option_id": 4, "text": "r / T", "is_correct": false }
+      ],
+      "answer": "2πr / T"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "A stone thrown vertically upwards has a velocity of ________ at the highest point.",
+      "options": [
+        { "option_id": 1, "text": "Maximum", "is_correct": false },
+        { "option_id": 2, "text": "Zero", "is_correct": true },
+        { "option_id": 3, "text": "9.8 m/s", "is_correct": false },
+        { "option_id": 4, "text": "Infinite", "is_correct": false }
+      ],
+      "answer": "Zero"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Newton was the first scientist to construct a ________ telescope.",
+      "options": [
+        { "option_id": 1, "text": "Refracting", "is_correct": false },
+        { "option_id": 2, "text": "Reflecting", "is_correct": true },
+        { "option_id": 3, "text": "Radio", "is_correct": false },
+        { "option_id": 4, "text": "Space", "is_correct": false }
+      ],
+      "answer": "Reflecting"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Johannes Kepler was a ________ astronomer.",
+      "options": [
+        { "option_id": 1, "text": "British", "is_correct": false },
+        { "option_id": 2, "text": "German", "is_correct": true },
+        { "option_id": 3, "text": "Italian", "is_correct": false },
+        { "option_id": 4, "text": "French", "is_correct": false }
+      ],
+      "answer": "German"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which law helped Newton to show that force is inversely proportional to square of distance?",
+      "options": [
+        { "option_id": 1, "text": "Kepler's 1st Law", "is_correct": false },
+        { "option_id": 2, "text": "Kepler's 2nd Law", "is_correct": false },
+        { "option_id": 3, "text": "Kepler's 3rd Law", "is_correct": true },
+        { "option_id": 4, "text": "Law of Inertia", "is_correct": false }
+      ],
+      "answer": "Kepler's 3rd Law"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The low tide occurs at places ________ from the place of high tide.",
+      "options": [
+        { "option_id": 1, "text": "180 degrees", "is_correct": false },
+        { "option_id": 2, "text": "90 degrees", "is_correct": true },
+        { "option_id": 3, "text": "45 degrees", "is_correct": false },
+        { "option_id": 4, "text": "360 degrees", "is_correct": false }
+      ],
+      "answer": "90 degrees"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The gravitational force is ________ than other forces in nature.",
+      "options": [
+        { "option_id": 1, "text": "Stronger", "is_correct": false },
+        { "option_id": 2, "text": "Much weaker", "is_correct": true },
+        { "option_id": 3, "text": "Equal", "is_correct": false },
+        { "option_id": 4, "text": "Non-existent", "is_correct": false }
+      ],
+      "answer": "Much weaker"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who discovered the force of gravitation?",
+      "answer": "The phenomenon of gravitation was discovered by Sir Isaac Newton."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What observation led Newton to discover gravity?",
+      "answer": "Newton discovered the force by observing an apple fall from a tree on the ground."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why do apples fall vertically downwards?",
+      "answer": "Because the earth attracts them towards its centre, and the direction from the apple to the centre is vertical."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is centripetal force?",
+      "answer": "It is the force acting on any object moving along a circle, directed towards the centre of the circle."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "State Kepler's first law.",
+      "answer": "The orbit of a planet is an ellipse with the Sun at one of the foci."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "State Kepler's second law.",
+      "answer": "The line joining the planet and the Sun sweeps equal areas in equal intervals of time."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "State Kepler's third law.",
+      "answer": "The square of the period of revolution of a planet around the Sun is directly proportional to the cube of the mean distance of the planet from the Sun."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "State Newton's Universal Law of Gravitation.",
+      "answer": "Every object in the Universe attracts every other object with a definite force proportional to the product of their masses and inversely proportional to the square of the distance between them."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is 'G' in the formula F = G m1m2 / d^2?",
+      "answer": "G is the constant of proportionality called the Universal Gravitational Constant."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the value of G in SI units?",
+      "answer": "The value of G is 6.673 x 10^-11 Nm²/kg²."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of G?",
+      "answer": "The SI unit of G is Newton m² kg⁻²."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the centre of mass of an object?",
+      "answer": "It is the point inside or outside the object at which the total mass of the object can be assumed to be concentrated."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why did Newton assume the inverse square law?",
+      "answer": "He was helped by Kepler's third law to conclude that centripetal force is inversely proportional to the square of distance."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What causes high and low tides?",
+      "answer": "High and low tides are caused by the gravitational force exerted by the moon."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How many times a day do tides occur?",
+      "answer": "The level of sea water increases and decreases twice a day at regular intervals."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the direction of earth's gravitational force?",
+      "answer": "The gravitational force due to the earth is always directed towards the centre of the earth."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Define acceleration due to gravity.",
+      "answer": "The gravitational force due to the earth on a body results in its acceleration, called acceleration due to gravity."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the value of g on the surface of the earth?",
+      "answer": "The value of g on the surface of the earth is approximately 9.77 m/s²."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why is the value of g highest at the poles?",
+      "answer": "Because the radius of the earth is smallest at the poles due to its flattened shape."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is the value of g lowest at the equator?",
+      "answer": "Because the radius of the earth is largest at the equator due to its bulge."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How does g change with height?",
+      "answer": "As we go above the earth's surface, the distance 'r' increases, and the value of g decreases."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "How does g change with depth?",
+      "answer": "The value of g decreases as we go deep inside the earth because the effective mass M decreases."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the value of g at the centre of the earth?",
+      "answer": "The value of g is zero at the centre of the earth."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the value of g on the moon compared to earth?",
+      "answer": "The value of g on the moon is about 1/6th of the value on the earth."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Define Mass.",
+      "answer": "Mass is the amount of matter present in the object."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of mass?",
+      "answer": "The SI unit of mass is kg."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Does mass change from place to place?",
+      "answer": "No, mass is a scalar quantity and its value is the same everywhere."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Define Weight.",
+      "answer": "The weight of an object is defined as the force with which the earth attracts the object."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of weight?",
+      "answer": "The SI unit of weight is Newton."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Does weight change from place to place?",
+      "answer": "Yes, weight changes from place to place because the value of g is not the same everywhere."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the difference between mass and weight (scalar/vector)?",
+      "answer": "Mass is a scalar quantity, while weight is a vector quantity."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What are gravitational waves?",
+      "answer": "Gravitational waves are waves on the fabric of space-time emitted by astronomical objects."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Who predicted the existence of gravitational waves?",
+      "answer": "Einstein predicted the existence of gravitational waves in 1916."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is LIGO?",
+      "answer": "LIGO is a sensitive instrument used to detect gravitational waves (Laser Interferometric Gravitational Wave Observatory)."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Define Free Fall.",
+      "answer": "Whenever an object moves under the influence of the force of gravity alone, it is said to be falling freely."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What forces act on an object falling in air?",
+      "answer": "During fall in air, a frictional force due to air and a buoyant force act on the object."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Where is true free fall possible?",
+      "answer": "True free fall is possible only in vacuum."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is the initial velocity in free fall?",
+      "answer": "In free fall, the initial velocity of the object is zero."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the acceleration of an object thrown upwards?",
+      "answer": "The acceleration is negative (-g) as it is in a direction opposite to the velocity."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why do satellites not fall onto the earth?",
+      "answer": "Because of their velocity along their orbits, they are in a state of free fall around the earth."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What was Galileo's experiment?",
+      "answer": "Galileo dropped two spheres of different masses from the Leaning Tower of Pisa to show they reach the ground together."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is gravitational potential energy formula?",
+      "answer": "The gravitational potential energy at height h is -GMm / (R+h)."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the potential energy at infinite distance?",
+      "answer": "For an object at infinite distance from the earth, the potential energy is zero."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Define Escape Velocity.",
+      "answer": "It is the initial velocity required for an object to overcome earth's gravity and escape into space forever."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the formula for escape velocity?",
+      "answer": "The formula is v_esc = sqrt(2GM/R)."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is the value of escape velocity for earth?",
+      "answer": "The escape velocity for earth is 11.2 km/s."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why do spacecrafts need escape velocity?",
+      "answer": "To overcome earth's gravitational attraction and travel to the moon or other planets."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why do objects float in a spacecraft?",
+      "answer": "Objects float because they are in a state of free fall along with the spacecraft."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the value of g in a space station?",
+      "answer": "The value of g in the space station is only 11% less than its value on earth."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is inertia related to?",
+      "answer": "Inertia is related to mass; higher the mass, higher is the inertia."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is the force formula according to Newton's 2nd law?",
+      "answer": "The force formula is F = ma."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Who was Tycho Brahe?",
+      "answer": "Tycho Brahe was a famous astronomer who collected data on planetary positions."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What other areas did Newton work in?",
+      "answer": "Newton worked in areas including light, heat, sound, and mathematics."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is Calculus?",
+      "answer": "Calculus is a branch of mathematics invented by Newton."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What happens to low tides at 90 degrees?",
+      "answer": "At places 90 degrees from high tide, the water level is minimum, causing low tide."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What determines the direction of force between two bodies?",
+      "answer": "The direction is always along the line joining the centres of the two bodies."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is an ellipse?",
+      "answer": "An ellipse is a curve obtained when a cone is cut by an inclined plane."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What are the focal points of an ellipse?",
+      "answer": "An ellipse has two focal points, F1 and F2."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Where is the Sun located in a planet's orbit?",
+      "answer": "The Sun is located at one of the foci of the elliptical orbit."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What did Newton use to derive the inverse square law?",
+      "answer": "Newton used Kepler's third law to derive the inverse square law."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is the speed formula for a planet?",
+      "answer": "Speed v = distance travelled / time taken = 2πr / T."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why is gravitational force important for the Universe?",
+      "answer": "It controls the Universe and decides its future due to the huge masses involved."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why don't two friends on a bench move towards each other?",
+      "answer": "Because the gravitational force between them is very small and balanced by friction."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What motion does the moon undergo?",
+      "answer": "The moon undergoes circular motion around the earth."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is the value of g at Mount Everest?",
+      "answer": "The value of g at Mount Everest (8.8 km height) is about 9.8 m/s²."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is the value of g for a communication satellite?",
+      "answer": "For a communication satellite (35700 km height), g is 0.225 m/s²."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What does a weighing machine measure?",
+      "answer": "A weighing machine measures mass (indicated in kg) but works on weight."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What does a spring balance measure?",
+      "answer": "A spring balance measures weight (force)."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Where do gravitational waves come from?",
+      "answer": "They come from astronomical sources like merging black holes."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "When did scientists detect gravitational waves?",
+      "answer": "Scientists detected them exactly 100 years after Einstein's prediction (2016)."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What happens if we drop a feather and stone in air?",
+      "answer": "The feather falls slower than the stone due to air resistance."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What happens if we drop a feather and stone in vacuum?",
+      "answer": "Both the feather and the stone reach the ground at the same time."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is the condition for potential energy to be zero?",
+      "answer": "Potential energy is zero at infinite distance from earth."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What energy does an object have on the surface of earth?",
+      "answer": "It has potential energy -GMm/R."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is the kinetic energy of an object escaping earth?",
+      "answer": "The kinetic energy is 1/2 m v_esc^2."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What principle is used to calculate escape velocity?",
+      "answer": "The principle of conservation of energy is used."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Does escape velocity depend on the mass of the object?",
+      "answer": "No, escape velocity does not depend on the mass of the object."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Is the moon in free fall?",
+      "answer": "Yes, the moon is in free fall around the earth."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What determines the weight of an object?",
+      "answer": "The weight depends on the mass of the object and the value of g."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is the direction of weight?",
+      "answer": "The direction of weight is always towards the centre of the earth."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Calculate the force if mass is 75kg and g is 9.8.",
+      "answer": "F = mg = 75 * 9.8 = 735 N."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is the velocity after 1 sec in free fall?",
+      "answer": "v = g*t = 9.8 * 1 = 9.8 m/s."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why does velocity increase in free fall?",
+      "answer": "Velocity increases due to the constant acceleration due to gravity."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why does acceleration increase as bodies get closer?",
+      "answer": "Because the gravitational force is inversely proportional to the square of the distance."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is the mass of the earth?",
+      "answer": "The mass of the earth is 6 x 10^24 kg."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is the radius of the earth?",
+      "answer": "The radius of the earth is 6.4 x 10^6 m."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What happens if G was twice as large?",
+      "answer": "The gravitational force would be twice as strong."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What happens if there were no gravity?",
+      "answer": "Objects would not fall, planets would not orbit, and the universe would be chaotic."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is g a vector?",
+      "answer": "Because it has a specific direction (towards the centre of the earth)."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is the formula for g?",
+      "answer": "g = GM / R^2."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is the distance formula for free fall?",
+      "answer": "s = 1/2 g t^2."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is the velocity formula for free fall?",
+      "answer": "v^2 = 2gs."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Does g depend on the properties of the object?",
+      "answer": "No, g depends only on the mass and radius of the earth."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What happens to g if earth's mass doubles?",
+      "answer": "If mass doubles (radius same), g will double."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is the value of g on Mars?",
+      "answer": "The value of g on Mars is different from Earth (3.71 m/s^2)."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Will mass be same on Mars as on Earth?",
+      "answer": "Yes, mass remains the same on Mars as on Earth."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Will weight be same on Mars as on Earth?",
+      "answer": "No, weight will be different on Mars because g is different."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is 'r' in the potential energy formula?",
+      "answer": "r is the distance of the object from the centre of the earth (R+h)."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is potential energy negative?",
+      "answer": "Because it is less than zero (which is the energy at infinity)."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the condition for escaping earth's gravity?",
+      "answer": "Initial velocity must be greater than or equal to escape velocity."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the phenomenon of gravitation with the apple example.",
+      "answer": "Sir Isaac Newton discovered gravitation by observing an apple falling from a tree. He wondered why the apple fell vertically downward and not at an angle. He concluded that the earth must be attracting the apple towards itself. This force is directed towards the centre of the earth, making the fall vertical. He extended this concept to the moon and other celestial bodies."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe circular motion and centripetal force with an example.",
+      "answer": "Circular motion is the motion of an object along the circumference of a circle. For an object to move in a circle, a force must act on it directed towards the centre. This force is called Centripetal force, meaning 'centre seeking'. For example, if you tie a stone to a string and rotate it, the tension in the string provides the centripetal force pulling the stone inwards."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Explain Kepler's First Law with a diagram description.",
+      "answer": "Kepler's first law states that the orbit of a planet is an ellipse with the Sun at one of the foci. An ellipse is a curve with two focal points. In the solar system, the planets do not move in perfect circles but in elliptical paths. The Sun is not at the centre but at one of the two focal points of this ellipse."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain Kepler's Second Law with a diagram description.",
+      "answer": "Kepler's second law states that the line joining the planet and the Sun sweeps equal areas in equal intervals of time. If a planet moves from point A to B in time t, and from C to D in the same time t, the area of sector ASB is equal to the area of sector CSD. This implies the planet moves faster when closer to the Sun."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Explain Kepler's Third Law.",
+      "answer": "Kepler's third law states that the square of the period of revolution of a planet around the Sun is directly proportional to the cube of the mean distance of the planet from the Sun. If T is the period and r is the average distance, then T^2 is proportional to r^3. Thus, T^2 / r^3 = constant (K)."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Derive the inverse square law of gravitation using Kepler's law.",
+      "answer": "Centripetal force F = mv^2/r. Velocity v = 2πr/T. Substituting v, F = 4mπ^2r / T^2. Multiplying and dividing by r^2, F = (4mπ^2/r^2) * (r^3/T^2). According to Kepler's third law, T^2/r^3 = K. So, F = 4mπ^2 / (r^2 * K). Since 4mπ^2/K is constant, F is proportional to 1/r^2. Thus, force is inversely proportional to the square of the distance."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "State and explain Newton's Universal Law of Gravitation.",
+      "answer": "Newton's Universal Law states that every object in the Universe attracts every other object with a definite force. This force is directly proportional to the product of the masses of the two objects and inversely proportional to the square of the distance between them. Mathematically, F = G m1m2 / d^2. G is the Universal Gravitational Constant. The force acts along the line joining the centres of the two objects."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Discuss the variation of 'g' along the surface of the earth.",
+      "answer": "The value of g is not the same everywhere on the earth's surface. The earth is not a perfect sphere; it bulges at the equator and is flat at the poles. The radius is largest at the equator and smallest at the poles. Since g is inversely proportional to the radius squared, g is highest at the poles (9.832 m/s²) and lowest at the equator (9.78 m/s²)."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Discuss the variation of 'g' with height.",
+      "answer": "As we go above the earth's surface, the distance 'r' from the centre increases. Since g = GM/r^2, an increase in r leads to a decrease in g. For small heights like an airplane (10 km), the change is negligible. However, for satellites at large heights (e.g., 35700 km), the value of g decreases significantly (e.g., to 0.225 m/s²)."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Discuss the variation of 'g' with depth.",
+      "answer": "As we go deep inside the earth, the distance r decreases, which suggests g should increase. However, the effective mass M of the earth that contributes to the gravitational force also decreases. The combined effect is that the value of g decreases as we go deeper. At the centre of the earth, the value of g becomes zero."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Distinguish between Mass and Weight.",
+      "answer": "Mass is the amount of matter in an object, while weight is the gravitational force acting on it. Mass is a scalar quantity, whereas weight is a vector quantity. Mass remains constant everywhere, but weight changes with the value of g. The SI unit of mass is kg, while the SI unit of weight is Newton. Mass is a measure of inertia."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain the concept of Free Fall.",
+      "answer": "Free fall occurs when an object moves under the influence of gravity alone. The initial velocity is zero, and it accelerates due to gravity (g). In true free fall (vacuum), only gravity acts. In air, friction and buoyancy also act, opposing the motion. Satellites and the moon are in a state of free fall around the earth."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Explain Gravitational Potential Energy.",
+      "answer": "Potential energy is the energy stored due to position. For small heights, it is mgh. For large distances, g varies, so potential energy is defined as -GMm/(R+h). It is negative because it is less than the energy at infinity, which is taken as zero. As height increases, potential energy becomes less negative (increases) and becomes zero at infinity."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Derive the expression for Escape Velocity.",
+      "answer": "Escape velocity is the speed needed to escape earth's gravity. By conservation of energy, Total Energy at surface = Total Energy at infinity. At surface, Kinetic Energy = 1/2 mv_esc^2, Potential Energy = -GMm/R. At infinity, Kinetic = 0, Potential = 0. So, 1/2 mv_esc^2 - GMm/R = 0. This gives v_esc = sqrt(2GM/R) = sqrt(2gR)."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Explain why weightlessness is felt in a spacecraft.",
+      "answer": "In a spacecraft orbiting earth, passengers feel weightless not because gravity is zero, but because they are in a state of free fall. The spacecraft and everything in it are falling towards earth with the same acceleration g. Since there is no normal reaction force from the floor (as it is falling away at the same rate), objects appear to float, creating a sensation of weightlessness."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Describe the formation of high and low tides.",
+      "answer": "Tides are caused by the moon's gravitational pull. Water directly under the moon gets pulled towards it, causing a bulge or high tide. The earth is also pulled towards the moon, leaving the water on the opposite side behind, causing another high tide there. At locations 90 degrees away from these points, the water level recedes, causing low tides."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Differentiate between g and G.",
+      "answer": "'g' is the acceleration due to gravity, while 'G' is the Universal Gravitational Constant. 'g' varies from place to place (poles vs equator, height, depth), whereas 'G' is constant throughout the universe. The unit of 'g' is m/s², while the unit of 'G' is Nm²/kg². 'g' is a vector, 'G' is a scalar."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Explain why an object thrown upwards falls back.",
+      "answer": "When an object is thrown upwards, the earth's gravitational force pulls it downwards. This force creates a negative acceleration (deceleration), reducing the object's velocity. Eventually, the velocity becomes zero at a maximum height. The constant gravitational force then pulls it back down towards the centre of the earth, making it fall."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Explain the experiment of Galileo regarding free fall.",
+      "answer": "Galileo dropped two spheres of different masses from the Leaning Tower of Pisa. He observed that both spheres reached the ground at the same time. This proved that the acceleration due to gravity is independent of mass. It contradicted the earlier belief that heavier objects fall faster. In vacuum, a feather and a stone would also fall together."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Explain why the moon does not fall onto the earth like an apple.",
+      "answer": "The moon is attracted to the earth, but it also has a tangential velocity. This velocity keeps it moving forward while gravity pulls it inward. The result is a curved path (orbit) where the moon is constantly 'falling' towards the earth but missing it due to its forward speed. Without this velocity, it would crash into the earth."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Describe the contribution of Sir Isaac Newton to science.",
+      "answer": "Sir Isaac Newton gave the laws of motion, equations of motion, and the Universal Law of Gravitation. He explained planetary motion by deriving Kepler's laws. He also made ground-breaking contributions to light, heat, sound, and mathematics. He invented Calculus. He constructed the first reflecting telescope. His work in 'Principia' laid the foundation for classical mechanics."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Explain the importance of the universal gravitational constant.",
+      "answer": "The Universal Gravitational Constant (G) is fundamental to calculating gravitational force. Its value determines the strength of gravity. It allowed Newton to unify celestial and terrestrial mechanics. G connects mass and distance to force. Determining G (by Cavendish) allowed the calculation of the mass of the earth and other celestial bodies."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Discuss the effects of gravitational force on the universe.",
+      "answer": "Gravitational force governs the motion of planets, moons, and stars. It holds the solar system and galaxies together. It is responsible for the formation of stars and planets. It causes tides on earth. Despite being the weakest force, its long range and always-attractive nature make it the dominant force determining the structure and future of the universe."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain the concept of centre of mass.",
+      "answer": "The centre of mass is a point where the entire mass of an object is assumed to be concentrated. For uniform spherical objects, it is at the geometric centre. For irregular objects, it is at the centroid. Gravitational force acts along the line joining the centres of mass of two bodies. It simplifies the analysis of motion and forces."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Explain why value of g is zero at the centre of the earth.",
+      "answer": "At the centre of the earth, the mass of the earth is distributed equally in all directions around the object. The gravitational forces exerted by different parts of the earth cancel each other out. Effectively, the mass contributing to the force becomes zero. Therefore, the net gravitational force is zero, and consequently, the acceleration due to gravity 'g' is zero."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Solve problem: Force between two masses. Mahendra (75kg) and Virat (80kg) are 1m apart.",
+      "answer": "Given m1=75kg, m2=80kg, r=1m, G=6.67x10^-11. F = G m1 m2 / r^2. F = 6.67x10^-11 * 75 * 80 / 1^2. F = 4.002 x 10^-7 N. This force is very small. If there is no friction, Mahendra would move towards Virat with a very small acceleration."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Solve problem: Weight on moon. Person weighs 750N on earth. Ratio of mass earth/moon=81, radius=3.7.",
+      "answer": "Weight on moon Wm = (Mm/Me) * (Re/Rm)^2 * We. Given Me/Mm = 81 and Re/Rm = 3.7. So, Wm = We * (1/81) * (3.7)^2. Wm = 750 * 13.69 / 81. Wm = 126.8 N. The weight on the moon is approximately 1/6th of the weight on earth."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Solve problem: Free fall distance. Iron ball 3kg falls from 125m. Time to reach ground?",
+      "answer": "Given s=125m, u=0, a=g=10 m/s^2. Use s = ut + 1/2 at^2. 125 = 0 + 1/2 * 10 * t^2. 125 = 5t^2. t^2 = 25. t = 5 seconds. The ball takes 5 seconds to reach the ground."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Solve problem: Escape velocity calculation for moon. M=7.34x10^22 kg, R=1.74x10^6 m.",
+      "answer": "Formula v_esc = sqrt(2GM/R). G=6.67x10^-11. v_esc = sqrt(2 * 6.67x10^-11 * 7.34x10^22 / 1.74x10^6). v_esc = sqrt(9.79 x 10^11 / 1.74x10^6). v_esc = sqrt(5.62 x 10^5) = 2.37 km/s. The escape velocity on the moon is 2.37 km/s."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Explain the role of gravitational waves in astronomy.",
+      "answer": "Gravitational waves are ripples in space-time caused by massive accelerating objects like black holes. Detecting them allows us to 'hear' the universe, not just 'see' it with light. They provide information about events that are invisible to telescopes. LIGO detected these waves in 2016, confirming Einstein's theory. This opens a new era of gravitational-wave astronomy."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "How did Kepler's laws help Newton?",
+      "answer": "Kepler's laws described 'how' planets move but not 'why'. Newton used Kepler's third law (T^2 proportional to r^3) to mathematically derive the inverse square law for gravitational force. He showed that the force required to keep a planet in orbit must decrease with the square of the distance. This was a crucial step in formulating the Universal Law of Gravitation."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain the motion of planets around the Sun.",
+      "answer": "Planets revolve around the Sun in elliptical orbits with the Sun at one focus (Kepler's 1st Law). They move faster when closer to the Sun and slower when further away (Kepler's 2nd Law). A centripetal force, provided by the Sun's gravity, keeps them in orbit. The period of revolution depends on the distance from the Sun (Kepler's 3rd Law)."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Describe the variation of g with altitude using examples.",
+      "answer": "As altitude increases, 'g' decreases. For small heights like Mount Everest (8.8 km), g is approx 9.8 m/s^2, negligible change. For weather satellites (400 km), g drops to 8.7 m/s^2. For communication satellites (35700 km), g is very low at 0.225 m/s^2. This shows that g decreases significantly only at very large distances from earth."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Explain why the value of g decreases inside the earth.",
+      "answer": "When going inside the earth, distance 'r' decreases, which should increase 'g'. However, only the mass of the inner sphere of radius 'r' contributes to the gravitational force. The outer shell's force cancels out. The effective mass M decreases faster than r^2 decreases. Therefore, the net force and acceleration due to gravity 'g' decrease as we go deeper."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Compare the gravitational force on earth and moon.",
+      "answer": "The Earth is much more massive than the Moon (81 times more mass). The gravitational force on the Earth's surface is stronger. The acceleration due to gravity on Earth is 9.8 m/s^2, while on the Moon it is 1.6 m/s^2. This means things weigh 1/6th on the Moon compared to Earth. However, the Universal Gravitational Constant G is the same for both."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Explain the concept of inertia in relation to mass.",
+      "answer": "Inertia is the tendency of an object to resist changes in its state of motion. Newton's first law defines inertia. Mass is a quantitative measure of inertia. The greater the mass, the greater the inertia, meaning it is harder to start, stop, or change the direction of a heavy object. Thus, mass and inertia are directly related."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Explain the trajectory of a stone thrown horizontally vs vertically.",
+      "answer": "A stone thrown vertically goes up, stops, and falls back in a straight line under gravity. A stone thrown horizontally has a constant horizontal velocity and a vertical acceleration due to gravity. The combination of these two motions results in a curved path called a parabola. This projectile motion is how satellites stay in orbit."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Discuss the history of planetary motion observation (Tycho Brahe/Kepler).",
+      "answer": "Before telescopes, astronomers observed planets with the naked eye. By the 16th century, much data was available. Tycho Brahe collected precise data on planetary positions. After Brahe's death, his assistant Johannes Kepler analyzed this data. He discovered patterns and formulated three laws of planetary motion, which described orbits as ellipses, not circles."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Explain the mathematical derivation of centripetal force magnitude.",
+      "answer": "For an object of mass m moving in a circle of radius r with speed v, the centripetal force is F = mv^2/r. Speed v = distance/time = 2πr/T. Substituting v, F = m(2πr/T)^2 / r = 4mπ^2r / T^2. This formula relates centripetal force to the period of revolution."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Explain the difference between 'g' on earth and 'g' on other planets.",
+      "answer": "'g' depends on the mass (M) and radius (R) of the celestial body (g = GM/R^2). Since different planets have different masses and radii, 'g' varies. Jupiter has a very high 'g' due to its large mass. Mars has a lower 'g' (3.71 m/s^2). This affects the weight of objects and how high one can jump on different planets."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Discuss the conservation of energy during escape velocity derivation.",
+      "answer": "To calculate escape velocity, we use the principle of conservation of energy. Total energy at the surface (Kinetic + Potential) must equal Total energy at infinity. Kinetic Energy = 1/2 mv^2. Potential Energy = -GMm/R. At infinity, both are zero. Equating surface energy to zero energy allows us to solve for the velocity v required to reach infinity."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain the condition for an object to escape earth's gravity.",
+      "answer": "For an object to escape Earth's gravity, it must not fall back down. This requires overcoming the negative gravitational potential energy. The object must be given enough initial kinetic energy so that its total energy becomes zero (the energy at infinity). The initial velocity corresponding to this energy is the escape velocity, approx 11.2 km/s."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Describe the nature of gravitational force compared to other forces.",
+      "answer": "Gravitational force is the weakest of the four fundamental forces of nature. However, it is always attractive and has an infinite range. Unlike electric forces, it cannot be shielded. While weak on a small scale, it becomes dominant on a large scale (planets, stars) due to large masses. It shapes the large-scale structure of the universe."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Explain the effect of earth's rotation on 'g'.",
+      "answer": "The earth rotates, creating a centrifugal force that acts outwards, opposing gravity. This effect is maximum at the equator and zero at the poles. Therefore, the measured value of 'g' is reduced at the equator due to rotation. This adds to the effect of the earth's bulge, making 'g' lowest at the equator."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Explain the effect of earth's shape on 'g'.",
+      "answer": "The earth is not a perfect sphere; it is an oblate spheroid. It bulges at the equator and is flattened at the poles. The equatorial radius is larger than the polar radius. Since g is inversely proportional to radius squared, 'g' is smaller at the equator and larger at the poles. This variation is due to the non-spherical shape."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Problem solving: Calculating acceleration between two bodies.",
+      "answer": "Given F = 4.002 x 10^-7 N and mass m = 75 kg. According to Newton's second law, F = ma. So, a = F/m. a = 4.002 x 10^-7 / 75 = 5.34 x 10^-9 m/s^2. This acceleration is extremely small, meaning the velocity will increase very slowly. It shows why we don't see people moving towards each other due to gravity."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Problem solving: Height reached by ball thrown up.",
+      "answer": "Ball thrown up with u=50 m/s (example). At max height, v=0. Use v^2 = u^2 + 2as. 0 = 50^2 + 2(-10)s. 20s = 2500. s = 125 m. The ball reaches a height of 125m. The potential energy at this height equals the initial kinetic energy."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Problem solving: Time taken to fall.",
+      "answer": "Ball falls from 20m. u=0, s=20, a=10. Use s = ut + 1/2 at^2. 20 = 0 + 1/2 * 10 * t^2. 20 = 5t^2. t^2 = 4. t = 2 seconds. The ball takes 2 seconds to hit the ground. Velocity on impact can be found using v = u + at = 0 + 10*2 = 20 m/s."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Explanation of why heavy and light objects fall at the same rate in vacuum.",
+      "answer": "The force of gravity F = mg. The acceleration a = F/m = mg/m = g. The mass 'm' cancels out. This means acceleration due to gravity 'g' is independent of the mass of the falling object. Therefore, in the absence of air resistance (vacuum), both heavy and light objects accelerate at the same rate and hit the ground simultaneously."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summary of the chapter Gravitation.",
+      "answer": "The chapter covers Newton's discovery of gravitation and the Universal Law of Gravitation. It explains Kepler's three laws of planetary motion. It defines acceleration due to gravity 'g' and its variations. It distinguishes between mass and weight. It explains free fall and gravitational potential energy. Finally, it introduces escape velocity required to leave earth's gravity."
+    }
+  ]
+}

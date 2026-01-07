@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.09",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "झोपाळा गेला उडून"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "एका ठिकाणी किती बेडूक होते?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "बेडूक पाण्यात काय करत होते?",
+      "options": [
+        { "option_id": 1, "text": "झोपत होते", "is_correct": false },
+        { "option_id": 2, "text": "खेळत होते", "is_correct": false },
+        { "option_id": 3, "text": "डुबकी मारत होते", "is_correct": true },
+        { "option_id": 4, "text": "उडत होते", "is_correct": false }
+      ],
+      "answer": "डुबकी मारत होते"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "बेडकांनी कशाला बांधले?",
+      "options": [
+        { "option_id": 1, "text": "दोरा", "is_correct": false },
+        { "option_id": 2, "text": "वेल", "is_correct": true },
+        { "option_id": 3, "text": "झाड", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "वेल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "वेलाचा काय तयार झाला?",
+      "options": [
+        { "option_id": 1, "text": "दोरा", "is_correct": false },
+        { "option_id": 2, "text": "झोपाळा", "is_correct": true },
+        { "option_id": 3, "text": "घर", "is_correct": false },
+        { "option_id": 4, "text": "खेळणी", "is_correct": false }
+      ],
+      "answer": "झोपाळा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "दोन्ही बेडूक काय करत होते?",
+      "options": [
+        { "option_id": 1, "text": "भांडत होते", "is_correct": false },
+        { "option_id": 2, "text": "झोके घेत होते", "is_correct": true },
+        { "option_id": 3, "text": "झोपत होते", "is_correct": false },
+        { "option_id": 4, "text": "पळत होते", "is_correct": false }
+      ],
+      "answer": "झोके घेत होते"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अचानक काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "पाऊस पडला", "is_correct": false },
+        { "option_id": 2, "text": "वारा सुटला", "is_correct": false },
+        { "option_id": 3, "text": "झोपाळा उडाला", "is_correct": true },
+        { "option_id": 4, "text": "रात्र झाली", "is_correct": false }
+      ],
+      "answer": "झोपाळा उडाला"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "झोपाळा कशामुळे उडाला?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "हवेमुळे", "is_correct": true },
+        { "option_id": 3, "text": "आगीमुळे", "is_correct": false },
+        { "option_id": 4, "text": "माणसामुळे", "is_correct": false }
+      ],
+      "answer": "हवेमुळे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "झोपाळा उडाल्यावर बेडूक कुठे गेले?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 2, "text": "आकाशात", "is_correct": true },
+        { "option_id": 3, "text": "घरात", "is_correct": false },
+        { "option_id": 4, "text": "झाडाखाली", "is_correct": false }
+      ],
+      "answer": "आकाशात"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "आकाशात कोण आले?",
+      "options": [
+        { "option_id": 1, "text": "गरुड", "is_correct": false },
+        { "option_id": 2, "text": "बगळा", "is_correct": true },
+        { "option_id": 3, "text": "कावळा", "is_correct": false },
+        { "option_id": 4, "text": "चिमणी", "is_correct": false }
+      ],
+      "answer": "बगळा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "बगळ्याने काय केले?",
+      "options": [
+        { "option_id": 1, "text": "बेडूक वाचवले", "is_correct": false },
+        { "option_id": 2, "text": "बेडूक पकडले", "is_correct": true },
+        { "option_id": 3, "text": "उडून गेला", "is_correct": false },
+        { "option_id": 4, "text": "झोपाळा तोडला", "is_correct": false }
+      ],
+      "answer": "बेडूक पकडले"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ही गोष्ट कोणावर आधारित आहे?",
+      "options": [
+        { "option_id": 1, "text": "माणसांवर", "is_correct": false },
+        { "option_id": 2, "text": "प्राण्यांवर", "is_correct": true },
+        { "option_id": 3, "text": "झाडांवर", "is_correct": false },
+        { "option_id": 4, "text": "पक्ष्यांवर", "is_correct": false }
+      ],
+      "answer": "प्राण्यांवर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "ही कथा कशाचा बोध देते?",
+      "options": [
+        { "option_id": 1, "text": "हिम्मत", "is_correct": false },
+        { "option_id": 2, "text": "शहाणपण", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "आळस", "is_correct": false }
+      ],
+      "answer": "शहाणपण"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "झोपाळा कशापासून बनवला होता?",
+      "options": [
+        { "option_id": 1, "text": "दोऱ्यापासून", "is_correct": false },
+        { "option_id": 2, "text": "वेलापासून", "is_correct": true },
+        { "option_id": 3, "text": "काठ्यांपासून", "is_correct": false },
+        { "option_id": 4, "text": "पाने", "is_correct": false }
+      ],
+      "answer": "वेलापासून"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "बेडकांनी काय करू नये होते?",
+      "options": [
+        { "option_id": 1, "text": "खेळू नये", "is_correct": false },
+        { "option_id": 2, "text": "झोके घेऊ नयेत", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यात जाऊ नये", "is_correct": false },
+        { "option_id": 4, "text": "उडू नये", "is_correct": false }
+      ],
+      "answer": "झोके घेऊ नयेत"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ही गोष्ट कोणासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्यांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "लहान मुलांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षकांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "पालकांसाठी", "is_correct": false }
+      ],
+      "answer": "लहान मुलांसाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "या धड्याचे नाव काय आहे?",
+      "answer": "या धड्याचे नाव ‘झोपाळा गेला उडून’ आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "बेडूक काय करत होते?",
+      "answer": "बेडूक पाण्यात डुबक्या मारत होते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "झोपाळा कशाचा बनवला होता?",
+      "answer": "झोपाळा वेलाचा बनवला होता."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "झोपाळा उडाल्यावर काय झाले?",
+      "answer": "झोपाळा उडाल्यावर बेडूक आकाशात गेले."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "आकाशात कोण आला?",
+      "answer": "आकाशात बगळा आला."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "बगळ्याने काय केले?",
+      "answer": "बगळ्याने बेडूक पकडले."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "ही गोष्ट कशावर आधारित आहे?",
+      "answer": "ही गोष्ट प्राण्यांवर आधारित आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "या गोष्टीतून काय बोध मिळतो?",
+      "answer": "या गोष्टीतून शहाणपणाचा बोध मिळतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "बेडकांनी काय चूक केली?",
+      "answer": "बेडकांनी झोपाळ्यावर झोके घेतले."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "झोपाळा कशामुळे उडाला?",
+      "answer": "झोपाळा हवेमुळे उडाला."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "ही कथा कशी आहे?",
+      "answer": "ही कथा बोधप्रद आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "बेडूक कुठे राहत होते?",
+      "answer": "बेडूक पाण्यात राहत होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "झोपाळा वापरणे धोकादायक का ठरले?",
+      "answer": "तो उडून गेला म्हणून धोकादायक ठरले."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "ही गोष्ट मुलांना काय शिकवते?",
+      "answer": "ही गोष्ट सावधपणा शिकवते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या वर्गासाठी आहे?",
+      "answer": "हा धडा दुसरीच्या विद्यार्थ्यांसाठी आहे."
+    }
+  ]
+}

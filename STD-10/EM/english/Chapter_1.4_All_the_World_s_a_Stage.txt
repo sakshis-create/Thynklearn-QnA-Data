@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.1.4",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "All the World's a Stage"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'All the World's a Stage'?",
+      "options": [
+        { "option_id": 1, "text": "Rabindranath Tagore", "is_correct": false },
+        { "option_id": 2, "text": "William Shakespeare", "is_correct": true },
+        { "option_id": 3, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 4, "text": "Robert Frost", "is_correct": false }
+      ],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The poem 'All the World's a Stage' is taken from which play?",
+      "options": [
+        { "option_id": 1, "text": "Hamlet", "is_correct": false },
+        { "option_id": 2, "text": "Romeo and Juliet", "is_correct": false },
+        { "option_id": 3, "text": "As You Like It", "is_correct": true },
+        { "option_id": 4, "text": "Macbeth", "is_correct": false }
+      ],
+      "answer": "As You Like It"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the poet compare the world to?",
+      "options": [
+        { "option_id": 1, "text": "A market", "is_correct": false },
+        { "option_id": 2, "text": "A stage", "is_correct": true },
+        { "option_id": 3, "text": "A battlefield", "is_correct": false },
+        { "option_id": 4, "text": "A playground", "is_correct": false }
+      ],
+      "answer": "A stage"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "According to the poet, men and women are merely ________.",
+      "options": [
+        { "option_id": 1, "text": "Workers", "is_correct": false },
+        { "option_id": 2, "text": "Players", "is_correct": true },
+        { "option_id": 3, "text": "Audience", "is_correct": false },
+        { "option_id": 4, "text": "Directors", "is_correct": false }
+      ],
+      "answer": "Players"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How many stages of life does a man play?",
+      "options": [
+        { "option_id": 1, "text": "Five", "is_correct": false },
+        { "option_id": 2, "text": "Six", "is_correct": false },
+        { "option_id": 3, "text": "Seven", "is_correct": true },
+        { "option_id": 4, "text": "Eight", "is_correct": false }
+      ],
+      "answer": "Seven"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the first stage of man's life?",
+      "options": [
+        { "option_id": 1, "text": "Schoolboy", "is_correct": false },
+        { "option_id": 2, "text": "Infant", "is_correct": true },
+        { "option_id": 3, "text": "Lover", "is_correct": false },
+        { "option_id": 4, "text": "Soldier", "is_correct": false }
+      ],
+      "answer": "Infant"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the infant doing in the nurse's arms?",
+      "options": [
+        { "option_id": 1, "text": "Sleeping and dreaming", "is_correct": false },
+        { "option_id": 2, "text": "Mewling and puking", "is_correct": true },
+        { "option_id": 3, "text": "Laughing and playing", "is_correct": false },
+        { "option_id": 4, "text": "Eating and drinking", "is_correct": false }
+      ],
+      "answer": "Mewling and puking"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "In the second stage, the schoolboy is described as ________.",
+      "options": [
+        { "option_id": 1, "text": "Happy", "is_correct": false },
+        { "option_id": 2, "text": "Whining", "is_correct": true },
+        { "option_id": 3, "text": "Excited", "is_correct": false },
+        { "option_id": 4, "text": "Eager", "is_correct": false }
+      ],
+      "answer": "Whining"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does the schoolboy carry?",
+      "options": [
+        { "option_id": 1, "text": "A sword", "is_correct": false },
+        { "option_id": 2, "text": "A ballad", "is_correct": false },
+        { "option_id": 3, "text": "A satchel", "is_correct": true },
+        { "option_id": 4, "text": "Spectacles", "is_correct": false }
+      ],
+      "answer": "A satchel"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How does the schoolboy go to school?",
+      "options": [
+        { "option_id": 1, "text": "Running fast", "is_correct": false },
+        { "option_id": 2, "text": "Creeping like snail", "is_correct": true },
+        { "option_id": 3, "text": "Marching like a soldier", "is_correct": false },
+        { "option_id": 4, "text": "Walking happily", "is_correct": false }
+      ],
+      "answer": "Creeping like snail"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "In the third stage, the lover is sighing like ________.",
+      "options": [
+        { "option_id": 1, "text": "Wind", "is_correct": false },
+        { "option_id": 2, "text": "Furnace", "is_correct": true },
+        { "option_id": 3, "text": "Ocean", "is_correct": false },
+        { "option_id": 4, "text": "Storm", "is_correct": false }
+      ],
+      "answer": "Furnace"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "To whom does the lover write a woeful ballad?",
+      "options": [
+        { "option_id": 1, "text": "His mother", "is_correct": false },
+        { "option_id": 2, "text": "His teacher", "is_correct": false },
+        { "option_id": 3, "text": "His mistress' eyebrow", "is_correct": true },
+        { "option_id": 4, "text": "His country", "is_correct": false }
+      ],
+      "answer": "His mistress' eyebrow"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the fourth stage of man?",
+      "options": [
+        { "option_id": 1, "text": "Justice", "is_correct": false },
+        { "option_id": 2, "text": "Soldier", "is_correct": true },
+        { "option_id": 3, "text": "Lover", "is_correct": false },
+        { "option_id": 4, "text": "Pantaloon", "is_correct": false }
+      ],
+      "answer": "Soldier"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The soldier is bearded like the ________.",
+      "options": [
+        { "option_id": 1, "text": "Lion", "is_correct": false },
+        { "option_id": 2, "text": "Tiger", "is_correct": false },
+        { "option_id": 3, "text": "Pard (Leopard)", "is_correct": true },
+        { "option_id": 4, "text": "Bear", "is_correct": false }
+      ],
+      "answer": "Pard (Leopard)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What kind of reputation does the soldier seek?",
+      "options": [
+        { "option_id": 1, "text": "Solid", "is_correct": false },
+        { "option_id": 2, "text": "Eternal", "is_correct": false },
+        { "option_id": 3, "text": "Bubble", "is_correct": true },
+        { "option_id": 4, "text": "Golden", "is_correct": false }
+      ],
+      "answer": "Bubble"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Where does the soldier seek reputation?",
+      "options": [
+        { "option_id": 1, "text": "In the court", "is_correct": false },
+        { "option_id": 2, "text": "In the school", "is_correct": false },
+        { "option_id": 3, "text": "Even in the cannon's mouth", "is_correct": true },
+        { "option_id": 4, "text": "On the stage", "is_correct": false }
+      ],
+      "answer": "Even in the cannon's mouth"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What characterizes the fifth stage (Justice)?",
+      "options": [
+        { "option_id": 1, "text": "Lean and slippered", "is_correct": false },
+        { "option_id": 2, "text": "Fair round belly", "is_correct": true },
+        { "option_id": 3, "text": "Sighing like furnace", "is_correct": false },
+        { "option_id": 4, "text": "Mewling and puking", "is_correct": false }
+      ],
+      "answer": "Fair round belly"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "With what is the Justice's belly lined?",
+      "options": [
+        { "option_id": 1, "text": "Gold", "is_correct": false },
+        { "option_id": 2, "text": "Good capon", "is_correct": true },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Wine", "is_correct": false }
+      ],
+      "answer": "Good capon"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The Justice is full of ________.",
+      "options": [
+        { "option_id": 1, "text": "Strange oaths", "is_correct": false },
+        { "option_id": 2, "text": "Woeful ballads", "is_correct": false },
+        { "option_id": 3, "text": "Wise saws and modern instances", "is_correct": true },
+        { "option_id": 4, "text": "Childish treble", "is_correct": false }
+      ],
+      "answer": "Wise saws and modern instances"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the sixth stage of man?",
+      "options": [
+        { "option_id": 1, "text": "The lean and slippered pantaloon", "is_correct": true },
+        { "option_id": 2, "text": "The soldier", "is_correct": false },
+        { "option_id": 3, "text": "The lover", "is_correct": false },
+        { "option_id": 4, "text": "Second childishness", "is_correct": false }
+      ],
+      "answer": "The lean and slippered pantaloon"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does the pantaloon wear on his nose?",
+      "options": [
+        { "option_id": 1, "text": "A mask", "is_correct": false },
+        { "option_id": 2, "text": "Spectacles", "is_correct": true },
+        { "option_id": 3, "text": "A scar", "is_correct": false },
+        { "option_id": 4, "text": "Makeup", "is_correct": false }
+      ],
+      "answer": "Spectacles"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Where does the pantaloon keep his pouch?",
+      "options": [
+        { "option_id": 1, "text": "In his hand", "is_correct": false },
+        { "option_id": 2, "text": "On side", "is_correct": true },
+        { "option_id": 3, "text": "On his back", "is_correct": false },
+        { "option_id": 4, "text": "In his hat", "is_correct": false }
+      ],
+      "answer": "On side"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What happens to the man's voice in the sixth stage?",
+      "options": [
+        { "option_id": 1, "text": "Becomes deep", "is_correct": false },
+        { "option_id": 2, "text": "Turns toward childish treble", "is_correct": true },
+        { "option_id": 3, "text": "Becomes loud", "is_correct": false },
+        { "option_id": 4, "text": "Becomes silent", "is_correct": false }
+      ],
+      "answer": "Turns toward childish treble"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The last stage of man's life is called ________.",
+      "options": [
+        { "option_id": 1, "text": "Eternal sleep", "is_correct": false },
+        { "option_id": 2, "text": "Second childishness", "is_correct": true },
+        { "option_id": 3, "text": "Ultimate wisdom", "is_correct": false },
+        { "option_id": 4, "text": "Golden age", "is_correct": false }
+      ],
+      "answer": "Second childishness"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What does 'mere oblivion' mean?",
+      "options": [
+        { "option_id": 1, "text": "Total awareness", "is_correct": false },
+        { "option_id": 2, "text": "State of being unaware or unconscious", "is_correct": true },
+        { "option_id": 3, "text": "Great happiness", "is_correct": false },
+        { "option_id": 4, "text": "Painful memory", "is_correct": false }
+      ],
+      "answer": "State of being unaware or unconscious"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What does the word 'Sans' mean?",
+      "options": [
+        { "option_id": 1, "text": "With", "is_correct": false },
+        { "option_id": 2, "text": "Without", "is_correct": true },
+        { "option_id": 3, "text": "Song", "is_correct": false },
+        { "option_id": 4, "text": "Sense", "is_correct": false }
+      ],
+      "answer": "Without"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT missing in the last stage according to the poem?",
+      "options": [
+        { "option_id": 1, "text": "Teeth", "is_correct": false },
+        { "option_id": 2, "text": "Eyes", "is_correct": false },
+        { "option_id": 3, "text": "Taste", "is_correct": false },
+        { "option_id": 4, "text": "Breath", "is_correct": true }
+      ],
+      "answer": "Breath"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What poetic device is used in 'creeping like snail'?",
+      "options": [
+        { "option_id": 1, "text": "Metaphor", "is_correct": false },
+        { "option_id": 2, "text": "Simile", "is_correct": true },
+        { "option_id": 3, "text": "Personification", "is_correct": false },
+        { "option_id": 4, "text": "Hyperbole", "is_correct": false }
+      ],
+      "answer": "Simile"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What poetic device is used in 'All the world's a stage'?",
+      "options": [
+        { "option_id": 1, "text": "Simile", "is_correct": false },
+        { "option_id": 2, "text": "Metaphor", "is_correct": true },
+        { "option_id": 3, "text": "Alliteration", "is_correct": false },
+        { "option_id": 4, "text": "Inversion", "is_correct": false }
+      ],
+      "answer": "Metaphor"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What does 'exit' refer to in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Going out of a room", "is_correct": false },
+        { "option_id": 2, "text": "Leaving school", "is_correct": false },
+        { "option_id": 3, "text": "Death", "is_correct": true },
+        { "option_id": 4, "text": "Retirement", "is_correct": false }
+      ],
+      "answer": "Death"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What does 'entrance' refer to in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Birth", "is_correct": true },
+        { "option_id": 2, "text": "Start of a play", "is_correct": false },
+        { "option_id": 3, "text": "Entering school", "is_correct": false },
+        { "option_id": 4, "text": "Marriage", "is_correct": false }
+      ],
+      "answer": "Birth"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What does 'puking' mean?",
+      "options": [
+        { "option_id": 1, "text": "Crying", "is_correct": false },
+        { "option_id": 2, "text": "Throwing up / vomiting", "is_correct": true },
+        { "option_id": 3, "text": "Playing", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Throwing up / vomiting"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What is a 'satchel'?",
+      "options": [
+        { "option_id": 1, "text": "A hat", "is_correct": false },
+        { "option_id": 2, "text": "A school bag", "is_correct": true },
+        { "option_id": 3, "text": "A weapon", "is_correct": false },
+        { "option_id": 4, "text": "A shoe", "is_correct": false }
+      ],
+      "answer": "A school bag"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What does 'woeful ballad' mean?",
+      "options": [
+        { "option_id": 1, "text": "Happy song", "is_correct": false },
+        { "option_id": 2, "text": "Sad poem/song", "is_correct": true },
+        { "option_id": 3, "text": "War cry", "is_correct": false },
+        { "option_id": 4, "text": "Lullaby", "is_correct": false }
+      ],
+      "answer": "Sad poem/song"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What does 'pard' stand for?",
+      "options": [
+        { "option_id": 1, "text": "Partner", "is_correct": false },
+        { "option_id": 2, "text": "Pardon", "is_correct": false },
+        { "option_id": 3, "text": "Leopard", "is_correct": true },
+        { "option_id": 4, "text": "Parade", "is_correct": false }
+      ],
+      "answer": "Leopard"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What are 'saws'?",
+      "options": [
+        { "option_id": 1, "text": "Tools for cutting", "is_correct": false },
+        { "option_id": 2, "text": "Sayings", "is_correct": true },
+        { "option_id": 3, "text": "Songs", "is_correct": false },
+        { "option_id": 4, "text": "Sights", "is_correct": false }
+      ],
+      "answer": "Sayings"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What does 'hose' refer to?",
+      "options": [
+        { "option_id": 1, "text": "Water pipe", "is_correct": false },
+        { "option_id": 2, "text": "Close-fitting covering for legs", "is_correct": true },
+        { "option_id": 3, "text": "A house", "is_correct": false },
+        { "option_id": 4, "text": "A horse", "is_correct": false }
+      ],
+      "answer": "Close-fitting covering for legs"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What does 'shank' mean?",
+      "options": [
+        { "option_id": 1, "text": "Arm", "is_correct": false },
+        { "option_id": 2, "text": "Legs (knee to ankle)", "is_correct": true },
+        { "option_id": 3, "text": "Neck", "is_correct": false },
+        { "option_id": 4, "text": "Shoulder", "is_correct": false }
+      ],
+      "answer": "Legs (knee to ankle)"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What does 'capon' imply in the poem?",
+      "options": [
+        { "option_id": 1, "text": "A type of hat", "is_correct": false },
+        { "option_id": 2, "text": "A weapon", "is_correct": false },
+        { "option_id": 3, "text": "Excess fat from eating", "is_correct": true },
+        { "option_id": 4, "text": "A cape", "is_correct": false }
+      ],
+      "answer": "Excess fat from eating"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The poem is written in ________ verse.",
+      "options": [
+        { "option_id": 1, "text": "Rhymed", "is_correct": false },
+        { "option_id": 2, "text": "Blank", "is_correct": true },
+        { "option_id": 3, "text": "Free", "is_correct": false },
+        { "option_id": 4, "text": "Haiku", "is_correct": false }
+      ],
+      "answer": "Blank"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Blank Verse has no rhyme scheme but has ________.",
+      "options": [
+        { "option_id": 1, "text": "No rhythm", "is_correct": false },
+        { "option_id": 2, "text": "Uniformity in rhythm", "is_correct": true },
+        { "option_id": 3, "text": "Only 3 beats", "is_correct": false },
+        { "option_id": 4, "text": "Paragraphs", "is_correct": false }
+      ],
+      "answer": "Uniformity in rhythm"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which quality is attributed to the soldier?",
+      "options": [
+        { "option_id": 1, "text": "Wise", "is_correct": false },
+        { "option_id": 2, "text": "Jealous in honour", "is_correct": true },
+        { "option_id": 3, "text": "Childish", "is_correct": false },
+        { "option_id": 4, "text": "Whining", "is_correct": false }
+      ],
+      "answer": "Jealous in honour"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What is the soldier quick in?",
+      "options": [
+        { "option_id": 1, "text": "Eating", "is_correct": false },
+        { "option_id": 2, "text": "Running", "is_correct": false },
+        { "option_id": 3, "text": "Quarrel", "is_correct": true },
+        { "option_id": 4, "text": "Singing", "is_correct": false }
+      ],
+      "answer": "Quarrel"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "The justice has eyes that are ________.",
+      "options": [
+        { "option_id": 1, "text": "Kind", "is_correct": false },
+        { "option_id": 2, "text": "Severe", "is_correct": true },
+        { "option_id": 3, "text": "Blind", "is_correct": false },
+        { "option_id": 4, "text": "Tearful", "is_correct": false }
+      ],
+      "answer": "Severe"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "The beard of the justice is of ________ cut.",
+      "options": [
+        { "option_id": 1, "text": "Strange", "is_correct": false },
+        { "option_id": 2, "text": "Formal", "is_correct": true },
+        { "option_id": 3, "text": "Long", "is_correct": false },
+        { "option_id": 4, "text": "No", "is_correct": false }
+      ],
+      "answer": "Formal"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What describes the voice of the pantaloon?",
+      "options": [
+        { "option_id": 1, "text": "Roaring", "is_correct": false },
+        { "option_id": 2, "text": "Big manly", "is_correct": false },
+        { "option_id": 3, "text": "Childish treble", "is_correct": true },
+        { "option_id": 4, "text": "Melodious", "is_correct": false }
+      ],
+      "answer": "Childish treble"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What sounds are made by the pantaloon's voice?",
+      "options": [
+        { "option_id": 1, "text": "Barks and meows", "is_correct": false },
+        { "option_id": 2, "text": "Pipes and whistles", "is_correct": true },
+        { "option_id": 3, "text": "Drums and trumpets", "is_correct": false },
+        { "option_id": 4, "text": "Screams and shouts", "is_correct": false }
+      ],
+      "answer": "Pipes and whistles"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "The last stage ends this ________ eventful history.",
+      "options": [
+        { "option_id": 1, "text": "Happy", "is_correct": false },
+        { "option_id": 2, "text": "Sad", "is_correct": false },
+        { "option_id": 3, "text": "Strange", "is_correct": true },
+        { "option_id": 4, "text": "Boring", "is_correct": false }
+      ],
+      "answer": "Strange"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "William Shakespeare is often called England's ________.",
+      "options": [
+        { "option_id": 1, "text": "King", "is_correct": false },
+        { "option_id": 2, "text": "Bard of Avon", "is_correct": true },
+        { "option_id": 3, "text": "Knight", "is_correct": false },
+        { "option_id": 4, "text": "Father of Poetry", "is_correct": false }
+      ],
+      "answer": "Bard of Avon"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which stage comes after the soldier?",
+      "options": [
+        { "option_id": 1, "text": "The lover", "is_correct": false },
+        { "option_id": 2, "text": "The pantaloon", "is_correct": false },
+        { "option_id": 3, "text": "The justice", "is_correct": true },
+        { "option_id": 4, "text": "Second childishness", "is_correct": false }
+      ],
+      "answer": "The justice"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who are the players mentioned in the first stanza?",
+      "answer": "All men and women are the players."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the world compared to?",
+      "answer": "The world is compared to a stage."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What do 'exits' refer to in the poem?",
+      "answer": "'Exits' refer to deaths."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What do 'entrances' refer to in the poem?",
+      "answer": "'Entrances' refer to births."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How many parts does one man play in his time?",
+      "answer": "One man plays many parts, which are seven ages."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Describe the first stage of man.",
+      "answer": "The first stage is the infant, mewling and puking in the nurse's arms."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What adjective is used for the schoolboy?",
+      "answer": "The schoolboy is described as 'whining'."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How does the schoolboy go to school?",
+      "answer": "He goes to school unwillingly, creeping like a snail."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does the schoolboy have on his face?",
+      "answer": "He has a shining morning face."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What does the lover do?",
+      "answer": "The lover sighs like a furnace and writes woeful ballads."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the subject of the lover's ballad?",
+      "answer": "The ballad is made to his mistress' eyebrow."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Describe the soldier's beard.",
+      "answer": "The soldier's beard is described as 'bearded like the pard'."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the soldier jealous in?",
+      "answer": "The soldier is jealous in honour."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does the soldier seek?",
+      "answer": "The soldier seeks the bubble reputation."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Where is the soldier willing to go for reputation?",
+      "answer": "He is willing to go even into the cannon's mouth."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does 'full of strange oaths' refer to?",
+      "answer": "It refers to the language used by the soldier."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What physical feature marks the justice?",
+      "answer": "The justice has a fair round belly."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What does 'capon lined' mean?",
+      "answer": "It means his belly is full of excess fat from eating good chicken (capon)."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How are the justice's eyes described?",
+      "answer": "His eyes are described as severe."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What kind of sayings does the justice use?",
+      "answer": "He uses wise saws."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What does the justice give to support his sayings?",
+      "answer": "He gives modern instances."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the sixth age?",
+      "answer": "The sixth age is the lean and slippered pantaloon."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What does the pantaloon wear on his feet?",
+      "answer": "He wears slippers."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Where is the pouch of the pantaloon?",
+      "answer": "The pouch is on his side."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What happened to the pantaloon's youthful hose?",
+      "answer": "They are well saved but now a world too wide for his shrunk shank."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What does 'shrunk shank' refer to?",
+      "answer": "It refers to his thin, shrunken legs."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How does the man's voice change in the sixth stage?",
+      "answer": "His big manly voice turns toward childish treble."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the last scene called?",
+      "answer": "The last scene is called second childishness."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What does 'mere oblivion' imply?",
+      "answer": "It implies a state of forgetfulness or being unaware of surroundings."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "List four things the man is 'sans' in the last stage.",
+      "answer": "He is sans teeth, sans eyes, sans taste, and sans everything."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What figure of speech is 'All the world's a stage'?",
+      "answer": "It is a Metaphor."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What figure of speech is 'Creeping like snail'?",
+      "answer": "It is a Simile."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What figure of speech is 'Sighing like furnace'?",
+      "answer": "It is a Simile."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What figure of speech is 'Bearded like the pard'?",
+      "answer": "It is a Simile."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What figure of speech is 'Sans teeth, sans eyes, sans taste, sans everything'?",
+      "answer": "It is Repetition (of the word 'sans')."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'They have their exits and their entrances'.",
+      "answer": "It is Antithesis (exits vs entrances)."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'men and women merely players'.",
+      "answer": "It is a Metaphor."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'Into the lean and slippered pantaloon'.",
+      "answer": "It is a Transferred Epithet (lean and slippered describe the man, not the pantaloon/trousers)."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Identify the figure of speech: 'pipes and whistles in his sound'.",
+      "answer": "It is Onomatopoeia."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is Blank Verse?",
+      "answer": "Blank Verse is poetry with a steady rhythm but no rhyme scheme."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why is the schoolboy whining?",
+      "answer": "He is whining because he is going to school unwillingly."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is reputation compared to a bubble?",
+      "answer": "Reputation is compared to a bubble because it is temporary and can burst/vanish easily."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'cannon's mouth' signify?",
+      "answer": "It signifies facing great danger to life in war."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'mewling'?",
+      "answer": "Mewling means crying weakly or whimpering."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is a 'satchel'?",
+      "answer": "A satchel is a school bag."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What does 'pard' mean in the poem?",
+      "answer": "'Pard' is a poetical short form for 'leopard'."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What are 'saws' in the context of the justice?",
+      "answer": "'Saws' mean wise sayings or proverbs."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is 'treble'?",
+      "answer": "Treble refers to a high-pitched voice."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What does 'second childishness' mean?",
+      "answer": "It means a return to the helpless, ignorant state of a child in old age."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "From which play is this poem taken?",
+      "answer": "This poem is taken from William Shakespeare's play 'As You Like It'."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Summarize the seven stages of man as described in the poem.",
+      "answer": "The poem describes life as a play with seven acts. The first stage is the helpless infant. The second is the whining schoolboy. The third is the emotional lover. The fourth is the brave and ambitious soldier. The fifth is the wise and well-fed justice. The sixth is the lean, old pantaloon with spectacles. The final stage is second childishness, where man loses his faculties and senses, returning to oblivion before death."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Explain the metaphor 'All the world's a stage'.",
+      "answer": "Shakespeare compares the world to a theatrical stage. Men and women are merely actors (players) who enter the stage at birth (entrances) and leave at death (exits). During their lifetime, they play various roles, which correspond to the different stages of life. The drama of human life is enacted on this global stage, emphasizing the transient and performative nature of existence."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Describe the third stage of man: The Lover.",
+      "answer": "In the third stage, man plays the role of a lover. He is filled with passion and emotion. He sighs loudly like a furnace, indicating the heat of his love. He writes 'woeful ballads' or sad poems dedicated to his mistress' eyebrow, showing his infatuation and perhaps the pain of unrequited love. This stage is characterized by intense romantic feelings."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Describe the fourth stage of man: The Soldier.",
+      "answer": "The fourth stage is the soldier. He is full of strange oaths and has a beard like a leopard (pard). He is jealous in matters of honour and is quick to quarrel. He is ambitious and seeks 'bubble reputation', meaning he chases fame even if it is temporary and fragile. He is brave enough to face death at the 'cannon's mouth' for the sake of glory."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Describe the fifth stage of man: The Justice.",
+      "answer": "The fifth stage portrays man as a Justice or judge. He has a fair round belly, lined with good capon (fat chicken), indicating prosperity and perhaps greed. His eyes are severe, and he has a beard of formal cut to look authoritative. He is full of wise sayings (saws) and modern examples (instances), showing his experience and wisdom. He plays the part of a serious, respected figure."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Explain the transition from the fifth to the sixth stage.",
+      "answer": "The transition moves from the dignified Justice to the 'lean and slippered pantaloon'. The man loses his physical stature; his belly shrinks, and his legs become thin ('shrunk shank'). He needs spectacles and keeps a pouch. His clothes ('youthful hose') are now too big for him. His voice changes from a manly tone to a childish treble. This shift marks the beginning of physical decline and old age."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Why is the last stage called 'second childishness'?",
+      "answer": "The last stage is called 'second childishness' because the man returns to a state of dependency and helplessness similar to infancy. Just as a child is dependent on others, the very old man loses his teeth, eyesight, taste, and memory ('sans everything'). He enters a state of oblivion, unaware of his surroundings, completing the full circle of life back to where he started."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Write an appreciation of the poem 'All the World's a Stage'.",
+      "answer": "The poem 'All the World's a Stage' by William Shakespeare is a famous monologue from 'As You Like It'. The theme is the cycle of life, divided into seven stages. The tone is reflective and slightly cynical. It uses Blank Verse (no rhyme but steady rhythm). Figures of speech like Metaphor ('world's a stage'), Simile ('creeping like snail'), and Repetition ('sans') are used effectively. It vividly captures the universal human experience."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Explain the imagery used for the schoolboy.",
+      "answer": "The imagery for the schoolboy is vivid. He is described as 'whining', suggesting unhappiness or complaint. He has a 'satchel' and a 'shining morning face', perhaps scrubbed clean by his mother. He creeps 'like snail', emphasizing his slow pace because he is 'unwilling' to go to school. This creates a picture of a reluctant child forced into education."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Contrast the soldier and the justice.",
+      "answer": "The soldier is young, rash, ambitious, and physical. He is 'sudden and quick in quarrel' and seeks fame in danger. He is bearded like a leopard. In contrast, the justice is older, settled, serious, and wise. He has a 'round belly' and 'eyes severe'. While the soldier acts on impulse and seeks reputation, the justice relies on wisdom and established examples. One represents action, the other judgment."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "What is the central idea of the poem?",
+      "answer": "The central idea is that life is like a play, and humans are actors playing distinct roles. These roles correspond to chronological stages: helpless infancy, reluctant childhood, passionate youth, ambitious adulthood, wise middle age, declining old age, and finally, senility and death. The poem highlights the inevitability of change and the transient nature of life."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Explain the significance of the phrase 'bubble reputation'.",
+      "answer": "'Bubble reputation' signifies that fame and glory are fragile, empty, and temporary, just like a soap bubble. A bubble is beautiful but bursts easily. Similarly, a soldier risks his life ('cannon's mouth') for something that lasts only a moment. This phrase highlights the futility of human ambition and the transient nature of the glory men seek."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "What does the poet mean by 'One man in his time plays many parts'?",
+      "answer": "The poet means that during a single lifetime, a person goes through various phases and roles. Just as an actor changes costumes and characters in a play, a human changes as they age. A person is not just one thing; they evolve from a child to a lover, to a soldier, etc. 'Many parts' refers to the seven distinct stages of life described in the poem."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "Describe the physical changes in the sixth stage.",
+      "answer": "In the sixth stage, the man becomes a 'lean and slippered pantaloon'. He loses weight and muscle mass, indicated by his 'shrunk shank'. He needs spectacles to see. His clothes ('youthful hose') become too big for his withered legs. His voice, once 'big' and 'manly', turns into a high-pitched 'childish treble' that pipes and whistles. These changes depict physical decay."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "How does the poet describe the infant?",
+      "answer": "The poet describes the infant as the very first stage of life. The infant is helpless and dependent. The primary actions described are 'mewling' (crying weakly) and 'puking' (vomiting) in the nurse's arms. This creates an image of a newborn who has no control and is entirely reliant on others for care."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Discuss the use of Simile in the poem.",
+      "answer": "Shakespeare uses similes effectively to describe the stages. 'Creeping like snail' describes the schoolboy's reluctance. 'Sighing like furnace' vividly portrays the lover's hot, intense passion. 'Bearded like the pard' describes the soldier's fierce appearance. These comparisons make the descriptions vivid and relatable, helping the reader visualize the characteristics of each stage."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "What is the tone of the poem?",
+      "answer": "The tone of the poem is reflective, philosophical, and somewhat cynical or detached. The speaker, Jaques, observes life from a distance. He describes the stages with a bit of mockery (e.g., the lover's woeful ballad, the soldier's bubble reputation). The ending is sombre, emphasizing the loss of faculties. It suggests that life is a predictable script that ends in nothingness."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "Explain the phrase 'full of strange oaths' regarding the soldier.",
+      "answer": "The phrase 'full of strange oaths' suggests that the soldier uses rough, perhaps foreign or blasphemous language. It reflects his life in camps and battlefields, away from polite society. It emphasizes his roughness, aggression, and desire to appear tough. It is part of the persona he adopts in this stage of life."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "How does Shakespeare describe the end of life?",
+      "answer": "Shakespeare describes the end of life as a 'strange eventful history' coming to a close. He calls it 'second childishness', marking a return to the helplessness of infancy. It is a state of 'mere oblivion', meaning total forgetfulness or lack of awareness. The repetition of 'sans' (without) emphasizes total loss: sans teeth, sans eyes, sans taste, sans everything."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "What is the structure of the poem?",
+      "answer": "The poem is a dramatic monologue written in free verse or blank verse (unrhymed iambic pentameter). It does not follow a specific rhyme scheme (like AABB). It is a continuous speech without stanza breaks. It flows logically from birth (entrance) through the seven chronological stages to death (exit), mirroring the progression of life itself."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "Explain the phrase 'his youthful hose, well saved, a world too wide'.",
+      "answer": "The man in the sixth stage wears stockings (hose) that he bought when he was young. He has saved them carefully. However, because his legs have shrunk ('shrunk shank') due to old age, these stockings are now much too loose ('a world too wide'). This highlights the physical wasting away that occurs in old age and the contrast with his younger self."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "Why does the lover sigh 'like furnace'?",
+      "answer": "The simile 'sighing like furnace' suggests the intensity and heat of the lover's emotions. A furnace burns hot and breathes out smoke/heat. Similarly, the lover breathes out long, hot sighs of longing and despair for his mistress. It emphasizes the melodramatic and passionate nature of youthful love."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "What message does the poem convey about human life?",
+      "answer": "The poem conveys that human life is transient and follows a predictable pattern. We are all actors playing pre-assigned roles. We go from helplessness (infancy) to strength (soldier) and wisdom (justice), only to return to helplessness and decay (old age). It suggests a sense of inevitability and perhaps futility, as everyone eventually exits the stage into oblivion."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "Identify and explain the Metaphors in the poem.",
+      "answer": "The main metaphor is 'All the world's a stage', comparing life to a play. 'Men and women merely players' compares people to actors. 'Exits and entrances' compare death and birth to stage directions. 'Bubble reputation' compares fame to a fragile bubble. These metaphors unify the poem under the theatrical theme."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "How does the description of the Justice reflect his status?",
+      "answer": "The description of the Justice reflects comfort, wealth, and authority. His 'fair round belly' lined with 'good capon' shows he eats well and is prosperous. His 'eyes severe' and 'beard of formal cut' show he maintains a serious, professional appearance. His speech, full of 'wise saws', shows he is regarded as a man of knowledge. He represents the established, successful middle age."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "What is the significance of the schoolboy's 'shining morning face'?",
+      "answer": "'Shining morning face' suggests youth, health, and cleanliness. It implies he has been scrubbed clean for school, perhaps against his will. 'Morning' represents the beginning of the day, just as childhood is the beginning of life. It contrasts with his 'whining' attitude, showing that while he looks fresh, he is unhappy about going to school."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "Describe the transition from the lover to the soldier.",
+      "answer": "The transition moves from the soft, emotional world of the lover to the harsh, violent world of the soldier. The lover writes ballads and sighs; the soldier swears oaths and quarrels. The lover is focused on his mistress; the soldier is focused on his reputation and honor. This shift represents moving from adolescent romance to adult responsibility and aggression."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "Explain the Onomatopoeia in the poem.",
+      "answer": "Onomatopoeia is the use of words that imitate sounds. In the poem, 'whistling' in 'pipes and whistles in his sound' is an example. It describes the sound of the old man's voice, which has lost its depth and now sounds like a high-pitched wind instrument. 'Mewling' (crying) and 'puking' are also suggestive of the sounds an infant makes."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "How does the poem depict the cycle of life?",
+      "answer": "The poem depicts the cycle of life as a circle. It starts with a helpless infant without teeth or speech. It rises to the peak of physical power (soldier) and social status (justice). Then it declines physically (pantaloon) and mentally. It ends in 'second childishness', where man is again without teeth, eyes, or taste, just like the infant. The cycle completes with the return to non-existence (exit)."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "What is the meaning of 'bearded like the pard'?",
+      "answer": "'Bearded like the pard' means the soldier has a rough, unkempt beard, similar to the whiskers or fur of a leopard (pard). The leopard is a fierce animal, and the comparison suggests the soldier's fierce, wild, and aggressive nature. It highlights the ruggedness associated with the military life."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "Why is the poem called 'All the World's a Stage'?",
+      "answer": "The title summarizes the central metaphor of the poem. It posits that the entire world is a theater and human life is a performance. We are not living freely but are acting out scripted roles determined by our age and society. The title sets the context for the extended comparison between life and drama that follows."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "Explain the phrase 'sudden and quick in quarrel'.",
+      "answer": "'Sudden and quick in quarrel' describes the soldier's temperament. He is short-tempered, impulsive, and ready to fight at a moment's notice to defend his honor. It suggests a life lived on the edge, where violence is a quick response. It contrasts with the patience of the lover or the wisdom of the justice."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "What qualities/actions are associated with the Justice?",
+      "answer": "The Justice is associated with wisdom, severity, and formality. His actions include eating well (capon lined), judging others with 'eyes severe', keeping a 'formal cut' beard, and citing 'wise saws and modern instances' (proverbs and examples). He represents authority, stability, and the establishment in society."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "What qualities/actions are associated with the Pantaloon?",
+      "answer": "The Pantaloon is associated with physical decline and shrinking. He wears slippers and spectacles, indicating frailty and poor sight. He carries a pouch. His actions include wearing old clothes ('youthful hose') that are too big and speaking in a high-pitched, whistling voice. He represents the transition from maturity to senility."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Discuss the humor in the poem.",
+      "answer": "The poem has touches of humor. The image of the 'whining schoolboy' creeping like a snail is funny and relatable. The 'lover' sighing like a furnace over an eyebrow is a mockery of exaggerated romantic feelings. The 'justice' with his fat belly full of chicken is a satirical take on authority. The 'pantaloon' in big clothes is a comical figure. This humor balances the sombre ending."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "How does the poem use 'Inversion'?",
+      "answer": "Inversion is changing the normal word order for poetic effect. An example is 'And all the men and women merely players' (instead of 'are merely players'). Another is 'Full of strange oaths' (adjective phrase after noun). This technique helps maintain the rhythm of the blank verse and places emphasis on specific words."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "What does 'modern instances' mean?",
+      "answer": "'Modern instances' refers to current examples or case studies that the Justice uses to back up his arguments. It shows that he keeps up with the times to appear wise and relevant. Along with 'wise saws' (old proverbs), it shows he balances traditional wisdom with contemporary knowledge to play his part effectively."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "Explain 'pipes and whistles in his sound'.",
+      "answer": "This phrase describes the change in voice of the old man (stage 6). Due to the loss of teeth and physical strength, his voice loses its deep, manly resonance. It becomes high-pitched, breathy, and shaky. The sound of air escaping through gaps in teeth creates a 'whistling' or 'piping' sound, symbolizing his return to a child-like state."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "Compare the first and last stages of life.",
+      "answer": "The first stage (Infant) and last stage (Second Childishness) are strikingly similar. Both are characterized by helplessness and dependency. The infant mews and pukes; the old man is in oblivion. The infant has no teeth; the old man is 'sans teeth'. Both lack agency. The key difference is that the infant is the beginning of potential, while the last stage is the end of history."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "What role does 'Satchel' play in the description of the schoolboy?",
+      "answer": "The 'satchel' is a small bag carried by the schoolboy. It is a symbol of his role as a student. It is one of the props in his 'act'. Carrying it implies the burden of education and responsibility that starts in childhood. Along with his shining face, it completes the visual image of a student going to school."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "How does Shakespeare view the role of 'Nurse'?",
+      "answer": "The 'nurse' appears in the first stage, holding the infant. This highlights the infant's dependency. The nurse represents the caregiver. Shakespeare views this stage as one where the human is entirely passive ('in the nurse's arms'), unable to act for themselves. It sets the scene for the first 'entrance' into life being supported by others."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "What is the meaning of 'strange eventful history'?",
+      "answer": "'Strange eventful history' refers to the sum total of a human life. It acknowledges that life is full of events, changes, and varied experiences (the seven stages). Calling it 'strange' suggests the unpredictability and the odd cycle of growing up only to decline again. It is the script that every person acts out before the final curtain falls."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "Explain 'jealous in honour'.",
+      "answer": "'Jealous in honour' means the soldier is extremely protective of his reputation and honor. He guards it fiercely. He is quick to take offense if he feels his honor is slighted. This quality drives his actions, making him aggressive and willing to fight. It defines the soldier's motivation in this stage of life."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "What does 'pantaloon' symbolize?",
+      "answer": "'Pantaloon' refers to a stock character in Italian comedy who is a foolish old man wearing baggy trousers. Shakespeare uses this term to describe the sixth stage. It symbolizes the physical shrinking and the somewhat ridiculous appearance of old age. It represents the loss of dignity and strength that characterized the earlier stages like the Soldier and Justice."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "Why is the poem universal?",
+      "answer": "The poem is universal because it describes the general human experience irrespective of time or place. Everyone is born, goes to school (or learns), falls in love, works/fights, matures, ages, and dies. The emotions and physical changes described—reluctance, passion, ambition, wisdom, decay—are common to all humanity. The metaphor of life as a stage resonates across cultures."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "How does the poem use 'Transferred Epithet'?",
+      "answer": "A Transferred Epithet is when an adjective is transferred from the noun it describes to another noun. In 'youthful hose', the hose (stockings) are not youthful; the person was youthful when he bought them. In 'woeful ballad', the ballad is not sad; the lover is sad. Shakespeare uses this device to condense meaning and emotion into descriptions of objects."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "What is the significance of 'mistress' eyebrow'?",
+      "answer": "The lover writing a ballad to his 'mistress' eyebrow' highlights the folly and obsession of young love. Instead of writing about something profound, he focuses on a trivial feature like an eyebrow. It suggests that the lover is so infatuated that every small detail of his beloved becomes a subject of intense emotion and poetry."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "Discuss the auditory imagery (sound) in the poem.",
+      "answer": "The poem uses sound to characterize stages. The infant 'mewls', the schoolboy 'whines', the lover 'sighs', the soldier speaks 'oaths', the justice says 'saws', and the old man 'pipes and whistles'. These sounds trace the trajectory of life: from the weak cry of birth to the loud assertions of manhood, fading back to the weak sounds of old age."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "How does the poem depict the passage of time?",
+      "answer": "The poem depicts the passage of time through the progression of the seven stages. It moves linearly from infancy to old age. Physical changes mark the time: the growth of a beard, the rounding of the belly, the shrinking of the shank, the loss of teeth. The changing roles—from learner to worker to retiree—also mark the timeline of a human life."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "What is the final message of the poem regarding death?",
+      "answer": "The poem presents death not as a tragic event but as a natural 'exit'. The final stage, 'mere oblivion', suggests a fading away of consciousness. By listing the loss of senses ('sans everything'), the poem implies that death is the final release from the decay of old age. It treats death as the inevitable conclusion to the play of life."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Play_Do_Learn.07",
+    "standard": "2",
+    "subject": "Play_Do_Learn",
+    "medium": "English",
+    "chapter_name": "Craft Based Activities"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the first craft activity shown in this chapter?",
+      "options": [
+        { "option_id": 1, "text": "Paper boat", "is_correct": false },
+        { "option_id": 2, "text": "Simple Rakhi", "is_correct": true },
+        { "option_id": 3, "text": "Clay modelling", "is_correct": false },
+        { "option_id": 4, "text": "Paper flower", "is_correct": false }
+      ],
+      "answer": "Simple Rakhi"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which material is used to make a simple rakhi?",
+      "options": [
+        { "option_id": 1, "text": "Wood", "is_correct": false },
+        { "option_id": 2, "text": "Cardsheet paper", "is_correct": true },
+        { "option_id": 3, "text": "Metal", "is_correct": false },
+        { "option_id": 4, "text": "Glass", "is_correct": false }
+      ],
+      "answer": "Cardsheet paper"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which item is used to tie the rakhi?",
+      "options": [
+        { "option_id": 1, "text": "Thread or ribbon", "is_correct": true },
+        { "option_id": 2, "text": "Wire", "is_correct": false },
+        { "option_id": 3, "text": "Plastic strip", "is_correct": false },
+        { "option_id": 4, "text": "Chain", "is_correct": false }
+      ],
+      "answer": "Thread or ribbon"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why are decorative materials used in craft work?",
+      "options": [
+        { "option_id": 1, "text": "To make it attractive", "is_correct": true },
+        { "option_id": 2, "text": "To make it heavy", "is_correct": false },
+        { "option_id": 3, "text": "To waste material", "is_correct": false },
+        { "option_id": 4, "text": "To make it dirty", "is_correct": false }
+      ],
+      "answer": "To make it attractive"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What should children learn while doing craft activities?",
+      "options": [
+        { "option_id": 1, "text": "Creativity", "is_correct": true },
+        { "option_id": 2, "text": "Laziness", "is_correct": false },
+        { "option_id": 3, "text": "Carelessness", "is_correct": false },
+        { "option_id": 4, "text": "Fighting", "is_correct": false }
+      ],
+      "answer": "Creativity"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which material is reused to make models in this chapter?",
+      "options": [
+        { "option_id": 1, "text": "Glass bottles", "is_correct": false },
+        { "option_id": 2, "text": "Empty match boxes", "is_correct": true },
+        { "option_id": 3, "text": "Metal cans", "is_correct": false },
+        { "option_id": 4, "text": "Plastic bags", "is_correct": false }
+      ],
+      "answer": "Empty match boxes"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which item is used to join parts in craft work?",
+      "options": [
+        { "option_id": 1, "text": "Glue", "is_correct": true },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "Oil", "is_correct": false },
+        { "option_id": 4, "text": "Sand", "is_correct": false }
+      ],
+      "answer": "Glue"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What can be made from empty match boxes?",
+      "options": [
+        { "option_id": 1, "text": "A creative model", "is_correct": true },
+        { "option_id": 2, "text": "Food item", "is_correct": false },
+        { "option_id": 3, "text": "Clothes", "is_correct": false },
+        { "option_id": 4, "text": "Shoes", "is_correct": false }
+      ],
+      "answer": "A creative model"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which skill improves through craft activities?",
+      "options": [
+        { "option_id": 1, "text": "Fine motor skills", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping skills", "is_correct": false },
+        { "option_id": 3, "text": "Running skills", "is_correct": false },
+        { "option_id": 4, "text": "Shouting skills", "is_correct": false }
+      ],
+      "answer": "Fine motor skills"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why should waste materials be reused?",
+      "options": [
+        { "option_id": 1, "text": "To reduce waste", "is_correct": true },
+        { "option_id": 2, "text": "To increase garbage", "is_correct": false },
+        { "option_id": 3, "text": "To make noise", "is_correct": false },
+        { "option_id": 4, "text": "To waste time", "is_correct": false }
+      ],
+      "answer": "To reduce waste"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which tool should be used carefully during craft work?",
+      "options": [
+        { "option_id": 1, "text": "Scissors", "is_correct": true },
+        { "option_id": 2, "text": "Paper", "is_correct": false },
+        { "option_id": 3, "text": "Ribbon", "is_correct": false },
+        { "option_id": 4, "text": "Card sheet", "is_correct": false }
+      ],
+      "answer": "Scissors"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What should children do after finishing craft work?",
+      "options": [
+        { "option_id": 1, "text": "Clean the place", "is_correct": true },
+        { "option_id": 2, "text": "Throw things around", "is_correct": false },
+        { "option_id": 3, "text": "Leave the room", "is_correct": false },
+        { "option_id": 4, "text": "Hide materials", "is_correct": false }
+      ],
+      "answer": "Clean the place"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which value is learnt through craft activities?",
+      "options": [
+        { "option_id": 1, "text": "Patience", "is_correct": true },
+        { "option_id": 2, "text": "Anger", "is_correct": false },
+        { "option_id": 3, "text": "Fear", "is_correct": false },
+        { "option_id": 4, "text": "Carelessness", "is_correct": false }
+      ],
+      "answer": "Patience"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What kind of activity is making a rakhi?",
+      "options": [
+        { "option_id": 1, "text": "Craft activity", "is_correct": true },
+        { "option_id": 2, "text": "Sports activity", "is_correct": false },
+        { "option_id": 3, "text": "Reading activity", "is_correct": false },
+        { "option_id": 4, "text": "Singing activity", "is_correct": false }
+      ],
+      "answer": "Craft activity"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which festival is related to Rakhi?",
+      "options": [
+        { "option_id": 1, "text": "Raksha Bandhan", "is_correct": true },
+        { "option_id": 2, "text": "Diwali", "is_correct": false },
+        { "option_id": 3, "text": "Holi", "is_correct": false },
+        { "option_id": 4, "text": "Christmas", "is_correct": false }
+      ],
+      "answer": "Raksha Bandhan"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a simple rakhi?",
+      "answer": "A simple rakhi is a handmade thread made using easy materials."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name two materials used to make a rakhi.",
+      "answer": "Cardsheet paper and ribbon."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why are craft activities important?",
+      "answer": "They develop creativity and skills."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What can be made from empty match boxes?",
+      "answer": "A creative model."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which material is used to stick parts together?",
+      "answer": "Glue."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What skill improves by cutting and pasting?",
+      "answer": "Fine motor skills."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why should waste materials be reused?",
+      "answer": "To save resources and reduce waste."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What should children be careful about during craft work?",
+      "answer": "Using scissors safely."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What value do children learn from craft activities?",
+      "answer": "Patience."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What should be done after finishing craft work?",
+      "answer": "The place should be cleaned."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which festival is related to rakhi?",
+      "answer": "Raksha Bandhan."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What type of activity is model making?",
+      "answer": "Craft activity."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one reused material in this chapter.",
+      "answer": "Empty match box."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why should children do craft work?",
+      "answer": "To improve creativity and skills."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What do craft activities teach children?",
+      "answer": "Creativity, patience, and cleanliness."
+    }
+  ]
+}

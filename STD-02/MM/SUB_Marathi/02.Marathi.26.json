@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.25",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "फुग्या रे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणाशी बोलले आहे?",
+      "options": [
+        { "option_id": 1, "text": "चंद्राशी", "is_correct": false },
+        { "option_id": 2, "text": "फुग्याशी", "is_correct": true },
+        { "option_id": 3, "text": "ढगांशी", "is_correct": false },
+        { "option_id": 4, "text": "वाऱ्याशी", "is_correct": false }
+      ],
+      "answer": "फुग्याशी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "फुग्याला कोणत्या दिशेला उंच जायलाचं विचारलं आहे?",
+      "options": [
+        { "option_id": 1, "text": "समुद्रात", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीखाली", "is_correct": false },
+        { "option_id": 3, "text": "आभाळात उंच", "is_correct": true },
+        { "option_id": 4, "text": "जंगलात", "is_correct": false }
+      ],
+      "answer": "आभाळात उंच"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "फुग्याला कोणाशी गोष्टी करण्यास सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "पक्ष्यांशी", "is_correct": true },
+        { "option_id": 2, "text": "माशांशी", "is_correct": false },
+        { "option_id": 3, "text": "फुलांशी", "is_correct": false },
+        { "option_id": 4, "text": "मुलांशी", "is_correct": false }
+      ],
+      "answer": "पक्ष्यांशी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "फुग्याला ताऱ्यांशी काय करायला सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "धावणे", "is_correct": false },
+        { "option_id": 2, "text": "खो-खो खेळणे", "is_correct": true },
+        { "option_id": 3, "text": "गाणे म्हणणे", "is_correct": false },
+        { "option_id": 4, "text": "झोका घेणे", "is_correct": false }
+      ],
+      "answer": "खो-खो खेळणे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवितेत फुग्याला कोणाशी झुंज घ्यायला सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "ढगांशी", "is_correct": false },
+        { "option_id": 2, "text": "वाऱ्याशी", "is_correct": true },
+        { "option_id": 3, "text": "झाडांशी", "is_correct": false },
+        { "option_id": 4, "text": "नद्यांशी", "is_correct": false }
+      ],
+      "answer": "वाऱ्याशी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "फुग्याने उंच वर गेल्यास तो कुठे मुक्काम मारेल असे म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "ढगांच्या घरी", "is_correct": false },
+        { "option_id": 2, "text": "चंद्राच्या घरी", "is_correct": true },
+        { "option_id": 3, "text": "ताऱ्यांच्या घरी", "is_correct": false },
+        { "option_id": 4, "text": "सूर्याच्या घरी", "is_correct": false }
+      ],
+      "answer": "चंद्राच्या घरी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "फुग्याला कोणती तार जोडायला सांगितली आहे?",
+      "options": [
+        { "option_id": 1, "text": "वीज तार", "is_correct": false },
+        { "option_id": 2, "text": "बसची तार", "is_correct": false },
+        { "option_id": 3, "text": "टेलिफोनची तार", "is_correct": true },
+        { "option_id": 4, "text": "दोऱ्याची तार", "is_correct": false }
+      ],
+      "answer": "टेलिफोनची तार"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "फुग्याला वर जाताना काय होईल अशी शक्यता व्यक्त केली आहे?",
+      "options": [
+        { "option_id": 1, "text": "तो गोठेल", "is_correct": false },
+        { "option_id": 2, "text": "तो फुटेल", "is_correct": true },
+        { "option_id": 3, "text": "तो रंग बदलेल", "is_correct": false },
+        { "option_id": 4, "text": "तो पाण्यात जाईल", "is_correct": false }
+      ],
+      "answer": "तो फुटेल"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणती खेळाची गोष्ट उल्लेखली आहे?",
+      "options": [
+        { "option_id": 1, "text": "लगोरी", "is_correct": false },
+        { "option_id": 2, "text": "खो-खो", "is_correct": true },
+        { "option_id": 3, "text": "बेडमिंटन", "is_correct": false },
+        { "option_id": 4, "text": "कबड्डी", "is_correct": false }
+      ],
+      "answer": "खो-खो"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ढगांना फुग्याने काय करणार असे विचारले आहे?",
+      "options": [
+        { "option_id": 1, "text": "धावणार का?", "is_correct": false },
+        { "option_id": 2, "text": "पार करणार का?", "is_correct": true },
+        { "option_id": 3, "text": "लपणार का?", "is_correct": false },
+        { "option_id": 4, "text": "खेळणार का?", "is_correct": false }
+      ],
+      "answer": "पार करणार का?"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "रोज रात्री फुग्याने कुठे जायचे असे म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "शाळेत", "is_correct": false },
+        { "option_id": 2, "text": "चंद्राच्या घरी", "is_correct": true },
+        { "option_id": 3, "text": "जंगलात", "is_correct": false },
+        { "option_id": 4, "text": "समुद्रावर", "is_correct": false }
+      ],
+      "answer": "चंद्राच्या घरी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवी फुग्याशी कसा संवाद साधतो?",
+      "options": [
+        { "option_id": 1, "text": "आदेश देऊन", "is_correct": false },
+        { "option_id": 2, "text": "प्रश्न विचारून", "is_correct": true },
+        { "option_id": 3, "text": "रागावून", "is_correct": false },
+        { "option_id": 4, "text": "गप्प बसून", "is_correct": false }
+      ],
+      "answer": "प्रश्न विचारून"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "फुग्याला आकाशात कोणाशी भेट होईल असे सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "पक्षी आणि तारे", "is_correct": true },
+        { "option_id": 2, "text": "झाडे आणि फुले", "is_correct": false },
+        { "option_id": 3, "text": "प्राणी", "is_correct": false },
+        { "option_id": 4, "text": "मुले", "is_correct": false }
+      ],
+      "answer": "पक्षी आणि तारे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "फुगा वर जाईल की मध्येच ‘फट्’ म्हणेल — यात काय दाखवले आहे?",
+      "options": [
+        { "option_id": 1, "text": "आनंद", "is_correct": false },
+        { "option_id": 2, "text": "कुतूहल", "is_correct": true },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "कुतूहल"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य भाव काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "स्वप्नाळू कल्पना आणि आनंद", "is_correct": true },
+        { "option_id": 2, "text": "भीती", "is_correct": false },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "दुःख", "is_correct": false }
+      ],
+      "answer": "स्वप्नाळू कल्पना आणि आनंद"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "फुग्याला आभाळी किती उंच जाशील असे का विचारले आहे?",
+      "answer": "कारण फुगा आकाशात उंच जातो आणि त्याची उंचीबद्दल कुतूहल वाटते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "फुग्याला पक्ष्यांशी काय करायला सांगितले आहे?",
+      "answer": "फुग्याला पक्ष्यांशी गोष्टी करायला सांगितले आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "फुग्याला वाऱ्याशी काय करायला सांगितले आहे?",
+      "answer": "फुग्याला वाऱ्याशी झुंज घ्यायला सांगितले आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "फुग्याला ताऱ्यांशी कोणता खेळ खेळायला सांगितला आहे?",
+      "answer": "ताऱ्यांशी खो-खो खेळायला सांगितले आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "फुग्याने चंद्राच्या घरी गेल्यावर काय करणार असे म्हटले आहे?",
+      "answer": "तो रोज रात्री गप्पांचा वार करणार असे म्हटले आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "फुग्याला ‘टेलिफोनची तार’ का जोडायला सांगितले?",
+      "answer": "त्याच्याशी बोलता यावे म्हणून टेलिफोनची तार जोडायला सांगितले."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "‘फट् म्हणणार’ या ओळीचा अर्थ काय?",
+      "answer": "फुगा फुटण्याची शक्यता दर्शवली आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवीने कवितेत कोणत्या गोष्टींची कल्पना केली आहे?",
+      "answer": "आकाश, ढग, चंद्र, तारे आणि फुग्याचा प्रवास यांची."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "फुग्याशी संवाद कसा साधला आहे?",
+      "answer": "प्रश्न विचारून आणि कल्पनाशक्तीच्या माध्यमातून."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ही कविता तुला कशी वाटली?",
+      "answer": "मजेदार, कल्पनारम्य आणि आनंददायक वाटली."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तुला फुग्यासोबत कुठे जायला आवडेल?",
+      "answer": "मला फुग्यासोबत आकाशात आणि ढगांजवळ जायला आवडेल."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवितेतील दोन प्रश्नार्थक ओळी लिहा.",
+      "answer": "फुग्या फुग्या, फुगशील किती? आभाळी उंच जाशील किती?"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कवितेत दाखवलेली कल्पनाशक्ती कशी आहे?",
+      "answer": "स्वप्नाळू, उत्साही आणि खेळकर स्वरूपाची आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कवितेतून काय शिकायला मिळते?",
+      "answer": "कल्पनाशक्ती वापरून जगाची मजा अनुभवायला शिकतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "तुला वाटते का फुगा वर जाईल की फुटेल? कारण लिहा.",
+      "answer": "तो वर जाईल असे वाटते, कारण तो हलका आणि आकाशात उडणारा आहे."
+    }
+  ]
+}

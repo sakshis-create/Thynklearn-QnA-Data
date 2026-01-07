@@ -1,0 +1,1061 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.08",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Cell Biology and Biotechnology"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which research institute in Pune is dedicated to research on cells?",
+      "options": [
+        { "option_id": 1, "text": "Indian Institute of Science", "is_correct": false },
+        { "option_id": 2, "text": "National Center for Cell Science", "is_correct": true },
+        { "option_id": 3, "text": "National Chemical Laboratory", "is_correct": false },
+        { "option_id": 4, "text": "Bhabha Atomic Research Centre", "is_correct": false }
+      ],
+      "answer": "National Center for Cell Science"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "At which temperature are stem cells preserved in sterile vials?",
+      "options": [
+        { "option_id": 1, "text": "-50°C to -100°C", "is_correct": false },
+        { "option_id": 2, "text": "-135°C to -190°C", "is_correct": true },
+        { "option_id": 3, "text": "0°C to -20°C", "is_correct": false },
+        { "option_id": 4, "text": "-10°C to -40°C", "is_correct": false }
+      ],
+      "answer": "-135°C to -190°C"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Stem cells are considered as __________ cells of the body.",
+      "options": [
+        { "option_id": 1, "text": "Parent", "is_correct": true },
+        { "option_id": 2, "text": "Daughter", "is_correct": false },
+        { "option_id": 3, "text": "Dead", "is_correct": false },
+        { "option_id": 4, "text": "Specialized", "is_correct": false }
+      ],
+      "answer": "Parent"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How many different types of cells can be formed from stem cells?",
+      "options": [
+        { "option_id": 1, "text": "100", "is_correct": false },
+        { "option_id": 2, "text": "220", "is_correct": true },
+        { "option_id": 3, "text": "50", "is_correct": false },
+        { "option_id": 4, "text": "350", "is_correct": false }
+      ],
+      "answer": "220"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Differentiation of stem cells generally starts from which day of conception?",
+      "options": [
+        { "option_id": 1, "text": "7th day", "is_correct": false },
+        { "option_id": 2, "text": "14th day", "is_correct": true },
+        { "option_id": 3, "text": "21st day", "is_correct": false },
+        { "option_id": 4, "text": "1st day", "is_correct": false }
+      ],
+      "answer": "14th day"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which of the following is a source of adult stem cells?",
+      "options": [
+        { "option_id": 1, "text": "Red bone marrow", "is_correct": true },
+        { "option_id": 2, "text": "Liver", "is_correct": false },
+        { "option_id": 3, "text": "Kidney", "is_correct": false },
+        { "option_id": 4, "text": "Brain", "is_correct": false }
+      ],
+      "answer": "Red bone marrow"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the property of stem cells called where they can produce all types of cells?",
+      "options": [
+        { "option_id": 1, "text": "Multipotency", "is_correct": false },
+        { "option_id": 2, "text": "Pluripotency", "is_correct": true },
+        { "option_id": 3, "text": "Unipotency", "is_correct": false },
+        { "option_id": 4, "text": "Totipotency", "is_correct": false }
+      ],
+      "answer": "Pluripotency"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which bacterium is used in Bt cotton?",
+      "options": [
+        { "option_id": 1, "text": "Escherichia coli", "is_correct": false },
+        { "option_id": 2, "text": "Bacillus thuringiensis", "is_correct": true },
+        { "option_id": 3, "text": "Lactobacillus", "is_correct": false },
+        { "option_id": 4, "text": "Rhizobium", "is_correct": false }
+      ],
+      "answer": "Bacillus thuringiensis"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Golden Rice is genetically modified to synthesize which vitamin?",
+      "options": [
+        { "option_id": 1, "text": "Vitamin C", "is_correct": false },
+        { "option_id": 2, "text": "Vitamin A", "is_correct": true },
+        { "option_id": 3, "text": "Vitamin D", "is_correct": false },
+        { "option_id": 4, "text": "Vitamin B", "is_correct": false }
+      ],
+      "answer": "Vitamin A"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which protein is produced by biotechnology for the treatment of Diabetes?",
+      "options": [
+        { "option_id": 1, "text": "Interferon", "is_correct": false },
+        { "option_id": 2, "text": "Insulin", "is_correct": true },
+        { "option_id": 3, "text": "Somatostatin", "is_correct": false },
+        { "option_id": 4, "text": "Interleukin", "is_correct": false }
+      ],
+      "answer": "Insulin"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Interferon is used for the treatment of which type of disease?",
+      "options": [
+        { "option_id": 1, "text": "Bacterial infection", "is_correct": false },
+        { "option_id": 2, "text": "Viral infection", "is_correct": true },
+        { "option_id": 3, "text": "Fungal infection", "is_correct": false },
+        { "option_id": 4, "text": "Genetic disorder", "is_correct": false }
+      ],
+      "answer": "Viral infection"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Edible vaccines are being produced using which vegetable?",
+      "options": [
+        { "option_id": 1, "text": "Tomato", "is_correct": false },
+        { "option_id": 2, "text": "Potatoes", "is_correct": true },
+        { "option_id": 3, "text": "Spinach", "is_correct": false },
+        { "option_id": 4, "text": "Carrot", "is_correct": false }
+      ],
+      "answer": "Potatoes"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which genetic disorder is treated using gene therapy as mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Down Syndrome", "is_correct": false },
+        { "option_id": 2, "text": "Phenylketonuria (PKT)", "is_correct": true },
+        { "option_id": 3, "text": "Hemophilia", "is_correct": false },
+        { "option_id": 4, "text": "Color blindness", "is_correct": false }
+      ],
+      "answer": "Phenylketonuria (PKT)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The sheep 'Dolly' was born using which technique?",
+      "options": [
+        { "option_id": 1, "text": "IVF", "is_correct": false },
+        { "option_id": 2, "text": "Reproductive Cloning", "is_correct": true },
+        { "option_id": 3, "text": "Gene Therapy", "is_correct": false },
+        { "option_id": 4, "text": "Hybridization", "is_correct": false }
+      ],
+      "answer": "Reproductive Cloning"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which bacteria are used to clean oil spills in oceans?",
+      "options": [
+        { "option_id": 1, "text": "Pseudomonas", "is_correct": true },
+        { "option_id": 2, "text": "Rhizobium", "is_correct": false },
+        { "option_id": 3, "text": "E. coli", "is_correct": false },
+        { "option_id": 4, "text": "Bacillus", "is_correct": false }
+      ],
+      "answer": "Pseudomonas"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which plant is used for the absorption of Arsenic from soil?",
+      "options": [
+        { "option_id": 1, "text": "Sunflower", "is_correct": false },
+        { "option_id": 2, "text": "Pteris vittata", "is_correct": true },
+        { "option_id": 3, "text": "Mustard", "is_correct": false },
+        { "option_id": 4, "text": "Alfalfa", "is_correct": false }
+      ],
+      "answer": "Pteris vittata"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Indian mustard is used to absorb which element from soil?",
+      "options": [
+        { "option_id": 1, "text": "Uranium", "is_correct": false },
+        { "option_id": 2, "text": "Selenium", "is_correct": true },
+        { "option_id": 3, "text": "Arsenic", "is_correct": false },
+        { "option_id": 4, "text": "Zinc", "is_correct": false }
+      ],
+      "answer": "Selenium"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who is considered the father of the Green Revolution in India?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Norman Borlaug", "is_correct": false },
+        { "option_id": 2, "text": "Dr. M. S. Swaminathan", "is_correct": true },
+        { "option_id": 3, "text": "Dr. Verghese Kurien", "is_correct": false },
+        { "option_id": 4, "text": "Dr. Homi Bhabha", "is_correct": false }
+      ],
+      "answer": "Dr. M. S. Swaminathan"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "White Revolution is associated with the production of __________.",
+      "options": [
+        { "option_id": 1, "text": "Fish", "is_correct": false },
+        { "option_id": 2, "text": "Milk", "is_correct": true },
+        { "option_id": 3, "text": "Crops", "is_correct": false },
+        { "option_id": 4, "text": "Meat", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who is known as the architect of the White Revolution in India?",
+      "options": [
+        { "option_id": 1, "text": "Dr. Norman Borlaug", "is_correct": false },
+        { "option_id": 2, "text": "Dr. Verghese Kurien", "is_correct": true },
+        { "option_id": 3, "text": "Dr. Swaminathan", "is_correct": false },
+        { "option_id": 4, "text": "Dr. Kalam", "is_correct": false }
+      ],
+      "answer": "Dr. Verghese Kurien"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Blue Revolution relates to the production of __________.",
+      "options": [
+        { "option_id": 1, "text": "Milk", "is_correct": false },
+        { "option_id": 2, "text": "Aquatic organisms", "is_correct": true },
+        { "option_id": 3, "text": "Cotton", "is_correct": false },
+        { "option_id": 4, "text": "Pulses", "is_correct": false }
+      ],
+      "answer": "Aquatic organisms"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a bio-fertilizer?",
+      "options": [
+        { "option_id": 1, "text": "Rhizobium", "is_correct": false },
+        { "option_id": 2, "text": "Azotobacter", "is_correct": false },
+        { "option_id": 3, "text": "Nostoc", "is_correct": false },
+        { "option_id": 4, "text": "Urea", "is_correct": true }
+      ],
+      "answer": "Urea"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which microbe is highly radiation resistant?",
+      "options": [
+        { "option_id": 1, "text": "E. coli", "is_correct": false },
+        { "option_id": 2, "text": "Deinococcus radiodurans", "is_correct": true },
+        { "option_id": 3, "text": "Pseudomonas", "is_correct": false },
+        { "option_id": 4, "text": "Bacillus", "is_correct": false }
+      ],
+      "answer": "Deinococcus radiodurans"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Factor VIII is used for the treatment of __________.",
+      "options": [
+        { "option_id": 1, "text": "Hemophilia", "is_correct": true },
+        { "option_id": 2, "text": "Diabetes", "is_correct": false },
+        { "option_id": 3, "text": "Cancer", "is_correct": false },
+        { "option_id": 4, "text": "Dwarfism", "is_correct": false }
+      ],
+      "answer": "Hemophilia"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which protein is used for the treatment of Anemia?",
+      "options": [
+        { "option_id": 1, "text": "Insulin", "is_correct": false },
+        { "option_id": 2, "text": "Erythropoietin", "is_correct": true },
+        { "option_id": 3, "text": "Interleukin", "is_correct": false },
+        { "option_id": 4, "text": "Somatostatin", "is_correct": false }
+      ],
+      "answer": "Erythropoietin"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Interleukin is used for the treatment of __________.",
+      "options": [
+        { "option_id": 1, "text": "Diabetes", "is_correct": false },
+        { "option_id": 2, "text": "Cancer", "is_correct": true },
+        { "option_id": 3, "text": "Hemophilia", "is_correct": false },
+        { "option_id": 4, "text": "Viral infection", "is_correct": false }
+      ],
+      "answer": "Cancer"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Somatostatin is used to treat __________.",
+      "options": [
+        { "option_id": 1, "text": "Dwarfism", "is_correct": true },
+        { "option_id": 2, "text": "Diabetes", "is_correct": false },
+        { "option_id": 3, "text": "Cancer", "is_correct": false },
+        { "option_id": 4, "text": "Anemia", "is_correct": false }
+      ],
+      "answer": "Dwarfism"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The Center for DNA Fingerprinting and Diagnostics is located in __________.",
+      "options": [
+        { "option_id": 1, "text": "Pune", "is_correct": false },
+        { "option_id": 2, "text": "Hyderabad", "is_correct": true },
+        { "option_id": 3, "text": "Delhi", "is_correct": false },
+        { "option_id": 4, "text": "Bangalore", "is_correct": false }
+      ],
+      "answer": "Hyderabad"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Apiculture involves the rearing of __________.",
+      "options": [
+        { "option_id": 1, "text": "Silkworms", "is_correct": false },
+        { "option_id": 2, "text": "Honey bees", "is_correct": true },
+        { "option_id": 3, "text": "Fish", "is_correct": false },
+        { "option_id": 4, "text": "Cattle", "is_correct": false }
+      ],
+      "answer": "Honey bees"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Use of __________ reduces the requirement of chemical fertilizers.",
+      "options": [
+        { "option_id": 1, "text": "Insecticides", "is_correct": false },
+        { "option_id": 2, "text": "Bio-fertilizers", "is_correct": true },
+        { "option_id": 3, "text": "Herbicides", "is_correct": false },
+        { "option_id": 4, "text": "Pesticides", "is_correct": false }
+      ],
+      "answer": "Bio-fertilizers"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Transgenic potatoes act as a vaccine against __________.",
+      "options": [
+        { "option_id": 1, "text": "Cholera", "is_correct": true },
+        { "option_id": 2, "text": "Malaria", "is_correct": false },
+        { "option_id": 3, "text": "Dengue", "is_correct": false },
+        { "option_id": 4, "text": "Tuberculosis", "is_correct": false }
+      ],
+      "answer": "Cholera"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which of these is a fresh water fish used in aquaculture?",
+      "options": [
+        { "option_id": 1, "text": "Shrimp", "is_correct": false },
+        { "option_id": 2, "text": "Rohu", "is_correct": true },
+        { "option_id": 3, "text": "Lobster", "is_correct": false },
+        { "option_id": 4, "text": "Pomfret", "is_correct": false }
+      ],
+      "answer": "Rohu"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Sunflowers can be used to absorb __________ from soil.",
+      "options": [
+        { "option_id": 1, "text": "Uranium and Arsenic", "is_correct": true },
+        { "option_id": 2, "text": "Selenium", "is_correct": false },
+        { "option_id": 3, "text": "Iron", "is_correct": false },
+        { "option_id": 4, "text": "Calcium", "is_correct": false }
+      ],
+      "answer": "Uranium and Arsenic"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the science of cell structure and organelles called?",
+      "options": [
+        { "option_id": 1, "text": "Histology", "is_correct": false },
+        { "option_id": 2, "text": "Cytology", "is_correct": true },
+        { "option_id": 3, "text": "Physiology", "is_correct": false },
+        { "option_id": 4, "text": "Anatomy", "is_correct": false }
+      ],
+      "answer": "Cytology"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Genetically modified crops are produced by introducing __________.",
+      "options": [
+        { "option_id": 1, "text": "Proteins", "is_correct": false },
+        { "option_id": 2, "text": "Foreign Gene", "is_correct": true },
+        { "option_id": 3, "text": "Hormones", "is_correct": false },
+        { "option_id": 4, "text": "Vitamins", "is_correct": false }
+      ],
+      "answer": "Foreign Gene"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Alcohol production involves the use of __________.",
+      "options": [
+        { "option_id": 1, "text": "Algae", "is_correct": false },
+        { "option_id": 2, "text": "Yeast", "is_correct": true },
+        { "option_id": 3, "text": "Protozoa", "is_correct": false },
+        { "option_id": 4, "text": "Virus", "is_correct": false }
+      ],
+      "answer": "Yeast"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The Government of India launched the 'Nil Kranti Mission' in which year?",
+      "options": [
+        { "option_id": 1, "text": "2010", "is_correct": false },
+        { "option_id": 2, "text": "2016", "is_correct": true },
+        { "option_id": 3, "text": "2020", "is_correct": false },
+        { "option_id": 4, "text": "2005", "is_correct": false }
+      ],
+      "answer": "2016"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Using which technique can we identify the biological father of a child?",
+      "options": [
+        { "option_id": 1, "text": "DNA fingerprinting", "is_correct": true },
+        { "option_id": 2, "text": "X-ray", "is_correct": false },
+        { "option_id": 3, "text": "Blood group test", "is_correct": false },
+        { "option_id": 4, "text": "Urinalysis", "is_correct": false }
+      ],
+      "answer": "DNA fingerprinting"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a benefit of biotechnology in agriculture?",
+      "options": [
+        { "option_id": 1, "text": "Increased per hectare yield", "is_correct": false },
+        { "option_id": 2, "text": "Reduced expense on disease control", "is_correct": false },
+        { "option_id": 3, "text": "Increase in soil salinity", "is_correct": true },
+        { "option_id": 4, "text": "Fruit setting at favorable time", "is_correct": false }
+      ],
+      "answer": "Increase in soil salinity"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The substance produced by *E. coli* for the treatment of viral infection is __________.",
+      "options": [
+        { "option_id": 1, "text": "Insulin", "is_correct": false },
+        { "option_id": 2, "text": "Interferon", "is_correct": true },
+        { "option_id": 3, "text": "Antibiotics", "is_correct": false },
+        { "option_id": 4, "text": "Vaccine", "is_correct": false }
+      ],
+      "answer": "Interferon"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which microorganism is used in the breakdown of oil spills?",
+      "options": [
+        { "option_id": 1, "text": "Alcanivorax borkumensis", "is_correct": true },
+        { "option_id": 2, "text": "Saccharomyces cerevisiae", "is_correct": false },
+        { "option_id": 3, "text": "Lactobacillus", "is_correct": false },
+        { "option_id": 4, "text": "Rhizobium", "is_correct": false }
+      ],
+      "answer": "Alcanivorax borkumensis"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What is the primary benefit of Herbicide Tolerant Plants?",
+      "options": [
+        { "option_id": 1, "text": "They grow faster", "is_correct": false },
+        { "option_id": 2, "text": "They kill insects", "is_correct": false },
+        { "option_id": 3, "text": "They allow selective destruction of weeds", "is_correct": true },
+        { "option_id": 4, "text": "They need less water", "is_correct": false }
+      ],
+      "answer": "They allow selective destruction of weeds"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which country is the largest producer of milk in the world?",
+      "options": [
+        { "option_id": 1, "text": "USA", "is_correct": false },
+        { "option_id": 2, "text": "India", "is_correct": true },
+        { "option_id": 3, "text": "China", "is_correct": false },
+        { "option_id": 4, "text": "Denmark", "is_correct": false }
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What is 'Amul' associated with?",
+      "options": [
+        { "option_id": 1, "text": "Green Revolution", "is_correct": false },
+        { "option_id": 2, "text": "White Revolution", "is_correct": true },
+        { "option_id": 3, "text": "Blue Revolution", "is_correct": false },
+        { "option_id": 4, "text": "Industrial Revolution", "is_correct": false }
+      ],
+      "answer": "White Revolution"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "The toxin produced by the gene of *Bacillus thuringiensis* destroys which part of the pest?",
+      "options": [
+        { "option_id": 1, "text": "Brain", "is_correct": false },
+        { "option_id": 2, "text": "Alimentary canal", "is_correct": true },
+        { "option_id": 3, "text": "Wings", "is_correct": false },
+        { "option_id": 4, "text": "Legs", "is_correct": false }
+      ],
+      "answer": "Alimentary canal"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Organ transplantation requires matching of which factor?",
+      "options": [
+        { "option_id": 1, "text": "Height", "is_correct": false },
+        { "option_id": 2, "text": "Blood group and Tissue type", "is_correct": true },
+        { "option_id": 3, "text": "Hair color", "is_correct": false },
+        { "option_id": 4, "text": "Weight", "is_correct": false }
+      ],
+      "answer": "Blood group and Tissue type"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which of the following is a result of Biotechnology in Food Processing?",
+      "options": [
+        { "option_id": 1, "text": "Steel", "is_correct": false },
+        { "option_id": 2, "text": "Yoghurt and Cheese", "is_correct": true },
+        { "option_id": 3, "text": "Cement", "is_correct": false },
+        { "option_id": 4, "text": "Plastic", "is_correct": false }
+      ],
+      "answer": "Yoghurt and Cheese"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the purpose of 'Green Corridor'?",
+      "options": [
+        { "option_id": 1, "text": "For VIP movement", "is_correct": false },
+        { "option_id": 2, "text": "For speedy transport of organs for transplant", "is_correct": true },
+        { "option_id": 3, "text": "For transporting hazardous waste", "is_correct": false },
+        { "option_id": 4, "text": "For agricultural transport", "is_correct": false }
+      ],
+      "answer": "For speedy transport of organs for transplant"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which organ can be donated by a living person?",
+      "options": [
+        { "option_id": 1, "text": "Heart", "is_correct": false },
+        { "option_id": 2, "text": "Kidney", "is_correct": true },
+        { "option_id": 3, "text": "Eyes", "is_correct": false },
+        { "option_id": 4, "text": "Brain", "is_correct": false }
+      ],
+      "answer": "Kidney"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the full form of GMO?",
+      "options": [
+        { "option_id": 1, "text": "General Medical Officer", "is_correct": false },
+        { "option_id": 2, "text": "Genetically Modified Organism", "is_correct": true },
+        { "option_id": 3, "text": "Green Mode Operation", "is_correct": false },
+        { "option_id": 4, "text": "Growth Monitoring Organization", "is_correct": false }
+      ],
+      "answer": "Genetically Modified Organism"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define Cytology.",
+      "answer": "Cytology, or Cell Biology, is the branch of biology that studies the structure, types, and organelles of cells, as well as cell division."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are Stem Cells?",
+      "answer": "Stem cells are special types of undifferentiated cells in multicellular organisms that have the ability to differentiate into various specialized cell types."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is stem cell differentiation?",
+      "answer": "Differentiation is the process by which stem cells transform into specialized cells like osteocytes (bone cells), hepatocytes (liver cells), and neurons."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is pluripotency?",
+      "answer": "Pluripotency is the property of stem cells to self-multiply and produce any of the 220 different types of cells in the body."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name two types of stem cells.",
+      "answer": "The two main types of stem cells are Embryonic stem cells and Adult stem cells."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Where are embryonic stem cells found?",
+      "answer": "Embryonic stem cells are found in the blastocyst stage of the developing embryo."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "List three sources of adult stem cells.",
+      "answer": "Adult stem cells can be obtained from red bone marrow, adipose connective tissue, and blood."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is Regenerative Therapy?",
+      "answer": "Regenerative therapy uses stem cells to replace dead or damaged cells in conditions like diabetes, heart attack, and Alzheimer's disease."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How are stem cells useful in organ transplantation?",
+      "answer": "Stem cells can be used to produce organs like kidney and liver in the laboratory for transplantation into patients."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Define Biotechnology.",
+      "answer": "Biotechnology is the application of biological organisms, systems, or processes to manufacture products intended to improve the quality of human life."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What branches of science are included in biotechnology?",
+      "answer": "Biotechnology includes branches like Cytology, Biochemistry, Molecular Biology, and Genetic Engineering."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What are Genetically Modified Crops (GM crops)?",
+      "answer": "GM crops are plants whose DNA has been modified using genetic engineering to introduce desirable traits."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is Bt Cotton?",
+      "answer": "Bt Cotton is a genetically modified cotton variety that contains a gene from the bacterium *Bacillus thuringiensis*, making it toxic to bollworms."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why is Golden Rice beneficial?",
+      "answer": "Golden Rice is genetically modified to produce Beta-carotene, a precursor of Vitamin A, helping to combat Vitamin A deficiency."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are Herbicide Tolerant Plants?",
+      "answer": "These are plants genetically modified to tolerate specific herbicides, allowing farmers to kill weeds without harming the crop."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Name two bio-fertilizers used in agriculture.",
+      "answer": "Two examples of bio-fertilizers are *Rhizobium* and *Azotobacter*."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What are the benefits of using bio-fertilizers?",
+      "answer": "Bio-fertilizers improve the nitrogen fixation and phosphate solubilization abilities of plants and reduce soil pollution caused by chemical fertilizers."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is Animal Husbandry?",
+      "answer": "Animal husbandry is the branch of agriculture concerned with animals that are raised for meat, fiber, milk, eggs, or other products."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Name two methods used to improve animal breeds.",
+      "answer": "Artificial Insemination and Embryo Transfer are two methods used to improve animal breeds."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How has biotechnology helped in the diagnosis of diseases?",
+      "answer": "Biotechnology allows for early diagnosis of diseases like diabetes and heart disease using specific genetic tests."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is a vaccine?",
+      "answer": "A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What are edible vaccines?",
+      "answer": "Edible vaccines are genetically modified foods, like potatoes, that produce specific antigens to trigger an immune response when consumed."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the advantage of thermostable vaccines?",
+      "answer": "Thermostable vaccines remain effective for longer periods without the need for strict refrigeration."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is Interferon?",
+      "answer": "Interferon is a group of small-sized proteins produced by blood cells that help the body fight viral infections."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is Gene Therapy?",
+      "answer": "Gene therapy is a technique that uses genes to treat or prevent disease, often by replacing a defective gene with a healthy one."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Give an example of a disease treated by gene therapy.",
+      "answer": "Phenylketonuria (PKU) is a genetic disorder that can be treated using somatic cell gene therapy."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Define Cloning.",
+      "answer": "Cloning is the process of producing genetically identical copies of a cell, tissue, or organism."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is Reproductive Cloning?",
+      "answer": "Reproductive cloning involves creating a whole new organism that is genetically identical to another, like Dolly the sheep."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is Therapeutic Cloning?",
+      "answer": "Therapeutic cloning involves creating stem cells for medical treatments to repair or replace damaged tissues."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is 'White Biotechnology'?",
+      "answer": "White biotechnology, or industrial biotechnology, uses biological processes for industrial purposes, such as producing enzymes and biofuels."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is Bioremediation?",
+      "answer": "Bioremediation is the use of microorganisms or plants to remove or neutralize pollutants from a contaminated site."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How is the bacterium *Pseudomonas* useful in bioremediation?",
+      "answer": "*Pseudomonas* bacteria are used to clean up oil spills in oceans by breaking down the hydrocarbons."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is Phyto-remediation?",
+      "answer": "Phyto-remediation is the use of plants to absorb and remove toxic substances from the soil or water."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Name a plant used for Phyto-remediation of arsenic.",
+      "answer": "The fern *Pteris vittata* is used to absorb arsenic from the soil."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the role of *Deinococcus radiodurans*?",
+      "answer": "It is used to absorb radiation from radioactive waste due to its high resistance to radiation."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is Food Biotechnology?",
+      "answer": "It involves using microorganisms like yeast and bacteria to produce food items like bread, cheese, yoghurt, and vinegar."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is DNA Fingerprinting?",
+      "answer": "DNA fingerprinting is a technique used to identify individuals based on their unique DNA sequence, useful in forensics and paternity tests."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Where is the Centre for DNA Fingerprinting and Diagnostics (CDFD) located?",
+      "answer": "It is located in Hyderabad, India."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What was the Green Revolution?",
+      "answer": "The Green Revolution was a period of significant increase in agricultural productivity resulting from the introduction of high-yielding varieties of seeds and modern farming techniques."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Who are the key figures of the Green Revolution?",
+      "answer": "Dr. Norman Borlaug (USA) and Dr. M. S. Swaminathan (India) are the key figures."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What was the White Revolution?",
+      "answer": "The White Revolution was a movement to increase milk production in India, led by Dr. Verghese Kurien."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the Blue Revolution?",
+      "answer": "The Blue Revolution refers to the significant growth and development of the aquaculture sector for producing aquatic organisms."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Name two marine fish cultivated in aquaculture.",
+      "answer": "Shrimp and Lobsters are examples of marine organisms cultivated."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is Organic Farming?",
+      "answer": "Organic farming is an agricultural method that avoids the use of synthetic fertilizers and pesticides, relying instead on natural alternatives."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What are the hazards of excessive chemical fertilizer use?",
+      "answer": "Excessive use leads to soil degradation, reduced fertility, and pollution of water bodies."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is Fruit Processing?",
+      "answer": "Fruit processing involves converting fruits into various products like juices, jams, and jellies to prevent perishing and allow year-round use."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is fruit processing necessary?",
+      "answer": "Fruits are perishable, so processing is necessary to preserve them for long-term storage and usage."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the 'Green Corridor'?",
+      "answer": "A Green Corridor is a special route created for the rapid transport of organs for transplantation to save lives."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Which organs can be donated after death?",
+      "answer": "Organs like the heart, liver, eyes, kidneys, pancreas, and skin can be donated after death."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the function of Insulin?",
+      "answer": "Insulin regulates blood glucose levels and is used to treat diabetes."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Explain the concept of Stem Cells and their importance.",
+      "answer": "Stem cells are undifferentiated cells that have the ability to differentiate into specialized cell types. They are pluripotent, meaning they can give rise to any cell in the body. Their importance lies in regenerative medicine, where they can be used to repair damaged tissues (e.g., after a heart attack), treat diseases like diabetes and Alzheimer's, and even grow organs for transplantation."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Describe the different types of Stem Cells.",
+      "answer": "There are two main types: 1. Embryonic Stem Cells: Derived from the blastocyst stage of the embryo (around 14 days). They are pluripotent and can form any cell type. 2. Adult Stem Cells: Found in developed tissues like red bone marrow, adipose tissue, and blood. They are multipotent and can differentiate into a limited range of cell types related to their tissue of origin."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "What is Biotechnology? List its main areas of application.",
+      "answer": "Biotechnology is the use of living systems and organisms to develop or make products. Its main areas include: 1. Crop Biotechnology (GM crops, hybrid seeds). 2. Animal Husbandry (artificial insemination). 3. Human Health (vaccines, gene therapy, diagnostics). 4. Industrial Products (alcohol, enzymes). 5. Environmental Biotechnology (bioremediation). 6. Food Biotechnology (fermentation products)."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Explain the role of Biotechnology in Agriculture.",
+      "answer": "Biotechnology has revolutionized agriculture through: 1. Genetically Modified Crops (GMOs) like Bt Cotton (pest resistance) and Golden Rice (Vitamin A). 2. Herbicide Tolerant Plants which allow easy weed control. 3. Bio-fertilizers like *Rhizobium* that enhance soil fertility naturally. 4. Hybrid seeds that improve yield and disease resistance."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Write a note on Bt Cotton and its advantages.",
+      "answer": "Bt Cotton is a genetically modified crop containing a gene from the soil bacterium *Bacillus thuringiensis*. This gene produces a toxin that is fatal to bollworms, a major pest of cotton. When the worm feeds on the plant, the toxin destroys its alimentary canal, killing it. The advantage is a significant reduction in the use of chemical pesticides and increased crop yield."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Discuss the application of Biotechnology in Human Health.",
+      "answer": "Biotechnology is crucial in health for: 1. Diagnosis: Genetic testing for early detection of diseases like diabetes. 2. Treatment: Production of hormones like Insulin and Somatotropin. 3. Vaccines: Development of safe, effective, and thermostable vaccines, including edible vaccines. 4. Gene Therapy: Treating genetic disorders like Phenylketonuria. 5. Cloning: Therapeutic cloning for tissues."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Explain the concept of Edible Vaccines.",
+      "answer": "Edible vaccines are a novel approach where plants are genetically modified to produce antigens of specific pathogens. For example, transgenic potatoes have been developed containing antigens for *Vibrio cholerae* and *E. coli*. When these raw potatoes are consumed, the body generates an immune response, providing immunity against the disease. This method is cost-effective and easy to administer."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "What is Cloning? Describe its types.",
+      "answer": "Cloning is the production of exact genetic copies of living entities. Types include: 1. Reproductive Cloning: Creating a full living organism (e.g., Dolly the sheep) by transferring a somatic cell nucleus into an enucleated egg cell. 2. Therapeutic Cloning: Generating stem cells to treat diseases or repair tissues. Cloning allows for the preservation of superior breeds and medical advancements."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Explain Bioremediation and give examples.",
+      "answer": "Bioremediation is the use of microorganisms or plants to detoxify polluted environments. Examples: 1. *Pseudomonas* bacteria degrade oil spills in oceans. 2. *Pteris vittata* ferns absorb arsenic from soil. 3. Sunflowers absorb uranium and arsenic. 4. *Deinococcus radiodurans* absorbs radiation. It is an eco-friendly method to clean up pollution."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Write a note on the Green Revolution in India.",
+      "answer": "The Green Revolution refers to the massive increase in crop production in India during the mid-20th century. Led by Dr. M. S. Swaminathan (with Dr. Norman Borlaug), it involved introducing high-yielding varieties of wheat and rice, improving irrigation, and using fertilizers/pesticides. It transformed India from a food-deficient nation to a self-sufficient one."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "Describe the White Revolution and its impact.",
+      "answer": "The White Revolution was a movement to make India self-dependent in milk production. Spearheaded by Dr. Verghese Kurien and the cooperative movement (Amul), it utilized biotechnology for cattle breed improvement and better dairy management. It made India the world's largest milk producer and improved the livelihoods of millions of rural farmers."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "What is Organic Farming? Why is it gaining popularity?",
+      "answer": "Organic farming avoids synthetic chemicals like fertilizers and pesticides, relying on natural manure, bio-fertilizers, and bio-pesticides. It is gaining popularity because excessive chemical use has degraded soil fertility and contaminated food/water. Organic farming is sustainable, eco-friendly, and produces healthier, residue-free food."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Explain the importance of Fruit Processing.",
+      "answer": "Fruits are highly perishable and seasonal. Processing allows them to be preserved for year-round consumption. Techniques like cold storage, drying, salting, and sugar preservation are used to make products like chocolates, juices, jams, and jellies. This reduces waste, adds value to the produce, and ensures availability."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "Discuss the ethical issues related to Biotechnology.",
+      "answer": "Biotechnology raises ethical concerns, particularly regarding genetic modification and cloning. Issues include the safety of GMOs for human consumption and the environment, the morality of animal cloning and potential human cloning, and the ownership of genetic resources (biopiracy). There are debates about 'playing God' and the long-term ecological consequences."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Describe the process of DNA Fingerprinting and its uses.",
+      "answer": "DNA Fingerprinting analyzes the unique patterns in an individual's DNA sequence. Since every person (except identical twins) has a unique DNA profile, this technique is used for identification. Key uses include: 1. Forensics: Identifying criminals from biological evidence (hair, blood). 2. Paternity/Maternity disputes: Confirming biological parents. The CDFD in Hyderabad is a key center for this."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "What are the benefits of using Bio-fertilizers over Chemical Fertilizers?",
+      "answer": "Bio-fertilizers, containing microbes like *Rhizobium* and *Azotobacter*, are eco-friendly. Unlike chemical fertilizers, they do not cause soil pollution or reduce fertility over time. They enhance the soil's natural nutrient content (Nitrogen fixation) and improve soil structure. They are also cost-effective and support sustainable agriculture."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "Explain the role of vaccines in disease prevention and how biotechnology has improved them.",
+      "answer": "Vaccines introduce antigens to stimulate the immune system to recognize and fight pathogens. Biotechnology has improved them by: 1. Producing specific antigens in labs (safer than using whole pathogens). 2. Creating thermostable vaccines (easier storage/transport). 3. Developing edible vaccines. This has led to the eradication of diseases like Polio and control of others like Hepatitis."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "Discuss the importance of Organ Donation.",
+      "answer": "Organ donation can save lives. Many patients die due to the failure of vital organs like the heart, liver, or kidneys. Donated organs from brain-dead or deceased individuals can be transplanted into these patients, giving them a second chance at life. Awareness about organ donation is crucial to bridge the gap between demand and supply."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "What is Apiculture and what are its products?",
+      "answer": "Apiculture is the scientific rearing of honey bees. It is a beneficial agricultural practice. The primary product is honey, a nutritious food and medicine. Bees wax is another valuable byproduct used in cosmetics and medicines. Additionally, bees act as pollinators, significantly increasing crop yields."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Explain the concept of Blue Revolution.",
+      "answer": "The Blue Revolution aims to increase the production of aquatic organisms (fish, shrimp, etc.) through aquaculture. Supported by government missions like 'Nil Kranti Mission 2016', it encourages rearing fresh water (Rohu, Catla) and marine (Prawns, Lobsters) species. It provides food security and economic opportunities in coastal and rural areas."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "What is the role of Interferon and other therapeutic proteins?",
+      "answer": "Biotechnology produces therapeutic proteins for specific diseases. Interferon treats viral infections. Insulin treats diabetes. Somatostatin treats dwarfism. Erythropoietin treats anemia. Factor VIII treats hemophilia. These proteins, produced by genetically modified bacteria, are more pure and safer than traditional animal-derived versions."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "How does Herbicide Tolerance in plants help farmers?",
+      "answer": "Weeds compete with crops for nutrients and water, reducing yield. Using broad-spectrum herbicides kills both weeds and crops. Herbicide-tolerant GM crops can withstand specific herbicides. This allows farmers to spray these herbicides to kill only the weeds without harming the crop, making weed management efficient and improving yield."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "Describe the development and potential of Stem Cell research.",
+      "answer": "Stem cell research has evolved from understanding cell division to manipulating cells for therapy. The discovery that stem cells are pluripotent/multipotent opened doors for regenerative medicine. The potential is immense: growing replacement organs, curing paralysis, treating genetic defects, and understanding development. However, it requires careful ethical regulation."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "Explain the Environmental Management through Biotechnology.",
+      "answer": "Biotechnology offers solutions to environmental problems: 1. Bioremediation: Using microbes to clean pollutants (e.g., oil spills). 2. Sewage Treatment: Using microbes to oxidize organic matter. 3. Bio-fuels: Producing cleaner fuels like ethanol and biodiesel. 4. Bioplastics: Creating biodegradable alternatives to plastic. It helps in sustainable development."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "What is the significance of the National Center for Cell Science (NCCS)?",
+      "answer": "Located in Pune, the NCCS is a premier research institute dedicated to cell biology. It conducts advanced research in cancer biology, stem cells, and immunology. It serves as a national repository for cell lines and supports biotechnology education and research in India."
+    }
+  ]
+}

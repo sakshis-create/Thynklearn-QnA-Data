@@ -1,0 +1,289 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.KKS.02",
+    "standard": "2",
+    "subject": "Khelu_Karu_Shiku",
+    "medium": "Marathi",
+    "chapter_name": "विविध हालचाली व शरीराची स्थिती"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "हालचाल म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "शरीर स्थिर ठेवणे", "is_correct": false },
+        { "option_id": 2, "text": "शरीर हलवणे", "is_correct": true },
+        { "option_id": 3, "text": "झोप घेणे", "is_correct": false },
+        { "option_id": 4, "text": "बसून राहणे", "is_correct": false }
+      ],
+      "answer": "शरीर हलवणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पाय पुढे टाकून पुढे जाणे याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "उडी", "is_correct": false },
+        { "option_id": 2, "text": "धावणे", "is_correct": false },
+        { "option_id": 3, "text": "चालणे", "is_correct": true },
+        { "option_id": 4, "text": "बसणे", "is_correct": false }
+      ],
+      "answer": "चालणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "जोराने पळत जाणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "रांगणे", "is_correct": false },
+        { "option_id": 2, "text": "धावणे", "is_correct": true },
+        { "option_id": 3, "text": "वाकणे", "is_correct": false },
+        { "option_id": 4, "text": "उभे राहणे", "is_correct": false }
+      ],
+      "answer": "धावणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "एका जागेवरून वर उडी मारणे याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "धावणे", "is_correct": false },
+        { "option_id": 2, "text": "उडी मारणे", "is_correct": true },
+        { "option_id": 3, "text": "बसणे", "is_correct": false },
+        { "option_id": 4, "text": "रांगणे", "is_correct": false }
+      ],
+      "answer": "उडी मारणे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "हात वर उंच करणे ही कोणती हालचाल आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाकणे", "is_correct": false },
+        { "option_id": 2, "text": "उचलणे", "is_correct": true },
+        { "option_id": 3, "text": "बसणे", "is_correct": false },
+        { "option_id": 4, "text": "धावणे", "is_correct": false }
+      ],
+      "answer": "उचलणे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "खाली वाकून बसणे याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "उभे राहणे", "is_correct": false },
+        { "option_id": 2, "text": "बसणे", "is_correct": true },
+        { "option_id": 3, "text": "उडी मारणे", "is_correct": false },
+        { "option_id": 4, "text": "चालणे", "is_correct": false }
+      ],
+      "answer": "बसणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "जमिनीवर पोटावर झोपून पुढे जाणे याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "रांगणे", "is_correct": true },
+        { "option_id": 2, "text": "धावणे", "is_correct": false },
+        { "option_id": 3, "text": "उडी मारणे", "is_correct": false },
+        { "option_id": 4, "text": "चालणे", "is_correct": false }
+      ],
+      "answer": "रांगणे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शरीर ताठ करून सरळ उभे राहणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "उभे राहणे", "is_correct": true },
+        { "option_id": 2, "text": "बसणे", "is_correct": false },
+        { "option_id": 3, "text": "वाकणे", "is_correct": false },
+        { "option_id": 4, "text": "रांगणे", "is_correct": false }
+      ],
+      "answer": "उभे राहणे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "एका पायावर उभे राहणे ही कोणती स्थिती आहे?",
+      "options": [
+        { "option_id": 1, "text": "समतोल स्थिती", "is_correct": true },
+        { "option_id": 2, "text": "धावणे", "is_correct": false },
+        { "option_id": 3, "text": "उडी", "is_correct": false },
+        { "option_id": 4, "text": "बसणे", "is_correct": false }
+      ],
+      "answer": "समतोल स्थिती"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "हालचाली केल्याने शरीरावर काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "शरीर आळशी होते", "is_correct": false },
+        { "option_id": 2, "text": "शरीर सशक्त होते", "is_correct": true },
+        { "option_id": 3, "text": "शरीर दुखते", "is_correct": false },
+        { "option_id": 4, "text": "थकवा वाढतो", "is_correct": false }
+      ],
+      "answer": "शरीर सशक्त होते"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "उडी मारताना कशाची काळजी घ्यावी?",
+      "options": [
+        { "option_id": 1, "text": "घसरू नये", "is_correct": true },
+        { "option_id": 2, "text": "वेगाने पळावे", "is_correct": false },
+        { "option_id": 3, "text": "डोळे मिटावेत", "is_correct": false },
+        { "option_id": 4, "text": "हात खालचे ठेवावेत", "is_correct": false }
+      ],
+      "answer": "घसरू नये"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "धावताना कोणती सवय चांगली आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकमेकांना ढकलणे", "is_correct": false },
+        { "option_id": 2, "text": "समतोल ठेवणे", "is_correct": true },
+        { "option_id": 3, "text": "आरडाओरडा करणे", "is_correct": false },
+        { "option_id": 4, "text": "पाय ओढत धावणे", "is_correct": false }
+      ],
+      "answer": "समतोल ठेवणे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "हालचालींचे महत्त्व काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "आजार वाढतात", "is_correct": false },
+        { "option_id": 2, "text": "शरीर सक्रिय राहते", "is_correct": true },
+        { "option_id": 3, "text": "थकवा वाढतो", "is_correct": false },
+        { "option_id": 4, "text": "कमजोरी वाढते", "is_correct": false }
+      ],
+      "answer": "शरीर सक्रिय राहते"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "शरीराच्या स्थिती म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "शरीराची वेगवेगळी ठेवण", "is_correct": true },
+        { "option_id": 2, "text": "खेळाची साधने", "is_correct": false },
+        { "option_id": 3, "text": "बसण्याची जागा", "is_correct": false },
+        { "option_id": 4, "text": "धावण्याची पद्धत", "is_correct": false }
+      ],
+      "answer": "शरीराची वेगवेगळी ठेवण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "योग्य हालचाली केल्याने कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "आळस", "is_correct": false },
+        { "option_id": 2, "text": "समतोल आणि नियंत्रण", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "घाई", "is_correct": false }
+      ],
+      "answer": "समतोल आणि नियंत्रण"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "हालचाल म्हणजे काय?",
+      "answer": "शरीर हलवणे किंवा हालवणे म्हणजे हालचाल."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "चालण्याचा एक फायदा लिहा.",
+      "answer": "चालल्याने शरीर निरोगी राहते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "धावणे कधी करावे?",
+      "answer": "खेळताना मैदानावर धावावे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "उडी मारताना काय काळजी घ्यावी?",
+      "answer": "घसरणार नाही याची काळजी घ्यावी."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "रांगणे कोणत्या वेळी उपयोगी पडते?",
+      "answer": "खाली जाण्यासाठी किंवा अरुंद जागेत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "उभे राहण्याची योग्य स्थिती लिहा.",
+      "answer": "शरीर ताठ व सरळ ठेवून उभे राहणे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "समतोल म्हणजे काय?",
+      "answer": "शरीर न डुलता स्थिर ठेवणे म्हणजे समतोल."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "बसताना पाठ कशी ठेवावी?",
+      "answer": "पाठ सरळ ठेवावी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "योग्य हालचालींचा फायदा लिहा.",
+      "answer": "शरीर मजबूत आणि लवचिक होते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "धावताना काय करू नये?",
+      "answer": "एकमेकांना ढकलू नये."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "शरीराची स्थिती म्हणजे काय?",
+      "answer": "शरीराची ठेवण किंवा पवित्रा."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "एका हालचालीचे उदाहरण लिहा.",
+      "answer": "चालणे / धावणे / उडी मारणे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "हालचालींचे महत्त्व काय?",
+      "answer": "हालचालींमुळे शरीर तंदरुस्त राहते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "तुला कोणती हालचाल जास्त आवडते? का?",
+      "answer": "मला धावणे आवडते कारण ऊर्जा वाढते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्यातून तुला काय शिकायला मिळाले?",
+      "answer": "विविध हालचाली आणि शरीराची योग्य स्थिती यांचे महत्त्व समजले."
+    }
+  ]
+}
+
+
+
+
+
+
+

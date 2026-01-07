@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.KKS.08",
+    "standard": "2",
+    "subject": "Khelu_Karu_Shiku",
+    "medium": "Marathi",
+    "chapter_name": "कौशल्याधिष्ठित उपक्रम"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कौशल्याधिष्ठित उपक्रमांचा मुख्य उद्देश कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ खेळणे", "is_correct": false },
+        { "option_id": 2, "text": "शरीर व मनाचे कौशल्य विकसित करणे", "is_correct": true },
+        { "option_id": 3, "text": "वेळ घालवणे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त धावणे", "is_correct": false }
+      ],
+      "answer": "शरीर व मनाचे कौशल्य विकसित करणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "दोऱ्यावर संतुलन ठेवणे या उपक्रमातून कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "राग", "is_correct": false },
+        { "option_id": 2, "text": "समतोल", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "मत्सर", "is_correct": false }
+      ],
+      "answer": "समतोल"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "लहान चेंडू एका भांड्यातून दुसऱ्यात ठेवणे हा कोणत्या प्रकारचा उपक्रम आहे?",
+      "options": [
+        { "option_id": 1, "text": "चपळता विकसित करणारा", "is_correct": true },
+        { "option_id": 2, "text": "खेळ थांबवणारा", "is_correct": false },
+        { "option_id": 3, "text": "आराम देणारा", "is_correct": false },
+        { "option_id": 4, "text": "निष्क्रिय उपक्रम", "is_correct": false }
+      ],
+      "answer": "चपळता विकसित करणारा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "अडथळे ओलांडण्याच्या उपक्रमातून काय विकसित होते?",
+      "options": [
+        { "option_id": 1, "text": "भीती", "is_correct": false },
+        { "option_id": 2, "text": "धैर्य आणि आत्मविश्वास", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "धैर्य आणि आत्मविश्वास"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "चेंडू फेकून झेलण्याच्या उपक्रमातून कोणते कौशल्य वाढते?",
+      "options": [
+        { "option_id": 1, "text": "डोळा-हात समन्वय", "is_correct": true },
+        { "option_id": 2, "text": "केसांची वाढ", "is_correct": false },
+        { "option_id": 3, "text": "उंची कमी होते", "is_correct": false },
+        { "option_id": 4, "text": "आवाज वाढतो", "is_correct": false }
+      ],
+      "answer": "डोळा-हात समन्वय"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "लहान वस्तू उचलून योग्य ठिकाणी ठेवण्याच्या उपक्रमातून काय विकसित होते?",
+      "options": [
+        { "option_id": 1, "text": "संताप", "is_correct": false },
+        { "option_id": 2, "text": "एकाग्रता आणि नीटनेटकेपणा", "is_correct": true },
+        { "option_id": 3, "text": "आळशीपणा", "is_correct": false },
+        { "option_id": 4, "text": "तणाव", "is_correct": false }
+      ],
+      "answer": "एकाग्रता आणि नीटनेटकेपणा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "समूहात केलेल्या कौशल्याधिष्ठित उपक्रमातून कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "स्वार्थ", "is_correct": false },
+        { "option_id": 2, "text": "सहकार्य", "is_correct": true },
+        { "option_id": 3, "text": "मत्सर", "is_correct": false },
+        { "option_id": 4, "text": "दूरावा", "is_correct": false }
+      ],
+      "answer": "सहकार्य"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "रिंगमधून चेंडू नेण्याच्या उपक्रमात कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "घाई", "is_correct": false },
+        { "option_id": 2, "text": "काळजीपूर्वक काम करण्याची सवय", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "अस्थिरता", "is_correct": false }
+      ],
+      "answer": "काळजीपूर्वक काम करण्याची सवय"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "विस्कटलेल्या वस्तू नीट लावण्याचा उपक्रम कोणता गुण वाढवतो?",
+      "options": [
+        { "option_id": 1, "text": "उधळपट्टी", "is_correct": false },
+        { "option_id": 2, "text": "शिस्त व स्वच्छता", "is_correct": true },
+        { "option_id": 3, "text": "गोंधळ", "is_correct": false },
+        { "option_id": 4, "text": "निष्काळजीपणा", "is_correct": false }
+      ],
+      "answer": "शिस्त व स्वच्छता"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कौशल्याधिष्ठित उपक्रम करताना कोणती गोष्ट टाळावी?",
+      "options": [
+        { "option_id": 1, "text": "घाईघाईने करणे", "is_correct": true },
+        { "option_id": 2, "text": "शांतपणे करणे", "is_correct": false },
+        { "option_id": 3, "text": "समतोल ठेवणे", "is_correct": false },
+        { "option_id": 4, "text": "सूचनांनुसार करणे", "is_correct": false }
+      ],
+      "answer": "घाईघाईने करणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कौशल्याधिष्ठित उपक्रमांमुळे शरीर कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "कमजोर", "is_correct": false },
+        { "option_id": 2, "text": "लवचिक आणि चपळ", "is_correct": true },
+        { "option_id": 3, "text": "आळशी", "is_correct": false },
+        { "option_id": 4, "text": "निष्क्रिय", "is_correct": false }
+      ],
+      "answer": "लवचिक आणि चपळ"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कौशल्याधिष्ठित उपक्रम करताना कोणाचे पालन करावे?",
+      "options": [
+        { "option_id": 1, "text": "मित्रांचे आदेश", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षकांच्या सूचनांचे", "is_correct": true },
+        { "option_id": 3, "text": "मनमानी नियम", "is_correct": false },
+        { "option_id": 4, "text": "गोंधळाचे नियम", "is_correct": false }
+      ],
+      "answer": "शिक्षकांच्या सूचनांचे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या उपक्रमांमुळे मुलांमध्ये कोणता दृष्टीकोन विकसित होतो?",
+      "options": [
+        { "option_id": 1, "text": "नकारात्मक", "is_correct": false },
+        { "option_id": 2, "text": "सकारात्मक", "is_correct": true },
+        { "option_id": 3, "text": "आळशी", "is_correct": false },
+        { "option_id": 4, "text": "निष्क्रिय", "is_correct": false }
+      ],
+      "answer": "सकारात्मक"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कौशल्याधिष्ठित उपक्रमांमुळे कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "मत्सर", "is_correct": false },
+        { "option_id": 2, "text": "आत्मविश्वास", "is_correct": true },
+        { "option_id": 3, "text": "भिती", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कौशल्याधिष्ठित उपक्रमांचा मुख्य फायदा कोणता?",
+      "options": [
+        { "option_id": 1, "text": "आळस वाढतो", "is_correct": false },
+        { "option_id": 2, "text": "शारीरिक व मानसिक विकास", "is_correct": true },
+        { "option_id": 3, "text": "खेळ कमी होतो", "is_correct": false },
+        { "option_id": 4, "text": "मैत्री तुटते", "is_correct": false }
+      ],
+      "answer": "शारीरिक व मानसिक विकास"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कौशल्याधिष्ठित उपक्रम म्हणजे काय?",
+      "answer": "शरीर, मन, समतोल आणि समन्वय विकसित करणारे उपक्रम म्हणजे कौशल्याधिष्ठित उपक्रम."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "समूहात केलेल्या उपक्रमांचा एक फायदा लिहा.",
+      "answer": "सहकार्य आणि टीमवर्कची सवय लागते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "चेंडू फेकून झेलण्याचा फायदा काय?",
+      "answer": "डोळा-हात समन्वय सुधारतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "अडथळे ओलांडताना काय जपावे?",
+      "answer": "समतोल आणि सुरक्षितता जपावी."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "समतोल म्हणजे काय?",
+      "answer": "शरीर स्थिर ठेवण्याची क्षमता म्हणजे समतोल."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "या उपक्रमांनी शरीरावर काय परिणाम होतो?",
+      "answer": "शरीर लवचिक, चपळ आणि मजबूत होते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कौशल्याधिष्ठित उपक्रम करताना कशी जागा निवडावी?",
+      "answer": "स्वच्छ, मोकळी आणि सुरक्षित जागा."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "या उपक्रमांतून कोणता गुण वाढतो?",
+      "answer": "आत्मविश्वास आणि धैर्य."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "समतोल विकसित करणाऱ्या एका उपक्रमाचे उदाहरण द्या.",
+      "answer": "दोऱ्यावर चालणे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "घाईघाईने उपक्रम का करू नये?",
+      "answer": "कारण समतोल बिघडून इजा होऊ शकते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "एकाग्रता का महत्त्वाची आहे?",
+      "answer": "नीटनेटके आणि अचूक काम करण्यासाठी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "या उपक्रमातून मैत्री कशी वाढते?",
+      "answer": "गटाने काम करताना सहकार्य वाढते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "तुला कोणता कौशल्याधिष्ठित उपक्रम आवडतो? का?",
+      "answer": "मला समतोल उपक्रम आवडतो कारण तो मजेदार आणि उपयुक्त आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कौशल्याधिष्ठित उपक्रमांचा एक शैक्षणिक फायदा लिहा.",
+      "answer": "एकाग्रता आणि आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्याची मुख्य शिकवण काय?",
+      "answer": "कौशल्याधिष्ठित उपक्रमांमुळे शारीरिक, मानसिक आणि सामाजिक विकास होतो."
+    }
+  ]
+}

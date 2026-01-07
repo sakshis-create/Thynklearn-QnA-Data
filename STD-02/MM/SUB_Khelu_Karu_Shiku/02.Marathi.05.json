@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.KKS.05",
+    "standard": "2",
+    "subject": "Khelu_Karu_Shiku",
+    "medium": "Marathi",
+    "chapter_name": "व्यायाम"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "व्यायाम केल्याने शरीर कसे राहते?",
+      "options": [
+        { "option_id": 1, "text": "कमजोर", "is_correct": false },
+        { "option_id": 2, "text": "आळशी", "is_correct": false },
+        { "option_id": 3, "text": "तंदुरुस्त", "is_correct": true },
+        { "option_id": 4, "text": "रुग्ण", "is_correct": false }
+      ],
+      "answer": "तंदुरुस्त"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "व्यायाम कोणत्या वेळी करणे योग्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "रात्री उशिरा", "is_correct": false },
+        { "option_id": 2, "text": "सकाळी", "is_correct": true },
+        { "option_id": 3, "text": "जेवल्यानंतर लगेच", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यापूर्वी", "is_correct": false }
+      ],
+      "answer": "सकाळी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता व्यायाम आहे?",
+      "options": [
+        { "option_id": 1, "text": "बसून टीव्ही पाहणे", "is_correct": false },
+        { "option_id": 2, "text": "पळणे", "is_correct": true },
+        { "option_id": 3, "text": "खेळणी जमवणे", "is_correct": false },
+        { "option_id": 4, "text": "झोप घेणे", "is_correct": false }
+      ],
+      "answer": "पळणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "व्यायाम करताना शरीराची स्थिती कशी ठेवावी?",
+      "options": [
+        { "option_id": 1, "text": "वाकडी", "is_correct": false },
+        { "option_id": 2, "text": "समतोल व सरळ", "is_correct": true },
+        { "option_id": 3, "text": "गडबडीत", "is_correct": false },
+        { "option_id": 4, "text": "आडवी", "is_correct": false }
+      ],
+      "answer": "समतोल व सरळ"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "व्यायाम केल्याने कोणता गुण वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "आळस", "is_correct": false },
+        { "option_id": 2, "text": "कणखरपणा", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "मत्सर", "is_correct": false }
+      ],
+      "answer": "कणखरपणा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "व्यायाम केल्याने काय नियंत्रित राहते?",
+      "options": [
+        { "option_id": 1, "text": "श्वासोच्छ्वास", "is_correct": true },
+        { "option_id": 2, "text": "भूक नाहीशी होते", "is_correct": false },
+        { "option_id": 3, "text": "उंची कमी होते", "is_correct": false },
+        { "option_id": 4, "text": "आवाज मोठा होतो", "is_correct": false }
+      ],
+      "answer": "श्वासोच्छ्वास"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "व्यायाम करताना कोणती सवय चांगली आहे?",
+      "options": [
+        { "option_id": 1, "text": "घाई घाईने करणे", "is_correct": false },
+        { "option_id": 2, "text": "योग्य गतीने करणे", "is_correct": true },
+        { "option_id": 3, "text": "आरडाओरडा करणे", "is_correct": false },
+        { "option_id": 4, "text": "इतरांना ढकलणे", "is_correct": false }
+      ],
+      "answer": "योग्य गतीने करणे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "दैनंदिन व्यायामामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "शरीर दमते", "is_correct": false },
+        { "option_id": 2, "text": "शरीर मजबूत होते", "is_correct": true },
+        { "option_id": 3, "text": "उंची थांबते", "is_correct": false },
+        { "option_id": 4, "text": "डोळे दुखतात", "is_correct": false }
+      ],
+      "answer": "शरीर मजबूत होते"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "व्यायामानंतर काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "थंड पाणी लगेच प्यावे", "is_correct": false },
+        { "option_id": 2, "text": "विश्रांती घ्यावी", "is_correct": true },
+        { "option_id": 3, "text": "धावणे सुरू ठेवावे", "is_correct": false },
+        { "option_id": 4, "text": "जड काम करावे", "is_correct": false }
+      ],
+      "answer": "विश्रांती घ्यावी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "श्वसन व्यायाम केल्याने काय सुधारते?",
+      "options": [
+        { "option_id": 1, "text": "दृष्टी", "is_correct": false },
+        { "option_id": 2, "text": "फुफ्फुसांची कार्यक्षमता", "is_correct": true },
+        { "option_id": 3, "text": "केसांची वाढ", "is_correct": false },
+        { "option_id": 4, "text": "आवाज", "is_correct": false }
+      ],
+      "answer": "फुफ्फुसांची कार्यक्षमता"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "व्यायामाच्या वेळी कशावर लक्ष द्यावे?",
+      "options": [
+        { "option_id": 1, "text": "समतोल व श्वास", "is_correct": true },
+        { "option_id": 2, "text": "मोठ्या आवाजावर", "is_correct": false },
+        { "option_id": 3, "text": "स्पर्धेवर", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यांवर", "is_correct": false }
+      ],
+      "answer": "समतोल व श्वास"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "व्यायाम करताना कोणती जागा योग्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "घसरडी जागा", "is_correct": false },
+        { "option_id": 2, "text": "स्वच्छ व मोकळी जागा", "is_correct": true },
+        { "option_id": 3, "text": "अंधारी खोली", "is_correct": false },
+        { "option_id": 4, "text": "उंच भिंत", "is_correct": false }
+      ],
+      "answer": "स्वच्छ व मोकळी जागा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "योग्य व्यायामामुळे काय वाढते?",
+      "options": [
+        { "option_id": 1, "text": "आळस", "is_correct": false },
+        { "option_id": 2, "text": "लवचिकता", "is_correct": true },
+        { "option_id": 3, "text": "थकवा", "is_correct": false },
+        { "option_id": 4, "text": "चिंता", "is_correct": false }
+      ],
+      "answer": "लवचिकता"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "व्यायाम करताना कोणती गोष्ट टाळावी?",
+      "options": [
+        { "option_id": 1, "text": "घाई करणे", "is_correct": true },
+        { "option_id": 2, "text": "हळूहळू हालचाल", "is_correct": false },
+        { "option_id": 3, "text": "सरळ उभे राहणे", "is_correct": false },
+        { "option_id": 4, "text": "समतोल ठेवणे", "is_correct": false }
+      ],
+      "answer": "घाई करणे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "व्यायामाचा मुख्य उद्देश कोणता?",
+      "options": [
+        { "option_id": 1, "text": "वेळ घालवणे", "is_correct": false },
+        { "option_id": 2, "text": "शरीर निरोगी ठेवणे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त खेळणे", "is_correct": false },
+        { "option_id": 4, "text": "बसून राहणे", "is_correct": false }
+      ],
+      "answer": "शरीर निरोगी ठेवणे"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "व्यायाम म्हणजे काय?",
+      "answer": "शरीर हालचाली करून ते सशक्त ठेवण्याची क्रिया म्हणजे व्यायाम."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "व्यायामाचे दोन फायदे लिहा.",
+      "answer": "शरीर मजबूत होते आणि आजार दूर राहतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "व्यायाम कोणत्या जागी करावा?",
+      "answer": "स्वच्छ, सुरक्षित आणि मोकळ्या जागेत व्यायाम करावा."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "व्यायाम केल्याने मनावर काय परिणाम होतो?",
+      "answer": "मन प्रसन्न व शांत राहते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "श्वसन व्यायाम का करावा?",
+      "answer": "फुफ्फुसांची कार्यक्षमता वाढते आणि श्वास नियंत्रित राहतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "व्यायाम करताना घाई का करू नये?",
+      "answer": "घाई केली तर समतोल बिघडतो व दुखापत होऊ शकते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "व्यायामानंतर विश्रांती का घ्यावी?",
+      "answer": "शरीराला ऊर्जा पुनर्संचयित होण्यासाठी."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "व्यायामामुळे शरीरात कोणता गुण वाढतो?",
+      "answer": "कणखरपणा आणि शिस्त."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "लवचिकता म्हणजे काय?",
+      "answer": "शरीर सहजपणे वाकणे व ताणणे म्हणजे लवचिकता."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "दररोज व्यायाम का करावा?",
+      "answer": "आरोग्य सुधारते आणि शरीर तंदुरुस्त राहते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "व्यायाम करताना कोणती काळजी घ्यावी?",
+      "answer": "समतोल, श्वासोच्छ्वास आणि योग्य स्थिती यांची."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "व्यायामामुळे अभ्यासावर काय परिणाम होतो?",
+      "answer": "एकाग्रता वाढते आणि अभ्यास चांगला होतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "तुला कोणता व्यायाम आवडतो? का?",
+      "answer": "मला धावण्याचा व्यायाम आवडतो कारण तो उत्साह वाढवतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "व्यायाम आणि आरोग्य यांचा संबंध सांगा.",
+      "answer": "व्यायाम केल्याने शरीर निरोगी आणि सशक्त होते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या धड्यातून तुला काय शिकायला मिळाले?",
+      "answer": "व्यायामाचे महत्त्व, योग्य पद्धत आणि आरोग्याची काळजी."
+    }
+  ]
+}

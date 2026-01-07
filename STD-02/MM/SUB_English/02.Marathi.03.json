@@ -1,0 +1,946 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.ENG.03",
+    "standard": "2",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Tony Tinker, What Can You Do?, Shapes, Playground Conversation, Numbers 11 to 20"
+  },
+  "questions": [
+
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the main character in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Tommy", "is_correct": false },
+        { "option_id": 2, "text": "Tony Tinker", "is_correct": true },
+        { "option_id": 3, "text": "Rony", "is_correct": false },
+        { "option_id": 4, "text": "John", "is_correct": false }
+      ],
+      "answer": "Tony Tinker"
+    },
+
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What musical instrument makes the sound 'Dum dum dum'?",
+      "options": [
+        { "option_id": 1, "text": "Tabla", "is_correct": false },
+        { "option_id": 2, "text": "Violin", "is_correct": false },
+        { "option_id": 3, "text": "Bass drum", "is_correct": true },
+        { "option_id": 4, "text": "Triangle", "is_correct": false }
+      ],
+      "answer": "Bass drum"
+    },
+
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which instrument makes the sound 'Ting ting ting'?",
+      "options": [
+        { "option_id": 1, "text": "Violin", "is_correct": false },
+        { "option_id": 2, "text": "Tabla", "is_correct": false },
+        { "option_id": 3, "text": "Triangle", "is_correct": true },
+        { "option_id": 4, "text": "Drum", "is_correct": false }
+      ],
+      "answer": "Triangle"
+    },
+
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which instrument makes the sound 'Tui tui tui'?",
+      "options": [
+        { "option_id": 1, "text": "Tabla", "is_correct": false },
+        { "option_id": 2, "text": "Violin", "is_correct": true },
+        { "option_id": 3, "text": "Drum", "is_correct": false },
+        { "option_id": 4, "text": "Triangle", "is_correct": false }
+      ],
+      "answer": "Violin"
+    },
+
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which instrument makes the sound 'Dha dhin dha'?",
+      "options": [
+        { "option_id": 1, "text": "Triangle", "is_correct": false },
+        { "option_id": 2, "text": "Tabla", "is_correct": true },
+        { "option_id": 3, "text": "Drum", "is_correct": false },
+        { "option_id": 4, "text": "Violin", "is_correct": false }
+      ],
+      "answer": "Tabla"
+    },
+
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does Tony Tinker ask in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Can you dance?", "is_correct": false },
+        { "option_id": 2, "text": "Can you sing? Can you play?", "is_correct": true },
+        { "option_id": 3, "text": "Can you read?", "is_correct": false },
+        { "option_id": 4, "text": "Can you jump?", "is_correct": false }
+      ],
+      "answer": "Can you sing? Can you play?"
+    },
+
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What can birds do?",
+      "options": [
+        { "option_id": 1, "text": "They can read", "is_correct": false },
+        { "option_id": 2, "text": "They can fly", "is_correct": true },
+        { "option_id": 3, "text": "They can write", "is_correct": false },
+        { "option_id": 4, "text": "They can sing", "is_correct": false }
+      ],
+      "answer": "They can fly"
+    },
+
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What can frogs do?",
+      "options": [
+        { "option_id": 1, "text": "They can fly", "is_correct": false },
+        { "option_id": 2, "text": "They can jump", "is_correct": true },
+        { "option_id": 3, "text": "They can sing", "is_correct": false },
+        { "option_id": 4, "text": "They can write", "is_correct": false }
+      ],
+      "answer": "They can jump"
+    },
+
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What can ducks do?",
+      "options": [
+        { "option_id": 1, "text": "They can dance", "is_correct": false },
+        { "option_id": 2, "text": "They can swim", "is_correct": true },
+        { "option_id": 3, "text": "They can read", "is_correct": false },
+        { "option_id": 4, "text": "They can write", "is_correct": false }
+      ],
+      "answer": "They can swim"
+    },
+
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What can horses do?",
+      "options": [
+        { "option_id": 1, "text": "They can sing", "is_correct": false },
+        { "option_id": 2, "text": "They can run", "is_correct": true },
+        { "option_id": 3, "text": "They can read", "is_correct": false },
+        { "option_id": 4, "text": "They can fly", "is_correct": false }
+      ],
+      "answer": "They can run"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What can children do?",
+      "options": [
+        { "option_id": 1, "text": "They can fly", "is_correct": false },
+        { "option_id": 2, "text": "They can talk", "is_correct": true },
+        { "option_id": 3, "text": "They can jump high", "is_correct": false },
+        { "option_id": 4, "text": "They can read books", "is_correct": false }
+      ],
+      "answer": "They can talk"
+    },
+
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which shape has four equal sides?",
+      "options": [
+        { "option_id": 1, "text": "Circle", "is_correct": false },
+        { "option_id": 2, "text": "Square", "is_correct": true },
+        { "option_id": 3, "text": "Oval", "is_correct": false },
+        { "option_id": 4, "text": "Triangle", "is_correct": false }
+      ],
+      "answer": "Square"
+    },
+
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which shape has three sides?",
+      "options": [
+        { "option_id": 1, "text": "Rectangle", "is_correct": false },
+        { "option_id": 2, "text": "Triangle", "is_correct": true },
+        { "option_id": 3, "text": "Circle", "is_correct": false },
+        { "option_id": 4, "text": "Square", "is_correct": false }
+      ],
+      "answer": "Triangle"
+    },
+
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which shape is round?",
+      "options": [
+        { "option_id": 1, "text": "Triangle", "is_correct": false },
+        { "option_id": 2, "text": "Circle", "is_correct": true },
+        { "option_id": 3, "text": "Rectangle", "is_correct": false },
+        { "option_id": 4, "text": "Square", "is_correct": false }
+      ],
+      "answer": "Circle"
+    },
+
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which shape is long and has four sides?",
+      "options": [
+        { "option_id": 1, "text": "Rectangle", "is_correct": true },
+        { "option_id": 2, "text": "Circle", "is_correct": false },
+        { "option_id": 3, "text": "Oval", "is_correct": false },
+        { "option_id": 4, "text": "Triangle", "is_correct": false }
+      ],
+      "answer": "Rectangle"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Where are the children in the conversation?",
+      "options": [
+        { "option_id": 1, "text": "In the classroom", "is_correct": false },
+        { "option_id": 2, "text": "On the playground", "is_correct": true },
+        { "option_id": 3, "text": "At home", "is_correct": false },
+        { "option_id": 4, "text": "In the bus", "is_correct": false }
+      ],
+      "answer": "On the playground"
+    },
+
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which game do the children want to play first?",
+      "options": [
+        { "option_id": 1, "text": "Cricket", "is_correct": false },
+        { "option_id": 2, "text": "Kho-kho", "is_correct": true },
+        { "option_id": 3, "text": "Football", "is_correct": false },
+        { "option_id": 4, "text": "Kabaddi", "is_correct": false }
+      ],
+      "answer": "Kho-kho"
+    },
+
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What does the teacher say?",
+      "options": [
+        { "option_id": 1, "text": "Sit down", "is_correct": false },
+        { "option_id": 2, "text": "All right. As you wish.", "is_correct": true },
+        { "option_id": 3, "text": "Don’t play", "is_correct": false },
+        { "option_id": 4, "text": "Go home", "is_correct": false }
+      ],
+      "answer": "All right. As you wish."
+    },
+
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What do the children say at the end?",
+      "options": [
+        { "option_id": 1, "text": "Let’s run", "is_correct": false },
+        { "option_id": 2, "text": "Let’s play", "is_correct": true },
+        { "option_id": 3, "text": "Let’s read", "is_correct": false },
+        { "option_id": 4, "text": "Let’s dance", "is_correct": false }
+      ],
+      "answer": "Let’s play"
+    },
+
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "How many chillies are shown for number eleven?",
+      "options": [
+        { "option_id": 1, "text": "Ten", "is_correct": false },
+        { "option_id": 2, "text": "Eleven", "is_correct": true },
+        { "option_id": 3, "text": "Twelve", "is_correct": false },
+        { "option_id": 4, "text": "Nine", "is_correct": false }
+      ],
+      "answer": "Eleven"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which number name is 'twelve'?",
+      "options": [
+        { "option_id": 1, "text": "11", "is_correct": false },
+        { "option_id": 2, "text": "12", "is_correct": true },
+        { "option_id": 3, "text": "13", "is_correct": false },
+        { "option_id": 4, "text": "14", "is_correct": false }
+      ],
+      "answer": "12"
+    },
+
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which number name is 'thirteen'?",
+      "options": [
+        { "option_id": 1, "text": "11", "is_correct": false },
+        { "option_id": 2, "text": "12", "is_correct": false },
+        { "option_id": 3, "text": "13", "is_correct": true },
+        { "option_id": 4, "text": "14", "is_correct": false }
+      ],
+      "answer": "13"
+    },
+
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which number name is 'fourteen'?",
+      "options": [
+        { "option_id": 1, "text": "14", "is_correct": true },
+        { "option_id": 2, "text": "15", "is_correct": false },
+        { "option_id": 3, "text": "16", "is_correct": false },
+        { "option_id": 4, "text": "13", "is_correct": false }
+      ],
+      "answer": "14"
+    },
+
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which number name is 'fifteen'?",
+      "options": [
+        { "option_id": 1, "text": "15", "is_correct": true },
+        { "option_id": 2, "text": "16", "is_correct": false },
+        { "option_id": 3, "text": "17", "is_correct": false },
+        { "option_id": 4, "text": "18", "is_correct": false }
+      ],
+      "answer": "15"
+    },
+
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which number name is 'sixteen'?",
+      "options": [
+        { "option_id": 1, "text": "15", "is_correct": false },
+        { "option_id": 2, "text": "16", "is_correct": true },
+        { "option_id": 3, "text": "17", "is_correct": false },
+        { "option_id": 4, "text": "18", "is_correct": false }
+      ],
+      "answer": "16"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which number name is 'seventeen'?",
+      "options": [
+        { "option_id": 1, "text": "17", "is_correct": true },
+        { "option_id": 2, "text": "18", "is_correct": false },
+        { "option_id": 3, "text": "19", "is_correct": false },
+        { "option_id": 4, "text": "20", "is_correct": false }
+      ],
+      "answer": "17"
+    },
+
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which number name is 'eighteen'?",
+      "options": [
+        { "option_id": 1, "text": "16", "is_correct": false },
+        { "option_id": 2, "text": "18", "is_correct": true },
+        { "option_id": 3, "text": "19", "is_correct": false },
+        { "option_id": 4, "text": "20", "is_correct": false }
+      ],
+      "answer": "18"
+    },
+
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which number name is 'nineteen'?",
+      "options": [
+        { "option_id": 1, "text": "18", "is_correct": false },
+        { "option_id": 2, "text": "19", "is_correct": true },
+        { "option_id": 3, "text": "20", "is_correct": false },
+        { "option_id": 4, "text": "17", "is_correct": false }
+      ],
+      "answer": "19"
+    },
+
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which number name is 'twenty'?",
+      "options": [
+        { "option_id": 1, "text": "19", "is_correct": false },
+        { "option_id": 2, "text": "20", "is_correct": true },
+        { "option_id": 3, "text": "18", "is_correct": false },
+        { "option_id": 4, "text": "17", "is_correct": false }
+      ],
+      "answer": "20"
+    },
+
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which word matches number 10?",
+      "options": [
+        { "option_id": 1, "text": "Ten", "is_correct": true },
+        { "option_id": 2, "text": "Twenty", "is_correct": false },
+        { "option_id": 3, "text": "Thirty", "is_correct": false },
+        { "option_id": 4, "text": "Forty", "is_correct": false }
+      ],
+      "answer": "Ten"
+    },
+
+
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which number comes after eleven?",
+      "options": [
+        { "option_id": 1, "text": "10", "is_correct": false },
+        { "option_id": 2, "text": "12", "is_correct": true },
+        { "option_id": 3, "text": "13", "is_correct": false },
+        { "option_id": 4, "text": "14", "is_correct": false }
+      ],
+      "answer": "12"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which number comes before fifteen?",
+      "options": [
+        { "option_id": 1, "text": "16", "is_correct": false },
+        { "option_id": 2, "text": "14", "is_correct": true },
+        { "option_id": 3, "text": "17", "is_correct": false },
+        { "option_id": 4, "text": "18", "is_correct": false }
+      ],
+      "answer": "14"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which number is greater than eighteen?",
+      "options": [
+        { "option_id": 1, "text": "17", "is_correct": false },
+        { "option_id": 2, "text": "16", "is_correct": false },
+        { "option_id": 3, "text": "19", "is_correct": true },
+        { "option_id": 4, "text": "15", "is_correct": false }
+      ],
+      "answer": "19"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which instrument is played with sticks?",
+      "options": [
+        { "option_id": 1, "text": "Bass drum", "is_correct": true },
+        { "option_id": 2, "text": "Violin", "is_correct": false },
+        { "option_id": 3, "text": "Triangle", "is_correct": false },
+        { "option_id": 4, "text": "Flute", "is_correct": false }
+      ],
+      "answer": "Bass drum"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which instrument is played with a bow?",
+      "options": [
+        { "option_id": 1, "text": "Violin", "is_correct": true },
+        { "option_id": 2, "text": "Tabla", "is_correct": false },
+        { "option_id": 3, "text": "Drum", "is_correct": false },
+        { "option_id": 4, "text": "Triangle", "is_correct": false }
+      ],
+      "answer": "Violin"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which sentence shows ability?",
+      "options": [
+        { "option_id": 1, "text": "I am tall.", "is_correct": false },
+        { "option_id": 2, "text": "I can run.", "is_correct": true },
+        { "option_id": 3, "text": "I have a bag.", "is_correct": false },
+        { "option_id": 4, "text": "This is a book.", "is_correct": false }
+      ],
+      "answer": "I can run."
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which word is used to show ability?",
+      "options": [
+        { "option_id": 1, "text": "is", "is_correct": false },
+        { "option_id": 2, "text": "can", "is_correct": true },
+        { "option_id": 3, "text": "are", "is_correct": false },
+        { "option_id": 4, "text": "was", "is_correct": false }
+      ],
+      "answer": "can"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which shape is used in a clock?",
+      "options": [
+        { "option_id": 1, "text": "Square", "is_correct": false },
+        { "option_id": 2, "text": "Circle", "is_correct": true },
+        { "option_id": 3, "text": "Triangle", "is_correct": false },
+        { "option_id": 4, "text": "Rectangle", "is_correct": false }
+      ],
+      "answer": "Circle"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which shape is used in a book?",
+      "options": [
+        { "option_id": 1, "text": "Rectangle", "is_correct": true },
+        { "option_id": 2, "text": "Circle", "is_correct": false },
+        { "option_id": 3, "text": "Oval", "is_correct": false },
+        { "option_id": 4, "text": "Triangle", "is_correct": false }
+      ],
+      "answer": "Rectangle"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which shape is used in dice?",
+      "options": [
+        { "option_id": 1, "text": "Square", "is_correct": true },
+        { "option_id": 2, "text": "Triangle", "is_correct": false },
+        { "option_id": 3, "text": "Rectangle", "is_correct": false },
+        { "option_id": 4, "text": "Circle", "is_correct": false }
+      ],
+      "answer": "Square"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What do children do on the playground?",
+      "options": [
+        { "option_id": 1, "text": "They sleep.", "is_correct": false },
+        { "option_id": 2, "text": "They play.", "is_correct": true },
+        { "option_id": 3, "text": "They read.", "is_correct": false },
+        { "option_id": 4, "text": "They write.", "is_correct": false }
+      ],
+      "answer": "They play."
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What do children say before starting the game?",
+      "options": [
+        { "option_id": 1, "text": "Let’s sing", "is_correct": false },
+        { "option_id": 2, "text": "Let’s play", "is_correct": true },
+        { "option_id": 3, "text": "Let’s eat", "is_correct": false },
+        { "option_id": 4, "text": "Let’s run", "is_correct": false }
+      ],
+      "answer": "Let’s play"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which number is the smallest among these?",
+      "options": [
+        { "option_id": 1, "text": "20", "is_correct": false },
+        { "option_id": 2, "text": "18", "is_correct": false },
+        { "option_id": 3, "text": "11", "is_correct": true },
+        { "option_id": 4, "text": "19", "is_correct": false }
+      ],
+      "answer": "11"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which number is the greatest among these?",
+      "options": [
+        { "option_id": 1, "text": "14", "is_correct": false },
+        { "option_id": 2, "text": "18", "is_correct": false },
+        { "option_id": 3, "text": "20", "is_correct": true },
+        { "option_id": 4, "text": "16", "is_correct": false }
+      ],
+      "answer": "20"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which number comes between twelve and fourteen?",
+      "options": [
+        { "option_id": 1, "text": "11", "is_correct": false },
+        { "option_id": 2, "text": "15", "is_correct": false },
+        { "option_id": 3, "text": "13", "is_correct": true },
+        { "option_id": 4, "text": "16", "is_correct": false }
+      ],
+      "answer": "13"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which sentence is correct?",
+      "options": [
+        { "option_id": 1, "text": "Birds can swim.", "is_correct": false },
+        { "option_id": 2, "text": "Frogs can jump.", "is_correct": true },
+        { "option_id": 3, "text": "Ducks can read.", "is_correct": false },
+        { "option_id": 4, "text": "Horses can fly.", "is_correct": false }
+      ],
+      "answer": "Frogs can jump."
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which action do ducks do?",
+      "options": [
+        { "option_id": 1, "text": "Jump", "is_correct": false },
+        { "option_id": 2, "text": "Run", "is_correct": false },
+        { "option_id": 3, "text": "Swim", "is_correct": true },
+        { "option_id": 4, "text": "Clap", "is_correct": false }
+      ],
+      "answer": "Swim"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which action do horses do?",
+      "options": [
+        { "option_id": 1, "text": "Fly", "is_correct": false },
+        { "option_id": 2, "text": "Swim", "is_correct": false },
+        { "option_id": 3, "text": "Run", "is_correct": true },
+        { "option_id": 4, "text": "Jump", "is_correct": false }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which action do children do?",
+      "options": [
+        { "option_id": 1, "text": "Fly", "is_correct": false },
+        { "option_id": 2, "text": "Talk", "is_correct": true },
+        { "option_id": 3, "text": "Swim", "is_correct": false },
+        { "option_id": 4, "text": "Jump", "is_correct": false }
+      ],
+      "answer": "Talk"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the main learning theme of these lessons?",
+      "options": [
+        { "option_id": 1, "text": "Food and fruits", "is_correct": false },
+        { "option_id": 2, "text": "Music, actions, shapes and numbers", "is_correct": true },
+        { "option_id": 3, "text": "Seasons and weather", "is_correct": false },
+        { "option_id": 4, "text": "Stories and poems", "is_correct": false }
+      ],
+      "answer": "Music, actions, shapes and numbers"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Who is Tony Tinker?",
+      "answer": "Tony Tinker is a character in the poem who plays musical instruments."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Name any two musical instruments from the poem.",
+      "answer": "Two musical instruments are bass drum and tabla."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What sound does the tabla make?",
+      "answer": "The tabla makes the sound 'Dha dhin dha'."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What can birds do?",
+      "answer": "Birds can fly."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What can frogs do?",
+      "answer": "Frogs can jump."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What can ducks do?",
+      "answer": "Ducks can swim."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What can horses do?",
+      "answer": "Horses can run."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What can children do?",
+      "answer": "Children can talk."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Which shape has three sides?",
+      "answer": "A triangle has three sides."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which shape is round?",
+      "answer": "A circle is round."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which shape has four equal sides?",
+      "answer": "A square has four equal sides."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Where are the children in the conversation?",
+      "answer": "The children are on the playground."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Which game do the children want to play?",
+      "answer": "The children want to play kho-kho."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What does the teacher say?",
+      "answer": "The teacher says, “All right. As you wish.”"
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What do the children say at the end?",
+      "answer": "The children say, “Let’s play.”"
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Write the number name for 11.",
+      "answer": "Eleven"
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Write the number name for 15.",
+      "answer": "Fifteen"
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Write the number name for 20.",
+      "answer": "Twenty"
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Which number comes after 18?",
+      "answer": "19 comes after 18."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Which number comes before 14?",
+      "answer": "13 comes before 14."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Write one sentence using 'can'.",
+      "answer": "I can read."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Write one action of a bird.",
+      "answer": "A bird can fly."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Write one action of a frog.",
+      "answer": "A frog can jump."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Write one action of a duck.",
+      "answer": "A duck can swim."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Write one action of a horse.",
+      "answer": "A horse can run."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Name two shapes from the lesson.",
+      "answer": "Two shapes are circle and square."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Which shape is used in a clock?",
+      "answer": "A clock is in a circle shape."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Which shape is used in a book?",
+      "answer": "A book is in a rectangle shape."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What sound does the bass drum make?",
+      "answer": "The bass drum makes the sound 'Dum dum dum'."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What sound does the triangle make?",
+      "answer": "The triangle makes the sound 'Ting ting ting'."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Write one sentence about the playground.",
+      "answer": "Children play on the playground."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What do the children ask the teacher?",
+      "answer": "They ask to play kho-kho."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What do children do together?",
+      "answer": "Children play together."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Write the spelling of thirteen.",
+      "answer": "thirteen"
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Write the spelling of seventeen.",
+      "answer": "seventeen"
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Write the spelling of nineteen.",
+      "answer": "nineteen"
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is the theme of the poem Tony Tinker?",
+      "answer": "The poem is about music and musical sounds."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is the theme of 'What Can You Do?'",
+      "answer": "The theme is animals and their actions."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is the theme of 'Shapes'?",
+      "answer": "The theme is identifying different shapes."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is the theme of the playground conversation?",
+      "answer": "The theme is children playing together politely."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why do we learn number names?",
+      "answer": "We learn number names to read and write numbers correctly."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why do we learn shapes?",
+      "answer": "We learn shapes to identify objects in real life."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why do we use the word 'can'?",
+      "answer": "We use 'can' to show ability."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Write one simple sentence using 'can'.",
+      "answer": "I can write."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Write one sentence about music.",
+      "answer": "Music sounds sweet and pleasant."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Write one sentence about playing games.",
+      "answer": "Playing games keeps us happy."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Write one sentence about numbers.",
+      "answer": "Numbers help us count things."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Write one sentence about shapes.",
+      "answer": "Shapes help us recognise objects."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Write one sentence about children.",
+      "answer": "Children like to play and learn."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the overall learning focus of this unit?",
+      "answer": "The unit focuses on music, actions, shapes, conversation and numbers."
+    }
+
+  ]
+}

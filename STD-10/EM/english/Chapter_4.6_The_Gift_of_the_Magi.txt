@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.4.6",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Gift of the Magi"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the author of 'The Gift of the Magi'?",
+      "options": [
+        { "option_id": 1, "text": "William Shakespeare", "is_correct": false },
+        { "option_id": 2, "text": "O. Henry", "is_correct": true },
+        { "option_id": 3, "text": "Robert Frost", "is_correct": false },
+        { "option_id": 4, "text": "Mark Twain", "is_correct": false }
+      ],
+      "answer": "O. Henry"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How much money did Della have initially?",
+      "options": [
+        { "option_id": 1, "text": "$1.87", "is_correct": true },
+        { "option_id": 2, "text": "$20.00", "is_correct": false },
+        { "option_id": 3, "text": "$21.00", "is_correct": false },
+        { "option_id": 4, "text": "$8.00", "is_correct": false }
+      ],
+      "answer": "$1.87"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How much of Della's money was in pennies?",
+      "options": [
+        { "option_id": 1, "text": "87 cents", "is_correct": false },
+        { "option_id": 2, "text": "60 cents", "is_correct": true },
+        { "option_id": 3, "text": "50 cents", "is_correct": false },
+        { "option_id": 4, "text": "40 cents", "is_correct": false }
+      ],
+      "answer": "60 cents"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What holiday was approaching?",
+      "options": [
+        { "option_id": 1, "text": "Thanksgiving", "is_correct": false },
+        { "option_id": 2, "text": "Easter", "is_correct": false },
+        { "option_id": 3, "text": "Christmas", "is_correct": true },
+        { "option_id": 4, "text": "New Year", "is_correct": false }
+      ],
+      "answer": "Christmas"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How did Della save the pennies?",
+      "options": [
+        { "option_id": 1, "text": "By working extra hours", "is_correct": false },
+        { "option_id": 2, "text": "By finding them", "is_correct": false },
+        { "option_id": 3, "text": "By bulldozing the grocer and butcher", "is_correct": true },
+        { "option_id": 4, "text": "By stealing", "is_correct": false }
+      ],
+      "answer": "By bulldozing the grocer and butcher"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the weekly rent of the flat?",
+      "options": [
+        { "option_id": 1, "text": "$8", "is_correct": true },
+        { "option_id": 2, "text": "$20", "is_correct": false },
+        { "option_id": 3, "text": "$30", "is_correct": false },
+        { "option_id": 4, "text": "$10", "is_correct": false }
+      ],
+      "answer": "$8"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What was the name on the letter-box card?",
+      "options": [
+        { "option_id": 1, "text": "Mr. James Dillingham Young", "is_correct": true },
+        { "option_id": 2, "text": "Mr. Jim Young", "is_correct": false },
+        { "option_id": 3, "text": "Mr. Dillingham", "is_correct": false },
+        { "option_id": 4, "text": "Mrs. Della Young", "is_correct": false }
+      ],
+      "answer": "Mr. James Dillingham Young"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What colour was the cat, fence, and backyard that Della looked at?",
+      "options": [
+        { "option_id": 1, "text": "Black", "is_correct": false },
+        { "option_id": 2, "text": "White", "is_correct": false },
+        { "option_id": 3, "text": "Brown", "is_correct": false },
+        { "option_id": 4, "text": "Gray", "is_correct": true }
+      ],
+      "answer": "Gray"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What were the two prized possessions of the Youngs?",
+      "options": [
+        { "option_id": 1, "text": "A car and a house", "is_correct": false },
+        { "option_id": 2, "text": "Jim's watch and Della's hair", "is_correct": true },
+        { "option_id": 3, "text": "A necklace and a ring", "is_correct": false },
+        { "option_id": 4, "text": "A painting and a statue", "is_correct": false }
+      ],
+      "answer": "Jim's watch and Della's hair"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who would have been envious of Della's hair?",
+      "options": [
+        { "option_id": 1, "text": "The Queen of Sheba", "is_correct": true },
+        { "option_id": 2, "text": "King Solomon", "is_correct": false },
+        { "option_id": 3, "text": "Madame Sofronie", "is_correct": false },
+        { "option_id": 4, "text": "The neighbours", "is_correct": false }
+      ],
+      "answer": "The Queen of Sheba"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who would have been envious of Jim's watch?",
+      "options": [
+        { "option_id": 1, "text": "The President", "is_correct": false },
+        { "option_id": 2, "text": "King Solomon", "is_correct": true },
+        { "option_id": 3, "text": "The Queen of Sheba", "is_correct": false },
+        { "option_id": 4, "text": "The Landlord", "is_correct": false }
+      ],
+      "answer": "King Solomon"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How much did Madame Sofronie pay for Della's hair?",
+      "options": [
+        { "option_id": 1, "text": "$10", "is_correct": false },
+        { "option_id": 2, "text": "$20", "is_correct": true },
+        { "option_id": 3, "text": "$21", "is_correct": false },
+        { "option_id": 4, "text": "$1.87", "is_correct": false }
+      ],
+      "answer": "$20"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What did Della buy for Jim?",
+      "options": [
+        { "option_id": 1, "text": "A leather strap", "is_correct": false },
+        { "option_id": 2, "text": "A gold ring", "is_correct": false },
+        { "option_id": 3, "text": "A platinum fob chain", "is_correct": true },
+        { "option_id": 4, "text": "A new watch", "is_correct": false }
+      ],
+      "answer": "A platinum fob chain"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How much did the fob chain cost?",
+      "options": [
+        { "option_id": 1, "text": "$20", "is_correct": false },
+        { "option_id": 2, "text": "$21", "is_correct": true },
+        { "option_id": 3, "text": "$25", "is_correct": false },
+        { "option_id": 4, "text": "$15", "is_correct": false }
+      ],
+      "answer": "$21"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What did Jim use instead of a chain for his watch?",
+      "options": [
+        { "option_id": 1, "text": "A gold chain", "is_correct": false },
+        { "option_id": 2, "text": "A string", "is_correct": false },
+        { "option_id": 3, "text": "An old leather strap", "is_correct": true },
+        { "option_id": 4, "text": "A ribbon", "is_correct": false }
+      ],
+      "answer": "An old leather strap"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What did Della look like after curling her hair?",
+      "options": [
+        { "option_id": 1, "text": "A queen", "is_correct": false },
+        { "option_id": 2, "text": "A truant schoolboy", "is_correct": true },
+        { "option_id": 3, "text": "A chorus girl", "is_correct": false },
+        { "option_id": 4, "text": "A model", "is_correct": false }
+      ],
+      "answer": "A truant schoolboy"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What did Della pray for when she heard Jim coming?",
+      "options": [
+        { "option_id": 1, "text": "That he would like the gift", "is_correct": false },
+        { "option_id": 2, "text": "That he would still think she is pretty", "is_correct": true },
+        { "option_id": 3, "text": "That he wouldn't be angry", "is_correct": false },
+        { "option_id": 4, "text": "That he had a gift for her", "is_correct": false }
+      ],
+      "answer": "That he would still think she is pretty"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "How old was Jim?",
+      "options": [
+        { "option_id": 1, "text": "Twenty", "is_correct": false },
+        { "option_id": 2, "text": "Twenty-two", "is_correct": true },
+        { "option_id": 3, "text": "Thirty", "is_correct": false },
+        { "option_id": 4, "text": "Twenty-five", "is_correct": false }
+      ],
+      "answer": "Twenty-two"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What was Jim's reaction when he saw Della's hair?",
+      "options": [
+        { "option_id": 1, "text": "He was angry", "is_correct": false },
+        { "option_id": 2, "text": "He was happy", "is_correct": false },
+        { "option_id": 3, "text": "He stared fixedly with a peculiar expression", "is_correct": true },
+        { "option_id": 4, "text": "He laughed", "is_correct": false }
+      ],
+      "answer": "He stared fixedly with a peculiar expression"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What gift did Jim bring for Della?",
+      "options": [
+        { "option_id": 1, "text": "A necklace", "is_correct": false },
+        { "option_id": 2, "text": "A set of combs", "is_correct": true },
+        { "option_id": 3, "text": "A dress", "is_correct": false },
+        { "option_id": 4, "text": "Money", "is_correct": false }
+      ],
+      "answer": "A set of combs"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Where had Della seen the combs before?",
+      "options": [
+        { "option_id": 1, "text": "In a Broadway window", "is_correct": true },
+        { "option_id": 2, "text": "In a magazine", "is_correct": false },
+        { "option_id": 3, "text": "On a friend", "is_correct": false },
+        { "option_id": 4, "text": "In a museum", "is_correct": false }
+      ],
+      "answer": "In a Broadway window"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How did Jim get the money to buy the combs?",
+      "options": [
+        { "option_id": 1, "text": "He saved up", "is_correct": false },
+        { "option_id": 2, "text": "He sold his watch", "is_correct": true },
+        { "option_id": 3, "text": "He borrowed it", "is_correct": false },
+        { "option_id": 4, "text": "He found it", "is_correct": false }
+      ],
+      "answer": "He sold his watch"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What does the author call Jim and Della at the end?",
+      "options": [
+        { "option_id": 1, "text": "Foolish children", "is_correct": false },
+        { "option_id": 2, "text": "The Magi", "is_correct": true },
+        { "option_id": 3, "text": "Poor couple", "is_correct": false },
+        { "option_id": 4, "text": "Wise spenders", "is_correct": false }
+      ],
+      "answer": "The Magi"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who were the Magi?",
+      "options": [
+        { "option_id": 1, "text": "Magicians", "is_correct": false },
+        { "option_id": 2, "text": "Wise men who brought gifts to Jesus", "is_correct": true },
+        { "option_id": 3, "text": "Kings of England", "is_correct": false },
+        { "option_id": 4, "text": "Shopkeepers", "is_correct": false }
+      ],
+      "answer": "Wise men who brought gifts to Jesus"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'parsimony'?",
+      "options": [
+        { "option_id": 1, "text": "Generosity", "is_correct": false },
+        { "option_id": 2, "text": "Unwillingness to spend money", "is_correct": true },
+        { "option_id": 3, "text": "Wealth", "is_correct": false },
+        { "option_id": 4, "text": "Poverty", "is_correct": false }
+      ],
+      "answer": "Unwillingness to spend money"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What does 'bulldozing' mean in the text?",
+      "options": [
+        { "option_id": 1, "text": "Building", "is_correct": false },
+        { "option_id": 2, "text": "Pressurizing/Bargaining hard", "is_correct": true },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Cleaning", "is_correct": false }
+      ],
+      "answer": "Pressurizing/Bargaining hard"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The word 'agile' means ________.",
+      "options": [
+        { "option_id": 1, "text": "Slow", "is_correct": false },
+        { "option_id": 2, "text": "Quick and light-footed", "is_correct": true },
+        { "option_id": 3, "text": "Heavy", "is_correct": false },
+        { "option_id": 4, "text": "Sad", "is_correct": false }
+      ],
+      "answer": "Quick and light-footed"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The word 'cascade' refers to ________.",
+      "options": [
+        { "option_id": 1, "text": "A small waterfall", "is_correct": true },
+        { "option_id": 2, "text": "A mountain", "is_correct": false },
+        { "option_id": 3, "text": "A river", "is_correct": false },
+        { "option_id": 4, "text": "A fire", "is_correct": false }
+      ],
+      "answer": "A small waterfall"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What does 'coveted' mean?",
+      "options": [
+        { "option_id": 1, "text": "Ignored", "is_correct": false },
+        { "option_id": 2, "text": "Sought after/Greatly desired", "is_correct": true },
+        { "option_id": 3, "text": "Hated", "is_correct": false },
+        { "option_id": 4, "text": "Sold", "is_correct": false }
+      ],
+      "answer": "Sought after/Greatly desired"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which word describes the combs? 'Pure ________ shell'.",
+      "options": [
+        { "option_id": 1, "text": "Sea", "is_correct": false },
+        { "option_id": 2, "text": "Tortoise", "is_correct": true },
+        { "option_id": 3, "text": "Egg", "is_correct": false },
+        { "option_id": 4, "text": "Nut", "is_correct": false }
+      ],
+      "answer": "Tortoise"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is the moral of the story?",
+      "options": [
+        { "option_id": 1, "text": "Save money", "is_correct": false },
+        { "option_id": 2, "text": "Gifts are important", "is_correct": false },
+        { "option_id": 3, "text": "True love involves sacrifice", "is_correct": true },
+        { "option_id": 4, "text": "Don't sell your hair", "is_correct": false }
+      ],
+      "answer": "True love involves sacrifice"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What metal was the fob chain made of?",
+      "options": [
+        { "option_id": 1, "text": "Gold", "is_correct": false },
+        { "option_id": 2, "text": "Silver", "is_correct": false },
+        { "option_id": 3, "text": "Platinum", "is_correct": true },
+        { "option_id": 4, "text": "Bronze", "is_correct": false }
+      ],
+      "answer": "Platinum"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What does 'meretricious ornamentation' mean?",
+      "options": [
+        { "option_id": 1, "text": "Valuable decoration", "is_correct": false },
+        { "option_id": 2, "text": "Showy but cheap/false", "is_correct": true },
+        { "option_id": 3, "text": "Simple design", "is_correct": false },
+        { "option_id": 4, "text": "Antique style", "is_correct": false }
+      ],
+      "answer": "Showy but cheap/false"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "How did Della repair the 'ravages' of her hair?",
+      "options": [
+        { "option_id": 1, "text": "Using curling irons", "is_correct": true },
+        { "option_id": 2, "text": "Wearing a wig", "is_correct": false },
+        { "option_id": 3, "text": "Cutting it shorter", "is_correct": false },
+        { "option_id": 4, "text": "Dyeing it", "is_correct": false }
+      ],
+      "answer": "Using curling irons"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What was cooking on the stove?",
+      "options": [
+        { "option_id": 1, "text": "Steak", "is_correct": false },
+        { "option_id": 2, "text": "Chops", "is_correct": true },
+        { "option_id": 3, "text": "Soup", "is_correct": false },
+        { "option_id": 4, "text": "Fish", "is_correct": false }
+      ],
+      "answer": "Chops"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What did Jim need a new one of?",
+      "options": [
+        { "option_id": 1, "text": "Hat", "is_correct": false },
+        { "option_id": 2, "text": "Shoes", "is_correct": false },
+        { "option_id": 3, "text": "Overcoat", "is_correct": true },
+        { "option_id": 4, "text": "Scarf", "is_correct": false }
+      ],
+      "answer": "Overcoat"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Jim was without ________.",
+      "options": [
+        { "option_id": 1, "text": "Gloves", "is_correct": true },
+        { "option_id": 2, "text": "Socks", "is_correct": false },
+        { "option_id": 3, "text": "A tie", "is_correct": false },
+        { "option_id": 4, "text": "A belt", "is_correct": false }
+      ],
+      "answer": "Gloves"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What does 'laboriously' mean?",
+      "options": [
+        { "option_id": 1, "text": "Easily", "is_correct": false },
+        { "option_id": 2, "text": "With great effort", "is_correct": true },
+        { "option_id": 3, "text": "Quickly", "is_correct": false },
+        { "option_id": 4, "text": "Happily", "is_correct": false }
+      ],
+      "answer": "With great effort"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "How does the author describe the magi?",
+      "options": [
+        { "option_id": 1, "text": "Foolish", "is_correct": false },
+        { "option_id": 2, "text": "Wonderfully wise", "is_correct": true },
+        { "option_id": 3, "text": "Rich", "is_correct": false },
+        { "option_id": 4, "text": "Young", "is_correct": false }
+      ],
+      "answer": "Wonderfully wise"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the irony in the story?",
+      "options": [
+        { "option_id": 1, "text": "Verbal Irony", "is_correct": false },
+        { "option_id": 2, "text": "Situational Irony", "is_correct": true },
+        { "option_id": 3, "text": "Dramatic Irony", "is_correct": false },
+        { "option_id": 4, "text": "No Irony", "is_correct": false }
+      ],
+      "answer": "Situational Irony"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What income was Jim paid earlier?",
+      "options": [
+        { "option_id": 1, "text": "$20", "is_correct": false },
+        { "option_id": 2, "text": "$30", "is_correct": true },
+        { "option_id": 3, "text": "$40", "is_correct": false },
+        { "option_id": 4, "text": "$50", "is_correct": false }
+      ],
+      "answer": "$30"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What income was Jim paid now?",
+      "options": [
+        { "option_id": 1, "text": "$10", "is_correct": false },
+        { "option_id": 2, "text": "$20", "is_correct": true },
+        { "option_id": 3, "text": "$30", "is_correct": false },
+        { "option_id": 4, "text": "$15", "is_correct": false }
+      ],
+      "answer": "$20"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Della compared her hair to a __________ of brown waters.",
+      "options": [
+        { "option_id": 1, "text": "River", "is_correct": false },
+        { "option_id": 2, "text": "Stream", "is_correct": false },
+        { "option_id": 3, "text": "Cascade", "is_correct": true },
+        { "option_id": 4, "text": "Lake", "is_correct": false }
+      ],
+      "answer": "Cascade"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What is 'prudence'?",
+      "options": [
+        { "option_id": 1, "text": "Foolishness", "is_correct": false },
+        { "option_id": 2, "text": "Quality of being wise", "is_correct": true },
+        { "option_id": 3, "text": "Bravery", "is_correct": false },
+        { "option_id": 4, "text": "Fear", "is_correct": false }
+      ],
+      "answer": "Quality of being wise"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What is a 'pier-glass'?",
+      "options": [
+        { "option_id": 1, "text": "A type of window", "is_correct": false },
+        { "option_id": 2, "text": "A mirror", "is_correct": true },
+        { "option_id": 3, "text": "A door", "is_correct": false },
+        { "option_id": 4, "text": "A table", "is_correct": false }
+      ],
+      "answer": "A mirror"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "How did Della feel while waiting for Jim?",
+      "options": [
+        { "option_id": 1, "text": "Angry", "is_correct": false },
+        { "option_id": 2, "text": "Nervous", "is_correct": true },
+        { "option_id": 3, "text": "Bored", "is_correct": false },
+        { "option_id": 4, "text": "Sleepy", "is_correct": false }
+      ],
+      "answer": "Nervous"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Jim stopped inside the door as immovable as a _______ at the scent of quail.",
+      "options": [
+        { "option_id": 1, "text": "Hunter", "is_correct": false },
+        { "option_id": 2, "text": "Setter (dog)", "is_correct": true },
+        { "option_id": 3, "text": "Statue", "is_correct": false },
+        { "option_id": 4, "text": "Guard", "is_correct": false }
+      ],
+      "answer": "Setter (dog)"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'assertion'?",
+      "options": [
+        { "option_id": 1, "text": "Question", "is_correct": false },
+        { "option_id": 2, "text": "Statement/Claim", "is_correct": true },
+        { "option_id": 3, "text": "Doubt", "is_correct": false },
+        { "option_id": 4, "text": "Denial", "is_correct": false }
+      ],
+      "answer": "Statement/Claim"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'inconsequential'?",
+      "options": [
+        { "option_id": 1, "text": "Important", "is_correct": false },
+        { "option_id": 2, "text": "Unimportant", "is_correct": true },
+        { "option_id": 3, "text": "Large", "is_correct": false },
+        { "option_id": 4, "text": "Heavy", "is_correct": false }
+      ],
+      "answer": "Unimportant"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What did Jim do instead of checking the time on his new fob?",
+      "options": [
+        { "option_id": 1, "text": "He laughed", "is_correct": false },
+        { "option_id": 2, "text": "He cried", "is_correct": false },
+        { "option_id": 3, "text": "He tumbled onto the couch and smiled", "is_correct": true },
+        { "option_id": 4, "text": "He ran away", "is_correct": false }
+      ],
+      "answer": "He tumbled onto the couch and smiled"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "How much money did Della have to buy a present for Jim?",
+      "answer": "Della had one dollar and eighty-seven cents."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why did Della's cheeks burn when saving money?",
+      "answer": "Her cheeks burned with the silent imputation of parsimony (stinginess) implied by such close dealing."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What did Della do after counting her money three times?",
+      "answer": "She flopped down on the shabby little couch and howled."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does the author say life is made up of?",
+      "answer": "Life is made up of sobs, sniffles, and smiles, with sniffles predominating."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Describe the flat the couple lived in.",
+      "answer": "It was a furnished flat at $8 per week, in a condition that didn't exactly beggar description but looked out for the mendicancy squad."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What was the condition of the letter-box and electric button?",
+      "answer": "No letter would go into the letter-box, and no finger could coax a ring from the electric button."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What happened to the name 'Dillingham' on the card?",
+      "answer": "It had been flung to the breeze during prosperity but was now blurred, as if thinking of contracting to a modest 'D'."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How did Della welcome Jim when he came home?",
+      "answer": "She called him 'Jim' and greatly hugged him."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What colour dominated Della's view out the window?",
+      "answer": "Gray; she saw a gray cat walking a gray fence in a gray backyard."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How long had Della been saving for Jim's gift?",
+      "answer": "She had been saving every penny she could for months."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What kind of gift did Della want for Jim?",
+      "answer": "Something fine and rare and sterling, worthy of the honour of being owned by Jim."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is a pier-glass?",
+      "answer": "A pier-glass is a tall, narrow mirror, typically placed between windows."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How could one see themselves in the pier-glass?",
+      "answer": "By observing reflection in a rapid sequence of longitudinal strips."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What were the two possessions the James Dillingham Youngs took mighty pride in?",
+      "answer": "Jim's gold watch and Della's hair."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "To whom did Jim's watch originally belong?",
+      "answer": "It had been his father's and his grandfather's."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why would Della hang her hair out the window?",
+      "answer": "To dry it and to depreciate the Queen of Sheba's jewels and gifts."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why would Jim pull out his watch in front of King Solomon?",
+      "answer": "To see him pluck at his beard from envy."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How far did Della's hair reach?",
+      "answer": "It reached below her knee."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Where did Della stop to sell her hair?",
+      "answer": "She stopped at 'Mme. Sofronie. Hair Goods of All Kinds'."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Describe Madame Sofronie.",
+      "answer": "She was large, too white, chilly, and hardly looked the 'Sofronie'."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What did Della ask Madame Sofronie?",
+      "answer": "'Will you buy my hair?'"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "How did Madame Sofronie evaluate the hair?",
+      "answer": "She lifted the mass with a practiced hand."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What did Della do for the next two hours?",
+      "answer": "She was ransacking the stores for Jim's present."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why was the platinum fob chain perfect for Jim?",
+      "answer": "It was simple and chaste in design, proclaiming value by substance alone, like Jim."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What did Della do when she got home with the money?",
+      "answer": "She got out her curling irons to repair the ravages made by generosity."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Who did Della look like after curling her hair?",
+      "answer": "She looked wonderfully like a truant schoolboy."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What did Della fear Jim would say?",
+      "answer": "She feared he would say she looked like a Coney Island chorus girl."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What was Jim's reaction upon seeing Della?",
+      "answer": "He stopped inside the door, immovable, with a peculiar expression that terrified Della."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Was Jim angry or surprised?",
+      "answer": "No, it was not anger, nor surprise, nor disapproval, nor horror."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why did Della say she cut her hair?",
+      "answer": "Because she couldn't have lived through Christmas without giving him a present."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What assurance did Della give Jim about her hair?",
+      "answer": "She said, 'It'll grow out again' and 'My hair grows awfully fast'."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What did Jim ask laboriously?",
+      "answer": "'You've cut off your hair?'"
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What did Jim say about his feelings for Della?",
+      "answer": "He said nothing like a haircut could make him like his girl any less."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why did Jim want Della to unwrap the package?",
+      "answer": "So she could see why he had been so stunned at first."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What was inside the package Jim brought?",
+      "answer": "The Combs—the set of combs, side and back, that Della had worshipped."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Describe the combs.",
+      "answer": "They were beautiful combs, pure tortoise shell, with jeweled rims."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why did Della cry upon seeing the combs?",
+      "answer": "Because the hair that the combs were meant to adorn was gone."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What did Della say to comfort Jim about the combs?",
+      "answer": "She said, 'My hair grows so fast, Jim!'"
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How did Della present her gift to Jim?",
+      "answer": "She held it out to him eagerly upon her open palm."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What did Della ask Jim to do with the watch?",
+      "answer": "She asked him to give it to her so she could see how the chain looked on it."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What did Jim do instead of giving the watch?",
+      "answer": "He tumbled down on the couch and put his hands under his head and smiled."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why did Jim sell his watch?",
+      "answer": "He sold the watch to get the money to buy Della's combs."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What suggestion did Jim make about the presents?",
+      "answer": "He suggested they put them away and keep them a while as they were too nice to use just yet."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who invented the art of giving Christmas presents?",
+      "answer": "The Magi invented the art of giving Christmas presents."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why does the author call Jim and Della 'foolish children'?",
+      "answer": "Because they unwisely sacrificed the greatest treasures of their house for each other."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why does the author ultimately call them 'the wisest'?",
+      "answer": "Because they understood the true spirit of giving and love, sacrificing for each other."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the 'mendicancy squad'?",
+      "answer": "Police who arrest beggars and the homeless."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does 'instigates' mean in the context of the story?",
+      "answer": "It means provokes or brings about."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What does 'ardent' mean?",
+      "answer": "It means enthusiastic or passionate."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is a 'chronicle'?",
+      "answer": "A factual written account of important or historical events."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Describe the financial situation of Jim and Della at the beginning of the story.",
+      "answer": "Jim and Della were living in poverty. Their income had shrunk from $30 to $20 a week. They lived in a furnished flat costing $8 per week, which was in poor condition. Della had saved only $1.87 for Christmas after months of pinching pennies and bargaining with grocers. Their possessions were few, and they struggled to make ends meet, yet they loved each other deeply."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Explain the significance of the title 'The Gift of the Magi'.",
+      "answer": "The Magi were wise men who brought valuable gifts to the newborn Jesus, establishing the tradition of Christmas giving. The title compares Jim and Della to the Magi. Although they sacrificed their most prized possessions foolishly in a worldly sense, their acts of self-sacrifice proved their wisdom. They realized that love is the greatest gift, making them the wisest of all givers, like the Magi."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Describe Della's hair and its importance.",
+      "answer": "Della's hair was one of the couple's two prized possessions. It was beautiful, rippling and shining like a cascade of brown waters. It was long enough to reach below her knee and almost served as a garment. The author exaggerates its value by saying even the Queen of Sheba would envy it. It symbolized Della's beauty and pride."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Describe Jim's watch and its importance.",
+      "answer": "Jim's gold watch was the other prized possession of the couple. It was a family heirloom, having belonged to his father and grandfather. The author states that even King Solomon would envy it. However, Jim had to use an old leather strap because he didn't have a proper chain. It symbolized Jim's heritage and dignity."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "Explain the situational irony in the story.",
+      "answer": "The situational irony lies in the outcome of the gift exchange. Della sells her hair to buy a chain for Jim's watch, while Jim sells his watch to buy combs for Della's hair. Both gifts become useless in a practical sense because the receiver no longer has the object the gift was intended for. However, the irony highlights the depth of their love and sacrifice."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "How does O. Henry describe the setting to reflect the couple's poverty?",
+      "answer": "O. Henry uses descriptive details to paint a picture of poverty. He mentions the 'shabby little couch', the '$8 flat', the broken letter-box and electric button. The view outside is 'a gray cat walking a gray fence in a gray backyard', emphasizing the bleakness. The mention of 'mendicancy squad' suggests they are on the verge of begging. These details set the stage for the magnitude of their sacrifice."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Why did Della cry after receiving the combs?",
+      "answer": "Della cried because the combs were something she had yearned for a long time but never hoped to possess. They were beautiful and expensive. Receiving them was a moment of immense joy, but it was immediately followed by the realization and sorrow that she had cut off the hair that the combs were meant to adorn. The mix of joy for the gift and grief for her hair caused her hysterical tears."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "Discuss the theme of Love in the story.",
+      "answer": "Love is the central theme of the story. Both Jim and Della are willing to part with their most valuable possessions to make the other happy. Their actions are driven purely by the desire to give a worthy Christmas gift. Jim's reaction to Della's short hair and Della's reassurance show unconditional acceptance. The story suggests that true love is about selflessness and sacrifice."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Why does the narrator consider Jim and Della 'wisest'?",
+      "answer": "In the eyes of the world, Jim and Della might seem foolish for selling valuable items for gifts that couldn't be used. However, the narrator calls them the wisest because they understood the true value of giving. They valued their love above material possessions. Their sacrifice proved their deep affection, which is the wisdom of the Magi—the wisdom of the heart."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Describe Jim's reaction when he first sees Della with short hair.",
+      "answer": "When Jim enters and sees Della, he stops immovable 'as a setter at the scent of quail'. He stares at her with a peculiar expression that Della cannot read, which terrifies her. It is not anger or disapproval, but a state of trance. He struggles to comprehend the fact that her hair is gone because he has bought combs for that very hair. He is stunned by the irony."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "What is the role of the narrator in the story?",
+      "answer": "The narrator acts as a storyteller who not only narrates events but also provides commentary. He addresses the reader directly ('dear friends', 'let us regard'). He adds philosophical reflections on life ('sobs, sniffles, and smiles'). He judges the characters, calling them 'foolish children' yet ultimately elevating them to the status of 'Magi', guiding the reader to the moral of the story."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "How does Della try to fix her appearance before Jim comes home?",
+      "answer": "After selling her hair, Della is initially intoxicated with the task of finding a gift. Once back home, prudence takes over. She gets out her curling irons and lights the gas. She spends forty minutes carefully curling the short hair that is left, trying to repair the 'ravages made by generosity'. She looks in the mirror critically, worrying she looks like a 'truant schoolboy'."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "Compare the gifts bought by Jim and Della.",
+      "answer": "Della bought a platinum fob chain for Jim's watch. It was simple, chaste, and valuable by substance alone, reflecting Jim's quiet value. Jim bought a set of expensive tortoise shell combs with jeweled rims for Della's hair. Both gifts were intended to adorn the other's most prized possession. Both gifts were expensive relative to their means and required the sacrifice of the other prized possession."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "What does the story say about material possessions vs. human relationships?",
+      "answer": "The story posits that human relationships and love are far more valuable than material possessions. The watch and the hair were treasures, but they were sacrificed without hesitation for the sake of the partner. The gifts themselves (chain and combs) became useless materially, but they served as a testament to their love. The story concludes that the spirit of giving is the true treasure."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Imagine you are Della. Write a diary entry for Christmas night.",
+      "answer": "Dear Diary, Today was the most emotional Christmas. I cut my hair! I sold it to buy a chain for Jim's watch. I was so scared he wouldn't think I was pretty. But Jim... oh, my Jim! He sold his watch to buy me the beautiful combs I wanted! We can't use our gifts now, but I have the greatest gift of all - his love. We are foolish, maybe, but we are happy."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Justify the statement: 'Life is made up of sobs, sniffles, and smiles, with sniffles predominating.'",
+      "answer": "This statement reflects the realistic and somewhat melancholic view of life presented in the story. 'Sobs' represent deep grief, 'smiles' represent joy, and 'sniffles' represent the quiet, ongoing struggles and minor sorrows of everyday life. For Della, life in poverty involves constant struggle (sniffles), occasional despair (sobs), and moments of love (smiles). The predominance of sniffles suggests that life is mostly a struggle to get by."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "Explain the comparison to Queen of Sheba and King Solomon.",
+      "answer": "The author uses biblical allusions to emphasize the value of the couple's possessions. The Queen of Sheba and King Solomon were known for their immense wealth. By saying Della's hair would make the Queen's jewels depreciate and Jim's watch would make Solomon envious, the author elevates their humble treasures. It highlights that their possessions were precious to them, transcending monetary value."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "How does the story depict the sacrifices made by the characters?",
+      "answer": "The sacrifices are depicted as supreme acts of love. Della sacrifices her vanity and her beauty (her hair) which she took mighty pride in. Jim sacrifices his heritage and his most valuable asset (his watch). Both give up the only things of value they have to buy something to enhance the other's treasure. The irony is that the sacrifices cancel out the utility of the gifts."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "What is the climax of the story?",
+      "answer": "The climax occurs when the gifts are exchanged. First, Jim reveals the combs, and the reader (and Della) realizes the tragedy of her cut hair. Then, Della reveals the chain, and Jim reveals he sold the watch. This moment of mutual realization—that both have sacrificed their treasures effectively rendering the gifts useless—is the peak emotional turning point of the narrative."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "Do you think the story ends on a happy or sad note? Explain.",
+      "answer": "The story ends on a bittersweet note, but ultimately it is happy/positive. Materially, it is sad; they have lost their treasures and have useless gifts. However, emotionally and spiritually, it is a triumph. They have proven the depth of their love for each other. The narrator affirms this by calling them 'wise'. Their relationship is stronger than their poverty."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "Describe the scene at Madame Sofronie's shop.",
+      "answer": "Della runs up the stairs, panting. The sign indicates 'Hair Goods'. Madame Sofronie is described as large, white, and chilly, contrasting with Della's warmth and desperation. The transaction is blunt and business-like. Della asks if she will buy her hair, Madame assesses it with a 'practiced hand' and offers $20. Della eagerly accepts, saying 'Give it to me quick', eager to start shopping."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "How does Della's character evolve in the story?",
+      "answer": "Della starts as a weeping, helpless figure frustrated by poverty. She then takes decisive action, showing courage and determination by selling her hair. She becomes anxious about her appearance, seeking validation. Finally, she displays resilience and optimism, trying to comfort Jim and focusing on their love rather than the material loss. She moves from despair to proactive love."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "What does the 'fob chain' symbolize?",
+      "answer": "The fob chain symbolizes Della's love for Jim. It is described as 'quietness and value', traits she associates with Jim. It represents her desire to give him dignity (so he can check time without embarrassment). Its purchase is the result of her sacrifice, making it a symbol of selfless giving."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "What do the 'combs' symbolize?",
+      "answer": "The combs symbolize Jim's love and appreciation for Della's beauty. He knew she worshipped them. By selling his watch to buy them, he shows he values her happiness above his heirloom. However, they also become a symbol of the irony of their situation—useless beauty in the face of practical sacrifice."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "How does O. Henry create suspense in the story?",
+      "answer": "Suspense is created through Della's anxiety about Jim's reaction. The reader waits with Della as she prays Jim won't find her ugly. When Jim arrives, his unreadable expression builds tension. The revelation of the combs breaks this tension, only to be followed by the second surprise of the sold watch. The delayed reveal of Jim's sacrifice keeps the reader engaged."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "Why is the description of the $8 flat important?",
+      "answer": "The detailed description of the shabby flat underscores the poverty the couple lives in. It highlights the value of the $20 Della gets for her hair—it's a significant amount for them. It also serves to contrast their material poverty with their spiritual/emotional richness. Despite the broken letterbox and shabby couch, their home is filled with love."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "Discuss the significance of the Magi in the context of Christmas.",
+      "answer": "The Magi were the Three Wise Men who travelled to Bethlehem to give gifts (gold, frankincense, myrrh) to the infant Jesus. This act initiated the tradition of Christmas gift-giving. In the story, they represent the archetype of wisdom and giving. O. Henry uses them to redefine wisdom—not as the giving of valuable things, but as the giving of oneself."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "What is the message for modern society in this story?",
+      "answer": "In a consumerist society focused on material value, the story reminds us that the thought and sacrifice behind a gift matter more than the gift itself. It teaches that relationships are more important than possessions. It encourages a spirit of selfless giving rather than transactional exchange. It defines true wealth as love."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "Rewrite the ending of the story (creative writing).",
+      "answer": "(Sample Answer) Instead of putting the gifts away, Jim laughs and says, 'Well, let's keep them as a promise. One day, I'll buy back the watch for the chain, and your hair will grow for the combs. Until then, they are trophies of our love.' They hung the combs and the chain on the Christmas tree, shining brighter than any ornament, symbols of a love that gold could not buy."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "Analyze the statement: 'Eight dollars a week or a million a year - what is the difference?'",
+      "answer": "This rhetorical question posed by the narrator suggests that when it comes to the true value of life—love and sacrifice—money is irrelevant. A mathematician would calculate the difference, but a 'wit' would see the deeper truth. Whether rich or poor, the act of giving from the heart (like the Magi) makes one truly wealthy. Financial status does not determine wisdom or happiness."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "Identify the Participles in: 'Della, being slender, had mastered the art.'",
+      "answer": "The word 'being' is a Present Participle functioning as an adjective phrase describing Della. The word 'mastered' is a Past Participle used with the auxiliary 'had' to form the Past Perfect tense. (Note: In the context of non-finite verbs exercises, 'being' is the key participle here acting as an adjective)."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "Identify the Infinitive in: 'She had been saving every penny she could for months.'",
+      "answer": "There is no infinitive in this specific sentence. (Let's check the text for another). Example: 'The athletes wanted to take part'. 'to take' is the infinitive. In the story text: 'There was clearly nothing to do but flop down'. 'to do' is the infinitive."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "Identify the Gerund in: 'Reading is good for the mind.'",
+      "answer": "'Reading' is the Gerund. It ends in -ing and functions as the subject of the sentence (noun)."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "Frame a Wh-question for: 'Life is made up of sobs, sniffles and smiles.'",
+      "answer": "What is life made up of?"
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Frame a Wh-question for: 'Della counted the money three times.'",
+      "answer": "How many times did Della count the money?"
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "Add a Question Tag: 'You'll have to look at the time.'",
+      "answer": "You'll have to look at the time, won't you?"
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "Add a Question Tag: 'I am still pretty.'",
+      "answer": "I am still pretty, aren't I?"
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "Add a Question Tag: 'Let's put our Christmas presents away.'",
+      "answer": "Let's put our Christmas presents away, shall we?"
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "Change to Indirect Speech: Della said, 'Will you buy my hair?'",
+      "answer": "Della asked if she would buy her hair."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "Change to Indirect Speech: Jim said, 'Don't make any mistake about me, Dell.'",
+      "answer": "Jim told Dell not to make any mistake about him."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "Use the word 'coax' in your own sentence.",
+      "answer": "I tried to coax the frightened kitten out from under the car with a bowl of milk."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "Use the word 'prudence' in your own sentence.",
+      "answer": "She acted with prudence by saving a portion of her salary every month for emergencies."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "Use the word 'ravages' in your own sentence.",
+      "answer": "The town bore the ravages of the recent storm, with trees uprooted and roofs damaged."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "Form a word chain of verbs: eat -> t... -> ...",
+      "answer": "eat -> take -> educate -> enjoy -> yell."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "Form a word chain of nouns: gift -> t... -> ...",
+      "answer": "gift -> table -> elephant -> tiger -> road."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "Translate into your medium of instruction: 'Love is the greatest gift.'",
+      "answer": "(Hindi) प्रेम सबसे बड़ा उपहार है. / (Marathi) प्रेम ही सर्वात मोठी देणगी आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "Why did Della count the money three times? (Interpretative)",
+      "answer": "Della counted the money three times because she was desperate. She hoped she had miscounted and actually had more. It emphasizes how little she had ($1.87) relative to what she wanted to buy, and how stressed she was about getting a worthy gift for Jim."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "How did the couple manage expenses on $20 a week?",
+      "answer": "The story implies they managed with great difficulty. Della had to bargain hard ('bulldozing') with merchants to save pennies. They lived in a cheap flat. They likely cut back on all non-essentials. The 'shabby' furniture suggests they couldn't afford replacements. Their poverty required constant, humiliating economy."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "What is the 'silent imputation of parsimony'?",
+      "answer": "It refers to the unspoken accusation of being stingy or miserly. When Della bargained hard to save pennies, the grocer or butcher might have looked at her as if she was cheap. This caused her cheeks to burn with embarrassment because she wasn't miserly by nature, but poor by circumstance."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "Why is the story set on Christmas Eve?",
+      "answer": "Christmas Eve is the traditional time for exchanging gifts. Setting the story then heightens the urgency and emotional stakes. It connects the characters' actions to the spirit of the Magi and the birth of Jesus (the ultimate gift). It emphasizes the theme of selfless giving associated with the holiday."
+    }
+  ]
+}

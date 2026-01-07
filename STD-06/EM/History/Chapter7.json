@@ -1,0 +1,1214 @@
+{
+  "Chapter 7 ": "India during the Maurya Period",
+  "lessons": [
+    "The Greek Emperor Alexander’s Invasion",
+    "The Maurya Empire"
+  ],
+  "total_questions": 150,
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which river did Alexander cross to enter India in 326 BCE?",
+      "options": [
+        { "option_id": 1, "text": "Ganga", "is_correct": false },
+        { "option_id": 2, "text": "Yamuna", "is_correct": false },
+        { "option_id": 3, "text": "Indus (Sindhu)", "is_correct": true },
+        { "option_id": 4, "text": "Saraswati", "is_correct": false }
+      ],
+      "answer": "Indus (Sindhu)"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which city did Alexander reach after crossing the Indus river?",
+      "options": [
+        { "option_id": 1, "text": "Pataliputra", "is_correct": false },
+        { "option_id": 2, "text": "Takshashila", "is_correct": true },
+        { "option_id": 3, "text": "Ujjayani", "is_correct": false },
+        { "option_id": 4, "text": "Rajgriha", "is_correct": false }
+      ],
+      "answer": "Takshashila"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why was Alexander forced to turn back from India?",
+      "options": [
+        { "option_id": 1, "text": "He was defeated by Indian kings", "is_correct": false },
+        { "option_id": 2, "text": "His soldiers rebelled and wanted to return home", "is_correct": true },
+        { "option_id": 3, "text": "He lacked military resources", "is_correct": false },
+        { "option_id": 4, "text": "He fell ill in Punjab", "is_correct": false }
+      ],
+      "answer": "His soldiers rebelled and wanted to return home"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What administrative system did Alexander introduce in the conquered Indian territories?",
+      "options": [
+        { "option_id": 1, "text": "Provincial governors called Satraps", "is_correct": true },
+        { "option_id": 2, "text": "Local assemblies", "is_correct": false },
+        { "option_id": 3, "text": "Feudal chiefs", "is_correct": false },
+        { "option_id": 4, "text": "Council of ministers", "is_correct": false }
+      ],
+      "answer": "Provincial governors called Satraps"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Where did Alexander die in 323 BCE?",
+      "options": [
+        { "option_id": 1, "text": "Takshashila", "is_correct": false },
+        { "option_id": 2, "text": "Athens", "is_correct": false },
+        { "option_id": 3, "text": "Babylon", "is_correct": true },
+        { "option_id": 4, "text": "Persepolis", "is_correct": false }
+      ],
+      "answer": "Babylon"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which major impact resulted from Alexander’s campaign in India?",
+      "options": [
+        { "option_id": 1, "text": "Spread of Buddhism", "is_correct": false },
+        { "option_id": 2, "text": "Increase in trade between India and the western world", "is_correct": true },
+        { "option_id": 3, "text": "Unification of India", "is_correct": false },
+        { "option_id": 4, "text": "Decline of agriculture", "is_correct": false }
+      ],
+      "answer": "Increase in trade between India and the western world"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which art style emerged due to Greek influence on Indian art?",
+      "options": [
+        { "option_id": 1, "text": "Mathura School", "is_correct": false },
+        { "option_id": 2, "text": "Amaravati School", "is_correct": false },
+        { "option_id": 3, "text": "Gandhara School", "is_correct": true },
+        { "option_id": 4, "text": "Chola School", "is_correct": false }
+      ],
+      "answer": "Gandhara School"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What feature was common on Greek coins mentioned in the chapter?",
+      "options": [
+        { "option_id": 1, "text": "Only symbols", "is_correct": false },
+        { "option_id": 2, "text": "Images of animals only", "is_correct": false },
+        { "option_id": 3, "text": "Picture of the king and a Greek god", "is_correct": true },
+        { "option_id": 4, "text": "Inscriptions in Brahmi script", "is_correct": false }
+      ],
+      "answer": "Picture of the king and a Greek god"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which Iranian emperor introduced the uniform currency called ‘Darik’?",
+      "options": [
+        { "option_id": 1, "text": "Cyrus", "is_correct": false },
+        { "option_id": 2, "text": "Daryush", "is_correct": true },
+        { "option_id": 3, "text": "Alexander", "is_correct": false },
+        { "option_id": 4, "text": "Seleucus", "is_correct": false }
+      ],
+      "answer": "Daryush"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which city was the capital of the Iranian Empire under Daryush?",
+      "options": [
+        { "option_id": 1, "text": "Babylon", "is_correct": false },
+        { "option_id": 2, "text": "Persepolis", "is_correct": true },
+        { "option_id": 3, "text": "Susa", "is_correct": false },
+        { "option_id": 4, "text": "Nineveh", "is_correct": false }
+      ],
+      "answer": "Persepolis"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who founded the Maurya Empire?",
+      "options": [
+        { "option_id": 1, "text": "Ashoka", "is_correct": false },
+        { "option_id": 2, "text": "Bindusara", "is_correct": false },
+        { "option_id": 3, "text": "Chandragupta Maurya", "is_correct": true },
+        { "option_id": 4, "text": "Bimbisara", "is_correct": false }
+      ],
+      "answer": "Chandragupta Maurya"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which Nanda ruler was overthrown by Chandragupta Maurya?",
+      "options": [
+        { "option_id": 1, "text": "Mahapadma Nanda", "is_correct": false },
+        { "option_id": 2, "text": "Dhanananda", "is_correct": true },
+        { "option_id": 3, "text": "Ajatshatru", "is_correct": false },
+        { "option_id": 4, "text": "Shishunag", "is_correct": false }
+      ],
+      "answer": "Dhanananda"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Around which year did Chandragupta Maurya establish his rule?",
+      "options": [
+        { "option_id": 1, "text": "350 BCE", "is_correct": false },
+        { "option_id": 2, "text": "325 BCE", "is_correct": true },
+        { "option_id": 3, "text": "300 BCE", "is_correct": false },
+        { "option_id": 4, "text": "273 BCE", "is_correct": false }
+      ],
+      "answer": "325 BCE"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which regions were added to the Maurya Empire after defeating Seleucus Nicator?",
+      "options": [
+        { "option_id": 1, "text": "Punjab and Sindh", "is_correct": false },
+        { "option_id": 2, "text": "Kabul, Kandahar and Herat", "is_correct": true },
+        { "option_id": 3, "text": "Gujarat and Rajasthan", "is_correct": false },
+        { "option_id": 4, "text": "Odisha and Bengal", "is_correct": false }
+      ],
+      "answer": "Kabul, Kandahar and Herat"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which Sanskrit play describes the rise of Chandragupta Maurya?",
+      "options": [
+        { "option_id": 1, "text": "Abhijnanashakuntalam", "is_correct": false },
+        { "option_id": 2, "text": "Mudrarakshasa", "is_correct": true },
+        { "option_id": 3, "text": "Malavikagnimitram", "is_correct": false },
+        { "option_id": 4, "text": "Swapnavasavadatta", "is_correct": false }
+      ],
+      "answer": "Mudrarakshasa"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who was also known as Kautilya?",
+      "options": [
+        { "option_id": 1, "text": "Bindusara", "is_correct": false },
+        { "option_id": 2, "text": "Megasthenes", "is_correct": false },
+        { "option_id": 3, "text": "Arya Chanakya", "is_correct": true },
+        { "option_id": 4, "text": "Ashoka", "is_correct": false }
+      ],
+      "answer": "Arya Chanakya"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which foreign ambassador wrote the book ‘Indica’?",
+      "options": [
+        { "option_id": 1, "text": "Seleucus", "is_correct": false },
+        { "option_id": 2, "text": "Megasthenes", "is_correct": true },
+        { "option_id": 3, "text": "Pliny", "is_correct": false },
+        { "option_id": 4, "text": "Herodotus", "is_correct": false }
+      ],
+      "answer": "Megasthenes"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which structure was built by Chandragupta Maurya near Junagadh?",
+      "options": [
+        { "option_id": 1, "text": "Stupa", "is_correct": false },
+        { "option_id": 2, "text": "Sudarshan dam", "is_correct": true },
+        { "option_id": 3, "text": "Vihara", "is_correct": false },
+        { "option_id": 4, "text": "Fort", "is_correct": false }
+      ],
+      "answer": "Sudarshan dam"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who succeeded Chandragupta Maurya on the throne?",
+      "options": [
+        { "option_id": 1, "text": "Ashoka", "is_correct": false },
+        { "option_id": 2, "text": "Bindusara", "is_correct": true },
+        { "option_id": 3, "text": "Chanakya", "is_correct": false },
+        { "option_id": 4, "text": "Dhanananda", "is_correct": false }
+      ],
+      "answer": "Bindusara"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "In which year did Ashoka ascend the throne?",
+      "options": [
+        { "option_id": 1, "text": "325 BCE", "is_correct": false },
+        { "option_id": 2, "text": "300 BCE", "is_correct": false },
+        { "option_id": 3, "text": "273 BCE", "is_correct": true },
+        { "option_id": 4, "text": "261 BCE", "is_correct": false }
+      ],
+      "answer": "273 BCE"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which region was conquered by Ashoka leading to his transformation?",
+      "options": [
+        { "option_id": 1, "text": "Magadha", "is_correct": false },
+        { "option_id": 2, "text": "Kalinga", "is_correct": true },
+        { "option_id": 3, "text": "Kosala", "is_correct": false },
+        { "option_id": 4, "text": "Avanti", "is_correct": false }
+      ],
+      "answer": "Kalinga"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which values did Ashoka adopt after the Kalinga war?",
+      "options": [
+        { "option_id": 1, "text": "Expansion and conquest", "is_correct": false },
+        { "option_id": 2, "text": "Truth, non-violence and compassion", "is_correct": true },
+        { "option_id": 3, "text": "Wealth accumulation", "is_correct": false },
+        { "option_id": 4, "text": "Military dominance", "is_correct": false }
+      ],
+      "answer": "Truth, non-violence and compassion"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "In Ashoka’s inscriptions, by what name is he referred to?",
+      "options": [
+        { "option_id": 1, "text": "Dharmashoka", "is_correct": false },
+        { "option_id": 2, "text": "Devanampiyo Piyadasi", "is_correct": true },
+        { "option_id": 3, "text": "Chakravarti", "is_correct": false },
+        { "option_id": 4, "text": "Mahavijayi", "is_correct": false }
+      ],
+      "answer": "Devanampiyo Piyadasi"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which script was used in Ashoka’s inscriptions?",
+      "options": [
+        { "option_id": 1, "text": "Kharosthi", "is_correct": false },
+        { "option_id": 2, "text": "Sanskrit", "is_correct": false },
+        { "option_id": 3, "text": "Brahmi", "is_correct": true },
+        { "option_id": 4, "text": "Greek", "is_correct": false }
+      ],
+      "answer": "Brahmi"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which animals were protected by Ashoka through hunting restrictions?",
+      "options": [
+        { "option_id": 1, "text": "Lions and tigers", "is_correct": false },
+        { "option_id": 2, "text": "Bats, monkeys and rhinoceroses", "is_correct": true },
+        { "option_id": 3, "text": "Cows and horses", "is_correct": false },
+        { "option_id": 4, "text": "Elephants only", "is_correct": false }
+      ],
+      "answer": "Bats, monkeys and rhinoceroses"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which council on Buddhism was convened by Ashoka?",
+      "options": [
+        { "option_id": 1, "text": "First", "is_correct": false },
+        { "option_id": 2, "text": "Second", "is_correct": false },
+        { "option_id": 3, "text": "Third", "is_correct": true },
+        { "option_id": 4, "text": "Fourth", "is_correct": false }
+      ],
+      "answer": "Third"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Whom did Ashoka send to Sri Lanka to spread Buddhism?",
+      "options": [
+        { "option_id": 1, "text": "Chanakya", "is_correct": false },
+        { "option_id": 2, "text": "Mahendra and Sanghamitra", "is_correct": true },
+        { "option_id": 3, "text": "Megasthenes", "is_correct": false },
+        { "option_id": 4, "text": "Bindusara", "is_correct": false }
+      ],
+      "answer": "Mahendra and Sanghamitra"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What was the capital of the Maurya Empire?",
+      "options": [
+        { "option_id": 1, "text": "Rajgriha", "is_correct": false },
+        { "option_id": 2, "text": "Ujjayani", "is_correct": false },
+        { "option_id": 3, "text": "Pataliputra", "is_correct": true },
+        { "option_id": 4, "text": "Takshashila", "is_correct": false }
+      ],
+      "answer": "Pataliputra"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "How many administrative regions was the Maurya Empire divided into?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Four", "is_correct": true },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Four"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which city was the capital of the eastern Maurya province?",
+      "options": [
+        { "option_id": 1, "text": "Ujjayani", "is_correct": false },
+        { "option_id": 2, "text": "Toshali", "is_correct": true },
+        { "option_id": 3, "text": "Suvarnagiri", "is_correct": false },
+        { "option_id": 4, "text": "Takshashila", "is_correct": false }
+      ],
+      "answer": "Toshali"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which occupation flourished during the Maurya period?",
+      "options": [
+        { "option_id": 1, "text": "Ship building", "is_correct": true },
+        { "option_id": 2, "text": "Mining only", "is_correct": false },
+        { "option_id": 3, "text": "Nomadic herding", "is_correct": false },
+        { "option_id": 4, "text": "Subsistence farming only", "is_correct": false }
+      ],
+      "answer": "Ship building"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What was chess called during the Maurya period?",
+      "options": [
+        { "option_id": 1, "text": "Chaturanga", "is_correct": false },
+        { "option_id": 2, "text": "Ashtapad", "is_correct": true },
+        { "option_id": 3, "text": "Pachisi", "is_correct": false },
+        { "option_id": 4, "text": "Dyutam", "is_correct": false }
+      ],
+      "answer": "Ashtapad"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which type of pottery was produced during the Maurya period?",
+      "options": [
+        { "option_id": 1, "text": "Terracotta", "is_correct": false },
+        { "option_id": 2, "text": "Black glazed pottery", "is_correct": true },
+        { "option_id": 3, "text": "Red ware", "is_correct": false },
+        { "option_id": 4, "text": "Stoneware", "is_correct": false }
+      ],
+      "answer": "Black glazed pottery"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which art form was promoted during Ashoka’s reign?",
+      "options": [
+        { "option_id": 1, "text": "Bronze casting", "is_correct": false },
+        { "option_id": 2, "text": "Rock-cut sculpture", "is_correct": true },
+        { "option_id": 3, "text": "Wall painting", "is_correct": false },
+        { "option_id": 4, "text": "Miniature art", "is_correct": false }
+      ],
+      "answer": "Rock-cut sculpture"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Where is the Lion Capital of Ashoka located?",
+      "options": [
+        { "option_id": 1, "text": "Pataliputra", "is_correct": false },
+        { "option_id": 2, "text": "Sarnath", "is_correct": true },
+        { "option_id": 3, "text": "Sanchi", "is_correct": false },
+        { "option_id": 4, "text": "Barabar", "is_correct": false }
+      ],
+      "answer": "Sarnath"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "How many lions are carved on the Lion Capital of Ashoka?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Four", "is_correct": true },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Four"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The Ashoka Chakra on the national flag is derived from which monument?",
+      "options": [
+        { "option_id": 1, "text": "Sanchi Stupa", "is_correct": false },
+        { "option_id": 2, "text": "Ashoka pillar at Sarnath", "is_correct": true },
+        { "option_id": 3, "text": "Barabar caves", "is_correct": false },
+        { "option_id": 4, "text": "Pataliputra palace", "is_correct": false }
+      ],
+      "answer": "Ashoka pillar at Sarnath"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which caves are considered the oldest cave sculptures in India?",
+      "options": [
+        { "option_id": 1, "text": "Ajanta caves", "is_correct": false },
+        { "option_id": 2, "text": "Ellora caves", "is_correct": false },
+        { "option_id": 3, "text": "Barabar caves", "is_correct": true },
+        { "option_id": 4, "text": "Elephanta caves", "is_correct": false }
+      ],
+      "answer": "Barabar caves"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What happened after the death of Emperor Ashoka?",
+      "options": [
+        { "option_id": 1, "text": "Empire expanded further", "is_correct": false },
+        { "option_id": 2, "text": "Maurya Empire began to decline", "is_correct": true },
+        { "option_id": 3, "text": "Capital shifted to Ujjain", "is_correct": false },
+        { "option_id": 4, "text": "Buddhism declined immediately", "is_correct": false }
+      ],
+      "answer": "Maurya Empire began to decline"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which statement best describes the Maurya Empire?",
+      "options": [
+        { "option_id": 1, "text": "A small regional kingdom", "is_correct": false },
+        { "option_id": 2, "text": "The largest empire in ancient India", "is_correct": true },
+        { "option_id": 3, "text": "A coastal trading state", "is_correct": false },
+        { "option_id": 4, "text": "A short-lived confederation", "is_correct": false }
+      ],
+      "answer": "The largest empire in ancient India"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which activity reflects Ashoka’s concern for public welfare?",
+      "options": [
+        { "option_id": 1, "text": "Heavy taxation", "is_correct": false },
+        { "option_id": 2, "text": "Free medical treatment for people and animals", "is_correct": true },
+        { "option_id": 3, "text": "Military recruitment", "is_correct": false },
+        { "option_id": 4, "text": "Expansion of borders", "is_correct": false }
+      ],
+      "answer": "Free medical treatment for people and animals"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which transport-related development was encouraged during Ashoka’s reign?",
+      "options": [
+        { "option_id": 1, "text": "Canal construction", "is_correct": false },
+        { "option_id": 2, "text": "Road building with shade trees", "is_correct": true },
+        { "option_id": 3, "text": "Rail networks", "is_correct": false },
+        { "option_id": 4, "text": "Bridges over rivers", "is_correct": false }
+      ],
+      "answer": "Road building with shade trees"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which body advised the Maurya king in administration?",
+      "options": [
+        { "option_id": 1, "text": "Village councils", "is_correct": false },
+        { "option_id": 2, "text": "Council of Ministers", "is_correct": true },
+        { "option_id": 3, "text": "Trade guilds", "is_correct": false },
+        { "option_id": 4, "text": "Religious assemblies", "is_correct": false }
+      ],
+      "answer": "Council of Ministers"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which service kept watch on enemies and officials during the Maurya period?",
+      "options": [
+        { "option_id": 1, "text": "Military police", "is_correct": false },
+        { "option_id": 2, "text": "Intelligence service", "is_correct": true },
+        { "option_id": 3, "text": "Village guards", "is_correct": false },
+        { "option_id": 4, "text": "Judicial courts", "is_correct": false }
+      ],
+      "answer": "Intelligence service"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which form of entertainment was popular during the Maurya period?",
+      "options": [
+        { "option_id": 1, "text": "Theatre only", "is_correct": false },
+        { "option_id": 2, "text": "Wrestling and chariot races", "is_correct": true },
+        { "option_id": 3, "text": "Bullfighting", "is_correct": false },
+        { "option_id": 4, "text": "Gladiator contests", "is_correct": false }
+      ],
+      "answer": "Wrestling and chariot races"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which metal technology had developed during the Maurya period?",
+      "options": [
+        { "option_id": 1, "text": "Gold refining only", "is_correct": false },
+        { "option_id": 2, "text": "Iron and other metals", "is_correct": true },
+        { "option_id": 3, "text": "Bronze casting only", "is_correct": false },
+        { "option_id": 4, "text": "Copper smelting only", "is_correct": false }
+      ],
+      "answer": "Iron and other metals"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which symbol on the Ashoka pillar represents movement and progress?",
+      "options": [
+        { "option_id": 1, "text": "Lion", "is_correct": false },
+        { "option_id": 2, "text": "Bull", "is_correct": false },
+        { "option_id": 3, "text": "Chakra (wheel)", "is_correct": true },
+        { "option_id": 4, "text": "Elephant", "is_correct": false }
+      ],
+      "answer": "Chakra (wheel)"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which Jain belief is associated with Chandragupta Maurya’s later life?",
+      "options": [
+        { "option_id": 1, "text": "He became a Buddhist monk", "is_correct": false },
+        { "option_id": 2, "text": "He accepted Jainism and lived at Shravanabelagola", "is_correct": true },
+        { "option_id": 3, "text": "He ruled till death", "is_correct": false },
+        { "option_id": 4, "text": "He retired to Pataliputra", "is_correct": false }
+      ],
+      "answer": "He accepted Jainism and lived at Shravanabelagola"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which statement reflects Ashoka’s idea of true victory?",
+      "options": [
+        { "option_id": 1, "text": "Victory through conquest", "is_correct": false },
+        { "option_id": 2, "text": "Victory through compassion and love", "is_correct": true },
+        { "option_id": 3, "text": "Victory through wealth", "is_correct": false },
+        { "option_id": 4, "text": "Victory through fear", "is_correct": false }
+      ],
+      "answer": "Victory through compassion and love"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which factor best explains the historical importance of the Maurya Empire?",
+      "options": [
+        { "option_id": 1, "text": "It was a short-lived dynasty", "is_correct": false },
+        { "option_id": 2, "text": "It unified a vast region under one administration", "is_correct": true },
+        { "option_id": 3, "text": "It focused only on warfare", "is_correct": false },
+        { "option_id": 4, "text": "It avoided cultural development", "is_correct": false }
+      ],
+      "answer": "It unified a vast region under one administration"
+    },
+{
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why did Alexander decide to invade India?",
+      "answer": "He aimed to extend his empire eastwards and gain control over prosperous regions."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What role did Takshashila play during Alexander’s invasion?",
+      "answer": "Takshashila welcomed Alexander and became an important stop in his campaign."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why did Alexander’s soldiers refuse to proceed further in India?",
+      "answer": "They were exhausted and wished to return to their homeland."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What administrative arrangement did Alexander leave behind in India?",
+      "answer": "He appointed provincial governors known as satraps."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How did Alexander’s invasion affect Indo-Western relations?",
+      "answer": "It strengthened trade and cultural contacts between India and the western world."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What artistic influence resulted from Greek contact with India?",
+      "answer": "Greek influence led to the development of the Gandhara school of art."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why are Greek coins historically important?",
+      "answer": "They show portraits of kings and Greek gods, reflecting cultural exchange."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What was the significance of the Iranian currency ‘Darik’?",
+      "answer": "It introduced the idea of uniform currency."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who founded the Maurya Empire?",
+      "answer": "Chandragupta Maurya founded the Maurya Empire."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which ruler was overthrown to establish the Maurya rule?",
+      "answer": "Dhanananda of the Nanda dynasty was overthrown."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who guided Chandragupta Maurya in administration and strategy?",
+      "answer": "Arya Chanakya, also known as Kautilya, guided him."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What historical source describes Chandragupta’s rise to power?",
+      "answer": "The Sanskrit play Mudrarakshasa describes his rise."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is Megasthenes important in Mauryan history?",
+      "answer": "He wrote the book ‘Indica’ describing Mauryan administration and society."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Sudarshan dam?",
+      "answer": "It supported irrigation and agricultural development."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Who succeeded Chandragupta Maurya?",
+      "answer": "Bindusara succeeded Chandragupta Maurya."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "When did Ashoka ascend the Maurya throne?",
+      "answer": "Ashoka ascended the throne in 273 BCE."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which war changed Ashoka’s outlook on life?",
+      "answer": "The Kalinga war changed Ashoka’s outlook."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What values did Ashoka adopt after the Kalinga war?",
+      "answer": "He adopted non-violence, compassion, and truth."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "By what name is Ashoka referred to in his inscriptions?",
+      "answer": "He is referred to as Devanampiyo Piyadasi."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Which script was mainly used for Ashoka’s inscriptions?",
+      "answer": "The Brahmi script was mainly used."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why are Ashoka’s inscriptions important sources of history?",
+      "answer": "They provide direct evidence of his policies and ideas."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which Buddhist council was held during Ashoka’s reign?",
+      "answer": "The Third Buddhist Council was held."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Who spread Buddhism to Sri Lanka under Ashoka?",
+      "answer": "Mahendra and Sanghamitra spread Buddhism to Sri Lanka."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What was the capital of the Maurya Empire?",
+      "answer": "Pataliputra was the capital of the Maurya Empire."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Into how many regions was the Maurya Empire divided?",
+      "answer": "The Maurya Empire was divided into four regions."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What economic activities flourished during the Maurya period?",
+      "answer": "Agriculture, trade, and ship building flourished."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What was chess known as during the Maurya period?",
+      "answer": "Chess was known as Ashtapad."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which type of pottery is associated with the Maurya period?",
+      "answer": "Black glazed pottery is associated with the Maurya period."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which art form developed significantly during Ashoka’s reign?",
+      "answer": "Rock-cut sculpture developed significantly."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Where is the Lion Capital of Ashoka located?",
+      "answer": "The Lion Capital of Ashoka is located at Sarnath."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why is the Lion Capital historically significant?",
+      "answer": "It symbolizes Mauryan art and is India’s national emblem."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which caves are considered the oldest cave sculptures in India?",
+      "answer": "The Barabar caves are the oldest cave sculptures."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What happened to the Maurya Empire after Ashoka’s death?",
+      "answer": "The Maurya Empire gradually declined."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How did Ashoka promote public welfare?",
+      "answer": "He provided medical facilities and promoted social welfare."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What steps did Ashoka take to improve travel facilities?",
+      "answer": "He built roads with shade trees and rest houses."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Which body assisted the Maurya king in administration?",
+      "answer": "The Council of Ministers assisted the king."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why was the intelligence service important in Maurya administration?",
+      "answer": "It monitored officials and external threats."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What forms of entertainment were popular during the Maurya period?",
+      "answer": "Wrestling and chariot races were popular."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Which metal technologies had developed during the Maurya period?",
+      "answer": "Iron and other metal technologies had developed."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What does the Ashoka Chakra symbolize?",
+      "answer": "It symbolizes movement, progress, and righteousness."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Which religious path did Chandragupta Maurya follow in later life?",
+      "answer": "He followed Jainism in his later life."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Where did Chandragupta Maurya spend his last days?",
+      "answer": "He spent his last days at Shravanabelagola."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why is the Maurya Empire considered historically important?",
+      "answer": "It unified a vast region under one administration."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How did Mauryan administration influence later Indian rulers?",
+      "answer": "It provided models of centralized administration."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What role did Buddhism play during Ashoka’s reign?",
+      "answer": "Buddhism spread widely with royal support."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why are Ashoka’s dhamma policies significant?",
+      "answer": "They emphasized moral conduct and non-violence."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How did Mauryan art reflect imperial authority?",
+      "answer": "Through pillars, sculptures, and inscriptions."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why was Pataliputra a suitable capital for the Mauryas?",
+      "answer": "It was centrally located and well connected."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What factors led to the decline of the Maurya Empire?",
+      "answer": "Weak successors and administrative difficulties led to decline."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "How does this chapter highlight Ashoka as a unique ruler?",
+      "answer": "It shows his transformation from conqueror to a ruler of peace."
+    },
+{
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why did Alexander’s invasion create long-term contact between India and the western world?",
+      "answer": "Because it opened routes for trade, cultural exchange, and diplomatic relations."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How did Alexander’s retreat influence political conditions in north-west India?",
+      "answer": "It created a power vacuum that enabled the rise of new Indian rulers."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why was Greek administrative practice significant for Indian territories?",
+      "answer": "It introduced provincial governance through appointed governors."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How did Greek artistic traditions influence Indian sculpture?",
+      "answer": "They introduced realistic human figures and new artistic styles."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why was Chandragupta Maurya’s overthrow of the Nandas historically important?",
+      "answer": "It marked the foundation of a powerful centralized empire."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How did Chanakya contribute to the success of the Maurya Empire?",
+      "answer": "He guided statecraft, administration, and strategic planning."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why did Chandragupta’s conflict with Seleucus strengthen the Maurya Empire?",
+      "answer": "It expanded territory and secured western boundaries."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How does the Sudarshan dam reflect Mauryan administrative priorities?",
+      "answer": "It shows emphasis on irrigation and agricultural support."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why is Megasthenes’ account valuable for historians?",
+      "answer": "Because it provides an external description of Mauryan society and administration."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How did Bindusara help maintain the Maurya Empire?",
+      "answer": "He preserved territorial unity and administrative stability."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why was the Kalinga war a turning point in Ashoka’s life?",
+      "answer": "It led to remorse and adoption of non-violence."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How did Ashoka redefine the idea of victory?",
+      "answer": "By promoting moral conquest instead of military conquest."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why were Ashoka’s dhamma policies effective across a vast empire?",
+      "answer": "They were simple, ethical, and applicable to all subjects."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How did inscriptions help Ashoka communicate with his subjects?",
+      "answer": "They spread royal messages in local languages and scripts."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why was the Third Buddhist Council important for Buddhism?",
+      "answer": "It helped organize and spread Buddhist teachings."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How did Ashoka’s missions help internationalize Buddhism?",
+      "answer": "They carried Buddhist teachings beyond India."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why was Pataliputra suitable as the imperial capital?",
+      "answer": "Because of its central location and administrative advantages."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How did provincial administration ensure control over distant regions?",
+      "answer": "Through governors appointed to manage each region."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why was shipbuilding important for Mauryan trade?",
+      "answer": "It supported maritime trade and communication."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How does Ashtapad reflect leisure life in the Maurya period?",
+      "answer": "It shows organized recreation and intellectual engagement."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why is black glazed pottery considered a marker of Mauryan culture?",
+      "answer": "It indicates technological skill and aesthetic sense."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "How did rock-cut caves reflect royal patronage?",
+      "answer": "They were state-supported structures for religious use."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is the Lion Capital considered a symbol of sovereignty?",
+      "answer": "It represents authority, power, and moral governance."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How does the Ashoka Chakra symbolize governance ideals?",
+      "answer": "It represents movement guided by righteousness."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why did the Maurya Empire begin to weaken after Ashoka?",
+      "answer": "Due to weak successors and administrative strain."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "How did the size of the Maurya Empire affect governance?",
+      "answer": "It required strong central control and efficient administration."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why is Ashoka remembered as a unique emperor?",
+      "answer": "Because he ruled through ethics rather than force."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How did Mauryan intelligence services support imperial stability?",
+      "answer": "They monitored officials and potential threats."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why were roads and rest houses important for administration?",
+      "answer": "They improved communication and movement across the empire."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How did Mauryan administration influence later Indian empires?",
+      "answer": "It provided models of centralized governance."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why is Chandragupta’s later acceptance of Jainism significant?",
+      "answer": "It reflects the influence of religious ideas on rulers."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "How did religious tolerance strengthen Mauryan rule?",
+      "answer": "It promoted unity among diverse communities."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why was public welfare central to Ashoka’s governance?",
+      "answer": "Because he believed moral duty ensured stable rule."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How did Ashoka balance authority with compassion?",
+      "answer": "By enforcing laws while promoting ethical behavior."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is the Maurya period considered a golden phase of administration?",
+      "answer": "Due to strong governance, unity, and welfare policies."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How did Mauryan art serve political purposes?",
+      "answer": "It projected imperial authority and moral values."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why was discipline important in Mauryan military organization?",
+      "answer": "It ensured control over vast territories."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How did trade prosperity support imperial power?",
+      "answer": "It increased revenue and strengthened administration."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is the Maurya Empire considered India’s first great empire?",
+      "answer": "Because it unified a vast region under one rule."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "How does the chapter connect moral values with political success?",
+      "answer": "By showing how ethical rule ensured stability."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why did Ashoka prefer persuasion over punishment?",
+      "answer": "He believed moral reform was more effective."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "How did Mauryan rulers use religion for social harmony?",
+      "answer": "By promoting tolerance and ethical conduct."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is the Maurya administration studied even today?",
+      "answer": "It provides early examples of effective governance."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How did Ashoka’s policies influence later rulers?",
+      "answer": "They inspired ideas of welfare-oriented governance."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why did moral authority strengthen Ashoka’s legitimacy?",
+      "answer": "It earned loyalty and respect of subjects."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How did cultural achievements reflect Mauryan prosperity?",
+      "answer": "They showed state support for art and learning."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why was centralization essential for Mauryan success?",
+      "answer": "It ensured uniform control over the empire."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How does the chapter illustrate the evolution of kingship?",
+      "answer": "By showing a shift from conquest to moral rule."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is Ashoka’s reign often seen as a model of ideal governance?",
+      "answer": "Because it combined power with ethics."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "How does this chapter highlight the legacy of the Maurya Empire?",
+      "answer": "By emphasizing unity, administration, and moral leadership."
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.MAR.23",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "मंगळावरची शाळा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "मंगळावरची मुले कुठे आली?",
+      "options": [
+        { "option_id": 1, "text": "चंद्रावर", "is_correct": false },
+        { "option_id": 2, "text": "पृथ्वीवर", "is_correct": true },
+        { "option_id": 3, "text": "सूर्यावर", "is_correct": false },
+        { "option_id": 4, "text": "शनीवर", "is_correct": false }
+      ],
+      "answer": "पृथ्वीवर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मंगळावरच्या शाळेत मुलांकडे काय नसते?",
+      "options": [
+        { "option_id": 1, "text": "खेळणी", "is_correct": false },
+        { "option_id": 2, "text": "पुस्तकाचे ओझे", "is_correct": true },
+        { "option_id": 3, "text": "डबा", "is_correct": false },
+        { "option_id": 4, "text": "पाणी बाटली", "is_correct": false }
+      ],
+      "answer": "पुस्तकाचे ओझे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "मंगळावरच्या वर्गात काय असते?",
+      "options": [
+        { "option_id": 1, "text": "फळा", "is_correct": false },
+        { "option_id": 2, "text": "खडू", "is_correct": false },
+        { "option_id": 3, "text": "संगणक पेटी", "is_correct": true },
+        { "option_id": 4, "text": "खेळाचे मैदान", "is_correct": false }
+      ],
+      "answer": "संगणक पेटी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शिक्षकांच्या हातात काय नसते?",
+      "options": [
+        { "option_id": 1, "text": "पेन्सिल", "is_correct": false },
+        { "option_id": 2, "text": "वही", "is_correct": false },
+        { "option_id": 3, "text": "पुस्तक", "is_correct": true },
+        { "option_id": 4, "text": "खडू", "is_correct": false }
+      ],
+      "answer": "पुस्तक"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मुलांपाशी काय असते?",
+      "options": [
+        { "option_id": 1, "text": "संगणक डबी", "is_correct": true },
+        { "option_id": 2, "text": "मोठे पाठीवरचे दप्तर", "is_correct": false },
+        { "option_id": 3, "text": "खेळणी", "is_correct": false },
+        { "option_id": 4, "text": "कागदांची पिशवी", "is_correct": false }
+      ],
+      "answer": "संगणक डबी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "संगणक डबीत काय असते?",
+      "options": [
+        { "option_id": 1, "text": "खेळ", "is_correct": false },
+        { "option_id": 2, "text": "सगळी खुबी", "is_correct": true },
+        { "option_id": 3, "text": "फळे", "is_correct": false },
+        { "option_id": 4, "text": "कथा", "is_correct": false }
+      ],
+      "answer": "सगळी खुबी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवितेत काय चमकू लागले?",
+      "options": [
+        { "option_id": 1, "text": "तारा", "is_correct": false },
+        { "option_id": 2, "text": "सूर्य", "is_correct": false },
+        { "option_id": 3, "text": "तबकडी", "is_correct": true },
+        { "option_id": 4, "text": "विजेचा दिवा", "is_correct": false }
+      ],
+      "answer": "तबकडी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "तबकडी काय करू लागली?",
+      "options": [
+        { "option_id": 1, "text": "थांबली", "is_correct": false },
+        { "option_id": 2, "text": "पडली", "is_correct": false },
+        { "option_id": 3, "text": "भुर्रकन गेली", "is_correct": true },
+        { "option_id": 4, "text": "गाणे म्हणाली", "is_correct": false }
+      ],
+      "answer": "भुर्रकन गेली"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मंगळावरच्या शाळेत कोणते ओझे नसते?",
+      "options": [
+        { "option_id": 1, "text": "जेवणाचा डबा", "is_correct": false },
+        { "option_id": 2, "text": "खेळण्यांचे ओझे", "is_correct": false },
+        { "option_id": 3, "text": "पुस्तकाचे ओझे", "is_correct": true },
+        { "option_id": 4, "text": "पाण्याची बाटली", "is_correct": false }
+      ],
+      "answer": "पुस्तकाचे ओझे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या ग्रहावरच्या शाळेबद्दल आहे?",
+      "options": [
+        { "option_id": 1, "text": "पृथ्वी", "is_correct": false },
+        { "option_id": 2, "text": "चंद्र", "is_correct": false },
+        { "option_id": 3, "text": "मंगळ", "is_correct": true },
+        { "option_id": 4, "text": "बृहस्पति", "is_correct": false }
+      ],
+      "answer": "मंगळ"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "मंगळावरची मुले काय सांगू लागली?",
+      "options": [
+        { "option_id": 1, "text": "खेळांची माहिती", "is_correct": false },
+        { "option_id": 2, "text": "शाळेतल्या गंमती", "is_correct": true },
+        { "option_id": 3, "text": "कथा", "is_correct": false },
+        { "option_id": 4, "text": "गाणी", "is_correct": false }
+      ],
+      "answer": "शाळेतल्या गंमती"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "शिक्षकांच्या हातात पुस्तक का नसते?",
+      "options": [
+        { "option_id": 1, "text": "ते हरवले", "is_correct": false },
+        { "option_id": 2, "text": "कारण संगणक वापरतात", "is_correct": true },
+        { "option_id": 3, "text": "त्यांना वाचता येत नाही", "is_correct": false },
+        { "option_id": 4, "text": "त्यांना गरज नाही", "is_correct": false }
+      ],
+      "answer": "कारण संगणक वापरतात"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "संगणक डबीत असलेल्या ‘खुबी’चा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "मजेदार खेळ", "is_correct": false },
+        { "option_id": 2, "text": "ज्ञान आणि माहिती", "is_correct": true },
+        { "option_id": 3, "text": "पुस्तकांचे चित्र", "is_correct": false },
+        { "option_id": 4, "text": "खेळणी", "is_correct": false }
+      ],
+      "answer": "ज्ञान आणि माहिती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवितेतील तबकडी कशी दाखवली आहे?",
+      "options": [
+        { "option_id": 1, "text": "जड", "is_correct": false },
+        { "option_id": 2, "text": "गोल आणि चमकणारी", "is_correct": true },
+        { "option_id": 3, "text": "कागदी", "is_correct": false },
+        { "option_id": 4, "text": "लाकडी", "is_correct": false }
+      ],
+      "answer": "गोल आणि चमकणारी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या कवीने लिहिली आहे?",
+      "options": [
+        { "option_id": 1, "text": "मंदाकिनी गोडसे", "is_correct": false },
+        { "option_id": 2, "text": "राजीव तांबे", "is_correct": false },
+        { "option_id": 3, "text": "फादर फिलीप कार्व्हालो", "is_correct": true },
+        { "option_id": 4, "text": "ग. ह. पाटील", "is_correct": false }
+      ],
+      "answer": "फादर फिलीप कार्व्हालो"
+    },
+
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवर कोण आली?",
+      "answer": "मंगळावरची मुले पृथ्वीवर आली."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "मंगळावरच्या शाळेत पुस्तकाचे ओझे का नसते?",
+      "answer": "कारण तेथे संगणक डबी वापरतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मुलांपाशी कोणती डबी असते?",
+      "answer": "मुलांपाशी संगणक डबी असते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "शिक्षकांच्या हातात पुस्तक का नसते?",
+      "answer": "कारण शिकवण्यासाठी संगणक वापरला जातो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "संगणक डबीत काय असते?",
+      "answer": "सगळी माहिती आणि खुबी असते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "तबकडी अचानक काय करू लागली?",
+      "answer": "तबकडी चमकू लागली आणि भुर्रकन गेली."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणत्या ग्रहावरील शाळेबद्दल आहे?",
+      "answer": "ही कविता मंगळावरील शाळेबद्दल आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "मंगळावरच्या शाळेत पाटी-पेन्सिल का नसते?",
+      "answer": "कारण तेथे संगणकावर शिक्षण दिले जाते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवरील शाळेबद्दल मुले काय सांगू लागली?",
+      "answer": "ती शाळेतल्या गंमती सांगू लागली."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "तुला या कवितेतली कोणती गोष्ट वेगळी वाटली?",
+      "answer": "मंगळावर पुस्तकांशिवाय संगणकावर शिकतात ही गोष्ट."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तुला संगणक डबी कशासाठी उपयुक्त वाटते?",
+      "answer": "तीत सर्व शिकण्याची माहिती असते म्हणून."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "तुझ्या शाळेत काय वेगळे आहे?",
+      "answer": "आमच्या शाळेत पुस्तकं, पाटी आणि वही वापरतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "तुला मंगळावरील शाळेत जायला आवडेल का? का?",
+      "answer": "हो, कारण तिथे संगणकावर शिकायला मिळते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "या कवितेतून तुला काय समजले?",
+      "answer": "भविष्यातील तंत्रज्ञानाधारित शाळांची कल्पना समजली."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "‘भुर्रकन गेली’ या ओळीचा अर्थ लिहा.",
+      "answer": "अतिशय वेगाने उडत निघून गेली."
+    }
+  ]
+}

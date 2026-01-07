@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.02",
+    "standard": "2",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "मांजराची गंमत"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "गोष्टीचे नाव काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "मांजराची गंमत", "is_correct": true },
+        { "option_id": 2, "text": "उंदराची गंमत", "is_correct": false },
+        { "option_id": 3, "text": "दूधवाला", "is_correct": false },
+        { "option_id": 4, "text": "हुशार उंदीर", "is_correct": false }
+      ],
+      "answer": "मांजराची गंमत"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "घरी दूध घेऊन कोण आले?",
+      "options": [
+        { "option_id": 1, "text": "भाजीवाला", "is_correct": false },
+        { "option_id": 2, "text": "दूधवाला", "is_correct": true },
+        { "option_id": 3, "text": "पेपरवाला", "is_correct": false },
+        { "option_id": 4, "text": "पोस्टमन", "is_correct": false }
+      ],
+      "answer": "दूधवाला"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "दूधवाला आला तेव्हा बाई काय करत होत्या?",
+      "options": [
+        { "option_id": 1, "text": "जेवत होत्या", "is_correct": false },
+        { "option_id": 2, "text": "वाचत होत्या", "is_correct": false },
+        { "option_id": 3, "text": "झोपल्या होत्या", "is_correct": true },
+        { "option_id": 4, "text": "काम करत होत्या", "is_correct": false }
+      ],
+      "answer": "झोपल्या होत्या"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "दूध कशात घेतले?",
+      "options": [
+        { "option_id": 1, "text": "ग्लासमध्ये", "is_correct": false },
+        { "option_id": 2, "text": "पातेल्यात", "is_correct": true },
+        { "option_id": 3, "text": "वाटीत", "is_correct": false },
+        { "option_id": 4, "text": "ताटात", "is_correct": false }
+      ],
+      "answer": "पातेल्यात"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पातेले कोणाच्या हातात होते?",
+      "options": [
+        { "option_id": 1, "text": "बाईंच्या", "is_correct": false },
+        { "option_id": 2, "text": "दूधवाल्याच्या", "is_correct": false },
+        { "option_id": 3, "text": "मांजराच्या", "is_correct": true },
+        { "option_id": 4, "text": "मुलाच्या", "is_correct": false }
+      ],
+      "answer": "मांजराच्या"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मांजराची नजर कोणावर पडली?",
+      "options": [
+        { "option_id": 1, "text": "उंदरावर", "is_correct": true },
+        { "option_id": 2, "text": "कुत्र्यावर", "is_correct": false },
+        { "option_id": 3, "text": "चिमणीवर", "is_correct": false },
+        { "option_id": 4, "text": "पाल", "is_correct": false }
+      ],
+      "answer": "उंदरावर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "उंदीर पाहून मांजर काय करू लागले?",
+      "options": [
+        { "option_id": 1, "text": "पळू लागले", "is_correct": false },
+        { "option_id": 2, "text": "रडू लागले", "is_correct": false },
+        { "option_id": 3, "text": "धावू लागले", "is_correct": true },
+        { "option_id": 4, "text": "झोपू लागले", "is_correct": false }
+      ],
+      "answer": "धावू लागले"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "धावताना मांजराकडून काय सांडले?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "तेल", "is_correct": false },
+        { "option_id": 3, "text": "दूध", "is_correct": true },
+        { "option_id": 4, "text": "चहा", "is_correct": false }
+      ],
+      "answer": "दूध"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "उंदीर कोठे पळाला?",
+      "options": [
+        { "option_id": 1, "text": "बिळात", "is_correct": true },
+        { "option_id": 2, "text": "घराबाहेर", "is_correct": false },
+        { "option_id": 3, "text": "झाडावर", "is_correct": false },
+        { "option_id": 4, "text": "कपाटात", "is_correct": false }
+      ],
+      "answer": "बिळात"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'पातेले' या शब्दाचे अनेकवचन ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "पातेले", "is_correct": false },
+        { "option_id": 2, "text": "पातेली", "is_correct": true },
+        { "option_id": 3, "text": "पातेल्या", "is_correct": false },
+        { "option_id": 4, "text": "पातेल", "is_correct": false }
+      ],
+      "answer": "पातेली"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'मांजर' या शब्दाचे अनेकवचन काय?",
+      "options": [
+        { "option_id": 1, "text": "मांजरे", "is_correct": true },
+        { "option_id": 2, "text": "मांजर", "is_correct": false },
+        { "option_id": 3, "text": "मांजरू", "is_correct": false },
+        { "option_id": 4, "text": "मांजरी", "is_correct": false }
+      ],
+      "answer": "मांजरे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "दुधाचा रंग कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "लाल", "is_correct": false },
+        { "option_id": 2, "text": "काळा", "is_correct": false },
+        { "option_id": 3, "text": "पांढरा", "is_correct": true },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "पांढरा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शेवटी मांजर कसे झाले?",
+      "options": [
+        { "option_id": 1, "text": "आनंदी", "is_correct": false },
+        { "option_id": 2, "text": "निराश", "is_correct": true },
+        { "option_id": 3, "text": "उत्साही", "is_correct": false },
+        { "option_id": 4, "text": "श्रीमंत", "is_correct": false }
+      ],
+      "answer": "निराश"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "चित्रात किती प्राणी आहेत?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "उंदीर कसा पळतो?",
+      "options": [
+        { "option_id": 1, "text": "तुरुतुरु", "is_correct": true },
+        { "option_id": 2, "text": "सावकाश", "is_correct": false },
+        { "option_id": 3, "text": "जोरात", "is_correct": false },
+        { "option_id": 4, "text": "हळूहळू", "is_correct": false }
+      ],
+      "answer": "तुरुतुरु"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "या पाठातील दोन प्राण्यांची नावे सांगा.",
+      "answer": "या पाठात मांजर आणि उंदीर हे दोन प्राणी आहेत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "दूधवाला काय घेऊन आला?",
+      "answer": "दूधवाला दूध घेऊन आला."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मांजर कोणाच्या मागे धावले?",
+      "answer": "मांजर उंदराच्या मागे धावले."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मांजराच्या हातात काय होते?",
+      "answer": "मांजराच्या हातात दुधाचे पातेले होते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "उंदीर कोठे लपला?",
+      "answer": "उंदीर बिळात लपला."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "दूध का सांडले?",
+      "answer": "मांजर उंदराच्या मागे धावल्यामुळे दूध सांडले."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "चित्रात बाई काय करत आहेत?",
+      "answer": "चित्रात बाई झोपलेल्या आहेत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "मांजराला दूध मिळाले का?",
+      "answer": "नाही, दूध सांडल्यामुळे मांजराला दूध मिळाले नाही."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "'उंदीर' या शब्दाचे अनेकवचन लिहा.",
+      "answer": "उंदीर (अनेकवचन उंदीरच राहते)."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "या गोष्टीतून काय शिकायला मिळते?",
+      "answer": "एका वेळी एकच काम करावे, अति घाई करू नये."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "मांजराची फजिती का झाली?",
+      "answer": "लोभामुळे आणि एकाच वेळी दोन गोष्टी करण्याच्या नादात मांजराची फजिती झाली."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "तुम्ही घरात उंदीर पाहिल्यावर काय करता?",
+      "answer": "आम्ही घरात उंदीर पाहिल्यावर त्याला पळवून लावतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मांजर कशासाठी थांबले होते?",
+      "answer": "मांजर दुधासाठी थांबले होते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "वाक्यात उपयोग करा: 'गंमत'.",
+      "answer": "आज शाळेत खूप गंमत झाली."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "दूध कोणत्या रंगाचे असते?",
+      "answer": "दूध पांढऱ्या रंगाचे असते."
+    }
+  ]
+}
